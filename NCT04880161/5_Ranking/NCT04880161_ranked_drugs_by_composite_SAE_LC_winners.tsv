@@ -1,0 +1,43 @@
+rank	drug	file_base	safety_score	efficacy_score	ae_score	safety_norm	efficacy_norm	ae_inverse_norm	composite_score	rank_num	drug_norm	drug_match	hard_block_reasons	soft_block_reasons	keep_hints	hard_blocked	soft_blocked	kept_by_hints	kept_by_top	hard_whitelist	lc_keep	lc_status
+2	Temozolomide	NCT04880161_CF_Temozolomide	0.608306	0.986059	5.176423520129172	0.0	0.9919551391599614	0.0	0.3967820556639845	2	temozolomide	temozolomide				False	False	False	True	False	True	KEEP
+6	Paclitaxel	NCT04880161_CF_Paclitaxel	0.608306	0.981167	5.176423520129172	0.0	0.9841418655388634	0.0	0.3936567462155453	6	paclitaxel	paclitaxel				False	False	False	True	False	True	KEEP
+8	Belinostat	NCT04880161_CF_Belinostat	0.608306	0.977742	5.176423520129172	0.0	0.9786716157121546	0.0	0.3914686462848618	8	belinostat	belinostat				False	False	False	True	False	True	KEEP
+9	Everolimus	NCT04880161_CF_Everolimus	0.608306	0.977231	5.176423520129172	0.0	0.977855470409542	0.0	0.3911421881638168	9	everolimus	everolimus				False	False	False	True	False	True	KEEP
+10	Pazopanib	NCT04880161_CF_Pazopanib	0.608306	0.976283	5.176423520129172	0.0	0.9763413691436384	0.0	0.3905365476574554	10	pazopanib	pazopanib				False	False	False	True	False	True	KEEP
+12	Romidepsin	NCT04880161_CF_Romidepsin	0.608306	0.976078	5.176423520129172	0.0	0.976013952730653	0.0	0.3904055810922612	12	romidepsin	romidepsin				False	False	False	True	False	True	KEEP
+13	Temsirolimus	NCT04880161_CF_Temsirolimus	0.608306	0.97593	5.176423520129172	0.0	0.9757775740520096	0.0	0.3903110296208039	13	temsirolimus	temsirolimus				False	False	False	True	False	True	KEEP
+16	Midostaurin	NCT04880161_CF_Midostaurin	0.608306	0.973973	5.176423520129172	0.0	0.9726519451729236	0.0	0.3890607780691695	16	midostaurin	midostaurin				False	False	False	True	False	True	KEEP
+18	Doxorubicin	NCT04880161_CF_Doxorubicin	0.608306	0.972137	5.176423520129172	0.0	0.9697195718351612	0.0	0.3878878287340644	18	doxorubicin	doxorubicin				False	False	False	True	False	True	KEEP
+19	Dabrafenib	NCT04880161_CF_Dabrafenib	0.608306	0.971762	5.176423520129172	0.0	0.9691206393723828	0.0	0.3876482557489531	19	dabrafenib	dabrafenib				False	False	False	True	False	True	KEEP
+21	Dacarbazine	NCT04880161_CF_Dacarbazine	0.608306	0.971064	5.176423520129172	0.0	0.968005826414998	0.0	0.3872023305659992	21	dacarbazine	dacarbazine				False	False	False	True	False	True	KEEP
+22	Lomustine	NCT04880161_CF_Lomustine	0.608306	0.970775	5.176423520129172	0.0	0.96754424913035	0.0	0.38701769965214	22	lomustine	lomustine				False	False	False	True	False	True	KEEP
+25	Fulvestrant	NCT04880161_CF_Fulvestrant	0.608306	0.970123	5.176423520129172	0.0	0.9665029052217324	0.0	0.386601162088693	25	fulvestrant	fulvestrant				False	False	False	True	False	True	KEEP
+27	Venetoclax	NCT04880161_CF_Venetoclax	0.608306	0.969885	5.176423520129172	0.0	0.9661227827520228	0.0	0.3864491131008091	27	venetoclax	venetoclax				False	False	False	True	False	True	KEEP
+32	Vorinostat	NCT04880161_CF_Vorinostat	0.608306	0.965868	5.176423520129172	0.0	0.9597070182107412	0.0	0.3838828072842964	32	vorinostat	vorinostat				False	False	False	True	False	True	KEEP
+36	Ixazomib	NCT04880161_CF_Ixazomib	0.608306	0.962089	5.176423520129172	0.0	0.9536713761391696	0.0	0.3814685504556678	36	ixazomib	ixazomib				False	False	False	True	False	True	KEEP
+38	Docetaxel	NCT04880161_CF_Docetaxel	0.608306	0.961174	5.176423520129172	0.0	0.9522099809299904	0.0	0.3808839923719962	38	docetaxel	docetaxel				False	False	False	True	False	True	KEEP
+40	Carboplatin	NCT04880161_CF_Carboplatin	0.608306	0.958109	5.176423520129172	0.0	0.9473147062675484	0.0	0.3789258825070194	40	carboplatin	carboplatin				False	False	False	True	False	True	KEEP
+42	Irinotecan	NCT04880161_CF_Irinotecan	0.608306	0.955518	5.176423520129172	0.0	0.9431764822380588	0.0	0.3772705928952235	42	irinotecan	irinotecan				False	False	False	True	False	True	KEEP
+43	Carfilzomib	NCT04880161_CF_Carfilzomib	0.608306	0.95526	5.176423520129172	0.0	0.9427644167036674	0.0	0.377105766681467	43	carfilzomib	carfilzomib				False	False	False	True	False	True	KEEP
+45	Decitabine	NCT04880161_CF_Decitabine	0.608306	0.954671	5.176423520129172	0.0	0.941823693448797	0.0	0.3767294773795188	45	decitabine	decitabine				False	False	False	True	False	True	KEEP
+46	Bendamustine	NCT04880161_CF_Bendamustine	0.608306	0.953635	5.176423520129172	0.0	0.9401690426982946	0.0	0.3760676170793178	46	bendamustine	bendamustine				False	False	False	True	False	True	KEEP
+47	Azacitidine	NCT04880161_CF_Azacitidine	0.608306	0.953106	5.176423520129172	0.0	0.9393241486374686	0.0	0.3757296594549875	47	azacitidine	azacitidine				False	False	False	True	False	True	KEEP
+48	Deoxycholic_acid	NCT04880161_CF_Deoxycholic_acid	0.608306	0.953028	5.176423520129172	0.0	0.9391995706852106	0.0	0.3756798282740843	48	deoxycholic_acid	deoxycholic acid			bile_acids_metabolic_fibrotic	False	False	True	True	False	True	KEEP
+49	Mitomycin	NCT04880161_CF_Mitomycin	0.608306	0.952928	5.176423520129172	0.0	0.9390398553618032	0.0	0.3756159421447212	49	mitomycin	mitomycin				False	False	False	True	False	True	KEEP
+50	Eptifibatide	NCT04880161_CF_Eptifibatide	0.608306	0.952905	5.176423520129172	0.0	0.9390031208374192	0.0	0.3756012483349677	50	eptifibatide	eptifibatide				False	False	False	True	False	True	KEEP
+51	Idarubicin	NCT04880161_CF_Idarubicin	0.608306	0.952476	5.176423520129172	0.0	0.9383179421000007	0.0	0.3753271768400004	51	idarubicin	idarubicin				False	False	False	True	False	True	KEEP
+54	Vemurafenib	NCT04880161_CF_Vemurafenib	0.608306	0.949921	5.176423520129172	0.0	0.934237215586938	0.0	0.3736948862347752	54	vemurafenib	vemurafenib				False	False	False	True	False	True	KEEP
+56	Pomalidomide	NCT04880161_CF_Pomalidomide	0.608306	0.946838	5.176423520129172	0.0	0.9293131921662826	0.0	0.3717252768665131	56	pomalidomide	pomalidomide				False	False	False	True	False	True	KEEP
+57	Mitoxantrone	NCT04880161_CF_Mitoxantrone	0.608306	0.946337	5.176423520129172	0.0	0.928513018396011	0.0	0.3714052073584044	57	mitoxantrone	mitoxantrone				False	False	False	True	False	True	KEEP
+58	Epirubicin	NCT04880161_CF_Epirubicin	0.608306	0.945339	5.176423520129172	0.0	0.9269190594684036	0.0	0.3707676237873614	58	epirubicin	epirubicin				False	False	False	True	False	True	KEEP
+85	Flumazenil	NCT04880161_CF_Flumazenil	0.608306	0.927789	5.176423520129172	0.0	0.898889020210377	0.0	0.3595556080841508	85	flumazenil	flumazenil			neuro_cognitive_psych	False	False	True	False	False	True	KEEP
+96	Ramelteon	NCT04880161_CF_Ramelteon	0.608306	0.920039	5.176423520129172	0.0	0.8865110826462914	0.0	0.3546044330585166	96	ramelteon	ramelteon			neuro_cognitive_psych	False	False	True	False	False	True	KEEP
+105	Resveratrol	NCT04880161_CF_Resveratrol	0.608306	0.915706	5.176423520129172	0.0	0.8795906176830417	0.0	0.3518362470732167	105	resveratrol	resveratrol			low_risk_supportive	False	False	True	False	False	True	KEEP
+132	Vardenafil	NCT04880161_CF_Vardenafil	0.608306	0.899196	5.176423520129172	0.0	0.8532216177884537	0.0	0.3412886471153815	132	vardenafil	vardenafil			pulmonary_vascular_endothelial	False	False	True	False	False	True	KEEP
+135	Tyrosine	NCT04880161_CF_Tyrosine	0.608306	0.896543	5.176423520129172	0.0	0.8489843702584512	0.0	0.3395937481033805	135	tyrosine	tyrosine			low_risk_supportive	False	False	True	False	False	True	KEEP
+160	Selexipag	NCT04880161_CF_Selexipag	0.608306	0.888	5.176423520129172	0.0	0.8353398901797435	0.0	0.3341359560718974	160	selexipag	selexipag			pulmonary_vascular_endothelial	False	False	True	False	False	True	KEEP
+161	Riboflavin	NCT04880161_CF_Riboflavin	0.608306	0.887626	5.176423520129172	0.0	0.8347425548701994	0.0	0.3338970219480798	161	riboflavin	riboflavin			low_risk_supportive	False	False	True	False	False	True	KEEP
+167	Modafinil	NCT04880161_CF_Modafinil	0.608306	0.885897	5.176423520129172	0.0	0.8319810769284827	0.0	0.3327924307713931	167	modafinil	modafinil			neuro_cognitive_psych	False	False	True	False	False	True	KEEP
+207	Tadalafil	NCT04880161_CF_Tadalafil	0.608306	0.868947	5.176423520129172	0.0	0.8049093296109014	0.0	0.3219637318443606	207	tadalafil	tadalafil			pulmonary_vascular_endothelial	False	False	True	False	False	True	KEEP
+208	Ivabradine	NCT04880161_CF_Ivabradine	0.608306	0.866506	5.176423520129172	0.0	0.8010106785665231	0.0	0.3204042714266092	208	ivabradine	ivabradine			autonomic_pots	False	False	True	False	False	True	KEEP
+211	Pimavanserin	NCT04880161_CF_Pimavanserin	0.608306	0.865604	5.176423520129172	0.0	0.799570046349387	0.0	0.3198280185397548	211	pimavanserin	pimavanserin			neuro_cognitive_psych	False	False	True	False	False	True	KEEP

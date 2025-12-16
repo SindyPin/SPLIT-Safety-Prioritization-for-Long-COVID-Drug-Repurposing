@@ -38,8 +38,6 @@ A computational framework that combines causal gene discovery with clinical know
 | **Multi-method convergent** | **11** |
 | **Total unique genes** | **1,725** |
 
-![Causal Gene Venn Diagram](Figures/Fig1_Causal_Gene_Venn.png)
-
 ### Safety-Coverage Trade-off
 
 A critical finding: **maximizing causal gene coverage does not improve efficacy but substantially compromises safety**.
@@ -50,8 +48,6 @@ A critical finding: **maximizing causal gene coverage does not improve efficacy 
 | Leronlimab | 1 | 0.441 | 0.521 |
 | Vortioxetine | 11 | 0.332 | 0.521 |
 | Ritonavir | 70 | 0.215 | 0.527 |
-
-![Safety-Coverage Trade-off](Figures/Fig2_Safety_Coverage_Tradeoff.png)
 
 ### Deprioritization Outputs
 
@@ -65,8 +61,6 @@ From 1,625 screened drugs, we generated multi-tier avoid lists:
 | Threshold-based | Any extreme | 855 | ≥1 extreme flag |
 | Multi-extreme | ≥2 flags | 121 | Highest concern |
 | Delta (vs Niagen) | Any worse | 457 | Worse than original |
-
-![Avoid List Concordance](Figures/Fig5_Avoid_List_Venn.png)
 
 **113 drugs** appear in all three avoid lists, representing the highest-confidence deprioritization targets.
 
@@ -233,28 +227,6 @@ avoid_lists = generator.generate_all(
 # Export results
 avoid_lists.to_csv('results/avoid_lists.csv')
 ```
-
----
-
-## 📈 Figures
-
-### Figure 1: Causal Gene Evidence Distribution
-![Fig1](Figures/Fig1_Causal_Gene_Venn.png)
-
-### Figure 2: Safety-Coverage Trade-off
-![Fig2](Figures/Fig2_Safety_Coverage_Tradeoff.png)
-
-### Figure 3: Counterfactual Drug Comparison
-![Fig3](Figures/Fig3_Counterfactual_Comparison.png)
-
-### Figure 4: Adverse Event Heatmap
-![Fig4](Figures/Fig4_AE_Heatmap.png)
-
-### Figure 5: Avoid List Concordance
-![Fig5](Figures/Fig5_Avoid_List_Venn.png)
-
-### Figure 6: Composite Score Distribution
-![Fig6](Figures/Fig6_Composite_Distribution.png)
 
 ---
 

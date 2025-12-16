@@ -1,0 +1,280 @@
+{
+  "nct_id": "NCT04809974_CF_Mebendazole",
+  "arm_group": [
+    {
+      "type": "PLACEBO_COMPARATOR",
+      "description": "Placebo: 40 participants will take placebo in the form of a capsule.",
+      "interventionNames": [
+        "Drug: Mebendazole"
+      ],
+      "arm_group_label": "Placebo",
+      "is_incomplete": false,
+      "non_drug": false
+    },
+    {
+      "type": "EXPERIMENTAL",
+      "description": "Supplement: 60 participants will take Mebendazole 2000mg in the form of capsules daily.",
+      "interventionNames": [
+        "Drug: Mebendazole"
+      ],
+      "arm_group_label": "Mebendazole",
+      "is_incomplete": false,
+      "non_drug": false
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Mebendazole",
+      "description": "Replacement drug: Mebendazole",
+      "other_name": [],
+      "arm_group_label": [
+        "Mebendazole",
+        "Placebo"
+      ],
+      "medex_out": [
+        {
+          "drug_name": "Mebendazole",
+          "generic_name": "mebendazole",
+          "brand_name": "",
+          "drugbank_id": "DB00643",
+          "rxnorm_id": null,
+          "umls_cui": null,
+          "strength": "",
+          "dose_form": "",
+          "route": "subcutaneous",
+          "frequency": "",
+          "duration": "",
+          "necessity": ""
+        }
+      ],
+      "is_incomplete": false,
+      "drug_ids": [
+        "DB00643"
+      ]
+    }
+  ],
+  "condition": [
+    "Covid19",
+    "Sequelae of; Infection",
+    "Cognitive Symptom"
+  ],
+  "intervention_mesh_terms": [
+    {
+      "id": "D000086382",
+      "term": "COVID-19"
+    },
+    {
+      "id": "D007239",
+      "term": "Infections"
+    },
+    {
+      "id": "D019954",
+      "term": "Neurobehavioral Manifestations"
+    },
+    {
+      "id": "D000094024",
+      "term": "Post-Acute COVID-19 Syndrome"
+    }
+  ],
+  "primary_outcome": [
+    {
+      "measure": "Effect of Niagen on NAD+ and Cognitive Functioning",
+      "description": "Cognitive outcomes were assessed using the Everyday Cognition (ECog) scale, Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), and the Trail Making Test B (TMT-B). The ECog total score ranges from 39 to 156, and individual domain scores range from 1 to 4. Higher scores indicate greater subjective cognitive decline since COVID-19 infection. Individual RBANS index scores range from 40 to 160, and the Sum of Index Scores (sum of five index scores) ranges from 200 to 800. Higher index scores reflect better cognitive performance. The TMT-B score is the completion time in seconds, with a maximum time of 5 minutes. A lower time is indicative of a better performance. Change scores reflect the difference from Baseline to Week 10, and from Week 10 to Week 20. Positive change scores on the ECog indicate worsening subjective cognitive decline. Positive change scores on the RBANS indicate improvement. Positive change scores in the TMT-B represent worsening performance.",
+      "timeFrame": "Baseline, Week 10 and Week 20",
+      "cids": [
+        130,
+        510
+      ],
+      "clusters": [
+        "cognit, cognit_abil, cognit_impair",
+        "cognit_function"
+      ]
+    }
+  ],
+  "secondary_outcome": [
+    {
+      "measure": "Effect of Niagen on NAD+ and Depression Symptoms",
+      "description": "Depression symptoms were assessed using the Beck Depression Inventory (BDI), a 21-item self-report questionnaire measuring severity of depression symptoms. Total scores range from 0 to 63, with higher scores indicating more severe depression. Values represent mean change scores from Baseline to Week 10 and from Week 10 to Week 20.",
+      "timeFrame": "Baseline, Week 10 and Week 20",
+      "cids": [
+        54,
+        620
+      ],
+      "clusters": [
+        "depress, depress_scale, depress_ham, depress_hrsd, depress_rate_scale",
+        "depress_symptom_score, depress_symptomatolog_clinician_rate, depress_symptom"
+      ]
+    },
+    {
+      "measure": "Effect of Niagen on NAD+ and Anxiety Symptoms",
+      "description": "Anxiety symptoms were assessed using the Beck Anxiety Inventory (BAI), a 21-item self-report questionnaire measuring severity of anxiety symptoms. Total scores range from 0 to 63, with higher scores indicating more severe anxiety. Values represent mean change scores from Baseline to Week 10 and from Week 10 to Week 20.",
+      "timeFrame": "Baseline, Week 10 and Week 20",
+      "cids": [
+        287
+      ],
+      "clusters": [
+        "anxieti_symptom, anxieti_ham, anxieti"
+      ]
+    },
+    {
+      "measure": "Effect of Niagen on NAD+ and Other COVID-related Symptoms",
+      "description": "Fatigue was assessed using the Fatigue Severity Scale (FSS), a 9-item self-report measure with scores ranging from 1 to 7; higher scores indicate greater fatigue severity. Sleep quality was assessed using the Pittsburgh Sleep Quality Index (PSQI), a 19-item self-report measure with scores ranging from 0 to 21; higher scores indicate poorer sleep quality. All values represent mean change scores from Baseline to Week 10 and from Week 10 to Week 20.",
+      "timeFrame": "Baseline, Week 10 and Week 20",
+      "cids": [],
+      "clusters": []
+    }
+  ],
+  "eligibility_criteria": "Inclusion Criteria:\n\n* History of SARS-CoV-2 PCR+ at least 2 months prior to study entry;\n* SARS-CoV-2 negative (PCR) at study entry;\n* Persistent cognitive difficulties (esp. \"brain fog\") that began around the time of the acute COVID-19;\n* At least two neurological and/or physical symptoms that started with COVID-19 infection and are ongoing at study entry, including fatigue, weakness, headache, loss of smell, tingling/numbness, shortness of breath, loss of appetite, palpitations/tachycardia, hair loss, musculoskeletal and/or chest pain;\n* Willing and able to consent, complete all assessment and study procedures;\n* Not pregnant or lactating.\n\nExclusion Criteria:\n\n* Any specific central nervous system disease history (e.g. major clinical stroke, brain tumor, normal pressure hydrocephalus, etc);\n* Clinically significant unstable medical condition that could affect safety or compliance with the study;\n* Was intubated due to COVID-19;\n* Major active or chronic unstable psychiatric illness (e.g. depression, bipolar disorder, obsessive compulsive disorder, schizophrenia) within the previous year;\n* History of alcohol or other substance abuse or dependence within the past two years;\n* Any significant systemic illness or medical condition that could affect safety or compliance with study;\n* Current use of medications with psychoactive properties that may be deleteriously affecting cognition;\n* Any known hypersensitivity to nicotinamide riboside, or its principal metabolite, nicotinamide mononucleotide;\n* Use of other investigational agents or interventions one month prior to entry and for the duration of the trial;\n* If participating in the optional magnetic resonance imaging (MRI) sub-study: Any contraindication to undergo MRI;\n* Pregnant women or women who are planning to become pregnant within 7 months from study entry.",
+  "brief_summary": "[COUNTERFACTUAL ANALYSIS] Original drug (Niagen) replaced with Mebendazole. Original summary: The study will assess whether Niagen, a safe dietary supplement, improves recovery of COVID-19 related symptoms in individuals who were infected at least 2 months prior to study entry (\"Long-COVID\" \"Long-haulers\"). 60% of participants will receive Niagen and 40% will receive PBO. Outcomes will consist of standardized cognitive, neuropsychiatric, physical, functional and biomarker assessments.",
+  "phase": [
+    "PHASE4"
+  ],
+  "enrollment": {
+    "count": 72,
+    "type": "ACTUAL"
+  },
+  "gender_sex": "ALL",
+  "minimum_age": "18 Years",
+  "maximum_age": "65 Years",
+  "clinical_results": {
+    "reported_events": {
+      "group_list": {
+        "group": [
+          {
+            "id": "EG000",
+            "title": "Lead in",
+            "description": "Participants assigned to the Lead-in Phase received placebo capsules at the screening visit and were instructed to take four capsules in the morning and four capsules in the evening (8 capsules daily) for two weeks. All capsules were visually identical to the active study drug and were administered using the same dosing instructions as those in the randomized phase.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 72,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 72,
+            "otherNumAffected": 1,
+            "otherNumAtRisk": 72
+          },
+          {
+            "id": "EG001",
+            "title": "Placebo",
+            "description": "Participants randomized to the Placebo group took four capsules in the morning and four capsules in the evening (8 capsules daily) for 10 weeks following a two-week placebo lead-in period. After the initial 10 weeks, participants crossed over to receive 1000 mg of NR (Niagen) twice daily for an additional 10 weeks. Dosing was double-blinded. Participants completed clinical assessments and cognitive testing at baseline, Visit 2, and Visit 4, and provided blood at every visit since baseline.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 21,
+            "seriousNumAffected": 0,
+            "seriousNumAtRisk": 21,
+            "otherNumAffected": 19,
+            "otherNumAtRisk": 21
+          },
+          {
+            "id": "EG002",
+            "title": "Niagen",
+            "description": "Participants randomized to the NR group received 1000 mg of NR (Niagen) twice daily for 20 weeks following a two-week placebo lead-in period. Dosing was double-blinded. Participants completed clinical assessments and cognitive testing at baseline, Visit 2, and Visit 4, and provided blood at every visit since baseline.",
+            "deathsNumAffected": 0,
+            "deathsNumAtRisk": 37,
+            "seriousNumAffected": 1,
+            "seriousNumAtRisk": 37,
+            "otherNumAffected": 25,
+            "otherNumAtRisk": 37
+          }
+        ]
+      }
+    }
+  },
+  "ec_umls": {
+    "Observation": {
+      "inclusion": [],
+      "exclusion": [
+        "Current (Current) | within the past two years  (Concept: Current (present time))",
+        "History of (History of) |  (Concept: History)",
+        "History of (History of) | within the previous year  (Concept: History)",
+        "alcohol (alcohol) | within the past two years  (Concept: Ethanol)",
+        "loss of appetite (loss of appetite) |  (Concept: Anorexia)"
+      ]
+    },
+    "Condition": {
+      "inclusion": [
+        "lactating (lactating) |  (Concept: Lactating (finding))",
+        "pregnant (pregnant) |  (Concept: Patient currently pregnant)"
+      ],
+      "exclusion": [
+        "COVID-19 (COVID-19) |  (Concept: Disease)",
+        "COVID-19 (COVID-19) | within the previous year  (Concept: Disease)",
+        "COVID-19 infection (COVID-19 infection) |  (Concept: Communicable Diseases)",
+        "Pregnant (Pregnant) | within the past two years  (Concept: Patient currently pregnant)",
+        "SARS-CoV-2 (SARS-CoV-2) |  (Concept: Disease)",
+        "bipolar (bipolar) | within the previous year  (Concept: Bipolar)",
+        "bipolar disorder (bipolar disorder) | within the previous year  (Concept: Bipolar Disorder)",
+        "brain tumor (brain tumor) | within the previous year  (Concept: Brain Neoplasms)",
+        "chest pain (or chest pain) |  (Concept: Chest Pain)",
+        "clinical stroke (major clinical stroke) | within the previous year  (Concept: following clinical practice guideline for acute ischemic stroke)",
+        "cognitive difficulties (cognitive difficulties) |  (Concept: Gait difficulties and beginning of cognitive decline in first decade)",
+        "contraindication (contraindication) | within the past two years  (Concept: Contraindication)",
+        "depression (depression) | within the previous year  (Concept: Mental Depression)",
+        "disease (disease) | within the previous year  (Concept: Disease)",
+        "fatigue (fatigue) |  (Concept: Fatigue)",
+        "hair loss (hair loss ) |  (Concept: Alopecia)",
+        "headache (headache) |  (Concept: Headache)",
+        "hypersensitivity (hypersensitivity) | within the past two years  (Concept: Hypersensitivity)",
+        "loss of smell (loss of smell) |  (Concept: Anosmia)",
+        "medical condition (medical condition) | within the past two years  (Concept: Medical Condition)",
+        "musculoskeletal and ( musculoskeletal and) |",
+        "obsessive compulsive disorder (obsessive compulsive disorder) | within the previous year  (Concept: Obsessive-Compulsive Disorder)",
+        "palpitations (palpitations) |  (Concept: Palpitations)",
+        "physical symptoms (physical symptoms) |  (Concept: factitious disorder with physical symptoms)",
+        "pregnant (pregnant) | within the past two years  (Concept: Patient currently pregnant)",
+        "pressure hydrocephalus (normal pressure hydrocephalus) | within the previous year  (Concept: Communicating Hydrocephalus)",
+        "schizophrenia (schizophrenia) | within the previous year  (Concept: Schizophrenia)",
+        "shortness of breath (shortness of breath) |  (Concept: Dyspnea)",
+        "substance abuse (substance abuse) | within the past two years  (Concept: Substance of abuse)",
+        "systemic illness (significant systemic illness) | within the past two years  (Concept: Systemic disease)",
+        "tachycardia (tachycardia) |  (Concept: Tachycardia)",
+        "unstable medical condition (significant unstable medical condition) | within the previous year  (Concept: Medical Condition)",
+        "unstable psychiatric illness (chronic unstable psychiatric illness) | within the previous year  (Concept: Mental disorders)"
+      ]
+    },
+    "Measurement": {
+      "inclusion": [],
+      "exclusion": [
+        "PCR (PCR) |  (Concept: Polymerase Chain Reaction)",
+        "PCR (PCR) |  (Concept: Polymerase Chain Reaction)"
+      ]
+    },
+    "Procedure": {
+      "inclusion": [],
+      "exclusion": [
+        "MRI (MRI) | within the past two years  (Concept: Magnetic Resonance Imaging)",
+        "interventions (interventions) | within the past two years  (Concept: Nursing interventions)",
+        "intubated (intubated) | within the previous year  (Concept: Intubation)",
+        "optional magnetic resonance imaging (optional magnetic resonance imaging) | within the past two years  (Concept: Magnetic Resonance Imaging)"
+      ]
+    },
+    "Drug": {
+      "inclusion": [],
+      "exclusion": [
+        "investigational agents (other investigational agents) | within the past two years  (Concept: INVESTIGATIONAL AGENTS)",
+        "medications (medications) | within the past two years  (Concept: Pharmaceutical Preparations)",
+        "nicotinamide mononucleotide (nicotinamide mononucleotide) | within the past two years",
+        "nicotinamide riboside (nicotinamide riboside) | within the past two years  (Concept: nicotinamide-beta-riboside)",
+        "psychoactive properties (psychoactive properties) | within the past two years  (Concept: Property (attribute))"
+      ]
+    },
+    "Demographic": {
+      "inclusion": [],
+      "exclusion": [
+        "women (women) | within the past two years  (Concept: Woman)",
+        "women (women) | within the past two years  (Concept: Woman)"
+      ]
+    }
+  },
+  "mesh_ids": [
+    "D000086382",
+    "D007239",
+    "D019954"
+  ],
+  "has_results": false,
+  "_counterfactual": {
+    "original_drug": "Niagen",
+    "replacement_drug": "Mebendazole",
+    "input_drug_name": "Mebendazole",
+    "drugbank_id": "DB00643",
+    "original_nct_id": "NCT04809974"
+  }
+}

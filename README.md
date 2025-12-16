@@ -1,4 +1,4 @@
-# SPLIT: Safety Prioritization for Long-COVID Drug Repurposing via a Causal Integrated Targeting Framework
+# ✂️ SPLIT: Safety Prioritization for Long-COVID Drug Repurposing via a Causal Integrated Targeting Framework
 
 [![DOI](https://img.shields.io/badge/DOI-10.xxxx%2Fxxxxx-blue)](https://doi.org/10.xxxx/xxxxx)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

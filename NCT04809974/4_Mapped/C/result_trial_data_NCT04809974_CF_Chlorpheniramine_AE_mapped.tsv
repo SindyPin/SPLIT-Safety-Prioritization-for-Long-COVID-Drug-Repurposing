@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09893976897001266
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07623374462127686
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07192221283912659
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0673469603061676
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05793733149766922
+trial_1	placebo	20	KG00098540	dehydration	0.057168956845998764
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05671131983399391
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05453706160187721
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05405202507972717
+trial_1	placebo	46	KG00099121	Headache NOS	0.053746338933706284
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05322815477848053
+trial_1	placebo	21	KG00098675	dyspnoea	0.052612967789173126
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.048127561807632446
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.043032146990299225
+trial_1	placebo	114	KG00098933	fevers	0.04145961254835129
+trial_1	placebo	68	KG00099901	nauseas	0.04109792783856392
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04002887383103371
+trial_1	placebo	85	KG00098474	coughs	0.03903987631201744
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03416885808110237
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.033548079431056976
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.032832708209753036
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03217993676662445
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.031837183982133865
+trial_1	placebo	126	KG00100076	Pain NOS	0.03157251700758934
+trial_1	placebo	300	KG00101064	xerostomia	0.03144136071205139
+trial_1	placebo	14	KG00097852	Anemia NOS	0.030103301629424095
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0287514328956604
+trial_1	placebo	29	KG00099354	hyponatraemia	0.028244517743587494
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.027924180030822754
+trial_1	placebo	228	KG00114657	Weight below normal	0.02757602371275425
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.026787810027599335
+trial_1	placebo	104	KG00097963	arthralgias	0.025424886494874954
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025417372584342957
+trial_1	placebo	102	KG00097916	anxieties	0.024838795885443687
+trial_1	placebo	86	KG00098565	Depression, Mental	0.024468302726745605
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.024196624755859375
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02344406396150589
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.023291366174817085
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02328805811703205
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022759992629289627
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02242487110197544
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02217654325067997
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021983489394187927
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.021837925538420677
+trial_1	placebo	234	KG00098669	dysgeusias	0.02182614430785179
+trial_1	placebo	350	KG00106765	decreased platelet count	0.021349502727389336
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021018393337726593
+trial_1	placebo	18	KG00098307	Pain, Chest	0.020677009597420692
+trial_1	placebo	5	KG00099169	haematuria	0.02052389271557331
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.019109250977635384
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01905042678117752
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018800770863890648
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018592501059174538
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01849711313843727
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018246937543153763
+trial_1	placebo	136	KG00101582	Dry;skin	0.01819021627306938
+trial_1	placebo	147	KG00098000	atelectases	0.01816726289689541
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.018167249858379364
+trial_1	placebo	239	KG00100128	pareses	0.018085921183228493
+trial_1	placebo	164	KG00108827	ileus colon	0.017916018143296242
+trial_1	placebo	269	KG00100399	pyaemia	0.017661646008491516
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01765785738825798
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.017508096992969513
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.01731599122285843
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01720559224486351
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.017165668308734894
+trial_1	placebo	66	KG00098642	drowsiness	0.01679551787674427
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.016767321154475212
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01673811860382557
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.01654851995408535
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01648065261542797
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016290049999952316
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.016286389902234077
+trial_1	placebo	186	KG00101431	creatinine increased	0.016224807128310204
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01603303663432598
+trial_1	placebo	4	KG00098817	epistaxis	0.01575268805027008
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.015659885480999947
+trial_1	placebo	72	KG00103771	myalgias	0.0156477689743042
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015380708500742912
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015284829773008823
+trial_1	placebo	121	KG00099190	haemorrhage	0.0151637839153409
+trial_1	placebo	456	KG00099420	Influenzae	0.014929123222827911
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014634903520345688
+trial_1	placebo	116	KG00098964	Pain in foot	0.014525800943374634
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014449156820774078
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014155175536870956
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014010422863066196
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.013872921466827393
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013835683465003967
+trial_1	placebo	242	KG00100855	tremors	0.013828840106725693
+trial_1	placebo	262	KG00101199	agitation	0.013820395804941654
+trial_1	placebo	466	KG00101205	fall	0.013809604570269585
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.013782907277345657
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.013749605976045132
+trial_1	placebo	82	KG00097697	abdomen distended	0.013539445586502552
+trial_1	placebo	132	KG00101045	Gain, Weight	0.013028844259679317
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01290927641093731
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.012900091707706451
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012792861089110374
+trial_1	placebo	154	KG00099686	Lymphopenias	0.012733672745525837
+trial_2	chlorpheniramine	87	KG00098599	diarrhoea	0.09893976897001266
+trial_2	chlorpheniramine	9	KG00098432	Confusion NOS	0.07623374462127686
+trial_2	chlorpheniramine	17	KG00097991	Asthenia NOS	0.07192221283912659
+trial_2	chlorpheniramine	123	KG00099351	hypokalaemia	0.0673469603061676
+trial_2	chlorpheniramine	177	KG00099299	hyperglycaemia	0.05793733149766922
+trial_2	chlorpheniramine	20	KG00098540	dehydration	0.057168956845998764
+trial_2	chlorpheniramine	77	KG00098450	Constipation NOS	0.05671131983399391
+trial_2	chlorpheniramine	173	KG00098172	Bronchopneumonia NOS	0.05453706160187721
+trial_2	chlorpheniramine	78	KG00099326	Hypertensive diseases	0.05405202507972717
+trial_2	chlorpheniramine	46	KG00099121	Headache NOS	0.053746338933706284
+trial_2	chlorpheniramine	49	KG00099902	nausea with vomiting	0.05322815477848053
+trial_2	chlorpheniramine	21	KG00098675	dyspnoea	0.052612967789173126
+trial_2	chlorpheniramine	37	KG00097696	Cramps, Abdominal	0.048127561807632446
+trial_2	chlorpheniramine	79	KG00100317	Insomnia, Primary	0.043032146990299225
+trial_2	chlorpheniramine	114	KG00098933	fevers	0.04145961254835129
+trial_2	chlorpheniramine	68	KG00099901	nauseas	0.04109792783856392
+trial_2	chlorpheniramine	64	KG00097734	Acrodermatitis, NOS	0.04002887383103371
+trial_2	chlorpheniramine	85	KG00098474	coughs	0.03903987631201744
+trial_2	chlorpheniramine	180	KG00099363	Hypotension NOS	0.03416885808110237
+trial_2	chlorpheniramine	189	KG00101580	Alanine aminotransferase increase	0.033548079431056976
+trial_2	chlorpheniramine	200	KG00098539	Disorders, Deglutition	0.032832708209753036
+trial_2	chlorpheniramine	151	KG00098274	Infarction, Cerebral	0.03217993676662445
+trial_2	chlorpheniramine	96	KG00101679	Unattended death NOS	0.031837183982133865
+trial_2	chlorpheniramine	126	KG00100076	Pain NOS	0.03157251700758934
+trial_2	chlorpheniramine	300	KG00101064	xerostomia	0.03144136071205139
+trial_2	chlorpheniramine	14	KG00097852	Anemia NOS	0.030103301629424095
+trial_2	chlorpheniramine	67	KG00098673	Dyspepsia, NOS	0.0287514328956604
+trial_2	chlorpheniramine	29	KG00099354	hyponatraemia	0.028244517743587494
+trial_2	chlorpheniramine	188	KG00101579	Aspartate aminotransferase increase	0.027924180030822754
+trial_2	chlorpheniramine	228	KG00114657	Weight below normal	0.02757602371275425
+trial_2	chlorpheniramine	101	KG00097901	Anorexia NOS	0.026787810027599335
+trial_2	chlorpheniramine	104	KG00097963	arthralgias	0.025424886494874954
+trial_2	chlorpheniramine	142	KG00100923	Unspecified infectious and parasitic diseases	0.025417372584342957
+trial_2	chlorpheniramine	102	KG00097916	anxieties	0.024838795885443687
+trial_2	chlorpheniramine	86	KG00098565	Depression, Mental	0.024468302726745605
+trial_2	chlorpheniramine	76	KG00100450	Respiratory insufficiency, NOS	0.024196624755859375
+trial_2	chlorpheniramine	122	KG00099321	Hypersensitivity NOS	0.02344406396150589
+trial_2	chlorpheniramine	61	KG00099501	Chronic Kidney Failure	0.023291366174817085
+trial_2	chlorpheniramine	30	KG00099500	Acute Kidney Failure	0.02328805811703205
+trial_2	chlorpheniramine	396	KG00100373	Embolism, Pulmonary	0.022759992629289627
+trial_2	chlorpheniramine	2	KG00100772	thrombocytopaenia	0.02242487110197544
+trial_2	chlorpheniramine	130	KG00100683	Stomatitis NOS	0.02217654325067997
+trial_2	chlorpheniramine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021983489394187927
+trial_2	chlorpheniramine	261	KG00101559	raised alkaline phosphatase	0.021837925538420677
+trial_2	chlorpheniramine	234	KG00098669	dysgeusias	0.02182614430785179
+trial_2	chlorpheniramine	350	KG00106765	decreased platelet count	0.021349502727389336
+trial_2	chlorpheniramine	38	KG00098066	Binocular vision disorders	0.021018393337726593
+trial_2	chlorpheniramine	18	KG00098307	Pain, Chest	0.020677009597420692
+trial_2	chlorpheniramine	5	KG00099169	haematuria	0.02052389271557331
+trial_2	chlorpheniramine	69	KG00100082	Palpitations NOS	0.019109250977635384
+trial_2	chlorpheniramine	131	KG00100948	Urinary tract infection (& [NOS])	0.01905042678117752
+trial_2	chlorpheniramine	36	KG00106434	Vision, Blurring Of	0.018800770863890648
+trial_2	chlorpheniramine	211	KG00100341	Pruritus NOS	0.018592501059174538
+trial_2	chlorpheniramine	179	KG00099342	hypocalcaemia	0.01849711313843727
+trial_2	chlorpheniramine	92	KG00100926	Infections, Upper Respiratory	0.018246937543153763
+trial_2	chlorpheniramine	136	KG00101582	Dry;skin	0.01819021627306938
+trial_2	chlorpheniramine	147	KG00098000	atelectases	0.01816726289689541
+trial_2	chlorpheniramine	199	KG00098371	Rhinitis (chronic) NOS	0.018167249858379364
+trial_2	chlorpheniramine	239	KG00100128	pareses	0.018085921183228493
+trial_2	chlorpheniramine	164	KG00108827	ileus colon	0.017916018143296242
+trial_2	chlorpheniramine	269	KG00100399	pyaemia	0.017661646008491516
+trial_2	chlorpheniramine	249	KG00104430	hypoalbuminaemia	0.01765785738825798
+trial_2	chlorpheniramine	243	KG00100947	Micturition frequency increased	0.017508096992969513
+trial_2	chlorpheniramine	170	KG00108926	Neutropenia, Febrile	0.01731599122285843
+trial_2	chlorpheniramine	138	KG00098796	epidemic vomiting syndrome	0.01720559224486351
+trial_2	chlorpheniramine	1	KG00099959	Neutropenia NOS	0.017165668308734894
+trial_2	chlorpheniramine	66	KG00098642	drowsiness	0.01679551787674427
+trial_2	chlorpheniramine	361	KG00098004	Fibrillation, Atrial	0.016767321154475212
+trial_2	chlorpheniramine	27	KG00099303	hyperkalaemia	0.01673811860382557
+trial_2	chlorpheniramine	28	KG00099347	hypoglycaemia	0.01654851995408535
+trial_2	chlorpheniramine	139	KG00098855	Sinusitis, Ethmoid	0.01648065261542797
+trial_2	chlorpheniramine	194	KG00110727	Neutrophil Count Decreased	0.016290049999952316
+trial_2	chlorpheniramine	191	KG00104055	Biliverdin increased	0.016286389902234077
+trial_2	chlorpheniramine	186	KG00101431	creatinine increased	0.016224807128310204
+trial_2	chlorpheniramine	35	KG00101507	hypomagnesaemia	0.01603303663432598
+trial_2	chlorpheniramine	4	KG00098817	epistaxis	0.01575268805027008
+trial_2	chlorpheniramine	276	KG00099127	Arrest, Cardiac	0.015659885480999947
+trial_2	chlorpheniramine	72	KG00103771	myalgias	0.0156477689743042
+trial_2	chlorpheniramine	144	KG00099610	Leukopenia NOS	0.015380708500742912
+trial_2	chlorpheniramine	286	KG00101110	Retention, Urinary	0.015284829773008823
+trial_2	chlorpheniramine	121	KG00099190	haemorrhage	0.0151637839153409
+trial_2	chlorpheniramine	456	KG00099420	Influenzae	0.014929123222827911
+trial_2	chlorpheniramine	441	KG00098262	cellulitis nos	0.014634903520345688
+trial_2	chlorpheniramine	116	KG00098964	Pain in foot	0.014525800943374634
+trial_2	chlorpheniramine	371	KG00098517	Cystitis (NOS)	0.014449156820774078
+trial_2	chlorpheniramine	75	KG00100195	Dolens, Phlegmasia Alba	0.014155175536870956
+trial_2	chlorpheniramine	356	KG00112623	Infectious Lung Disorders	0.014010422863066196
+trial_2	chlorpheniramine	195	KG00097814	Atopic Rhinitis	0.013872921466827393
+trial_2	chlorpheniramine	221	KG00101207	peripheral oedema	0.013835683465003967
+trial_2	chlorpheniramine	242	KG00100855	tremors	0.013828840106725693
+trial_2	chlorpheniramine	262	KG00101199	agitation	0.013820395804941654
+trial_2	chlorpheniramine	466	KG00101205	fall	0.013809604570269585
+trial_2	chlorpheniramine	118	KG00099011	Gastritis NOS	0.013782907277345657
+trial_2	chlorpheniramine	253	KG00100232	Pleural effusion NOS (disorder)	0.013749605976045132
+trial_2	chlorpheniramine	82	KG00097697	abdomen distended	0.013539445586502552
+trial_2	chlorpheniramine	132	KG00101045	Gain, Weight	0.013028844259679317
+trial_2	chlorpheniramine	341	KG00101472	Gamma-glutamyltransferase increased	0.01290927641093731
+trial_2	chlorpheniramine	355	KG00110857	lymphocyte count decreased	0.012900091707706451
+trial_2	chlorpheniramine	204	KG00098849	Esophagitis, Peptic	0.012792861089110374
+trial_2	chlorpheniramine	154	KG00099686	Lymphopenias	0.012733672745525837

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.4530179798603058
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.36538127064704895
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.2511945366859436
+trial_1	placebo	123	KG00099351	hypokalaemia	0.24152657389640808
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.22651158273220062
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.21574388444423676
+trial_1	placebo	228	KG00114657	Weight below normal	0.20938315987586975
+trial_1	placebo	136	KG00101582	Dry;skin	0.20172029733657837
+trial_1	placebo	20	KG00098540	dehydration	0.18647229671478271
+trial_1	placebo	9	KG00098432	Confusion NOS	0.17965975403785706
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.17541636526584625
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.16817942261695862
+trial_1	placebo	343	KG00102674	Eruptions, Acneiform	0.15365833044052124
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.15154390037059784
+trial_1	placebo	21	KG00098675	dyspnoea	0.1503390073776245
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.14650267362594604
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.14389538764953613
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.12755101919174194
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.12347940355539322
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1220329999923706
+trial_1	placebo	29	KG00099354	hyponatraemia	0.1218901127576828
+trial_1	placebo	68	KG00099901	nauseas	0.11622663587331772
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11206326633691788
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.11133673042058945
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.11062684655189514
+trial_1	placebo	46	KG00099121	Headache NOS	0.10530070215463638
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.1040329858660698
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.09965328872203827
+trial_1	placebo	257	KG00100922	Erythema NOS	0.09338466078042984
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0915599912405014
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0906984806060791
+trial_1	placebo	126	KG00100076	Pain NOS	0.08914622664451599
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.08804599940776825
+trial_1	placebo	239	KG00100128	pareses	0.08565695583820343
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08460266143083572
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0836176872253418
+trial_1	placebo	114	KG00098933	fevers	0.08314932882785797
+trial_1	placebo	147	KG00098000	atelectases	0.0817689299583435
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.08067893236875534
+trial_1	placebo	300	KG00101064	xerostomia	0.07632538676261902
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.07611726969480515
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07597293704748154
+trial_1	placebo	104	KG00097963	arthralgias	0.0748991072177887
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.0748598501086235
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07485903054475784
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.07259254157543182
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.07246585190296173
+trial_1	placebo	186	KG00101431	creatinine increased	0.06934665888547897
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06878487765789032
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.06876002252101898
+trial_1	placebo	85	KG00098474	coughs	0.0672830268740654
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.06582429260015488
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.06550523638725281
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.06397278606891632
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06336969882249832
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.06325053423643112
+trial_1	placebo	5	KG00099169	haematuria	0.06256687641143799
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06233072653412819
+trial_1	placebo	269	KG00100399	pyaemia	0.06129499897360802
+trial_1	placebo	441	KG00098262	cellulitis nos	0.06050990894436836
+trial_1	placebo	212	KG00100576	shivers	0.06027931347489357
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.05958046391606331
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05950165539979935
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05934953689575195
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.058945536613464355
+trial_1	placebo	102	KG00097916	anxieties	0.058228425681591034
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05799565836787224
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05721190944314003
+trial_1	placebo	82	KG00097697	abdomen distended	0.057110220193862915
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05595800280570984
+trial_1	placebo	86	KG00098565	Depression, Mental	0.055782023817300797
+trial_1	placebo	44	KG00098647	syndrome; dry eye	0.05379187688231468
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05328774452209473
+trial_1	placebo	454	KG00098286	Pain, Neck	0.05303536728024483
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.05283977836370468
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05238523706793785
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.05017391964793205
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.04978546127676964
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.048883043229579926
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04850776866078377
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.047961946576833725
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.04746115207672119
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.047116708010435104
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.046888697892427444
+trial_1	placebo	382	KG00099200	haemorrhoids	0.04675469920039177
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.046324387192726135
+trial_1	placebo	466	KG00101205	fall	0.046148642897605896
+trial_1	placebo	234	KG00098669	dysgeusias	0.046014778316020966
+trial_1	placebo	116	KG00098964	Pain in foot	0.04558200016617775
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.04557494819164276
+trial_1	placebo	121	KG00099190	haemorrhage	0.04543096199631691
+trial_1	placebo	351	KG00107159	Maculopapular Lesion	0.04536281153559685
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04526744410395622
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.045260652899742126
+trial_1	placebo	4	KG00098817	epistaxis	0.044807448983192444
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04305392876267433
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.04257155954837799
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04213583469390869
+trial_1	placebo	342	KG00101570	intervals prolonged qt	0.04051363095641136
+trial_1	placebo	154	KG00099686	Lymphopenias	0.04039452224969864
+trial_2	ceritinib	87	KG00098599	diarrhoea	0.4530179798603058
+trial_2	ceritinib	64	KG00097734	Acrodermatitis, NOS	0.36538127064704895
+trial_2	ceritinib	189	KG00101580	Alanine aminotransferase increase	0.2511945366859436
+trial_2	ceritinib	123	KG00099351	hypokalaemia	0.24152657389640808
+trial_2	ceritinib	188	KG00101579	Aspartate aminotransferase increase	0.22651158273220062
+trial_2	ceritinib	78	KG00099326	Hypertensive diseases	0.21574388444423676
+trial_2	ceritinib	228	KG00114657	Weight below normal	0.20938315987586975
+trial_2	ceritinib	136	KG00101582	Dry;skin	0.20172029733657837
+trial_2	ceritinib	20	KG00098540	dehydration	0.18647229671478271
+trial_2	ceritinib	9	KG00098432	Confusion NOS	0.17965975403785706
+trial_2	ceritinib	173	KG00098172	Bronchopneumonia NOS	0.17541636526584625
+trial_2	ceritinib	17	KG00097991	Asthenia NOS	0.16817942261695862
+trial_2	ceritinib	343	KG00102674	Eruptions, Acneiform	0.15365833044052124
+trial_2	ceritinib	101	KG00097901	Anorexia NOS	0.15154390037059784
+trial_2	ceritinib	21	KG00098675	dyspnoea	0.1503390073776245
+trial_2	ceritinib	211	KG00100341	Pruritus NOS	0.14650267362594604
+trial_2	ceritinib	49	KG00099902	nausea with vomiting	0.14389538764953613
+trial_2	ceritinib	261	KG00101559	raised alkaline phosphatase	0.12755101919174194
+trial_2	ceritinib	67	KG00098673	Dyspepsia, NOS	0.12347940355539322
+trial_2	ceritinib	177	KG00099299	hyperglycaemia	0.1220329999923706
+trial_2	ceritinib	29	KG00099354	hyponatraemia	0.1218901127576828
+trial_2	ceritinib	68	KG00099901	nauseas	0.11622663587331772
+trial_2	ceritinib	77	KG00098450	Constipation NOS	0.11206326633691788
+trial_2	ceritinib	191	KG00104055	Biliverdin increased	0.11133673042058945
+trial_2	ceritinib	200	KG00098539	Disorders, Deglutition	0.11062684655189514
+trial_2	ceritinib	46	KG00099121	Headache NOS	0.10530070215463638
+trial_2	ceritinib	37	KG00097696	Cramps, Abdominal	0.1040329858660698
+trial_2	ceritinib	131	KG00100948	Urinary tract infection (& [NOS])	0.09965328872203827
+trial_2	ceritinib	257	KG00100922	Erythema NOS	0.09338466078042984
+trial_2	ceritinib	179	KG00099342	hypocalcaemia	0.0915599912405014
+trial_2	ceritinib	243	KG00100947	Micturition frequency increased	0.0906984806060791
+trial_2	ceritinib	126	KG00100076	Pain NOS	0.08914622664451599
+trial_2	ceritinib	396	KG00100373	Embolism, Pulmonary	0.08804599940776825
+trial_2	ceritinib	239	KG00100128	pareses	0.08565695583820343
+trial_2	ceritinib	76	KG00100450	Respiratory insufficiency, NOS	0.08460266143083572
+trial_2	ceritinib	151	KG00098274	Infarction, Cerebral	0.0836176872253418
+trial_2	ceritinib	114	KG00098933	fevers	0.08314932882785797
+trial_2	ceritinib	147	KG00098000	atelectases	0.0817689299583435
+trial_2	ceritinib	61	KG00099501	Chronic Kidney Failure	0.08067893236875534
+trial_2	ceritinib	300	KG00101064	xerostomia	0.07632538676261902
+trial_2	ceritinib	38	KG00098066	Binocular vision disorders	0.07611726969480515
+trial_2	ceritinib	30	KG00099500	Acute Kidney Failure	0.07597293704748154
+trial_2	ceritinib	104	KG00097963	arthralgias	0.0748991072177887
+trial_2	ceritinib	99	KG00097728	acne; vulgaris	0.0748598501086235
+trial_2	ceritinib	79	KG00100317	Insomnia, Primary	0.07485903054475784
+trial_2	ceritinib	249	KG00104430	hypoalbuminaemia	0.07259254157543182
+trial_2	ceritinib	341	KG00101472	Gamma-glutamyltransferase increased	0.07246585190296173
+trial_2	ceritinib	186	KG00101431	creatinine increased	0.06934665888547897
+trial_2	ceritinib	14	KG00097852	Anemia NOS	0.06878487765789032
+trial_2	ceritinib	130	KG00100683	Stomatitis NOS	0.06876002252101898
+trial_2	ceritinib	85	KG00098474	coughs	0.0672830268740654
+trial_2	ceritinib	356	KG00112623	Infectious Lung Disorders	0.06582429260015488
+trial_2	ceritinib	35	KG00101507	hypomagnesaemia	0.06550523638725281
+trial_2	ceritinib	253	KG00100232	Pleural effusion NOS (disorder)	0.06397278606891632
+trial_2	ceritinib	355	KG00110857	lymphocyte count decreased	0.06336969882249832
+trial_2	ceritinib	36	KG00106434	Vision, Blurring Of	0.06325053423643112
+trial_2	ceritinib	5	KG00099169	haematuria	0.06256687641143799
+trial_2	ceritinib	350	KG00106765	decreased platelet count	0.06233072653412819
+trial_2	ceritinib	269	KG00100399	pyaemia	0.06129499897360802
+trial_2	ceritinib	441	KG00098262	cellulitis nos	0.06050990894436836
+trial_2	ceritinib	212	KG00100576	shivers	0.06027931347489357
+trial_2	ceritinib	288	KG00101223	hypophosphataemia	0.05958046391606331
+trial_2	ceritinib	27	KG00099303	hyperkalaemia	0.05950165539979935
+trial_2	ceritinib	28	KG00099347	hypoglycaemia	0.05934953689575195
+trial_2	ceritinib	371	KG00098517	Cystitis (NOS)	0.058945536613464355
+trial_2	ceritinib	102	KG00097916	anxieties	0.058228425681591034
+trial_2	ceritinib	2	KG00100772	thrombocytopaenia	0.05799565836787224
+trial_2	ceritinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05721190944314003
+trial_2	ceritinib	82	KG00097697	abdomen distended	0.057110220193862915
+trial_2	ceritinib	180	KG00099363	Hypotension NOS	0.05595800280570984
+trial_2	ceritinib	86	KG00098565	Depression, Mental	0.055782023817300797
+trial_2	ceritinib	44	KG00098647	syndrome; dry eye	0.05379187688231468
+trial_2	ceritinib	96	KG00101679	Unattended death NOS	0.05328774452209473
+trial_2	ceritinib	454	KG00098286	Pain, Neck	0.05303536728024483
+trial_2	ceritinib	33	KG00100094	Pancreatitis NOS	0.05283977836370468
+trial_2	ceritinib	18	KG00098307	Pain, Chest	0.05238523706793785
+trial_2	ceritinib	31	KG00099872	Infarction, Myocardial	0.05017391964793205
+trial_2	ceritinib	40	KG00098092	Blepharoconjunctivitis NOS	0.04978546127676964
+trial_2	ceritinib	297	KG00099294	hypercholesterolaemia	0.048883043229579926
+trial_2	ceritinib	122	KG00099321	Hypersensitivity NOS	0.04850776866078377
+trial_2	ceritinib	142	KG00100923	Unspecified infectious and parasitic diseases	0.047961946576833725
+trial_2	ceritinib	422	KG00101429	Creatine phosphokinase increased	0.04746115207672119
+trial_2	ceritinib	286	KG00101110	Retention, Urinary	0.047116708010435104
+trial_2	ceritinib	138	KG00098796	epidemic vomiting syndrome	0.046888697892427444
+trial_2	ceritinib	382	KG00099200	haemorrhoids	0.04675469920039177
+trial_2	ceritinib	204	KG00098849	Esophagitis, Peptic	0.046324387192726135
+trial_2	ceritinib	466	KG00101205	fall	0.046148642897605896
+trial_2	ceritinib	234	KG00098669	dysgeusias	0.046014778316020966
+trial_2	ceritinib	116	KG00098964	Pain in foot	0.04558200016617775
+trial_2	ceritinib	213	KG00100600	Infectious Skin Diseases	0.04557494819164276
+trial_2	ceritinib	121	KG00099190	haemorrhage	0.04543096199631691
+trial_2	ceritinib	351	KG00107159	Maculopapular Lesion	0.04536281153559685
+trial_2	ceritinib	282	KG00099309	hypernatraemia	0.04526744410395622
+trial_2	ceritinib	194	KG00110727	Neutrophil Count Decreased	0.045260652899742126
+trial_2	ceritinib	4	KG00098817	epistaxis	0.044807448983192444
+trial_2	ceritinib	139	KG00098855	Sinusitis, Ethmoid	0.04305392876267433
+trial_2	ceritinib	361	KG00098004	Fibrillation, Atrial	0.04257155954837799
+trial_2	ceritinib	276	KG00099127	Arrest, Cardiac	0.04213583469390869
+trial_2	ceritinib	342	KG00101570	intervals prolonged qt	0.04051363095641136
+trial_2	ceritinib	154	KG00099686	Lymphopenias	0.04039452224969864

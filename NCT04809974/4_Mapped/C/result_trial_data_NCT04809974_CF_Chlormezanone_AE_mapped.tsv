@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13652633130550385
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11814038455486298
+trial_1	placebo	68	KG00099901	nauseas	0.11608350276947021
+trial_1	placebo	87	KG00098599	diarrhoea	0.1091962605714798
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1084728017449379
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10172668844461441
+trial_1	placebo	46	KG00099121	Headache NOS	0.09851392358541489
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09204857796430588
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08098558336496353
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07970606535673141
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07924415171146393
+trial_1	placebo	20	KG00098540	dehydration	0.07241388410329819
+trial_1	placebo	21	KG00098675	dyspnoea	0.07233640551567078
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06748966872692108
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06207825616002083
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.056203704327344894
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05544191971421242
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05478541553020477
+trial_1	placebo	14	KG00097852	Anemia NOS	0.053445205092430115
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.049290433526039124
+trial_1	placebo	104	KG00097963	arthralgias	0.04906407743692398
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04889589548110962
+trial_1	placebo	114	KG00098933	fevers	0.04710772633552551
+trial_1	placebo	126	KG00100076	Pain NOS	0.0469183623790741
+trial_1	placebo	29	KG00099354	hyponatraemia	0.046239838004112244
+trial_1	placebo	228	KG00114657	Weight below normal	0.04447490721940994
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04406736418604851
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.043591830879449844
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04345560818910599
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04345120117068291
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.042738355696201324
+trial_1	placebo	5	KG00099169	haematuria	0.04183671623468399
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04112809896469116
+trial_1	placebo	239	KG00100128	pareses	0.03994014114141464
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0389707051217556
+trial_1	placebo	85	KG00098474	coughs	0.03741827979683876
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03632353991270065
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03605872392654419
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.036017097532749176
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.035914450883865356
+trial_1	placebo	72	KG00103771	myalgias	0.03514482080936432
+trial_1	placebo	102	KG00097916	anxieties	0.03449403867125511
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03397149592638016
+trial_1	placebo	147	KG00098000	atelectases	0.032912302762269974
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0328165628015995
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032690100371837616
+trial_1	placebo	116	KG00098964	Pain in foot	0.03214506432414055
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03181985020637512
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03176693618297577
+trial_1	placebo	18	KG00098307	Pain, Chest	0.031748346984386444
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03159825876355171
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.031298547983169556
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03119419887661934
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.031011082231998444
+trial_1	placebo	82	KG00097697	abdomen distended	0.029322870075702667
+trial_1	placebo	269	KG00100399	pyaemia	0.028711965307593346
+trial_1	placebo	466	KG00101205	fall	0.02857717126607895
+trial_1	placebo	164	KG00108827	ileus colon	0.028254250064492226
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02753356657922268
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026388440281152725
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026376822963356972
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026127474382519722
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02604701928794384
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025477387011051178
+trial_1	placebo	262	KG00101199	agitation	0.025430653244256973
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02543051727116108
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02472984790802002
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02459617331624031
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.024518223479390144
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02441566251218319
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02418256178498268
+trial_1	placebo	66	KG00098642	drowsiness	0.023588979616761208
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.023401036858558655
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023298189043998718
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.023065613582730293
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022835396230220795
+trial_1	placebo	221	KG00101207	peripheral oedema	0.022764258086681366
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.022647462785243988
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.022471198812127113
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02196527272462845
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021895574405789375
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021701468154788017
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.021557746455073357
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.021443454548716545
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02141820453107357
+trial_1	placebo	234	KG00098669	dysgeusias	0.021351490169763565
+trial_1	placebo	11	KG00097993	Asthma NOS	0.020871968939900398
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020840991288423538
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.020609285682439804
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.020440060645341873
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.020060012117028236
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.019919561222195625
+trial_1	placebo	186	KG00101431	creatinine increased	0.019902100786566734
+trial_1	placebo	153	KG00099579	lethargy	0.019882485270500183
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019875595346093178
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.01963713951408863
+trial_1	placebo	456	KG00099420	Influenzae	0.01950865238904953
+trial_1	placebo	121	KG00099190	haemorrhage	0.01931081712245941
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01929524540901184
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01907695084810257
+trial_2	chlormezanone	78	KG00099326	Hypertensive diseases	0.13652633130550385
+trial_2	chlormezanone	9	KG00098432	Confusion NOS	0.11814038455486298
+trial_2	chlormezanone	68	KG00099901	nauseas	0.11608350276947021
+trial_2	chlormezanone	87	KG00098599	diarrhoea	0.1091962605714798
+trial_2	chlormezanone	17	KG00097991	Asthenia NOS	0.1084728017449379
+trial_2	chlormezanone	49	KG00099902	nausea with vomiting	0.10172668844461441
+trial_2	chlormezanone	46	KG00099121	Headache NOS	0.09851392358541489
+trial_2	chlormezanone	177	KG00099299	hyperglycaemia	0.09204857796430588
+trial_2	chlormezanone	123	KG00099351	hypokalaemia	0.08098558336496353
+trial_2	chlormezanone	173	KG00098172	Bronchopneumonia NOS	0.07970606535673141
+trial_2	chlormezanone	79	KG00100317	Insomnia, Primary	0.07924415171146393
+trial_2	chlormezanone	20	KG00098540	dehydration	0.07241388410329819
+trial_2	chlormezanone	21	KG00098675	dyspnoea	0.07233640551567078
+trial_2	chlormezanone	77	KG00098450	Constipation NOS	0.06748966872692108
+trial_2	chlormezanone	189	KG00101580	Alanine aminotransferase increase	0.06207825616002083
+trial_2	chlormezanone	37	KG00097696	Cramps, Abdominal	0.056203704327344894
+trial_2	chlormezanone	188	KG00101579	Aspartate aminotransferase increase	0.05544191971421242
+trial_2	chlormezanone	67	KG00098673	Dyspepsia, NOS	0.05478541553020477
+trial_2	chlormezanone	14	KG00097852	Anemia NOS	0.053445205092430115
+trial_2	chlormezanone	180	KG00099363	Hypotension NOS	0.049290433526039124
+trial_2	chlormezanone	104	KG00097963	arthralgias	0.04906407743692398
+trial_2	chlormezanone	200	KG00098539	Disorders, Deglutition	0.04889589548110962
+trial_2	chlormezanone	114	KG00098933	fevers	0.04710772633552551
+trial_2	chlormezanone	126	KG00100076	Pain NOS	0.0469183623790741
+trial_2	chlormezanone	29	KG00099354	hyponatraemia	0.046239838004112244
+trial_2	chlormezanone	228	KG00114657	Weight below normal	0.04447490721940994
+trial_2	chlormezanone	64	KG00097734	Acrodermatitis, NOS	0.04406736418604851
+trial_2	chlormezanone	76	KG00100450	Respiratory insufficiency, NOS	0.043591830879449844
+trial_2	chlormezanone	350	KG00106765	decreased platelet count	0.04345560818910599
+trial_2	chlormezanone	86	KG00098565	Depression, Mental	0.04345120117068291
+trial_2	chlormezanone	151	KG00098274	Infarction, Cerebral	0.042738355696201324
+trial_2	chlormezanone	5	KG00099169	haematuria	0.04183671623468399
+trial_2	chlormezanone	61	KG00099501	Chronic Kidney Failure	0.04112809896469116
+trial_2	chlormezanone	239	KG00100128	pareses	0.03994014114141464
+trial_2	chlormezanone	101	KG00097901	Anorexia NOS	0.0389707051217556
+trial_2	chlormezanone	85	KG00098474	coughs	0.03741827979683876
+trial_2	chlormezanone	2	KG00100772	thrombocytopaenia	0.03632353991270065
+trial_2	chlormezanone	27	KG00099303	hyperkalaemia	0.03605872392654419
+trial_2	chlormezanone	28	KG00099347	hypoglycaemia	0.036017097532749176
+trial_2	chlormezanone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.035914450883865356
+trial_2	chlormezanone	72	KG00103771	myalgias	0.03514482080936432
+trial_2	chlormezanone	102	KG00097916	anxieties	0.03449403867125511
+trial_2	chlormezanone	30	KG00099500	Acute Kidney Failure	0.03397149592638016
+trial_2	chlormezanone	147	KG00098000	atelectases	0.032912302762269974
+trial_2	chlormezanone	179	KG00099342	hypocalcaemia	0.0328165628015995
+trial_2	chlormezanone	96	KG00101679	Unattended death NOS	0.032690100371837616
+trial_2	chlormezanone	116	KG00098964	Pain in foot	0.03214506432414055
+trial_2	chlormezanone	243	KG00100947	Micturition frequency increased	0.03181985020637512
+trial_2	chlormezanone	38	KG00098066	Binocular vision disorders	0.03176693618297577
+trial_2	chlormezanone	18	KG00098307	Pain, Chest	0.031748346984386444
+trial_2	chlormezanone	139	KG00098855	Sinusitis, Ethmoid	0.03159825876355171
+trial_2	chlormezanone	276	KG00099127	Arrest, Cardiac	0.031298547983169556
+trial_2	chlormezanone	396	KG00100373	Embolism, Pulmonary	0.03119419887661934
+trial_2	chlormezanone	131	KG00100948	Urinary tract infection (& [NOS])	0.031011082231998444
+trial_2	chlormezanone	82	KG00097697	abdomen distended	0.029322870075702667
+trial_2	chlormezanone	269	KG00100399	pyaemia	0.028711965307593346
+trial_2	chlormezanone	466	KG00101205	fall	0.02857717126607895
+trial_2	chlormezanone	164	KG00108827	ileus colon	0.028254250064492226
+trial_2	chlormezanone	211	KG00100341	Pruritus NOS	0.02753356657922268
+trial_2	chlormezanone	75	KG00100195	Dolens, Phlegmasia Alba	0.026388440281152725
+trial_2	chlormezanone	441	KG00098262	cellulitis nos	0.026376822963356972
+trial_2	chlormezanone	132	KG00101045	Gain, Weight	0.026127474382519722
+trial_2	chlormezanone	122	KG00099321	Hypersensitivity NOS	0.02604701928794384
+trial_2	chlormezanone	261	KG00101559	raised alkaline phosphatase	0.025477387011051178
+trial_2	chlormezanone	262	KG00101199	agitation	0.025430653244256973
+trial_2	chlormezanone	253	KG00100232	Pleural effusion NOS (disorder)	0.02543051727116108
+trial_2	chlormezanone	282	KG00099309	hypernatraemia	0.02472984790802002
+trial_2	chlormezanone	361	KG00098004	Fibrillation, Atrial	0.02459617331624031
+trial_2	chlormezanone	166	KG00099773	menopausal syndrome	0.024518223479390144
+trial_2	chlormezanone	69	KG00100082	Palpitations NOS	0.02441566251218319
+trial_2	chlormezanone	31	KG00099872	Infarction, Myocardial	0.02418256178498268
+trial_2	chlormezanone	66	KG00098642	drowsiness	0.023588979616761208
+trial_2	chlormezanone	204	KG00098849	Esophagitis, Peptic	0.023401036858558655
+trial_2	chlormezanone	194	KG00110727	Neutrophil Count Decreased	0.023298189043998718
+trial_2	chlormezanone	144	KG00099610	Leukopenia NOS	0.023065613582730293
+trial_2	chlormezanone	286	KG00101110	Retention, Urinary	0.022835396230220795
+trial_2	chlormezanone	221	KG00101207	peripheral oedema	0.022764258086681366
+trial_2	chlormezanone	394	KG00100243	Pneumonia, Aspiration	0.022647462785243988
+trial_2	chlormezanone	15	KG00097882	Angina pectoris NOS	0.022471198812127113
+trial_2	chlormezanone	33	KG00100094	Pancreatitis NOS	0.02196527272462845
+trial_2	chlormezanone	92	KG00100926	Infections, Upper Respiratory	0.021895574405789375
+trial_2	chlormezanone	191	KG00104055	Biliverdin increased	0.021701468154788017
+trial_2	chlormezanone	142	KG00100923	Unspecified infectious and parasitic diseases	0.021557746455073357
+trial_2	chlormezanone	422	KG00101429	Creatine phosphokinase increased	0.021443454548716545
+trial_2	chlormezanone	508	KG00108565	blood glucose increased	0.02141820453107357
+trial_2	chlormezanone	234	KG00098669	dysgeusias	0.021351490169763565
+trial_2	chlormezanone	11	KG00097993	Asthma NOS	0.020871968939900398
+trial_2	chlormezanone	22	KG00098705	Edema (NOS)	0.020840991288423538
+trial_2	chlormezanone	97	KG00104198	LIVER ENZYME ELEVATED	0.020609285682439804
+trial_2	chlormezanone	341	KG00101472	Gamma-glutamyltransferase increased	0.020440060645341873
+trial_2	chlormezanone	35	KG00101507	hypomagnesaemia	0.020060012117028236
+trial_2	chlormezanone	355	KG00110857	lymphocyte count decreased	0.019919561222195625
+trial_2	chlormezanone	186	KG00101431	creatinine increased	0.019902100786566734
+trial_2	chlormezanone	153	KG00099579	lethargy	0.019882485270500183
+trial_2	chlormezanone	249	KG00104430	hypoalbuminaemia	0.019875595346093178
+trial_2	chlormezanone	268	KG00099557	Heart Failure, Left-Sided	0.01963713951408863
+trial_2	chlormezanone	456	KG00099420	Influenzae	0.01950865238904953
+trial_2	chlormezanone	121	KG00099190	haemorrhage	0.01931081712245941
+trial_2	chlormezanone	25	KG00099134	congestive failures heart	0.01929524540901184
+trial_2	chlormezanone	163	KG00104050	bowel obstructions small	0.01907695084810257

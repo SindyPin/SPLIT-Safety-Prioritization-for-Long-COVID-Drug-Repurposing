@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13668006658554077
+trial_1	placebo	87	KG00098599	diarrhoea	0.13200581073760986
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09020938724279404
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08982081711292267
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08918853849172592
+trial_1	placebo	46	KG00099121	Headache NOS	0.08242017775774002
+trial_1	placebo	20	KG00098540	dehydration	0.08126803487539291
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08062224835157394
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07758936285972595
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07670748978853226
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07588157057762146
+trial_1	placebo	68	KG00099901	nauseas	0.07499811053276062
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06621815264225006
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06562908738851547
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06445185840129852
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.061290133744478226
+trial_1	placebo	21	KG00098675	dyspnoea	0.059142835438251495
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05595633015036583
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05143227055668831
+trial_1	placebo	29	KG00099354	hyponatraemia	0.049517057836055756
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04910467937588692
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04686284437775612
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04648151248693466
+trial_1	placebo	126	KG00100076	Pain NOS	0.0436265654861927
+trial_1	placebo	114	KG00098933	fevers	0.043513860553503036
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.043241653591394424
+trial_1	placebo	228	KG00114657	Weight below normal	0.043188534677028656
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04317329451441765
+trial_1	placebo	104	KG00097963	arthralgias	0.04128735885024071
+trial_1	placebo	239	KG00100128	pareses	0.0407569520175457
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04035380482673645
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03979863226413727
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0393461249768734
+trial_1	placebo	5	KG00099169	haematuria	0.038778431713581085
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037473730742931366
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03685236722230911
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0367036908864975
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0364852249622345
+trial_1	placebo	85	KG00098474	coughs	0.03551018238067627
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03497626632452011
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03464854136109352
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.034417930990457535
+trial_1	placebo	72	KG00103771	myalgias	0.034019336104393005
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.033588871359825134
+trial_1	placebo	147	KG00098000	atelectases	0.03310920298099518
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03251517936587334
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03183960169553757
+trial_1	placebo	102	KG00097916	anxieties	0.03052116557955742
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03037477470934391
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030147898942232132
+trial_1	placebo	132	KG00101045	Gain, Weight	0.030112672597169876
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.029531648382544518
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029465876519680023
+trial_1	placebo	164	KG00108827	ileus colon	0.028933340683579445
+trial_1	placebo	466	KG00101205	fall	0.028333725407719612
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.028227586299180984
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.028021831065416336
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02799464762210846
+trial_1	placebo	262	KG00101199	agitation	0.027741972357034683
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.027502086013555527
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02732745185494423
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027308333665132523
+trial_1	placebo	116	KG00098964	Pain in foot	0.026914091780781746
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026879848912358284
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026599157601594925
+trial_1	placebo	121	KG00099190	haemorrhage	0.026516864076256752
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02627435512840748
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02623479813337326
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.026215095072984695
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02537393383681774
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025313476100564003
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.025221701711416245
+trial_1	placebo	82	KG00097697	abdomen distended	0.024930207058787346
+trial_1	placebo	269	KG00100399	pyaemia	0.02436808869242668
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023199740797281265
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02286461554467678
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.022159313783049583
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02205340377986431
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022030405700206757
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021703001111745834
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.021525515243411064
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.021295951679348946
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021199990063905716
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021003616973757744
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02074362151324749
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020719580352306366
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02067822590470314
+trial_1	placebo	186	KG00101431	creatinine increased	0.020586103200912476
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020565511658787727
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.020437100902199745
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.020410140976309776
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02017519623041153
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02003628760576248
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.019956516101956367
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01968969590961933
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.019337022677063942
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01932515949010849
+trial_1	placebo	242	KG00100855	tremors	0.01914360374212265
+trial_1	placebo	300	KG00101064	xerostomia	0.018746960908174515
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01871183142066002
+trial_2	celiprolol	78	KG00099326	Hypertensive diseases	0.13668006658554077
+trial_2	celiprolol	87	KG00098599	diarrhoea	0.13200581073760986
+trial_2	celiprolol	123	KG00099351	hypokalaemia	0.09020938724279404
+trial_2	celiprolol	17	KG00097991	Asthenia NOS	0.08982081711292267
+trial_2	celiprolol	177	KG00099299	hyperglycaemia	0.08918853849172592
+trial_2	celiprolol	46	KG00099121	Headache NOS	0.08242017775774002
+trial_2	celiprolol	20	KG00098540	dehydration	0.08126803487539291
+trial_2	celiprolol	173	KG00098172	Bronchopneumonia NOS	0.08062224835157394
+trial_2	celiprolol	9	KG00098432	Confusion NOS	0.07758936285972595
+trial_2	celiprolol	189	KG00101580	Alanine aminotransferase increase	0.07670748978853226
+trial_2	celiprolol	49	KG00099902	nausea with vomiting	0.07588157057762146
+trial_2	celiprolol	68	KG00099901	nauseas	0.07499811053276062
+trial_2	celiprolol	67	KG00098673	Dyspepsia, NOS	0.06621815264225006
+trial_2	celiprolol	77	KG00098450	Constipation NOS	0.06562908738851547
+trial_2	celiprolol	188	KG00101579	Aspartate aminotransferase increase	0.06445185840129852
+trial_2	celiprolol	79	KG00100317	Insomnia, Primary	0.061290133744478226
+trial_2	celiprolol	21	KG00098675	dyspnoea	0.059142835438251495
+trial_2	celiprolol	200	KG00098539	Disorders, Deglutition	0.05595633015036583
+trial_2	celiprolol	37	KG00097696	Cramps, Abdominal	0.05143227055668831
+trial_2	celiprolol	29	KG00099354	hyponatraemia	0.049517057836055756
+trial_2	celiprolol	350	KG00106765	decreased platelet count	0.04910467937588692
+trial_2	celiprolol	243	KG00100947	Micturition frequency increased	0.04686284437775612
+trial_2	celiprolol	180	KG00099363	Hypotension NOS	0.04648151248693466
+trial_2	celiprolol	126	KG00100076	Pain NOS	0.0436265654861927
+trial_2	celiprolol	114	KG00098933	fevers	0.043513860553503036
+trial_2	celiprolol	76	KG00100450	Respiratory insufficiency, NOS	0.043241653591394424
+trial_2	celiprolol	228	KG00114657	Weight below normal	0.043188534677028656
+trial_2	celiprolol	64	KG00097734	Acrodermatitis, NOS	0.04317329451441765
+trial_2	celiprolol	104	KG00097963	arthralgias	0.04128735885024071
+trial_2	celiprolol	239	KG00100128	pareses	0.0407569520175457
+trial_2	celiprolol	14	KG00097852	Anemia NOS	0.04035380482673645
+trial_2	celiprolol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03979863226413727
+trial_2	celiprolol	151	KG00098274	Infarction, Cerebral	0.0393461249768734
+trial_2	celiprolol	5	KG00099169	haematuria	0.038778431713581085
+trial_2	celiprolol	61	KG00099501	Chronic Kidney Failure	0.037473730742931366
+trial_2	celiprolol	96	KG00101679	Unattended death NOS	0.03685236722230911
+trial_2	celiprolol	86	KG00098565	Depression, Mental	0.0367036908864975
+trial_2	celiprolol	179	KG00099342	hypocalcaemia	0.0364852249622345
+trial_2	celiprolol	85	KG00098474	coughs	0.03551018238067627
+trial_2	celiprolol	30	KG00099500	Acute Kidney Failure	0.03497626632452011
+trial_2	celiprolol	27	KG00099303	hyperkalaemia	0.03464854136109352
+trial_2	celiprolol	101	KG00097901	Anorexia NOS	0.034417930990457535
+trial_2	celiprolol	72	KG00103771	myalgias	0.034019336104393005
+trial_2	celiprolol	28	KG00099347	hypoglycaemia	0.033588871359825134
+trial_2	celiprolol	147	KG00098000	atelectases	0.03310920298099518
+trial_2	celiprolol	122	KG00099321	Hypersensitivity NOS	0.03251517936587334
+trial_2	celiprolol	2	KG00100772	thrombocytopaenia	0.03183960169553757
+trial_2	celiprolol	102	KG00097916	anxieties	0.03052116557955742
+trial_2	celiprolol	38	KG00098066	Binocular vision disorders	0.03037477470934391
+trial_2	celiprolol	18	KG00098307	Pain, Chest	0.030147898942232132
+trial_2	celiprolol	132	KG00101045	Gain, Weight	0.030112672597169876
+trial_2	celiprolol	261	KG00101559	raised alkaline phosphatase	0.029531648382544518
+trial_2	celiprolol	194	KG00110727	Neutrophil Count Decreased	0.029465876519680023
+trial_2	celiprolol	164	KG00108827	ileus colon	0.028933340683579445
+trial_2	celiprolol	466	KG00101205	fall	0.028333725407719612
+trial_2	celiprolol	355	KG00110857	lymphocyte count decreased	0.028227586299180984
+trial_2	celiprolol	131	KG00100948	Urinary tract infection (& [NOS])	0.028021831065416336
+trial_2	celiprolol	191	KG00104055	Biliverdin increased	0.02799464762210846
+trial_2	celiprolol	262	KG00101199	agitation	0.027741972357034683
+trial_2	celiprolol	35	KG00101507	hypomagnesaemia	0.027502086013555527
+trial_2	celiprolol	282	KG00099309	hypernatraemia	0.02732745185494423
+trial_2	celiprolol	286	KG00101110	Retention, Urinary	0.027308333665132523
+trial_2	celiprolol	116	KG00098964	Pain in foot	0.026914091780781746
+trial_2	celiprolol	396	KG00100373	Embolism, Pulmonary	0.026879848912358284
+trial_2	celiprolol	139	KG00098855	Sinusitis, Ethmoid	0.026599157601594925
+trial_2	celiprolol	121	KG00099190	haemorrhage	0.026516864076256752
+trial_2	celiprolol	69	KG00100082	Palpitations NOS	0.02627435512840748
+trial_2	celiprolol	142	KG00100923	Unspecified infectious and parasitic diseases	0.02623479813337326
+trial_2	celiprolol	341	KG00101472	Gamma-glutamyltransferase increased	0.026215095072984695
+trial_2	celiprolol	249	KG00104430	hypoalbuminaemia	0.02537393383681774
+trial_2	celiprolol	276	KG00099127	Arrest, Cardiac	0.025313476100564003
+trial_2	celiprolol	36	KG00106434	Vision, Blurring Of	0.025221701711416245
+trial_2	celiprolol	82	KG00097697	abdomen distended	0.024930207058787346
+trial_2	celiprolol	269	KG00100399	pyaemia	0.02436808869242668
+trial_2	celiprolol	422	KG00101429	Creatine phosphokinase increased	0.023199740797281265
+trial_2	celiprolol	441	KG00098262	cellulitis nos	0.02286461554467678
+trial_2	celiprolol	256	KG00100738	Tachycardia, Sinus	0.022159313783049583
+trial_2	celiprolol	371	KG00098517	Cystitis (NOS)	0.02205340377986431
+trial_2	celiprolol	508	KG00108565	blood glucose increased	0.022030405700206757
+trial_2	celiprolol	204	KG00098849	Esophagitis, Peptic	0.021703001111745834
+trial_2	celiprolol	152	KG00099402	INCONTINENCE NOS	0.021525515243411064
+trial_2	celiprolol	166	KG00099773	menopausal syndrome	0.021295951679348946
+trial_2	celiprolol	92	KG00100926	Infections, Upper Respiratory	0.021199990063905716
+trial_2	celiprolol	253	KG00100232	Pleural effusion NOS (disorder)	0.021003616973757744
+trial_2	celiprolol	211	KG00100341	Pruritus NOS	0.02074362151324749
+trial_2	celiprolol	31	KG00099872	Infarction, Myocardial	0.020719580352306366
+trial_2	celiprolol	361	KG00098004	Fibrillation, Atrial	0.02067822590470314
+trial_2	celiprolol	186	KG00101431	creatinine increased	0.020586103200912476
+trial_2	celiprolol	75	KG00100195	Dolens, Phlegmasia Alba	0.020565511658787727
+trial_2	celiprolol	130	KG00100683	Stomatitis NOS	0.020437100902199745
+trial_2	celiprolol	33	KG00100094	Pancreatitis NOS	0.020410140976309776
+trial_2	celiprolol	394	KG00100243	Pneumonia, Aspiration	0.02017519623041153
+trial_2	celiprolol	221	KG00101207	peripheral oedema	0.02003628760576248
+trial_2	celiprolol	288	KG00101223	hypophosphataemia	0.019956516101956367
+trial_2	celiprolol	144	KG00099610	Leukopenia NOS	0.01968969590961933
+trial_2	celiprolol	97	KG00104198	LIVER ENZYME ELEVATED	0.019337022677063942
+trial_2	celiprolol	154	KG00099686	Lymphopenias	0.01932515949010849
+trial_2	celiprolol	242	KG00100855	tremors	0.01914360374212265
+trial_2	celiprolol	300	KG00101064	xerostomia	0.018746960908174515
+trial_2	celiprolol	22	KG00098705	Edema (NOS)	0.01871183142066002

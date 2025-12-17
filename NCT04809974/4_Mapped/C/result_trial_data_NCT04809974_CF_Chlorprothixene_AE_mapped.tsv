@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11408790200948715
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11016682535409927
+trial_1	placebo	87	KG00098599	diarrhoea	0.10280460119247437
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10083894431591034
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09332823753356934
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08947371691465378
+trial_1	placebo	21	KG00098675	dyspnoea	0.0859699472784996
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07856502383947372
+trial_1	placebo	20	KG00098540	dehydration	0.07178912311792374
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07160874456167221
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0691613256931305
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06809414178133011
+trial_1	placebo	46	KG00099121	Headache NOS	0.06679312139749527
+trial_1	placebo	228	KG00114657	Weight below normal	0.061750829219818115
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05966787412762642
+trial_1	placebo	68	KG00099901	nauseas	0.0568416453897953
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05532374605536461
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.052088748663663864
+trial_1	placebo	132	KG00101045	Gain, Weight	0.051987189799547195
+trial_1	placebo	85	KG00098474	coughs	0.051802344620227814
+trial_1	placebo	114	KG00098933	fevers	0.05061895027756691
+trial_1	placebo	29	KG00099354	hyponatraemia	0.050601378083229065
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04967700317502022
+trial_1	placebo	104	KG00097963	arthralgias	0.04826406389474869
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04761878773570061
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04602198675274849
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0455971360206604
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.044197890907526016
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04295853152871132
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.042379070073366165
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04233109578490257
+trial_1	placebo	126	KG00100076	Pain NOS	0.042154811322689056
+trial_1	placebo	350	KG00106765	decreased platelet count	0.041125982999801636
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.041125401854515076
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04068693518638611
+trial_1	placebo	102	KG00097916	anxieties	0.03907177224755287
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03889487683773041
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03620968759059906
+trial_1	placebo	262	KG00101199	agitation	0.035314492881298065
+trial_1	placebo	66	KG00098642	drowsiness	0.03450305014848709
+trial_1	placebo	239	KG00100128	pareses	0.032927948981523514
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03282210975885391
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.032134830951690674
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.031705938279628754
+trial_1	placebo	242	KG00100855	tremors	0.031695231795310974
+trial_1	placebo	300	KG00101064	xerostomia	0.03167543560266495
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03159130737185478
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.030809791758656502
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02989538200199604
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02985575422644615
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027158822864294052
+trial_1	placebo	466	KG00101205	fall	0.0269529540091753
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026951247826218605
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.026411157101392746
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0256256815046072
+trial_1	placebo	147	KG00098000	atelectases	0.02550288289785385
+trial_1	placebo	72	KG00103771	myalgias	0.025119628757238388
+trial_1	placebo	5	KG00099169	haematuria	0.02462901547551155
+trial_1	placebo	121	KG00099190	haemorrhage	0.023857343941926956
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023739509284496307
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023370003327727318
+trial_1	placebo	269	KG00100399	pyaemia	0.023204712197184563
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023052599281072617
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022894084453582764
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02265121415257454
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022617951035499573
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022334754467010498
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022192809730768204
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.022132139652967453
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022119801491498947
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02187698520720005
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02175986021757126
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021500715985894203
+trial_1	placebo	164	KG00108827	ileus colon	0.021289831027388573
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021193791180849075
+trial_1	placebo	116	KG00098964	Pain in foot	0.020868895575404167
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.020391935482621193
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019967224448919296
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.019803626462817192
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019586943089962006
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01953364908695221
+trial_1	placebo	282	KG00099309	hypernatraemia	0.019423848018050194
+trial_1	placebo	456	KG00099420	Influenzae	0.01887574791908264
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01885090582072735
+trial_1	placebo	234	KG00098669	dysgeusias	0.01883169822394848
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018564270809292793
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01854502409696579
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.018340375274419785
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01832812838256359
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01832597143948078
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.018251042813062668
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01825014129281044
+trial_1	placebo	82	KG00097697	abdomen distended	0.018247442319989204
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01807365193963051
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.017804114148020744
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01777331344783306
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.017700761556625366
+trial_1	placebo	153	KG00099579	lethargy	0.017582779750227928
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01718886010348797
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.017102543264627457
+trial_2	chlorprothixene	17	KG00097991	Asthenia NOS	0.11408790200948715
+trial_2	chlorprothixene	78	KG00099326	Hypertensive diseases	0.11016682535409927
+trial_2	chlorprothixene	87	KG00098599	diarrhoea	0.10280460119247437
+trial_2	chlorprothixene	177	KG00099299	hyperglycaemia	0.10083894431591034
+trial_2	chlorprothixene	9	KG00098432	Confusion NOS	0.09332823753356934
+trial_2	chlorprothixene	173	KG00098172	Bronchopneumonia NOS	0.08947371691465378
+trial_2	chlorprothixene	21	KG00098675	dyspnoea	0.0859699472784996
+trial_2	chlorprothixene	79	KG00100317	Insomnia, Primary	0.07856502383947372
+trial_2	chlorprothixene	20	KG00098540	dehydration	0.07178912311792374
+trial_2	chlorprothixene	49	KG00099902	nausea with vomiting	0.07160874456167221
+trial_2	chlorprothixene	123	KG00099351	hypokalaemia	0.0691613256931305
+trial_2	chlorprothixene	77	KG00098450	Constipation NOS	0.06809414178133011
+trial_2	chlorprothixene	46	KG00099121	Headache NOS	0.06679312139749527
+trial_2	chlorprothixene	228	KG00114657	Weight below normal	0.061750829219818115
+trial_2	chlorprothixene	86	KG00098565	Depression, Mental	0.05966787412762642
+trial_2	chlorprothixene	68	KG00099901	nauseas	0.0568416453897953
+trial_2	chlorprothixene	64	KG00097734	Acrodermatitis, NOS	0.05532374605536461
+trial_2	chlorprothixene	189	KG00101580	Alanine aminotransferase increase	0.052088748663663864
+trial_2	chlorprothixene	132	KG00101045	Gain, Weight	0.051987189799547195
+trial_2	chlorprothixene	85	KG00098474	coughs	0.051802344620227814
+trial_2	chlorprothixene	114	KG00098933	fevers	0.05061895027756691
+trial_2	chlorprothixene	29	KG00099354	hyponatraemia	0.050601378083229065
+trial_2	chlorprothixene	151	KG00098274	Infarction, Cerebral	0.04967700317502022
+trial_2	chlorprothixene	104	KG00097963	arthralgias	0.04826406389474869
+trial_2	chlorprothixene	37	KG00097696	Cramps, Abdominal	0.04761878773570061
+trial_2	chlorprothixene	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04602198675274849
+trial_2	chlorprothixene	101	KG00097901	Anorexia NOS	0.0455971360206604
+trial_2	chlorprothixene	188	KG00101579	Aspartate aminotransferase increase	0.044197890907526016
+trial_2	chlorprothixene	14	KG00097852	Anemia NOS	0.04295853152871132
+trial_2	chlorprothixene	76	KG00100450	Respiratory insufficiency, NOS	0.042379070073366165
+trial_2	chlorprothixene	96	KG00101679	Unattended death NOS	0.04233109578490257
+trial_2	chlorprothixene	126	KG00100076	Pain NOS	0.042154811322689056
+trial_2	chlorprothixene	350	KG00106765	decreased platelet count	0.041125982999801636
+trial_2	chlorprothixene	67	KG00098673	Dyspepsia, NOS	0.041125401854515076
+trial_2	chlorprothixene	200	KG00098539	Disorders, Deglutition	0.04068693518638611
+trial_2	chlorprothixene	102	KG00097916	anxieties	0.03907177224755287
+trial_2	chlorprothixene	180	KG00099363	Hypotension NOS	0.03889487683773041
+trial_2	chlorprothixene	2	KG00100772	thrombocytopaenia	0.03620968759059906
+trial_2	chlorprothixene	262	KG00101199	agitation	0.035314492881298065
+trial_2	chlorprothixene	66	KG00098642	drowsiness	0.03450305014848709
+trial_2	chlorprothixene	239	KG00100128	pareses	0.032927948981523514
+trial_2	chlorprothixene	122	KG00099321	Hypersensitivity NOS	0.03282210975885391
+trial_2	chlorprothixene	28	KG00099347	hypoglycaemia	0.032134830951690674
+trial_2	chlorprothixene	30	KG00099500	Acute Kidney Failure	0.031705938279628754
+trial_2	chlorprothixene	242	KG00100855	tremors	0.031695231795310974
+trial_2	chlorprothixene	300	KG00101064	xerostomia	0.03167543560266495
+trial_2	chlorprothixene	179	KG00099342	hypocalcaemia	0.03159130737185478
+trial_2	chlorprothixene	61	KG00099501	Chronic Kidney Failure	0.030809791758656502
+trial_2	chlorprothixene	194	KG00110727	Neutrophil Count Decreased	0.02989538200199604
+trial_2	chlorprothixene	243	KG00100947	Micturition frequency increased	0.02985575422644615
+trial_2	chlorprothixene	27	KG00099303	hyperkalaemia	0.027158822864294052
+trial_2	chlorprothixene	466	KG00101205	fall	0.0269529540091753
+trial_2	chlorprothixene	142	KG00100923	Unspecified infectious and parasitic diseases	0.026951247826218605
+trial_2	chlorprothixene	1	KG00099959	Neutropenia NOS	0.026411157101392746
+trial_2	chlorprothixene	139	KG00098855	Sinusitis, Ethmoid	0.0256256815046072
+trial_2	chlorprothixene	147	KG00098000	atelectases	0.02550288289785385
+trial_2	chlorprothixene	72	KG00103771	myalgias	0.025119628757238388
+trial_2	chlorprothixene	5	KG00099169	haematuria	0.02462901547551155
+trial_2	chlorprothixene	121	KG00099190	haemorrhage	0.023857343941926956
+trial_2	chlorprothixene	131	KG00100948	Urinary tract infection (& [NOS])	0.023739509284496307
+trial_2	chlorprothixene	261	KG00101559	raised alkaline phosphatase	0.023370003327727318
+trial_2	chlorprothixene	269	KG00100399	pyaemia	0.023204712197184563
+trial_2	chlorprothixene	92	KG00100926	Infections, Upper Respiratory	0.023052599281072617
+trial_2	chlorprothixene	154	KG00099686	Lymphopenias	0.022894084453582764
+trial_2	chlorprothixene	199	KG00098371	Rhinitis (chronic) NOS	0.02265121415257454
+trial_2	chlorprothixene	18	KG00098307	Pain, Chest	0.022617951035499573
+trial_2	chlorprothixene	69	KG00100082	Palpitations NOS	0.022334754467010498
+trial_2	chlorprothixene	144	KG00099610	Leukopenia NOS	0.022192809730768204
+trial_2	chlorprothixene	36	KG00106434	Vision, Blurring Of	0.022132139652967453
+trial_2	chlorprothixene	396	KG00100373	Embolism, Pulmonary	0.022119801491498947
+trial_2	chlorprothixene	191	KG00104055	Biliverdin increased	0.02187698520720005
+trial_2	chlorprothixene	38	KG00098066	Binocular vision disorders	0.02175986021757126
+trial_2	chlorprothixene	249	KG00104430	hypoalbuminaemia	0.021500715985894203
+trial_2	chlorprothixene	164	KG00108827	ileus colon	0.021289831027388573
+trial_2	chlorprothixene	355	KG00110857	lymphocyte count decreased	0.021193791180849075
+trial_2	chlorprothixene	116	KG00098964	Pain in foot	0.020868895575404167
+trial_2	chlorprothixene	130	KG00100683	Stomatitis NOS	0.020391935482621193
+trial_2	chlorprothixene	35	KG00101507	hypomagnesaemia	0.019967224448919296
+trial_2	chlorprothixene	341	KG00101472	Gamma-glutamyltransferase increased	0.019803626462817192
+trial_2	chlorprothixene	253	KG00100232	Pleural effusion NOS (disorder)	0.019586943089962006
+trial_2	chlorprothixene	152	KG00099402	INCONTINENCE NOS	0.01953364908695221
+trial_2	chlorprothixene	282	KG00099309	hypernatraemia	0.019423848018050194
+trial_2	chlorprothixene	456	KG00099420	Influenzae	0.01887574791908264
+trial_2	chlorprothixene	256	KG00100738	Tachycardia, Sinus	0.01885090582072735
+trial_2	chlorprothixene	234	KG00098669	dysgeusias	0.01883169822394848
+trial_2	chlorprothixene	118	KG00099011	Gastritis NOS	0.018564270809292793
+trial_2	chlorprothixene	356	KG00112623	Infectious Lung Disorders	0.01854502409696579
+trial_2	chlorprothixene	297	KG00099294	hypercholesterolaemia	0.018340375274419785
+trial_2	chlorprothixene	211	KG00100341	Pruritus NOS	0.01832812838256359
+trial_2	chlorprothixene	276	KG00099127	Arrest, Cardiac	0.01832597143948078
+trial_2	chlorprothixene	361	KG00098004	Fibrillation, Atrial	0.018251042813062668
+trial_2	chlorprothixene	11	KG00097993	Asthma NOS	0.01825014129281044
+trial_2	chlorprothixene	82	KG00097697	abdomen distended	0.018247442319989204
+trial_2	chlorprothixene	22	KG00098705	Edema (NOS)	0.01807365193963051
+trial_2	chlorprothixene	232	KG00097997	Ataxia NOS	0.017804114148020744
+trial_2	chlorprothixene	394	KG00100243	Pneumonia, Aspiration	0.01777331344783306
+trial_2	chlorprothixene	170	KG00108926	Neutropenia, Febrile	0.017700761556625366
+trial_2	chlorprothixene	153	KG00099579	lethargy	0.017582779750227928
+trial_2	chlorprothixene	422	KG00101429	Creatine phosphokinase increased	0.01718886010348797
+trial_2	chlorprothixene	288	KG00101223	hypophosphataemia	0.017102543264627457

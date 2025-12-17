@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2517009675502777
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2504766583442688
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.19665399193763733
+trial_1	placebo	123	KG00099351	hypokalaemia	0.18540410697460175
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15724563598632812
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15346835553646088
+trial_1	placebo	20	KG00098540	dehydration	0.14775370061397552
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.14358283579349518
+trial_1	placebo	21	KG00098675	dyspnoea	0.13666385412216187
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.13601860404014587
+trial_1	placebo	14	KG00097852	Anemia NOS	0.13491015136241913
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1308615356683731
+trial_1	placebo	46	KG00099121	Headache NOS	0.12938334047794342
+trial_1	placebo	68	KG00099901	nauseas	0.1255171298980713
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.12295790016651154
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1210293173789978
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11232515424489975
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.11141116172075272
+trial_1	placebo	350	KG00106765	decreased platelet count	0.11026737093925476
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10820595920085907
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.10316388309001923
+trial_1	placebo	228	KG00114657	Weight below normal	0.10060106217861176
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0987708643078804
+trial_1	placebo	114	KG00098933	fevers	0.0950675755739212
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.09506183862686157
+trial_1	placebo	29	KG00099354	hyponatraemia	0.09371741861104965
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.09158121049404144
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08937237411737442
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.08485233783721924
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0831705629825592
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.08279703557491302
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.08167709410190582
+trial_1	placebo	126	KG00100076	Pain NOS	0.08118238300085068
+trial_1	placebo	5	KG00099169	haematuria	0.08085270971059799
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07696080207824707
+trial_1	placebo	85	KG00098474	coughs	0.07661908864974976
+trial_1	placebo	72	KG00103771	myalgias	0.07619906216859818
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0752662643790245
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0749485045671463
+trial_1	placebo	104	KG00097963	arthralgias	0.07470012456178665
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0722847506403923
+trial_1	placebo	239	KG00100128	pareses	0.07196731120347977
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.06875681132078171
+trial_1	placebo	147	KG00098000	atelectases	0.06808269023895264
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06805313378572464
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06352873146533966
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0634460523724556
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.061870425939559937
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.059277262538671494
+trial_1	placebo	102	KG00097916	anxieties	0.05920974910259247
+trial_1	placebo	116	KG00098964	Pain in foot	0.058806098997592926
+trial_1	placebo	282	KG00099309	hypernatraemia	0.05800768360495567
+trial_1	placebo	269	KG00100399	pyaemia	0.057203590869903564
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05703231692314148
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05672797933220863
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.056286852806806564
+trial_1	placebo	18	KG00098307	Pain, Chest	0.056068163365125656
+trial_1	placebo	82	KG00097697	abdomen distended	0.05606269836425781
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05507922172546387
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.05338059365749359
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.052781399339437485
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.05129905045032501
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.05070894584059715
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.05058399215340614
+trial_1	placebo	132	KG00101045	Gain, Weight	0.050006210803985596
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.049924153834581375
+trial_1	placebo	186	KG00101431	creatinine increased	0.048186030238866806
+trial_1	placebo	234	KG00098669	dysgeusias	0.047657497227191925
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04670992121100426
+trial_1	placebo	164	KG00108827	ileus colon	0.04669307917356491
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.046173159033060074
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.04611163213849068
+trial_1	placebo	262	KG00101199	agitation	0.045921772718429565
+trial_1	placebo	441	KG00098262	cellulitis nos	0.045100137591362
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.044880516827106476
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04458476975560188
+trial_1	placebo	221	KG00101207	peripheral oedema	0.04232950136065483
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.042157549411058426
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04192005470395088
+trial_1	placebo	466	KG00101205	fall	0.041787758469581604
+trial_1	placebo	508	KG00108565	blood glucose increased	0.041606537997722626
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.04053807631134987
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03995372727513313
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.03914884850382805
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.039116378873586655
+trial_1	placebo	100	KG00097815	alopecias	0.03880390152335167
+trial_1	placebo	212	KG00100576	shivers	0.03861267492175102
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03840693086385727
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03775035962462425
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03702893853187561
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03688898682594299
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.03640594333410263
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.036288656294345856
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.036174990236759186
+trial_1	placebo	153	KG00099579	lethargy	0.03573310747742653
+trial_1	placebo	4	KG00098817	epistaxis	0.035720095038414
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03531744331121445
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03505904600024223
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.034791313111782074
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03464687243103981
+trial_2	cefodizime	87	KG00098599	diarrhoea	0.2517009675502777
+trial_2	cefodizime	78	KG00099326	Hypertensive diseases	0.2504766583442688
+trial_2	cefodizime	177	KG00099299	hyperglycaemia	0.19665399193763733
+trial_2	cefodizime	123	KG00099351	hypokalaemia	0.18540410697460175
+trial_2	cefodizime	17	KG00097991	Asthenia NOS	0.15724563598632812
+trial_2	cefodizime	9	KG00098432	Confusion NOS	0.15346835553646088
+trial_2	cefodizime	20	KG00098540	dehydration	0.14775370061397552
+trial_2	cefodizime	173	KG00098172	Bronchopneumonia NOS	0.14358283579349518
+trial_2	cefodizime	21	KG00098675	dyspnoea	0.13666385412216187
+trial_2	cefodizime	37	KG00097696	Cramps, Abdominal	0.13601860404014587
+trial_2	cefodizime	14	KG00097852	Anemia NOS	0.13491015136241913
+trial_2	cefodizime	189	KG00101580	Alanine aminotransferase increase	0.1308615356683731
+trial_2	cefodizime	46	KG00099121	Headache NOS	0.12938334047794342
+trial_2	cefodizime	68	KG00099901	nauseas	0.1255171298980713
+trial_2	cefodizime	188	KG00101579	Aspartate aminotransferase increase	0.12295790016651154
+trial_2	cefodizime	49	KG00099902	nausea with vomiting	0.1210293173789978
+trial_2	cefodizime	79	KG00100317	Insomnia, Primary	0.11232515424489975
+trial_2	cefodizime	2	KG00100772	thrombocytopaenia	0.11141116172075272
+trial_2	cefodizime	350	KG00106765	decreased platelet count	0.11026737093925476
+trial_2	cefodizime	77	KG00098450	Constipation NOS	0.10820595920085907
+trial_2	cefodizime	200	KG00098539	Disorders, Deglutition	0.10316388309001923
+trial_2	cefodizime	228	KG00114657	Weight below normal	0.10060106217861176
+trial_2	cefodizime	67	KG00098673	Dyspepsia, NOS	0.0987708643078804
+trial_2	cefodizime	114	KG00098933	fevers	0.0950675755739212
+trial_2	cefodizime	76	KG00100450	Respiratory insufficiency, NOS	0.09506183862686157
+trial_2	cefodizime	29	KG00099354	hyponatraemia	0.09371741861104965
+trial_2	cefodizime	180	KG00099363	Hypotension NOS	0.09158121049404144
+trial_2	cefodizime	64	KG00097734	Acrodermatitis, NOS	0.08937237411737442
+trial_2	cefodizime	243	KG00100947	Micturition frequency increased	0.08485233783721924
+trial_2	cefodizime	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0831705629825592
+trial_2	cefodizime	61	KG00099501	Chronic Kidney Failure	0.08279703557491302
+trial_2	cefodizime	27	KG00099303	hyperkalaemia	0.08167709410190582
+trial_2	cefodizime	126	KG00100076	Pain NOS	0.08118238300085068
+trial_2	cefodizime	5	KG00099169	haematuria	0.08085270971059799
+trial_2	cefodizime	86	KG00098565	Depression, Mental	0.07696080207824707
+trial_2	cefodizime	85	KG00098474	coughs	0.07661908864974976
+trial_2	cefodizime	72	KG00103771	myalgias	0.07619906216859818
+trial_2	cefodizime	30	KG00099500	Acute Kidney Failure	0.0752662643790245
+trial_2	cefodizime	179	KG00099342	hypocalcaemia	0.0749485045671463
+trial_2	cefodizime	104	KG00097963	arthralgias	0.07470012456178665
+trial_2	cefodizime	28	KG00099347	hypoglycaemia	0.0722847506403923
+trial_2	cefodizime	239	KG00100128	pareses	0.07196731120347977
+trial_2	cefodizime	276	KG00099127	Arrest, Cardiac	0.06875681132078171
+trial_2	cefodizime	147	KG00098000	atelectases	0.06808269023895264
+trial_2	cefodizime	101	KG00097901	Anorexia NOS	0.06805313378572464
+trial_2	cefodizime	151	KG00098274	Infarction, Cerebral	0.06352873146533966
+trial_2	cefodizime	131	KG00100948	Urinary tract infection (& [NOS])	0.0634460523724556
+trial_2	cefodizime	194	KG00110727	Neutrophil Count Decreased	0.061870425939559937
+trial_2	cefodizime	35	KG00101507	hypomagnesaemia	0.059277262538671494
+trial_2	cefodizime	102	KG00097916	anxieties	0.05920974910259247
+trial_2	cefodizime	116	KG00098964	Pain in foot	0.058806098997592926
+trial_2	cefodizime	282	KG00099309	hypernatraemia	0.05800768360495567
+trial_2	cefodizime	269	KG00100399	pyaemia	0.057203590869903564
+trial_2	cefodizime	261	KG00101559	raised alkaline phosphatase	0.05703231692314148
+trial_2	cefodizime	139	KG00098855	Sinusitis, Ethmoid	0.05672797933220863
+trial_2	cefodizime	144	KG00099610	Leukopenia NOS	0.056286852806806564
+trial_2	cefodizime	18	KG00098307	Pain, Chest	0.056068163365125656
+trial_2	cefodizime	82	KG00097697	abdomen distended	0.05606269836425781
+trial_2	cefodizime	122	KG00099321	Hypersensitivity NOS	0.05507922172546387
+trial_2	cefodizime	69	KG00100082	Palpitations NOS	0.05338059365749359
+trial_2	cefodizime	396	KG00100373	Embolism, Pulmonary	0.052781399339437485
+trial_2	cefodizime	355	KG00110857	lymphocyte count decreased	0.05129905045032501
+trial_2	cefodizime	249	KG00104430	hypoalbuminaemia	0.05070894584059715
+trial_2	cefodizime	253	KG00100232	Pleural effusion NOS (disorder)	0.05058399215340614
+trial_2	cefodizime	132	KG00101045	Gain, Weight	0.050006210803985596
+trial_2	cefodizime	191	KG00104055	Biliverdin increased	0.049924153834581375
+trial_2	cefodizime	186	KG00101431	creatinine increased	0.048186030238866806
+trial_2	cefodizime	234	KG00098669	dysgeusias	0.047657497227191925
+trial_2	cefodizime	38	KG00098066	Binocular vision disorders	0.04670992121100426
+trial_2	cefodizime	164	KG00108827	ileus colon	0.04669307917356491
+trial_2	cefodizime	96	KG00101679	Unattended death NOS	0.046173159033060074
+trial_2	cefodizime	204	KG00098849	Esophagitis, Peptic	0.04611163213849068
+trial_2	cefodizime	262	KG00101199	agitation	0.045921772718429565
+trial_2	cefodizime	441	KG00098262	cellulitis nos	0.045100137591362
+trial_2	cefodizime	288	KG00101223	hypophosphataemia	0.044880516827106476
+trial_2	cefodizime	92	KG00100926	Infections, Upper Respiratory	0.04458476975560188
+trial_2	cefodizime	221	KG00101207	peripheral oedema	0.04232950136065483
+trial_2	cefodizime	1	KG00099959	Neutropenia NOS	0.042157549411058426
+trial_2	cefodizime	130	KG00100683	Stomatitis NOS	0.04192005470395088
+trial_2	cefodizime	466	KG00101205	fall	0.041787758469581604
+trial_2	cefodizime	508	KG00108565	blood glucose increased	0.041606537997722626
+trial_2	cefodizime	75	KG00100195	Dolens, Phlegmasia Alba	0.04053807631134987
+trial_2	cefodizime	97	KG00104198	LIVER ENZYME ELEVATED	0.03995372727513313
+trial_2	cefodizime	494	KG00099838	Organ Failure, Multiple	0.03914884850382805
+trial_2	cefodizime	36	KG00106434	Vision, Blurring Of	0.039116378873586655
+trial_2	cefodizime	100	KG00097815	alopecias	0.03880390152335167
+trial_2	cefodizime	212	KG00100576	shivers	0.03861267492175102
+trial_2	cefodizime	341	KG00101472	Gamma-glutamyltransferase increased	0.03840693086385727
+trial_2	cefodizime	361	KG00098004	Fibrillation, Atrial	0.03775035962462425
+trial_2	cefodizime	286	KG00101110	Retention, Urinary	0.03702893853187561
+trial_2	cefodizime	142	KG00100923	Unspecified infectious and parasitic diseases	0.03688898682594299
+trial_2	cefodizime	268	KG00099557	Heart Failure, Left-Sided	0.03640594333410263
+trial_2	cefodizime	400	KG00100925	Upper gastrointestinal haemorrhage	0.036288656294345856
+trial_2	cefodizime	256	KG00100738	Tachycardia, Sinus	0.036174990236759186
+trial_2	cefodizime	153	KG00099579	lethargy	0.03573310747742653
+trial_2	cefodizime	4	KG00098817	epistaxis	0.035720095038414
+trial_2	cefodizime	31	KG00099872	Infarction, Myocardial	0.03531744331121445
+trial_2	cefodizime	211	KG00100341	Pruritus NOS	0.03505904600024223
+trial_2	cefodizime	98	KG00097718	Incised wound, NOS	0.034791313111782074
+trial_2	cefodizime	166	KG00099773	menopausal syndrome	0.03464687243103981

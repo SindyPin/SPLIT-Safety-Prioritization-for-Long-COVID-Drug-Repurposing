@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12629707157611847
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0888223946094513
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08829395473003387
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07644058018922806
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06507217139005661
+trial_1	placebo	14	KG00097852	Anemia NOS	0.061558954417705536
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06141021475195885
+trial_1	placebo	21	KG00098675	dyspnoea	0.05524008348584175
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05512004718184471
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05492064356803894
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05472433939576149
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05450534448027611
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.053691763430833817
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05282624810934067
+trial_1	placebo	20	KG00098540	dehydration	0.051549747586250305
+trial_1	placebo	68	KG00099901	nauseas	0.05103062838315964
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.050227466970682144
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.049618639051914215
+trial_1	placebo	46	KG00099121	Headache NOS	0.047281406819820404
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04429210349917412
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04379415139555931
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04174927622079849
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.041535571217536926
+trial_1	placebo	29	KG00099354	hyponatraemia	0.041239142417907715
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04082629457116127
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04062053933739662
+trial_1	placebo	147	KG00098000	atelectases	0.04042656347155571
+trial_1	placebo	114	KG00098933	fevers	0.03977353498339653
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03953777253627777
+trial_1	placebo	269	KG00100399	pyaemia	0.038831524550914764
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.038557980209589005
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03713854029774666
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03440185636281967
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03435824438929558
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03405769169330597
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03348929435014725
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03164462000131607
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03154854103922844
+trial_1	placebo	126	KG00100076	Pain NOS	0.030905218794941902
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.029903868213295937
+trial_1	placebo	85	KG00098474	coughs	0.0294753760099411
+trial_1	placebo	164	KG00108827	ileus colon	0.029062502086162567
+trial_1	placebo	228	KG00114657	Weight below normal	0.02836453914642334
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.028313154354691505
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.027767570689320564
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02775641344487667
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027580831199884415
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027506766840815544
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.027463998645544052
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.026813454926013947
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.026569485664367676
+trial_1	placebo	5	KG00099169	haematuria	0.026443112641572952
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025422558188438416
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0250090342015028
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024175478145480156
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02394268289208412
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023127196356654167
+trial_1	placebo	234	KG00098669	dysgeusias	0.02299470268189907
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022792432457208633
+trial_1	placebo	239	KG00100128	pareses	0.022695256397128105
+trial_1	placebo	121	KG00099190	haemorrhage	0.022535964846611023
+trial_1	placebo	72	KG00103771	myalgias	0.022391561418771744
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02239096537232399
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022355347871780396
+trial_1	placebo	186	KG00101431	creatinine increased	0.022295190021395683
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02152276784181595
+trial_1	placebo	104	KG00097963	arthralgias	0.021241379901766777
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.020701518282294273
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02046004869043827
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020297259092330933
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.020186375826597214
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01960247941315174
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.019360845908522606
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01915421336889267
+trial_1	placebo	82	KG00097697	abdomen distended	0.018352067098021507
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.01789744570851326
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01783313788473606
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.016802338883280754
+trial_1	placebo	102	KG00097916	anxieties	0.01658177562057972
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01630268432199955
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01624147780239582
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.016222205013036728
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.01603977009654045
+trial_1	placebo	262	KG00101199	agitation	0.015971025452017784
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01590045914053917
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015780465677380562
+trial_1	placebo	4	KG00098817	epistaxis	0.015538912266492844
+trial_1	placebo	116	KG00098964	Pain in foot	0.015524972230196
+trial_1	placebo	503	KG00102612	low haemoglobin	0.015465722419321537
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015156337060034275
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.014999854378402233
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01486812625080347
+trial_1	placebo	713	KG00107657	distressed respiratory	0.014667470939457417
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.014486836269497871
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.014437339268624783
+trial_1	placebo	100	KG00097815	alopecias	0.014414058066904545
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01423395611345768
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.014059482142329216
+trial_1	placebo	398	KG00100580	Shock, Septic	0.013993457891047001
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.013988150283694267
+trial_2	cefoxitin	87	KG00098599	diarrhoea	0.12629707157611847
+trial_2	cefoxitin	123	KG00099351	hypokalaemia	0.0888223946094513
+trial_2	cefoxitin	78	KG00099326	Hypertensive diseases	0.08829395473003387
+trial_2	cefoxitin	177	KG00099299	hyperglycaemia	0.07644058018922806
+trial_2	cefoxitin	9	KG00098432	Confusion NOS	0.06507217139005661
+trial_2	cefoxitin	14	KG00097852	Anemia NOS	0.061558954417705536
+trial_2	cefoxitin	173	KG00098172	Bronchopneumonia NOS	0.06141021475195885
+trial_2	cefoxitin	21	KG00098675	dyspnoea	0.05524008348584175
+trial_2	cefoxitin	2	KG00100772	thrombocytopaenia	0.05512004718184471
+trial_2	cefoxitin	17	KG00097991	Asthenia NOS	0.05492064356803894
+trial_2	cefoxitin	37	KG00097696	Cramps, Abdominal	0.05472433939576149
+trial_2	cefoxitin	61	KG00099501	Chronic Kidney Failure	0.05450534448027611
+trial_2	cefoxitin	189	KG00101580	Alanine aminotransferase increase	0.053691763430833817
+trial_2	cefoxitin	76	KG00100450	Respiratory insufficiency, NOS	0.05282624810934067
+trial_2	cefoxitin	20	KG00098540	dehydration	0.051549747586250305
+trial_2	cefoxitin	68	KG00099901	nauseas	0.05103062838315964
+trial_2	cefoxitin	49	KG00099902	nausea with vomiting	0.050227466970682144
+trial_2	cefoxitin	188	KG00101579	Aspartate aminotransferase increase	0.049618639051914215
+trial_2	cefoxitin	46	KG00099121	Headache NOS	0.047281406819820404
+trial_2	cefoxitin	180	KG00099363	Hypotension NOS	0.04429210349917412
+trial_2	cefoxitin	350	KG00106765	decreased platelet count	0.04379415139555931
+trial_2	cefoxitin	30	KG00099500	Acute Kidney Failure	0.04174927622079849
+trial_2	cefoxitin	200	KG00098539	Disorders, Deglutition	0.041535571217536926
+trial_2	cefoxitin	29	KG00099354	hyponatraemia	0.041239142417907715
+trial_2	cefoxitin	77	KG00098450	Constipation NOS	0.04082629457116127
+trial_2	cefoxitin	276	KG00099127	Arrest, Cardiac	0.04062053933739662
+trial_2	cefoxitin	147	KG00098000	atelectases	0.04042656347155571
+trial_2	cefoxitin	114	KG00098933	fevers	0.03977353498339653
+trial_2	cefoxitin	67	KG00098673	Dyspepsia, NOS	0.03953777253627777
+trial_2	cefoxitin	269	KG00100399	pyaemia	0.038831524550914764
+trial_2	cefoxitin	64	KG00097734	Acrodermatitis, NOS	0.038557980209589005
+trial_2	cefoxitin	151	KG00098274	Infarction, Cerebral	0.03713854029774666
+trial_2	cefoxitin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03440185636281967
+trial_2	cefoxitin	79	KG00100317	Insomnia, Primary	0.03435824438929558
+trial_2	cefoxitin	396	KG00100373	Embolism, Pulmonary	0.03405769169330597
+trial_2	cefoxitin	179	KG00099342	hypocalcaemia	0.03348929435014725
+trial_2	cefoxitin	142	KG00100923	Unspecified infectious and parasitic diseases	0.03164462000131607
+trial_2	cefoxitin	27	KG00099303	hyperkalaemia	0.03154854103922844
+trial_2	cefoxitin	126	KG00100076	Pain NOS	0.030905218794941902
+trial_2	cefoxitin	96	KG00101679	Unattended death NOS	0.029903868213295937
+trial_2	cefoxitin	85	KG00098474	coughs	0.0294753760099411
+trial_2	cefoxitin	164	KG00108827	ileus colon	0.029062502086162567
+trial_2	cefoxitin	228	KG00114657	Weight below normal	0.02836453914642334
+trial_2	cefoxitin	144	KG00099610	Leukopenia NOS	0.028313154354691505
+trial_2	cefoxitin	243	KG00100947	Micturition frequency increased	0.027767570689320564
+trial_2	cefoxitin	28	KG00099347	hypoglycaemia	0.02775641344487667
+trial_2	cefoxitin	194	KG00110727	Neutrophil Count Decreased	0.027580831199884415
+trial_2	cefoxitin	249	KG00104430	hypoalbuminaemia	0.027506766840815544
+trial_2	cefoxitin	35	KG00101507	hypomagnesaemia	0.027463998645544052
+trial_2	cefoxitin	122	KG00099321	Hypersensitivity NOS	0.026813454926013947
+trial_2	cefoxitin	1	KG00099959	Neutropenia NOS	0.026569485664367676
+trial_2	cefoxitin	5	KG00099169	haematuria	0.026443112641572952
+trial_2	cefoxitin	261	KG00101559	raised alkaline phosphatase	0.025422558188438416
+trial_2	cefoxitin	69	KG00100082	Palpitations NOS	0.0250090342015028
+trial_2	cefoxitin	131	KG00100948	Urinary tract infection (& [NOS])	0.024175478145480156
+trial_2	cefoxitin	130	KG00100683	Stomatitis NOS	0.02394268289208412
+trial_2	cefoxitin	253	KG00100232	Pleural effusion NOS (disorder)	0.023127196356654167
+trial_2	cefoxitin	234	KG00098669	dysgeusias	0.02299470268189907
+trial_2	cefoxitin	282	KG00099309	hypernatraemia	0.022792432457208633
+trial_2	cefoxitin	239	KG00100128	pareses	0.022695256397128105
+trial_2	cefoxitin	121	KG00099190	haemorrhage	0.022535964846611023
+trial_2	cefoxitin	72	KG00103771	myalgias	0.022391561418771744
+trial_2	cefoxitin	361	KG00098004	Fibrillation, Atrial	0.02239096537232399
+trial_2	cefoxitin	75	KG00100195	Dolens, Phlegmasia Alba	0.022355347871780396
+trial_2	cefoxitin	186	KG00101431	creatinine increased	0.022295190021395683
+trial_2	cefoxitin	191	KG00104055	Biliverdin increased	0.02152276784181595
+trial_2	cefoxitin	104	KG00097963	arthralgias	0.021241379901766777
+trial_2	cefoxitin	101	KG00097901	Anorexia NOS	0.020701518282294273
+trial_2	cefoxitin	86	KG00098565	Depression, Mental	0.02046004869043827
+trial_2	cefoxitin	441	KG00098262	cellulitis nos	0.020297259092330933
+trial_2	cefoxitin	494	KG00099838	Organ Failure, Multiple	0.020186375826597214
+trial_2	cefoxitin	18	KG00098307	Pain, Chest	0.01960247941315174
+trial_2	cefoxitin	183	KG00100449	Adult Respiratory Distress Syndrome	0.019360845908522606
+trial_2	cefoxitin	31	KG00099872	Infarction, Myocardial	0.01915421336889267
+trial_2	cefoxitin	82	KG00097697	abdomen distended	0.018352067098021507
+trial_2	cefoxitin	268	KG00099557	Heart Failure, Left-Sided	0.01789744570851326
+trial_2	cefoxitin	355	KG00110857	lymphocyte count decreased	0.01783313788473606
+trial_2	cefoxitin	356	KG00112623	Infectious Lung Disorders	0.016802338883280754
+trial_2	cefoxitin	102	KG00097916	anxieties	0.01658177562057972
+trial_2	cefoxitin	38	KG00098066	Binocular vision disorders	0.01630268432199955
+trial_2	cefoxitin	133	KG00101370	neuropathies sensory	0.01624147780239582
+trial_2	cefoxitin	288	KG00101223	hypophosphataemia	0.016222205013036728
+trial_2	cefoxitin	170	KG00108926	Neutropenia, Febrile	0.01603977009654045
+trial_2	cefoxitin	262	KG00101199	agitation	0.015971025452017784
+trial_2	cefoxitin	92	KG00100926	Infections, Upper Respiratory	0.01590045914053917
+trial_2	cefoxitin	154	KG00099686	Lymphopenias	0.015780465677380562
+trial_2	cefoxitin	4	KG00098817	epistaxis	0.015538912266492844
+trial_2	cefoxitin	116	KG00098964	Pain in foot	0.015524972230196
+trial_2	cefoxitin	503	KG00102612	low haemoglobin	0.015465722419321537
+trial_2	cefoxitin	15	KG00097882	Angina pectoris NOS	0.015156337060034275
+trial_2	cefoxitin	256	KG00100738	Tachycardia, Sinus	0.014999854378402233
+trial_2	cefoxitin	221	KG00101207	peripheral oedema	0.01486812625080347
+trial_2	cefoxitin	713	KG00107657	distressed respiratory	0.014667470939457417
+trial_2	cefoxitin	561	KG00104180	Diarrhoea, Clostridium difficile	0.014486836269497871
+trial_2	cefoxitin	394	KG00100243	Pneumonia, Aspiration	0.014437339268624783
+trial_2	cefoxitin	100	KG00097815	alopecias	0.014414058066904545
+trial_2	cefoxitin	286	KG00101110	Retention, Urinary	0.01423395611345768
+trial_2	cefoxitin	97	KG00104198	LIVER ENZYME ELEVATED	0.014059482142329216
+trial_2	cefoxitin	398	KG00100580	Shock, Septic	0.013993457891047001
+trial_2	cefoxitin	883	KG00107760	Neonatal cardiorespiratory arrest	0.013988150283694267

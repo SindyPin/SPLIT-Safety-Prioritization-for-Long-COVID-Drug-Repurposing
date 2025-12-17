@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.193355992436409
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16602987051010132
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.16071631014347076
+trial_1	placebo	123	KG00099351	hypokalaemia	0.15039068460464478
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12121359258890152
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11681777983903885
+trial_1	placebo	68	KG00099901	nauseas	0.10907687991857529
+trial_1	placebo	20	KG00098540	dehydration	0.108818419277668
+trial_1	placebo	46	KG00099121	Headache NOS	0.10208814591169357
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09864631295204163
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09764647483825684
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09710303694009781
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0912466049194336
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09098955243825912
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08975708484649658
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08942252397537231
+trial_1	placebo	21	KG00098675	dyspnoea	0.08750718086957932
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08264216035604477
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08056636154651642
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07819097489118576
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07625073194503784
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07624106854200363
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07461098581552505
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07236476242542267
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07183462381362915
+trial_1	placebo	228	KG00114657	Weight below normal	0.07045584172010422
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06928887963294983
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0685822069644928
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06573314964771271
+trial_1	placebo	114	KG00098933	fevers	0.06388455629348755
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0638142004609108
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06043384224176407
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06001079082489014
+trial_1	placebo	126	KG00100076	Pain NOS	0.05606457591056824
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05374503135681152
+trial_1	placebo	72	KG00103771	myalgias	0.05334595590829849
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05287811532616615
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05202840641140938
+trial_1	placebo	147	KG00098000	atelectases	0.051844410598278046
+trial_1	placebo	239	KG00100128	pareses	0.05154906213283539
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05143863335251808
+trial_1	placebo	5	KG00099169	haematuria	0.05015748366713524
+trial_1	placebo	85	KG00098474	coughs	0.049947839230298996
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04952847212553024
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04912170022726059
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.049030084162950516
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.048512838780879974
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04850932955741882
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.048306215554475784
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04618658870458603
+trial_1	placebo	164	KG00108827	ileus colon	0.04562414065003395
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04550926759839058
+trial_1	placebo	104	KG00097963	arthralgias	0.04527682438492775
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.043920472264289856
+trial_1	placebo	269	KG00100399	pyaemia	0.043368708342313766
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04243754968047142
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.041066959500312805
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.040463224053382874
+trial_1	placebo	82	KG00097697	abdomen distended	0.03930952027440071
+trial_1	placebo	234	KG00098669	dysgeusias	0.03892122954130173
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03838540241122246
+trial_1	placebo	186	KG00101431	creatinine increased	0.03775359317660332
+trial_1	placebo	102	KG00097916	anxieties	0.03742918372154236
+trial_1	placebo	100	KG00097815	alopecias	0.035875797271728516
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03579185530543327
+trial_1	placebo	262	KG00101199	agitation	0.03573606535792351
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03559231385588646
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03480568900704384
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03459668532013893
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03406743332743645
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0340534970164299
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03390765190124512
+trial_1	placebo	116	KG00098964	Pain in foot	0.03347117826342583
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.033221691846847534
+trial_1	placebo	121	KG00099190	haemorrhage	0.033066701143980026
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03260170668363571
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03259566053748131
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.032580114901065826
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03129901364445686
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03103836067020893
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02958214096724987
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029078887775540352
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.028983594849705696
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028209509328007698
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0281917043030262
+trial_1	placebo	508	KG00108565	blood glucose increased	0.027775894850492477
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.027549605816602707
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02697516232728958
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.026963450014591217
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02644580602645874
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025852469727396965
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02578791230916977
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025774845853447914
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02568572200834751
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.025479542091488838
+trial_1	placebo	212	KG00100576	shivers	0.02527557872235775
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.025210527703166008
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.024742553010582924
+trial_1	placebo	503	KG00102612	low haemoglobin	0.024737922474741936
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.02431362494826317
+trial_2	cefamandole	87	KG00098599	diarrhoea	0.193355992436409
+trial_2	cefamandole	78	KG00099326	Hypertensive diseases	0.16602987051010132
+trial_2	cefamandole	177	KG00099299	hyperglycaemia	0.16071631014347076
+trial_2	cefamandole	123	KG00099351	hypokalaemia	0.15039068460464478
+trial_2	cefamandole	17	KG00097991	Asthenia NOS	0.12121359258890152
+trial_2	cefamandole	9	KG00098432	Confusion NOS	0.11681777983903885
+trial_2	cefamandole	68	KG00099901	nauseas	0.10907687991857529
+trial_2	cefamandole	20	KG00098540	dehydration	0.108818419277668
+trial_2	cefamandole	46	KG00099121	Headache NOS	0.10208814591169357
+trial_2	cefamandole	49	KG00099902	nausea with vomiting	0.09864631295204163
+trial_2	cefamandole	14	KG00097852	Anemia NOS	0.09764647483825684
+trial_2	cefamandole	189	KG00101580	Alanine aminotransferase increase	0.09710303694009781
+trial_2	cefamandole	188	KG00101579	Aspartate aminotransferase increase	0.0912466049194336
+trial_2	cefamandole	173	KG00098172	Bronchopneumonia NOS	0.09098955243825912
+trial_2	cefamandole	350	KG00106765	decreased platelet count	0.08975708484649658
+trial_2	cefamandole	37	KG00097696	Cramps, Abdominal	0.08942252397537231
+trial_2	cefamandole	21	KG00098675	dyspnoea	0.08750718086957932
+trial_2	cefamandole	200	KG00098539	Disorders, Deglutition	0.08264216035604477
+trial_2	cefamandole	29	KG00099354	hyponatraemia	0.08056636154651642
+trial_2	cefamandole	77	KG00098450	Constipation NOS	0.07819097489118576
+trial_2	cefamandole	2	KG00100772	thrombocytopaenia	0.07625073194503784
+trial_2	cefamandole	79	KG00100317	Insomnia, Primary	0.07624106854200363
+trial_2	cefamandole	67	KG00098673	Dyspepsia, NOS	0.07461098581552505
+trial_2	cefamandole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07236476242542267
+trial_2	cefamandole	180	KG00099363	Hypotension NOS	0.07183462381362915
+trial_2	cefamandole	228	KG00114657	Weight below normal	0.07045584172010422
+trial_2	cefamandole	76	KG00100450	Respiratory insufficiency, NOS	0.06928887963294983
+trial_2	cefamandole	179	KG00099342	hypocalcaemia	0.0685822069644928
+trial_2	cefamandole	27	KG00099303	hyperkalaemia	0.06573314964771271
+trial_2	cefamandole	114	KG00098933	fevers	0.06388455629348755
+trial_2	cefamandole	61	KG00099501	Chronic Kidney Failure	0.0638142004609108
+trial_2	cefamandole	64	KG00097734	Acrodermatitis, NOS	0.06043384224176407
+trial_2	cefamandole	243	KG00100947	Micturition frequency increased	0.06001079082489014
+trial_2	cefamandole	126	KG00100076	Pain NOS	0.05606457591056824
+trial_2	cefamandole	101	KG00097901	Anorexia NOS	0.05374503135681152
+trial_2	cefamandole	72	KG00103771	myalgias	0.05334595590829849
+trial_2	cefamandole	194	KG00110727	Neutrophil Count Decreased	0.05287811532616615
+trial_2	cefamandole	276	KG00099127	Arrest, Cardiac	0.05202840641140938
+trial_2	cefamandole	147	KG00098000	atelectases	0.051844410598278046
+trial_2	cefamandole	239	KG00100128	pareses	0.05154906213283539
+trial_2	cefamandole	28	KG00099347	hypoglycaemia	0.05143863335251808
+trial_2	cefamandole	5	KG00099169	haematuria	0.05015748366713524
+trial_2	cefamandole	85	KG00098474	coughs	0.049947839230298996
+trial_2	cefamandole	35	KG00101507	hypomagnesaemia	0.04952847212553024
+trial_2	cefamandole	30	KG00099500	Acute Kidney Failure	0.04912170022726059
+trial_2	cefamandole	122	KG00099321	Hypersensitivity NOS	0.049030084162950516
+trial_2	cefamandole	249	KG00104430	hypoalbuminaemia	0.048512838780879974
+trial_2	cefamandole	261	KG00101559	raised alkaline phosphatase	0.04850932955741882
+trial_2	cefamandole	151	KG00098274	Infarction, Cerebral	0.048306215554475784
+trial_2	cefamandole	282	KG00099309	hypernatraemia	0.04618658870458603
+trial_2	cefamandole	164	KG00108827	ileus colon	0.04562414065003395
+trial_2	cefamandole	86	KG00098565	Depression, Mental	0.04550926759839058
+trial_2	cefamandole	104	KG00097963	arthralgias	0.04527682438492775
+trial_2	cefamandole	144	KG00099610	Leukopenia NOS	0.043920472264289856
+trial_2	cefamandole	269	KG00100399	pyaemia	0.043368708342313766
+trial_2	cefamandole	96	KG00101679	Unattended death NOS	0.04243754968047142
+trial_2	cefamandole	355	KG00110857	lymphocyte count decreased	0.041066959500312805
+trial_2	cefamandole	142	KG00100923	Unspecified infectious and parasitic diseases	0.040463224053382874
+trial_2	cefamandole	82	KG00097697	abdomen distended	0.03930952027440071
+trial_2	cefamandole	234	KG00098669	dysgeusias	0.03892122954130173
+trial_2	cefamandole	131	KG00100948	Urinary tract infection (& [NOS])	0.03838540241122246
+trial_2	cefamandole	186	KG00101431	creatinine increased	0.03775359317660332
+trial_2	cefamandole	102	KG00097916	anxieties	0.03742918372154236
+trial_2	cefamandole	100	KG00097815	alopecias	0.035875797271728516
+trial_2	cefamandole	191	KG00104055	Biliverdin increased	0.03579185530543327
+trial_2	cefamandole	262	KG00101199	agitation	0.03573606535792351
+trial_2	cefamandole	396	KG00100373	Embolism, Pulmonary	0.03559231385588646
+trial_2	cefamandole	18	KG00098307	Pain, Chest	0.03480568900704384
+trial_2	cefamandole	1	KG00099959	Neutropenia NOS	0.03459668532013893
+trial_2	cefamandole	38	KG00098066	Binocular vision disorders	0.03406743332743645
+trial_2	cefamandole	69	KG00100082	Palpitations NOS	0.0340534970164299
+trial_2	cefamandole	253	KG00100232	Pleural effusion NOS (disorder)	0.03390765190124512
+trial_2	cefamandole	116	KG00098964	Pain in foot	0.03347117826342583
+trial_2	cefamandole	288	KG00101223	hypophosphataemia	0.033221691846847534
+trial_2	cefamandole	121	KG00099190	haemorrhage	0.033066701143980026
+trial_2	cefamandole	132	KG00101045	Gain, Weight	0.03260170668363571
+trial_2	cefamandole	154	KG00099686	Lymphopenias	0.03259566053748131
+trial_2	cefamandole	130	KG00100683	Stomatitis NOS	0.032580114901065826
+trial_2	cefamandole	139	KG00098855	Sinusitis, Ethmoid	0.03129901364445686
+trial_2	cefamandole	36	KG00106434	Vision, Blurring Of	0.03103836067020893
+trial_2	cefamandole	75	KG00100195	Dolens, Phlegmasia Alba	0.02958214096724987
+trial_2	cefamandole	204	KG00098849	Esophagitis, Peptic	0.029078887775540352
+trial_2	cefamandole	256	KG00100738	Tachycardia, Sinus	0.028983594849705696
+trial_2	cefamandole	361	KG00098004	Fibrillation, Atrial	0.028209509328007698
+trial_2	cefamandole	441	KG00098262	cellulitis nos	0.0281917043030262
+trial_2	cefamandole	508	KG00108565	blood glucose increased	0.027775894850492477
+trial_2	cefamandole	494	KG00099838	Organ Failure, Multiple	0.027549605816602707
+trial_2	cefamandole	221	KG00101207	peripheral oedema	0.02697516232728958
+trial_2	cefamandole	97	KG00104198	LIVER ENZYME ELEVATED	0.026963450014591217
+trial_2	cefamandole	341	KG00101472	Gamma-glutamyltransferase increased	0.02644580602645874
+trial_2	cefamandole	92	KG00100926	Infections, Upper Respiratory	0.025852469727396965
+trial_2	cefamandole	31	KG00099872	Infarction, Myocardial	0.02578791230916977
+trial_2	cefamandole	286	KG00101110	Retention, Urinary	0.025774845853447914
+trial_2	cefamandole	33	KG00100094	Pancreatitis NOS	0.02568572200834751
+trial_2	cefamandole	133	KG00101370	neuropathies sensory	0.025479542091488838
+trial_2	cefamandole	212	KG00100576	shivers	0.02527557872235775
+trial_2	cefamandole	268	KG00099557	Heart Failure, Left-Sided	0.025210527703166008
+trial_2	cefamandole	22	KG00098705	Edema (NOS)	0.024742553010582924
+trial_2	cefamandole	503	KG00102612	low haemoglobin	0.024737922474741936
+trial_2	cefamandole	183	KG00100449	Adult Respiratory Distress Syndrome	0.02431362494826317

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.16362866759300232
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11897233873605728
+trial_1	placebo	87	KG00098599	diarrhoea	0.1163884624838829
+trial_1	placebo	46	KG00099121	Headache NOS	0.08252760022878647
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08236623555421829
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07896248251199722
+trial_1	placebo	68	KG00099901	nauseas	0.07338351011276245
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06527253985404968
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.061592523008584976
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05362207815051079
+trial_1	placebo	21	KG00098675	dyspnoea	0.0515921525657177
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.046872206032276154
+trial_1	placebo	20	KG00098540	dehydration	0.04662984609603882
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04592154175043106
+trial_1	placebo	228	KG00114657	Weight below normal	0.04410891607403755
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04226964712142944
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.042217154055833817
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.039564430713653564
+trial_1	placebo	66	KG00098642	drowsiness	0.03919723257422447
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03663919121026993
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.035973500460386276
+trial_1	placebo	86	KG00098565	Depression, Mental	0.035609398037195206
+trial_1	placebo	300	KG00101064	xerostomia	0.03532891348004341
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03422752767801285
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03416111320257187
+trial_1	placebo	126	KG00100076	Pain NOS	0.033847518265247345
+trial_1	placebo	85	KG00098474	coughs	0.033354539424180984
+trial_1	placebo	104	KG00097963	arthralgias	0.03319530561566353
+trial_1	placebo	14	KG00097852	Anemia NOS	0.029309028759598732
+trial_1	placebo	102	KG00097916	anxieties	0.027818994596600533
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02741100639104843
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027299026027321815
+trial_1	placebo	114	KG00098933	fevers	0.026237210258841515
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02606012113392353
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02555510587990284
+trial_1	placebo	262	KG00101199	agitation	0.02393551915884018
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023324565961956978
+trial_1	placebo	242	KG00100855	tremors	0.023141663521528244
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.022995062172412872
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.022741779685020447
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022483861073851585
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02227388694882393
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02180768921971321
+trial_1	placebo	82	KG00097697	abdomen distended	0.02136952616274357
+trial_1	placebo	234	KG00098669	dysgeusias	0.021234381943941116
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02083508111536503
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.020624762400984764
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.020390911027789116
+trial_1	placebo	239	KG00100128	pareses	0.02033727802336216
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020304059609770775
+trial_1	placebo	350	KG00106765	decreased platelet count	0.019678879529237747
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019233552739024162
+trial_1	placebo	116	KG00098964	Pain in foot	0.019175855442881584
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018482573330402374
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018311886116862297
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01808820851147175
+trial_1	placebo	72	KG00103771	myalgias	0.01781916245818138
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017585309222340584
+trial_1	placebo	466	KG00101205	fall	0.01739402487874031
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017349475994706154
+trial_1	placebo	11	KG00097993	Asthma NOS	0.016849488019943237
+trial_1	placebo	5	KG00099169	haematuria	0.016520528122782707
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.016458671540021896
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01594846136868
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0158540029078722
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.015595903620123863
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015083391219377518
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015029042027890682
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.014634519815444946
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.014510491862893105
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014487292617559433
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01439588237553835
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014082721434533596
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.014035514555871487
+trial_1	placebo	136	KG00101582	Dry;skin	0.013561141677200794
+trial_1	placebo	345	KG00103926	impairments memory	0.013467065989971161
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.013430598191916943
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.013239494524896145
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.013216893188655376
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01298488024622202
+trial_1	placebo	269	KG00100399	pyaemia	0.012933347374200821
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.012812918052077293
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012799239717423916
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.012632249854505062
+trial_1	placebo	147	KG00098000	atelectases	0.012570138089358807
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01254348549991846
+trial_1	placebo	121	KG00099190	haemorrhage	0.012445426546037197
+trial_1	placebo	456	KG00099420	Influenzae	0.012357998639345169
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.012201252393424511
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.012086604721844196
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01200172957032919
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.011893215589225292
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01171767245978117
+trial_1	placebo	339	KG00100334	proteinurias	0.01171437744051218
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.011702067218720913
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.011597930453717709
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.011551190167665482
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.011522695422172546
+trial_1	placebo	333	KG00104019	DOPINESS	0.01144605502486229
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.011380819603800774
+trial_2	chlordiazepoxide	9	KG00098432	Confusion NOS	0.16362866759300232
+trial_2	chlordiazepoxide	17	KG00097991	Asthenia NOS	0.11897233873605728
+trial_2	chlordiazepoxide	87	KG00098599	diarrhoea	0.1163884624838829
+trial_2	chlordiazepoxide	46	KG00099121	Headache NOS	0.08252760022878647
+trial_2	chlordiazepoxide	77	KG00098450	Constipation NOS	0.08236623555421829
+trial_2	chlordiazepoxide	78	KG00099326	Hypertensive diseases	0.07896248251199722
+trial_2	chlordiazepoxide	68	KG00099901	nauseas	0.07338351011276245
+trial_2	chlordiazepoxide	79	KG00100317	Insomnia, Primary	0.06527253985404968
+trial_2	chlordiazepoxide	49	KG00099902	nausea with vomiting	0.061592523008584976
+trial_2	chlordiazepoxide	177	KG00099299	hyperglycaemia	0.05362207815051079
+trial_2	chlordiazepoxide	21	KG00098675	dyspnoea	0.0515921525657177
+trial_2	chlordiazepoxide	37	KG00097696	Cramps, Abdominal	0.046872206032276154
+trial_2	chlordiazepoxide	20	KG00098540	dehydration	0.04662984609603882
+trial_2	chlordiazepoxide	173	KG00098172	Bronchopneumonia NOS	0.04592154175043106
+trial_2	chlordiazepoxide	228	KG00114657	Weight below normal	0.04410891607403755
+trial_2	chlordiazepoxide	132	KG00101045	Gain, Weight	0.04226964712142944
+trial_2	chlordiazepoxide	67	KG00098673	Dyspepsia, NOS	0.042217154055833817
+trial_2	chlordiazepoxide	64	KG00097734	Acrodermatitis, NOS	0.039564430713653564
+trial_2	chlordiazepoxide	66	KG00098642	drowsiness	0.03919723257422447
+trial_2	chlordiazepoxide	123	KG00099351	hypokalaemia	0.03663919121026993
+trial_2	chlordiazepoxide	101	KG00097901	Anorexia NOS	0.035973500460386276
+trial_2	chlordiazepoxide	86	KG00098565	Depression, Mental	0.035609398037195206
+trial_2	chlordiazepoxide	300	KG00101064	xerostomia	0.03532891348004341
+trial_2	chlordiazepoxide	151	KG00098274	Infarction, Cerebral	0.03422752767801285
+trial_2	chlordiazepoxide	180	KG00099363	Hypotension NOS	0.03416111320257187
+trial_2	chlordiazepoxide	126	KG00100076	Pain NOS	0.033847518265247345
+trial_2	chlordiazepoxide	85	KG00098474	coughs	0.033354539424180984
+trial_2	chlordiazepoxide	104	KG00097963	arthralgias	0.03319530561566353
+trial_2	chlordiazepoxide	14	KG00097852	Anemia NOS	0.029309028759598732
+trial_2	chlordiazepoxide	102	KG00097916	anxieties	0.027818994596600533
+trial_2	chlordiazepoxide	200	KG00098539	Disorders, Deglutition	0.02741100639104843
+trial_2	chlordiazepoxide	29	KG00099354	hyponatraemia	0.027299026027321815
+trial_2	chlordiazepoxide	114	KG00098933	fevers	0.026237210258841515
+trial_2	chlordiazepoxide	189	KG00101580	Alanine aminotransferase increase	0.02606012113392353
+trial_2	chlordiazepoxide	243	KG00100947	Micturition frequency increased	0.02555510587990284
+trial_2	chlordiazepoxide	262	KG00101199	agitation	0.02393551915884018
+trial_2	chlordiazepoxide	131	KG00100948	Urinary tract infection (& [NOS])	0.023324565961956978
+trial_2	chlordiazepoxide	242	KG00100855	tremors	0.023141663521528244
+trial_2	chlordiazepoxide	76	KG00100450	Respiratory insufficiency, NOS	0.022995062172412872
+trial_2	chlordiazepoxide	188	KG00101579	Aspartate aminotransferase increase	0.022741779685020447
+trial_2	chlordiazepoxide	18	KG00098307	Pain, Chest	0.022483861073851585
+trial_2	chlordiazepoxide	28	KG00099347	hypoglycaemia	0.02227388694882393
+trial_2	chlordiazepoxide	96	KG00101679	Unattended death NOS	0.02180768921971321
+trial_2	chlordiazepoxide	82	KG00097697	abdomen distended	0.02136952616274357
+trial_2	chlordiazepoxide	234	KG00098669	dysgeusias	0.021234381943941116
+trial_2	chlordiazepoxide	36	KG00106434	Vision, Blurring Of	0.02083508111536503
+trial_2	chlordiazepoxide	166	KG00099773	menopausal syndrome	0.020624762400984764
+trial_2	chlordiazepoxide	61	KG00099501	Chronic Kidney Failure	0.020390911027789116
+trial_2	chlordiazepoxide	239	KG00100128	pareses	0.02033727802336216
+trial_2	chlordiazepoxide	211	KG00100341	Pruritus NOS	0.020304059609770775
+trial_2	chlordiazepoxide	350	KG00106765	decreased platelet count	0.019678879529237747
+trial_2	chlordiazepoxide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019233552739024162
+trial_2	chlordiazepoxide	116	KG00098964	Pain in foot	0.019175855442881584
+trial_2	chlordiazepoxide	30	KG00099500	Acute Kidney Failure	0.018482573330402374
+trial_2	chlordiazepoxide	221	KG00101207	peripheral oedema	0.018311886116862297
+trial_2	chlordiazepoxide	199	KG00098371	Rhinitis (chronic) NOS	0.01808820851147175
+trial_2	chlordiazepoxide	72	KG00103771	myalgias	0.01781916245818138
+trial_2	chlordiazepoxide	139	KG00098855	Sinusitis, Ethmoid	0.017585309222340584
+trial_2	chlordiazepoxide	466	KG00101205	fall	0.01739402487874031
+trial_2	chlordiazepoxide	69	KG00100082	Palpitations NOS	0.017349475994706154
+trial_2	chlordiazepoxide	11	KG00097993	Asthma NOS	0.016849488019943237
+trial_2	chlordiazepoxide	5	KG00099169	haematuria	0.016520528122782707
+trial_2	chlordiazepoxide	89	KG00099301	Hyperhidrosis (disorder)	0.016458671540021896
+trial_2	chlordiazepoxide	361	KG00098004	Fibrillation, Atrial	0.01594846136868
+trial_2	chlordiazepoxide	2	KG00100772	thrombocytopaenia	0.0158540029078722
+trial_2	chlordiazepoxide	122	KG00099321	Hypersensitivity NOS	0.015595903620123863
+trial_2	chlordiazepoxide	38	KG00098066	Binocular vision disorders	0.015083391219377518
+trial_2	chlordiazepoxide	441	KG00098262	cellulitis nos	0.015029042027890682
+trial_2	chlordiazepoxide	130	KG00100683	Stomatitis NOS	0.014634519815444946
+trial_2	chlordiazepoxide	138	KG00098796	epidemic vomiting syndrome	0.014510491862893105
+trial_2	chlordiazepoxide	204	KG00098849	Esophagitis, Peptic	0.014487292617559433
+trial_2	chlordiazepoxide	15	KG00097882	Angina pectoris NOS	0.01439588237553835
+trial_2	chlordiazepoxide	92	KG00100926	Infections, Upper Respiratory	0.014082721434533596
+trial_2	chlordiazepoxide	396	KG00100373	Embolism, Pulmonary	0.014035514555871487
+trial_2	chlordiazepoxide	136	KG00101582	Dry;skin	0.013561141677200794
+trial_2	chlordiazepoxide	345	KG00103926	impairments memory	0.013467065989971161
+trial_2	chlordiazepoxide	286	KG00101110	Retention, Urinary	0.013430598191916943
+trial_2	chlordiazepoxide	75	KG00100195	Dolens, Phlegmasia Alba	0.013239494524896145
+trial_2	chlordiazepoxide	261	KG00101559	raised alkaline phosphatase	0.013216893188655376
+trial_2	chlordiazepoxide	142	KG00100923	Unspecified infectious and parasitic diseases	0.01298488024622202
+trial_2	chlordiazepoxide	269	KG00100399	pyaemia	0.012933347374200821
+trial_2	chlordiazepoxide	22	KG00098705	Edema (NOS)	0.012812918052077293
+trial_2	chlordiazepoxide	31	KG00099872	Infarction, Myocardial	0.012799239717423916
+trial_2	chlordiazepoxide	218	KG00100801	Tinnitus NOS	0.012632249854505062
+trial_2	chlordiazepoxide	147	KG00098000	atelectases	0.012570138089358807
+trial_2	chlordiazepoxide	191	KG00104055	Biliverdin increased	0.01254348549991846
+trial_2	chlordiazepoxide	121	KG00099190	haemorrhage	0.012445426546037197
+trial_2	chlordiazepoxide	456	KG00099420	Influenzae	0.012357998639345169
+trial_2	chlordiazepoxide	27	KG00099303	hyperkalaemia	0.012201252393424511
+trial_2	chlordiazepoxide	98	KG00097718	Incised wound, NOS	0.012086604721844196
+trial_2	chlordiazepoxide	249	KG00104430	hypoalbuminaemia	0.01200172957032919
+trial_2	chlordiazepoxide	179	KG00099342	hypocalcaemia	0.011893215589225292
+trial_2	chlordiazepoxide	118	KG00099011	Gastritis NOS	0.01171767245978117
+trial_2	chlordiazepoxide	339	KG00100334	proteinurias	0.01171437744051218
+trial_2	chlordiazepoxide	194	KG00110727	Neutrophil Count Decreased	0.011702067218720913
+trial_2	chlordiazepoxide	371	KG00098517	Cystitis (NOS)	0.011597930453717709
+trial_2	chlordiazepoxide	94	KG00103829	abdominal discomfort	0.011551190167665482
+trial_2	chlordiazepoxide	152	KG00099402	INCONTINENCE NOS	0.011522695422172546
+trial_2	chlordiazepoxide	333	KG00104019	DOPINESS	0.01144605502486229
+trial_2	chlordiazepoxide	422	KG00101429	Creatine phosphokinase increased	0.011380819603800774

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07023145258426666
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0616619698703289
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.056947994977235794
+trial_1	placebo	87	KG00098599	diarrhoea	0.05399457737803459
+trial_1	placebo	126	KG00100076	Pain NOS	0.04885418713092804
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04641983285546303
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04393275827169418
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04116228222846985
+trial_1	placebo	20	KG00098540	dehydration	0.03859618306159973
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03811132162809372
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03779583051800728
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035248368978500366
+trial_1	placebo	46	KG00099121	Headache NOS	0.03346560150384903
+trial_1	placebo	21	KG00098675	dyspnoea	0.03138063848018646
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03051851876080036
+trial_1	placebo	147	KG00098000	atelectases	0.030504398047924042
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.029758263379335403
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.029270295053720474
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02812379226088524
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.027769586071372032
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.027162771672010422
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02709580771625042
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027094682678580284
+trial_1	placebo	114	KG00098933	fevers	0.026174334809184074
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.025927307084202766
+trial_1	placebo	29	KG00099354	hyponatraemia	0.025730401277542114
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02487671934068203
+trial_1	placebo	350	KG00106765	decreased platelet count	0.024667132645845413
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024614255875349045
+trial_1	placebo	5	KG00099169	haematuria	0.024501150473952293
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.023785436525940895
+trial_1	placebo	104	KG00097963	arthralgias	0.023775296285748482
+trial_1	placebo	68	KG00099901	nauseas	0.023603562265634537
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.022485867142677307
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.021950427442789078
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.021766865625977516
+trial_1	placebo	121	KG00099190	haemorrhage	0.021728280931711197
+trial_1	placebo	228	KG00114657	Weight below normal	0.021253714337944984
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02117578685283661
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.021158922463655472
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.020829619839787483
+trial_1	placebo	85	KG00098474	coughs	0.02063138596713543
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.020357824862003326
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020046303048729897
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02002410963177681
+trial_1	placebo	72	KG00103771	myalgias	0.019565464928746223
+trial_1	placebo	239	KG00100128	pareses	0.019383154809474945
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01930874027311802
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01891566626727581
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018592819571495056
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01849329099059105
+trial_1	placebo	186	KG00101431	creatinine increased	0.018307479098439217
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.018260126933455467
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.01800955832004547
+trial_1	placebo	116	KG00098964	Pain in foot	0.017693020403385162
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01765444315969944
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.017615796998143196
+trial_1	placebo	136	KG00101582	Dry;skin	0.017548441886901855
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.017325909808278084
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.017129849642515182
+trial_1	placebo	466	KG00101205	fall	0.016777314245700836
+trial_1	placebo	154	KG00099686	Lymphopenias	0.016548845916986465
+trial_1	placebo	102	KG00097916	anxieties	0.01627286523580551
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.016162430867552757
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015999918803572655
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.015981588512659073
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015750624239444733
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.015576903708279133
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.015376527793705463
+trial_1	placebo	282	KG00099309	hypernatraemia	0.015232899226248264
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.015179108828306198
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.015017279423773289
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014931346289813519
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.014722248539328575
+trial_1	placebo	257	KG00100922	Erythema NOS	0.014531065709888935
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.014286902733147144
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.014248441904783249
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.014165932312607765
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.013840680941939354
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01369786262512207
+trial_1	placebo	456	KG00099420	Influenzae	0.013631358742713928
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013620482757687569
+trial_1	placebo	269	KG00100399	pyaemia	0.013445517048239708
+trial_1	placebo	516	KG00106744	influenza like symptoms	0.01336944941431284
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.013305125758051872
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013195766136050224
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.013160457834601402
+trial_1	placebo	212	KG00100576	shivers	0.013129893690347672
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01304561272263527
+trial_1	placebo	11	KG00097993	Asthma NOS	0.012928253971040249
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.012653435580432415
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012518827803432941
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.012514673173427582
+trial_1	placebo	18	KG00098307	Pain, Chest	0.012475821189582348
+trial_1	placebo	164	KG00108827	ileus colon	0.012413638643920422
+trial_1	placebo	454	KG00098286	Pain, Neck	0.012190830893814564
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012180190533399582
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.011816127225756645
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.011573429219424725
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.011566873639822006
+trial_2	calcipotriol	78	KG00099326	Hypertensive diseases	0.07023145258426666
+trial_2	calcipotriol	173	KG00098172	Bronchopneumonia NOS	0.0616619698703289
+trial_2	calcipotriol	177	KG00099299	hyperglycaemia	0.056947994977235794
+trial_2	calcipotriol	87	KG00098599	diarrhoea	0.05399457737803459
+trial_2	calcipotriol	126	KG00100076	Pain NOS	0.04885418713092804
+trial_2	calcipotriol	123	KG00099351	hypokalaemia	0.04641983285546303
+trial_2	calcipotriol	17	KG00097991	Asthenia NOS	0.04393275827169418
+trial_2	calcipotriol	64	KG00097734	Acrodermatitis, NOS	0.04116228222846985
+trial_2	calcipotriol	20	KG00098540	dehydration	0.03859618306159973
+trial_2	calcipotriol	77	KG00098450	Constipation NOS	0.03811132162809372
+trial_2	calcipotriol	9	KG00098432	Confusion NOS	0.03779583051800728
+trial_2	calcipotriol	200	KG00098539	Disorders, Deglutition	0.035248368978500366
+trial_2	calcipotriol	46	KG00099121	Headache NOS	0.03346560150384903
+trial_2	calcipotriol	21	KG00098675	dyspnoea	0.03138063848018646
+trial_2	calcipotriol	14	KG00097852	Anemia NOS	0.03051851876080036
+trial_2	calcipotriol	147	KG00098000	atelectases	0.030504398047924042
+trial_2	calcipotriol	37	KG00097696	Cramps, Abdominal	0.029758263379335403
+trial_2	calcipotriol	151	KG00098274	Infarction, Cerebral	0.029270295053720474
+trial_2	calcipotriol	61	KG00099501	Chronic Kidney Failure	0.02812379226088524
+trial_2	calcipotriol	179	KG00099342	hypocalcaemia	0.027769586071372032
+trial_2	calcipotriol	2	KG00100772	thrombocytopaenia	0.027162771672010422
+trial_2	calcipotriol	76	KG00100450	Respiratory insufficiency, NOS	0.02709580771625042
+trial_2	calcipotriol	96	KG00101679	Unattended death NOS	0.027094682678580284
+trial_2	calcipotriol	114	KG00098933	fevers	0.026174334809184074
+trial_2	calcipotriol	79	KG00100317	Insomnia, Primary	0.025927307084202766
+trial_2	calcipotriol	29	KG00099354	hyponatraemia	0.025730401277542114
+trial_2	calcipotriol	86	KG00098565	Depression, Mental	0.02487671934068203
+trial_2	calcipotriol	350	KG00106765	decreased platelet count	0.024667132645845413
+trial_2	calcipotriol	211	KG00100341	Pruritus NOS	0.024614255875349045
+trial_2	calcipotriol	5	KG00099169	haematuria	0.024501150473952293
+trial_2	calcipotriol	189	KG00101580	Alanine aminotransferase increase	0.023785436525940895
+trial_2	calcipotriol	104	KG00097963	arthralgias	0.023775296285748482
+trial_2	calcipotriol	68	KG00099901	nauseas	0.023603562265634537
+trial_2	calcipotriol	180	KG00099363	Hypotension NOS	0.022485867142677307
+trial_2	calcipotriol	49	KG00099902	nausea with vomiting	0.021950427442789078
+trial_2	calcipotriol	67	KG00098673	Dyspepsia, NOS	0.021766865625977516
+trial_2	calcipotriol	121	KG00099190	haemorrhage	0.021728280931711197
+trial_2	calcipotriol	228	KG00114657	Weight below normal	0.021253714337944984
+trial_2	calcipotriol	28	KG00099347	hypoglycaemia	0.02117578685283661
+trial_2	calcipotriol	27	KG00099303	hyperkalaemia	0.021158922463655472
+trial_2	calcipotriol	249	KG00104430	hypoalbuminaemia	0.020829619839787483
+trial_2	calcipotriol	85	KG00098474	coughs	0.02063138596713543
+trial_2	calcipotriol	243	KG00100947	Micturition frequency increased	0.020357824862003326
+trial_2	calcipotriol	139	KG00098855	Sinusitis, Ethmoid	0.020046303048729897
+trial_2	calcipotriol	122	KG00099321	Hypersensitivity NOS	0.02002410963177681
+trial_2	calcipotriol	72	KG00103771	myalgias	0.019565464928746223
+trial_2	calcipotriol	239	KG00100128	pareses	0.019383154809474945
+trial_2	calcipotriol	441	KG00098262	cellulitis nos	0.01930874027311802
+trial_2	calcipotriol	131	KG00100948	Urinary tract infection (& [NOS])	0.01891566626727581
+trial_2	calcipotriol	92	KG00100926	Infections, Upper Respiratory	0.018592819571495056
+trial_2	calcipotriol	130	KG00100683	Stomatitis NOS	0.01849329099059105
+trial_2	calcipotriol	186	KG00101431	creatinine increased	0.018307479098439217
+trial_2	calcipotriol	160	KG00099291	hypercalcaemia	0.018260126933455467
+trial_2	calcipotriol	188	KG00101579	Aspartate aminotransferase increase	0.01800955832004547
+trial_2	calcipotriol	116	KG00098964	Pain in foot	0.017693020403385162
+trial_2	calcipotriol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01765444315969944
+trial_2	calcipotriol	195	KG00097814	Atopic Rhinitis	0.017615796998143196
+trial_2	calcipotriol	136	KG00101582	Dry;skin	0.017548441886901855
+trial_2	calcipotriol	253	KG00100232	Pleural effusion NOS (disorder)	0.017325909808278084
+trial_2	calcipotriol	396	KG00100373	Embolism, Pulmonary	0.017129849642515182
+trial_2	calcipotriol	466	KG00101205	fall	0.016777314245700836
+trial_2	calcipotriol	154	KG00099686	Lymphopenias	0.016548845916986465
+trial_2	calcipotriol	102	KG00097916	anxieties	0.01627286523580551
+trial_2	calcipotriol	199	KG00098371	Rhinitis (chronic) NOS	0.016162430867552757
+trial_2	calcipotriol	355	KG00110857	lymphocyte count decreased	0.015999918803572655
+trial_2	calcipotriol	30	KG00099500	Acute Kidney Failure	0.015981588512659073
+trial_2	calcipotriol	38	KG00098066	Binocular vision disorders	0.015750624239444733
+trial_2	calcipotriol	194	KG00110727	Neutrophil Count Decreased	0.015576903708279133
+trial_2	calcipotriol	191	KG00104055	Biliverdin increased	0.015376527793705463
+trial_2	calcipotriol	282	KG00099309	hypernatraemia	0.015232899226248264
+trial_2	calcipotriol	371	KG00098517	Cystitis (NOS)	0.015179108828306198
+trial_2	calcipotriol	75	KG00100195	Dolens, Phlegmasia Alba	0.015017279423773289
+trial_2	calcipotriol	69	KG00100082	Palpitations NOS	0.014931346289813519
+trial_2	calcipotriol	276	KG00099127	Arrest, Cardiac	0.014722248539328575
+trial_2	calcipotriol	257	KG00100922	Erythema NOS	0.014531065709888935
+trial_2	calcipotriol	40	KG00098092	Blepharoconjunctivitis NOS	0.014286902733147144
+trial_2	calcipotriol	142	KG00100923	Unspecified infectious and parasitic diseases	0.014248441904783249
+trial_2	calcipotriol	288	KG00101223	hypophosphataemia	0.014165932312607765
+trial_2	calcipotriol	297	KG00099294	hypercholesterolaemia	0.013840680941939354
+trial_2	calcipotriol	118	KG00099011	Gastritis NOS	0.01369786262512207
+trial_2	calcipotriol	456	KG00099420	Influenzae	0.013631358742713928
+trial_2	calcipotriol	221	KG00101207	peripheral oedema	0.013620482757687569
+trial_2	calcipotriol	269	KG00100399	pyaemia	0.013445517048239708
+trial_2	calcipotriol	516	KG00106744	influenza like symptoms	0.01336944941431284
+trial_2	calcipotriol	261	KG00101559	raised alkaline phosphatase	0.013305125758051872
+trial_2	calcipotriol	138	KG00098796	epidemic vomiting syndrome	0.013195766136050224
+trial_2	calcipotriol	31	KG00099872	Infarction, Myocardial	0.013160457834601402
+trial_2	calcipotriol	212	KG00100576	shivers	0.013129893690347672
+trial_2	calcipotriol	35	KG00101507	hypomagnesaemia	0.01304561272263527
+trial_2	calcipotriol	11	KG00097993	Asthma NOS	0.012928253971040249
+trial_2	calcipotriol	163	KG00104050	bowel obstructions small	0.012653435580432415
+trial_2	calcipotriol	204	KG00098849	Esophagitis, Peptic	0.012518827803432941
+trial_2	calcipotriol	101	KG00097901	Anorexia NOS	0.012514673173427582
+trial_2	calcipotriol	18	KG00098307	Pain, Chest	0.012475821189582348
+trial_2	calcipotriol	164	KG00108827	ileus colon	0.012413638643920422
+trial_2	calcipotriol	454	KG00098286	Pain, Neck	0.012190830893814564
+trial_2	calcipotriol	286	KG00101110	Retention, Urinary	0.012180190533399582
+trial_2	calcipotriol	356	KG00112623	Infectious Lung Disorders	0.011816127225756645
+trial_2	calcipotriol	98	KG00097718	Incised wound, NOS	0.011573429219424725
+trial_2	calcipotriol	105	KG00097964	Arthritis NOS	0.011566873639822006

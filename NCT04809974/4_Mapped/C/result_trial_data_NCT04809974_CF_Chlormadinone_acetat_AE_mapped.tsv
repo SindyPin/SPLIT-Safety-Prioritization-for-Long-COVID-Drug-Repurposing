@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1901351362466812
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.163345605134964
+trial_1	placebo	87	KG00098599	diarrhoea	0.1538608968257904
+trial_1	placebo	21	KG00098675	dyspnoea	0.13273835182189941
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13133853673934937
+trial_1	placebo	46	KG00099121	Headache NOS	0.12873196601867676
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12581977248191833
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11107353121042252
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10455557703971863
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09810018539428711
+trial_1	placebo	20	KG00098540	dehydration	0.09648116677999496
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08909134566783905
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08880145847797394
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0861973837018013
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0791497454047203
+trial_1	placebo	126	KG00100076	Pain NOS	0.07912851125001907
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0789760947227478
+trial_1	placebo	85	KG00098474	coughs	0.07661106437444687
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07593052089214325
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07506433129310608
+trial_1	placebo	104	KG00097963	arthralgias	0.07386457175016403
+trial_1	placebo	68	KG00099901	nauseas	0.0727590024471283
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06535690277814865
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06450586020946503
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0643426701426506
+trial_1	placebo	114	KG00098933	fevers	0.06428951025009155
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06391667574644089
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.06326059252023697
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06274758279323578
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06197955831885338
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.060177646577358246
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.060090865939855576
+trial_1	placebo	228	KG00114657	Weight below normal	0.05999164655804634
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.057518370449543
+trial_1	placebo	72	KG00103771	myalgias	0.05750530585646629
+trial_1	placebo	29	KG00099354	hyponatraemia	0.056326255202293396
+trial_1	placebo	116	KG00098964	Pain in foot	0.05620001628994942
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05591026693582535
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05512319877743721
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05379126965999603
+trial_1	placebo	239	KG00100128	pareses	0.05370166525244713
+trial_1	placebo	5	KG00099169	haematuria	0.05362832546234131
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04796171933412552
+trial_1	placebo	147	KG00098000	atelectases	0.04631941393017769
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04528410732746124
+trial_1	placebo	212	KG00100576	shivers	0.044770777225494385
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04401908069849014
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04370155185461044
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04331156983971596
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04323577135801315
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04178890585899353
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04149720445275307
+trial_1	placebo	102	KG00097916	anxieties	0.04009268805384636
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.039534877985715866
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.039215728640556335
+trial_1	placebo	282	KG00099309	hypernatraemia	0.039108339697122574
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03893996402621269
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03866753354668617
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03810884803533554
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03807538002729416
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0378609225153923
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.037098225206136703
+trial_1	placebo	100	KG00097815	alopecias	0.036906253546476364
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.036695338785648346
+trial_1	placebo	121	KG00099190	haemorrhage	0.036267589777708054
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03589111566543579
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03547642379999161
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.035374149680137634
+trial_1	placebo	82	KG00097697	abdomen distended	0.03509410843253136
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03390809893608093
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03332879766821861
+trial_1	placebo	4	KG00098817	epistaxis	0.03302285075187683
+trial_1	placebo	454	KG00098286	Pain, Neck	0.03284922242164612
+trial_1	placebo	269	KG00100399	pyaemia	0.03195333108305931
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.031167853623628616
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.031082013621926308
+trial_1	placebo	234	KG00098669	dysgeusias	0.031004147604107857
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.030963165685534477
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.030674949288368225
+trial_1	placebo	221	KG00101207	peripheral oedema	0.030230754986405373
+trial_1	placebo	245	KG00101513	Reaction, Injection Site	0.030021969228982925
+trial_1	placebo	508	KG00108565	blood glucose increased	0.029785552993416786
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02978507988154888
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.029734373092651367
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.029117031022906303
+trial_1	placebo	466	KG00101205	fall	0.029092414304614067
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.028869889676570892
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02874319814145565
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028627650812268257
+trial_1	placebo	339	KG00100334	proteinurias	0.028509072959423065
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.028509018942713737
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02833508513867855
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.028071360662579536
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02774539403617382
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027679188176989555
+trial_1	placebo	136	KG00101582	Dry;skin	0.027173638343811035
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02689061500132084
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02616400085389614
+trial_1	placebo	451	KG00101551	injection site pain	0.025914261117577553
+trial_1	placebo	154	KG00099686	Lymphopenias	0.025635486468672752
+trial_2	chlormadinone acetate	78	KG00099326	Hypertensive diseases	0.1901351362466812
+trial_2	chlormadinone acetate	177	KG00099299	hyperglycaemia	0.163345605134964
+trial_2	chlormadinone acetate	87	KG00098599	diarrhoea	0.1538608968257904
+trial_2	chlormadinone acetate	21	KG00098675	dyspnoea	0.13273835182189941
+trial_2	chlormadinone acetate	17	KG00097991	Asthenia NOS	0.13133853673934937
+trial_2	chlormadinone acetate	46	KG00099121	Headache NOS	0.12873196601867676
+trial_2	chlormadinone acetate	123	KG00099351	hypokalaemia	0.12581977248191833
+trial_2	chlormadinone acetate	173	KG00098172	Bronchopneumonia NOS	0.11107353121042252
+trial_2	chlormadinone acetate	37	KG00097696	Cramps, Abdominal	0.10455557703971863
+trial_2	chlormadinone acetate	9	KG00098432	Confusion NOS	0.09810018539428711
+trial_2	chlormadinone acetate	20	KG00098540	dehydration	0.09648116677999496
+trial_2	chlormadinone acetate	14	KG00097852	Anemia NOS	0.08909134566783905
+trial_2	chlormadinone acetate	64	KG00097734	Acrodermatitis, NOS	0.08880145847797394
+trial_2	chlormadinone acetate	79	KG00100317	Insomnia, Primary	0.0861973837018013
+trial_2	chlormadinone acetate	77	KG00098450	Constipation NOS	0.0791497454047203
+trial_2	chlormadinone acetate	126	KG00100076	Pain NOS	0.07912851125001907
+trial_2	chlormadinone acetate	67	KG00098673	Dyspepsia, NOS	0.0789760947227478
+trial_2	chlormadinone acetate	85	KG00098474	coughs	0.07661106437444687
+trial_2	chlormadinone acetate	200	KG00098539	Disorders, Deglutition	0.07593052089214325
+trial_2	chlormadinone acetate	2	KG00100772	thrombocytopaenia	0.07506433129310608
+trial_2	chlormadinone acetate	104	KG00097963	arthralgias	0.07386457175016403
+trial_2	chlormadinone acetate	68	KG00099901	nauseas	0.0727590024471283
+trial_2	chlormadinone acetate	243	KG00100947	Micturition frequency increased	0.06535690277814865
+trial_2	chlormadinone acetate	86	KG00098565	Depression, Mental	0.06450586020946503
+trial_2	chlormadinone acetate	122	KG00099321	Hypersensitivity NOS	0.0643426701426506
+trial_2	chlormadinone acetate	114	KG00098933	fevers	0.06428951025009155
+trial_2	chlormadinone acetate	350	KG00106765	decreased platelet count	0.06391667574644089
+trial_2	chlormadinone acetate	139	KG00098855	Sinusitis, Ethmoid	0.06326059252023697
+trial_2	chlormadinone acetate	49	KG00099902	nausea with vomiting	0.06274758279323578
+trial_2	chlormadinone acetate	28	KG00099347	hypoglycaemia	0.06197955831885338
+trial_2	chlormadinone acetate	189	KG00101580	Alanine aminotransferase increase	0.060177646577358246
+trial_2	chlormadinone acetate	180	KG00099363	Hypotension NOS	0.060090865939855576
+trial_2	chlormadinone acetate	228	KG00114657	Weight below normal	0.05999164655804634
+trial_2	chlormadinone acetate	188	KG00101579	Aspartate aminotransferase increase	0.057518370449543
+trial_2	chlormadinone acetate	72	KG00103771	myalgias	0.05750530585646629
+trial_2	chlormadinone acetate	29	KG00099354	hyponatraemia	0.056326255202293396
+trial_2	chlormadinone acetate	116	KG00098964	Pain in foot	0.05620001628994942
+trial_2	chlormadinone acetate	179	KG00099342	hypocalcaemia	0.05591026693582535
+trial_2	chlormadinone acetate	27	KG00099303	hyperkalaemia	0.05512319877743721
+trial_2	chlormadinone acetate	76	KG00100450	Respiratory insufficiency, NOS	0.05379126965999603
+trial_2	chlormadinone acetate	239	KG00100128	pareses	0.05370166525244713
+trial_2	chlormadinone acetate	5	KG00099169	haematuria	0.05362832546234131
+trial_2	chlormadinone acetate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04796171933412552
+trial_2	chlormadinone acetate	147	KG00098000	atelectases	0.04631941393017769
+trial_2	chlormadinone acetate	131	KG00100948	Urinary tract infection (& [NOS])	0.04528410732746124
+trial_2	chlormadinone acetate	212	KG00100576	shivers	0.044770777225494385
+trial_2	chlormadinone acetate	18	KG00098307	Pain, Chest	0.04401908069849014
+trial_2	chlormadinone acetate	69	KG00100082	Palpitations NOS	0.04370155185461044
+trial_2	chlormadinone acetate	151	KG00098274	Infarction, Cerebral	0.04331156983971596
+trial_2	chlormadinone acetate	92	KG00100926	Infections, Upper Respiratory	0.04323577135801315
+trial_2	chlormadinone acetate	61	KG00099501	Chronic Kidney Failure	0.04178890585899353
+trial_2	chlormadinone acetate	276	KG00099127	Arrest, Cardiac	0.04149720445275307
+trial_2	chlormadinone acetate	102	KG00097916	anxieties	0.04009268805384636
+trial_2	chlormadinone acetate	194	KG00110727	Neutrophil Count Decreased	0.039534877985715866
+trial_2	chlormadinone acetate	355	KG00110857	lymphocyte count decreased	0.039215728640556335
+trial_2	chlormadinone acetate	282	KG00099309	hypernatraemia	0.039108339697122574
+trial_2	chlormadinone acetate	144	KG00099610	Leukopenia NOS	0.03893996402621269
+trial_2	chlormadinone acetate	441	KG00098262	cellulitis nos	0.03866753354668617
+trial_2	chlormadinone acetate	38	KG00098066	Binocular vision disorders	0.03810884803533554
+trial_2	chlormadinone acetate	396	KG00100373	Embolism, Pulmonary	0.03807538002729416
+trial_2	chlormadinone acetate	96	KG00101679	Unattended death NOS	0.0378609225153923
+trial_2	chlormadinone acetate	30	KG00099500	Acute Kidney Failure	0.037098225206136703
+trial_2	chlormadinone acetate	100	KG00097815	alopecias	0.036906253546476364
+trial_2	chlormadinone acetate	249	KG00104430	hypoalbuminaemia	0.036695338785648346
+trial_2	chlormadinone acetate	121	KG00099190	haemorrhage	0.036267589777708054
+trial_2	chlormadinone acetate	101	KG00097901	Anorexia NOS	0.03589111566543579
+trial_2	chlormadinone acetate	253	KG00100232	Pleural effusion NOS (disorder)	0.03547642379999161
+trial_2	chlormadinone acetate	166	KG00099773	menopausal syndrome	0.035374149680137634
+trial_2	chlormadinone acetate	82	KG00097697	abdomen distended	0.03509410843253136
+trial_2	chlormadinone acetate	1	KG00099959	Neutropenia NOS	0.03390809893608093
+trial_2	chlormadinone acetate	204	KG00098849	Esophagitis, Peptic	0.03332879766821861
+trial_2	chlormadinone acetate	4	KG00098817	epistaxis	0.03302285075187683
+trial_2	chlormadinone acetate	454	KG00098286	Pain, Neck	0.03284922242164612
+trial_2	chlormadinone acetate	269	KG00100399	pyaemia	0.03195333108305931
+trial_2	chlormadinone acetate	98	KG00097718	Incised wound, NOS	0.031167853623628616
+trial_2	chlormadinone acetate	36	KG00106434	Vision, Blurring Of	0.031082013621926308
+trial_2	chlormadinone acetate	234	KG00098669	dysgeusias	0.031004147604107857
+trial_2	chlormadinone acetate	35	KG00101507	hypomagnesaemia	0.030963165685534477
+trial_2	chlormadinone acetate	288	KG00101223	hypophosphataemia	0.030674949288368225
+trial_2	chlormadinone acetate	221	KG00101207	peripheral oedema	0.030230754986405373
+trial_2	chlormadinone acetate	245	KG00101513	Reaction, Injection Site	0.030021969228982925
+trial_2	chlormadinone acetate	508	KG00108565	blood glucose increased	0.029785552993416786
+trial_2	chlormadinone acetate	130	KG00100683	Stomatitis NOS	0.02978507988154888
+trial_2	chlormadinone acetate	191	KG00104055	Biliverdin increased	0.029734373092651367
+trial_2	chlormadinone acetate	261	KG00101559	raised alkaline phosphatase	0.029117031022906303
+trial_2	chlormadinone acetate	466	KG00101205	fall	0.029092414304614067
+trial_2	chlormadinone acetate	163	KG00104050	bowel obstructions small	0.028869889676570892
+trial_2	chlormadinone acetate	195	KG00097814	Atopic Rhinitis	0.02874319814145565
+trial_2	chlormadinone acetate	31	KG00099872	Infarction, Myocardial	0.028627650812268257
+trial_2	chlormadinone acetate	339	KG00100334	proteinurias	0.028509072959423065
+trial_2	chlormadinone acetate	211	KG00100341	Pruritus NOS	0.028509018942713737
+trial_2	chlormadinone acetate	75	KG00100195	Dolens, Phlegmasia Alba	0.02833508513867855
+trial_2	chlormadinone acetate	142	KG00100923	Unspecified infectious and parasitic diseases	0.028071360662579536
+trial_2	chlormadinone acetate	132	KG00101045	Gain, Weight	0.02774539403617382
+trial_2	chlormadinone acetate	361	KG00098004	Fibrillation, Atrial	0.027679188176989555
+trial_2	chlormadinone acetate	136	KG00101582	Dry;skin	0.027173638343811035
+trial_2	chlormadinone acetate	257	KG00100922	Erythema NOS	0.02689061500132084
+trial_2	chlormadinone acetate	382	KG00099200	haemorrhoids	0.02616400085389614
+trial_2	chlormadinone acetate	451	KG00101551	injection site pain	0.025914261117577553
+trial_2	chlormadinone acetate	154	KG00099686	Lymphopenias	0.025635486468672752

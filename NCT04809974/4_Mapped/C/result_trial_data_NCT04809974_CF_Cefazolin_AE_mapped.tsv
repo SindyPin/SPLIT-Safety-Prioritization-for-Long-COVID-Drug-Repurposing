@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07976008206605911
+trial_1	placebo	87	KG00098599	diarrhoea	0.07906804233789444
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06914225965738297
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06781711429357529
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06757078319787979
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06529086083173752
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05010645091533661
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04795156419277191
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0466914027929306
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.046415381133556366
+trial_1	placebo	46	KG00099121	Headache NOS	0.04557134211063385
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.045027196407318115
+trial_1	placebo	68	KG00099901	nauseas	0.044202446937561035
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0435030534863472
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04260309785604477
+trial_1	placebo	20	KG00098540	dehydration	0.04240604490041733
+trial_1	placebo	21	KG00098675	dyspnoea	0.04212208464741707
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04183033108711243
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0397069938480854
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03844580054283142
+trial_1	placebo	269	KG00100399	pyaemia	0.037838660180568695
+trial_1	placebo	147	KG00098000	atelectases	0.03768623620271683
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0369698628783226
+trial_1	placebo	114	KG00098933	fevers	0.036627765744924545
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.035859860479831696
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03429030627012253
+trial_1	placebo	29	KG00099354	hyponatraemia	0.033639561384916306
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.032898519188165665
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032463084906339645
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.032389622181653976
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.032097093760967255
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.030714649707078934
+trial_1	placebo	350	KG00106765	decreased platelet count	0.030095618218183517
+trial_1	placebo	85	KG00098474	coughs	0.025888612493872643
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.025386786088347435
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02491895481944084
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02461830899119377
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.02452993206679821
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.024407772347331047
+trial_1	placebo	126	KG00100076	Pain NOS	0.024167852476239204
+trial_1	placebo	104	KG00097963	arthralgias	0.023861786350607872
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023719940334558487
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.023089243099093437
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023076893761754036
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022336456924676895
+trial_1	placebo	5	KG00099169	haematuria	0.022329600527882576
+trial_1	placebo	86	KG00098565	Depression, Mental	0.022222459316253662
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02131335623562336
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020757265388965607
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02031703293323517
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020159706473350525
+trial_1	placebo	228	KG00114657	Weight below normal	0.019882790744304657
+trial_1	placebo	164	KG00108827	ileus colon	0.019574545323848724
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.019415458664298058
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01855679601430893
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.018419308587908745
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.01793319173157215
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01767372153699398
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017360616475343704
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.017316631972789764
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01725664734840393
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.017192412167787552
+trial_1	placebo	18	KG00098307	Pain, Chest	0.016647592186927795
+trial_1	placebo	239	KG00100128	pareses	0.016601085662841797
+trial_1	placebo	186	KG00101431	creatinine increased	0.016562076285481453
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01652817614376545
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.016488701105117798
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.016255561262369156
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016221877187490463
+trial_1	placebo	121	KG00099190	haemorrhage	0.015918033197522163
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01576010324060917
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01557193137705326
+trial_1	placebo	234	KG00098669	dysgeusias	0.014937043190002441
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014885231852531433
+trial_1	placebo	72	KG00103771	myalgias	0.014802539721131325
+trial_1	placebo	116	KG00098964	Pain in foot	0.014774762094020844
+trial_1	placebo	282	KG00099309	hypernatraemia	0.014661221764981747
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.014622443355619907
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014611584134399891
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.014391315169632435
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.014285270124673843
+trial_1	placebo	25	KG00099134	congestive failures heart	0.014144791290163994
+trial_1	placebo	102	KG00097916	anxieties	0.013794924132525921
+trial_1	placebo	82	KG00097697	abdomen distended	0.013757845386862755
+trial_1	placebo	713	KG00107657	distressed respiratory	0.01359777245670557
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.013545222580432892
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.01344215963035822
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01334357913583517
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.012678408995270729
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01266801543533802
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01259172335267067
+trial_1	placebo	4	KG00098817	epistaxis	0.012487742118537426
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012377995066344738
+trial_1	placebo	262	KG00101199	agitation	0.012349877506494522
+trial_1	placebo	398	KG00100580	Shock, Septic	0.01198048796504736
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.011926064267754555
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01140065398067236
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.011307771317660809
+trial_1	placebo	132	KG00101045	Gain, Weight	0.011250186711549759
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01120516937226057
+trial_2	cefazolin	78	KG00099326	Hypertensive diseases	0.07976008206605911
+trial_2	cefazolin	87	KG00098599	diarrhoea	0.07906804233789444
+trial_2	cefazolin	123	KG00099351	hypokalaemia	0.06914225965738297
+trial_2	cefazolin	177	KG00099299	hyperglycaemia	0.06781711429357529
+trial_2	cefazolin	9	KG00098432	Confusion NOS	0.06757078319787979
+trial_2	cefazolin	173	KG00098172	Bronchopneumonia NOS	0.06529086083173752
+trial_2	cefazolin	30	KG00099500	Acute Kidney Failure	0.05010645091533661
+trial_2	cefazolin	61	KG00099501	Chronic Kidney Failure	0.04795156419277191
+trial_2	cefazolin	14	KG00097852	Anemia NOS	0.0466914027929306
+trial_2	cefazolin	151	KG00098274	Infarction, Cerebral	0.046415381133556366
+trial_2	cefazolin	46	KG00099121	Headache NOS	0.04557134211063385
+trial_2	cefazolin	189	KG00101580	Alanine aminotransferase increase	0.045027196407318115
+trial_2	cefazolin	68	KG00099901	nauseas	0.044202446937561035
+trial_2	cefazolin	76	KG00100450	Respiratory insufficiency, NOS	0.0435030534863472
+trial_2	cefazolin	37	KG00097696	Cramps, Abdominal	0.04260309785604477
+trial_2	cefazolin	20	KG00098540	dehydration	0.04240604490041733
+trial_2	cefazolin	21	KG00098675	dyspnoea	0.04212208464741707
+trial_2	cefazolin	49	KG00099902	nausea with vomiting	0.04183033108711243
+trial_2	cefazolin	180	KG00099363	Hypotension NOS	0.0397069938480854
+trial_2	cefazolin	17	KG00097991	Asthenia NOS	0.03844580054283142
+trial_2	cefazolin	269	KG00100399	pyaemia	0.037838660180568695
+trial_2	cefazolin	147	KG00098000	atelectases	0.03768623620271683
+trial_2	cefazolin	188	KG00101579	Aspartate aminotransferase increase	0.0369698628783226
+trial_2	cefazolin	114	KG00098933	fevers	0.036627765744924545
+trial_2	cefazolin	2	KG00100772	thrombocytopaenia	0.035859860479831696
+trial_2	cefazolin	77	KG00098450	Constipation NOS	0.03429030627012253
+trial_2	cefazolin	29	KG00099354	hyponatraemia	0.033639561384916306
+trial_2	cefazolin	276	KG00099127	Arrest, Cardiac	0.032898519188165665
+trial_2	cefazolin	96	KG00101679	Unattended death NOS	0.032463084906339645
+trial_2	cefazolin	396	KG00100373	Embolism, Pulmonary	0.032389622181653976
+trial_2	cefazolin	79	KG00100317	Insomnia, Primary	0.032097093760967255
+trial_2	cefazolin	64	KG00097734	Acrodermatitis, NOS	0.030714649707078934
+trial_2	cefazolin	350	KG00106765	decreased platelet count	0.030095618218183517
+trial_2	cefazolin	85	KG00098474	coughs	0.025888612493872643
+trial_2	cefazolin	131	KG00100948	Urinary tract infection (& [NOS])	0.025386786088347435
+trial_2	cefazolin	142	KG00100923	Unspecified infectious and parasitic diseases	0.02491895481944084
+trial_2	cefazolin	200	KG00098539	Disorders, Deglutition	0.02461830899119377
+trial_2	cefazolin	67	KG00098673	Dyspepsia, NOS	0.02452993206679821
+trial_2	cefazolin	27	KG00099303	hyperkalaemia	0.024407772347331047
+trial_2	cefazolin	126	KG00100076	Pain NOS	0.024167852476239204
+trial_2	cefazolin	104	KG00097963	arthralgias	0.023861786350607872
+trial_2	cefazolin	361	KG00098004	Fibrillation, Atrial	0.023719940334558487
+trial_2	cefazolin	28	KG00099347	hypoglycaemia	0.023089243099093437
+trial_2	cefazolin	75	KG00100195	Dolens, Phlegmasia Alba	0.023076893761754036
+trial_2	cefazolin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022336456924676895
+trial_2	cefazolin	5	KG00099169	haematuria	0.022329600527882576
+trial_2	cefazolin	86	KG00098565	Depression, Mental	0.022222459316253662
+trial_2	cefazolin	179	KG00099342	hypocalcaemia	0.02131335623562336
+trial_2	cefazolin	31	KG00099872	Infarction, Myocardial	0.020757265388965607
+trial_2	cefazolin	35	KG00101507	hypomagnesaemia	0.02031703293323517
+trial_2	cefazolin	441	KG00098262	cellulitis nos	0.020159706473350525
+trial_2	cefazolin	228	KG00114657	Weight below normal	0.019882790744304657
+trial_2	cefazolin	164	KG00108827	ileus colon	0.019574545323848724
+trial_2	cefazolin	69	KG00100082	Palpitations NOS	0.019415458664298058
+trial_2	cefazolin	249	KG00104430	hypoalbuminaemia	0.01855679601430893
+trial_2	cefazolin	243	KG00100947	Micturition frequency increased	0.018419308587908745
+trial_2	cefazolin	494	KG00099838	Organ Failure, Multiple	0.01793319173157215
+trial_2	cefazolin	92	KG00100926	Infections, Upper Respiratory	0.01767372153699398
+trial_2	cefazolin	122	KG00099321	Hypersensitivity NOS	0.017360616475343704
+trial_2	cefazolin	253	KG00100232	Pleural effusion NOS (disorder)	0.017316631972789764
+trial_2	cefazolin	138	KG00098796	epidemic vomiting syndrome	0.01725664734840393
+trial_2	cefazolin	268	KG00099557	Heart Failure, Left-Sided	0.017192412167787552
+trial_2	cefazolin	18	KG00098307	Pain, Chest	0.016647592186927795
+trial_2	cefazolin	239	KG00100128	pareses	0.016601085662841797
+trial_2	cefazolin	186	KG00101431	creatinine increased	0.016562076285481453
+trial_2	cefazolin	144	KG00099610	Leukopenia NOS	0.01652817614376545
+trial_2	cefazolin	130	KG00100683	Stomatitis NOS	0.016488701105117798
+trial_2	cefazolin	261	KG00101559	raised alkaline phosphatase	0.016255561262369156
+trial_2	cefazolin	194	KG00110727	Neutrophil Count Decreased	0.016221877187490463
+trial_2	cefazolin	121	KG00099190	haemorrhage	0.015918033197522163
+trial_2	cefazolin	1	KG00099959	Neutropenia NOS	0.01576010324060917
+trial_2	cefazolin	38	KG00098066	Binocular vision disorders	0.01557193137705326
+trial_2	cefazolin	234	KG00098669	dysgeusias	0.014937043190002441
+trial_2	cefazolin	15	KG00097882	Angina pectoris NOS	0.014885231852531433
+trial_2	cefazolin	72	KG00103771	myalgias	0.014802539721131325
+trial_2	cefazolin	116	KG00098964	Pain in foot	0.014774762094020844
+trial_2	cefazolin	282	KG00099309	hypernatraemia	0.014661221764981747
+trial_2	cefazolin	191	KG00104055	Biliverdin increased	0.014622443355619907
+trial_2	cefazolin	11	KG00097993	Asthma NOS	0.014611584134399891
+trial_2	cefazolin	139	KG00098855	Sinusitis, Ethmoid	0.014391315169632435
+trial_2	cefazolin	286	KG00101110	Retention, Urinary	0.014285270124673843
+trial_2	cefazolin	25	KG00099134	congestive failures heart	0.014144791290163994
+trial_2	cefazolin	102	KG00097916	anxieties	0.013794924132525921
+trial_2	cefazolin	82	KG00097697	abdomen distended	0.013757845386862755
+trial_2	cefazolin	713	KG00107657	distressed respiratory	0.01359777245670557
+trial_2	cefazolin	101	KG00097901	Anorexia NOS	0.013545222580432892
+trial_2	cefazolin	183	KG00100449	Adult Respiratory Distress Syndrome	0.01344215963035822
+trial_2	cefazolin	221	KG00101207	peripheral oedema	0.01334357913583517
+trial_2	cefazolin	356	KG00112623	Infectious Lung Disorders	0.012678408995270729
+trial_2	cefazolin	288	KG00101223	hypophosphataemia	0.01266801543533802
+trial_2	cefazolin	394	KG00100243	Pneumonia, Aspiration	0.01259172335267067
+trial_2	cefazolin	4	KG00098817	epistaxis	0.012487742118537426
+trial_2	cefazolin	118	KG00099011	Gastritis NOS	0.012377995066344738
+trial_2	cefazolin	262	KG00101199	agitation	0.012349877506494522
+trial_2	cefazolin	398	KG00100580	Shock, Septic	0.01198048796504736
+trial_2	cefazolin	883	KG00107760	Neonatal cardiorespiratory arrest	0.011926064267754555
+trial_2	cefazolin	204	KG00098849	Esophagitis, Peptic	0.01140065398067236
+trial_2	cefazolin	211	KG00100341	Pruritus NOS	0.011307771317660809
+trial_2	cefazolin	132	KG00101045	Gain, Weight	0.011250186711549759
+trial_2	cefazolin	36	KG00106434	Vision, Blurring Of	0.01120516937226057

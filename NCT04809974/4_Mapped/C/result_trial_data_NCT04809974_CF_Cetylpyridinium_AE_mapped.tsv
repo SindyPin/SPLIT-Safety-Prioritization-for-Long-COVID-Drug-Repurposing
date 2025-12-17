@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.030812615528702736
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.024610936641693115
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.023593692108988762
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.022380925714969635
+trial_1	placebo	21	KG00098675	dyspnoea	0.021305043250322342
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0197832640260458
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.019467180594801903
+trial_1	placebo	46	KG00099121	Headache NOS	0.01928662694990635
+trial_1	placebo	9	KG00098432	Confusion NOS	0.01851014979183674
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.018256936222314835
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.01808011718094349
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.018045885488390923
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.01726374961435795
+trial_1	placebo	126	KG00100076	Pain NOS	0.016666531562805176
+trial_1	placebo	147	KG00098000	atelectases	0.016257239505648613
+trial_1	placebo	14	KG00097852	Anemia NOS	0.016113508492708206
+trial_1	placebo	20	KG00098540	dehydration	0.015741320326924324
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.01564732939004898
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.014823631383478642
+trial_1	placebo	68	KG00099901	nauseas	0.01462855190038681
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.014528020285069942
+trial_1	placebo	77	KG00098450	Constipation NOS	0.01447046548128128
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.013796472921967506
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.01348853949457407
+trial_1	placebo	121	KG00099190	haemorrhage	0.013403570279479027
+trial_1	placebo	114	KG00098933	fevers	0.013256293721497059
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.013235495425760746
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.013195411302149296
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.012422235682606697
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01185709796845913
+trial_1	placebo	269	KG00100399	pyaemia	0.011743527837097645
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.011687836609780788
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.011452951468527317
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01126006804406643
+trial_1	placebo	441	KG00098262	cellulitis nos	0.011189764365553856
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.011116108857095242
+trial_1	placebo	5	KG00099169	haematuria	0.010650591924786568
+trial_1	placebo	85	KG00098474	coughs	0.010336021892726421
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.010116583667695522
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.00996600091457367
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.009917546063661575
+trial_1	placebo	29	KG00099354	hyponatraemia	0.009870339184999466
+trial_1	placebo	86	KG00098565	Depression, Mental	0.009572853334248066
+trial_1	placebo	18	KG00098307	Pain, Chest	0.009559444151818752
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.00949303712695837
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.008947725407779217
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.00891826767474413
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.008884903974831104
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.00869692675769329
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.008681988343596458
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.00815555453300476
+trial_1	placebo	104	KG00097963	arthralgias	0.007985055446624756
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.00794412475079298
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0076413205824792385
+trial_1	placebo	228	KG00114657	Weight below normal	0.007601742632687092
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.007519369013607502
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.007483427878469229
+trial_1	placebo	164	KG00108827	ileus colon	0.007441765628755093
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.007204967085272074
+trial_1	placebo	350	KG00106765	decreased platelet count	0.007181544788181782
+trial_1	placebo	102	KG00097916	anxieties	0.007176797371357679
+trial_1	placebo	11	KG00097993	Asthma NOS	0.00704742968082428
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.006970093119889498
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0069585442543029785
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.0068208761513233185
+trial_1	placebo	466	KG00101205	fall	0.006810297723859549
+trial_1	placebo	72	KG00103771	myalgias	0.0067922440357506275
+trial_1	placebo	257	KG00100922	Erythema NOS	0.006598808337002993
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.006558284629136324
+trial_1	placebo	234	KG00098669	dysgeusias	0.006528177764266729
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0063519855029881
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.006310207303613424
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.006249661557376385
+trial_1	placebo	82	KG00097697	abdomen distended	0.006233639549463987
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.006207119207829237
+trial_1	placebo	4	KG00098817	epistaxis	0.006188319530338049
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.006177001632750034
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.006176231428980827
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0060649593360722065
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.006039066705852747
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.006014592479914427
+trial_1	placebo	282	KG00099309	hypernatraemia	0.0060014850459992886
+trial_1	placebo	136	KG00101582	Dry;skin	0.005994101986289024
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.005914210341870785
+trial_1	placebo	60	KG00099440	Obstruction, Intestinal	0.005876172333955765
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.005798729136586189
+trial_1	placebo	116	KG00098964	Pain in foot	0.005789793096482754
+trial_1	placebo	25	KG00099134	congestive failures heart	0.005750644486397505
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.005700910463929176
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.005688244942575693
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.00568371033295989
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.005671787541359663
+trial_1	placebo	221	KG00101207	peripheral oedema	0.005659427959471941
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.005633947439491749
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.005607254803180695
+trial_1	placebo	239	KG00100128	pareses	0.00560575257986784
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.005556529387831688
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.005517533048987389
+trial_1	placebo	186	KG00101431	creatinine increased	0.005451187491416931
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.005432024132460356
+trial_2	cetylpyridinium	87	KG00098599	diarrhoea	0.030812615528702736
+trial_2	cetylpyridinium	173	KG00098172	Bronchopneumonia NOS	0.024610936641693115
+trial_2	cetylpyridinium	177	KG00099299	hyperglycaemia	0.023593692108988762
+trial_2	cetylpyridinium	78	KG00099326	Hypertensive diseases	0.022380925714969635
+trial_2	cetylpyridinium	21	KG00098675	dyspnoea	0.021305043250322342
+trial_2	cetylpyridinium	123	KG00099351	hypokalaemia	0.0197832640260458
+trial_2	cetylpyridinium	151	KG00098274	Infarction, Cerebral	0.019467180594801903
+trial_2	cetylpyridinium	46	KG00099121	Headache NOS	0.01928662694990635
+trial_2	cetylpyridinium	9	KG00098432	Confusion NOS	0.01851014979183674
+trial_2	cetylpyridinium	96	KG00101679	Unattended death NOS	0.018256936222314835
+trial_2	cetylpyridinium	49	KG00099902	nausea with vomiting	0.01808011718094349
+trial_2	cetylpyridinium	64	KG00097734	Acrodermatitis, NOS	0.018045885488390923
+trial_2	cetylpyridinium	61	KG00099501	Chronic Kidney Failure	0.01726374961435795
+trial_2	cetylpyridinium	126	KG00100076	Pain NOS	0.016666531562805176
+trial_2	cetylpyridinium	147	KG00098000	atelectases	0.016257239505648613
+trial_2	cetylpyridinium	14	KG00097852	Anemia NOS	0.016113508492708206
+trial_2	cetylpyridinium	20	KG00098540	dehydration	0.015741320326924324
+trial_2	cetylpyridinium	37	KG00097696	Cramps, Abdominal	0.01564732939004898
+trial_2	cetylpyridinium	396	KG00100373	Embolism, Pulmonary	0.014823631383478642
+trial_2	cetylpyridinium	68	KG00099901	nauseas	0.01462855190038681
+trial_2	cetylpyridinium	17	KG00097991	Asthenia NOS	0.014528020285069942
+trial_2	cetylpyridinium	77	KG00098450	Constipation NOS	0.01447046548128128
+trial_2	cetylpyridinium	142	KG00100923	Unspecified infectious and parasitic diseases	0.013796472921967506
+trial_2	cetylpyridinium	180	KG00099363	Hypotension NOS	0.01348853949457407
+trial_2	cetylpyridinium	121	KG00099190	haemorrhage	0.013403570279479027
+trial_2	cetylpyridinium	114	KG00098933	fevers	0.013256293721497059
+trial_2	cetylpyridinium	67	KG00098673	Dyspepsia, NOS	0.013235495425760746
+trial_2	cetylpyridinium	30	KG00099500	Acute Kidney Failure	0.013195411302149296
+trial_2	cetylpyridinium	200	KG00098539	Disorders, Deglutition	0.012422235682606697
+trial_2	cetylpyridinium	31	KG00099872	Infarction, Myocardial	0.01185709796845913
+trial_2	cetylpyridinium	269	KG00100399	pyaemia	0.011743527837097645
+trial_2	cetylpyridinium	76	KG00100450	Respiratory insufficiency, NOS	0.011687836609780788
+trial_2	cetylpyridinium	28	KG00099347	hypoglycaemia	0.011452951468527317
+trial_2	cetylpyridinium	2	KG00100772	thrombocytopaenia	0.01126006804406643
+trial_2	cetylpyridinium	441	KG00098262	cellulitis nos	0.011189764365553856
+trial_2	cetylpyridinium	79	KG00100317	Insomnia, Primary	0.011116108857095242
+trial_2	cetylpyridinium	5	KG00099169	haematuria	0.010650591924786568
+trial_2	cetylpyridinium	85	KG00098474	coughs	0.010336021892726421
+trial_2	cetylpyridinium	122	KG00099321	Hypersensitivity NOS	0.010116583667695522
+trial_2	cetylpyridinium	211	KG00100341	Pruritus NOS	0.00996600091457367
+trial_2	cetylpyridinium	276	KG00099127	Arrest, Cardiac	0.009917546063661575
+trial_2	cetylpyridinium	29	KG00099354	hyponatraemia	0.009870339184999466
+trial_2	cetylpyridinium	86	KG00098565	Depression, Mental	0.009572853334248066
+trial_2	cetylpyridinium	18	KG00098307	Pain, Chest	0.009559444151818752
+trial_2	cetylpyridinium	75	KG00100195	Dolens, Phlegmasia Alba	0.00949303712695837
+trial_2	cetylpyridinium	189	KG00101580	Alanine aminotransferase increase	0.008947725407779217
+trial_2	cetylpyridinium	361	KG00098004	Fibrillation, Atrial	0.00891826767474413
+trial_2	cetylpyridinium	253	KG00100232	Pleural effusion NOS (disorder)	0.008884903974831104
+trial_2	cetylpyridinium	69	KG00100082	Palpitations NOS	0.00869692675769329
+trial_2	cetylpyridinium	131	KG00100948	Urinary tract infection (& [NOS])	0.008681988343596458
+trial_2	cetylpyridinium	15	KG00097882	Angina pectoris NOS	0.00815555453300476
+trial_2	cetylpyridinium	104	KG00097963	arthralgias	0.007985055446624756
+trial_2	cetylpyridinium	188	KG00101579	Aspartate aminotransferase increase	0.00794412475079298
+trial_2	cetylpyridinium	38	KG00098066	Binocular vision disorders	0.0076413205824792385
+trial_2	cetylpyridinium	228	KG00114657	Weight below normal	0.007601742632687092
+trial_2	cetylpyridinium	138	KG00098796	epidemic vomiting syndrome	0.007519369013607502
+trial_2	cetylpyridinium	179	KG00099342	hypocalcaemia	0.007483427878469229
+trial_2	cetylpyridinium	164	KG00108827	ileus colon	0.007441765628755093
+trial_2	cetylpyridinium	118	KG00099011	Gastritis NOS	0.007204967085272074
+trial_2	cetylpyridinium	350	KG00106765	decreased platelet count	0.007181544788181782
+trial_2	cetylpyridinium	102	KG00097916	anxieties	0.007176797371357679
+trial_2	cetylpyridinium	11	KG00097993	Asthma NOS	0.00704742968082428
+trial_2	cetylpyridinium	27	KG00099303	hyperkalaemia	0.006970093119889498
+trial_2	cetylpyridinium	92	KG00100926	Infections, Upper Respiratory	0.0069585442543029785
+trial_2	cetylpyridinium	199	KG00098371	Rhinitis (chronic) NOS	0.0068208761513233185
+trial_2	cetylpyridinium	466	KG00101205	fall	0.006810297723859549
+trial_2	cetylpyridinium	72	KG00103771	myalgias	0.0067922440357506275
+trial_2	cetylpyridinium	257	KG00100922	Erythema NOS	0.006598808337002993
+trial_2	cetylpyridinium	268	KG00099557	Heart Failure, Left-Sided	0.006558284629136324
+trial_2	cetylpyridinium	234	KG00098669	dysgeusias	0.006528177764266729
+trial_2	cetylpyridinium	130	KG00100683	Stomatitis NOS	0.0063519855029881
+trial_2	cetylpyridinium	163	KG00104050	bowel obstructions small	0.006310207303613424
+trial_2	cetylpyridinium	139	KG00098855	Sinusitis, Ethmoid	0.006249661557376385
+trial_2	cetylpyridinium	82	KG00097697	abdomen distended	0.006233639549463987
+trial_2	cetylpyridinium	371	KG00098517	Cystitis (NOS)	0.006207119207829237
+trial_2	cetylpyridinium	4	KG00098817	epistaxis	0.006188319530338049
+trial_2	cetylpyridinium	1	KG00099959	Neutropenia NOS	0.006177001632750034
+trial_2	cetylpyridinium	394	KG00100243	Pneumonia, Aspiration	0.006176231428980827
+trial_2	cetylpyridinium	286	KG00101110	Retention, Urinary	0.0060649593360722065
+trial_2	cetylpyridinium	40	KG00098092	Blepharoconjunctivitis NOS	0.006039066705852747
+trial_2	cetylpyridinium	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.006014592479914427
+trial_2	cetylpyridinium	282	KG00099309	hypernatraemia	0.0060014850459992886
+trial_2	cetylpyridinium	136	KG00101582	Dry;skin	0.005994101986289024
+trial_2	cetylpyridinium	101	KG00097901	Anorexia NOS	0.005914210341870785
+trial_2	cetylpyridinium	60	KG00099440	Obstruction, Intestinal	0.005876172333955765
+trial_2	cetylpyridinium	191	KG00104055	Biliverdin increased	0.005798729136586189
+trial_2	cetylpyridinium	116	KG00098964	Pain in foot	0.005789793096482754
+trial_2	cetylpyridinium	25	KG00099134	congestive failures heart	0.005750644486397505
+trial_2	cetylpyridinium	144	KG00099610	Leukopenia NOS	0.005700910463929176
+trial_2	cetylpyridinium	249	KG00104430	hypoalbuminaemia	0.005688244942575693
+trial_2	cetylpyridinium	243	KG00100947	Micturition frequency increased	0.00568371033295989
+trial_2	cetylpyridinium	19	KG00098331	Cholecystitis NOS	0.005671787541359663
+trial_2	cetylpyridinium	221	KG00101207	peripheral oedema	0.005659427959471941
+trial_2	cetylpyridinium	254	KG00100774	Thrombosis NOS	0.005633947439491749
+trial_2	cetylpyridinium	261	KG00101559	raised alkaline phosphatase	0.005607254803180695
+trial_2	cetylpyridinium	239	KG00100128	pareses	0.00560575257986784
+trial_2	cetylpyridinium	33	KG00100094	Pancreatitis NOS	0.005556529387831688
+trial_2	cetylpyridinium	195	KG00097814	Atopic Rhinitis	0.005517533048987389
+trial_2	cetylpyridinium	186	KG00101431	creatinine increased	0.005451187491416931
+trial_2	cetylpyridinium	271	KG00103813	reflex bradycardia	0.005432024132460356

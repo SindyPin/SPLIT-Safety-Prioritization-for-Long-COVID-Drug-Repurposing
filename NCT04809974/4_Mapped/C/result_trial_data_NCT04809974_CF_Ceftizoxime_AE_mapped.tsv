@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20936545729637146
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18099947273731232
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1739848256111145
+trial_1	placebo	123	KG00099351	hypokalaemia	0.15816155076026917
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14190420508384705
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13762691617012024
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12080374360084534
+trial_1	placebo	20	KG00098540	dehydration	0.11964110285043716
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11430548876523972
+trial_1	placebo	68	KG00099901	nauseas	0.11268641799688339
+trial_1	placebo	14	KG00097852	Anemia NOS	0.11161600798368454
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10967794805765152
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10532552748918533
+trial_1	placebo	21	KG00098675	dyspnoea	0.1044049859046936
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10150661319494247
+trial_1	placebo	46	KG00099121	Headache NOS	0.09912890195846558
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08846766501665115
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08628059178590775
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08490434288978577
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0842512845993042
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08422941714525223
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08018501847982407
+trial_1	placebo	228	KG00114657	Weight below normal	0.07806038856506348
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07802669703960419
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07623887807130814
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07572957873344421
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0745057687163353
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07295859605073929
+trial_1	placebo	114	KG00098933	fevers	0.07161778956651688
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06986427307128906
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06910565495491028
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06792342662811279
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06579705327749252
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06561843305826187
+trial_1	placebo	126	KG00100076	Pain NOS	0.06186458468437195
+trial_1	placebo	85	KG00098474	coughs	0.06102147698402405
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05932345613837242
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.057175107300281525
+trial_1	placebo	104	KG00097963	arthralgias	0.05686269700527191
+trial_1	placebo	147	KG00098000	atelectases	0.05644712224602699
+trial_1	placebo	239	KG00100128	pareses	0.0563381053507328
+trial_1	placebo	86	KG00098565	Depression, Mental	0.054830633103847504
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.054496314376592636
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05442849174141884
+trial_1	placebo	269	KG00100399	pyaemia	0.05358903482556343
+trial_1	placebo	5	KG00099169	haematuria	0.05341934785246849
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.052347514778375626
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05217934027314186
+trial_1	placebo	72	KG00103771	myalgias	0.052141305059194565
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.05012725293636322
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04869875684380531
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04778974503278732
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04763813316822052
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04672248661518097
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04658548906445503
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04634204879403114
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04522308334708214
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04395531490445137
+trial_1	placebo	102	KG00097916	anxieties	0.04278564453125
+trial_1	placebo	164	KG00108827	ileus colon	0.04121226444840431
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04111607372760773
+trial_1	placebo	262	KG00101199	agitation	0.04111604392528534
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.040834154933691025
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03971170261502266
+trial_1	placebo	82	KG00097697	abdomen distended	0.03898609057068825
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03884148225188255
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.038549575954675674
+trial_1	placebo	186	KG00101431	creatinine increased	0.03844306990504265
+trial_1	placebo	116	KG00098964	Pain in foot	0.03843320906162262
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.038078803569078445
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03675980120897293
+trial_1	placebo	18	KG00098307	Pain, Chest	0.036210186779499054
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03595929592847824
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03547177091240883
+trial_1	placebo	234	KG00098669	dysgeusias	0.03543778508901596
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03529888764023781
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03492257371544838
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.034511175006628036
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03415144234895706
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.033344369381666183
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03324282541871071
+trial_1	placebo	154	KG00099686	Lymphopenias	0.032700348645448685
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03167964145541191
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03121861256659031
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0311733391135931
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03109961748123169
+trial_1	placebo	100	KG00097815	alopecias	0.03035208024084568
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.030024338513612747
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02994987741112709
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.029906539246439934
+trial_1	placebo	466	KG00101205	fall	0.029809853062033653
+trial_1	placebo	121	KG00099190	haemorrhage	0.029240185394883156
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.028928278014063835
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02858976274728775
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02835150808095932
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028010012581944466
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.027922723442316055
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02700556069612503
+trial_1	placebo	212	KG00100576	shivers	0.026793895289301872
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.026673315092921257
+trial_2	ceftizoxime	87	KG00098599	diarrhoea	0.20936545729637146
+trial_2	ceftizoxime	78	KG00099326	Hypertensive diseases	0.18099947273731232
+trial_2	ceftizoxime	177	KG00099299	hyperglycaemia	0.1739848256111145
+trial_2	ceftizoxime	123	KG00099351	hypokalaemia	0.15816155076026917
+trial_2	ceftizoxime	9	KG00098432	Confusion NOS	0.14190420508384705
+trial_2	ceftizoxime	17	KG00097991	Asthenia NOS	0.13762691617012024
+trial_2	ceftizoxime	189	KG00101580	Alanine aminotransferase increase	0.12080374360084534
+trial_2	ceftizoxime	20	KG00098540	dehydration	0.11964110285043716
+trial_2	ceftizoxime	173	KG00098172	Bronchopneumonia NOS	0.11430548876523972
+trial_2	ceftizoxime	68	KG00099901	nauseas	0.11268641799688339
+trial_2	ceftizoxime	14	KG00097852	Anemia NOS	0.11161600798368454
+trial_2	ceftizoxime	188	KG00101579	Aspartate aminotransferase increase	0.10967794805765152
+trial_2	ceftizoxime	49	KG00099902	nausea with vomiting	0.10532552748918533
+trial_2	ceftizoxime	21	KG00098675	dyspnoea	0.1044049859046936
+trial_2	ceftizoxime	37	KG00097696	Cramps, Abdominal	0.10150661319494247
+trial_2	ceftizoxime	46	KG00099121	Headache NOS	0.09912890195846558
+trial_2	ceftizoxime	29	KG00099354	hyponatraemia	0.08846766501665115
+trial_2	ceftizoxime	350	KG00106765	decreased platelet count	0.08628059178590775
+trial_2	ceftizoxime	76	KG00100450	Respiratory insufficiency, NOS	0.08490434288978577
+trial_2	ceftizoxime	200	KG00098539	Disorders, Deglutition	0.0842512845993042
+trial_2	ceftizoxime	79	KG00100317	Insomnia, Primary	0.08422941714525223
+trial_2	ceftizoxime	77	KG00098450	Constipation NOS	0.08018501847982407
+trial_2	ceftizoxime	228	KG00114657	Weight below normal	0.07806038856506348
+trial_2	ceftizoxime	67	KG00098673	Dyspepsia, NOS	0.07802669703960419
+trial_2	ceftizoxime	61	KG00099501	Chronic Kidney Failure	0.07623887807130814
+trial_2	ceftizoxime	2	KG00100772	thrombocytopaenia	0.07572957873344421
+trial_2	ceftizoxime	180	KG00099363	Hypotension NOS	0.0745057687163353
+trial_2	ceftizoxime	64	KG00097734	Acrodermatitis, NOS	0.07295859605073929
+trial_2	ceftizoxime	114	KG00098933	fevers	0.07161778956651688
+trial_2	ceftizoxime	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06986427307128906
+trial_2	ceftizoxime	27	KG00099303	hyperkalaemia	0.06910565495491028
+trial_2	ceftizoxime	243	KG00100947	Micturition frequency increased	0.06792342662811279
+trial_2	ceftizoxime	179	KG00099342	hypocalcaemia	0.06579705327749252
+trial_2	ceftizoxime	30	KG00099500	Acute Kidney Failure	0.06561843305826187
+trial_2	ceftizoxime	126	KG00100076	Pain NOS	0.06186458468437195
+trial_2	ceftizoxime	85	KG00098474	coughs	0.06102147698402405
+trial_2	ceftizoxime	28	KG00099347	hypoglycaemia	0.05932345613837242
+trial_2	ceftizoxime	151	KG00098274	Infarction, Cerebral	0.057175107300281525
+trial_2	ceftizoxime	104	KG00097963	arthralgias	0.05686269700527191
+trial_2	ceftizoxime	147	KG00098000	atelectases	0.05644712224602699
+trial_2	ceftizoxime	239	KG00100128	pareses	0.0563381053507328
+trial_2	ceftizoxime	86	KG00098565	Depression, Mental	0.054830633103847504
+trial_2	ceftizoxime	194	KG00110727	Neutrophil Count Decreased	0.054496314376592636
+trial_2	ceftizoxime	276	KG00099127	Arrest, Cardiac	0.05442849174141884
+trial_2	ceftizoxime	269	KG00100399	pyaemia	0.05358903482556343
+trial_2	ceftizoxime	5	KG00099169	haematuria	0.05341934785246849
+trial_2	ceftizoxime	101	KG00097901	Anorexia NOS	0.052347514778375626
+trial_2	ceftizoxime	261	KG00101559	raised alkaline phosphatase	0.05217934027314186
+trial_2	ceftizoxime	72	KG00103771	myalgias	0.052141305059194565
+trial_2	ceftizoxime	35	KG00101507	hypomagnesaemia	0.05012725293636322
+trial_2	ceftizoxime	131	KG00100948	Urinary tract infection (& [NOS])	0.04869875684380531
+trial_2	ceftizoxime	122	KG00099321	Hypersensitivity NOS	0.04778974503278732
+trial_2	ceftizoxime	282	KG00099309	hypernatraemia	0.04763813316822052
+trial_2	ceftizoxime	249	KG00104430	hypoalbuminaemia	0.04672248661518097
+trial_2	ceftizoxime	144	KG00099610	Leukopenia NOS	0.04658548906445503
+trial_2	ceftizoxime	132	KG00101045	Gain, Weight	0.04634204879403114
+trial_2	ceftizoxime	96	KG00101679	Unattended death NOS	0.04522308334708214
+trial_2	ceftizoxime	355	KG00110857	lymphocyte count decreased	0.04395531490445137
+trial_2	ceftizoxime	102	KG00097916	anxieties	0.04278564453125
+trial_2	ceftizoxime	164	KG00108827	ileus colon	0.04121226444840431
+trial_2	ceftizoxime	142	KG00100923	Unspecified infectious and parasitic diseases	0.04111607372760773
+trial_2	ceftizoxime	262	KG00101199	agitation	0.04111604392528534
+trial_2	ceftizoxime	396	KG00100373	Embolism, Pulmonary	0.040834154933691025
+trial_2	ceftizoxime	69	KG00100082	Palpitations NOS	0.03971170261502266
+trial_2	ceftizoxime	82	KG00097697	abdomen distended	0.03898609057068825
+trial_2	ceftizoxime	191	KG00104055	Biliverdin increased	0.03884148225188255
+trial_2	ceftizoxime	38	KG00098066	Binocular vision disorders	0.038549575954675674
+trial_2	ceftizoxime	186	KG00101431	creatinine increased	0.03844306990504265
+trial_2	ceftizoxime	116	KG00098964	Pain in foot	0.03843320906162262
+trial_2	ceftizoxime	139	KG00098855	Sinusitis, Ethmoid	0.038078803569078445
+trial_2	ceftizoxime	441	KG00098262	cellulitis nos	0.03675980120897293
+trial_2	ceftizoxime	18	KG00098307	Pain, Chest	0.036210186779499054
+trial_2	ceftizoxime	361	KG00098004	Fibrillation, Atrial	0.03595929592847824
+trial_2	ceftizoxime	253	KG00100232	Pleural effusion NOS (disorder)	0.03547177091240883
+trial_2	ceftizoxime	234	KG00098669	dysgeusias	0.03543778508901596
+trial_2	ceftizoxime	288	KG00101223	hypophosphataemia	0.03529888764023781
+trial_2	ceftizoxime	130	KG00100683	Stomatitis NOS	0.03492257371544838
+trial_2	ceftizoxime	1	KG00099959	Neutropenia NOS	0.034511175006628036
+trial_2	ceftizoxime	36	KG00106434	Vision, Blurring Of	0.03415144234895706
+trial_2	ceftizoxime	341	KG00101472	Gamma-glutamyltransferase increased	0.033344369381666183
+trial_2	ceftizoxime	92	KG00100926	Infections, Upper Respiratory	0.03324282541871071
+trial_2	ceftizoxime	154	KG00099686	Lymphopenias	0.032700348645448685
+trial_2	ceftizoxime	256	KG00100738	Tachycardia, Sinus	0.03167964145541191
+trial_2	ceftizoxime	204	KG00098849	Esophagitis, Peptic	0.03121861256659031
+trial_2	ceftizoxime	221	KG00101207	peripheral oedema	0.0311733391135931
+trial_2	ceftizoxime	75	KG00100195	Dolens, Phlegmasia Alba	0.03109961748123169
+trial_2	ceftizoxime	100	KG00097815	alopecias	0.03035208024084568
+trial_2	ceftizoxime	97	KG00104198	LIVER ENZYME ELEVATED	0.030024338513612747
+trial_2	ceftizoxime	508	KG00108565	blood glucose increased	0.02994987741112709
+trial_2	ceftizoxime	494	KG00099838	Organ Failure, Multiple	0.029906539246439934
+trial_2	ceftizoxime	466	KG00101205	fall	0.029809853062033653
+trial_2	ceftizoxime	121	KG00099190	haemorrhage	0.029240185394883156
+trial_2	ceftizoxime	268	KG00099557	Heart Failure, Left-Sided	0.028928278014063835
+trial_2	ceftizoxime	31	KG00099872	Infarction, Myocardial	0.02858976274728775
+trial_2	ceftizoxime	15	KG00097882	Angina pectoris NOS	0.02835150808095932
+trial_2	ceftizoxime	286	KG00101110	Retention, Urinary	0.028010012581944466
+trial_2	ceftizoxime	166	KG00099773	menopausal syndrome	0.027922723442316055
+trial_2	ceftizoxime	33	KG00100094	Pancreatitis NOS	0.02700556069612503
+trial_2	ceftizoxime	212	KG00100576	shivers	0.026793895289301872
+trial_2	ceftizoxime	183	KG00100449	Adult Respiratory Distress Syndrome	0.026673315092921257

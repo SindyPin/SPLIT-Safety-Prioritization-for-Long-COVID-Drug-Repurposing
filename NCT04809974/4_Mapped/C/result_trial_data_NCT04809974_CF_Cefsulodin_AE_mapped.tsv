@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20646332204341888
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.20395413041114807
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.16407863795757294
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1414412409067154
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13350369036197662
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13144977390766144
+trial_1	placebo	14	KG00097852	Anemia NOS	0.12925492227077484
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.12360601127147675
+trial_1	placebo	46	KG00099121	Headache NOS	0.12118372321128845
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11951539665460587
+trial_1	placebo	20	KG00098540	dehydration	0.11466052383184433
+trial_1	placebo	21	KG00098675	dyspnoea	0.10575877875089645
+trial_1	placebo	68	KG00099901	nauseas	0.0995708480477333
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09949417412281036
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09789697825908661
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09509816020727158
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09395842999219894
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08977168798446655
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.08506809175014496
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0848216712474823
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08420119434595108
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08141283690929413
+trial_1	placebo	114	KG00098933	fevers	0.08136554807424545
+trial_1	placebo	228	KG00114657	Weight below normal	0.07995297014713287
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0745350643992424
+trial_1	placebo	72	KG00103771	myalgias	0.07054591178894043
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06979746371507645
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06858240813016891
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06791453063488007
+trial_1	placebo	126	KG00100076	Pain NOS	0.06781931221485138
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06640297919511795
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06609918177127838
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06548051536083221
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06468634307384491
+trial_1	placebo	85	KG00098474	coughs	0.06404003500938416
+trial_1	placebo	104	KG00097963	arthralgias	0.06372738629579544
+trial_1	placebo	5	KG00099169	haematuria	0.06293730437755585
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06226614862680435
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06088891252875328
+trial_1	placebo	239	KG00100128	pareses	0.05666344612836838
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.055635005235672
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05528634041547775
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05476245656609535
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05427323281764984
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.05312451347708702
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.053094349801540375
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.052591435611248016
+trial_1	placebo	147	KG00098000	atelectases	0.05228235200047493
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05136210843920708
+trial_1	placebo	116	KG00098964	Pain in foot	0.049691274762153625
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04949193075299263
+trial_1	placebo	18	KG00098307	Pain, Chest	0.048795606940984726
+trial_1	placebo	102	KG00097916	anxieties	0.04870610311627388
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04868003726005554
+trial_1	placebo	82	KG00097697	abdomen distended	0.0470556765794754
+trial_1	placebo	234	KG00098669	dysgeusias	0.04605347290635109
+trial_1	placebo	269	KG00100399	pyaemia	0.04501780495047569
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04500921815633774
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04378421977162361
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04356154426932335
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.042441464960575104
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.042403820902109146
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04238289222121239
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04227474331855774
+trial_1	placebo	132	KG00101045	Gain, Weight	0.041578780859708786
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04127829149365425
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.041257236152887344
+trial_1	placebo	100	KG00097815	alopecias	0.04027493670582771
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.039619166404008865
+trial_1	placebo	164	KG00108827	ileus colon	0.03957236558198929
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.038477666676044464
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.037872083485126495
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03763372823596001
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03690289705991745
+trial_1	placebo	262	KG00101199	agitation	0.03666913881897926
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03653353825211525
+trial_1	placebo	186	KG00101431	creatinine increased	0.036506131291389465
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03605198860168457
+trial_1	placebo	508	KG00108565	blood glucose increased	0.035636600106954575
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03494183346629143
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03474245220422745
+trial_1	placebo	466	KG00101205	fall	0.03424903005361557
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03349115327000618
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.033469196408987045
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.031133277341723442
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03099929727613926
+trial_1	placebo	153	KG00099579	lethargy	0.030799828469753265
+trial_1	placebo	212	KG00100576	shivers	0.03043190948665142
+trial_1	placebo	4	KG00098817	epistaxis	0.030305804684758186
+trial_1	placebo	339	KG00100334	proteinurias	0.02981382980942726
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.02969263307750225
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02958839386701584
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.029435183852910995
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02923542819917202
+trial_1	placebo	154	KG00099686	Lymphopenias	0.029179953038692474
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.029168345034122467
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.02909051440656185
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02907039411365986
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02882234938442707
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.028476493433117867
+trial_2	cefsulodin	87	KG00098599	diarrhoea	0.20646332204341888
+trial_2	cefsulodin	78	KG00099326	Hypertensive diseases	0.20395413041114807
+trial_2	cefsulodin	177	KG00099299	hyperglycaemia	0.16407863795757294
+trial_2	cefsulodin	123	KG00099351	hypokalaemia	0.1414412409067154
+trial_2	cefsulodin	17	KG00097991	Asthenia NOS	0.13350369036197662
+trial_2	cefsulodin	9	KG00098432	Confusion NOS	0.13144977390766144
+trial_2	cefsulodin	14	KG00097852	Anemia NOS	0.12925492227077484
+trial_2	cefsulodin	37	KG00097696	Cramps, Abdominal	0.12360601127147675
+trial_2	cefsulodin	46	KG00099121	Headache NOS	0.12118372321128845
+trial_2	cefsulodin	173	KG00098172	Bronchopneumonia NOS	0.11951539665460587
+trial_2	cefsulodin	20	KG00098540	dehydration	0.11466052383184433
+trial_2	cefsulodin	21	KG00098675	dyspnoea	0.10575877875089645
+trial_2	cefsulodin	68	KG00099901	nauseas	0.0995708480477333
+trial_2	cefsulodin	79	KG00100317	Insomnia, Primary	0.09949417412281036
+trial_2	cefsulodin	2	KG00100772	thrombocytopaenia	0.09789697825908661
+trial_2	cefsulodin	77	KG00098450	Constipation NOS	0.09509816020727158
+trial_2	cefsulodin	49	KG00099902	nausea with vomiting	0.09395842999219894
+trial_2	cefsulodin	189	KG00101580	Alanine aminotransferase increase	0.08977168798446655
+trial_2	cefsulodin	188	KG00101579	Aspartate aminotransferase increase	0.08506809175014496
+trial_2	cefsulodin	67	KG00098673	Dyspepsia, NOS	0.0848216712474823
+trial_2	cefsulodin	350	KG00106765	decreased platelet count	0.08420119434595108
+trial_2	cefsulodin	200	KG00098539	Disorders, Deglutition	0.08141283690929413
+trial_2	cefsulodin	114	KG00098933	fevers	0.08136554807424545
+trial_2	cefsulodin	228	KG00114657	Weight below normal	0.07995297014713287
+trial_2	cefsulodin	180	KG00099363	Hypotension NOS	0.0745350643992424
+trial_2	cefsulodin	72	KG00103771	myalgias	0.07054591178894043
+trial_2	cefsulodin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06979746371507645
+trial_2	cefsulodin	64	KG00097734	Acrodermatitis, NOS	0.06858240813016891
+trial_2	cefsulodin	29	KG00099354	hyponatraemia	0.06791453063488007
+trial_2	cefsulodin	126	KG00100076	Pain NOS	0.06781931221485138
+trial_2	cefsulodin	243	KG00100947	Micturition frequency increased	0.06640297919511795
+trial_2	cefsulodin	76	KG00100450	Respiratory insufficiency, NOS	0.06609918177127838
+trial_2	cefsulodin	28	KG00099347	hypoglycaemia	0.06548051536083221
+trial_2	cefsulodin	86	KG00098565	Depression, Mental	0.06468634307384491
+trial_2	cefsulodin	85	KG00098474	coughs	0.06404003500938416
+trial_2	cefsulodin	104	KG00097963	arthralgias	0.06372738629579544
+trial_2	cefsulodin	5	KG00099169	haematuria	0.06293730437755585
+trial_2	cefsulodin	27	KG00099303	hyperkalaemia	0.06226614862680435
+trial_2	cefsulodin	61	KG00099501	Chronic Kidney Failure	0.06088891252875328
+trial_2	cefsulodin	239	KG00100128	pareses	0.05666344612836838
+trial_2	cefsulodin	30	KG00099500	Acute Kidney Failure	0.055635005235672
+trial_2	cefsulodin	276	KG00099127	Arrest, Cardiac	0.05528634041547775
+trial_2	cefsulodin	179	KG00099342	hypocalcaemia	0.05476245656609535
+trial_2	cefsulodin	151	KG00098274	Infarction, Cerebral	0.05427323281764984
+trial_2	cefsulodin	131	KG00100948	Urinary tract infection (& [NOS])	0.05312451347708702
+trial_2	cefsulodin	101	KG00097901	Anorexia NOS	0.053094349801540375
+trial_2	cefsulodin	139	KG00098855	Sinusitis, Ethmoid	0.052591435611248016
+trial_2	cefsulodin	147	KG00098000	atelectases	0.05228235200047493
+trial_2	cefsulodin	144	KG00099610	Leukopenia NOS	0.05136210843920708
+trial_2	cefsulodin	116	KG00098964	Pain in foot	0.049691274762153625
+trial_2	cefsulodin	194	KG00110727	Neutrophil Count Decreased	0.04949193075299263
+trial_2	cefsulodin	18	KG00098307	Pain, Chest	0.048795606940984726
+trial_2	cefsulodin	102	KG00097916	anxieties	0.04870610311627388
+trial_2	cefsulodin	122	KG00099321	Hypersensitivity NOS	0.04868003726005554
+trial_2	cefsulodin	82	KG00097697	abdomen distended	0.0470556765794754
+trial_2	cefsulodin	234	KG00098669	dysgeusias	0.04605347290635109
+trial_2	cefsulodin	269	KG00100399	pyaemia	0.04501780495047569
+trial_2	cefsulodin	396	KG00100373	Embolism, Pulmonary	0.04500921815633774
+trial_2	cefsulodin	1	KG00099959	Neutropenia NOS	0.04378421977162361
+trial_2	cefsulodin	261	KG00101559	raised alkaline phosphatase	0.04356154426932335
+trial_2	cefsulodin	92	KG00100926	Infections, Upper Respiratory	0.042441464960575104
+trial_2	cefsulodin	69	KG00100082	Palpitations NOS	0.042403820902109146
+trial_2	cefsulodin	282	KG00099309	hypernatraemia	0.04238289222121239
+trial_2	cefsulodin	35	KG00101507	hypomagnesaemia	0.04227474331855774
+trial_2	cefsulodin	132	KG00101045	Gain, Weight	0.041578780859708786
+trial_2	cefsulodin	355	KG00110857	lymphocyte count decreased	0.04127829149365425
+trial_2	cefsulodin	204	KG00098849	Esophagitis, Peptic	0.041257236152887344
+trial_2	cefsulodin	100	KG00097815	alopecias	0.04027493670582771
+trial_2	cefsulodin	38	KG00098066	Binocular vision disorders	0.039619166404008865
+trial_2	cefsulodin	164	KG00108827	ileus colon	0.03957236558198929
+trial_2	cefsulodin	253	KG00100232	Pleural effusion NOS (disorder)	0.038477666676044464
+trial_2	cefsulodin	249	KG00104430	hypoalbuminaemia	0.037872083485126495
+trial_2	cefsulodin	441	KG00098262	cellulitis nos	0.03763372823596001
+trial_2	cefsulodin	96	KG00101679	Unattended death NOS	0.03690289705991745
+trial_2	cefsulodin	262	KG00101199	agitation	0.03666913881897926
+trial_2	cefsulodin	221	KG00101207	peripheral oedema	0.03653353825211525
+trial_2	cefsulodin	186	KG00101431	creatinine increased	0.036506131291389465
+trial_2	cefsulodin	75	KG00100195	Dolens, Phlegmasia Alba	0.03605198860168457
+trial_2	cefsulodin	508	KG00108565	blood glucose increased	0.035636600106954575
+trial_2	cefsulodin	191	KG00104055	Biliverdin increased	0.03494183346629143
+trial_2	cefsulodin	36	KG00106434	Vision, Blurring Of	0.03474245220422745
+trial_2	cefsulodin	466	KG00101205	fall	0.03424903005361557
+trial_2	cefsulodin	288	KG00101223	hypophosphataemia	0.03349115327000618
+trial_2	cefsulodin	130	KG00100683	Stomatitis NOS	0.033469196408987045
+trial_2	cefsulodin	142	KG00100923	Unspecified infectious and parasitic diseases	0.031133277341723442
+trial_2	cefsulodin	97	KG00104198	LIVER ENZYME ELEVATED	0.03099929727613926
+trial_2	cefsulodin	153	KG00099579	lethargy	0.030799828469753265
+trial_2	cefsulodin	212	KG00100576	shivers	0.03043190948665142
+trial_2	cefsulodin	4	KG00098817	epistaxis	0.030305804684758186
+trial_2	cefsulodin	339	KG00100334	proteinurias	0.02981382980942726
+trial_2	cefsulodin	400	KG00100925	Upper gastrointestinal haemorrhage	0.02969263307750225
+trial_2	cefsulodin	361	KG00098004	Fibrillation, Atrial	0.02958839386701584
+trial_2	cefsulodin	268	KG00099557	Heart Failure, Left-Sided	0.029435183852910995
+trial_2	cefsulodin	286	KG00101110	Retention, Urinary	0.02923542819917202
+trial_2	cefsulodin	154	KG00099686	Lymphopenias	0.029179953038692474
+trial_2	cefsulodin	341	KG00101472	Gamma-glutamyltransferase increased	0.029168345034122467
+trial_2	cefsulodin	494	KG00099838	Organ Failure, Multiple	0.02909051440656185
+trial_2	cefsulodin	98	KG00097718	Incised wound, NOS	0.02907039411365986
+trial_2	cefsulodin	31	KG00099872	Infarction, Myocardial	0.02882234938442707
+trial_2	cefsulodin	202	KG00098630	Disturbance of Skin Sensation	0.028476493433117867

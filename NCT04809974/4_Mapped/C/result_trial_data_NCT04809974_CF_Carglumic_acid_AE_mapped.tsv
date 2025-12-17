@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.21908564865589142
+trial_1	placebo	87	KG00098599	diarrhoea	0.17950232326984406
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.15635570883750916
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.15434154868125916
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13657046854496002
+trial_1	placebo	20	KG00098540	dehydration	0.12823179364204407
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12584522366523743
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12223242968320847
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.12036406993865967
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.10675854980945587
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10340572148561478
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10316219180822372
+trial_1	placebo	46	KG00099121	Headache NOS	0.09667626768350601
+trial_1	placebo	21	KG00098675	dyspnoea	0.09481360763311386
+trial_1	placebo	350	KG00106765	decreased platelet count	0.09253174066543579
+trial_1	placebo	228	KG00114657	Weight below normal	0.09182728081941605
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08751729130744934
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08511331677436829
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08506058901548386
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.08330543339252472
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08279093354940414
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0825558602809906
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.08060755580663681
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.08027955889701843
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07793854922056198
+trial_1	placebo	239	KG00100128	pareses	0.07737848162651062
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07470885664224625
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07289901375770569
+trial_1	placebo	68	KG00099901	nauseas	0.07194667309522629
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07098116725683212
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06940145790576935
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06864463537931442
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06760073453187943
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06724147498607635
+trial_1	placebo	126	KG00100076	Pain NOS	0.06386615335941315
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06301739066839218
+trial_1	placebo	116	KG00098964	Pain in foot	0.061338119208812714
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.061245501041412354
+trial_1	placebo	5	KG00099169	haematuria	0.06096472591161728
+trial_1	placebo	466	KG00101205	fall	0.059471916407346725
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05903143808245659
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.058902595192193985
+trial_1	placebo	147	KG00098000	atelectases	0.05879221856594086
+trial_1	placebo	132	KG00101045	Gain, Weight	0.057971592992544174
+trial_1	placebo	114	KG00098933	fevers	0.055651020258665085
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.05533301830291748
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.05515597015619278
+trial_1	placebo	104	KG00097963	arthralgias	0.054423101246356964
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0538644939661026
+trial_1	placebo	85	KG00098474	coughs	0.053207412362098694
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05298956111073494
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05192861333489418
+trial_1	placebo	262	KG00101199	agitation	0.04912252351641655
+trial_1	placebo	282	KG00099309	hypernatraemia	0.047326769679784775
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.047288861125707626
+trial_1	placebo	102	KG00097916	anxieties	0.047190263867378235
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04688795283436775
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04646069183945656
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.045053880661726
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.044292010366916656
+trial_1	placebo	269	KG00100399	pyaemia	0.04416406527161598
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.04357237368822098
+trial_1	placebo	508	KG00108565	blood glucose increased	0.04316950589418411
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04289492964744568
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04278544709086418
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04270613193511963
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04191259667277336
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.04186047241091728
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04185912013053894
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.04058028385043144
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.04019638150930405
+trial_1	placebo	18	KG00098307	Pain, Chest	0.040156930685043335
+trial_1	placebo	82	KG00097697	abdomen distended	0.04013422131538391
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03947800025343895
+trial_1	placebo	72	KG00103771	myalgias	0.03904503583908081
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03834269568324089
+trial_1	placebo	242	KG00100855	tremors	0.03801264613866806
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.037864889949560165
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.037200506776571274
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0366038978099823
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03659367561340332
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.03633534535765648
+trial_1	placebo	456	KG00099420	Influenzae	0.035592012107372284
+trial_1	placebo	454	KG00098286	Pain, Neck	0.035513736307621
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.03543173894286156
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03514622896909714
+trial_1	placebo	186	KG00101431	creatinine increased	0.034488894045352936
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03371770307421684
+trial_1	placebo	153	KG00099579	lethargy	0.033443208783864975
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.033357568085193634
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.0329451858997345
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0326203815639019
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.03225059062242508
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.0318995825946331
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.031824614852666855
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.031786199659109116
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.03172126039862633
+trial_1	placebo	164	KG00108827	ileus colon	0.031715843826532364
+trial_1	placebo	339	KG00100334	proteinurias	0.03170504420995712
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.03165110573172569
+trial_2	carglumic acid	78	KG00099326	Hypertensive diseases	0.21908564865589142
+trial_2	carglumic acid	87	KG00098599	diarrhoea	0.17950232326984406
+trial_2	carglumic acid	173	KG00098172	Bronchopneumonia NOS	0.15635570883750916
+trial_2	carglumic acid	177	KG00099299	hyperglycaemia	0.15434154868125916
+trial_2	carglumic acid	9	KG00098432	Confusion NOS	0.13657046854496002
+trial_2	carglumic acid	20	KG00098540	dehydration	0.12823179364204407
+trial_2	carglumic acid	189	KG00101580	Alanine aminotransferase increase	0.12584522366523743
+trial_2	carglumic acid	123	KG00099351	hypokalaemia	0.12223242968320847
+trial_2	carglumic acid	188	KG00101579	Aspartate aminotransferase increase	0.12036406993865967
+trial_2	carglumic acid	200	KG00098539	Disorders, Deglutition	0.10675854980945587
+trial_2	carglumic acid	37	KG00097696	Cramps, Abdominal	0.10340572148561478
+trial_2	carglumic acid	17	KG00097991	Asthenia NOS	0.10316219180822372
+trial_2	carglumic acid	46	KG00099121	Headache NOS	0.09667626768350601
+trial_2	carglumic acid	21	KG00098675	dyspnoea	0.09481360763311386
+trial_2	carglumic acid	350	KG00106765	decreased platelet count	0.09253174066543579
+trial_2	carglumic acid	228	KG00114657	Weight below normal	0.09182728081941605
+trial_2	carglumic acid	77	KG00098450	Constipation NOS	0.08751729130744934
+trial_2	carglumic acid	14	KG00097852	Anemia NOS	0.08511331677436829
+trial_2	carglumic acid	67	KG00098673	Dyspepsia, NOS	0.08506058901548386
+trial_2	carglumic acid	28	KG00099347	hypoglycaemia	0.08330543339252472
+trial_2	carglumic acid	29	KG00099354	hyponatraemia	0.08279093354940414
+trial_2	carglumic acid	76	KG00100450	Respiratory insufficiency, NOS	0.0825558602809906
+trial_2	carglumic acid	2	KG00100772	thrombocytopaenia	0.08060755580663681
+trial_2	carglumic acid	151	KG00098274	Infarction, Cerebral	0.08027955889701843
+trial_2	carglumic acid	243	KG00100947	Micturition frequency increased	0.07793854922056198
+trial_2	carglumic acid	239	KG00100128	pareses	0.07737848162651062
+trial_2	carglumic acid	61	KG00099501	Chronic Kidney Failure	0.07470885664224625
+trial_2	carglumic acid	49	KG00099902	nausea with vomiting	0.07289901375770569
+trial_2	carglumic acid	68	KG00099901	nauseas	0.07194667309522629
+trial_2	carglumic acid	64	KG00097734	Acrodermatitis, NOS	0.07098116725683212
+trial_2	carglumic acid	79	KG00100317	Insomnia, Primary	0.06940145790576935
+trial_2	carglumic acid	30	KG00099500	Acute Kidney Failure	0.06864463537931442
+trial_2	carglumic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06760073453187943
+trial_2	carglumic acid	86	KG00098565	Depression, Mental	0.06724147498607635
+trial_2	carglumic acid	126	KG00100076	Pain NOS	0.06386615335941315
+trial_2	carglumic acid	179	KG00099342	hypocalcaemia	0.06301739066839218
+trial_2	carglumic acid	116	KG00098964	Pain in foot	0.061338119208812714
+trial_2	carglumic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.061245501041412354
+trial_2	carglumic acid	5	KG00099169	haematuria	0.06096472591161728
+trial_2	carglumic acid	466	KG00101205	fall	0.059471916407346725
+trial_2	carglumic acid	276	KG00099127	Arrest, Cardiac	0.05903143808245659
+trial_2	carglumic acid	180	KG00099363	Hypotension NOS	0.058902595192193985
+trial_2	carglumic acid	147	KG00098000	atelectases	0.05879221856594086
+trial_2	carglumic acid	132	KG00101045	Gain, Weight	0.057971592992544174
+trial_2	carglumic acid	114	KG00098933	fevers	0.055651020258665085
+trial_2	carglumic acid	38	KG00098066	Binocular vision disorders	0.05533301830291748
+trial_2	carglumic acid	36	KG00106434	Vision, Blurring Of	0.05515597015619278
+trial_2	carglumic acid	104	KG00097963	arthralgias	0.054423101246356964
+trial_2	carglumic acid	27	KG00099303	hyperkalaemia	0.0538644939661026
+trial_2	carglumic acid	85	KG00098474	coughs	0.053207412362098694
+trial_2	carglumic acid	194	KG00110727	Neutrophil Count Decreased	0.05298956111073494
+trial_2	carglumic acid	139	KG00098855	Sinusitis, Ethmoid	0.05192861333489418
+trial_2	carglumic acid	262	KG00101199	agitation	0.04912252351641655
+trial_2	carglumic acid	282	KG00099309	hypernatraemia	0.047326769679784775
+trial_2	carglumic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.047288861125707626
+trial_2	carglumic acid	102	KG00097916	anxieties	0.047190263867378235
+trial_2	carglumic acid	101	KG00097901	Anorexia NOS	0.04688795283436775
+trial_2	carglumic acid	355	KG00110857	lymphocyte count decreased	0.04646069183945656
+trial_2	carglumic acid	96	KG00101679	Unattended death NOS	0.045053880661726
+trial_2	carglumic acid	122	KG00099321	Hypersensitivity NOS	0.044292010366916656
+trial_2	carglumic acid	269	KG00100399	pyaemia	0.04416406527161598
+trial_2	carglumic acid	204	KG00098849	Esophagitis, Peptic	0.04357237368822098
+trial_2	carglumic acid	508	KG00108565	blood glucose increased	0.04316950589418411
+trial_2	carglumic acid	396	KG00100373	Embolism, Pulmonary	0.04289492964744568
+trial_2	carglumic acid	92	KG00100926	Infections, Upper Respiratory	0.04278544709086418
+trial_2	carglumic acid	261	KG00101559	raised alkaline phosphatase	0.04270613193511963
+trial_2	carglumic acid	69	KG00100082	Palpitations NOS	0.04191259667277336
+trial_2	carglumic acid	98	KG00097718	Incised wound, NOS	0.04186047241091728
+trial_2	carglumic acid	441	KG00098262	cellulitis nos	0.04185912013053894
+trial_2	carglumic acid	422	KG00101429	Creatine phosphokinase increased	0.04058028385043144
+trial_2	carglumic acid	341	KG00101472	Gamma-glutamyltransferase increased	0.04019638150930405
+trial_2	carglumic acid	18	KG00098307	Pain, Chest	0.040156930685043335
+trial_2	carglumic acid	82	KG00097697	abdomen distended	0.04013422131538391
+trial_2	carglumic acid	286	KG00101110	Retention, Urinary	0.03947800025343895
+trial_2	carglumic acid	72	KG00103771	myalgias	0.03904503583908081
+trial_2	carglumic acid	35	KG00101507	hypomagnesaemia	0.03834269568324089
+trial_2	carglumic acid	242	KG00100855	tremors	0.03801264613866806
+trial_2	carglumic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.037864889949560165
+trial_2	carglumic acid	361	KG00098004	Fibrillation, Atrial	0.037200506776571274
+trial_2	carglumic acid	191	KG00104055	Biliverdin increased	0.0366038978099823
+trial_2	carglumic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.03659367561340332
+trial_2	carglumic acid	268	KG00099557	Heart Failure, Left-Sided	0.03633534535765648
+trial_2	carglumic acid	456	KG00099420	Influenzae	0.035592012107372284
+trial_2	carglumic acid	454	KG00098286	Pain, Neck	0.035513736307621
+trial_2	carglumic acid	394	KG00100243	Pneumonia, Aspiration	0.03543173894286156
+trial_2	carglumic acid	288	KG00101223	hypophosphataemia	0.03514622896909714
+trial_2	carglumic acid	186	KG00101431	creatinine increased	0.034488894045352936
+trial_2	carglumic acid	11	KG00097993	Asthma NOS	0.03371770307421684
+trial_2	carglumic acid	153	KG00099579	lethargy	0.033443208783864975
+trial_2	carglumic acid	494	KG00099838	Organ Failure, Multiple	0.033357568085193634
+trial_2	carglumic acid	249	KG00104430	hypoalbuminaemia	0.0329451858997345
+trial_2	carglumic acid	221	KG00101207	peripheral oedema	0.0326203815639019
+trial_2	carglumic acid	232	KG00097997	Ataxia NOS	0.03225059062242508
+trial_2	carglumic acid	163	KG00104050	bowel obstructions small	0.0318995825946331
+trial_2	carglumic acid	144	KG00099610	Leukopenia NOS	0.031824614852666855
+trial_2	carglumic acid	256	KG00100738	Tachycardia, Sinus	0.031786199659109116
+trial_2	carglumic acid	152	KG00099402	INCONTINENCE NOS	0.03172126039862633
+trial_2	carglumic acid	164	KG00108827	ileus colon	0.031715843826532364
+trial_2	carglumic acid	339	KG00100334	proteinurias	0.03170504420995712
+trial_2	carglumic acid	15	KG00097882	Angina pectoris NOS	0.03165110573172569

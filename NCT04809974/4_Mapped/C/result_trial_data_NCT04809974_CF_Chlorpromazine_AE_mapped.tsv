@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0830748975276947
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07818973809480667
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07531419396400452
+trial_1	placebo	87	KG00098599	diarrhoea	0.07268916070461273
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06485637277364731
+trial_1	placebo	21	KG00098675	dyspnoea	0.06030077859759331
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.056015439331531525
+trial_1	placebo	77	KG00098450	Constipation NOS	0.054818492382764816
+trial_1	placebo	46	KG00099121	Headache NOS	0.054253458976745605
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.048931609839200974
+trial_1	placebo	123	KG00099351	hypokalaemia	0.043877024203538895
+trial_1	placebo	132	KG00101045	Gain, Weight	0.042973052710294724
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04260924458503723
+trial_1	placebo	20	KG00098540	dehydration	0.04166721552610397
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0405857115983963
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04026292264461517
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03991105780005455
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03929119184613228
+trial_1	placebo	85	KG00098474	coughs	0.03799685090780258
+trial_1	placebo	68	KG00099901	nauseas	0.03613719344139099
+trial_1	placebo	29	KG00099354	hyponatraemia	0.036069102585315704
+trial_1	placebo	86	KG00098565	Depression, Mental	0.036048442125320435
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03587321564555168
+trial_1	placebo	126	KG00100076	Pain NOS	0.03310270980000496
+trial_1	placebo	114	KG00098933	fevers	0.03308362141251564
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03246644139289856
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.032110657542943954
+trial_1	placebo	228	KG00114657	Weight below normal	0.031042153015732765
+trial_1	placebo	104	KG00097963	arthralgias	0.03076936863362789
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029798759147524834
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.029594140127301216
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02932085283100605
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0289060827344656
+trial_1	placebo	66	KG00098642	drowsiness	0.027456490322947502
+trial_1	placebo	262	KG00101199	agitation	0.027409635484218597
+trial_1	placebo	242	KG00100855	tremors	0.027195388451218605
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02642020769417286
+trial_1	placebo	14	KG00097852	Anemia NOS	0.026372158899903297
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02547457069158554
+trial_1	placebo	102	KG00097916	anxieties	0.025253720581531525
+trial_1	placebo	300	KG00101064	xerostomia	0.024334387853741646
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02412734553217888
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024066181853413582
+trial_1	placebo	121	KG00099190	haemorrhage	0.022706856951117516
+trial_1	placebo	239	KG00100128	pareses	0.022617856040596962
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.022251131013035774
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021883802488446236
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.020851697772741318
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02069747820496559
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02066127024590969
+trial_1	placebo	466	KG00101205	fall	0.020631728693842888
+trial_1	placebo	18	KG00098307	Pain, Chest	0.020477378740906715
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01995011791586876
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.019321823492646217
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.018988946452736855
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018466347828507423
+trial_1	placebo	5	KG00099169	haematuria	0.018161844462156296
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018094060942530632
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01802472211420536
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01793203502893448
+trial_1	placebo	147	KG00098000	atelectases	0.017571434378623962
+trial_1	placebo	116	KG00098964	Pain in foot	0.01752161979675293
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017169289290905
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01683792658150196
+trial_1	placebo	154	KG00099686	Lymphopenias	0.016819583252072334
+trial_1	placebo	234	KG00098669	dysgeusias	0.016323864459991455
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.016252778470516205
+trial_1	placebo	269	KG00100399	pyaemia	0.0161576010286808
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01597682572901249
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.015816543251276016
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.015606172382831573
+trial_1	placebo	72	KG00103771	myalgias	0.015566736459732056
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015353593043982983
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.015341531485319138
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.015330442227423191
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015254099853336811
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014856423251330853
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.014805341139435768
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014674544334411621
+trial_1	placebo	136	KG00101582	Dry;skin	0.014626999385654926
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01458516251295805
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014528068713843822
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.014281081967055798
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013804982416331768
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01379476673901081
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.013569780625402927
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.013374602422118187
+trial_1	placebo	441	KG00098262	cellulitis nos	0.013346084393560886
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01318447571247816
+trial_1	placebo	333	KG00104019	DOPINESS	0.012947477400302887
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.012863547541201115
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.012835663743317127
+trial_1	placebo	186	KG00101431	creatinine increased	0.012815186753869057
+trial_1	placebo	82	KG00097697	abdomen distended	0.01248940546065569
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.012437431141734123
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.012425897642970085
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.012393142096698284
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012340918183326721
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.012245462276041508
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.012220697477459908
+trial_2	chlorpromazine	17	KG00097991	Asthenia NOS	0.0830748975276947
+trial_2	chlorpromazine	78	KG00099326	Hypertensive diseases	0.07818973809480667
+trial_2	chlorpromazine	9	KG00098432	Confusion NOS	0.07531419396400452
+trial_2	chlorpromazine	87	KG00098599	diarrhoea	0.07268916070461273
+trial_2	chlorpromazine	177	KG00099299	hyperglycaemia	0.06485637277364731
+trial_2	chlorpromazine	21	KG00098675	dyspnoea	0.06030077859759331
+trial_2	chlorpromazine	173	KG00098172	Bronchopneumonia NOS	0.056015439331531525
+trial_2	chlorpromazine	77	KG00098450	Constipation NOS	0.054818492382764816
+trial_2	chlorpromazine	46	KG00099121	Headache NOS	0.054253458976745605
+trial_2	chlorpromazine	79	KG00100317	Insomnia, Primary	0.048931609839200974
+trial_2	chlorpromazine	123	KG00099351	hypokalaemia	0.043877024203538895
+trial_2	chlorpromazine	132	KG00101045	Gain, Weight	0.042973052710294724
+trial_2	chlorpromazine	49	KG00099902	nausea with vomiting	0.04260924458503723
+trial_2	chlorpromazine	20	KG00098540	dehydration	0.04166721552610397
+trial_2	chlorpromazine	151	KG00098274	Infarction, Cerebral	0.0405857115983963
+trial_2	chlorpromazine	189	KG00101580	Alanine aminotransferase increase	0.04026292264461517
+trial_2	chlorpromazine	64	KG00097734	Acrodermatitis, NOS	0.03991105780005455
+trial_2	chlorpromazine	96	KG00101679	Unattended death NOS	0.03929119184613228
+trial_2	chlorpromazine	85	KG00098474	coughs	0.03799685090780258
+trial_2	chlorpromazine	68	KG00099901	nauseas	0.03613719344139099
+trial_2	chlorpromazine	29	KG00099354	hyponatraemia	0.036069102585315704
+trial_2	chlorpromazine	86	KG00098565	Depression, Mental	0.036048442125320435
+trial_2	chlorpromazine	67	KG00098673	Dyspepsia, NOS	0.03587321564555168
+trial_2	chlorpromazine	126	KG00100076	Pain NOS	0.03310270980000496
+trial_2	chlorpromazine	114	KG00098933	fevers	0.03308362141251564
+trial_2	chlorpromazine	200	KG00098539	Disorders, Deglutition	0.03246644139289856
+trial_2	chlorpromazine	188	KG00101579	Aspartate aminotransferase increase	0.032110657542943954
+trial_2	chlorpromazine	228	KG00114657	Weight below normal	0.031042153015732765
+trial_2	chlorpromazine	104	KG00097963	arthralgias	0.03076936863362789
+trial_2	chlorpromazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029798759147524834
+trial_2	chlorpromazine	37	KG00097696	Cramps, Abdominal	0.029594140127301216
+trial_2	chlorpromazine	180	KG00099363	Hypotension NOS	0.02932085283100605
+trial_2	chlorpromazine	76	KG00100450	Respiratory insufficiency, NOS	0.0289060827344656
+trial_2	chlorpromazine	66	KG00098642	drowsiness	0.027456490322947502
+trial_2	chlorpromazine	262	KG00101199	agitation	0.027409635484218597
+trial_2	chlorpromazine	242	KG00100855	tremors	0.027195388451218605
+trial_2	chlorpromazine	350	KG00106765	decreased platelet count	0.02642020769417286
+trial_2	chlorpromazine	14	KG00097852	Anemia NOS	0.026372158899903297
+trial_2	chlorpromazine	28	KG00099347	hypoglycaemia	0.02547457069158554
+trial_2	chlorpromazine	102	KG00097916	anxieties	0.025253720581531525
+trial_2	chlorpromazine	300	KG00101064	xerostomia	0.024334387853741646
+trial_2	chlorpromazine	61	KG00099501	Chronic Kidney Failure	0.02412734553217888
+trial_2	chlorpromazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.024066181853413582
+trial_2	chlorpromazine	121	KG00099190	haemorrhage	0.022706856951117516
+trial_2	chlorpromazine	239	KG00100128	pareses	0.022617856040596962
+trial_2	chlorpromazine	36	KG00106434	Vision, Blurring Of	0.022251131013035774
+trial_2	chlorpromazine	30	KG00099500	Acute Kidney Failure	0.021883802488446236
+trial_2	chlorpromazine	179	KG00099342	hypocalcaemia	0.020851697772741318
+trial_2	chlorpromazine	243	KG00100947	Micturition frequency increased	0.02069747820496559
+trial_2	chlorpromazine	101	KG00097901	Anorexia NOS	0.02066127024590969
+trial_2	chlorpromazine	466	KG00101205	fall	0.020631728693842888
+trial_2	chlorpromazine	18	KG00098307	Pain, Chest	0.020477378740906715
+trial_2	chlorpromazine	194	KG00110727	Neutrophil Count Decreased	0.01995011791586876
+trial_2	chlorpromazine	122	KG00099321	Hypersensitivity NOS	0.019321823492646217
+trial_2	chlorpromazine	2	KG00100772	thrombocytopaenia	0.018988946452736855
+trial_2	chlorpromazine	69	KG00100082	Palpitations NOS	0.018466347828507423
+trial_2	chlorpromazine	5	KG00099169	haematuria	0.018161844462156296
+trial_2	chlorpromazine	27	KG00099303	hyperkalaemia	0.018094060942530632
+trial_2	chlorpromazine	131	KG00100948	Urinary tract infection (& [NOS])	0.01802472211420536
+trial_2	chlorpromazine	191	KG00104055	Biliverdin increased	0.01793203502893448
+trial_2	chlorpromazine	147	KG00098000	atelectases	0.017571434378623962
+trial_2	chlorpromazine	116	KG00098964	Pain in foot	0.01752161979675293
+trial_2	chlorpromazine	130	KG00100683	Stomatitis NOS	0.017169289290905
+trial_2	chlorpromazine	261	KG00101559	raised alkaline phosphatase	0.01683792658150196
+trial_2	chlorpromazine	154	KG00099686	Lymphopenias	0.016819583252072334
+trial_2	chlorpromazine	234	KG00098669	dysgeusias	0.016323864459991455
+trial_2	chlorpromazine	139	KG00098855	Sinusitis, Ethmoid	0.016252778470516205
+trial_2	chlorpromazine	269	KG00100399	pyaemia	0.0161576010286808
+trial_2	chlorpromazine	249	KG00104430	hypoalbuminaemia	0.01597682572901249
+trial_2	chlorpromazine	396	KG00100373	Embolism, Pulmonary	0.015816543251276016
+trial_2	chlorpromazine	92	KG00100926	Infections, Upper Respiratory	0.015606172382831573
+trial_2	chlorpromazine	72	KG00103771	myalgias	0.015566736459732056
+trial_2	chlorpromazine	199	KG00098371	Rhinitis (chronic) NOS	0.015353593043982983
+trial_2	chlorpromazine	1	KG00099959	Neutropenia NOS	0.015341531485319138
+trial_2	chlorpromazine	22	KG00098705	Edema (NOS)	0.015330442227423191
+trial_2	chlorpromazine	211	KG00100341	Pruritus NOS	0.015254099853336811
+trial_2	chlorpromazine	35	KG00101507	hypomagnesaemia	0.014856423251330853
+trial_2	chlorpromazine	144	KG00099610	Leukopenia NOS	0.014805341139435768
+trial_2	chlorpromazine	11	KG00097993	Asthma NOS	0.014674544334411621
+trial_2	chlorpromazine	136	KG00101582	Dry;skin	0.014626999385654926
+trial_2	chlorpromazine	38	KG00098066	Binocular vision disorders	0.01458516251295805
+trial_2	chlorpromazine	118	KG00099011	Gastritis NOS	0.014528068713843822
+trial_2	chlorpromazine	355	KG00110857	lymphocyte count decreased	0.014281081967055798
+trial_2	chlorpromazine	221	KG00101207	peripheral oedema	0.013804982416331768
+trial_2	chlorpromazine	356	KG00112623	Infectious Lung Disorders	0.01379476673901081
+trial_2	chlorpromazine	422	KG00101429	Creatine phosphokinase increased	0.013569780625402927
+trial_2	chlorpromazine	286	KG00101110	Retention, Urinary	0.013374602422118187
+trial_2	chlorpromazine	441	KG00098262	cellulitis nos	0.013346084393560886
+trial_2	chlorpromazine	508	KG00108565	blood glucose increased	0.01318447571247816
+trial_2	chlorpromazine	333	KG00104019	DOPINESS	0.012947477400302887
+trial_2	chlorpromazine	170	KG00108926	Neutropenia, Febrile	0.012863547541201115
+trial_2	chlorpromazine	246	KG00103338	Aspartate Aminotransferase Measurement	0.012835663743317127
+trial_2	chlorpromazine	186	KG00101431	creatinine increased	0.012815186753869057
+trial_2	chlorpromazine	82	KG00097697	abdomen distended	0.01248940546065569
+trial_2	chlorpromazine	253	KG00100232	Pleural effusion NOS (disorder)	0.012437431141734123
+trial_2	chlorpromazine	133	KG00101370	neuropathies sensory	0.012425897642970085
+trial_2	chlorpromazine	256	KG00100738	Tachycardia, Sinus	0.012393142096698284
+trial_2	chlorpromazine	361	KG00098004	Fibrillation, Atrial	0.012340918183326721
+trial_2	chlorpromazine	254	KG00100774	Thrombosis NOS	0.012245462276041508
+trial_2	chlorpromazine	152	KG00099402	INCONTINENCE NOS	0.012220697477459908

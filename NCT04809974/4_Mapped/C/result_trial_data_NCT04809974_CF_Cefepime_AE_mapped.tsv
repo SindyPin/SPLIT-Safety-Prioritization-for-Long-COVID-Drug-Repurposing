@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.13199563324451447
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11875776946544647
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10995378345251083
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1005411297082901
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07998434454202652
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.077077716588974
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07325055450201035
+trial_1	placebo	68	KG00099901	nauseas	0.07067681103944778
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06973852962255478
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06934624910354614
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0668518915772438
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06671297550201416
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06594286113977432
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06353422999382019
+trial_1	placebo	21	KG00098675	dyspnoea	0.061285872012376785
+trial_1	placebo	269	KG00100399	pyaemia	0.059443399310112
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05726708844304085
+trial_1	placebo	46	KG00099121	Headache NOS	0.056455329060554504
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05566174536943436
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05380811542272568
+trial_1	placebo	77	KG00098450	Constipation NOS	0.053549643605947495
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05168083310127258
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.050716862082481384
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.050342656672000885
+trial_1	placebo	147	KG00098000	atelectases	0.049975939095020294
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04949921742081642
+trial_1	placebo	20	KG00098540	dehydration	0.047215454280376434
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04665693640708923
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04563028737902641
+trial_1	placebo	114	KG00098933	fevers	0.043580830097198486
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04215262085199356
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03761046379804611
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03675650432705879
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03493946045637131
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03489157184958458
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03476635739207268
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03343449905514717
+trial_1	placebo	126	KG00100076	Pain NOS	0.03313582018017769
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03259221091866493
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031715065240859985
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.030429910868406296
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.030375510454177856
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.029997464269399643
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029859712347388268
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02959328517317772
+trial_1	placebo	164	KG00108827	ileus colon	0.028917141258716583
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028891153633594513
+trial_1	placebo	104	KG00097963	arthralgias	0.028781654313206673
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028767110779881477
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.028400201350450516
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028088318184018135
+trial_1	placebo	228	KG00114657	Weight below normal	0.02804907038807869
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02772272378206253
+trial_1	placebo	85	KG00098474	coughs	0.027353523299098015
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026669347658753395
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02663266658782959
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.02622365392744541
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0260540172457695
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02587704174220562
+trial_1	placebo	234	KG00098669	dysgeusias	0.025014009326696396
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02486404776573181
+trial_1	placebo	5	KG00099169	haematuria	0.02453274466097355
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.024154726415872574
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023938247933983803
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.023631425574421883
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02260143868625164
+trial_1	placebo	186	KG00101431	creatinine increased	0.022465581074357033
+trial_1	placebo	239	KG00100128	pareses	0.02195926010608673
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021513205021619797
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.021432165056467056
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021428091451525688
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02132585644721985
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.021309373900294304
+trial_1	placebo	82	KG00097697	abdomen distended	0.021084226667881012
+trial_1	placebo	121	KG00099190	haemorrhage	0.020984726026654243
+trial_1	placebo	102	KG00097916	anxieties	0.020135844126343727
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.020099563524127007
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01999674178659916
+trial_1	placebo	72	KG00103771	myalgias	0.01952851377427578
+trial_1	placebo	713	KG00107657	distressed respiratory	0.01931285485625267
+trial_1	placebo	282	KG00099309	hypernatraemia	0.019276175647974014
+trial_1	placebo	25	KG00099134	congestive failures heart	0.019275162369012833
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01902559958398342
+trial_1	placebo	398	KG00100580	Shock, Septic	0.018422674387693405
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018284762278199196
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.018174877390265465
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.018109843134880066
+trial_1	placebo	503	KG00102612	low haemoglobin	0.01797294244170189
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.01786516234278679
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017778458073735237
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01708068884909153
+trial_1	placebo	4	KG00098817	epistaxis	0.01641188934445381
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.01639981009066105
+trial_1	placebo	149	KG00100192	phlebitides	0.016344880685210228
+trial_1	placebo	116	KG00098964	Pain in foot	0.016018012538552284
+trial_1	placebo	262	KG00101199	agitation	0.01576012745499611
+trial_1	placebo	132	KG00101045	Gain, Weight	0.015658201649785042
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.015610530972480774
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.015532408840954304
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.015157192014157772
+trial_2	cefepime	87	KG00098599	diarrhoea	0.13199563324451447
+trial_2	cefepime	9	KG00098432	Confusion NOS	0.11875776946544647
+trial_2	cefepime	78	KG00099326	Hypertensive diseases	0.10995378345251083
+trial_2	cefepime	123	KG00099351	hypokalaemia	0.1005411297082901
+trial_2	cefepime	189	KG00101580	Alanine aminotransferase increase	0.07998434454202652
+trial_2	cefepime	61	KG00099501	Chronic Kidney Failure	0.077077716588974
+trial_2	cefepime	30	KG00099500	Acute Kidney Failure	0.07325055450201035
+trial_2	cefepime	68	KG00099901	nauseas	0.07067681103944778
+trial_2	cefepime	188	KG00101579	Aspartate aminotransferase increase	0.06973852962255478
+trial_2	cefepime	173	KG00098172	Bronchopneumonia NOS	0.06934624910354614
+trial_2	cefepime	49	KG00099902	nausea with vomiting	0.0668518915772438
+trial_2	cefepime	76	KG00100450	Respiratory insufficiency, NOS	0.06671297550201416
+trial_2	cefepime	177	KG00099299	hyperglycaemia	0.06594286113977432
+trial_2	cefepime	14	KG00097852	Anemia NOS	0.06353422999382019
+trial_2	cefepime	21	KG00098675	dyspnoea	0.061285872012376785
+trial_2	cefepime	269	KG00100399	pyaemia	0.059443399310112
+trial_2	cefepime	17	KG00097991	Asthenia NOS	0.05726708844304085
+trial_2	cefepime	46	KG00099121	Headache NOS	0.056455329060554504
+trial_2	cefepime	180	KG00099363	Hypotension NOS	0.05566174536943436
+trial_2	cefepime	37	KG00097696	Cramps, Abdominal	0.05380811542272568
+trial_2	cefepime	77	KG00098450	Constipation NOS	0.053549643605947495
+trial_2	cefepime	151	KG00098274	Infarction, Cerebral	0.05168083310127258
+trial_2	cefepime	2	KG00100772	thrombocytopaenia	0.050716862082481384
+trial_2	cefepime	396	KG00100373	Embolism, Pulmonary	0.050342656672000885
+trial_2	cefepime	147	KG00098000	atelectases	0.049975939095020294
+trial_2	cefepime	276	KG00099127	Arrest, Cardiac	0.04949921742081642
+trial_2	cefepime	20	KG00098540	dehydration	0.047215454280376434
+trial_2	cefepime	29	KG00099354	hyponatraemia	0.04665693640708923
+trial_2	cefepime	64	KG00097734	Acrodermatitis, NOS	0.04563028737902641
+trial_2	cefepime	114	KG00098933	fevers	0.043580830097198486
+trial_2	cefepime	350	KG00106765	decreased platelet count	0.04215262085199356
+trial_2	cefepime	79	KG00100317	Insomnia, Primary	0.03761046379804611
+trial_2	cefepime	35	KG00101507	hypomagnesaemia	0.03675650432705879
+trial_2	cefepime	361	KG00098004	Fibrillation, Atrial	0.03493946045637131
+trial_2	cefepime	67	KG00098673	Dyspepsia, NOS	0.03489157184958458
+trial_2	cefepime	27	KG00099303	hyperkalaemia	0.03476635739207268
+trial_2	cefepime	179	KG00099342	hypocalcaemia	0.03343449905514717
+trial_2	cefepime	126	KG00100076	Pain NOS	0.03313582018017769
+trial_2	cefepime	200	KG00098539	Disorders, Deglutition	0.03259221091866493
+trial_2	cefepime	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031715065240859985
+trial_2	cefepime	142	KG00100923	Unspecified infectious and parasitic diseases	0.030429910868406296
+trial_2	cefepime	96	KG00101679	Unattended death NOS	0.030375510454177856
+trial_2	cefepime	28	KG00099347	hypoglycaemia	0.029997464269399643
+trial_2	cefepime	243	KG00100947	Micturition frequency increased	0.029859712347388268
+trial_2	cefepime	261	KG00101559	raised alkaline phosphatase	0.02959328517317772
+trial_2	cefepime	164	KG00108827	ileus colon	0.028917141258716583
+trial_2	cefepime	253	KG00100232	Pleural effusion NOS (disorder)	0.028891153633594513
+trial_2	cefepime	104	KG00097963	arthralgias	0.028781654313206673
+trial_2	cefepime	31	KG00099872	Infarction, Myocardial	0.028767110779881477
+trial_2	cefepime	249	KG00104430	hypoalbuminaemia	0.028400201350450516
+trial_2	cefepime	191	KG00104055	Biliverdin increased	0.028088318184018135
+trial_2	cefepime	228	KG00114657	Weight below normal	0.02804907038807869
+trial_2	cefepime	131	KG00100948	Urinary tract infection (& [NOS])	0.02772272378206253
+trial_2	cefepime	85	KG00098474	coughs	0.027353523299098015
+trial_2	cefepime	69	KG00100082	Palpitations NOS	0.026669347658753395
+trial_2	cefepime	441	KG00098262	cellulitis nos	0.02663266658782959
+trial_2	cefepime	494	KG00099838	Organ Failure, Multiple	0.02622365392744541
+trial_2	cefepime	130	KG00100683	Stomatitis NOS	0.0260540172457695
+trial_2	cefepime	144	KG00099610	Leukopenia NOS	0.02587704174220562
+trial_2	cefepime	234	KG00098669	dysgeusias	0.025014009326696396
+trial_2	cefepime	75	KG00100195	Dolens, Phlegmasia Alba	0.02486404776573181
+trial_2	cefepime	5	KG00099169	haematuria	0.02453274466097355
+trial_2	cefepime	194	KG00110727	Neutrophil Count Decreased	0.024154726415872574
+trial_2	cefepime	18	KG00098307	Pain, Chest	0.023938247933983803
+trial_2	cefepime	268	KG00099557	Heart Failure, Left-Sided	0.023631425574421883
+trial_2	cefepime	15	KG00097882	Angina pectoris NOS	0.02260143868625164
+trial_2	cefepime	186	KG00101431	creatinine increased	0.022465581074357033
+trial_2	cefepime	239	KG00100128	pareses	0.02195926010608673
+trial_2	cefepime	211	KG00100341	Pruritus NOS	0.021513205021619797
+trial_2	cefepime	183	KG00100449	Adult Respiratory Distress Syndrome	0.021432165056467056
+trial_2	cefepime	1	KG00099959	Neutropenia NOS	0.021428091451525688
+trial_2	cefepime	86	KG00098565	Depression, Mental	0.02132585644721985
+trial_2	cefepime	101	KG00097901	Anorexia NOS	0.021309373900294304
+trial_2	cefepime	82	KG00097697	abdomen distended	0.021084226667881012
+trial_2	cefepime	121	KG00099190	haemorrhage	0.020984726026654243
+trial_2	cefepime	102	KG00097916	anxieties	0.020135844126343727
+trial_2	cefepime	356	KG00112623	Infectious Lung Disorders	0.020099563524127007
+trial_2	cefepime	286	KG00101110	Retention, Urinary	0.01999674178659916
+trial_2	cefepime	72	KG00103771	myalgias	0.01952851377427578
+trial_2	cefepime	713	KG00107657	distressed respiratory	0.01931285485625267
+trial_2	cefepime	282	KG00099309	hypernatraemia	0.019276175647974014
+trial_2	cefepime	25	KG00099134	congestive failures heart	0.019275162369012833
+trial_2	cefepime	394	KG00100243	Pneumonia, Aspiration	0.01902559958398342
+trial_2	cefepime	398	KG00100580	Shock, Septic	0.018422674387693405
+trial_2	cefepime	221	KG00101207	peripheral oedema	0.018284762278199196
+trial_2	cefepime	288	KG00101223	hypophosphataemia	0.018174877390265465
+trial_2	cefepime	122	KG00099321	Hypersensitivity NOS	0.018109843134880066
+trial_2	cefepime	503	KG00102612	low haemoglobin	0.01797294244170189
+trial_2	cefepime	561	KG00104180	Diarrhoea, Clostridium difficile	0.01786516234278679
+trial_2	cefepime	138	KG00098796	epidemic vomiting syndrome	0.017778458073735237
+trial_2	cefepime	38	KG00098066	Binocular vision disorders	0.01708068884909153
+trial_2	cefepime	4	KG00098817	epistaxis	0.01641188934445381
+trial_2	cefepime	883	KG00107760	Neonatal cardiorespiratory arrest	0.01639981009066105
+trial_2	cefepime	149	KG00100192	phlebitides	0.016344880685210228
+trial_2	cefepime	116	KG00098964	Pain in foot	0.016018012538552284
+trial_2	cefepime	262	KG00101199	agitation	0.01576012745499611
+trial_2	cefepime	132	KG00101045	Gain, Weight	0.015658201649785042
+trial_2	cefepime	92	KG00100926	Infections, Upper Respiratory	0.015610530972480774
+trial_2	cefepime	202	KG00098630	Disturbance of Skin Sensation	0.015532408840954304
+trial_2	cefepime	256	KG00100738	Tachycardia, Sinus	0.015157192014157772

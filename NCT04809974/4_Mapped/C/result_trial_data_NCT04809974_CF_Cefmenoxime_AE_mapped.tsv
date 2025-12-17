@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20048467814922333
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16748160123825073
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1402251124382019
+trial_1	placebo	123	KG00099351	hypokalaemia	0.13784420490264893
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12321202456951141
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11982221901416779
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09931284189224243
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0991382896900177
+trial_1	placebo	20	KG00098540	dehydration	0.09492180496454239
+trial_1	placebo	21	KG00098675	dyspnoea	0.09399223327636719
+trial_1	placebo	46	KG00099121	Headache NOS	0.09177514165639877
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09037847816944122
+trial_1	placebo	68	KG00099901	nauseas	0.08916371315717697
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08816397190093994
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08439543098211288
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08433058112859726
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0783211961388588
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.07731879502534866
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07564153522253036
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07264995574951172
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07152073085308075
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06968637555837631
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06845729798078537
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0681079551577568
+trial_1	placebo	228	KG00114657	Weight below normal	0.06747263669967651
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06659900397062302
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06582490354776382
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06538071483373642
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.063873291015625
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06144605949521065
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06143488362431526
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06125439330935478
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05936984717845917
+trial_1	placebo	114	KG00098933	fevers	0.05766645818948746
+trial_1	placebo	147	KG00098000	atelectases	0.055849723517894745
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05243110656738281
+trial_1	placebo	126	KG00100076	Pain NOS	0.052427541464567184
+trial_1	placebo	85	KG00098474	coughs	0.050550349056720734
+trial_1	placebo	239	KG00100128	pareses	0.050540339201688766
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.05020526796579361
+trial_1	placebo	104	KG00097963	arthralgias	0.05001145228743553
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04991809278726578
+trial_1	placebo	5	KG00099169	haematuria	0.04976046085357666
+trial_1	placebo	269	KG00100399	pyaemia	0.048878103494644165
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.048412151634693146
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04781552776694298
+trial_1	placebo	86	KG00098565	Depression, Mental	0.047272879630327225
+trial_1	placebo	72	KG00103771	myalgias	0.046120163053274155
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04602327570319176
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04319120571017265
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04247768968343735
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04238865152001381
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04037308692932129
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03950005769729614
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03925441578030586
+trial_1	placebo	102	KG00097916	anxieties	0.039015285670757294
+trial_1	placebo	82	KG00097697	abdomen distended	0.038667842745780945
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03687342628836632
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03670644760131836
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03661617636680603
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03649085760116577
+trial_1	placebo	164	KG00108827	ileus colon	0.03574945032596588
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.035471100360155106
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03540905937552452
+trial_1	placebo	132	KG00101045	Gain, Weight	0.035162586718797684
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03507737070322037
+trial_1	placebo	186	KG00101431	creatinine increased	0.03480684757232666
+trial_1	placebo	234	KG00098669	dysgeusias	0.03440544009208679
+trial_1	placebo	262	KG00101199	agitation	0.033784013241529465
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03296574577689171
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.032858990132808685
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03143567591905594
+trial_1	placebo	116	KG00098964	Pain in foot	0.031049752607941628
+trial_1	placebo	121	KG00099190	haemorrhage	0.029717883095145226
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.029597612097859383
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.029597029089927673
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02945808507502079
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02857331559062004
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02841658890247345
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.028345070779323578
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.027881834656000137
+trial_1	placebo	154	KG00099686	Lymphopenias	0.027729308232665062
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.027406660839915276
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026668263599276543
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02638041228055954
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02571898326277733
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025603264570236206
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025476587936282158
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02528262883424759
+trial_1	placebo	466	KG00101205	fall	0.02513023465871811
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.025088639929890633
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024876348674297333
+trial_1	placebo	508	KG00108565	blood glucose increased	0.023942722007632256
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02394145168364048
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023877326399087906
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.023856282234191895
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.023780517280101776
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02367006428539753
+trial_1	placebo	242	KG00100855	tremors	0.023598559200763702
+trial_1	placebo	713	KG00107657	distressed respiratory	0.0230548232793808
+trial_2	cefmenoxime	87	KG00098599	diarrhoea	0.20048467814922333
+trial_2	cefmenoxime	78	KG00099326	Hypertensive diseases	0.16748160123825073
+trial_2	cefmenoxime	177	KG00099299	hyperglycaemia	0.1402251124382019
+trial_2	cefmenoxime	123	KG00099351	hypokalaemia	0.13784420490264893
+trial_2	cefmenoxime	9	KG00098432	Confusion NOS	0.12321202456951141
+trial_2	cefmenoxime	17	KG00097991	Asthenia NOS	0.11982221901416779
+trial_2	cefmenoxime	173	KG00098172	Bronchopneumonia NOS	0.09931284189224243
+trial_2	cefmenoxime	189	KG00101580	Alanine aminotransferase increase	0.0991382896900177
+trial_2	cefmenoxime	20	KG00098540	dehydration	0.09492180496454239
+trial_2	cefmenoxime	21	KG00098675	dyspnoea	0.09399223327636719
+trial_2	cefmenoxime	46	KG00099121	Headache NOS	0.09177514165639877
+trial_2	cefmenoxime	188	KG00101579	Aspartate aminotransferase increase	0.09037847816944122
+trial_2	cefmenoxime	68	KG00099901	nauseas	0.08916371315717697
+trial_2	cefmenoxime	49	KG00099902	nausea with vomiting	0.08816397190093994
+trial_2	cefmenoxime	14	KG00097852	Anemia NOS	0.08439543098211288
+trial_2	cefmenoxime	37	KG00097696	Cramps, Abdominal	0.08433058112859726
+trial_2	cefmenoxime	29	KG00099354	hyponatraemia	0.0783211961388588
+trial_2	cefmenoxime	76	KG00100450	Respiratory insufficiency, NOS	0.07731879502534866
+trial_2	cefmenoxime	350	KG00106765	decreased platelet count	0.07564153522253036
+trial_2	cefmenoxime	67	KG00098673	Dyspepsia, NOS	0.07264995574951172
+trial_2	cefmenoxime	61	KG00099501	Chronic Kidney Failure	0.07152073085308075
+trial_2	cefmenoxime	79	KG00100317	Insomnia, Primary	0.06968637555837631
+trial_2	cefmenoxime	64	KG00097734	Acrodermatitis, NOS	0.06845729798078537
+trial_2	cefmenoxime	200	KG00098539	Disorders, Deglutition	0.0681079551577568
+trial_2	cefmenoxime	228	KG00114657	Weight below normal	0.06747263669967651
+trial_2	cefmenoxime	77	KG00098450	Constipation NOS	0.06659900397062302
+trial_2	cefmenoxime	180	KG00099363	Hypotension NOS	0.06582490354776382
+trial_2	cefmenoxime	2	KG00100772	thrombocytopaenia	0.06538071483373642
+trial_2	cefmenoxime	27	KG00099303	hyperkalaemia	0.063873291015625
+trial_2	cefmenoxime	30	KG00099500	Acute Kidney Failure	0.06144605949521065
+trial_2	cefmenoxime	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06143488362431526
+trial_2	cefmenoxime	179	KG00099342	hypocalcaemia	0.06125439330935478
+trial_2	cefmenoxime	243	KG00100947	Micturition frequency increased	0.05936984717845917
+trial_2	cefmenoxime	114	KG00098933	fevers	0.05766645818948746
+trial_2	cefmenoxime	147	KG00098000	atelectases	0.055849723517894745
+trial_2	cefmenoxime	151	KG00098274	Infarction, Cerebral	0.05243110656738281
+trial_2	cefmenoxime	126	KG00100076	Pain NOS	0.052427541464567184
+trial_2	cefmenoxime	85	KG00098474	coughs	0.050550349056720734
+trial_2	cefmenoxime	239	KG00100128	pareses	0.050540339201688766
+trial_2	cefmenoxime	35	KG00101507	hypomagnesaemia	0.05020526796579361
+trial_2	cefmenoxime	104	KG00097963	arthralgias	0.05001145228743553
+trial_2	cefmenoxime	276	KG00099127	Arrest, Cardiac	0.04991809278726578
+trial_2	cefmenoxime	5	KG00099169	haematuria	0.04976046085357666
+trial_2	cefmenoxime	269	KG00100399	pyaemia	0.048878103494644165
+trial_2	cefmenoxime	28	KG00099347	hypoglycaemia	0.048412151634693146
+trial_2	cefmenoxime	101	KG00097901	Anorexia NOS	0.04781552776694298
+trial_2	cefmenoxime	86	KG00098565	Depression, Mental	0.047272879630327225
+trial_2	cefmenoxime	72	KG00103771	myalgias	0.046120163053274155
+trial_2	cefmenoxime	249	KG00104430	hypoalbuminaemia	0.04602327570319176
+trial_2	cefmenoxime	261	KG00101559	raised alkaline phosphatase	0.04319120571017265
+trial_2	cefmenoxime	194	KG00110727	Neutrophil Count Decreased	0.04247768968343735
+trial_2	cefmenoxime	282	KG00099309	hypernatraemia	0.04238865152001381
+trial_2	cefmenoxime	191	KG00104055	Biliverdin increased	0.04037308692932129
+trial_2	cefmenoxime	396	KG00100373	Embolism, Pulmonary	0.03950005769729614
+trial_2	cefmenoxime	96	KG00101679	Unattended death NOS	0.03925441578030586
+trial_2	cefmenoxime	102	KG00097916	anxieties	0.039015285670757294
+trial_2	cefmenoxime	82	KG00097697	abdomen distended	0.038667842745780945
+trial_2	cefmenoxime	131	KG00100948	Urinary tract infection (& [NOS])	0.03687342628836632
+trial_2	cefmenoxime	355	KG00110857	lymphocyte count decreased	0.03670644760131836
+trial_2	cefmenoxime	253	KG00100232	Pleural effusion NOS (disorder)	0.03661617636680603
+trial_2	cefmenoxime	69	KG00100082	Palpitations NOS	0.03649085760116577
+trial_2	cefmenoxime	164	KG00108827	ileus colon	0.03574945032596588
+trial_2	cefmenoxime	122	KG00099321	Hypersensitivity NOS	0.035471100360155106
+trial_2	cefmenoxime	144	KG00099610	Leukopenia NOS	0.03540905937552452
+trial_2	cefmenoxime	132	KG00101045	Gain, Weight	0.035162586718797684
+trial_2	cefmenoxime	288	KG00101223	hypophosphataemia	0.03507737070322037
+trial_2	cefmenoxime	186	KG00101431	creatinine increased	0.03480684757232666
+trial_2	cefmenoxime	234	KG00098669	dysgeusias	0.03440544009208679
+trial_2	cefmenoxime	262	KG00101199	agitation	0.033784013241529465
+trial_2	cefmenoxime	18	KG00098307	Pain, Chest	0.03296574577689171
+trial_2	cefmenoxime	142	KG00100923	Unspecified infectious and parasitic diseases	0.032858990132808685
+trial_2	cefmenoxime	130	KG00100683	Stomatitis NOS	0.03143567591905594
+trial_2	cefmenoxime	116	KG00098964	Pain in foot	0.031049752607941628
+trial_2	cefmenoxime	121	KG00099190	haemorrhage	0.029717883095145226
+trial_2	cefmenoxime	494	KG00099838	Organ Failure, Multiple	0.029597612097859383
+trial_2	cefmenoxime	361	KG00098004	Fibrillation, Atrial	0.029597029089927673
+trial_2	cefmenoxime	38	KG00098066	Binocular vision disorders	0.02945808507502079
+trial_2	cefmenoxime	256	KG00100738	Tachycardia, Sinus	0.02857331559062004
+trial_2	cefmenoxime	441	KG00098262	cellulitis nos	0.02841658890247345
+trial_2	cefmenoxime	1	KG00099959	Neutropenia NOS	0.028345070779323578
+trial_2	cefmenoxime	341	KG00101472	Gamma-glutamyltransferase increased	0.027881834656000137
+trial_2	cefmenoxime	154	KG00099686	Lymphopenias	0.027729308232665062
+trial_2	cefmenoxime	139	KG00098855	Sinusitis, Ethmoid	0.027406660839915276
+trial_2	cefmenoxime	36	KG00106434	Vision, Blurring Of	0.026668263599276543
+trial_2	cefmenoxime	268	KG00099557	Heart Failure, Left-Sided	0.02638041228055954
+trial_2	cefmenoxime	75	KG00100195	Dolens, Phlegmasia Alba	0.02571898326277733
+trial_2	cefmenoxime	31	KG00099872	Infarction, Myocardial	0.025603264570236206
+trial_2	cefmenoxime	286	KG00101110	Retention, Urinary	0.025476587936282158
+trial_2	cefmenoxime	221	KG00101207	peripheral oedema	0.02528262883424759
+trial_2	cefmenoxime	466	KG00101205	fall	0.02513023465871811
+trial_2	cefmenoxime	183	KG00100449	Adult Respiratory Distress Syndrome	0.025088639929890633
+trial_2	cefmenoxime	92	KG00100926	Infections, Upper Respiratory	0.024876348674297333
+trial_2	cefmenoxime	508	KG00108565	blood glucose increased	0.023942722007632256
+trial_2	cefmenoxime	204	KG00098849	Esophagitis, Peptic	0.02394145168364048
+trial_2	cefmenoxime	422	KG00101429	Creatine phosphokinase increased	0.023877326399087906
+trial_2	cefmenoxime	97	KG00104198	LIVER ENZYME ELEVATED	0.023856282234191895
+trial_2	cefmenoxime	211	KG00100341	Pruritus NOS	0.023780517280101776
+trial_2	cefmenoxime	356	KG00112623	Infectious Lung Disorders	0.02367006428539753
+trial_2	cefmenoxime	242	KG00100855	tremors	0.023598559200763702
+trial_2	cefmenoxime	713	KG00107657	distressed respiratory	0.0230548232793808

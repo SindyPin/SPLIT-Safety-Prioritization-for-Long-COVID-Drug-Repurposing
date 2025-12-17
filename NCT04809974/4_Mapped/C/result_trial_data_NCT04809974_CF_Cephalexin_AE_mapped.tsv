@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14688348770141602
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10842430591583252
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10417518019676208
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09879037737846375
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08273455500602722
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07077831029891968
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06736770272254944
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06489881128072739
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06478909403085709
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05946534499526024
+trial_1	placebo	46	KG00099121	Headache NOS	0.059346944093704224
+trial_1	placebo	21	KG00098675	dyspnoea	0.057794537395238876
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05654607340693474
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05646540969610214
+trial_1	placebo	20	KG00098540	dehydration	0.05608205124735832
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.055901192128658295
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05490235239267349
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05437581241130829
+trial_1	placebo	68	KG00099901	nauseas	0.05206816643476486
+trial_1	placebo	269	KG00100399	pyaemia	0.05140824243426323
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05110950022935867
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05084836110472679
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04967931658029556
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.046630047261714935
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04578986391425133
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04388715699315071
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04321528598666191
+trial_1	placebo	147	KG00098000	atelectases	0.041361257433891296
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04019937291741371
+trial_1	placebo	77	KG00098450	Constipation NOS	0.038800325244665146
+trial_1	placebo	114	KG00098933	fevers	0.03853650763630867
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.038504112511873245
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.038254767656326294
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.036220647394657135
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03612888231873512
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03588704764842987
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03544575721025467
+trial_1	placebo	126	KG00100076	Pain NOS	0.03544046729803085
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03492824733257294
+trial_1	placebo	85	KG00098474	coughs	0.033841751515865326
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03377072885632515
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03358243405818939
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03330123797059059
+trial_1	placebo	228	KG00114657	Weight below normal	0.03245263919234276
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032060980796813965
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.031580690294504166
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02967182733118534
+trial_1	placebo	5	KG00099169	haematuria	0.029666027054190636
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02906440570950508
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02888290211558342
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028040694072842598
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02786017581820488
+trial_1	placebo	234	KG00098669	dysgeusias	0.027464093640446663
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.026727503165602684
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.026570091024041176
+trial_1	placebo	186	KG00101431	creatinine increased	0.026344433426856995
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.025049859657883644
+trial_1	placebo	164	KG00108827	ileus colon	0.024223096668720245
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.023637425154447556
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02363470010459423
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023560769855976105
+trial_1	placebo	86	KG00098565	Depression, Mental	0.023559030145406723
+trial_1	placebo	104	KG00097963	arthralgias	0.023342391476035118
+trial_1	placebo	239	KG00100128	pareses	0.0229547880589962
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02268647402524948
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02212599664926529
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022025806829333305
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02086634933948517
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020352797582745552
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01972879096865654
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01954522728919983
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019222136586904526
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019213972613215446
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019178111106157303
+trial_1	placebo	4	KG00098817	epistaxis	0.01902824267745018
+trial_1	placebo	121	KG00099190	haemorrhage	0.01901739090681076
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.018828831613063812
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018811576068401337
+trial_1	placebo	102	KG00097916	anxieties	0.018671149387955666
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.018632929772138596
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018435368314385414
+trial_1	placebo	82	KG00097697	abdomen distended	0.01842852681875229
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01827871985733509
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01805819384753704
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01745603233575821
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017319342121481895
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.01695656031370163
+trial_1	placebo	136	KG00101582	Dry;skin	0.0167534276843071
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01660616137087345
+trial_1	placebo	713	KG00107657	distressed respiratory	0.01647675782442093
+trial_1	placebo	116	KG00098964	Pain in foot	0.016441041603684425
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01643337868154049
+trial_1	placebo	262	KG00101199	agitation	0.016269750893115997
+trial_1	placebo	398	KG00100580	Shock, Septic	0.016158578917384148
+trial_1	placebo	72	KG00103771	myalgias	0.0160555150359869
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01587197370827198
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.015576706267893314
+trial_1	placebo	132	KG00101045	Gain, Weight	0.014648595824837685
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.014435852877795696
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.014431287534534931
+trial_2	cephalexin	87	KG00098599	diarrhoea	0.14688348770141602
+trial_2	cephalexin	78	KG00099326	Hypertensive diseases	0.10842430591583252
+trial_2	cephalexin	123	KG00099351	hypokalaemia	0.10417518019676208
+trial_2	cephalexin	9	KG00098432	Confusion NOS	0.09879037737846375
+trial_2	cephalexin	177	KG00099299	hyperglycaemia	0.08273455500602722
+trial_2	cephalexin	173	KG00098172	Bronchopneumonia NOS	0.07077831029891968
+trial_2	cephalexin	37	KG00097696	Cramps, Abdominal	0.06736770272254944
+trial_2	cephalexin	61	KG00099501	Chronic Kidney Failure	0.06489881128072739
+trial_2	cephalexin	14	KG00097852	Anemia NOS	0.06478909403085709
+trial_2	cephalexin	76	KG00100450	Respiratory insufficiency, NOS	0.05946534499526024
+trial_2	cephalexin	46	KG00099121	Headache NOS	0.059346944093704224
+trial_2	cephalexin	21	KG00098675	dyspnoea	0.057794537395238876
+trial_2	cephalexin	30	KG00099500	Acute Kidney Failure	0.05654607340693474
+trial_2	cephalexin	49	KG00099902	nausea with vomiting	0.05646540969610214
+trial_2	cephalexin	20	KG00098540	dehydration	0.05608205124735832
+trial_2	cephalexin	189	KG00101580	Alanine aminotransferase increase	0.055901192128658295
+trial_2	cephalexin	17	KG00097991	Asthenia NOS	0.05490235239267349
+trial_2	cephalexin	180	KG00099363	Hypotension NOS	0.05437581241130829
+trial_2	cephalexin	68	KG00099901	nauseas	0.05206816643476486
+trial_2	cephalexin	269	KG00100399	pyaemia	0.05140824243426323
+trial_2	cephalexin	188	KG00101579	Aspartate aminotransferase increase	0.05110950022935867
+trial_2	cephalexin	151	KG00098274	Infarction, Cerebral	0.05084836110472679
+trial_2	cephalexin	64	KG00097734	Acrodermatitis, NOS	0.04967931658029556
+trial_2	cephalexin	2	KG00100772	thrombocytopaenia	0.046630047261714935
+trial_2	cephalexin	29	KG00099354	hyponatraemia	0.04578986391425133
+trial_2	cephalexin	276	KG00099127	Arrest, Cardiac	0.04388715699315071
+trial_2	cephalexin	350	KG00106765	decreased platelet count	0.04321528598666191
+trial_2	cephalexin	147	KG00098000	atelectases	0.041361257433891296
+trial_2	cephalexin	396	KG00100373	Embolism, Pulmonary	0.04019937291741371
+trial_2	cephalexin	77	KG00098450	Constipation NOS	0.038800325244665146
+trial_2	cephalexin	114	KG00098933	fevers	0.03853650763630867
+trial_2	cephalexin	200	KG00098539	Disorders, Deglutition	0.038504112511873245
+trial_2	cephalexin	35	KG00101507	hypomagnesaemia	0.038254767656326294
+trial_2	cephalexin	67	KG00098673	Dyspepsia, NOS	0.036220647394657135
+trial_2	cephalexin	131	KG00100948	Urinary tract infection (& [NOS])	0.03612888231873512
+trial_2	cephalexin	96	KG00101679	Unattended death NOS	0.03588704764842987
+trial_2	cephalexin	27	KG00099303	hyperkalaemia	0.03544575721025467
+trial_2	cephalexin	126	KG00100076	Pain NOS	0.03544046729803085
+trial_2	cephalexin	142	KG00100923	Unspecified infectious and parasitic diseases	0.03492824733257294
+trial_2	cephalexin	85	KG00098474	coughs	0.033841751515865326
+trial_2	cephalexin	249	KG00104430	hypoalbuminaemia	0.03377072885632515
+trial_2	cephalexin	179	KG00099342	hypocalcaemia	0.03358243405818939
+trial_2	cephalexin	130	KG00100683	Stomatitis NOS	0.03330123797059059
+trial_2	cephalexin	228	KG00114657	Weight below normal	0.03245263919234276
+trial_2	cephalexin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032060980796813965
+trial_2	cephalexin	79	KG00100317	Insomnia, Primary	0.031580690294504166
+trial_2	cephalexin	28	KG00099347	hypoglycaemia	0.02967182733118534
+trial_2	cephalexin	5	KG00099169	haematuria	0.029666027054190636
+trial_2	cephalexin	441	KG00098262	cellulitis nos	0.02906440570950508
+trial_2	cephalexin	261	KG00101559	raised alkaline phosphatase	0.02888290211558342
+trial_2	cephalexin	361	KG00098004	Fibrillation, Atrial	0.028040694072842598
+trial_2	cephalexin	75	KG00100195	Dolens, Phlegmasia Alba	0.02786017581820488
+trial_2	cephalexin	234	KG00098669	dysgeusias	0.027464093640446663
+trial_2	cephalexin	191	KG00104055	Biliverdin increased	0.026727503165602684
+trial_2	cephalexin	243	KG00100947	Micturition frequency increased	0.026570091024041176
+trial_2	cephalexin	186	KG00101431	creatinine increased	0.026344433426856995
+trial_2	cephalexin	194	KG00110727	Neutrophil Count Decreased	0.025049859657883644
+trial_2	cephalexin	164	KG00108827	ileus colon	0.024223096668720245
+trial_2	cephalexin	494	KG00099838	Organ Failure, Multiple	0.023637425154447556
+trial_2	cephalexin	31	KG00099872	Infarction, Myocardial	0.02363470010459423
+trial_2	cephalexin	69	KG00100082	Palpitations NOS	0.023560769855976105
+trial_2	cephalexin	86	KG00098565	Depression, Mental	0.023559030145406723
+trial_2	cephalexin	104	KG00097963	arthralgias	0.023342391476035118
+trial_2	cephalexin	239	KG00100128	pareses	0.0229547880589962
+trial_2	cephalexin	144	KG00099610	Leukopenia NOS	0.02268647402524948
+trial_2	cephalexin	253	KG00100232	Pleural effusion NOS (disorder)	0.02212599664926529
+trial_2	cephalexin	288	KG00101223	hypophosphataemia	0.022025806829333305
+trial_2	cephalexin	92	KG00100926	Infections, Upper Respiratory	0.02086634933948517
+trial_2	cephalexin	122	KG00099321	Hypersensitivity NOS	0.020352797582745552
+trial_2	cephalexin	101	KG00097901	Anorexia NOS	0.01972879096865654
+trial_2	cephalexin	282	KG00099309	hypernatraemia	0.01954522728919983
+trial_2	cephalexin	221	KG00101207	peripheral oedema	0.019222136586904526
+trial_2	cephalexin	211	KG00100341	Pruritus NOS	0.019213972613215446
+trial_2	cephalexin	18	KG00098307	Pain, Chest	0.019178111106157303
+trial_2	cephalexin	4	KG00098817	epistaxis	0.01902824267745018
+trial_2	cephalexin	121	KG00099190	haemorrhage	0.01901739090681076
+trial_2	cephalexin	268	KG00099557	Heart Failure, Left-Sided	0.018828831613063812
+trial_2	cephalexin	38	KG00098066	Binocular vision disorders	0.018811576068401337
+trial_2	cephalexin	102	KG00097916	anxieties	0.018671149387955666
+trial_2	cephalexin	1	KG00099959	Neutropenia NOS	0.018632929772138596
+trial_2	cephalexin	138	KG00098796	epidemic vomiting syndrome	0.018435368314385414
+trial_2	cephalexin	82	KG00097697	abdomen distended	0.01842852681875229
+trial_2	cephalexin	15	KG00097882	Angina pectoris NOS	0.01827871985733509
+trial_2	cephalexin	356	KG00112623	Infectious Lung Disorders	0.01805819384753704
+trial_2	cephalexin	286	KG00101110	Retention, Urinary	0.01745603233575821
+trial_2	cephalexin	204	KG00098849	Esophagitis, Peptic	0.017319342121481895
+trial_2	cephalexin	183	KG00100449	Adult Respiratory Distress Syndrome	0.01695656031370163
+trial_2	cephalexin	136	KG00101582	Dry;skin	0.0167534276843071
+trial_2	cephalexin	25	KG00099134	congestive failures heart	0.01660616137087345
+trial_2	cephalexin	713	KG00107657	distressed respiratory	0.01647675782442093
+trial_2	cephalexin	116	KG00098964	Pain in foot	0.016441041603684425
+trial_2	cephalexin	355	KG00110857	lymphocyte count decreased	0.01643337868154049
+trial_2	cephalexin	262	KG00101199	agitation	0.016269750893115997
+trial_2	cephalexin	398	KG00100580	Shock, Septic	0.016158578917384148
+trial_2	cephalexin	72	KG00103771	myalgias	0.0160555150359869
+trial_2	cephalexin	163	KG00104050	bowel obstructions small	0.01587197370827198
+trial_2	cephalexin	36	KG00106434	Vision, Blurring Of	0.015576706267893314
+trial_2	cephalexin	132	KG00101045	Gain, Weight	0.014648595824837685
+trial_2	cephalexin	394	KG00100243	Pneumonia, Aspiration	0.014435852877795696
+trial_2	cephalexin	202	KG00098630	Disturbance of Skin Sensation	0.014431287534534931

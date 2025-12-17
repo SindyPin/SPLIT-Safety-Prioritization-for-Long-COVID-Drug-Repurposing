@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17851731181144714
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11162567883729935
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10973681509494781
+trial_1	placebo	20	KG00098540	dehydration	0.09994878619909286
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09383702278137207
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08236140757799149
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07401489466428757
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07066929340362549
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07020898908376694
+trial_1	placebo	46	KG00099121	Headache NOS	0.06905283778905869
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05690611153841019
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05679679661989212
+trial_1	placebo	21	KG00098675	dyspnoea	0.055712975561618805
+trial_1	placebo	228	KG00114657	Weight below normal	0.054829228669404984
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.054489243775606155
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.054228849709033966
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05255953595042229
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.050894178450107574
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04964460805058479
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.049277517944574356
+trial_1	placebo	85	KG00098474	coughs	0.04892122745513916
+trial_1	placebo	114	KG00098933	fevers	0.04638301581144333
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04511530324816704
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04465511068701744
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04417874291539192
+trial_1	placebo	126	KG00100076	Pain NOS	0.04351359233260155
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04314262792468071
+trial_1	placebo	350	KG00106765	decreased platelet count	0.041395124047994614
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03978418558835983
+trial_1	placebo	121	KG00099190	haemorrhage	0.03852105140686035
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03773754462599754
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03710441291332245
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03699357062578201
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03644169867038727
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03574543073773384
+trial_1	placebo	72	KG00103771	myalgias	0.03503447771072388
+trial_1	placebo	68	KG00099901	nauseas	0.034909963607788086
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.034872476011514664
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.034845322370529175
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03447612747550011
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03429235890507698
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.032982371747493744
+trial_1	placebo	5	KG00099169	haematuria	0.03268780931830406
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03228796645998955
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030855201184749603
+trial_1	placebo	104	KG00097963	arthralgias	0.030851878225803375
+trial_1	placebo	86	KG00098565	Depression, Mental	0.030444137752056122
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.030404258519411087
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02946469746530056
+trial_1	placebo	269	KG00100399	pyaemia	0.02839190885424614
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.028348708525300026
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028293466195464134
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02818969078361988
+trial_1	placebo	221	KG00101207	peripheral oedema	0.028050007298588753
+trial_1	placebo	164	KG00108827	ileus colon	0.028007391840219498
+trial_1	placebo	186	KG00101431	creatinine increased	0.027035396546125412
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026790184900164604
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026786623522639275
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026711583137512207
+trial_1	placebo	239	KG00100128	pareses	0.026667458936572075
+trial_1	placebo	147	KG00098000	atelectases	0.026463482528924942
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02641955018043518
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02582051046192646
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025618478655815125
+trial_1	placebo	18	KG00098307	Pain, Chest	0.025464380159974098
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.025129545480012894
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02493857778608799
+trial_1	placebo	102	KG00097916	anxieties	0.024591872468590736
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02438313327729702
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.02421066351234913
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.023794235661625862
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02371116355061531
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02349849045276642
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023383120074868202
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022791774943470955
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.022659635171294212
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.022401900961995125
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.022128142416477203
+trial_1	placebo	136	KG00101582	Dry;skin	0.022029690444469452
+trial_1	placebo	234	KG00098669	dysgeusias	0.022014640271663666
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021896589547395706
+trial_1	placebo	4	KG00098817	epistaxis	0.02186930924654007
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021859943866729736
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021592166274785995
+trial_1	placebo	382	KG00099200	haemorrhoids	0.021339330822229385
+trial_1	placebo	282	KG00099309	hypernatraemia	0.021013746038079262
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.020907199010252953
+trial_1	placebo	456	KG00099420	Influenzae	0.020817190408706665
+trial_1	placebo	466	KG00101205	fall	0.020759591832756996
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020740360021591187
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0202019102871418
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.0201704241335392
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01995282992720604
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019815828651189804
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019545795395970345
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01945558749139309
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019441261887550354
+trial_1	placebo	262	KG00101199	agitation	0.01900862716138363
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.018977677449584007
+trial_1	placebo	116	KG00098964	Pain in foot	0.018583929166197777
+trial_2	amlodipine	87	KG00098599	diarrhoea	0.17851731181144714
+trial_2	amlodipine	123	KG00099351	hypokalaemia	0.11162567883729935
+trial_2	amlodipine	78	KG00099326	Hypertensive diseases	0.10973681509494781
+trial_2	amlodipine	20	KG00098540	dehydration	0.09994878619909286
+trial_2	amlodipine	173	KG00098172	Bronchopneumonia NOS	0.09383702278137207
+trial_2	amlodipine	177	KG00099299	hyperglycaemia	0.08236140757799149
+trial_2	amlodipine	17	KG00097991	Asthenia NOS	0.07401489466428757
+trial_2	amlodipine	37	KG00097696	Cramps, Abdominal	0.07066929340362549
+trial_2	amlodipine	9	KG00098432	Confusion NOS	0.07020898908376694
+trial_2	amlodipine	46	KG00099121	Headache NOS	0.06905283778905869
+trial_2	amlodipine	14	KG00097852	Anemia NOS	0.05690611153841019
+trial_2	amlodipine	67	KG00098673	Dyspepsia, NOS	0.05679679661989212
+trial_2	amlodipine	21	KG00098675	dyspnoea	0.055712975561618805
+trial_2	amlodipine	228	KG00114657	Weight below normal	0.054829228669404984
+trial_2	amlodipine	2	KG00100772	thrombocytopaenia	0.054489243775606155
+trial_2	amlodipine	180	KG00099363	Hypotension NOS	0.054228849709033966
+trial_2	amlodipine	49	KG00099902	nausea with vomiting	0.05255953595042229
+trial_2	amlodipine	151	KG00098274	Infarction, Cerebral	0.050894178450107574
+trial_2	amlodipine	64	KG00097734	Acrodermatitis, NOS	0.04964460805058479
+trial_2	amlodipine	189	KG00101580	Alanine aminotransferase increase	0.049277517944574356
+trial_2	amlodipine	85	KG00098474	coughs	0.04892122745513916
+trial_2	amlodipine	114	KG00098933	fevers	0.04638301581144333
+trial_2	amlodipine	200	KG00098539	Disorders, Deglutition	0.04511530324816704
+trial_2	amlodipine	188	KG00101579	Aspartate aminotransferase increase	0.04465511068701744
+trial_2	amlodipine	142	KG00100923	Unspecified infectious and parasitic diseases	0.04417874291539192
+trial_2	amlodipine	126	KG00100076	Pain NOS	0.04351359233260155
+trial_2	amlodipine	29	KG00099354	hyponatraemia	0.04314262792468071
+trial_2	amlodipine	350	KG00106765	decreased platelet count	0.041395124047994614
+trial_2	amlodipine	61	KG00099501	Chronic Kidney Failure	0.03978418558835983
+trial_2	amlodipine	121	KG00099190	haemorrhage	0.03852105140686035
+trial_2	amlodipine	122	KG00099321	Hypersensitivity NOS	0.03773754462599754
+trial_2	amlodipine	101	KG00097901	Anorexia NOS	0.03710441291332245
+trial_2	amlodipine	96	KG00101679	Unattended death NOS	0.03699357062578201
+trial_2	amlodipine	179	KG00099342	hypocalcaemia	0.03644169867038727
+trial_2	amlodipine	77	KG00098450	Constipation NOS	0.03574543073773384
+trial_2	amlodipine	72	KG00103771	myalgias	0.03503447771072388
+trial_2	amlodipine	68	KG00099901	nauseas	0.034909963607788086
+trial_2	amlodipine	79	KG00100317	Insomnia, Primary	0.034872476011514664
+trial_2	amlodipine	76	KG00100450	Respiratory insufficiency, NOS	0.034845322370529175
+trial_2	amlodipine	243	KG00100947	Micturition frequency increased	0.03447612747550011
+trial_2	amlodipine	130	KG00100683	Stomatitis NOS	0.03429235890507698
+trial_2	amlodipine	27	KG00099303	hyperkalaemia	0.032982371747493744
+trial_2	amlodipine	5	KG00099169	haematuria	0.03268780931830406
+trial_2	amlodipine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03228796645998955
+trial_2	amlodipine	28	KG00099347	hypoglycaemia	0.030855201184749603
+trial_2	amlodipine	104	KG00097963	arthralgias	0.030851878225803375
+trial_2	amlodipine	86	KG00098565	Depression, Mental	0.030444137752056122
+trial_2	amlodipine	356	KG00112623	Infectious Lung Disorders	0.030404258519411087
+trial_2	amlodipine	249	KG00104430	hypoalbuminaemia	0.02946469746530056
+trial_2	amlodipine	269	KG00100399	pyaemia	0.02839190885424614
+trial_2	amlodipine	194	KG00110727	Neutrophil Count Decreased	0.028348708525300026
+trial_2	amlodipine	191	KG00104055	Biliverdin increased	0.028293466195464134
+trial_2	amlodipine	154	KG00099686	Lymphopenias	0.02818969078361988
+trial_2	amlodipine	221	KG00101207	peripheral oedema	0.028050007298588753
+trial_2	amlodipine	164	KG00108827	ileus colon	0.028007391840219498
+trial_2	amlodipine	186	KG00101431	creatinine increased	0.027035396546125412
+trial_2	amlodipine	131	KG00100948	Urinary tract infection (& [NOS])	0.026790184900164604
+trial_2	amlodipine	139	KG00098855	Sinusitis, Ethmoid	0.026786623522639275
+trial_2	amlodipine	38	KG00098066	Binocular vision disorders	0.026711583137512207
+trial_2	amlodipine	239	KG00100128	pareses	0.026667458936572075
+trial_2	amlodipine	147	KG00098000	atelectases	0.026463482528924942
+trial_2	amlodipine	276	KG00099127	Arrest, Cardiac	0.02641955018043518
+trial_2	amlodipine	361	KG00098004	Fibrillation, Atrial	0.02582051046192646
+trial_2	amlodipine	1	KG00099959	Neutropenia NOS	0.025618478655815125
+trial_2	amlodipine	18	KG00098307	Pain, Chest	0.025464380159974098
+trial_2	amlodipine	35	KG00101507	hypomagnesaemia	0.025129545480012894
+trial_2	amlodipine	288	KG00101223	hypophosphataemia	0.02493857778608799
+trial_2	amlodipine	102	KG00097916	anxieties	0.024591872468590736
+trial_2	amlodipine	199	KG00098371	Rhinitis (chronic) NOS	0.02438313327729702
+trial_2	amlodipine	170	KG00108926	Neutropenia, Febrile	0.02421066351234913
+trial_2	amlodipine	144	KG00099610	Leukopenia NOS	0.023794235661625862
+trial_2	amlodipine	31	KG00099872	Infarction, Myocardial	0.02371116355061531
+trial_2	amlodipine	138	KG00098796	epidemic vomiting syndrome	0.02349849045276642
+trial_2	amlodipine	261	KG00101559	raised alkaline phosphatase	0.023383120074868202
+trial_2	amlodipine	396	KG00100373	Embolism, Pulmonary	0.022791774943470955
+trial_2	amlodipine	30	KG00099500	Acute Kidney Failure	0.022659635171294212
+trial_2	amlodipine	133	KG00101370	neuropathies sensory	0.022401900961995125
+trial_2	amlodipine	422	KG00101429	Creatine phosphokinase increased	0.022128142416477203
+trial_2	amlodipine	136	KG00101582	Dry;skin	0.022029690444469452
+trial_2	amlodipine	234	KG00098669	dysgeusias	0.022014640271663666
+trial_2	amlodipine	22	KG00098705	Edema (NOS)	0.021896589547395706
+trial_2	amlodipine	4	KG00098817	epistaxis	0.02186930924654007
+trial_2	amlodipine	371	KG00098517	Cystitis (NOS)	0.021859943866729736
+trial_2	amlodipine	355	KG00110857	lymphocyte count decreased	0.021592166274785995
+trial_2	amlodipine	382	KG00099200	haemorrhoids	0.021339330822229385
+trial_2	amlodipine	282	KG00099309	hypernatraemia	0.021013746038079262
+trial_2	amlodipine	213	KG00100600	Infectious Skin Diseases	0.020907199010252953
+trial_2	amlodipine	456	KG00099420	Influenzae	0.020817190408706665
+trial_2	amlodipine	466	KG00101205	fall	0.020759591832756996
+trial_2	amlodipine	69	KG00100082	Palpitations NOS	0.020740360021591187
+trial_2	amlodipine	75	KG00100195	Dolens, Phlegmasia Alba	0.0202019102871418
+trial_2	amlodipine	118	KG00099011	Gastritis NOS	0.0201704241335392
+trial_2	amlodipine	195	KG00097814	Atopic Rhinitis	0.01995282992720604
+trial_2	amlodipine	441	KG00098262	cellulitis nos	0.019815828651189804
+trial_2	amlodipine	92	KG00100926	Infections, Upper Respiratory	0.019545795395970345
+trial_2	amlodipine	341	KG00101472	Gamma-glutamyltransferase increased	0.01945558749139309
+trial_2	amlodipine	253	KG00100232	Pleural effusion NOS (disorder)	0.019441261887550354
+trial_2	amlodipine	262	KG00101199	agitation	0.01900862716138363
+trial_2	amlodipine	33	KG00100094	Pancreatitis NOS	0.018977677449584007
+trial_2	amlodipine	116	KG00098964	Pain in foot	0.018583929166197777

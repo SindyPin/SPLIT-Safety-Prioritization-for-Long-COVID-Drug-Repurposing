@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14648322761058807
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12481720745563507
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10820625722408295
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09490474313497543
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09383362531661987
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0869191586971283
+trial_1	placebo	46	KG00099121	Headache NOS	0.08537253737449646
+trial_1	placebo	21	KG00098675	dyspnoea	0.0819232314825058
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06887978315353394
+trial_1	placebo	121	KG00099190	haemorrhage	0.06717009097337723
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06674014776945114
+trial_1	placebo	20	KG00098540	dehydration	0.06425049901008606
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06423212587833405
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06367407739162445
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06285536289215088
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05664869025349617
+trial_1	placebo	114	KG00098933	fevers	0.056105732917785645
+trial_1	placebo	228	KG00114657	Weight below normal	0.05524566024541855
+trial_1	placebo	85	KG00098474	coughs	0.05397520586848259
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05375417321920395
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05357126146554947
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.051700785756111145
+trial_1	placebo	104	KG00097963	arthralgias	0.05087141692638397
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.050046104937791824
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.049662020057439804
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.049110863357782364
+trial_1	placebo	68	KG00099901	nauseas	0.048997413367033005
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04891316220164299
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04882797971367836
+trial_1	placebo	147	KG00098000	atelectases	0.04783597216010094
+trial_1	placebo	350	KG00106765	decreased platelet count	0.046686869114637375
+trial_1	placebo	126	KG00100076	Pain NOS	0.044226545840501785
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04381696134805679
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.043372318148612976
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.042987603694200516
+trial_1	placebo	18	KG00098307	Pain, Chest	0.042799413204193115
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.042407989501953125
+trial_1	placebo	5	KG00099169	haematuria	0.04205704852938652
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04170567914843559
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04127443954348564
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04054953157901764
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.037915345281362534
+trial_1	placebo	72	KG00103771	myalgias	0.03752768039703369
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03644973784685135
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03606396168470383
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03604024276137352
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03467068448662758
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.034354716539382935
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.033748120069503784
+trial_1	placebo	239	KG00100128	pareses	0.03347177803516388
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03328736498951912
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03298727795481682
+trial_1	placebo	269	KG00100399	pyaemia	0.032898373901844025
+trial_1	placebo	282	KG00099309	hypernatraemia	0.032686684280633926
+trial_1	placebo	4	KG00098817	epistaxis	0.032575517892837524
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.030207937583327293
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.029420776292681694
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029278161004185677
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029241275042295456
+trial_1	placebo	116	KG00098964	Pain in foot	0.029055140912532806
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.028776008635759354
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.028237005695700645
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027884548529982567
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02771543711423874
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02714265137910843
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.026659466326236725
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02518131211400032
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02513042278587818
+trial_1	placebo	339	KG00100334	proteinurias	0.02500089630484581
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.024374714121222496
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024223746731877327
+trial_1	placebo	136	KG00101582	Dry;skin	0.024175086989998817
+trial_1	placebo	100	KG00097815	alopecias	0.023821808397769928
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02331005223095417
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.023010551929473877
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02273903600871563
+trial_1	placebo	132	KG00101045	Gain, Weight	0.022498684003949165
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02241479605436325
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.022302571684122086
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.022111566737294197
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022057192400097847
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.021820412948727608
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021771876141428947
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02145163156092167
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021322285756468773
+trial_1	placebo	11	KG00097993	Asthma NOS	0.021083654835820198
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021056288853287697
+trial_1	placebo	618	KG00099164	haematoma	0.02097034826874733
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02086113952100277
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.020727554336190224
+trial_1	placebo	164	KG00108827	ileus colon	0.020687593147158623
+trial_1	placebo	466	KG00101205	fall	0.020605720579624176
+trial_1	placebo	155	KG00099960	Neutrophile	0.020593464374542236
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.020564548671245575
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020535072311758995
+trial_1	placebo	257	KG00100922	Erythema NOS	0.020384615287184715
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020153816789388657
+trial_1	placebo	382	KG00099200	haemorrhoids	0.019998932257294655
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01983695663511753
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.019605642184615135
+trial_2	acenocoumarol	87	KG00098599	diarrhoea	0.14648322761058807
+trial_2	acenocoumarol	78	KG00099326	Hypertensive diseases	0.12481720745563507
+trial_2	acenocoumarol	123	KG00099351	hypokalaemia	0.10820625722408295
+trial_2	acenocoumarol	173	KG00098172	Bronchopneumonia NOS	0.09490474313497543
+trial_2	acenocoumarol	177	KG00099299	hyperglycaemia	0.09383362531661987
+trial_2	acenocoumarol	64	KG00097734	Acrodermatitis, NOS	0.0869191586971283
+trial_2	acenocoumarol	46	KG00099121	Headache NOS	0.08537253737449646
+trial_2	acenocoumarol	21	KG00098675	dyspnoea	0.0819232314825058
+trial_2	acenocoumarol	9	KG00098432	Confusion NOS	0.06887978315353394
+trial_2	acenocoumarol	121	KG00099190	haemorrhage	0.06717009097337723
+trial_2	acenocoumarol	17	KG00097991	Asthenia NOS	0.06674014776945114
+trial_2	acenocoumarol	20	KG00098540	dehydration	0.06425049901008606
+trial_2	acenocoumarol	67	KG00098673	Dyspepsia, NOS	0.06423212587833405
+trial_2	acenocoumarol	37	KG00097696	Cramps, Abdominal	0.06367407739162445
+trial_2	acenocoumarol	189	KG00101580	Alanine aminotransferase increase	0.06285536289215088
+trial_2	acenocoumarol	29	KG00099354	hyponatraemia	0.05664869025349617
+trial_2	acenocoumarol	114	KG00098933	fevers	0.056105732917785645
+trial_2	acenocoumarol	228	KG00114657	Weight below normal	0.05524566024541855
+trial_2	acenocoumarol	85	KG00098474	coughs	0.05397520586848259
+trial_2	acenocoumarol	151	KG00098274	Infarction, Cerebral	0.05375417321920395
+trial_2	acenocoumarol	14	KG00097852	Anemia NOS	0.05357126146554947
+trial_2	acenocoumarol	188	KG00101579	Aspartate aminotransferase increase	0.051700785756111145
+trial_2	acenocoumarol	104	KG00097963	arthralgias	0.05087141692638397
+trial_2	acenocoumarol	96	KG00101679	Unattended death NOS	0.050046104937791824
+trial_2	acenocoumarol	200	KG00098539	Disorders, Deglutition	0.049662020057439804
+trial_2	acenocoumarol	49	KG00099902	nausea with vomiting	0.049110863357782364
+trial_2	acenocoumarol	68	KG00099901	nauseas	0.048997413367033005
+trial_2	acenocoumarol	142	KG00100923	Unspecified infectious and parasitic diseases	0.04891316220164299
+trial_2	acenocoumarol	122	KG00099321	Hypersensitivity NOS	0.04882797971367836
+trial_2	acenocoumarol	147	KG00098000	atelectases	0.04783597216010094
+trial_2	acenocoumarol	350	KG00106765	decreased platelet count	0.046686869114637375
+trial_2	acenocoumarol	126	KG00100076	Pain NOS	0.044226545840501785
+trial_2	acenocoumarol	79	KG00100317	Insomnia, Primary	0.04381696134805679
+trial_2	acenocoumarol	2	KG00100772	thrombocytopaenia	0.043372318148612976
+trial_2	acenocoumarol	180	KG00099363	Hypotension NOS	0.042987603694200516
+trial_2	acenocoumarol	18	KG00098307	Pain, Chest	0.042799413204193115
+trial_2	acenocoumarol	243	KG00100947	Micturition frequency increased	0.042407989501953125
+trial_2	acenocoumarol	5	KG00099169	haematuria	0.04205704852938652
+trial_2	acenocoumarol	76	KG00100450	Respiratory insufficiency, NOS	0.04170567914843559
+trial_2	acenocoumarol	28	KG00099347	hypoglycaemia	0.04127443954348564
+trial_2	acenocoumarol	86	KG00098565	Depression, Mental	0.04054953157901764
+trial_2	acenocoumarol	139	KG00098855	Sinusitis, Ethmoid	0.037915345281362534
+trial_2	acenocoumarol	72	KG00103771	myalgias	0.03752768039703369
+trial_2	acenocoumarol	30	KG00099500	Acute Kidney Failure	0.03644973784685135
+trial_2	acenocoumarol	27	KG00099303	hyperkalaemia	0.03606396168470383
+trial_2	acenocoumarol	77	KG00098450	Constipation NOS	0.03604024276137352
+trial_2	acenocoumarol	61	KG00099501	Chronic Kidney Failure	0.03467068448662758
+trial_2	acenocoumarol	179	KG00099342	hypocalcaemia	0.034354716539382935
+trial_2	acenocoumarol	396	KG00100373	Embolism, Pulmonary	0.033748120069503784
+trial_2	acenocoumarol	239	KG00100128	pareses	0.03347177803516388
+trial_2	acenocoumarol	276	KG00099127	Arrest, Cardiac	0.03328736498951912
+trial_2	acenocoumarol	69	KG00100082	Palpitations NOS	0.03298727795481682
+trial_2	acenocoumarol	269	KG00100399	pyaemia	0.032898373901844025
+trial_2	acenocoumarol	282	KG00099309	hypernatraemia	0.032686684280633926
+trial_2	acenocoumarol	4	KG00098817	epistaxis	0.032575517892837524
+trial_2	acenocoumarol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.030207937583327293
+trial_2	acenocoumarol	98	KG00097718	Incised wound, NOS	0.029420776292681694
+trial_2	acenocoumarol	441	KG00098262	cellulitis nos	0.029278161004185677
+trial_2	acenocoumarol	131	KG00100948	Urinary tract infection (& [NOS])	0.029241275042295456
+trial_2	acenocoumarol	116	KG00098964	Pain in foot	0.029055140912532806
+trial_2	acenocoumarol	38	KG00098066	Binocular vision disorders	0.028776008635759354
+trial_2	acenocoumarol	101	KG00097901	Anorexia NOS	0.028237005695700645
+trial_2	acenocoumarol	249	KG00104430	hypoalbuminaemia	0.027884548529982567
+trial_2	acenocoumarol	15	KG00097882	Angina pectoris NOS	0.02771543711423874
+trial_2	acenocoumarol	31	KG00099872	Infarction, Myocardial	0.02714265137910843
+trial_2	acenocoumarol	361	KG00098004	Fibrillation, Atrial	0.026659466326236725
+trial_2	acenocoumarol	194	KG00110727	Neutrophil Count Decreased	0.02518131211400032
+trial_2	acenocoumarol	191	KG00104055	Biliverdin increased	0.02513042278587818
+trial_2	acenocoumarol	339	KG00100334	proteinurias	0.02500089630484581
+trial_2	acenocoumarol	138	KG00098796	epidemic vomiting syndrome	0.024374714121222496
+trial_2	acenocoumarol	75	KG00100195	Dolens, Phlegmasia Alba	0.024223746731877327
+trial_2	acenocoumarol	136	KG00101582	Dry;skin	0.024175086989998817
+trial_2	acenocoumarol	100	KG00097815	alopecias	0.023821808397769928
+trial_2	acenocoumarol	195	KG00097814	Atopic Rhinitis	0.02331005223095417
+trial_2	acenocoumarol	268	KG00099557	Heart Failure, Left-Sided	0.023010551929473877
+trial_2	acenocoumarol	254	KG00100774	Thrombosis NOS	0.02273903600871563
+trial_2	acenocoumarol	132	KG00101045	Gain, Weight	0.022498684003949165
+trial_2	acenocoumarol	286	KG00101110	Retention, Urinary	0.02241479605436325
+trial_2	acenocoumarol	263	KG00101519	Ischemia, Myocardial	0.022302571684122086
+trial_2	acenocoumarol	246	KG00103338	Aspartate Aminotransferase Measurement	0.022111566737294197
+trial_2	acenocoumarol	130	KG00100683	Stomatitis NOS	0.022057192400097847
+trial_2	acenocoumarol	170	KG00108926	Neutropenia, Febrile	0.021820412948727608
+trial_2	acenocoumarol	36	KG00106434	Vision, Blurring Of	0.021771876141428947
+trial_2	acenocoumarol	261	KG00101559	raised alkaline phosphatase	0.02145163156092167
+trial_2	acenocoumarol	35	KG00101507	hypomagnesaemia	0.021322285756468773
+trial_2	acenocoumarol	11	KG00097993	Asthma NOS	0.021083654835820198
+trial_2	acenocoumarol	355	KG00110857	lymphocyte count decreased	0.021056288853287697
+trial_2	acenocoumarol	618	KG00099164	haematoma	0.02097034826874733
+trial_2	acenocoumarol	253	KG00100232	Pleural effusion NOS (disorder)	0.02086113952100277
+trial_2	acenocoumarol	356	KG00112623	Infectious Lung Disorders	0.020727554336190224
+trial_2	acenocoumarol	164	KG00108827	ileus colon	0.020687593147158623
+trial_2	acenocoumarol	466	KG00101205	fall	0.020605720579624176
+trial_2	acenocoumarol	155	KG00099960	Neutrophile	0.020593464374542236
+trial_2	acenocoumarol	133	KG00101370	neuropathies sensory	0.020564548671245575
+trial_2	acenocoumarol	144	KG00099610	Leukopenia NOS	0.020535072311758995
+trial_2	acenocoumarol	257	KG00100922	Erythema NOS	0.020384615287184715
+trial_2	acenocoumarol	204	KG00098849	Esophagitis, Peptic	0.020153816789388657
+trial_2	acenocoumarol	382	KG00099200	haemorrhoids	0.019998932257294655
+trial_2	acenocoumarol	92	KG00100926	Infections, Upper Respiratory	0.01983695663511753
+trial_2	acenocoumarol	118	KG00099011	Gastritis NOS	0.019605642184615135

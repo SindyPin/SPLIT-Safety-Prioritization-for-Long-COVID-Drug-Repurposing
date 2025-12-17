@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12816369533538818
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09050101786851883
+trial_1	placebo	87	KG00098599	diarrhoea	0.08798093348741531
+trial_1	placebo	46	KG00099121	Headache NOS	0.06996043771505356
+trial_1	placebo	21	KG00098675	dyspnoea	0.05305026099085808
+trial_1	placebo	68	KG00099901	nauseas	0.052566979080438614
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05185066908597946
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05038890615105629
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.048399269580841064
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04787346348166466
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.04766664654016495
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04573926329612732
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04153401404619217
+trial_1	placebo	20	KG00098540	dehydration	0.04073810949921608
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03783545643091202
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03612036630511284
+trial_1	placebo	228	KG00114657	Weight below normal	0.03498798608779907
+trial_1	placebo	66	KG00098642	drowsiness	0.03441139683127403
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.034137651324272156
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03258751332759857
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.031132789328694344
+trial_1	placebo	300	KG00101064	xerostomia	0.03012027032673359
+trial_1	placebo	85	KG00098474	coughs	0.030024753883481026
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02970949001610279
+trial_1	placebo	126	KG00100076	Pain NOS	0.028240758925676346
+trial_1	placebo	114	KG00098933	fevers	0.027699675410985947
+trial_1	placebo	132	KG00101045	Gain, Weight	0.027659276500344276
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0275015439838171
+trial_1	placebo	104	KG00097963	arthralgias	0.026511717587709427
+trial_1	placebo	86	KG00098565	Depression, Mental	0.026231674477458
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0258854478597641
+trial_1	placebo	29	KG00099354	hyponatraemia	0.025486165657639503
+trial_1	placebo	102	KG00097916	anxieties	0.025317935273051262
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024805225431919098
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.024151597172021866
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.023864878341555595
+trial_1	placebo	234	KG00098669	dysgeusias	0.02326272241771221
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.022650565952062607
+trial_1	placebo	242	KG00100855	tremors	0.02102030999958515
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.020823834463953972
+trial_1	placebo	262	KG00101199	agitation	0.020305605605244637
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.020238563418388367
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019675347954034805
+trial_1	placebo	239	KG00100128	pareses	0.019016942009329796
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018971797078847885
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.018776439130306244
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.018197456374764442
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.018162688240408897
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.017814690247178078
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017367662861943245
+trial_1	placebo	466	KG00101205	fall	0.01717260479927063
+trial_1	placebo	116	KG00098964	Pain in foot	0.01707061380147934
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.016980422660708427
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.016382627189159393
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01637973077595234
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01598227024078369
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015781620517373085
+trial_1	placebo	350	KG00106765	decreased platelet count	0.015685049816966057
+trial_1	placebo	221	KG00101207	peripheral oedema	0.015524475835263729
+trial_1	placebo	82	KG00097697	abdomen distended	0.015069670043885708
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.014855566434562206
+trial_1	placebo	72	KG00103771	myalgias	0.014488293789327145
+trial_1	placebo	269	KG00100399	pyaemia	0.014409777708351612
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.014390070922672749
+trial_1	placebo	136	KG00101582	Dry;skin	0.014380301348865032
+trial_1	placebo	5	KG00099169	haematuria	0.014086680486798286
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.014043739065527916
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.013396233320236206
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013336267322301865
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.013301539234817028
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.013278947211802006
+trial_1	placebo	11	KG00097993	Asthma NOS	0.013215221464633942
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.012974092736840248
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.012685932219028473
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.012611588463187218
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012608886696398258
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.012593555264174938
+trial_1	placebo	147	KG00098000	atelectases	0.012586460448801517
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012195488438010216
+trial_1	placebo	456	KG00099420	Influenzae	0.012056857347488403
+trial_1	placebo	345	KG00103926	impairments memory	0.011762634851038456
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.011709547601640224
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01165300514549017
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.011616037227213383
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.011521762236952782
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011515007354319096
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.011407089419662952
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.011256475001573563
+trial_1	placebo	121	KG00099190	haemorrhage	0.01076429896056652
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.010669339448213577
+trial_1	placebo	4	KG00098817	epistaxis	0.010615271516144276
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01056715752929449
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.010532037355005741
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.010409497655928135
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.0103404326364398
+trial_1	placebo	154	KG00099686	Lymphopenias	0.010139544494450092
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.01008349284529686
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.010023114271461964
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.009995453990995884
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.00999309029430151
+trial_2	alprazolam	9	KG00098432	Confusion NOS	0.12816369533538818
+trial_2	alprazolam	17	KG00097991	Asthenia NOS	0.09050101786851883
+trial_2	alprazolam	87	KG00098599	diarrhoea	0.08798093348741531
+trial_2	alprazolam	46	KG00099121	Headache NOS	0.06996043771505356
+trial_2	alprazolam	21	KG00098675	dyspnoea	0.05305026099085808
+trial_2	alprazolam	68	KG00099901	nauseas	0.052566979080438614
+trial_2	alprazolam	79	KG00100317	Insomnia, Primary	0.05185066908597946
+trial_2	alprazolam	77	KG00098450	Constipation NOS	0.05038890615105629
+trial_2	alprazolam	49	KG00099902	nausea with vomiting	0.048399269580841064
+trial_2	alprazolam	173	KG00098172	Bronchopneumonia NOS	0.04787346348166466
+trial_2	alprazolam	78	KG00099326	Hypertensive diseases	0.04766664654016495
+trial_2	alprazolam	177	KG00099299	hyperglycaemia	0.04573926329612732
+trial_2	alprazolam	64	KG00097734	Acrodermatitis, NOS	0.04153401404619217
+trial_2	alprazolam	20	KG00098540	dehydration	0.04073810949921608
+trial_2	alprazolam	123	KG00099351	hypokalaemia	0.03783545643091202
+trial_2	alprazolam	37	KG00097696	Cramps, Abdominal	0.03612036630511284
+trial_2	alprazolam	228	KG00114657	Weight below normal	0.03498798608779907
+trial_2	alprazolam	66	KG00098642	drowsiness	0.03441139683127403
+trial_2	alprazolam	151	KG00098274	Infarction, Cerebral	0.034137651324272156
+trial_2	alprazolam	67	KG00098673	Dyspepsia, NOS	0.03258751332759857
+trial_2	alprazolam	180	KG00099363	Hypotension NOS	0.031132789328694344
+trial_2	alprazolam	300	KG00101064	xerostomia	0.03012027032673359
+trial_2	alprazolam	85	KG00098474	coughs	0.030024753883481026
+trial_2	alprazolam	14	KG00097852	Anemia NOS	0.02970949001610279
+trial_2	alprazolam	126	KG00100076	Pain NOS	0.028240758925676346
+trial_2	alprazolam	114	KG00098933	fevers	0.027699675410985947
+trial_2	alprazolam	132	KG00101045	Gain, Weight	0.027659276500344276
+trial_2	alprazolam	101	KG00097901	Anorexia NOS	0.0275015439838171
+trial_2	alprazolam	104	KG00097963	arthralgias	0.026511717587709427
+trial_2	alprazolam	86	KG00098565	Depression, Mental	0.026231674477458
+trial_2	alprazolam	200	KG00098539	Disorders, Deglutition	0.0258854478597641
+trial_2	alprazolam	29	KG00099354	hyponatraemia	0.025486165657639503
+trial_2	alprazolam	102	KG00097916	anxieties	0.025317935273051262
+trial_2	alprazolam	36	KG00106434	Vision, Blurring Of	0.024805225431919098
+trial_2	alprazolam	76	KG00100450	Respiratory insufficiency, NOS	0.024151597172021866
+trial_2	alprazolam	96	KG00101679	Unattended death NOS	0.023864878341555595
+trial_2	alprazolam	234	KG00098669	dysgeusias	0.02326272241771221
+trial_2	alprazolam	189	KG00101580	Alanine aminotransferase increase	0.022650565952062607
+trial_2	alprazolam	242	KG00100855	tremors	0.02102030999958515
+trial_2	alprazolam	131	KG00100948	Urinary tract infection (& [NOS])	0.020823834463953972
+trial_2	alprazolam	262	KG00101199	agitation	0.020305605605244637
+trial_2	alprazolam	28	KG00099347	hypoglycaemia	0.020238563418388367
+trial_2	alprazolam	18	KG00098307	Pain, Chest	0.019675347954034805
+trial_2	alprazolam	239	KG00100128	pareses	0.019016942009329796
+trial_2	alprazolam	30	KG00099500	Acute Kidney Failure	0.018971797078847885
+trial_2	alprazolam	61	KG00099501	Chronic Kidney Failure	0.018776439130306244
+trial_2	alprazolam	243	KG00100947	Micturition frequency increased	0.018197456374764442
+trial_2	alprazolam	188	KG00101579	Aspartate aminotransferase increase	0.018162688240408897
+trial_2	alprazolam	211	KG00100341	Pruritus NOS	0.017814690247178078
+trial_2	alprazolam	361	KG00098004	Fibrillation, Atrial	0.017367662861943245
+trial_2	alprazolam	466	KG00101205	fall	0.01717260479927063
+trial_2	alprazolam	116	KG00098964	Pain in foot	0.01707061380147934
+trial_2	alprazolam	69	KG00100082	Palpitations NOS	0.016980422660708427
+trial_2	alprazolam	396	KG00100373	Embolism, Pulmonary	0.016382627189159393
+trial_2	alprazolam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01637973077595234
+trial_2	alprazolam	441	KG00098262	cellulitis nos	0.01598227024078369
+trial_2	alprazolam	38	KG00098066	Binocular vision disorders	0.015781620517373085
+trial_2	alprazolam	350	KG00106765	decreased platelet count	0.015685049816966057
+trial_2	alprazolam	221	KG00101207	peripheral oedema	0.015524475835263729
+trial_2	alprazolam	82	KG00097697	abdomen distended	0.015069670043885708
+trial_2	alprazolam	142	KG00100923	Unspecified infectious and parasitic diseases	0.014855566434562206
+trial_2	alprazolam	72	KG00103771	myalgias	0.014488293789327145
+trial_2	alprazolam	269	KG00100399	pyaemia	0.014409777708351612
+trial_2	alprazolam	139	KG00098855	Sinusitis, Ethmoid	0.014390070922672749
+trial_2	alprazolam	136	KG00101582	Dry;skin	0.014380301348865032
+trial_2	alprazolam	5	KG00099169	haematuria	0.014086680486798286
+trial_2	alprazolam	199	KG00098371	Rhinitis (chronic) NOS	0.014043739065527916
+trial_2	alprazolam	2	KG00100772	thrombocytopaenia	0.013396233320236206
+trial_2	alprazolam	138	KG00098796	epidemic vomiting syndrome	0.013336267322301865
+trial_2	alprazolam	92	KG00100926	Infections, Upper Respiratory	0.013301539234817028
+trial_2	alprazolam	130	KG00100683	Stomatitis NOS	0.013278947211802006
+trial_2	alprazolam	11	KG00097993	Asthma NOS	0.013215221464633942
+trial_2	alprazolam	15	KG00097882	Angina pectoris NOS	0.012974092736840248
+trial_2	alprazolam	122	KG00099321	Hypersensitivity NOS	0.012685932219028473
+trial_2	alprazolam	75	KG00100195	Dolens, Phlegmasia Alba	0.012611588463187218
+trial_2	alprazolam	286	KG00101110	Retention, Urinary	0.012608886696398258
+trial_2	alprazolam	89	KG00099301	Hyperhidrosis (disorder)	0.012593555264174938
+trial_2	alprazolam	147	KG00098000	atelectases	0.012586460448801517
+trial_2	alprazolam	261	KG00101559	raised alkaline phosphatase	0.012195488438010216
+trial_2	alprazolam	456	KG00099420	Influenzae	0.012056857347488403
+trial_2	alprazolam	345	KG00103926	impairments memory	0.011762634851038456
+trial_2	alprazolam	249	KG00104430	hypoalbuminaemia	0.011709547601640224
+trial_2	alprazolam	204	KG00098849	Esophagitis, Peptic	0.01165300514549017
+trial_2	alprazolam	166	KG00099773	menopausal syndrome	0.011616037227213383
+trial_2	alprazolam	179	KG00099342	hypocalcaemia	0.011521762236952782
+trial_2	alprazolam	191	KG00104055	Biliverdin increased	0.011515007354319096
+trial_2	alprazolam	27	KG00099303	hyperkalaemia	0.011407089419662952
+trial_2	alprazolam	98	KG00097718	Incised wound, NOS	0.011256475001573563
+trial_2	alprazolam	121	KG00099190	haemorrhage	0.01076429896056652
+trial_2	alprazolam	118	KG00099011	Gastritis NOS	0.010669339448213577
+trial_2	alprazolam	4	KG00098817	epistaxis	0.010615271516144276
+trial_2	alprazolam	31	KG00099872	Infarction, Myocardial	0.01056715752929449
+trial_2	alprazolam	22	KG00098705	Edema (NOS)	0.010532037355005741
+trial_2	alprazolam	94	KG00103829	abdominal discomfort	0.010409497655928135
+trial_2	alprazolam	422	KG00101429	Creatine phosphokinase increased	0.0103404326364398
+trial_2	alprazolam	154	KG00099686	Lymphopenias	0.010139544494450092
+trial_2	alprazolam	218	KG00100801	Tinnitus NOS	0.01008349284529686
+trial_2	alprazolam	170	KG00108926	Neutropenia, Febrile	0.010023114271461964
+trial_2	alprazolam	35	KG00101507	hypomagnesaemia	0.009995453990995884
+trial_2	alprazolam	194	KG00110727	Neutrophil Count Decreased	0.00999309029430151

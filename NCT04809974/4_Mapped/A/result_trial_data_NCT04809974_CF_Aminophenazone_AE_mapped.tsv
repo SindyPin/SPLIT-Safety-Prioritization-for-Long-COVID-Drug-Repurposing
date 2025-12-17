@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18786677718162537
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18194834887981415
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12561896443367004
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1226639673113823
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11552822589874268
+trial_1	placebo	20	KG00098540	dehydration	0.1072256788611412
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10532113164663315
+trial_1	placebo	68	KG00099901	nauseas	0.09986191987991333
+trial_1	placebo	21	KG00098675	dyspnoea	0.09931384027004242
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0978071317076683
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09585671871900558
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09382887929677963
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09231005609035492
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09229855239391327
+trial_1	placebo	46	KG00099121	Headache NOS	0.08492844551801682
+trial_1	placebo	228	KG00114657	Weight below normal	0.08471116423606873
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08410251885652542
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07999168336391449
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07822689414024353
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0762128084897995
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07523873448371887
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07383699715137482
+trial_1	placebo	114	KG00098933	fevers	0.07250388711690903
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06777314841747284
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06488214433193207
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06430818885564804
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0642811506986618
+trial_1	placebo	5	KG00099169	haematuria	0.06251641362905502
+trial_1	placebo	239	KG00100128	pareses	0.062395963817834854
+trial_1	placebo	126	KG00100076	Pain NOS	0.061561647802591324
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06087155640125275
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05806034430861473
+trial_1	placebo	85	KG00098474	coughs	0.05550505220890045
+trial_1	placebo	104	KG00097963	arthralgias	0.055195990949869156
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05419547110795975
+trial_1	placebo	72	KG00103771	myalgias	0.05378875881433487
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.052964359521865845
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05198928341269493
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.051186539232730865
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.050587546080350876
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.050303153693675995
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.049200572073459625
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04892559349536896
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.048311203718185425
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.048174988478422165
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0471581369638443
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04665958508849144
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.045950353145599365
+trial_1	placebo	102	KG00097916	anxieties	0.04469262808561325
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04427265748381615
+trial_1	placebo	147	KG00098000	atelectases	0.04383930191397667
+trial_1	placebo	466	KG00101205	fall	0.042787231504917145
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04275070130825043
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04212735593318939
+trial_1	placebo	116	KG00098964	Pain in foot	0.04017461836338043
+trial_1	placebo	164	KG00108827	ileus colon	0.04006688669323921
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.040039267390966415
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03994879499077797
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03956131264567375
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03930798918008804
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03883933648467064
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.038694970309734344
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03834071755409241
+trial_1	placebo	262	KG00101199	agitation	0.03720289468765259
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03716486692428589
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03526952117681503
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03499169647693634
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03496991842985153
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03457660973072052
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.034490831196308136
+trial_1	placebo	269	KG00100399	pyaemia	0.03446098044514656
+trial_1	placebo	82	KG00097697	abdomen distended	0.03431504964828491
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03328337520360947
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.033159736543893814
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03183222562074661
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03156277909874916
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03145918250083923
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03134847804903984
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.030926840379834175
+trial_1	placebo	121	KG00099190	haemorrhage	0.030291050672531128
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030009640380740166
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02984459511935711
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.029668280854821205
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.028818858787417412
+trial_1	placebo	456	KG00099420	Influenzae	0.02844523824751377
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02835904061794281
+trial_1	placebo	186	KG00101431	creatinine increased	0.02810635045170784
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02793778106570244
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.027780236676335335
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.027663029730319977
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.027405356988310814
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02738342247903347
+trial_1	placebo	153	KG00099579	lethargy	0.026912640780210495
+trial_1	placebo	154	KG00099686	Lymphopenias	0.026710864156484604
+trial_1	placebo	234	KG00098669	dysgeusias	0.026453185826539993
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02628077194094658
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.026257826015353203
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02598024345934391
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.025940394029021263
+trial_1	placebo	100	KG00097815	alopecias	0.025657054036855698
+trial_2	aminophenazone	87	KG00098599	diarrhoea	0.18786677718162537
+trial_2	aminophenazone	78	KG00099326	Hypertensive diseases	0.18194834887981415
+trial_2	aminophenazone	173	KG00098172	Bronchopneumonia NOS	0.12561896443367004
+trial_2	aminophenazone	177	KG00099299	hyperglycaemia	0.1226639673113823
+trial_2	aminophenazone	123	KG00099351	hypokalaemia	0.11552822589874268
+trial_2	aminophenazone	20	KG00098540	dehydration	0.1072256788611412
+trial_2	aminophenazone	17	KG00097991	Asthenia NOS	0.10532113164663315
+trial_2	aminophenazone	68	KG00099901	nauseas	0.09986191987991333
+trial_2	aminophenazone	21	KG00098675	dyspnoea	0.09931384027004242
+trial_2	aminophenazone	37	KG00097696	Cramps, Abdominal	0.0978071317076683
+trial_2	aminophenazone	9	KG00098432	Confusion NOS	0.09585671871900558
+trial_2	aminophenazone	49	KG00099902	nausea with vomiting	0.09382887929677963
+trial_2	aminophenazone	189	KG00101580	Alanine aminotransferase increase	0.09231005609035492
+trial_2	aminophenazone	79	KG00100317	Insomnia, Primary	0.09229855239391327
+trial_2	aminophenazone	46	KG00099121	Headache NOS	0.08492844551801682
+trial_2	aminophenazone	228	KG00114657	Weight below normal	0.08471116423606873
+trial_2	aminophenazone	67	KG00098673	Dyspepsia, NOS	0.08410251885652542
+trial_2	aminophenazone	188	KG00101579	Aspartate aminotransferase increase	0.07999168336391449
+trial_2	aminophenazone	200	KG00098539	Disorders, Deglutition	0.07822689414024353
+trial_2	aminophenazone	14	KG00097852	Anemia NOS	0.0762128084897995
+trial_2	aminophenazone	2	KG00100772	thrombocytopaenia	0.07523873448371887
+trial_2	aminophenazone	77	KG00098450	Constipation NOS	0.07383699715137482
+trial_2	aminophenazone	114	KG00098933	fevers	0.07250388711690903
+trial_2	aminophenazone	350	KG00106765	decreased platelet count	0.06777314841747284
+trial_2	aminophenazone	86	KG00098565	Depression, Mental	0.06488214433193207
+trial_2	aminophenazone	101	KG00097901	Anorexia NOS	0.06430818885564804
+trial_2	aminophenazone	64	KG00097734	Acrodermatitis, NOS	0.0642811506986618
+trial_2	aminophenazone	5	KG00099169	haematuria	0.06251641362905502
+trial_2	aminophenazone	239	KG00100128	pareses	0.062395963817834854
+trial_2	aminophenazone	126	KG00100076	Pain NOS	0.061561647802591324
+trial_2	aminophenazone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06087155640125275
+trial_2	aminophenazone	29	KG00099354	hyponatraemia	0.05806034430861473
+trial_2	aminophenazone	85	KG00098474	coughs	0.05550505220890045
+trial_2	aminophenazone	104	KG00097963	arthralgias	0.055195990949869156
+trial_2	aminophenazone	243	KG00100947	Micturition frequency increased	0.05419547110795975
+trial_2	aminophenazone	72	KG00103771	myalgias	0.05378875881433487
+trial_2	aminophenazone	151	KG00098274	Infarction, Cerebral	0.052964359521865845
+trial_2	aminophenazone	61	KG00099501	Chronic Kidney Failure	0.05198928341269493
+trial_2	aminophenazone	76	KG00100450	Respiratory insufficiency, NOS	0.051186539232730865
+trial_2	aminophenazone	38	KG00098066	Binocular vision disorders	0.050587546080350876
+trial_2	aminophenazone	27	KG00099303	hyperkalaemia	0.050303153693675995
+trial_2	aminophenazone	179	KG00099342	hypocalcaemia	0.049200572073459625
+trial_2	aminophenazone	122	KG00099321	Hypersensitivity NOS	0.04892559349536896
+trial_2	aminophenazone	180	KG00099363	Hypotension NOS	0.048311203718185425
+trial_2	aminophenazone	139	KG00098855	Sinusitis, Ethmoid	0.048174988478422165
+trial_2	aminophenazone	28	KG00099347	hypoglycaemia	0.0471581369638443
+trial_2	aminophenazone	96	KG00101679	Unattended death NOS	0.04665958508849144
+trial_2	aminophenazone	194	KG00110727	Neutrophil Count Decreased	0.045950353145599365
+trial_2	aminophenazone	102	KG00097916	anxieties	0.04469262808561325
+trial_2	aminophenazone	30	KG00099500	Acute Kidney Failure	0.04427265748381615
+trial_2	aminophenazone	147	KG00098000	atelectases	0.04383930191397667
+trial_2	aminophenazone	466	KG00101205	fall	0.042787231504917145
+trial_2	aminophenazone	396	KG00100373	Embolism, Pulmonary	0.04275070130825043
+trial_2	aminophenazone	69	KG00100082	Palpitations NOS	0.04212735593318939
+trial_2	aminophenazone	116	KG00098964	Pain in foot	0.04017461836338043
+trial_2	aminophenazone	164	KG00108827	ileus colon	0.04006688669323921
+trial_2	aminophenazone	131	KG00100948	Urinary tract infection (& [NOS])	0.040039267390966415
+trial_2	aminophenazone	276	KG00099127	Arrest, Cardiac	0.03994879499077797
+trial_2	aminophenazone	282	KG00099309	hypernatraemia	0.03956131264567375
+trial_2	aminophenazone	18	KG00098307	Pain, Chest	0.03930798918008804
+trial_2	aminophenazone	261	KG00101559	raised alkaline phosphatase	0.03883933648467064
+trial_2	aminophenazone	144	KG00099610	Leukopenia NOS	0.038694970309734344
+trial_2	aminophenazone	142	KG00100923	Unspecified infectious and parasitic diseases	0.03834071755409241
+trial_2	aminophenazone	262	KG00101199	agitation	0.03720289468765259
+trial_2	aminophenazone	132	KG00101045	Gain, Weight	0.03716486692428589
+trial_2	aminophenazone	441	KG00098262	cellulitis nos	0.03526952117681503
+trial_2	aminophenazone	355	KG00110857	lymphocyte count decreased	0.03499169647693634
+trial_2	aminophenazone	204	KG00098849	Esophagitis, Peptic	0.03496991842985153
+trial_2	aminophenazone	341	KG00101472	Gamma-glutamyltransferase increased	0.03457660973072052
+trial_2	aminophenazone	1	KG00099959	Neutropenia NOS	0.034490831196308136
+trial_2	aminophenazone	269	KG00100399	pyaemia	0.03446098044514656
+trial_2	aminophenazone	82	KG00097697	abdomen distended	0.03431504964828491
+trial_2	aminophenazone	75	KG00100195	Dolens, Phlegmasia Alba	0.03328337520360947
+trial_2	aminophenazone	92	KG00100926	Infections, Upper Respiratory	0.033159736543893814
+trial_2	aminophenazone	191	KG00104055	Biliverdin increased	0.03183222562074661
+trial_2	aminophenazone	33	KG00100094	Pancreatitis NOS	0.03156277909874916
+trial_2	aminophenazone	253	KG00100232	Pleural effusion NOS (disorder)	0.03145918250083923
+trial_2	aminophenazone	97	KG00104198	LIVER ENZYME ELEVATED	0.03134847804903984
+trial_2	aminophenazone	35	KG00101507	hypomagnesaemia	0.030926840379834175
+trial_2	aminophenazone	121	KG00099190	haemorrhage	0.030291050672531128
+trial_2	aminophenazone	508	KG00108565	blood glucose increased	0.030009640380740166
+trial_2	aminophenazone	286	KG00101110	Retention, Urinary	0.02984459511935711
+trial_2	aminophenazone	361	KG00098004	Fibrillation, Atrial	0.029668280854821205
+trial_2	aminophenazone	288	KG00101223	hypophosphataemia	0.028818858787417412
+trial_2	aminophenazone	456	KG00099420	Influenzae	0.02844523824751377
+trial_2	aminophenazone	249	KG00104430	hypoalbuminaemia	0.02835904061794281
+trial_2	aminophenazone	186	KG00101431	creatinine increased	0.02810635045170784
+trial_2	aminophenazone	138	KG00098796	epidemic vomiting syndrome	0.02793778106570244
+trial_2	aminophenazone	256	KG00100738	Tachycardia, Sinus	0.027780236676335335
+trial_2	aminophenazone	118	KG00099011	Gastritis NOS	0.027663029730319977
+trial_2	aminophenazone	422	KG00101429	Creatine phosphokinase increased	0.027405356988310814
+trial_2	aminophenazone	98	KG00097718	Incised wound, NOS	0.02738342247903347
+trial_2	aminophenazone	153	KG00099579	lethargy	0.026912640780210495
+trial_2	aminophenazone	154	KG00099686	Lymphopenias	0.026710864156484604
+trial_2	aminophenazone	234	KG00098669	dysgeusias	0.026453185826539993
+trial_2	aminophenazone	382	KG00099200	haemorrhoids	0.02628077194094658
+trial_2	aminophenazone	356	KG00112623	Infectious Lung Disorders	0.026257826015353203
+trial_2	aminophenazone	371	KG00098517	Cystitis (NOS)	0.02598024345934391
+trial_2	aminophenazone	15	KG00097882	Angina pectoris NOS	0.025940394029021263
+trial_2	aminophenazone	100	KG00097815	alopecias	0.025657054036855698

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12004535645246506
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10909458249807358
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0905846506357193
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08613689243793488
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08548521250486374
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08337940275669098
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08275395631790161
+trial_1	placebo	20	KG00098540	dehydration	0.08201798051595688
+trial_1	placebo	68	KG00099901	nauseas	0.07814637571573257
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07108892500400543
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06779592484235764
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06517588347196579
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06121518835425377
+trial_1	placebo	46	KG00099121	Headache NOS	0.059619855135679245
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05819523707032204
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.055929481983184814
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05289371311664581
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05069955810904503
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04990047216415405
+trial_1	placebo	21	KG00098675	dyspnoea	0.049547161906957626
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04782230406999588
+trial_1	placebo	14	KG00097852	Anemia NOS	0.047477684915065765
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04574088007211685
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04534759745001793
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04394029080867767
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04226236045360565
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04150538891553879
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.040189243853092194
+trial_1	placebo	147	KG00098000	atelectases	0.039775341749191284
+trial_1	placebo	164	KG00108827	ileus colon	0.03901475667953491
+trial_1	placebo	114	KG00098933	fevers	0.03867920860648155
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03650279715657234
+trial_1	placebo	5	KG00099169	haematuria	0.035905271768569946
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035870518535375595
+trial_1	placebo	104	KG00097963	arthralgias	0.033858783543109894
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03358978405594826
+trial_1	placebo	82	KG00097697	abdomen distended	0.03352823480963707
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.033307719975709915
+trial_1	placebo	126	KG00100076	Pain NOS	0.033024635165929794
+trial_1	placebo	269	KG00100399	pyaemia	0.032207779586315155
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.031221628189086914
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.031152797862887383
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03090684302151203
+trial_1	placebo	228	KG00114657	Weight below normal	0.03050173632800579
+trial_1	placebo	239	KG00100128	pareses	0.030248424038290977
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02974684350192547
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.029732156544923782
+trial_1	placebo	86	KG00098565	Depression, Mental	0.029689760878682137
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.029351919889450073
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029320072382688522
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028861938044428825
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028847558423876762
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.028707079589366913
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028508029878139496
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.028202064335346222
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028105217963457108
+trial_1	placebo	85	KG00098474	coughs	0.02681254781782627
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.026490990072488785
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.026465868577361107
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026045160368084908
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.025916090235114098
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025575246661901474
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02553933672606945
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.024805160239338875
+trial_1	placebo	441	KG00098262	cellulitis nos	0.024715976789593697
+trial_1	placebo	102	KG00097916	anxieties	0.024449940770864487
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.024410607293248177
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02403056062757969
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.023376796394586563
+trial_1	placebo	25	KG00099134	congestive failures heart	0.022733965888619423
+trial_1	placebo	466	KG00101205	fall	0.022644134238362312
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.022574961185455322
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02242279052734375
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.022328274324536324
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022262342274188995
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02219531498849392
+trial_1	placebo	116	KG00098964	Pain in foot	0.022014549002051353
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.021779470145702362
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.021750636398792267
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.021714694797992706
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021421361714601517
+trial_1	placebo	60	KG00099440	Obstruction, Intestinal	0.021270684897899628
+trial_1	placebo	419	KG00100282	Hemorrhage, Postoperative	0.021266425028443336
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020543944090604782
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02051188237965107
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.020467856898903847
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.019998932257294655
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.019935453310608864
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.019853966310620308
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.019254475831985474
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019002901390194893
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.018803590908646584
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01847904361784458
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.018453314900398254
+trial_1	placebo	72	KG00103771	myalgias	0.01841161586344242
+trial_1	placebo	456	KG00099420	Influenzae	0.018285002559423447
+trial_1	placebo	713	KG00107657	distressed respiratory	0.018192805349826813
+trial_1	placebo	262	KG00101199	agitation	0.018028415739536285
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018005674704909325
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01792006380856037
+trial_2	alvimopan	87	KG00098599	diarrhoea	0.12004535645246506
+trial_2	alvimopan	78	KG00099326	Hypertensive diseases	0.10909458249807358
+trial_2	alvimopan	77	KG00098450	Constipation NOS	0.0905846506357193
+trial_2	alvimopan	123	KG00099351	hypokalaemia	0.08613689243793488
+trial_2	alvimopan	49	KG00099902	nausea with vomiting	0.08548521250486374
+trial_2	alvimopan	173	KG00098172	Bronchopneumonia NOS	0.08337940275669098
+trial_2	alvimopan	9	KG00098432	Confusion NOS	0.08275395631790161
+trial_2	alvimopan	20	KG00098540	dehydration	0.08201798051595688
+trial_2	alvimopan	68	KG00099901	nauseas	0.07814637571573257
+trial_2	alvimopan	177	KG00099299	hyperglycaemia	0.07108892500400543
+trial_2	alvimopan	189	KG00101580	Alanine aminotransferase increase	0.06779592484235764
+trial_2	alvimopan	37	KG00097696	Cramps, Abdominal	0.06517588347196579
+trial_2	alvimopan	188	KG00101579	Aspartate aminotransferase increase	0.06121518835425377
+trial_2	alvimopan	46	KG00099121	Headache NOS	0.059619855135679245
+trial_2	alvimopan	30	KG00099500	Acute Kidney Failure	0.05819523707032204
+trial_2	alvimopan	17	KG00097991	Asthenia NOS	0.055929481983184814
+trial_2	alvimopan	76	KG00100450	Respiratory insufficiency, NOS	0.05289371311664581
+trial_2	alvimopan	67	KG00098673	Dyspepsia, NOS	0.05069955810904503
+trial_2	alvimopan	79	KG00100317	Insomnia, Primary	0.04990047216415405
+trial_2	alvimopan	21	KG00098675	dyspnoea	0.049547161906957626
+trial_2	alvimopan	151	KG00098274	Infarction, Cerebral	0.04782230406999588
+trial_2	alvimopan	14	KG00097852	Anemia NOS	0.047477684915065765
+trial_2	alvimopan	180	KG00099363	Hypotension NOS	0.04574088007211685
+trial_2	alvimopan	2	KG00100772	thrombocytopaenia	0.04534759745001793
+trial_2	alvimopan	61	KG00099501	Chronic Kidney Failure	0.04394029080867767
+trial_2	alvimopan	276	KG00099127	Arrest, Cardiac	0.04226236045360565
+trial_2	alvimopan	350	KG00106765	decreased platelet count	0.04150538891553879
+trial_2	alvimopan	396	KG00100373	Embolism, Pulmonary	0.040189243853092194
+trial_2	alvimopan	147	KG00098000	atelectases	0.039775341749191284
+trial_2	alvimopan	164	KG00108827	ileus colon	0.03901475667953491
+trial_2	alvimopan	114	KG00098933	fevers	0.03867920860648155
+trial_2	alvimopan	29	KG00099354	hyponatraemia	0.03650279715657234
+trial_2	alvimopan	5	KG00099169	haematuria	0.035905271768569946
+trial_2	alvimopan	200	KG00098539	Disorders, Deglutition	0.035870518535375595
+trial_2	alvimopan	104	KG00097963	arthralgias	0.033858783543109894
+trial_2	alvimopan	28	KG00099347	hypoglycaemia	0.03358978405594826
+trial_2	alvimopan	82	KG00097697	abdomen distended	0.03352823480963707
+trial_2	alvimopan	27	KG00099303	hyperkalaemia	0.033307719975709915
+trial_2	alvimopan	126	KG00100076	Pain NOS	0.033024635165929794
+trial_2	alvimopan	269	KG00100399	pyaemia	0.032207779586315155
+trial_2	alvimopan	253	KG00100232	Pleural effusion NOS (disorder)	0.031221628189086914
+trial_2	alvimopan	394	KG00100243	Pneumonia, Aspiration	0.031152797862887383
+trial_2	alvimopan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03090684302151203
+trial_2	alvimopan	228	KG00114657	Weight below normal	0.03050173632800579
+trial_2	alvimopan	239	KG00100128	pareses	0.030248424038290977
+trial_2	alvimopan	131	KG00100948	Urinary tract infection (& [NOS])	0.02974684350192547
+trial_2	alvimopan	101	KG00097901	Anorexia NOS	0.029732156544923782
+trial_2	alvimopan	86	KG00098565	Depression, Mental	0.029689760878682137
+trial_2	alvimopan	31	KG00099872	Infarction, Myocardial	0.029351919889450073
+trial_2	alvimopan	243	KG00100947	Micturition frequency increased	0.029320072382688522
+trial_2	alvimopan	18	KG00098307	Pain, Chest	0.028861938044428825
+trial_2	alvimopan	361	KG00098004	Fibrillation, Atrial	0.028847558423876762
+trial_2	alvimopan	38	KG00098066	Binocular vision disorders	0.028707079589366913
+trial_2	alvimopan	96	KG00101679	Unattended death NOS	0.028508029878139496
+trial_2	alvimopan	179	KG00099342	hypocalcaemia	0.028202064335346222
+trial_2	alvimopan	75	KG00100195	Dolens, Phlegmasia Alba	0.028105217963457108
+trial_2	alvimopan	85	KG00098474	coughs	0.02681254781782627
+trial_2	alvimopan	33	KG00100094	Pancreatitis NOS	0.026490990072488785
+trial_2	alvimopan	138	KG00098796	epidemic vomiting syndrome	0.026465868577361107
+trial_2	alvimopan	69	KG00100082	Palpitations NOS	0.026045160368084908
+trial_2	alvimopan	64	KG00097734	Acrodermatitis, NOS	0.025916090235114098
+trial_2	alvimopan	286	KG00101110	Retention, Urinary	0.025575246661901474
+trial_2	alvimopan	15	KG00097882	Angina pectoris NOS	0.02553933672606945
+trial_2	alvimopan	163	KG00104050	bowel obstructions small	0.024805160239338875
+trial_2	alvimopan	441	KG00098262	cellulitis nos	0.024715976789593697
+trial_2	alvimopan	102	KG00097916	anxieties	0.024449940770864487
+trial_2	alvimopan	261	KG00101559	raised alkaline phosphatase	0.024410607293248177
+trial_2	alvimopan	122	KG00099321	Hypersensitivity NOS	0.02403056062757969
+trial_2	alvimopan	204	KG00098849	Esophagitis, Peptic	0.023376796394586563
+trial_2	alvimopan	25	KG00099134	congestive failures heart	0.022733965888619423
+trial_2	alvimopan	466	KG00101205	fall	0.022644134238362312
+trial_2	alvimopan	422	KG00101429	Creatine phosphokinase increased	0.022574961185455322
+trial_2	alvimopan	268	KG00099557	Heart Failure, Left-Sided	0.02242279052734375
+trial_2	alvimopan	97	KG00104198	LIVER ENZYME ELEVATED	0.022328274324536324
+trial_2	alvimopan	282	KG00099309	hypernatraemia	0.022262342274188995
+trial_2	alvimopan	35	KG00101507	hypomagnesaemia	0.02219531498849392
+trial_2	alvimopan	116	KG00098964	Pain in foot	0.022014549002051353
+trial_2	alvimopan	144	KG00099610	Leukopenia NOS	0.021779470145702362
+trial_2	alvimopan	194	KG00110727	Neutrophil Count Decreased	0.021750636398792267
+trial_2	alvimopan	118	KG00099011	Gastritis NOS	0.021714694797992706
+trial_2	alvimopan	92	KG00100926	Infections, Upper Respiratory	0.021421361714601517
+trial_2	alvimopan	60	KG00099440	Obstruction, Intestinal	0.021270684897899628
+trial_2	alvimopan	419	KG00100282	Hemorrhage, Postoperative	0.021266425028443336
+trial_2	alvimopan	139	KG00098855	Sinusitis, Ethmoid	0.020543944090604782
+trial_2	alvimopan	191	KG00104055	Biliverdin increased	0.02051188237965107
+trial_2	alvimopan	561	KG00104180	Diarrhoea, Clostridium difficile	0.020467856898903847
+trial_2	alvimopan	256	KG00100738	Tachycardia, Sinus	0.019998932257294655
+trial_2	alvimopan	371	KG00098517	Cystitis (NOS)	0.019935453310608864
+trial_2	alvimopan	494	KG00099838	Organ Failure, Multiple	0.019853966310620308
+trial_2	alvimopan	341	KG00101472	Gamma-glutamyltransferase increased	0.019254475831985474
+trial_2	alvimopan	199	KG00098371	Rhinitis (chronic) NOS	0.019002901390194893
+trial_2	alvimopan	400	KG00100925	Upper gastrointestinal haemorrhage	0.018803590908646584
+trial_2	alvimopan	142	KG00100923	Unspecified infectious and parasitic diseases	0.01847904361784458
+trial_2	alvimopan	183	KG00100449	Adult Respiratory Distress Syndrome	0.018453314900398254
+trial_2	alvimopan	72	KG00103771	myalgias	0.01841161586344242
+trial_2	alvimopan	456	KG00099420	Influenzae	0.018285002559423447
+trial_2	alvimopan	713	KG00107657	distressed respiratory	0.018192805349826813
+trial_2	alvimopan	262	KG00101199	agitation	0.018028415739536285
+trial_2	alvimopan	211	KG00100341	Pruritus NOS	0.018005674704909325
+trial_2	alvimopan	288	KG00101223	hypophosphataemia	0.01792006380856037

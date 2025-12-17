@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12603338062763214
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10045569390058517
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08470604568719864
+trial_1	placebo	87	KG00098599	diarrhoea	0.08457772433757782
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07606909424066544
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06771141290664673
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06429962068796158
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.062446415424346924
+trial_1	placebo	46	KG00099121	Headache NOS	0.06223339959979057
+trial_1	placebo	21	KG00098675	dyspnoea	0.060059767216444016
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05740072950720787
+trial_1	placebo	123	KG00099351	hypokalaemia	0.055238790810108185
+trial_1	placebo	20	KG00098540	dehydration	0.05509152263402939
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0523039884865284
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.047696925699710846
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.04710444435477257
+trial_1	placebo	86	KG00098565	Depression, Mental	0.045965321362018585
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.044250380247831345
+trial_1	placebo	68	KG00099901	nauseas	0.04421408101916313
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04397984966635704
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.043382469564676285
+trial_1	placebo	126	KG00100076	Pain NOS	0.04287770017981529
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04100397601723671
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04065380617976189
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03970927745103836
+trial_1	placebo	104	KG00097963	arthralgias	0.03959397226572037
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.039078738540410995
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03723349794745445
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03691847249865532
+trial_1	placebo	239	KG00100128	pareses	0.03666222468018532
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03592711687088013
+trial_1	placebo	350	KG00106765	decreased platelet count	0.035054780542850494
+trial_1	placebo	228	KG00114657	Weight below normal	0.035010725259780884
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03484860435128212
+trial_1	placebo	121	KG00099190	haemorrhage	0.03415488824248314
+trial_1	placebo	72	KG00103771	myalgias	0.03259194642305374
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03195639327168465
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03187573701143265
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03129754960536957
+trial_1	placebo	85	KG00098474	coughs	0.03071041777729988
+trial_1	placebo	114	KG00098933	fevers	0.030272861942648888
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030241873115301132
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.029825253412127495
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02972867712378502
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028944455087184906
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02853824943304062
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02757870778441429
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027491895481944084
+trial_1	placebo	116	KG00098964	Pain in foot	0.027029145509004593
+trial_1	placebo	102	KG00097916	anxieties	0.026515411213040352
+trial_1	placebo	5	KG00099169	haematuria	0.025643885135650635
+trial_1	placebo	147	KG00098000	atelectases	0.025532864034175873
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02529301866889
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024105368182063103
+trial_1	placebo	508	KG00108565	blood glucose increased	0.023184163495898247
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.022923309355974197
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.022870134562253952
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.022800786420702934
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.022402966395020485
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.022241422906517982
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02204631268978119
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021846819669008255
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021824000403285027
+trial_1	placebo	262	KG00101199	agitation	0.021778255701065063
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021613186225295067
+trial_1	placebo	282	KG00099309	hypernatraemia	0.021460440009832382
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021302178502082825
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02127182111144066
+trial_1	placebo	466	KG00101205	fall	0.02099923975765705
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.0208863765001297
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.0208367258310318
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.020649127662181854
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02007831260561943
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02006743662059307
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019684284925460815
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.019490499049425125
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01946077309548855
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01936473324894905
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019217679277062416
+trial_1	placebo	82	KG00097697	abdomen distended	0.019170667976140976
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019163522869348526
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018779631704092026
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.018744004890322685
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018742036074399948
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01843627728521824
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018332941457629204
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018072888255119324
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01800234615802765
+trial_1	placebo	100	KG00097815	alopecias	0.017835436388850212
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.017679566517472267
+trial_1	placebo	203	KG00098661	dysarthrias	0.017603252083063126
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.017356494441628456
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01733015663921833
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01723187230527401
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.017015239223837852
+trial_1	placebo	212	KG00100576	shivers	0.016965480521321297
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.016601653769612312
+trial_1	placebo	363	KG00098184	burns injury	0.016251947730779648
+trial_1	placebo	136	KG00101582	Dry;skin	0.016144024208188057
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.016119586303830147
+trial_2	allylestrenol	78	KG00099326	Hypertensive diseases	0.12603338062763214
+trial_2	allylestrenol	177	KG00099299	hyperglycaemia	0.10045569390058517
+trial_2	allylestrenol	17	KG00097991	Asthenia NOS	0.08470604568719864
+trial_2	allylestrenol	87	KG00098599	diarrhoea	0.08457772433757782
+trial_2	allylestrenol	173	KG00098172	Bronchopneumonia NOS	0.07606909424066544
+trial_2	allylestrenol	9	KG00098432	Confusion NOS	0.06771141290664673
+trial_2	allylestrenol	79	KG00100317	Insomnia, Primary	0.06429962068796158
+trial_2	allylestrenol	243	KG00100947	Micturition frequency increased	0.062446415424346924
+trial_2	allylestrenol	46	KG00099121	Headache NOS	0.06223339959979057
+trial_2	allylestrenol	21	KG00098675	dyspnoea	0.060059767216444016
+trial_2	allylestrenol	77	KG00098450	Constipation NOS	0.05740072950720787
+trial_2	allylestrenol	123	KG00099351	hypokalaemia	0.055238790810108185
+trial_2	allylestrenol	20	KG00098540	dehydration	0.05509152263402939
+trial_2	allylestrenol	67	KG00098673	Dyspepsia, NOS	0.0523039884865284
+trial_2	allylestrenol	64	KG00097734	Acrodermatitis, NOS	0.047696925699710846
+trial_2	allylestrenol	166	KG00099773	menopausal syndrome	0.04710444435477257
+trial_2	allylestrenol	86	KG00098565	Depression, Mental	0.045965321362018585
+trial_2	allylestrenol	200	KG00098539	Disorders, Deglutition	0.044250380247831345
+trial_2	allylestrenol	68	KG00099901	nauseas	0.04421408101916313
+trial_2	allylestrenol	132	KG00101045	Gain, Weight	0.04397984966635704
+trial_2	allylestrenol	37	KG00097696	Cramps, Abdominal	0.043382469564676285
+trial_2	allylestrenol	126	KG00100076	Pain NOS	0.04287770017981529
+trial_2	allylestrenol	122	KG00099321	Hypersensitivity NOS	0.04100397601723671
+trial_2	allylestrenol	28	KG00099347	hypoglycaemia	0.04065380617976189
+trial_2	allylestrenol	151	KG00098274	Infarction, Cerebral	0.03970927745103836
+trial_2	allylestrenol	104	KG00097963	arthralgias	0.03959397226572037
+trial_2	allylestrenol	189	KG00101580	Alanine aminotransferase increase	0.039078738540410995
+trial_2	allylestrenol	14	KG00097852	Anemia NOS	0.03723349794745445
+trial_2	allylestrenol	49	KG00099902	nausea with vomiting	0.03691847249865532
+trial_2	allylestrenol	239	KG00100128	pareses	0.03666222468018532
+trial_2	allylestrenol	180	KG00099363	Hypotension NOS	0.03592711687088013
+trial_2	allylestrenol	350	KG00106765	decreased platelet count	0.035054780542850494
+trial_2	allylestrenol	228	KG00114657	Weight below normal	0.035010725259780884
+trial_2	allylestrenol	29	KG00099354	hyponatraemia	0.03484860435128212
+trial_2	allylestrenol	121	KG00099190	haemorrhage	0.03415488824248314
+trial_2	allylestrenol	72	KG00103771	myalgias	0.03259194642305374
+trial_2	allylestrenol	139	KG00098855	Sinusitis, Ethmoid	0.03195639327168465
+trial_2	allylestrenol	76	KG00100450	Respiratory insufficiency, NOS	0.03187573701143265
+trial_2	allylestrenol	188	KG00101579	Aspartate aminotransferase increase	0.03129754960536957
+trial_2	allylestrenol	85	KG00098474	coughs	0.03071041777729988
+trial_2	allylestrenol	114	KG00098933	fevers	0.030272861942648888
+trial_2	allylestrenol	179	KG00099342	hypocalcaemia	0.030241873115301132
+trial_2	allylestrenol	61	KG00099501	Chronic Kidney Failure	0.029825253412127495
+trial_2	allylestrenol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02972867712378502
+trial_2	allylestrenol	27	KG00099303	hyperkalaemia	0.028944455087184906
+trial_2	allylestrenol	96	KG00101679	Unattended death NOS	0.02853824943304062
+trial_2	allylestrenol	2	KG00100772	thrombocytopaenia	0.02757870778441429
+trial_2	allylestrenol	18	KG00098307	Pain, Chest	0.027491895481944084
+trial_2	allylestrenol	116	KG00098964	Pain in foot	0.027029145509004593
+trial_2	allylestrenol	102	KG00097916	anxieties	0.026515411213040352
+trial_2	allylestrenol	5	KG00099169	haematuria	0.025643885135650635
+trial_2	allylestrenol	147	KG00098000	atelectases	0.025532864034175873
+trial_2	allylestrenol	69	KG00100082	Palpitations NOS	0.02529301866889
+trial_2	allylestrenol	38	KG00098066	Binocular vision disorders	0.024105368182063103
+trial_2	allylestrenol	508	KG00108565	blood glucose increased	0.023184163495898247
+trial_2	allylestrenol	297	KG00099294	hypercholesterolaemia	0.022923309355974197
+trial_2	allylestrenol	152	KG00099402	INCONTINENCE NOS	0.022870134562253952
+trial_2	allylestrenol	355	KG00110857	lymphocyte count decreased	0.022800786420702934
+trial_2	allylestrenol	131	KG00100948	Urinary tract infection (& [NOS])	0.022402966395020485
+trial_2	allylestrenol	36	KG00106434	Vision, Blurring Of	0.022241422906517982
+trial_2	allylestrenol	249	KG00104430	hypoalbuminaemia	0.02204631268978119
+trial_2	allylestrenol	22	KG00098705	Edema (NOS)	0.021846819669008255
+trial_2	allylestrenol	396	KG00100373	Embolism, Pulmonary	0.021824000403285027
+trial_2	allylestrenol	262	KG00101199	agitation	0.021778255701065063
+trial_2	allylestrenol	441	KG00098262	cellulitis nos	0.021613186225295067
+trial_2	allylestrenol	282	KG00099309	hypernatraemia	0.021460440009832382
+trial_2	allylestrenol	133	KG00101370	neuropathies sensory	0.021302178502082825
+trial_2	allylestrenol	221	KG00101207	peripheral oedema	0.02127182111144066
+trial_2	allylestrenol	466	KG00101205	fall	0.02099923975765705
+trial_2	allylestrenol	246	KG00103338	Aspartate Aminotransferase Measurement	0.0208863765001297
+trial_2	allylestrenol	142	KG00100923	Unspecified infectious and parasitic diseases	0.0208367258310318
+trial_2	allylestrenol	101	KG00097901	Anorexia NOS	0.020649127662181854
+trial_2	allylestrenol	194	KG00110727	Neutrophil Count Decreased	0.02007831260561943
+trial_2	allylestrenol	154	KG00099686	Lymphopenias	0.02006743662059307
+trial_2	allylestrenol	361	KG00098004	Fibrillation, Atrial	0.019684284925460815
+trial_2	allylestrenol	276	KG00099127	Arrest, Cardiac	0.019490499049425125
+trial_2	allylestrenol	75	KG00100195	Dolens, Phlegmasia Alba	0.01946077309548855
+trial_2	allylestrenol	30	KG00099500	Acute Kidney Failure	0.01936473324894905
+trial_2	allylestrenol	286	KG00101110	Retention, Urinary	0.019217679277062416
+trial_2	allylestrenol	82	KG00097697	abdomen distended	0.019170667976140976
+trial_2	allylestrenol	92	KG00100926	Infections, Upper Respiratory	0.019163522869348526
+trial_2	allylestrenol	31	KG00099872	Infarction, Myocardial	0.018779631704092026
+trial_2	allylestrenol	261	KG00101559	raised alkaline phosphatase	0.018744004890322685
+trial_2	allylestrenol	118	KG00099011	Gastritis NOS	0.018742036074399948
+trial_2	allylestrenol	35	KG00101507	hypomagnesaemia	0.01843627728521824
+trial_2	allylestrenol	211	KG00100341	Pruritus NOS	0.018332941457629204
+trial_2	allylestrenol	204	KG00098849	Esophagitis, Peptic	0.018072888255119324
+trial_2	allylestrenol	454	KG00098286	Pain, Neck	0.01800234615802765
+trial_2	allylestrenol	100	KG00097815	alopecias	0.017835436388850212
+trial_2	allylestrenol	254	KG00100774	Thrombosis NOS	0.017679566517472267
+trial_2	allylestrenol	203	KG00098661	dysarthrias	0.017603252083063126
+trial_2	allylestrenol	256	KG00100738	Tachycardia, Sinus	0.017356494441628456
+trial_2	allylestrenol	288	KG00101223	hypophosphataemia	0.01733015663921833
+trial_2	allylestrenol	191	KG00104055	Biliverdin increased	0.01723187230527401
+trial_2	allylestrenol	371	KG00098517	Cystitis (NOS)	0.017015239223837852
+trial_2	allylestrenol	212	KG00100576	shivers	0.016965480521321297
+trial_2	allylestrenol	195	KG00097814	Atopic Rhinitis	0.016601653769612312
+trial_2	allylestrenol	363	KG00098184	burns injury	0.016251947730779648
+trial_2	allylestrenol	136	KG00101582	Dry;skin	0.016144024208188057
+trial_2	allylestrenol	253	KG00100232	Pleural effusion NOS (disorder)	0.016119586303830147

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11534997075796127
+trial_1	placebo	87	KG00098599	diarrhoea	0.0973004549741745
+trial_1	placebo	9	KG00098432	Confusion NOS	0.080112025141716
+trial_1	placebo	46	KG00099121	Headache NOS	0.060142192989587784
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0593799464404583
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05644725263118744
+trial_1	placebo	21	KG00098675	dyspnoea	0.05526586249470711
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05357906222343445
+trial_1	placebo	123	KG00099351	hypokalaemia	0.053549911826848984
+trial_1	placebo	20	KG00098540	dehydration	0.04752882197499275
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04709310829639435
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04257297143340111
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04201938211917877
+trial_1	placebo	85	KG00098474	coughs	0.039739061146974564
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03801475465297699
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03636708855628967
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035045355558395386
+trial_1	placebo	68	KG00099901	nauseas	0.0345841608941555
+trial_1	placebo	18	KG00098307	Pain, Chest	0.034515753388404846
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03379783779382706
+trial_1	placebo	126	KG00100076	Pain NOS	0.03371090069413185
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.033183518797159195
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03200073540210724
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.031779009848833084
+trial_1	placebo	14	KG00097852	Anemia NOS	0.029695112258195877
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02915310673415661
+trial_1	placebo	104	KG00097963	arthralgias	0.028926704078912735
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02838507480919361
+trial_1	placebo	228	KG00114657	Weight below normal	0.027731170877814293
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02690500020980835
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02643078938126564
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026237746700644493
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.025074239820241928
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.024970119819045067
+trial_1	placebo	300	KG00101064	xerostomia	0.024859782308340073
+trial_1	placebo	114	KG00098933	fevers	0.024581031873822212
+trial_1	placebo	29	KG00099354	hyponatraemia	0.024485090747475624
+trial_1	placebo	5	KG00099169	haematuria	0.02414225973188877
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.023861508816480637
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02347361110150814
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02340380847454071
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023197432979941368
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022915899753570557
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02283131144940853
+trial_1	placebo	121	KG00099190	haemorrhage	0.02234114706516266
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02215799130499363
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022155124694108963
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02198473922908306
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.021863823756575584
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.021714694797992706
+trial_1	placebo	350	KG00106765	decreased platelet count	0.021360423415899277
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021124856546521187
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020782770588994026
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020636338740587234
+trial_1	placebo	147	KG00098000	atelectases	0.02017868496477604
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.020065225660800934
+trial_1	placebo	136	KG00101582	Dry;skin	0.02006441354751587
+trial_1	placebo	164	KG00108827	ileus colon	0.019926991313695908
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.019770784303545952
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01971147023141384
+trial_1	placebo	132	KG00101045	Gain, Weight	0.01962193101644516
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01950090564787388
+trial_1	placebo	239	KG00100128	pareses	0.01941434107720852
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019254526123404503
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018877046182751656
+trial_1	placebo	116	KG00098964	Pain in foot	0.0186148788779974
+trial_1	placebo	269	KG00100399	pyaemia	0.018216829746961594
+trial_1	placebo	102	KG00097916	anxieties	0.018054911866784096
+trial_1	placebo	82	KG00097697	abdomen distended	0.017912689596414566
+trial_1	placebo	11	KG00097993	Asthma NOS	0.017784612253308296
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01776846870779991
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01760946214199066
+trial_1	placebo	382	KG00099200	haemorrhoids	0.017547907307744026
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01689535565674305
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01689278893172741
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.016776850447058678
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016680510714650154
+trial_1	placebo	456	KG00099420	Influenzae	0.016490595415234566
+trial_1	placebo	72	KG00103771	myalgias	0.016422607004642487
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016168976202607155
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.015875892713665962
+trial_1	placebo	25	KG00099134	congestive failures heart	0.015874171629548073
+trial_1	placebo	234	KG00098669	dysgeusias	0.01577097363770008
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.015431447885930538
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.015333977527916431
+trial_1	placebo	221	KG00101207	peripheral oedema	0.015129057690501213
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014822893775999546
+trial_1	placebo	4	KG00098817	epistaxis	0.014820240437984467
+trial_1	placebo	339	KG00100334	proteinurias	0.014742349274456501
+trial_1	placebo	508	KG00108565	blood glucose increased	0.014684661291539669
+trial_1	placebo	186	KG00101431	creatinine increased	0.014508536085486412
+trial_1	placebo	454	KG00098286	Pain, Neck	0.014435065910220146
+trial_1	placebo	203	KG00098661	dysarthrias	0.014357326552271843
+trial_1	placebo	466	KG00101205	fall	0.014155101962387562
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.014049822464585304
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01388039905577898
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.013849508948624134
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.013803624548017979
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01358202937990427
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.013552806340157986
+trial_2	alfuzosin	78	KG00099326	Hypertensive diseases	0.11534997075796127
+trial_2	alfuzosin	87	KG00098599	diarrhoea	0.0973004549741745
+trial_2	alfuzosin	9	KG00098432	Confusion NOS	0.080112025141716
+trial_2	alfuzosin	46	KG00099121	Headache NOS	0.060142192989587784
+trial_2	alfuzosin	17	KG00097991	Asthenia NOS	0.0593799464404583
+trial_2	alfuzosin	173	KG00098172	Bronchopneumonia NOS	0.05644725263118744
+trial_2	alfuzosin	21	KG00098675	dyspnoea	0.05526586249470711
+trial_2	alfuzosin	67	KG00098673	Dyspepsia, NOS	0.05357906222343445
+trial_2	alfuzosin	123	KG00099351	hypokalaemia	0.053549911826848984
+trial_2	alfuzosin	20	KG00098540	dehydration	0.04752882197499275
+trial_2	alfuzosin	79	KG00100317	Insomnia, Primary	0.04709310829639435
+trial_2	alfuzosin	177	KG00099299	hyperglycaemia	0.04257297143340111
+trial_2	alfuzosin	151	KG00098274	Infarction, Cerebral	0.04201938211917877
+trial_2	alfuzosin	85	KG00098474	coughs	0.039739061146974564
+trial_2	alfuzosin	37	KG00097696	Cramps, Abdominal	0.03801475465297699
+trial_2	alfuzosin	77	KG00098450	Constipation NOS	0.03636708855628967
+trial_2	alfuzosin	200	KG00098539	Disorders, Deglutition	0.035045355558395386
+trial_2	alfuzosin	68	KG00099901	nauseas	0.0345841608941555
+trial_2	alfuzosin	18	KG00098307	Pain, Chest	0.034515753388404846
+trial_2	alfuzosin	243	KG00100947	Micturition frequency increased	0.03379783779382706
+trial_2	alfuzosin	126	KG00100076	Pain NOS	0.03371090069413185
+trial_2	alfuzosin	180	KG00099363	Hypotension NOS	0.033183518797159195
+trial_2	alfuzosin	64	KG00097734	Acrodermatitis, NOS	0.03200073540210724
+trial_2	alfuzosin	61	KG00099501	Chronic Kidney Failure	0.031779009848833084
+trial_2	alfuzosin	14	KG00097852	Anemia NOS	0.029695112258195877
+trial_2	alfuzosin	49	KG00099902	nausea with vomiting	0.02915310673415661
+trial_2	alfuzosin	104	KG00097963	arthralgias	0.028926704078912735
+trial_2	alfuzosin	86	KG00098565	Depression, Mental	0.02838507480919361
+trial_2	alfuzosin	228	KG00114657	Weight below normal	0.027731170877814293
+trial_2	alfuzosin	189	KG00101580	Alanine aminotransferase increase	0.02690500020980835
+trial_2	alfuzosin	396	KG00100373	Embolism, Pulmonary	0.02643078938126564
+trial_2	alfuzosin	30	KG00099500	Acute Kidney Failure	0.026237746700644493
+trial_2	alfuzosin	96	KG00101679	Unattended death NOS	0.025074239820241928
+trial_2	alfuzosin	76	KG00100450	Respiratory insufficiency, NOS	0.024970119819045067
+trial_2	alfuzosin	300	KG00101064	xerostomia	0.024859782308340073
+trial_2	alfuzosin	114	KG00098933	fevers	0.024581031873822212
+trial_2	alfuzosin	29	KG00099354	hyponatraemia	0.024485090747475624
+trial_2	alfuzosin	5	KG00099169	haematuria	0.02414225973188877
+trial_2	alfuzosin	188	KG00101579	Aspartate aminotransferase increase	0.023861508816480637
+trial_2	alfuzosin	131	KG00100948	Urinary tract infection (& [NOS])	0.02347361110150814
+trial_2	alfuzosin	286	KG00101110	Retention, Urinary	0.02340380847454071
+trial_2	alfuzosin	276	KG00099127	Arrest, Cardiac	0.023197432979941368
+trial_2	alfuzosin	31	KG00099872	Infarction, Myocardial	0.022915899753570557
+trial_2	alfuzosin	36	KG00106434	Vision, Blurring Of	0.02283131144940853
+trial_2	alfuzosin	121	KG00099190	haemorrhage	0.02234114706516266
+trial_2	alfuzosin	69	KG00100082	Palpitations NOS	0.02215799130499363
+trial_2	alfuzosin	361	KG00098004	Fibrillation, Atrial	0.022155124694108963
+trial_2	alfuzosin	139	KG00098855	Sinusitis, Ethmoid	0.02198473922908306
+trial_2	alfuzosin	138	KG00098796	epidemic vomiting syndrome	0.021863823756575584
+trial_2	alfuzosin	166	KG00099773	menopausal syndrome	0.021714694797992706
+trial_2	alfuzosin	350	KG00106765	decreased platelet count	0.021360423415899277
+trial_2	alfuzosin	15	KG00097882	Angina pectoris NOS	0.021124856546521187
+trial_2	alfuzosin	122	KG00099321	Hypersensitivity NOS	0.020782770588994026
+trial_2	alfuzosin	142	KG00100923	Unspecified infectious and parasitic diseases	0.020636338740587234
+trial_2	alfuzosin	147	KG00098000	atelectases	0.02017868496477604
+trial_2	alfuzosin	101	KG00097901	Anorexia NOS	0.020065225660800934
+trial_2	alfuzosin	136	KG00101582	Dry;skin	0.02006441354751587
+trial_2	alfuzosin	164	KG00108827	ileus colon	0.019926991313695908
+trial_2	alfuzosin	28	KG00099347	hypoglycaemia	0.019770784303545952
+trial_2	alfuzosin	38	KG00098066	Binocular vision disorders	0.01971147023141384
+trial_2	alfuzosin	132	KG00101045	Gain, Weight	0.01962193101644516
+trial_2	alfuzosin	441	KG00098262	cellulitis nos	0.01950090564787388
+trial_2	alfuzosin	239	KG00100128	pareses	0.01941434107720852
+trial_2	alfuzosin	199	KG00098371	Rhinitis (chronic) NOS	0.019254526123404503
+trial_2	alfuzosin	204	KG00098849	Esophagitis, Peptic	0.018877046182751656
+trial_2	alfuzosin	116	KG00098964	Pain in foot	0.0186148788779974
+trial_2	alfuzosin	269	KG00100399	pyaemia	0.018216829746961594
+trial_2	alfuzosin	102	KG00097916	anxieties	0.018054911866784096
+trial_2	alfuzosin	82	KG00097697	abdomen distended	0.017912689596414566
+trial_2	alfuzosin	11	KG00097993	Asthma NOS	0.017784612253308296
+trial_2	alfuzosin	118	KG00099011	Gastritis NOS	0.01776846870779991
+trial_2	alfuzosin	75	KG00100195	Dolens, Phlegmasia Alba	0.01760946214199066
+trial_2	alfuzosin	382	KG00099200	haemorrhoids	0.017547907307744026
+trial_2	alfuzosin	191	KG00104055	Biliverdin increased	0.01689535565674305
+trial_2	alfuzosin	27	KG00099303	hyperkalaemia	0.01689278893172741
+trial_2	alfuzosin	2	KG00100772	thrombocytopaenia	0.016776850447058678
+trial_2	alfuzosin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016680510714650154
+trial_2	alfuzosin	456	KG00099420	Influenzae	0.016490595415234566
+trial_2	alfuzosin	72	KG00103771	myalgias	0.016422607004642487
+trial_2	alfuzosin	22	KG00098705	Edema (NOS)	0.016168976202607155
+trial_2	alfuzosin	235	KG00098682	Dysuria NOS	0.015875892713665962
+trial_2	alfuzosin	25	KG00099134	congestive failures heart	0.015874171629548073
+trial_2	alfuzosin	234	KG00098669	dysgeusias	0.01577097363770008
+trial_2	alfuzosin	130	KG00100683	Stomatitis NOS	0.015431447885930538
+trial_2	alfuzosin	371	KG00098517	Cystitis (NOS)	0.015333977527916431
+trial_2	alfuzosin	221	KG00101207	peripheral oedema	0.015129057690501213
+trial_2	alfuzosin	261	KG00101559	raised alkaline phosphatase	0.014822893775999546
+trial_2	alfuzosin	4	KG00098817	epistaxis	0.014820240437984467
+trial_2	alfuzosin	339	KG00100334	proteinurias	0.014742349274456501
+trial_2	alfuzosin	508	KG00108565	blood glucose increased	0.014684661291539669
+trial_2	alfuzosin	186	KG00101431	creatinine increased	0.014508536085486412
+trial_2	alfuzosin	454	KG00098286	Pain, Neck	0.014435065910220146
+trial_2	alfuzosin	203	KG00098661	dysarthrias	0.014357326552271843
+trial_2	alfuzosin	466	KG00101205	fall	0.014155101962387562
+trial_2	alfuzosin	211	KG00100341	Pruritus NOS	0.014049822464585304
+trial_2	alfuzosin	35	KG00101507	hypomagnesaemia	0.01388039905577898
+trial_2	alfuzosin	94	KG00103829	abdominal discomfort	0.013849508948624134
+trial_2	alfuzosin	356	KG00112623	Infectious Lung Disorders	0.013803624548017979
+trial_2	alfuzosin	253	KG00100232	Pleural effusion NOS (disorder)	0.01358202937990427
+trial_2	alfuzosin	271	KG00103813	reflex bradycardia	0.013552806340157986

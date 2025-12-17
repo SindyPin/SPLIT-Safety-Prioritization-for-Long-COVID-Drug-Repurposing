@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15676629543304443
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13186688721179962
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11820385605096817
+trial_1	placebo	87	KG00098599	diarrhoea	0.1180160716176033
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09016848355531693
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08627726137638092
+trial_1	placebo	21	KG00098675	dyspnoea	0.07832138985395432
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07676982134580612
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07492001354694366
+trial_1	placebo	46	KG00099121	Headache NOS	0.07334033399820328
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07275170087814331
+trial_1	placebo	20	KG00098540	dehydration	0.0700216293334961
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0684371069073677
+trial_1	placebo	228	KG00114657	Weight below normal	0.06712061911821365
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06487485021352768
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06146622821688652
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.060298267751932144
+trial_1	placebo	68	KG00099901	nauseas	0.057320233434438705
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.057216156274080276
+trial_1	placebo	29	KG00099354	hyponatraemia	0.056840620934963226
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0534590408205986
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05343849956989288
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05269991606473923
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05149576812982559
+trial_1	placebo	85	KG00098474	coughs	0.05097847804427147
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05040227994322777
+trial_1	placebo	104	KG00097963	arthralgias	0.05022718012332916
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04856967553496361
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04661675915122032
+trial_1	placebo	126	KG00100076	Pain NOS	0.04586051404476166
+trial_1	placebo	114	KG00098933	fevers	0.04454224556684494
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04310533031821251
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04240674152970314
+trial_1	placebo	239	KG00100128	pareses	0.04180701822042465
+trial_1	placebo	350	KG00106765	decreased platelet count	0.041343048214912415
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.040914397686719894
+trial_1	placebo	262	KG00101199	agitation	0.03940387815237045
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.038861263543367386
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03864610940217972
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.036978211253881454
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0356968492269516
+trial_1	placebo	102	KG00097916	anxieties	0.035690873861312866
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0353083610534668
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03512963280081749
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.034574564546346664
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03323080390691757
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03259490802884102
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.032193996012210846
+trial_1	placebo	5	KG00099169	haematuria	0.03207675740122795
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0315345861017704
+trial_1	placebo	147	KG00098000	atelectases	0.031158389523625374
+trial_1	placebo	466	KG00101205	fall	0.030801283195614815
+trial_1	placebo	116	KG00098964	Pain in foot	0.030216192826628685
+trial_1	placebo	72	KG00103771	myalgias	0.029660126194357872
+trial_1	placebo	242	KG00100855	tremors	0.029606375843286514
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.029548006132245064
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029149027541279793
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028708666563034058
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027738332748413086
+trial_1	placebo	269	KG00100399	pyaemia	0.02754337340593338
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027351349592208862
+trial_1	placebo	121	KG00099190	haemorrhage	0.027095485478639603
+trial_1	placebo	66	KG00098642	drowsiness	0.02706478163599968
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026698198169469833
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026696207001805305
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026549970731139183
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02553572505712509
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02550116367638111
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02538730390369892
+trial_1	placebo	11	KG00097993	Asthma NOS	0.024564122781157494
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024321187287569046
+trial_1	placebo	441	KG00098262	cellulitis nos	0.024250894784927368
+trial_1	placebo	136	KG00101582	Dry;skin	0.02388979122042656
+trial_1	placebo	234	KG00098669	dysgeusias	0.023834412917494774
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.023410353809595108
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023399237543344498
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02308926358819008
+trial_1	placebo	339	KG00100334	proteinurias	0.023040521889925003
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02300676889717579
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02300354279577732
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.022658169269561768
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022408774122595787
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02240491844713688
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022369541227817535
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.022341590374708176
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.022179285064339638
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022154921665787697
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02214372344315052
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.021598806604743004
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021583469584584236
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02152588590979576
+trial_1	placebo	345	KG00103926	impairments memory	0.021459639072418213
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021124865859746933
+trial_1	placebo	82	KG00097697	abdomen distended	0.021058298647403717
+trial_1	placebo	456	KG00099420	Influenzae	0.02101297117769718
+trial_1	placebo	300	KG00101064	xerostomia	0.020859314128756523
+trial_1	placebo	153	KG00099579	lethargy	0.020297685638070107
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.020294466987252235
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.020189322531223297
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02016674354672432
+trial_2	amobarbital	78	KG00099326	Hypertensive diseases	0.15676629543304443
+trial_2	amobarbital	9	KG00098432	Confusion NOS	0.13186688721179962
+trial_2	amobarbital	17	KG00097991	Asthenia NOS	0.11820385605096817
+trial_2	amobarbital	87	KG00098599	diarrhoea	0.1180160716176033
+trial_2	amobarbital	177	KG00099299	hyperglycaemia	0.09016848355531693
+trial_2	amobarbital	173	KG00098172	Bronchopneumonia NOS	0.08627726137638092
+trial_2	amobarbital	21	KG00098675	dyspnoea	0.07832138985395432
+trial_2	amobarbital	64	KG00097734	Acrodermatitis, NOS	0.07676982134580612
+trial_2	amobarbital	79	KG00100317	Insomnia, Primary	0.07492001354694366
+trial_2	amobarbital	46	KG00099121	Headache NOS	0.07334033399820328
+trial_2	amobarbital	189	KG00101580	Alanine aminotransferase increase	0.07275170087814331
+trial_2	amobarbital	20	KG00098540	dehydration	0.0700216293334961
+trial_2	amobarbital	123	KG00099351	hypokalaemia	0.0684371069073677
+trial_2	amobarbital	228	KG00114657	Weight below normal	0.06712061911821365
+trial_2	amobarbital	77	KG00098450	Constipation NOS	0.06487485021352768
+trial_2	amobarbital	188	KG00101579	Aspartate aminotransferase increase	0.06146622821688652
+trial_2	amobarbital	200	KG00098539	Disorders, Deglutition	0.060298267751932144
+trial_2	amobarbital	68	KG00099901	nauseas	0.057320233434438705
+trial_2	amobarbital	49	KG00099902	nausea with vomiting	0.057216156274080276
+trial_2	amobarbital	29	KG00099354	hyponatraemia	0.056840620934963226
+trial_2	amobarbital	151	KG00098274	Infarction, Cerebral	0.0534590408205986
+trial_2	amobarbital	37	KG00097696	Cramps, Abdominal	0.05343849956989288
+trial_2	amobarbital	67	KG00098673	Dyspepsia, NOS	0.05269991606473923
+trial_2	amobarbital	132	KG00101045	Gain, Weight	0.05149576812982559
+trial_2	amobarbital	85	KG00098474	coughs	0.05097847804427147
+trial_2	amobarbital	86	KG00098565	Depression, Mental	0.05040227994322777
+trial_2	amobarbital	104	KG00097963	arthralgias	0.05022718012332916
+trial_2	amobarbital	14	KG00097852	Anemia NOS	0.04856967553496361
+trial_2	amobarbital	76	KG00100450	Respiratory insufficiency, NOS	0.04661675915122032
+trial_2	amobarbital	126	KG00100076	Pain NOS	0.04586051404476166
+trial_2	amobarbital	114	KG00098933	fevers	0.04454224556684494
+trial_2	amobarbital	28	KG00099347	hypoglycaemia	0.04310533031821251
+trial_2	amobarbital	180	KG00099363	Hypotension NOS	0.04240674152970314
+trial_2	amobarbital	239	KG00100128	pareses	0.04180701822042465
+trial_2	amobarbital	350	KG00106765	decreased platelet count	0.041343048214912415
+trial_2	amobarbital	243	KG00100947	Micturition frequency increased	0.040914397686719894
+trial_2	amobarbital	262	KG00101199	agitation	0.03940387815237045
+trial_2	amobarbital	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.038861263543367386
+trial_2	amobarbital	61	KG00099501	Chronic Kidney Failure	0.03864610940217972
+trial_2	amobarbital	2	KG00100772	thrombocytopaenia	0.036978211253881454
+trial_2	amobarbital	101	KG00097901	Anorexia NOS	0.0356968492269516
+trial_2	amobarbital	102	KG00097916	anxieties	0.035690873861312866
+trial_2	amobarbital	96	KG00101679	Unattended death NOS	0.0353083610534668
+trial_2	amobarbital	179	KG00099342	hypocalcaemia	0.03512963280081749
+trial_2	amobarbital	131	KG00100948	Urinary tract infection (& [NOS])	0.034574564546346664
+trial_2	amobarbital	122	KG00099321	Hypersensitivity NOS	0.03323080390691757
+trial_2	amobarbital	30	KG00099500	Acute Kidney Failure	0.03259490802884102
+trial_2	amobarbital	27	KG00099303	hyperkalaemia	0.032193996012210846
+trial_2	amobarbital	5	KG00099169	haematuria	0.03207675740122795
+trial_2	amobarbital	139	KG00098855	Sinusitis, Ethmoid	0.0315345861017704
+trial_2	amobarbital	147	KG00098000	atelectases	0.031158389523625374
+trial_2	amobarbital	466	KG00101205	fall	0.030801283195614815
+trial_2	amobarbital	116	KG00098964	Pain in foot	0.030216192826628685
+trial_2	amobarbital	72	KG00103771	myalgias	0.029660126194357872
+trial_2	amobarbital	242	KG00100855	tremors	0.029606375843286514
+trial_2	amobarbital	38	KG00098066	Binocular vision disorders	0.029548006132245064
+trial_2	amobarbital	194	KG00110727	Neutrophil Count Decreased	0.029149027541279793
+trial_2	amobarbital	36	KG00106434	Vision, Blurring Of	0.028708666563034058
+trial_2	amobarbital	355	KG00110857	lymphocyte count decreased	0.027738332748413086
+trial_2	amobarbital	269	KG00100399	pyaemia	0.02754337340593338
+trial_2	amobarbital	18	KG00098307	Pain, Chest	0.027351349592208862
+trial_2	amobarbital	121	KG00099190	haemorrhage	0.027095485478639603
+trial_2	amobarbital	66	KG00098642	drowsiness	0.02706478163599968
+trial_2	amobarbital	211	KG00100341	Pruritus NOS	0.026698198169469833
+trial_2	amobarbital	396	KG00100373	Embolism, Pulmonary	0.026696207001805305
+trial_2	amobarbital	261	KG00101559	raised alkaline phosphatase	0.026549970731139183
+trial_2	amobarbital	69	KG00100082	Palpitations NOS	0.02553572505712509
+trial_2	amobarbital	282	KG00099309	hypernatraemia	0.02550116367638111
+trial_2	amobarbital	142	KG00100923	Unspecified infectious and parasitic diseases	0.02538730390369892
+trial_2	amobarbital	11	KG00097993	Asthma NOS	0.024564122781157494
+trial_2	amobarbital	154	KG00099686	Lymphopenias	0.024321187287569046
+trial_2	amobarbital	441	KG00098262	cellulitis nos	0.024250894784927368
+trial_2	amobarbital	136	KG00101582	Dry;skin	0.02388979122042656
+trial_2	amobarbital	234	KG00098669	dysgeusias	0.023834412917494774
+trial_2	amobarbital	249	KG00104430	hypoalbuminaemia	0.023410353809595108
+trial_2	amobarbital	276	KG00099127	Arrest, Cardiac	0.023399237543344498
+trial_2	amobarbital	130	KG00100683	Stomatitis NOS	0.02308926358819008
+trial_2	amobarbital	339	KG00100334	proteinurias	0.023040521889925003
+trial_2	amobarbital	422	KG00101429	Creatine phosphokinase increased	0.02300676889717579
+trial_2	amobarbital	92	KG00100926	Infections, Upper Respiratory	0.02300354279577732
+trial_2	amobarbital	297	KG00099294	hypercholesterolaemia	0.022658169269561768
+trial_2	amobarbital	191	KG00104055	Biliverdin increased	0.022408774122595787
+trial_2	amobarbital	361	KG00098004	Fibrillation, Atrial	0.02240491844713688
+trial_2	amobarbital	166	KG00099773	menopausal syndrome	0.022369541227817535
+trial_2	amobarbital	199	KG00098371	Rhinitis (chronic) NOS	0.022341590374708176
+trial_2	amobarbital	15	KG00097882	Angina pectoris NOS	0.022179285064339638
+trial_2	amobarbital	144	KG00099610	Leukopenia NOS	0.022154921665787697
+trial_2	amobarbital	221	KG00101207	peripheral oedema	0.02214372344315052
+trial_2	amobarbital	341	KG00101472	Gamma-glutamyltransferase increased	0.021598806604743004
+trial_2	amobarbital	98	KG00097718	Incised wound, NOS	0.021583469584584236
+trial_2	amobarbital	31	KG00099872	Infarction, Myocardial	0.02152588590979576
+trial_2	amobarbital	345	KG00103926	impairments memory	0.021459639072418213
+trial_2	amobarbital	508	KG00108565	blood glucose increased	0.021124865859746933
+trial_2	amobarbital	82	KG00097697	abdomen distended	0.021058298647403717
+trial_2	amobarbital	456	KG00099420	Influenzae	0.02101297117769718
+trial_2	amobarbital	300	KG00101064	xerostomia	0.020859314128756523
+trial_2	amobarbital	153	KG00099579	lethargy	0.020297685638070107
+trial_2	amobarbital	232	KG00097997	Ataxia NOS	0.020294466987252235
+trial_2	amobarbital	253	KG00100232	Pleural effusion NOS (disorder)	0.020189322531223297
+trial_2	amobarbital	152	KG00099402	INCONTINENCE NOS	0.02016674354672432

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1094076931476593
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09603780508041382
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09188070148229599
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06848473846912384
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06504857540130615
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06445224583148956
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05240684002637863
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05227929353713989
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05145549401640892
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.049583256244659424
+trial_1	placebo	46	KG00099121	Headache NOS	0.049334101378917694
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04880606383085251
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04847147688269615
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.048359621316194534
+trial_1	placebo	68	KG00099901	nauseas	0.047883156687021255
+trial_1	placebo	21	KG00098675	dyspnoea	0.04749840497970581
+trial_1	placebo	20	KG00098540	dehydration	0.045972924679517746
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04471918195486069
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04356395825743675
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04226675257086754
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04167582839727402
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04103197902441025
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03912224620580673
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0374850258231163
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0369853675365448
+trial_1	placebo	147	KG00098000	atelectases	0.03605327382683754
+trial_1	placebo	269	KG00100399	pyaemia	0.0359518900513649
+trial_1	placebo	114	KG00098933	fevers	0.03564447537064552
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03550548851490021
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03345898538827896
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03242892399430275
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03141947090625763
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03038172796368599
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03017685003578663
+trial_1	placebo	126	KG00100076	Pain NOS	0.029205596074461937
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.028643714264035225
+trial_1	placebo	228	KG00114657	Weight below normal	0.02838645502924919
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.0283771064132452
+trial_1	placebo	85	KG00098474	coughs	0.027866244316101074
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027665983885526657
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.027614165097475052
+trial_1	placebo	5	KG00099169	haematuria	0.02599085308611393
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.025504056364297867
+trial_1	placebo	234	KG00098669	dysgeusias	0.0252055823802948
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023999491706490517
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023705141618847847
+trial_1	placebo	121	KG00099190	haemorrhage	0.02341855876147747
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.023228246718645096
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02304970473051071
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022109324112534523
+trial_1	placebo	104	KG00097963	arthralgias	0.021930016577243805
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021748440340161324
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021738745272159576
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021597934886813164
+trial_1	placebo	86	KG00098565	Depression, Mental	0.020810170099139214
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.020685546100139618
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020685357972979546
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.020085353404283524
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01991831324994564
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01968957670032978
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019674666225910187
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019644999876618385
+trial_1	placebo	186	KG00101431	creatinine increased	0.019151315093040466
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01867460459470749
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018482767045497894
+trial_1	placebo	164	KG00108827	ileus colon	0.0183872040361166
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018296124413609505
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.018216008320450783
+trial_1	placebo	441	KG00098262	cellulitis nos	0.017858872190117836
+trial_1	placebo	72	KG00103771	myalgias	0.017276333644986153
+trial_1	placebo	132	KG00101045	Gain, Weight	0.01706133410334587
+trial_1	placebo	239	KG00100128	pareses	0.016767878085374832
+trial_1	placebo	82	KG00097697	abdomen distended	0.016613513231277466
+trial_1	placebo	262	KG00101199	agitation	0.016274498775601387
+trial_1	placebo	221	KG00101207	peripheral oedema	0.015687892213463783
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.015584392473101616
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.01548858918249607
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01548435166478157
+trial_1	placebo	339	KG00100334	proteinurias	0.015299621969461441
+trial_1	placebo	282	KG00099309	hypernatraemia	0.014752007089555264
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014701339416205883
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014390929602086544
+trial_1	placebo	4	KG00098817	epistaxis	0.01437748409807682
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.014290394261479378
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.013998208567500114
+trial_1	placebo	11	KG00097993	Asthma NOS	0.013920746743679047
+trial_1	placebo	116	KG00098964	Pain in foot	0.013822488486766815
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.013747414574027061
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.013677270151674747
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013649899512529373
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.013276091776788235
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.013176767155528069
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.013079565949738026
+trial_1	placebo	154	KG00099686	Lymphopenias	0.013076352886855602
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01303438376635313
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.012978379614651203
+trial_1	placebo	102	KG00097916	anxieties	0.012741523794829845
+trial_1	placebo	503	KG00102612	low haemoglobin	0.01262321975082159
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.012417894788086414
+trial_1	placebo	713	KG00107657	distressed respiratory	0.012321746908128262
+trial_2	ampicillin	87	KG00098599	diarrhoea	0.1094076931476593
+trial_2	ampicillin	78	KG00099326	Hypertensive diseases	0.09603780508041382
+trial_2	ampicillin	9	KG00098432	Confusion NOS	0.09188070148229599
+trial_2	ampicillin	123	KG00099351	hypokalaemia	0.06848473846912384
+trial_2	ampicillin	177	KG00099299	hyperglycaemia	0.06504857540130615
+trial_2	ampicillin	173	KG00098172	Bronchopneumonia NOS	0.06445224583148956
+trial_2	ampicillin	61	KG00099501	Chronic Kidney Failure	0.05240684002637863
+trial_2	ampicillin	17	KG00097991	Asthenia NOS	0.05227929353713989
+trial_2	ampicillin	14	KG00097852	Anemia NOS	0.05145549401640892
+trial_2	ampicillin	189	KG00101580	Alanine aminotransferase increase	0.049583256244659424
+trial_2	ampicillin	46	KG00099121	Headache NOS	0.049334101378917694
+trial_2	ampicillin	37	KG00097696	Cramps, Abdominal	0.04880606383085251
+trial_2	ampicillin	2	KG00100772	thrombocytopaenia	0.04847147688269615
+trial_2	ampicillin	151	KG00098274	Infarction, Cerebral	0.048359621316194534
+trial_2	ampicillin	68	KG00099901	nauseas	0.047883156687021255
+trial_2	ampicillin	21	KG00098675	dyspnoea	0.04749840497970581
+trial_2	ampicillin	20	KG00098540	dehydration	0.045972924679517746
+trial_2	ampicillin	49	KG00099902	nausea with vomiting	0.04471918195486069
+trial_2	ampicillin	188	KG00101579	Aspartate aminotransferase increase	0.04356395825743675
+trial_2	ampicillin	76	KG00100450	Respiratory insufficiency, NOS	0.04226675257086754
+trial_2	ampicillin	64	KG00097734	Acrodermatitis, NOS	0.04167582839727402
+trial_2	ampicillin	77	KG00098450	Constipation NOS	0.04103197902441025
+trial_2	ampicillin	180	KG00099363	Hypotension NOS	0.03912224620580673
+trial_2	ampicillin	350	KG00106765	decreased platelet count	0.0374850258231163
+trial_2	ampicillin	29	KG00099354	hyponatraemia	0.0369853675365448
+trial_2	ampicillin	147	KG00098000	atelectases	0.03605327382683754
+trial_2	ampicillin	269	KG00100399	pyaemia	0.0359518900513649
+trial_2	ampicillin	114	KG00098933	fevers	0.03564447537064552
+trial_2	ampicillin	30	KG00099500	Acute Kidney Failure	0.03550548851490021
+trial_2	ampicillin	200	KG00098539	Disorders, Deglutition	0.03345898538827896
+trial_2	ampicillin	28	KG00099347	hypoglycaemia	0.03242892399430275
+trial_2	ampicillin	276	KG00099127	Arrest, Cardiac	0.03141947090625763
+trial_2	ampicillin	67	KG00098673	Dyspepsia, NOS	0.03038172796368599
+trial_2	ampicillin	96	KG00101679	Unattended death NOS	0.03017685003578663
+trial_2	ampicillin	126	KG00100076	Pain NOS	0.029205596074461937
+trial_2	ampicillin	79	KG00100317	Insomnia, Primary	0.028643714264035225
+trial_2	ampicillin	228	KG00114657	Weight below normal	0.02838645502924919
+trial_2	ampicillin	142	KG00100923	Unspecified infectious and parasitic diseases	0.0283771064132452
+trial_2	ampicillin	85	KG00098474	coughs	0.027866244316101074
+trial_2	ampicillin	396	KG00100373	Embolism, Pulmonary	0.027665983885526657
+trial_2	ampicillin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.027614165097475052
+trial_2	ampicillin	5	KG00099169	haematuria	0.02599085308611393
+trial_2	ampicillin	179	KG00099342	hypocalcaemia	0.025504056364297867
+trial_2	ampicillin	234	KG00098669	dysgeusias	0.0252055823802948
+trial_2	ampicillin	130	KG00100683	Stomatitis NOS	0.023999491706490517
+trial_2	ampicillin	131	KG00100948	Urinary tract infection (& [NOS])	0.023705141618847847
+trial_2	ampicillin	121	KG00099190	haemorrhage	0.02341855876147747
+trial_2	ampicillin	27	KG00099303	hyperkalaemia	0.023228246718645096
+trial_2	ampicillin	243	KG00100947	Micturition frequency increased	0.02304970473051071
+trial_2	ampicillin	144	KG00099610	Leukopenia NOS	0.022109324112534523
+trial_2	ampicillin	104	KG00097963	arthralgias	0.021930016577243805
+trial_2	ampicillin	249	KG00104430	hypoalbuminaemia	0.021748440340161324
+trial_2	ampicillin	31	KG00099872	Infarction, Myocardial	0.021738745272159576
+trial_2	ampicillin	75	KG00100195	Dolens, Phlegmasia Alba	0.021597934886813164
+trial_2	ampicillin	86	KG00098565	Depression, Mental	0.020810170099139214
+trial_2	ampicillin	194	KG00110727	Neutrophil Count Decreased	0.020685546100139618
+trial_2	ampicillin	361	KG00098004	Fibrillation, Atrial	0.020685357972979546
+trial_2	ampicillin	35	KG00101507	hypomagnesaemia	0.020085353404283524
+trial_2	ampicillin	1	KG00099959	Neutropenia NOS	0.01991831324994564
+trial_2	ampicillin	101	KG00097901	Anorexia NOS	0.01968957670032978
+trial_2	ampicillin	191	KG00104055	Biliverdin increased	0.019674666225910187
+trial_2	ampicillin	261	KG00101559	raised alkaline phosphatase	0.019644999876618385
+trial_2	ampicillin	186	KG00101431	creatinine increased	0.019151315093040466
+trial_2	ampicillin	18	KG00098307	Pain, Chest	0.01867460459470749
+trial_2	ampicillin	253	KG00100232	Pleural effusion NOS (disorder)	0.018482767045497894
+trial_2	ampicillin	164	KG00108827	ileus colon	0.0183872040361166
+trial_2	ampicillin	69	KG00100082	Palpitations NOS	0.018296124413609505
+trial_2	ampicillin	122	KG00099321	Hypersensitivity NOS	0.018216008320450783
+trial_2	ampicillin	441	KG00098262	cellulitis nos	0.017858872190117836
+trial_2	ampicillin	72	KG00103771	myalgias	0.017276333644986153
+trial_2	ampicillin	132	KG00101045	Gain, Weight	0.01706133410334587
+trial_2	ampicillin	239	KG00100128	pareses	0.016767878085374832
+trial_2	ampicillin	82	KG00097697	abdomen distended	0.016613513231277466
+trial_2	ampicillin	262	KG00101199	agitation	0.016274498775601387
+trial_2	ampicillin	221	KG00101207	peripheral oedema	0.015687892213463783
+trial_2	ampicillin	288	KG00101223	hypophosphataemia	0.015584392473101616
+trial_2	ampicillin	494	KG00099838	Organ Failure, Multiple	0.01548858918249607
+trial_2	ampicillin	138	KG00098796	epidemic vomiting syndrome	0.01548435166478157
+trial_2	ampicillin	339	KG00100334	proteinurias	0.015299621969461441
+trial_2	ampicillin	282	KG00099309	hypernatraemia	0.014752007089555264
+trial_2	ampicillin	356	KG00112623	Infectious Lung Disorders	0.014701339416205883
+trial_2	ampicillin	15	KG00097882	Angina pectoris NOS	0.014390929602086544
+trial_2	ampicillin	4	KG00098817	epistaxis	0.01437748409807682
+trial_2	ampicillin	286	KG00101110	Retention, Urinary	0.014290394261479378
+trial_2	ampicillin	183	KG00100449	Adult Respiratory Distress Syndrome	0.013998208567500114
+trial_2	ampicillin	11	KG00097993	Asthma NOS	0.013920746743679047
+trial_2	ampicillin	116	KG00098964	Pain in foot	0.013822488486766815
+trial_2	ampicillin	92	KG00100926	Infections, Upper Respiratory	0.013747414574027061
+trial_2	ampicillin	133	KG00101370	neuropathies sensory	0.013677270151674747
+trial_2	ampicillin	25	KG00099134	congestive failures heart	0.013649899512529373
+trial_2	ampicillin	38	KG00098066	Binocular vision disorders	0.013276091776788235
+trial_2	ampicillin	268	KG00099557	Heart Failure, Left-Sided	0.013176767155528069
+trial_2	ampicillin	394	KG00100243	Pneumonia, Aspiration	0.013079565949738026
+trial_2	ampicillin	154	KG00099686	Lymphopenias	0.013076352886855602
+trial_2	ampicillin	118	KG00099011	Gastritis NOS	0.01303438376635313
+trial_2	ampicillin	211	KG00100341	Pruritus NOS	0.012978379614651203
+trial_2	ampicillin	102	KG00097916	anxieties	0.012741523794829845
+trial_2	ampicillin	503	KG00102612	low haemoglobin	0.01262321975082159
+trial_2	ampicillin	22	KG00098705	Edema (NOS)	0.012417894788086414
+trial_2	ampicillin	713	KG00107657	distressed respiratory	0.012321746908128262

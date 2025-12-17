@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.24071621894836426
+trial_1	placebo	123	KG00099351	hypokalaemia	0.16840407252311707
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1588406264781952
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15194927155971527
+trial_1	placebo	21	KG00098675	dyspnoea	0.14546947181224823
+trial_1	placebo	20	KG00098540	dehydration	0.1297062635421753
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.11973670870065689
+trial_1	placebo	46	KG00099121	Headache NOS	0.117474265396595
+trial_1	placebo	68	KG00099901	nauseas	0.11617656797170639
+trial_1	placebo	126	KG00100076	Pain NOS	0.11596294492483139
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1089332178235054
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10874288529157639
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10608045011758804
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10522822290658951
+trial_1	placebo	14	KG00097852	Anemia NOS	0.10415232926607132
+trial_1	placebo	114	KG00098933	fevers	0.10142338275909424
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09716060757637024
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09672022610902786
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08776991814374924
+trial_1	placebo	72	KG00103771	myalgias	0.08567208796739578
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.08534003794193268
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08531594276428223
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.08061729371547699
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07817693799734116
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0752095952630043
+trial_1	placebo	121	KG00099190	haemorrhage	0.07483547925949097
+trial_1	placebo	85	KG00098474	coughs	0.07453133910894394
+trial_1	placebo	228	KG00114657	Weight below normal	0.07363921403884888
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.07362399250268936
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.06983106583356857
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.06812749058008194
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.06714046001434326
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06673168390989304
+trial_1	placebo	100	KG00097815	alopecias	0.06624837219715118
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06492447108030319
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06435314565896988
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06211080774664879
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.06142938509583473
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.06076287850737572
+trial_1	placebo	29	KG00099354	hyponatraemia	0.059599779546260834
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.058147624135017395
+trial_1	placebo	104	KG00097963	arthralgias	0.055542659014463425
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05541596561670303
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05523235723376274
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.05345333367586136
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05261765420436859
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05220968648791313
+trial_1	placebo	239	KG00100128	pareses	0.05217590928077698
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0513303317129612
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05037790909409523
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04961808770895004
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04733862727880478
+trial_1	placebo	282	KG00099309	hypernatraemia	0.046050626784563065
+trial_1	placebo	212	KG00100576	shivers	0.04516104981303215
+trial_1	placebo	5	KG00099169	haematuria	0.0441974401473999
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.043734293431043625
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.042374514043331146
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04113190621137619
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.040940284729003906
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04037344455718994
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.04017613083124161
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.040059201419353485
+trial_1	placebo	147	KG00098000	atelectases	0.03985659033060074
+trial_1	placebo	234	KG00098669	dysgeusias	0.03979979082942009
+trial_1	placebo	102	KG00097916	anxieties	0.03927332162857056
+trial_1	placebo	136	KG00101582	Dry;skin	0.038217268884181976
+trial_1	placebo	82	KG00097697	abdomen distended	0.038099776953458786
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0380055233836174
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.037353113293647766
+trial_1	placebo	116	KG00098964	Pain in foot	0.03703560307621956
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.036626074463129044
+trial_1	placebo	135	KG00101549	bone pain	0.03555494174361229
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.035447459667921066
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03508494049310684
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.034746065735816956
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03376825526356697
+trial_1	placebo	441	KG00098262	cellulitis nos	0.033642128109931946
+trial_1	placebo	4	KG00098817	epistaxis	0.033219028264284134
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03299236670136452
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.032769814133644104
+trial_1	placebo	221	KG00101207	peripheral oedema	0.032702814787626266
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.032683707773685455
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.03241706266999245
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.03233627602458
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03174785524606705
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03155261650681496
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.030734635889530182
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.03070221282541752
+trial_1	placebo	269	KG00100399	pyaemia	0.030498819425702095
+trial_1	placebo	186	KG00101431	creatinine increased	0.030026322230696678
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.029780210927128792
+trial_1	placebo	245	KG00101513	Reaction, Injection Site	0.02918592467904091
+trial_1	placebo	503	KG00102612	low haemoglobin	0.028616705909371376
+trial_1	placebo	181	KG00099943	Neuritis NOS	0.02796494960784912
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02717543952167034
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.026767108589410782
+trial_1	placebo	155	KG00099960	Neutrophile	0.025366194546222687
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02521854266524315
+trial_1	placebo	466	KG00101205	fall	0.02504666894674301
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024980412796139717
+trial_2	arsenic trioxide	87	KG00098599	diarrhoea	0.24071621894836426
+trial_2	arsenic trioxide	123	KG00099351	hypokalaemia	0.16840407252311707
+trial_2	arsenic trioxide	177	KG00099299	hyperglycaemia	0.1588406264781952
+trial_2	arsenic trioxide	17	KG00097991	Asthenia NOS	0.15194927155971527
+trial_2	arsenic trioxide	21	KG00098675	dyspnoea	0.14546947181224823
+trial_2	arsenic trioxide	20	KG00098540	dehydration	0.1297062635421753
+trial_2	arsenic trioxide	64	KG00097734	Acrodermatitis, NOS	0.11973670870065689
+trial_2	arsenic trioxide	46	KG00099121	Headache NOS	0.117474265396595
+trial_2	arsenic trioxide	68	KG00099901	nauseas	0.11617656797170639
+trial_2	arsenic trioxide	126	KG00100076	Pain NOS	0.11596294492483139
+trial_2	arsenic trioxide	67	KG00098673	Dyspepsia, NOS	0.1089332178235054
+trial_2	arsenic trioxide	37	KG00097696	Cramps, Abdominal	0.10874288529157639
+trial_2	arsenic trioxide	173	KG00098172	Bronchopneumonia NOS	0.10608045011758804
+trial_2	arsenic trioxide	49	KG00099902	nausea with vomiting	0.10522822290658951
+trial_2	arsenic trioxide	14	KG00097852	Anemia NOS	0.10415232926607132
+trial_2	arsenic trioxide	114	KG00098933	fevers	0.10142338275909424
+trial_2	arsenic trioxide	2	KG00100772	thrombocytopaenia	0.09716060757637024
+trial_2	arsenic trioxide	78	KG00099326	Hypertensive diseases	0.09672022610902786
+trial_2	arsenic trioxide	77	KG00098450	Constipation NOS	0.08776991814374924
+trial_2	arsenic trioxide	72	KG00103771	myalgias	0.08567208796739578
+trial_2	arsenic trioxide	101	KG00097901	Anorexia NOS	0.08534003794193268
+trial_2	arsenic trioxide	9	KG00098432	Confusion NOS	0.08531594276428223
+trial_2	arsenic trioxide	179	KG00099342	hypocalcaemia	0.08061729371547699
+trial_2	arsenic trioxide	200	KG00098539	Disorders, Deglutition	0.07817693799734116
+trial_2	arsenic trioxide	194	KG00110727	Neutrophil Count Decreased	0.0752095952630043
+trial_2	arsenic trioxide	121	KG00099190	haemorrhage	0.07483547925949097
+trial_2	arsenic trioxide	85	KG00098474	coughs	0.07453133910894394
+trial_2	arsenic trioxide	228	KG00114657	Weight below normal	0.07363921403884888
+trial_2	arsenic trioxide	170	KG00108926	Neutropenia, Febrile	0.07362399250268936
+trial_2	arsenic trioxide	142	KG00100923	Unspecified infectious and parasitic diseases	0.06983106583356857
+trial_2	arsenic trioxide	122	KG00099321	Hypersensitivity NOS	0.06812749058008194
+trial_2	arsenic trioxide	1	KG00099959	Neutropenia NOS	0.06714046001434326
+trial_2	arsenic trioxide	350	KG00106765	decreased platelet count	0.06673168390989304
+trial_2	arsenic trioxide	100	KG00097815	alopecias	0.06624837219715118
+trial_2	arsenic trioxide	189	KG00101580	Alanine aminotransferase increase	0.06492447108030319
+trial_2	arsenic trioxide	79	KG00100317	Insomnia, Primary	0.06435314565896988
+trial_2	arsenic trioxide	180	KG00099363	Hypotension NOS	0.06211080774664879
+trial_2	arsenic trioxide	144	KG00099610	Leukopenia NOS	0.06142938509583473
+trial_2	arsenic trioxide	96	KG00101679	Unattended death NOS	0.06076287850737572
+trial_2	arsenic trioxide	29	KG00099354	hyponatraemia	0.059599779546260834
+trial_2	arsenic trioxide	133	KG00101370	neuropathies sensory	0.058147624135017395
+trial_2	arsenic trioxide	104	KG00097963	arthralgias	0.055542659014463425
+trial_2	arsenic trioxide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05541596561670303
+trial_2	arsenic trioxide	76	KG00100450	Respiratory insufficiency, NOS	0.05523235723376274
+trial_2	arsenic trioxide	249	KG00104430	hypoalbuminaemia	0.05345333367586136
+trial_2	arsenic trioxide	27	KG00099303	hyperkalaemia	0.05261765420436859
+trial_2	arsenic trioxide	86	KG00098565	Depression, Mental	0.05220968648791313
+trial_2	arsenic trioxide	239	KG00100128	pareses	0.05217590928077698
+trial_2	arsenic trioxide	154	KG00099686	Lymphopenias	0.0513303317129612
+trial_2	arsenic trioxide	243	KG00100947	Micturition frequency increased	0.05037790909409523
+trial_2	arsenic trioxide	188	KG00101579	Aspartate aminotransferase increase	0.04961808770895004
+trial_2	arsenic trioxide	18	KG00098307	Pain, Chest	0.04733862727880478
+trial_2	arsenic trioxide	282	KG00099309	hypernatraemia	0.046050626784563065
+trial_2	arsenic trioxide	212	KG00100576	shivers	0.04516104981303215
+trial_2	arsenic trioxide	5	KG00099169	haematuria	0.0441974401473999
+trial_2	arsenic trioxide	28	KG00099347	hypoglycaemia	0.043734293431043625
+trial_2	arsenic trioxide	355	KG00110857	lymphocyte count decreased	0.042374514043331146
+trial_2	arsenic trioxide	35	KG00101507	hypomagnesaemia	0.04113190621137619
+trial_2	arsenic trioxide	191	KG00104055	Biliverdin increased	0.040940284729003906
+trial_2	arsenic trioxide	61	KG00099501	Chronic Kidney Failure	0.04037344455718994
+trial_2	arsenic trioxide	211	KG00100341	Pruritus NOS	0.04017613083124161
+trial_2	arsenic trioxide	347	KG00104223	Mucosal ulcers	0.040059201419353485
+trial_2	arsenic trioxide	147	KG00098000	atelectases	0.03985659033060074
+trial_2	arsenic trioxide	234	KG00098669	dysgeusias	0.03979979082942009
+trial_2	arsenic trioxide	102	KG00097916	anxieties	0.03927332162857056
+trial_2	arsenic trioxide	136	KG00101582	Dry;skin	0.038217268884181976
+trial_2	arsenic trioxide	82	KG00097697	abdomen distended	0.038099776953458786
+trial_2	arsenic trioxide	69	KG00100082	Palpitations NOS	0.0380055233836174
+trial_2	arsenic trioxide	139	KG00098855	Sinusitis, Ethmoid	0.037353113293647766
+trial_2	arsenic trioxide	116	KG00098964	Pain in foot	0.03703560307621956
+trial_2	arsenic trioxide	288	KG00101223	hypophosphataemia	0.036626074463129044
+trial_2	arsenic trioxide	135	KG00101549	bone pain	0.03555494174361229
+trial_2	arsenic trioxide	253	KG00100232	Pleural effusion NOS (disorder)	0.035447459667921066
+trial_2	arsenic trioxide	396	KG00100373	Embolism, Pulmonary	0.03508494049310684
+trial_2	arsenic trioxide	38	KG00098066	Binocular vision disorders	0.034746065735816956
+trial_2	arsenic trioxide	36	KG00106434	Vision, Blurring Of	0.03376825526356697
+trial_2	arsenic trioxide	441	KG00098262	cellulitis nos	0.033642128109931946
+trial_2	arsenic trioxide	4	KG00098817	epistaxis	0.033219028264284134
+trial_2	arsenic trioxide	261	KG00101559	raised alkaline phosphatase	0.03299236670136452
+trial_2	arsenic trioxide	130	KG00100683	Stomatitis NOS	0.032769814133644104
+trial_2	arsenic trioxide	221	KG00101207	peripheral oedema	0.032702814787626266
+trial_2	arsenic trioxide	151	KG00098274	Infarction, Cerebral	0.032683707773685455
+trial_2	arsenic trioxide	22	KG00098705	Edema (NOS)	0.03241706266999245
+trial_2	arsenic trioxide	213	KG00100600	Infectious Skin Diseases	0.03233627602458
+trial_2	arsenic trioxide	361	KG00098004	Fibrillation, Atrial	0.03174785524606705
+trial_2	arsenic trioxide	131	KG00100948	Urinary tract infection (& [NOS])	0.03155261650681496
+trial_2	arsenic trioxide	246	KG00103338	Aspartate Aminotransferase Measurement	0.030734635889530182
+trial_2	arsenic trioxide	254	KG00100774	Thrombosis NOS	0.03070221282541752
+trial_2	arsenic trioxide	269	KG00100399	pyaemia	0.030498819425702095
+trial_2	arsenic trioxide	186	KG00101431	creatinine increased	0.030026322230696678
+trial_2	arsenic trioxide	195	KG00097814	Atopic Rhinitis	0.029780210927128792
+trial_2	arsenic trioxide	245	KG00101513	Reaction, Injection Site	0.02918592467904091
+trial_2	arsenic trioxide	503	KG00102612	low haemoglobin	0.028616705909371376
+trial_2	arsenic trioxide	181	KG00099943	Neuritis NOS	0.02796494960784912
+trial_2	arsenic trioxide	30	KG00099500	Acute Kidney Failure	0.02717543952167034
+trial_2	arsenic trioxide	356	KG00112623	Infectious Lung Disorders	0.026767108589410782
+trial_2	arsenic trioxide	155	KG00099960	Neutrophile	0.025366194546222687
+trial_2	arsenic trioxide	204	KG00098849	Esophagitis, Peptic	0.02521854266524315
+trial_2	arsenic trioxide	466	KG00101205	fall	0.02504666894674301
+trial_2	arsenic trioxide	92	KG00100926	Infections, Upper Respiratory	0.024980412796139717

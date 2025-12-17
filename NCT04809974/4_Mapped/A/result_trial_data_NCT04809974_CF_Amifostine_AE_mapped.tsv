@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.16844718158245087
+trial_1	placebo	68	KG00099901	nauseas	0.16354332864284515
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12604764103889465
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12157487124204636
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11093393713235855
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11092545837163925
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10031720250844955
+trial_1	placebo	46	KG00099121	Headache NOS	0.09387652575969696
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09282168000936508
+trial_1	placebo	20	KG00098540	dehydration	0.0891294926404953
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07978472113609314
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07302960753440857
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0662471130490303
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06352681666612625
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06303560733795166
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.062484536319971085
+trial_1	placebo	21	KG00098675	dyspnoea	0.0618998184800148
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06155918538570404
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06150148808956146
+trial_1	placebo	126	KG00100076	Pain NOS	0.06084418296813965
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.05991227552294731
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05806361883878708
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.057702306658029556
+trial_1	placebo	72	KG00103771	myalgias	0.05709938704967499
+trial_1	placebo	100	KG00097815	alopecias	0.05557483434677124
+trial_1	placebo	114	KG00098933	fevers	0.049610432237386703
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04905075207352638
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04904676228761673
+trial_1	placebo	228	KG00114657	Weight below normal	0.04788054898381233
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04768183082342148
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0473930649459362
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.046720560640096664
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.0464024543762207
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04564953222870827
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.043522294610738754
+trial_1	placebo	121	KG00099190	haemorrhage	0.04080157354474068
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.040277063846588135
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.039264872670173645
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0391821451485157
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03908171132206917
+trial_1	placebo	234	KG00098669	dysgeusias	0.038512036204338074
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03810631483793259
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03682281821966171
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03498254343867302
+trial_1	placebo	104	KG00097963	arthralgias	0.0339311882853508
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.033133018761873245
+trial_1	placebo	85	KG00098474	coughs	0.032968804240226746
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03283637389540672
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03226732835173607
+trial_1	placebo	239	KG00100128	pareses	0.03167738765478134
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0316762700676918
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.031434688717126846
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030776459723711014
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.030150877311825752
+trial_1	placebo	147	KG00098000	atelectases	0.030138203874230385
+trial_1	placebo	154	KG00099686	Lymphopenias	0.030027052387595177
+trial_1	placebo	82	KG00097697	abdomen distended	0.029434654861688614
+trial_1	placebo	102	KG00097916	anxieties	0.029405394569039345
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.029311057180166245
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0285725686699152
+trial_1	placebo	5	KG00099169	haematuria	0.027762679383158684
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.027509130537509918
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02687765471637249
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026717234402894974
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026374271139502525
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025906167924404144
+trial_1	placebo	164	KG00108827	ileus colon	0.025514859706163406
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.024685712531208992
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023560086265206337
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023537755012512207
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02341017872095108
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02303851954638958
+trial_1	placebo	116	KG00098964	Pain in foot	0.022853288799524307
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021921174600720406
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021611571311950684
+trial_1	placebo	269	KG00100399	pyaemia	0.020999690517783165
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020984631031751633
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02090957760810852
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020562246441841125
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02034929022192955
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02025453932583332
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020022964105010033
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019999071955680847
+trial_1	placebo	155	KG00099960	Neutrophile	0.01968885213136673
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019654324278235435
+trial_1	placebo	212	KG00100576	shivers	0.019355889409780502
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.019198117777705193
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.019093384966254234
+trial_1	placebo	262	KG00101199	agitation	0.019079137593507767
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.018864421173930168
+trial_1	placebo	503	KG00102612	low haemoglobin	0.01858535408973694
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018582193180918694
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.018019283190369606
+trial_1	placebo	132	KG00101045	Gain, Weight	0.017849398776888847
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01777970790863037
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01770946942269802
+trial_1	placebo	181	KG00099943	Neuritis NOS	0.017265941947698593
+trial_1	placebo	186	KG00101431	creatinine increased	0.017114827409386635
+trial_1	placebo	466	KG00101205	fall	0.017029250040650368
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01692272536456585
+trial_2	amifostine	87	KG00098599	diarrhoea	0.16844718158245087
+trial_2	amifostine	68	KG00099901	nauseas	0.16354332864284515
+trial_2	amifostine	17	KG00097991	Asthenia NOS	0.12604764103889465
+trial_2	amifostine	177	KG00099299	hyperglycaemia	0.12157487124204636
+trial_2	amifostine	9	KG00098432	Confusion NOS	0.11093393713235855
+trial_2	amifostine	49	KG00099902	nausea with vomiting	0.11092545837163925
+trial_2	amifostine	77	KG00098450	Constipation NOS	0.10031720250844955
+trial_2	amifostine	46	KG00099121	Headache NOS	0.09387652575969696
+trial_2	amifostine	123	KG00099351	hypokalaemia	0.09282168000936508
+trial_2	amifostine	20	KG00098540	dehydration	0.0891294926404953
+trial_2	amifostine	78	KG00099326	Hypertensive diseases	0.07978472113609314
+trial_2	amifostine	67	KG00098673	Dyspepsia, NOS	0.07302960753440857
+trial_2	amifostine	37	KG00097696	Cramps, Abdominal	0.0662471130490303
+trial_2	amifostine	101	KG00097901	Anorexia NOS	0.06352681666612625
+trial_2	amifostine	14	KG00097852	Anemia NOS	0.06303560733795166
+trial_2	amifostine	79	KG00100317	Insomnia, Primary	0.062484536319971085
+trial_2	amifostine	21	KG00098675	dyspnoea	0.0618998184800148
+trial_2	amifostine	200	KG00098539	Disorders, Deglutition	0.06155918538570404
+trial_2	amifostine	180	KG00099363	Hypotension NOS	0.06150148808956146
+trial_2	amifostine	126	KG00100076	Pain NOS	0.06084418296813965
+trial_2	amifostine	170	KG00108926	Neutropenia, Febrile	0.05991227552294731
+trial_2	amifostine	173	KG00098172	Bronchopneumonia NOS	0.05806361883878708
+trial_2	amifostine	2	KG00100772	thrombocytopaenia	0.057702306658029556
+trial_2	amifostine	72	KG00103771	myalgias	0.05709938704967499
+trial_2	amifostine	100	KG00097815	alopecias	0.05557483434677124
+trial_2	amifostine	114	KG00098933	fevers	0.049610432237386703
+trial_2	amifostine	29	KG00099354	hyponatraemia	0.04905075207352638
+trial_2	amifostine	1	KG00099959	Neutropenia NOS	0.04904676228761673
+trial_2	amifostine	228	KG00114657	Weight below normal	0.04788054898381233
+trial_2	amifostine	142	KG00100923	Unspecified infectious and parasitic diseases	0.04768183082342148
+trial_2	amifostine	350	KG00106765	decreased platelet count	0.0473930649459362
+trial_2	amifostine	122	KG00099321	Hypersensitivity NOS	0.046720560640096664
+trial_2	amifostine	133	KG00101370	neuropathies sensory	0.0464024543762207
+trial_2	amifostine	144	KG00099610	Leukopenia NOS	0.04564953222870827
+trial_2	amifostine	194	KG00110727	Neutrophil Count Decreased	0.043522294610738754
+trial_2	amifostine	121	KG00099190	haemorrhage	0.04080157354474068
+trial_2	amifostine	179	KG00099342	hypocalcaemia	0.040277063846588135
+trial_2	amifostine	189	KG00101580	Alanine aminotransferase increase	0.039264872670173645
+trial_2	amifostine	76	KG00100450	Respiratory insufficiency, NOS	0.0391821451485157
+trial_2	amifostine	64	KG00097734	Acrodermatitis, NOS	0.03908171132206917
+trial_2	amifostine	234	KG00098669	dysgeusias	0.038512036204338074
+trial_2	amifostine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03810631483793259
+trial_2	amifostine	151	KG00098274	Infarction, Cerebral	0.03682281821966171
+trial_2	amifostine	96	KG00101679	Unattended death NOS	0.03498254343867302
+trial_2	amifostine	104	KG00097963	arthralgias	0.0339311882853508
+trial_2	amifostine	243	KG00100947	Micturition frequency increased	0.033133018761873245
+trial_2	amifostine	85	KG00098474	coughs	0.032968804240226746
+trial_2	amifostine	86	KG00098565	Depression, Mental	0.03283637389540672
+trial_2	amifostine	249	KG00104430	hypoalbuminaemia	0.03226732835173607
+trial_2	amifostine	239	KG00100128	pareses	0.03167738765478134
+trial_2	amifostine	18	KG00098307	Pain, Chest	0.0316762700676918
+trial_2	amifostine	61	KG00099501	Chronic Kidney Failure	0.031434688717126846
+trial_2	amifostine	28	KG00099347	hypoglycaemia	0.030776459723711014
+trial_2	amifostine	27	KG00099303	hyperkalaemia	0.030150877311825752
+trial_2	amifostine	147	KG00098000	atelectases	0.030138203874230385
+trial_2	amifostine	154	KG00099686	Lymphopenias	0.030027052387595177
+trial_2	amifostine	82	KG00097697	abdomen distended	0.029434654861688614
+trial_2	amifostine	102	KG00097916	anxieties	0.029405394569039345
+trial_2	amifostine	188	KG00101579	Aspartate aminotransferase increase	0.029311057180166245
+trial_2	amifostine	361	KG00098004	Fibrillation, Atrial	0.0285725686699152
+trial_2	amifostine	5	KG00099169	haematuria	0.027762679383158684
+trial_2	amifostine	38	KG00098066	Binocular vision disorders	0.027509130537509918
+trial_2	amifostine	35	KG00101507	hypomagnesaemia	0.02687765471637249
+trial_2	amifostine	396	KG00100373	Embolism, Pulmonary	0.026717234402894974
+trial_2	amifostine	282	KG00099309	hypernatraemia	0.026374271139502525
+trial_2	amifostine	69	KG00100082	Palpitations NOS	0.025906167924404144
+trial_2	amifostine	164	KG00108827	ileus colon	0.025514859706163406
+trial_2	amifostine	89	KG00099301	Hyperhidrosis (disorder)	0.024685712531208992
+trial_2	amifostine	130	KG00100683	Stomatitis NOS	0.023560086265206337
+trial_2	amifostine	75	KG00100195	Dolens, Phlegmasia Alba	0.023537755012512207
+trial_2	amifostine	36	KG00106434	Vision, Blurring Of	0.02341017872095108
+trial_2	amifostine	254	KG00100774	Thrombosis NOS	0.02303851954638958
+trial_2	amifostine	116	KG00098964	Pain in foot	0.022853288799524307
+trial_2	amifostine	30	KG00099500	Acute Kidney Failure	0.021921174600720406
+trial_2	amifostine	355	KG00110857	lymphocyte count decreased	0.021611571311950684
+trial_2	amifostine	269	KG00100399	pyaemia	0.020999690517783165
+trial_2	amifostine	139	KG00098855	Sinusitis, Ethmoid	0.020984631031751633
+trial_2	amifostine	204	KG00098849	Esophagitis, Peptic	0.02090957760810852
+trial_2	amifostine	441	KG00098262	cellulitis nos	0.020562246441841125
+trial_2	amifostine	261	KG00101559	raised alkaline phosphatase	0.02034929022192955
+trial_2	amifostine	131	KG00100948	Urinary tract infection (& [NOS])	0.02025453932583332
+trial_2	amifostine	22	KG00098705	Edema (NOS)	0.020022964105010033
+trial_2	amifostine	286	KG00101110	Retention, Urinary	0.019999071955680847
+trial_2	amifostine	155	KG00099960	Neutrophile	0.01968885213136673
+trial_2	amifostine	221	KG00101207	peripheral oedema	0.019654324278235435
+trial_2	amifostine	212	KG00100576	shivers	0.019355889409780502
+trial_2	amifostine	218	KG00100801	Tinnitus NOS	0.019198117777705193
+trial_2	amifostine	195	KG00097814	Atopic Rhinitis	0.019093384966254234
+trial_2	amifostine	262	KG00101199	agitation	0.019079137593507767
+trial_2	amifostine	166	KG00099773	menopausal syndrome	0.018864421173930168
+trial_2	amifostine	503	KG00102612	low haemoglobin	0.01858535408973694
+trial_2	amifostine	31	KG00099872	Infarction, Myocardial	0.018582193180918694
+trial_2	amifostine	276	KG00099127	Arrest, Cardiac	0.018019283190369606
+trial_2	amifostine	132	KG00101045	Gain, Weight	0.017849398776888847
+trial_2	amifostine	191	KG00104055	Biliverdin increased	0.01777970790863037
+trial_2	amifostine	15	KG00097882	Angina pectoris NOS	0.01770946942269802
+trial_2	amifostine	181	KG00099943	Neuritis NOS	0.017265941947698593
+trial_2	amifostine	186	KG00101431	creatinine increased	0.017114827409386635
+trial_2	amifostine	466	KG00101205	fall	0.017029250040650368
+trial_2	amifostine	246	KG00103338	Aspartate Aminotransferase Measurement	0.01692272536456585

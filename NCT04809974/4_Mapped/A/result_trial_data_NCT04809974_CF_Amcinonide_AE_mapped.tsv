@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18694981932640076
+trial_1	placebo	87	KG00098599	diarrhoea	0.18455564975738525
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1582869589328766
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14977945387363434
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1386561244726181
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1201087161898613
+trial_1	placebo	20	KG00098540	dehydration	0.11046399176120758
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0997699722647667
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09151550382375717
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0905430018901825
+trial_1	placebo	46	KG00099121	Headache NOS	0.08948946744203568
+trial_1	placebo	228	KG00114657	Weight below normal	0.08845087885856628
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08761465549468994
+trial_1	placebo	21	KG00098675	dyspnoea	0.08747997879981995
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08510664105415344
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08196769654750824
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07929801195859909
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0772244781255722
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07702850550413132
+trial_1	placebo	68	KG00099901	nauseas	0.07502290606498718
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07295849919319153
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07295569777488708
+trial_1	placebo	239	KG00100128	pareses	0.0727699026465416
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06998973339796066
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06919994950294495
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06911507993936539
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06688956171274185
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0625239759683609
+trial_1	placebo	114	KG00098933	fevers	0.062414538115262985
+trial_1	placebo	104	KG00097963	arthralgias	0.060793329030275345
+trial_1	placebo	72	KG00103771	myalgias	0.05968330055475235
+trial_1	placebo	85	KG00098474	coughs	0.059629857540130615
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0589727982878685
+trial_1	placebo	126	KG00100076	Pain NOS	0.056819215416908264
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0565725602209568
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05597013607621193
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.055516041815280914
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05363718047738075
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05362357199192047
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0535326823592186
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05225340649485588
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.051504794508218765
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.049324776977300644
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04819362983107567
+trial_1	placebo	5	KG00099169	haematuria	0.04622674733400345
+trial_1	placebo	116	KG00098964	Pain in foot	0.045534417033195496
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.045080918818712234
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.044828105717897415
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.043768417090177536
+trial_1	placebo	102	KG00097916	anxieties	0.042645711451768875
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04193820431828499
+trial_1	placebo	147	KG00098000	atelectases	0.04189855232834816
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03853081911802292
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03824775293469429
+trial_1	placebo	82	KG00097697	abdomen distended	0.037693291902542114
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03735395148396492
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.036681242287158966
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03649711236357689
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03621209040284157
+trial_1	placebo	262	KG00101199	agitation	0.03537308797240257
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.035371825098991394
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03516261279582977
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03503408282995224
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03452279418706894
+trial_1	placebo	221	KG00101207	peripheral oedema	0.034332506358623505
+trial_1	placebo	466	KG00101205	fall	0.03410816937685013
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03351983428001404
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.033422164618968964
+trial_1	placebo	18	KG00098307	Pain, Chest	0.033231478184461594
+trial_1	placebo	441	KG00098262	cellulitis nos	0.033023178577423096
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.031866513192653656
+trial_1	placebo	269	KG00100399	pyaemia	0.03129463270306587
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03129002824425697
+trial_1	placebo	100	KG00097815	alopecias	0.030835572630167007
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030749276280403137
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.029743630439043045
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.029645700007677078
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02956758625805378
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.029286004602909088
+trial_1	placebo	121	KG00099190	haemorrhage	0.0292714424431324
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.029269272461533546
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02918635681271553
+trial_1	placebo	234	KG00098669	dysgeusias	0.029120193794369698
+trial_1	placebo	242	KG00100855	tremors	0.02846420556306839
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028443003073334694
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.028261901810765266
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02824045717716217
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02776113711297512
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.027656296268105507
+trial_1	placebo	456	KG00099420	Influenzae	0.027181703597307205
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.027108537033200264
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02691364660859108
+trial_1	placebo	339	KG00100334	proteinurias	0.02625586837530136
+trial_1	placebo	136	KG00101582	Dry;skin	0.02601289190351963
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.025954119861125946
+trial_1	placebo	186	KG00101431	creatinine increased	0.025826681405305862
+trial_1	placebo	164	KG00108827	ileus colon	0.02571769803762436
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.025458835065364838
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.025248631834983826
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.025190163403749466
+trial_2	amcinonide	78	KG00099326	Hypertensive diseases	0.18694981932640076
+trial_2	amcinonide	87	KG00098599	diarrhoea	0.18455564975738525
+trial_2	amcinonide	177	KG00099299	hyperglycaemia	0.1582869589328766
+trial_2	amcinonide	17	KG00097991	Asthenia NOS	0.14977945387363434
+trial_2	amcinonide	173	KG00098172	Bronchopneumonia NOS	0.1386561244726181
+trial_2	amcinonide	9	KG00098432	Confusion NOS	0.1201087161898613
+trial_2	amcinonide	20	KG00098540	dehydration	0.11046399176120758
+trial_2	amcinonide	123	KG00099351	hypokalaemia	0.0997699722647667
+trial_2	amcinonide	64	KG00097734	Acrodermatitis, NOS	0.09151550382375717
+trial_2	amcinonide	189	KG00101580	Alanine aminotransferase increase	0.0905430018901825
+trial_2	amcinonide	46	KG00099121	Headache NOS	0.08948946744203568
+trial_2	amcinonide	228	KG00114657	Weight below normal	0.08845087885856628
+trial_2	amcinonide	79	KG00100317	Insomnia, Primary	0.08761465549468994
+trial_2	amcinonide	21	KG00098675	dyspnoea	0.08747997879981995
+trial_2	amcinonide	37	KG00097696	Cramps, Abdominal	0.08510664105415344
+trial_2	amcinonide	67	KG00098673	Dyspepsia, NOS	0.08196769654750824
+trial_2	amcinonide	200	KG00098539	Disorders, Deglutition	0.07929801195859909
+trial_2	amcinonide	77	KG00098450	Constipation NOS	0.0772244781255722
+trial_2	amcinonide	188	KG00101579	Aspartate aminotransferase increase	0.07702850550413132
+trial_2	amcinonide	68	KG00099901	nauseas	0.07502290606498718
+trial_2	amcinonide	243	KG00100947	Micturition frequency increased	0.07295849919319153
+trial_2	amcinonide	14	KG00097852	Anemia NOS	0.07295569777488708
+trial_2	amcinonide	239	KG00100128	pareses	0.0727699026465416
+trial_2	amcinonide	86	KG00098565	Depression, Mental	0.06998973339796066
+trial_2	amcinonide	29	KG00099354	hyponatraemia	0.06919994950294495
+trial_2	amcinonide	49	KG00099902	nausea with vomiting	0.06911507993936539
+trial_2	amcinonide	350	KG00106765	decreased platelet count	0.06688956171274185
+trial_2	amcinonide	28	KG00099347	hypoglycaemia	0.0625239759683609
+trial_2	amcinonide	114	KG00098933	fevers	0.062414538115262985
+trial_2	amcinonide	104	KG00097963	arthralgias	0.060793329030275345
+trial_2	amcinonide	72	KG00103771	myalgias	0.05968330055475235
+trial_2	amcinonide	85	KG00098474	coughs	0.059629857540130615
+trial_2	amcinonide	132	KG00101045	Gain, Weight	0.0589727982878685
+trial_2	amcinonide	126	KG00100076	Pain NOS	0.056819215416908264
+trial_2	amcinonide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0565725602209568
+trial_2	amcinonide	139	KG00098855	Sinusitis, Ethmoid	0.05597013607621193
+trial_2	amcinonide	179	KG00099342	hypocalcaemia	0.055516041815280914
+trial_2	amcinonide	151	KG00098274	Infarction, Cerebral	0.05363718047738075
+trial_2	amcinonide	27	KG00099303	hyperkalaemia	0.05362357199192047
+trial_2	amcinonide	180	KG00099363	Hypotension NOS	0.0535326823592186
+trial_2	amcinonide	2	KG00100772	thrombocytopaenia	0.05225340649485588
+trial_2	amcinonide	76	KG00100450	Respiratory insufficiency, NOS	0.051504794508218765
+trial_2	amcinonide	101	KG00097901	Anorexia NOS	0.049324776977300644
+trial_2	amcinonide	61	KG00099501	Chronic Kidney Failure	0.04819362983107567
+trial_2	amcinonide	5	KG00099169	haematuria	0.04622674733400345
+trial_2	amcinonide	116	KG00098964	Pain in foot	0.045534417033195496
+trial_2	amcinonide	38	KG00098066	Binocular vision disorders	0.045080918818712234
+trial_2	amcinonide	131	KG00100948	Urinary tract infection (& [NOS])	0.044828105717897415
+trial_2	amcinonide	122	KG00099321	Hypersensitivity NOS	0.043768417090177536
+trial_2	amcinonide	102	KG00097916	anxieties	0.042645711451768875
+trial_2	amcinonide	355	KG00110857	lymphocyte count decreased	0.04193820431828499
+trial_2	amcinonide	147	KG00098000	atelectases	0.04189855232834816
+trial_2	amcinonide	36	KG00106434	Vision, Blurring Of	0.03853081911802292
+trial_2	amcinonide	194	KG00110727	Neutrophil Count Decreased	0.03824775293469429
+trial_2	amcinonide	82	KG00097697	abdomen distended	0.037693291902542114
+trial_2	amcinonide	96	KG00101679	Unattended death NOS	0.03735395148396492
+trial_2	amcinonide	249	KG00104430	hypoalbuminaemia	0.036681242287158966
+trial_2	amcinonide	35	KG00101507	hypomagnesaemia	0.03649711236357689
+trial_2	amcinonide	288	KG00101223	hypophosphataemia	0.03621209040284157
+trial_2	amcinonide	262	KG00101199	agitation	0.03537308797240257
+trial_2	amcinonide	30	KG00099500	Acute Kidney Failure	0.035371825098991394
+trial_2	amcinonide	261	KG00101559	raised alkaline phosphatase	0.03516261279582977
+trial_2	amcinonide	282	KG00099309	hypernatraemia	0.03503408282995224
+trial_2	amcinonide	154	KG00099686	Lymphopenias	0.03452279418706894
+trial_2	amcinonide	221	KG00101207	peripheral oedema	0.034332506358623505
+trial_2	amcinonide	466	KG00101205	fall	0.03410816937685013
+trial_2	amcinonide	69	KG00100082	Palpitations NOS	0.03351983428001404
+trial_2	amcinonide	92	KG00100926	Infections, Upper Respiratory	0.033422164618968964
+trial_2	amcinonide	18	KG00098307	Pain, Chest	0.033231478184461594
+trial_2	amcinonide	441	KG00098262	cellulitis nos	0.033023178577423096
+trial_2	amcinonide	396	KG00100373	Embolism, Pulmonary	0.031866513192653656
+trial_2	amcinonide	269	KG00100399	pyaemia	0.03129463270306587
+trial_2	amcinonide	276	KG00099127	Arrest, Cardiac	0.03129002824425697
+trial_2	amcinonide	100	KG00097815	alopecias	0.030835572630167007
+trial_2	amcinonide	508	KG00108565	blood glucose increased	0.030749276280403137
+trial_2	amcinonide	297	KG00099294	hypercholesterolaemia	0.029743630439043045
+trial_2	amcinonide	75	KG00100195	Dolens, Phlegmasia Alba	0.029645700007677078
+trial_2	amcinonide	204	KG00098849	Esophagitis, Peptic	0.02956758625805378
+trial_2	amcinonide	144	KG00099610	Leukopenia NOS	0.029286004602909088
+trial_2	amcinonide	121	KG00099190	haemorrhage	0.0292714424431324
+trial_2	amcinonide	166	KG00099773	menopausal syndrome	0.029269272461533546
+trial_2	amcinonide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02918635681271553
+trial_2	amcinonide	234	KG00098669	dysgeusias	0.029120193794369698
+trial_2	amcinonide	242	KG00100855	tremors	0.02846420556306839
+trial_2	amcinonide	253	KG00100232	Pleural effusion NOS (disorder)	0.028443003073334694
+trial_2	amcinonide	341	KG00101472	Gamma-glutamyltransferase increased	0.028261901810765266
+trial_2	amcinonide	130	KG00100683	Stomatitis NOS	0.02824045717716217
+trial_2	amcinonide	191	KG00104055	Biliverdin increased	0.02776113711297512
+trial_2	amcinonide	1	KG00099959	Neutropenia NOS	0.027656296268105507
+trial_2	amcinonide	456	KG00099420	Influenzae	0.027181703597307205
+trial_2	amcinonide	256	KG00100738	Tachycardia, Sinus	0.027108537033200264
+trial_2	amcinonide	286	KG00101110	Retention, Urinary	0.02691364660859108
+trial_2	amcinonide	339	KG00100334	proteinurias	0.02625586837530136
+trial_2	amcinonide	136	KG00101582	Dry;skin	0.02601289190351963
+trial_2	amcinonide	195	KG00097814	Atopic Rhinitis	0.025954119861125946
+trial_2	amcinonide	186	KG00101431	creatinine increased	0.025826681405305862
+trial_2	amcinonide	164	KG00108827	ileus colon	0.02571769803762436
+trial_2	amcinonide	211	KG00100341	Pruritus NOS	0.025458835065364838
+trial_2	amcinonide	138	KG00098796	epidemic vomiting syndrome	0.025248631834983826
+trial_2	amcinonide	232	KG00097997	Ataxia NOS	0.025190163403749466

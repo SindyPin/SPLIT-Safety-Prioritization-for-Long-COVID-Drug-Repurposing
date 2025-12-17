@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15570206940174103
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13988149166107178
+trial_1	placebo	87	KG00098599	diarrhoea	0.10969913750886917
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09486985206604004
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07964552193880081
+trial_1	placebo	68	KG00099901	nauseas	0.07939860969781876
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07348514348268509
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07034275680780411
+trial_1	placebo	46	KG00099121	Headache NOS	0.06806854903697968
+trial_1	placebo	300	KG00101064	xerostomia	0.06131381541490555
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06029341369867325
+trial_1	placebo	21	KG00098675	dyspnoea	0.06013193726539612
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.055460620671510696
+trial_1	placebo	20	KG00098540	dehydration	0.053759802132844925
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.052826568484306335
+trial_1	placebo	66	KG00098642	drowsiness	0.05258680135011673
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04664093628525734
+trial_1	placebo	228	KG00114657	Weight below normal	0.04230093955993652
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.042102936655282974
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.040733031928539276
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04073295742273331
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03969044238328934
+trial_1	placebo	102	KG00097916	anxieties	0.0386066660284996
+trial_1	placebo	132	KG00101045	Gain, Weight	0.037503670901060104
+trial_1	placebo	126	KG00100076	Pain NOS	0.03718668222427368
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03629804030060768
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03629499301314354
+trial_1	placebo	85	KG00098474	coughs	0.03403257951140404
+trial_1	placebo	114	KG00098933	fevers	0.033633649349212646
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03228780999779701
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.031215712428092957
+trial_1	placebo	29	KG00099354	hyponatraemia	0.030358953401446342
+trial_1	placebo	239	KG00100128	pareses	0.02990708500146866
+trial_1	placebo	242	KG00100855	tremors	0.029541566967964172
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.029001232236623764
+trial_1	placebo	104	KG00097963	arthralgias	0.028884172439575195
+trial_1	placebo	234	KG00098669	dysgeusias	0.0280437134206295
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027995755895972252
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.027789579704403877
+trial_1	placebo	14	KG00097852	Anemia NOS	0.025964180007576942
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.025952456519007683
+trial_1	placebo	262	KG00101199	agitation	0.025759290903806686
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.025034353137016296
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02478935569524765
+trial_1	placebo	350	KG00106765	decreased platelet count	0.023637397214770317
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023600811138749123
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02270958572626114
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022233448922634125
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.021617203950881958
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021372267976403236
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021297959610819817
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.021109692752361298
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019959770143032074
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.019883478060364723
+trial_1	placebo	116	KG00098964	Pain in foot	0.019775018095970154
+trial_1	placebo	72	KG00103771	myalgias	0.019718173891305923
+trial_1	placebo	466	KG00101205	fall	0.019714169204235077
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019301049411296844
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.019115490838885307
+trial_1	placebo	5	KG00099169	haematuria	0.019112739711999893
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018989412114024162
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018803270533680916
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01870514266192913
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01859104074537754
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.018130943179130554
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.018119463697075844
+trial_1	placebo	121	KG00099190	haemorrhage	0.01793527603149414
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0176790039986372
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01762283779680729
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01757064275443554
+trial_1	placebo	136	KG00101582	Dry;skin	0.017429504543542862
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.017400316894054413
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01723446510732174
+trial_1	placebo	82	KG00097697	abdomen distended	0.016985198482871056
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016785891726613045
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01651662401854992
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016453523188829422
+trial_1	placebo	345	KG00103926	impairments memory	0.016339056193828583
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.016330083832144737
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016298938542604446
+trial_1	placebo	154	KG00099686	Lymphopenias	0.016169818118214607
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.015829188749194145
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015709886327385902
+trial_1	placebo	147	KG00098000	atelectases	0.015560396015644073
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.015357754193246365
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015252653509378433
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.014903919771313667
+trial_1	placebo	164	KG00108827	ileus colon	0.014623446390032768
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014534056186676025
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014492481015622616
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.014408186078071594
+trial_1	placebo	333	KG00104019	DOPINESS	0.014246266335248947
+trial_1	placebo	269	KG00100399	pyaemia	0.013980924151837826
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.013914549723267555
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.013907276093959808
+trial_1	placebo	508	KG00108565	blood glucose increased	0.013866269029676914
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013801625929772854
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.013696214184165001
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.013634269125759602
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01350007951259613
+trial_2	amitriptyline	9	KG00098432	Confusion NOS	0.15570206940174103
+trial_2	amitriptyline	17	KG00097991	Asthenia NOS	0.13988149166107178
+trial_2	amitriptyline	87	KG00098599	diarrhoea	0.10969913750886917
+trial_2	amitriptyline	77	KG00098450	Constipation NOS	0.09486985206604004
+trial_2	amitriptyline	78	KG00099326	Hypertensive diseases	0.07964552193880081
+trial_2	amitriptyline	68	KG00099901	nauseas	0.07939860969781876
+trial_2	amitriptyline	79	KG00100317	Insomnia, Primary	0.07348514348268509
+trial_2	amitriptyline	49	KG00099902	nausea with vomiting	0.07034275680780411
+trial_2	amitriptyline	46	KG00099121	Headache NOS	0.06806854903697968
+trial_2	amitriptyline	300	KG00101064	xerostomia	0.06131381541490555
+trial_2	amitriptyline	177	KG00099299	hyperglycaemia	0.06029341369867325
+trial_2	amitriptyline	21	KG00098675	dyspnoea	0.06013193726539612
+trial_2	amitriptyline	101	KG00097901	Anorexia NOS	0.055460620671510696
+trial_2	amitriptyline	20	KG00098540	dehydration	0.053759802132844925
+trial_2	amitriptyline	173	KG00098172	Bronchopneumonia NOS	0.052826568484306335
+trial_2	amitriptyline	66	KG00098642	drowsiness	0.05258680135011673
+trial_2	amitriptyline	123	KG00099351	hypokalaemia	0.04664093628525734
+trial_2	amitriptyline	228	KG00114657	Weight below normal	0.04230093955993652
+trial_2	amitriptyline	67	KG00098673	Dyspepsia, NOS	0.042102936655282974
+trial_2	amitriptyline	37	KG00097696	Cramps, Abdominal	0.040733031928539276
+trial_2	amitriptyline	64	KG00097734	Acrodermatitis, NOS	0.04073295742273331
+trial_2	amitriptyline	86	KG00098565	Depression, Mental	0.03969044238328934
+trial_2	amitriptyline	102	KG00097916	anxieties	0.0386066660284996
+trial_2	amitriptyline	132	KG00101045	Gain, Weight	0.037503670901060104
+trial_2	amitriptyline	126	KG00100076	Pain NOS	0.03718668222427368
+trial_2	amitriptyline	200	KG00098539	Disorders, Deglutition	0.03629804030060768
+trial_2	amitriptyline	151	KG00098274	Infarction, Cerebral	0.03629499301314354
+trial_2	amitriptyline	85	KG00098474	coughs	0.03403257951140404
+trial_2	amitriptyline	114	KG00098933	fevers	0.033633649349212646
+trial_2	amitriptyline	36	KG00106434	Vision, Blurring Of	0.03228780999779701
+trial_2	amitriptyline	180	KG00099363	Hypotension NOS	0.031215712428092957
+trial_2	amitriptyline	29	KG00099354	hyponatraemia	0.030358953401446342
+trial_2	amitriptyline	239	KG00100128	pareses	0.02990708500146866
+trial_2	amitriptyline	242	KG00100855	tremors	0.029541566967964172
+trial_2	amitriptyline	189	KG00101580	Alanine aminotransferase increase	0.029001232236623764
+trial_2	amitriptyline	104	KG00097963	arthralgias	0.028884172439575195
+trial_2	amitriptyline	234	KG00098669	dysgeusias	0.0280437134206295
+trial_2	amitriptyline	96	KG00101679	Unattended death NOS	0.027995755895972252
+trial_2	amitriptyline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.027789579704403877
+trial_2	amitriptyline	14	KG00097852	Anemia NOS	0.025964180007576942
+trial_2	amitriptyline	243	KG00100947	Micturition frequency increased	0.025952456519007683
+trial_2	amitriptyline	262	KG00101199	agitation	0.025759290903806686
+trial_2	amitriptyline	76	KG00100450	Respiratory insufficiency, NOS	0.025034353137016296
+trial_2	amitriptyline	188	KG00101579	Aspartate aminotransferase increase	0.02478935569524765
+trial_2	amitriptyline	350	KG00106765	decreased platelet count	0.023637397214770317
+trial_2	amitriptyline	18	KG00098307	Pain, Chest	0.023600811138749123
+trial_2	amitriptyline	28	KG00099347	hypoglycaemia	0.02270958572626114
+trial_2	amitriptyline	69	KG00100082	Palpitations NOS	0.022233448922634125
+trial_2	amitriptyline	89	KG00099301	Hyperhidrosis (disorder)	0.021617203950881958
+trial_2	amitriptyline	122	KG00099321	Hypersensitivity NOS	0.021372267976403236
+trial_2	amitriptyline	211	KG00100341	Pruritus NOS	0.021297959610819817
+trial_2	amitriptyline	61	KG00099501	Chronic Kidney Failure	0.021109692752361298
+trial_2	amitriptyline	38	KG00098066	Binocular vision disorders	0.019959770143032074
+trial_2	amitriptyline	22	KG00098705	Edema (NOS)	0.019883478060364723
+trial_2	amitriptyline	116	KG00098964	Pain in foot	0.019775018095970154
+trial_2	amitriptyline	72	KG00103771	myalgias	0.019718173891305923
+trial_2	amitriptyline	466	KG00101205	fall	0.019714169204235077
+trial_2	amitriptyline	142	KG00100923	Unspecified infectious and parasitic diseases	0.019301049411296844
+trial_2	amitriptyline	179	KG00099342	hypocalcaemia	0.019115490838885307
+trial_2	amitriptyline	5	KG00099169	haematuria	0.019112739711999893
+trial_2	amitriptyline	221	KG00101207	peripheral oedema	0.018989412114024162
+trial_2	amitriptyline	130	KG00100683	Stomatitis NOS	0.018803270533680916
+trial_2	amitriptyline	261	KG00101559	raised alkaline phosphatase	0.01870514266192913
+trial_2	amitriptyline	131	KG00100948	Urinary tract infection (& [NOS])	0.01859104074537754
+trial_2	amitriptyline	199	KG00098371	Rhinitis (chronic) NOS	0.018130943179130554
+trial_2	amitriptyline	133	KG00101370	neuropathies sensory	0.018119463697075844
+trial_2	amitriptyline	121	KG00099190	haemorrhage	0.01793527603149414
+trial_2	amitriptyline	30	KG00099500	Acute Kidney Failure	0.0176790039986372
+trial_2	amitriptyline	139	KG00098855	Sinusitis, Ethmoid	0.01762283779680729
+trial_2	amitriptyline	2	KG00100772	thrombocytopaenia	0.01757064275443554
+trial_2	amitriptyline	136	KG00101582	Dry;skin	0.017429504543542862
+trial_2	amitriptyline	218	KG00100801	Tinnitus NOS	0.017400316894054413
+trial_2	amitriptyline	396	KG00100373	Embolism, Pulmonary	0.01723446510732174
+trial_2	amitriptyline	82	KG00097697	abdomen distended	0.016985198482871056
+trial_2	amitriptyline	286	KG00101110	Retention, Urinary	0.016785891726613045
+trial_2	amitriptyline	35	KG00101507	hypomagnesaemia	0.01651662401854992
+trial_2	amitriptyline	194	KG00110727	Neutrophil Count Decreased	0.016453523188829422
+trial_2	amitriptyline	345	KG00103926	impairments memory	0.016339056193828583
+trial_2	amitriptyline	191	KG00104055	Biliverdin increased	0.016330083832144737
+trial_2	amitriptyline	249	KG00104430	hypoalbuminaemia	0.016298938542604446
+trial_2	amitriptyline	154	KG00099686	Lymphopenias	0.016169818118214607
+trial_2	amitriptyline	92	KG00100926	Infections, Upper Respiratory	0.015829188749194145
+trial_2	amitriptyline	361	KG00098004	Fibrillation, Atrial	0.015709886327385902
+trial_2	amitriptyline	147	KG00098000	atelectases	0.015560396015644073
+trial_2	amitriptyline	27	KG00099303	hyperkalaemia	0.015357754193246365
+trial_2	amitriptyline	441	KG00098262	cellulitis nos	0.015252653509378433
+trial_2	amitriptyline	166	KG00099773	menopausal syndrome	0.014903919771313667
+trial_2	amitriptyline	164	KG00108827	ileus colon	0.014623446390032768
+trial_2	amitriptyline	118	KG00099011	Gastritis NOS	0.014534056186676025
+trial_2	amitriptyline	75	KG00100195	Dolens, Phlegmasia Alba	0.014492481015622616
+trial_2	amitriptyline	355	KG00110857	lymphocyte count decreased	0.014408186078071594
+trial_2	amitriptyline	333	KG00104019	DOPINESS	0.014246266335248947
+trial_2	amitriptyline	269	KG00100399	pyaemia	0.013980924151837826
+trial_2	amitriptyline	256	KG00100738	Tachycardia, Sinus	0.013914549723267555
+trial_2	amitriptyline	144	KG00099610	Leukopenia NOS	0.013907276093959808
+trial_2	amitriptyline	508	KG00108565	blood glucose increased	0.013866269029676914
+trial_2	amitriptyline	15	KG00097882	Angina pectoris NOS	0.013801625929772854
+trial_2	amitriptyline	235	KG00098682	Dysuria NOS	0.013696214184165001
+trial_2	amitriptyline	232	KG00097997	Ataxia NOS	0.013634269125759602
+trial_2	amitriptyline	371	KG00098517	Cystitis (NOS)	0.01350007951259613

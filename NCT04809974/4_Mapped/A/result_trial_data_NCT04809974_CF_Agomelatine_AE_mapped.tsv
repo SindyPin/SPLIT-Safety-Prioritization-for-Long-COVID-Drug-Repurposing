@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19220544397830963
+trial_1	placebo	9	KG00098432	Confusion NOS	0.17526377737522125
+trial_1	placebo	68	KG00099901	nauseas	0.16736724972724915
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14465704560279846
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.14082852005958557
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.13546431064605713
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12068355828523636
+trial_1	placebo	77	KG00098450	Constipation NOS	0.118764229118824
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09671912342309952
+trial_1	placebo	46	KG00099121	Headache NOS	0.0965145006775856
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.09195110946893692
+trial_1	placebo	20	KG00098540	dehydration	0.07759332656860352
+trial_1	placebo	228	KG00114657	Weight below normal	0.07606203854084015
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07443995028734207
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06657154858112335
+trial_1	placebo	21	KG00098675	dyspnoea	0.06632520258426666
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06601084768772125
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06515767425298691
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.061322953552007675
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0550132691860199
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05138615891337395
+trial_1	placebo	102	KG00097916	anxieties	0.05129517614841461
+trial_1	placebo	114	KG00098933	fevers	0.050795506685972214
+trial_1	placebo	104	KG00097963	arthralgias	0.050577178597450256
+trial_1	placebo	300	KG00101064	xerostomia	0.04949816316366196
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.048357076942920685
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04817051813006401
+trial_1	placebo	85	KG00098474	coughs	0.04393114522099495
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04308110475540161
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0422532819211483
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04195159301161766
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04112055525183678
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04042457789182663
+trial_1	placebo	66	KG00098642	drowsiness	0.039555493742227554
+trial_1	placebo	126	KG00100076	Pain NOS	0.03873926028609276
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.038108497858047485
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.036335743963718414
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03495097532868385
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03455246984958649
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03252703696489334
+trial_1	placebo	239	KG00100128	pareses	0.03216629475355148
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.030712701380252838
+trial_1	placebo	116	KG00098964	Pain in foot	0.030050471425056458
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029976828023791313
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029620613902807236
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02897793985903263
+trial_1	placebo	262	KG00101199	agitation	0.028354719281196594
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.028002673760056496
+trial_1	placebo	234	KG00098669	dysgeusias	0.02791878953576088
+trial_1	placebo	5	KG00099169	haematuria	0.0276199858635664
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027594659477472305
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02734437957406044
+trial_1	placebo	72	KG00103771	myalgias	0.02721693366765976
+trial_1	placebo	466	KG00101205	fall	0.027144048362970352
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02711029164493084
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.027000166475772858
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02678370289504528
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02620159275829792
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026029366999864578
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.025780539959669113
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02576553076505661
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.025738859549164772
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02538244053721428
+trial_1	placebo	242	KG00100855	tremors	0.025259943678975105
+trial_1	placebo	82	KG00097697	abdomen distended	0.025021111592650414
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.023563042283058167
+trial_1	placebo	456	KG00099420	Influenzae	0.02343912608921528
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02332431636750698
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.023269647732377052
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02323571778833866
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02287646010518074
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02253209799528122
+trial_1	placebo	269	KG00100399	pyaemia	0.02181718684732914
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021582195535302162
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.021330803632736206
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.021243277937173843
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021012574434280396
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.020519759505987167
+trial_1	placebo	147	KG00098000	atelectases	0.020343560725450516
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.020336557179689407
+trial_1	placebo	221	KG00101207	peripheral oedema	0.020264098420739174
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02020241506397724
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.019869375973939896
+trial_1	placebo	164	KG00108827	ileus colon	0.019759684801101685
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.019646817818284035
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01924704574048519
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01906057447195053
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.018820814788341522
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.018678652122616768
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018667016178369522
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.01833518221974373
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.017566923052072525
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01724359393119812
+trial_1	placebo	4	KG00098817	epistaxis	0.017008230090141296
+trial_1	placebo	186	KG00101431	creatinine increased	0.016863735392689705
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.01680903695523739
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.016577592119574547
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.016487030312418938
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.016158519312739372
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.016013534739613533
+trial_2	agomelatine	87	KG00098599	diarrhoea	0.19220544397830963
+trial_2	agomelatine	9	KG00098432	Confusion NOS	0.17526377737522125
+trial_2	agomelatine	68	KG00099901	nauseas	0.16736724972724915
+trial_2	agomelatine	17	KG00097991	Asthenia NOS	0.14465704560279846
+trial_2	agomelatine	49	KG00099902	nausea with vomiting	0.14082852005958557
+trial_2	agomelatine	79	KG00100317	Insomnia, Primary	0.13546431064605713
+trial_2	agomelatine	78	KG00099326	Hypertensive diseases	0.12068355828523636
+trial_2	agomelatine	77	KG00098450	Constipation NOS	0.118764229118824
+trial_2	agomelatine	173	KG00098172	Bronchopneumonia NOS	0.09671912342309952
+trial_2	agomelatine	46	KG00099121	Headache NOS	0.0965145006775856
+trial_2	agomelatine	101	KG00097901	Anorexia NOS	0.09195110946893692
+trial_2	agomelatine	20	KG00098540	dehydration	0.07759332656860352
+trial_2	agomelatine	228	KG00114657	Weight below normal	0.07606203854084015
+trial_2	agomelatine	37	KG00097696	Cramps, Abdominal	0.07443995028734207
+trial_2	agomelatine	189	KG00101580	Alanine aminotransferase increase	0.06657154858112335
+trial_2	agomelatine	21	KG00098675	dyspnoea	0.06632520258426666
+trial_2	agomelatine	177	KG00099299	hyperglycaemia	0.06601084768772125
+trial_2	agomelatine	123	KG00099351	hypokalaemia	0.06515767425298691
+trial_2	agomelatine	67	KG00098673	Dyspepsia, NOS	0.061322953552007675
+trial_2	agomelatine	86	KG00098565	Depression, Mental	0.0550132691860199
+trial_2	agomelatine	188	KG00101579	Aspartate aminotransferase increase	0.05138615891337395
+trial_2	agomelatine	102	KG00097916	anxieties	0.05129517614841461
+trial_2	agomelatine	114	KG00098933	fevers	0.050795506685972214
+trial_2	agomelatine	104	KG00097963	arthralgias	0.050577178597450256
+trial_2	agomelatine	300	KG00101064	xerostomia	0.04949816316366196
+trial_2	agomelatine	151	KG00098274	Infarction, Cerebral	0.048357076942920685
+trial_2	agomelatine	64	KG00097734	Acrodermatitis, NOS	0.04817051813006401
+trial_2	agomelatine	85	KG00098474	coughs	0.04393114522099495
+trial_2	agomelatine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04308110475540161
+trial_2	agomelatine	132	KG00101045	Gain, Weight	0.0422532819211483
+trial_2	agomelatine	180	KG00099363	Hypotension NOS	0.04195159301161766
+trial_2	agomelatine	76	KG00100450	Respiratory insufficiency, NOS	0.04112055525183678
+trial_2	agomelatine	14	KG00097852	Anemia NOS	0.04042457789182663
+trial_2	agomelatine	66	KG00098642	drowsiness	0.039555493742227554
+trial_2	agomelatine	126	KG00100076	Pain NOS	0.03873926028609276
+trial_2	agomelatine	243	KG00100947	Micturition frequency increased	0.038108497858047485
+trial_2	agomelatine	200	KG00098539	Disorders, Deglutition	0.036335743963718414
+trial_2	agomelatine	199	KG00098371	Rhinitis (chronic) NOS	0.03495097532868385
+trial_2	agomelatine	29	KG00099354	hyponatraemia	0.03455246984958649
+trial_2	agomelatine	350	KG00106765	decreased platelet count	0.03252703696489334
+trial_2	agomelatine	239	KG00100128	pareses	0.03216629475355148
+trial_2	agomelatine	69	KG00100082	Palpitations NOS	0.030712701380252838
+trial_2	agomelatine	116	KG00098964	Pain in foot	0.030050471425056458
+trial_2	agomelatine	30	KG00099500	Acute Kidney Failure	0.029976828023791313
+trial_2	agomelatine	131	KG00100948	Urinary tract infection (& [NOS])	0.029620613902807236
+trial_2	agomelatine	139	KG00098855	Sinusitis, Ethmoid	0.02897793985903263
+trial_2	agomelatine	262	KG00101199	agitation	0.028354719281196594
+trial_2	agomelatine	89	KG00099301	Hyperhidrosis (disorder)	0.028002673760056496
+trial_2	agomelatine	234	KG00098669	dysgeusias	0.02791878953576088
+trial_2	agomelatine	5	KG00099169	haematuria	0.0276199858635664
+trial_2	agomelatine	18	KG00098307	Pain, Chest	0.027594659477472305
+trial_2	agomelatine	92	KG00100926	Infections, Upper Respiratory	0.02734437957406044
+trial_2	agomelatine	72	KG00103771	myalgias	0.02721693366765976
+trial_2	agomelatine	466	KG00101205	fall	0.027144048362970352
+trial_2	agomelatine	61	KG00099501	Chronic Kidney Failure	0.02711029164493084
+trial_2	agomelatine	191	KG00104055	Biliverdin increased	0.027000166475772858
+trial_2	agomelatine	204	KG00098849	Esophagitis, Peptic	0.02678370289504528
+trial_2	agomelatine	130	KG00100683	Stomatitis NOS	0.02620159275829792
+trial_2	agomelatine	261	KG00101559	raised alkaline phosphatase	0.026029366999864578
+trial_2	agomelatine	96	KG00101679	Unattended death NOS	0.025780539959669113
+trial_2	agomelatine	211	KG00100341	Pruritus NOS	0.02576553076505661
+trial_2	agomelatine	422	KG00101429	Creatine phosphokinase increased	0.025738859549164772
+trial_2	agomelatine	2	KG00100772	thrombocytopaenia	0.02538244053721428
+trial_2	agomelatine	242	KG00100855	tremors	0.025259943678975105
+trial_2	agomelatine	82	KG00097697	abdomen distended	0.025021111592650414
+trial_2	agomelatine	138	KG00098796	epidemic vomiting syndrome	0.023563042283058167
+trial_2	agomelatine	456	KG00099420	Influenzae	0.02343912608921528
+trial_2	agomelatine	11	KG00097993	Asthma NOS	0.02332431636750698
+trial_2	agomelatine	396	KG00100373	Embolism, Pulmonary	0.023269647732377052
+trial_2	agomelatine	122	KG00099321	Hypersensitivity NOS	0.02323571778833866
+trial_2	agomelatine	361	KG00098004	Fibrillation, Atrial	0.02287646010518074
+trial_2	agomelatine	38	KG00098066	Binocular vision disorders	0.02253209799528122
+trial_2	agomelatine	269	KG00100399	pyaemia	0.02181718684732914
+trial_2	agomelatine	286	KG00101110	Retention, Urinary	0.021582195535302162
+trial_2	agomelatine	166	KG00099773	menopausal syndrome	0.021330803632736206
+trial_2	agomelatine	28	KG00099347	hypoglycaemia	0.021243277937173843
+trial_2	agomelatine	441	KG00098262	cellulitis nos	0.021012574434280396
+trial_2	agomelatine	94	KG00103829	abdominal discomfort	0.020519759505987167
+trial_2	agomelatine	147	KG00098000	atelectases	0.020343560725450516
+trial_2	agomelatine	194	KG00110727	Neutrophil Count Decreased	0.020336557179689407
+trial_2	agomelatine	221	KG00101207	peripheral oedema	0.020264098420739174
+trial_2	agomelatine	36	KG00106434	Vision, Blurring Of	0.02020241506397724
+trial_2	agomelatine	31	KG00099872	Infarction, Myocardial	0.019869375973939896
+trial_2	agomelatine	164	KG00108827	ileus colon	0.019759684801101685
+trial_2	agomelatine	118	KG00099011	Gastritis NOS	0.019646817818284035
+trial_2	agomelatine	27	KG00099303	hyperkalaemia	0.01924704574048519
+trial_2	agomelatine	75	KG00100195	Dolens, Phlegmasia Alba	0.01906057447195053
+trial_2	agomelatine	355	KG00110857	lymphocyte count decreased	0.018820814788341522
+trial_2	agomelatine	341	KG00101472	Gamma-glutamyltransferase increased	0.018678652122616768
+trial_2	agomelatine	15	KG00097882	Angina pectoris NOS	0.018667016178369522
+trial_2	agomelatine	297	KG00099294	hypercholesterolaemia	0.01833518221974373
+trial_2	agomelatine	371	KG00098517	Cystitis (NOS)	0.017566923052072525
+trial_2	agomelatine	276	KG00099127	Arrest, Cardiac	0.01724359393119812
+trial_2	agomelatine	4	KG00098817	epistaxis	0.017008230090141296
+trial_2	agomelatine	186	KG00101431	creatinine increased	0.016863735392689705
+trial_2	agomelatine	225	KG00104032	Suicidal tendencies	0.01680903695523739
+trial_2	agomelatine	218	KG00100801	Tinnitus NOS	0.016577592119574547
+trial_2	agomelatine	394	KG00100243	Pneumonia, Aspiration	0.016487030312418938
+trial_2	agomelatine	179	KG00099342	hypocalcaemia	0.016158519312739372
+trial_2	agomelatine	33	KG00100094	Pancreatitis NOS	0.016013534739613533

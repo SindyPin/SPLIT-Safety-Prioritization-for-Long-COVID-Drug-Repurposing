@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12031178176403046
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09990457445383072
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09036440402269363
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0730116069316864
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07018823176622391
+trial_1	placebo	20	KG00098540	dehydration	0.06990785151720047
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.060220010578632355
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05768868699669838
+trial_1	placebo	46	KG00099121	Headache NOS	0.056994806975126266
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05697048082947731
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0554012656211853
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05312037467956543
+trial_1	placebo	21	KG00098675	dyspnoea	0.05301680043339729
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05135403200984001
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05054618790745735
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05014488473534584
+trial_1	placebo	68	KG00099901	nauseas	0.045228246599435806
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.045156609266996384
+trial_1	placebo	228	KG00114657	Weight below normal	0.04373592883348465
+trial_1	placebo	29	KG00099354	hyponatraemia	0.043208155781030655
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.041949015110731125
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04105891287326813
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04047609493136406
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04043328016996384
+trial_1	placebo	104	KG00097963	arthralgias	0.03614024072885513
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03553549945354462
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03477279096841812
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03389950096607208
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.033880334347486496
+trial_1	placebo	85	KG00098474	coughs	0.033089518547058105
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0330745168030262
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03156490623950958
+trial_1	placebo	350	KG00106765	decreased platelet count	0.029439695179462433
+trial_1	placebo	239	KG00100128	pareses	0.029210543259978294
+trial_1	placebo	126	KG00100076	Pain NOS	0.0287904255092144
+trial_1	placebo	262	KG00101199	agitation	0.02857990749180317
+trial_1	placebo	114	KG00098933	fevers	0.028460633009672165
+trial_1	placebo	300	KG00101064	xerostomia	0.028178634122014046
+trial_1	placebo	242	KG00100855	tremors	0.028168529272079468
+trial_1	placebo	66	KG00098642	drowsiness	0.02812311239540577
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.027574947103857994
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.027159906923770905
+trial_1	placebo	102	KG00097916	anxieties	0.027104273438453674
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02690359391272068
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.026610245928168297
+trial_1	placebo	14	KG00097852	Anemia NOS	0.026509257033467293
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02642061747610569
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02425914816558361
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02316105365753174
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022577891126275063
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022352201864123344
+trial_1	placebo	5	KG00099169	haematuria	0.02212555706501007
+trial_1	placebo	466	KG00101205	fall	0.022095056250691414
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02196568250656128
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02173539809882641
+trial_1	placebo	147	KG00098000	atelectases	0.02147787995636463
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02121628262102604
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.021157613024115562
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.020788604393601418
+trial_1	placebo	121	KG00099190	haemorrhage	0.02055671438574791
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.020511016249656677
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020452050492167473
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019812313839793205
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019527437165379524
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01931772753596306
+trial_1	placebo	164	KG00108827	ileus colon	0.019084161147475243
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.018557259812951088
+trial_1	placebo	82	KG00097697	abdomen distended	0.018363891169428825
+trial_1	placebo	269	KG00100399	pyaemia	0.01819610223174095
+trial_1	placebo	72	KG00103771	myalgias	0.018169023096561432
+trial_1	placebo	116	KG00098964	Pain in foot	0.018073299899697304
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.017942633479833603
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017912613227963448
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.017731158062815666
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016924463212490082
+trial_1	placebo	508	KG00108565	blood glucose increased	0.016571762040257454
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016428517177700996
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.016420582309365273
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.016283515840768814
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.016207607463002205
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01620047725737095
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01596023701131344
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015911715105175972
+trial_1	placebo	282	KG00099309	hypernatraemia	0.015899041667580605
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01576326973736286
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.015726640820503235
+trial_1	placebo	456	KG00099420	Influenzae	0.015446873381733894
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01533734705299139
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0152584845200181
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.015164339914917946
+trial_1	placebo	154	KG00099686	Lymphopenias	0.014954732730984688
+trial_1	placebo	136	KG00101582	Dry;skin	0.014862678945064545
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.014647245407104492
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014614180661737919
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014556297101080418
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014456138014793396
+trial_1	placebo	153	KG00099579	lethargy	0.014426649548113346
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014344126917421818
+trial_1	placebo	234	KG00098669	dysgeusias	0.01431762333959341
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01429492887109518
+trial_2	amisulpride	87	KG00098599	diarrhoea	0.12031178176403046
+trial_2	amisulpride	78	KG00099326	Hypertensive diseases	0.09990457445383072
+trial_2	amisulpride	17	KG00097991	Asthenia NOS	0.09036440402269363
+trial_2	amisulpride	9	KG00098432	Confusion NOS	0.0730116069316864
+trial_2	amisulpride	177	KG00099299	hyperglycaemia	0.07018823176622391
+trial_2	amisulpride	20	KG00098540	dehydration	0.06990785151720047
+trial_2	amisulpride	173	KG00098172	Bronchopneumonia NOS	0.060220010578632355
+trial_2	amisulpride	189	KG00101580	Alanine aminotransferase increase	0.05768868699669838
+trial_2	amisulpride	46	KG00099121	Headache NOS	0.056994806975126266
+trial_2	amisulpride	123	KG00099351	hypokalaemia	0.05697048082947731
+trial_2	amisulpride	49	KG00099902	nausea with vomiting	0.0554012656211853
+trial_2	amisulpride	77	KG00098450	Constipation NOS	0.05312037467956543
+trial_2	amisulpride	21	KG00098675	dyspnoea	0.05301680043339729
+trial_2	amisulpride	132	KG00101045	Gain, Weight	0.05135403200984001
+trial_2	amisulpride	67	KG00098673	Dyspepsia, NOS	0.05054618790745735
+trial_2	amisulpride	79	KG00100317	Insomnia, Primary	0.05014488473534584
+trial_2	amisulpride	68	KG00099901	nauseas	0.045228246599435806
+trial_2	amisulpride	188	KG00101579	Aspartate aminotransferase increase	0.045156609266996384
+trial_2	amisulpride	228	KG00114657	Weight below normal	0.04373592883348465
+trial_2	amisulpride	29	KG00099354	hyponatraemia	0.043208155781030655
+trial_2	amisulpride	151	KG00098274	Infarction, Cerebral	0.041949015110731125
+trial_2	amisulpride	37	KG00097696	Cramps, Abdominal	0.04105891287326813
+trial_2	amisulpride	64	KG00097734	Acrodermatitis, NOS	0.04047609493136406
+trial_2	amisulpride	86	KG00098565	Depression, Mental	0.04043328016996384
+trial_2	amisulpride	104	KG00097963	arthralgias	0.03614024072885513
+trial_2	amisulpride	200	KG00098539	Disorders, Deglutition	0.03553549945354462
+trial_2	amisulpride	96	KG00101679	Unattended death NOS	0.03477279096841812
+trial_2	amisulpride	76	KG00100450	Respiratory insufficiency, NOS	0.03389950096607208
+trial_2	amisulpride	180	KG00099363	Hypotension NOS	0.033880334347486496
+trial_2	amisulpride	85	KG00098474	coughs	0.033089518547058105
+trial_2	amisulpride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0330745168030262
+trial_2	amisulpride	28	KG00099347	hypoglycaemia	0.03156490623950958
+trial_2	amisulpride	350	KG00106765	decreased platelet count	0.029439695179462433
+trial_2	amisulpride	239	KG00100128	pareses	0.029210543259978294
+trial_2	amisulpride	126	KG00100076	Pain NOS	0.0287904255092144
+trial_2	amisulpride	262	KG00101199	agitation	0.02857990749180317
+trial_2	amisulpride	114	KG00098933	fevers	0.028460633009672165
+trial_2	amisulpride	300	KG00101064	xerostomia	0.028178634122014046
+trial_2	amisulpride	242	KG00100855	tremors	0.028168529272079468
+trial_2	amisulpride	66	KG00098642	drowsiness	0.02812311239540577
+trial_2	amisulpride	243	KG00100947	Micturition frequency increased	0.027574947103857994
+trial_2	amisulpride	30	KG00099500	Acute Kidney Failure	0.027159906923770905
+trial_2	amisulpride	102	KG00097916	anxieties	0.027104273438453674
+trial_2	amisulpride	61	KG00099501	Chronic Kidney Failure	0.02690359391272068
+trial_2	amisulpride	101	KG00097901	Anorexia NOS	0.026610245928168297
+trial_2	amisulpride	14	KG00097852	Anemia NOS	0.026509257033467293
+trial_2	amisulpride	122	KG00099321	Hypersensitivity NOS	0.02642061747610569
+trial_2	amisulpride	36	KG00106434	Vision, Blurring Of	0.02425914816558361
+trial_2	amisulpride	422	KG00101429	Creatine phosphokinase increased	0.02316105365753174
+trial_2	amisulpride	191	KG00104055	Biliverdin increased	0.022577891126275063
+trial_2	amisulpride	18	KG00098307	Pain, Chest	0.022352201864123344
+trial_2	amisulpride	5	KG00099169	haematuria	0.02212555706501007
+trial_2	amisulpride	466	KG00101205	fall	0.022095056250691414
+trial_2	amisulpride	179	KG00099342	hypocalcaemia	0.02196568250656128
+trial_2	amisulpride	142	KG00100923	Unspecified infectious and parasitic diseases	0.02173539809882641
+trial_2	amisulpride	147	KG00098000	atelectases	0.02147787995636463
+trial_2	amisulpride	341	KG00101472	Gamma-glutamyltransferase increased	0.02121628262102604
+trial_2	amisulpride	27	KG00099303	hyperkalaemia	0.021157613024115562
+trial_2	amisulpride	131	KG00100948	Urinary tract infection (& [NOS])	0.020788604393601418
+trial_2	amisulpride	121	KG00099190	haemorrhage	0.02055671438574791
+trial_2	amisulpride	38	KG00098066	Binocular vision disorders	0.020511016249656677
+trial_2	amisulpride	261	KG00101559	raised alkaline phosphatase	0.020452050492167473
+trial_2	amisulpride	396	KG00100373	Embolism, Pulmonary	0.019812313839793205
+trial_2	amisulpride	194	KG00110727	Neutrophil Count Decreased	0.019527437165379524
+trial_2	amisulpride	2	KG00100772	thrombocytopaenia	0.01931772753596306
+trial_2	amisulpride	164	KG00108827	ileus colon	0.019084161147475243
+trial_2	amisulpride	199	KG00098371	Rhinitis (chronic) NOS	0.018557259812951088
+trial_2	amisulpride	82	KG00097697	abdomen distended	0.018363891169428825
+trial_2	amisulpride	269	KG00100399	pyaemia	0.01819610223174095
+trial_2	amisulpride	72	KG00103771	myalgias	0.018169023096561432
+trial_2	amisulpride	116	KG00098964	Pain in foot	0.018073299899697304
+trial_2	amisulpride	118	KG00099011	Gastritis NOS	0.017942633479833603
+trial_2	amisulpride	69	KG00100082	Palpitations NOS	0.017912613227963448
+trial_2	amisulpride	152	KG00099402	INCONTINENCE NOS	0.017731158062815666
+trial_2	amisulpride	286	KG00101110	Retention, Urinary	0.016924463212490082
+trial_2	amisulpride	508	KG00108565	blood glucose increased	0.016571762040257454
+trial_2	amisulpride	249	KG00104430	hypoalbuminaemia	0.016428517177700996
+trial_2	amisulpride	139	KG00098855	Sinusitis, Ethmoid	0.016420582309365273
+trial_2	amisulpride	130	KG00100683	Stomatitis NOS	0.016283515840768814
+trial_2	amisulpride	276	KG00099127	Arrest, Cardiac	0.016207607463002205
+trial_2	amisulpride	92	KG00100926	Infections, Upper Respiratory	0.01620047725737095
+trial_2	amisulpride	33	KG00100094	Pancreatitis NOS	0.01596023701131344
+trial_2	amisulpride	35	KG00101507	hypomagnesaemia	0.015911715105175972
+trial_2	amisulpride	282	KG00099309	hypernatraemia	0.015899041667580605
+trial_2	amisulpride	394	KG00100243	Pneumonia, Aspiration	0.01576326973736286
+trial_2	amisulpride	256	KG00100738	Tachycardia, Sinus	0.015726640820503235
+trial_2	amisulpride	456	KG00099420	Influenzae	0.015446873381733894
+trial_2	amisulpride	22	KG00098705	Edema (NOS)	0.01533734705299139
+trial_2	amisulpride	355	KG00110857	lymphocyte count decreased	0.0152584845200181
+trial_2	amisulpride	253	KG00100232	Pleural effusion NOS (disorder)	0.015164339914917946
+trial_2	amisulpride	154	KG00099686	Lymphopenias	0.014954732730984688
+trial_2	amisulpride	136	KG00101582	Dry;skin	0.014862678945064545
+trial_2	amisulpride	138	KG00098796	epidemic vomiting syndrome	0.014647245407104492
+trial_2	amisulpride	356	KG00112623	Infectious Lung Disorders	0.014614180661737919
+trial_2	amisulpride	371	KG00098517	Cystitis (NOS)	0.014556297101080418
+trial_2	amisulpride	11	KG00097993	Asthma NOS	0.014456138014793396
+trial_2	amisulpride	153	KG00099579	lethargy	0.014426649548113346
+trial_2	amisulpride	441	KG00098262	cellulitis nos	0.014344126917421818
+trial_2	amisulpride	234	KG00098669	dysgeusias	0.01431762333959341
+trial_2	amisulpride	75	KG00100195	Dolens, Phlegmasia Alba	0.01429492887109518

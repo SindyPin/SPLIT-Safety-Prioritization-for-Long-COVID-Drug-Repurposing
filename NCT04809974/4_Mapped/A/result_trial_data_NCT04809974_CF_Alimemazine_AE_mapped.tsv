@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16649021208286285
+trial_1	placebo	87	KG00098599	diarrhoea	0.15147942304611206
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1272648572921753
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10871413350105286
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09930111467838287
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08929675072431564
+trial_1	placebo	21	KG00098675	dyspnoea	0.08735304325819016
+trial_1	placebo	20	KG00098540	dehydration	0.08616362512111664
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08144096285104752
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07694593071937561
+trial_1	placebo	46	KG00099121	Headache NOS	0.0761260911822319
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0739673599600792
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07204924523830414
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0681581199169159
+trial_1	placebo	85	KG00098474	coughs	0.06666221469640732
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06650489568710327
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06524066627025604
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.062390800565481186
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06235494092106819
+trial_1	placebo	228	KG00114657	Weight below normal	0.06164809316396713
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05960335209965706
+trial_1	placebo	68	KG00099901	nauseas	0.057247593998909
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.057098086923360825
+trial_1	placebo	114	KG00098933	fevers	0.0560460202395916
+trial_1	placebo	104	KG00097963	arthralgias	0.053742460906505585
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05340324342250824
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05137664079666138
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05019785836338997
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05002119392156601
+trial_1	placebo	126	KG00100076	Pain NOS	0.04890109598636627
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.048060934990644455
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04772654175758362
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04533664509654045
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04440111294388771
+trial_1	placebo	239	KG00100128	pareses	0.04368077218532562
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04336070641875267
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.042653996497392654
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03950159624218941
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03722865879535675
+trial_1	placebo	102	KG00097916	anxieties	0.03667217865586281
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0363672636449337
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03590431436896324
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03568848595023155
+trial_1	placebo	5	KG00099169	haematuria	0.03568268567323685
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.035160016268491745
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.034978754818439484
+trial_1	placebo	262	KG00101199	agitation	0.03488290309906006
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.034420814365148544
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03424945846199989
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03329728543758392
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.032829947769641876
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03148490935564041
+trial_1	placebo	72	KG00103771	myalgias	0.030963318422436714
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030829858034849167
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03078320249915123
+trial_1	placebo	116	KG00098964	Pain in foot	0.03063960373401642
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03024410270154476
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02997545339167118
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.029642552137374878
+trial_1	placebo	66	KG00098642	drowsiness	0.029542678967118263
+trial_1	placebo	466	KG00101205	fall	0.029067952185869217
+trial_1	placebo	242	KG00100855	tremors	0.028364423662424088
+trial_1	placebo	300	KG00101064	xerostomia	0.028324754908680916
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.027971897274255753
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.027726400643587112
+trial_1	placebo	147	KG00098000	atelectases	0.027281956747174263
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.027205301448702812
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02683859132230282
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.026383595541119576
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02628934010863304
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.025879815220832825
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025857603177428246
+trial_1	placebo	269	KG00100399	pyaemia	0.025740448385477066
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025538872927427292
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024781078100204468
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.024371912702918053
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.024019233882427216
+trial_1	placebo	11	KG00097993	Asthma NOS	0.023903556168079376
+trial_1	placebo	456	KG00099420	Influenzae	0.0237225741147995
+trial_1	placebo	164	KG00108827	ileus colon	0.023528896272182465
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022824445739388466
+trial_1	placebo	339	KG00100334	proteinurias	0.022661209106445312
+trial_1	placebo	121	KG00099190	haemorrhage	0.022655228152871132
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02227713353931904
+trial_1	placebo	82	KG00097697	abdomen distended	0.022242987528443336
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021919509395956993
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.021915746852755547
+trial_1	placebo	234	KG00098669	dysgeusias	0.02184361405670643
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021730734035372734
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021594716235995293
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021582085639238358
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.021450214087963104
+trial_1	placebo	154	KG00099686	Lymphopenias	0.021410325542092323
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021324709057807922
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021242326125502586
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020598161965608597
+trial_1	placebo	153	KG00099579	lethargy	0.02059757150709629
+trial_1	placebo	100	KG00097815	alopecias	0.020553527399897575
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020493708550930023
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.020486770197749138
+trial_2	alimemazine	78	KG00099326	Hypertensive diseases	0.16649021208286285
+trial_2	alimemazine	87	KG00098599	diarrhoea	0.15147942304611206
+trial_2	alimemazine	17	KG00097991	Asthenia NOS	0.1272648572921753
+trial_2	alimemazine	177	KG00099299	hyperglycaemia	0.10871413350105286
+trial_2	alimemazine	173	KG00098172	Bronchopneumonia NOS	0.09930111467838287
+trial_2	alimemazine	9	KG00098432	Confusion NOS	0.08929675072431564
+trial_2	alimemazine	21	KG00098675	dyspnoea	0.08735304325819016
+trial_2	alimemazine	20	KG00098540	dehydration	0.08616362512111664
+trial_2	alimemazine	77	KG00098450	Constipation NOS	0.08144096285104752
+trial_2	alimemazine	189	KG00101580	Alanine aminotransferase increase	0.07694593071937561
+trial_2	alimemazine	46	KG00099121	Headache NOS	0.0761260911822319
+trial_2	alimemazine	123	KG00099351	hypokalaemia	0.0739673599600792
+trial_2	alimemazine	79	KG00100317	Insomnia, Primary	0.07204924523830414
+trial_2	alimemazine	188	KG00101579	Aspartate aminotransferase increase	0.0681581199169159
+trial_2	alimemazine	85	KG00098474	coughs	0.06666221469640732
+trial_2	alimemazine	37	KG00097696	Cramps, Abdominal	0.06650489568710327
+trial_2	alimemazine	49	KG00099902	nausea with vomiting	0.06524066627025604
+trial_2	alimemazine	67	KG00098673	Dyspepsia, NOS	0.062390800565481186
+trial_2	alimemazine	86	KG00098565	Depression, Mental	0.06235494092106819
+trial_2	alimemazine	228	KG00114657	Weight below normal	0.06164809316396713
+trial_2	alimemazine	64	KG00097734	Acrodermatitis, NOS	0.05960335209965706
+trial_2	alimemazine	68	KG00099901	nauseas	0.057247593998909
+trial_2	alimemazine	200	KG00098539	Disorders, Deglutition	0.057098086923360825
+trial_2	alimemazine	114	KG00098933	fevers	0.0560460202395916
+trial_2	alimemazine	104	KG00097963	arthralgias	0.053742460906505585
+trial_2	alimemazine	29	KG00099354	hyponatraemia	0.05340324342250824
+trial_2	alimemazine	14	KG00097852	Anemia NOS	0.05137664079666138
+trial_2	alimemazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05019785836338997
+trial_2	alimemazine	132	KG00101045	Gain, Weight	0.05002119392156601
+trial_2	alimemazine	126	KG00100076	Pain NOS	0.04890109598636627
+trial_2	alimemazine	151	KG00098274	Infarction, Cerebral	0.048060934990644455
+trial_2	alimemazine	350	KG00106765	decreased platelet count	0.04772654175758362
+trial_2	alimemazine	122	KG00099321	Hypersensitivity NOS	0.04533664509654045
+trial_2	alimemazine	180	KG00099363	Hypotension NOS	0.04440111294388771
+trial_2	alimemazine	239	KG00100128	pareses	0.04368077218532562
+trial_2	alimemazine	96	KG00101679	Unattended death NOS	0.04336070641875267
+trial_2	alimemazine	2	KG00100772	thrombocytopaenia	0.042653996497392654
+trial_2	alimemazine	76	KG00100450	Respiratory insufficiency, NOS	0.03950159624218941
+trial_2	alimemazine	30	KG00099500	Acute Kidney Failure	0.03722865879535675
+trial_2	alimemazine	102	KG00097916	anxieties	0.03667217865586281
+trial_2	alimemazine	61	KG00099501	Chronic Kidney Failure	0.0363672636449337
+trial_2	alimemazine	243	KG00100947	Micturition frequency increased	0.03590431436896324
+trial_2	alimemazine	131	KG00100948	Urinary tract infection (& [NOS])	0.03568848595023155
+trial_2	alimemazine	5	KG00099169	haematuria	0.03568268567323685
+trial_2	alimemazine	194	KG00110727	Neutrophil Count Decreased	0.035160016268491745
+trial_2	alimemazine	139	KG00098855	Sinusitis, Ethmoid	0.034978754818439484
+trial_2	alimemazine	262	KG00101199	agitation	0.03488290309906006
+trial_2	alimemazine	179	KG00099342	hypocalcaemia	0.034420814365148544
+trial_2	alimemazine	28	KG00099347	hypoglycaemia	0.03424945846199989
+trial_2	alimemazine	101	KG00097901	Anorexia NOS	0.03329728543758392
+trial_2	alimemazine	27	KG00099303	hyperkalaemia	0.032829947769641876
+trial_2	alimemazine	261	KG00101559	raised alkaline phosphatase	0.03148490935564041
+trial_2	alimemazine	72	KG00103771	myalgias	0.030963318422436714
+trial_2	alimemazine	396	KG00100373	Embolism, Pulmonary	0.030829858034849167
+trial_2	alimemazine	92	KG00100926	Infections, Upper Respiratory	0.03078320249915123
+trial_2	alimemazine	116	KG00098964	Pain in foot	0.03063960373401642
+trial_2	alimemazine	18	KG00098307	Pain, Chest	0.03024410270154476
+trial_2	alimemazine	38	KG00098066	Binocular vision disorders	0.02997545339167118
+trial_2	alimemazine	36	KG00106434	Vision, Blurring Of	0.029642552137374878
+trial_2	alimemazine	66	KG00098642	drowsiness	0.029542678967118263
+trial_2	alimemazine	466	KG00101205	fall	0.029067952185869217
+trial_2	alimemazine	242	KG00100855	tremors	0.028364423662424088
+trial_2	alimemazine	300	KG00101064	xerostomia	0.028324754908680916
+trial_2	alimemazine	1	KG00099959	Neutropenia NOS	0.027971897274255753
+trial_2	alimemazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.027726400643587112
+trial_2	alimemazine	147	KG00098000	atelectases	0.027281956747174263
+trial_2	alimemazine	144	KG00099610	Leukopenia NOS	0.027205301448702812
+trial_2	alimemazine	199	KG00098371	Rhinitis (chronic) NOS	0.02683859132230282
+trial_2	alimemazine	191	KG00104055	Biliverdin increased	0.026383595541119576
+trial_2	alimemazine	130	KG00100683	Stomatitis NOS	0.02628934010863304
+trial_2	alimemazine	355	KG00110857	lymphocyte count decreased	0.025879815220832825
+trial_2	alimemazine	341	KG00101472	Gamma-glutamyltransferase increased	0.025857603177428246
+trial_2	alimemazine	269	KG00100399	pyaemia	0.025740448385477066
+trial_2	alimemazine	69	KG00100082	Palpitations NOS	0.025538872927427292
+trial_2	alimemazine	508	KG00108565	blood glucose increased	0.024781078100204468
+trial_2	alimemazine	422	KG00101429	Creatine phosphokinase increased	0.024371912702918053
+trial_2	alimemazine	276	KG00099127	Arrest, Cardiac	0.024019233882427216
+trial_2	alimemazine	11	KG00097993	Asthma NOS	0.023903556168079376
+trial_2	alimemazine	456	KG00099420	Influenzae	0.0237225741147995
+trial_2	alimemazine	164	KG00108827	ileus colon	0.023528896272182465
+trial_2	alimemazine	282	KG00099309	hypernatraemia	0.022824445739388466
+trial_2	alimemazine	339	KG00100334	proteinurias	0.022661209106445312
+trial_2	alimemazine	121	KG00099190	haemorrhage	0.022655228152871132
+trial_2	alimemazine	204	KG00098849	Esophagitis, Peptic	0.02227713353931904
+trial_2	alimemazine	82	KG00097697	abdomen distended	0.022242987528443336
+trial_2	alimemazine	35	KG00101507	hypomagnesaemia	0.021919509395956993
+trial_2	alimemazine	97	KG00104198	LIVER ENZYME ELEVATED	0.021915746852755547
+trial_2	alimemazine	234	KG00098669	dysgeusias	0.02184361405670643
+trial_2	alimemazine	256	KG00100738	Tachycardia, Sinus	0.021730734035372734
+trial_2	alimemazine	249	KG00104430	hypoalbuminaemia	0.021594716235995293
+trial_2	alimemazine	253	KG00100232	Pleural effusion NOS (disorder)	0.021582085639238358
+trial_2	alimemazine	118	KG00099011	Gastritis NOS	0.021450214087963104
+trial_2	alimemazine	154	KG00099686	Lymphopenias	0.021410325542092323
+trial_2	alimemazine	297	KG00099294	hypercholesterolaemia	0.021324709057807922
+trial_2	alimemazine	75	KG00100195	Dolens, Phlegmasia Alba	0.021242326125502586
+trial_2	alimemazine	371	KG00098517	Cystitis (NOS)	0.020598161965608597
+trial_2	alimemazine	153	KG00099579	lethargy	0.02059757150709629
+trial_2	alimemazine	100	KG00097815	alopecias	0.020553527399897575
+trial_2	alimemazine	441	KG00098262	cellulitis nos	0.020493708550930023
+trial_2	alimemazine	152	KG00099402	INCONTINENCE NOS	0.020486770197749138

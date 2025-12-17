@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	132	KG00101045	Gain, Weight	0.2376558482646942
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11986879259347916
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11909674853086472
+trial_1	placebo	87	KG00098599	diarrhoea	0.10034072399139404
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09960795938968658
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09781580418348312
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0975278913974762
+trial_1	placebo	66	KG00098642	drowsiness	0.09592784941196442
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0927717462182045
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0910656601190567
+trial_1	placebo	242	KG00100855	tremors	0.08859321475028992
+trial_1	placebo	783	KG00106735	Acathisia	0.08548034727573395
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0825066789984703
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07763208448886871
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06970595568418503
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06862419843673706
+trial_1	placebo	20	KG00098540	dehydration	0.06785302609205246
+trial_1	placebo	262	KG00101199	agitation	0.06671500951051712
+trial_1	placebo	21	KG00098675	dyspnoea	0.05997269228100777
+trial_1	placebo	228	KG00114657	Weight below normal	0.05972721427679062
+trial_1	placebo	46	KG00099121	Headache NOS	0.058938100934028625
+trial_1	placebo	300	KG00101064	xerostomia	0.05509037524461746
+trial_1	placebo	333	KG00104019	DOPINESS	0.05243607982993126
+trial_1	placebo	102	KG00097916	anxieties	0.05181819945573807
+trial_1	placebo	104	KG00097963	arthralgias	0.05124058201909065
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.051224250346422195
+trial_1	placebo	68	KG00099901	nauseas	0.04961681738495827
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04886503517627716
+trial_1	placebo	85	KG00098474	coughs	0.04851920157670975
+trial_1	placebo	466	KG00101205	fall	0.04770202562212944
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04758761078119278
+trial_1	placebo	81	KG00103828	Increased appetite (finding)	0.04699617251753807
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.046588655561208725
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04371412843465805
+trial_1	placebo	114	KG00098933	fevers	0.04223661497235298
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04216736927628517
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04163292050361633
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04100509360432625
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.040899936109781265
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0404275618493557
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04008542373776436
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03917945921421051
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03836445137858391
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.036807432770729065
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03651903569698334
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03561711311340332
+trial_1	placebo	456	KG00099420	Influenzae	0.03473325073719025
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03471196070313454
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03450973704457283
+trial_1	placebo	290	KG00103881	Physical wandering	0.03405977040529251
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.033330585807561874
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03250476345419884
+trial_1	placebo	281	KG00098869	extrapyramidal; disorder	0.031557101756334305
+trial_1	placebo	7	KG00097787	Aggressive Behaviour	0.031152060255408287
+trial_1	placebo	80	KG00100516	of saliva secretion	0.029614387080073357
+trial_1	placebo	239	KG00100128	pareses	0.028968460857868195
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.028862204402685165
+trial_1	placebo	116	KG00098964	Pain in foot	0.028768353164196014
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028546836227178574
+trial_1	placebo	126	KG00100076	Pain NOS	0.028387486934661865
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02835535630583763
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02807104028761387
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.027933506295084953
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.027740171179175377
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02747034654021263
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.027310214936733246
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026846399530768394
+trial_1	placebo	493	KG00098679	dystonias	0.026685163378715515
+trial_1	placebo	739	KG00100119	Paraphrenia, NOS	0.02650807797908783
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026470571756362915
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.0263503547757864
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.024818625301122665
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02434922568500042
+trial_1	placebo	5	KG00099169	haematuria	0.023296430706977844
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022820547223091125
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02257775515317917
+trial_1	placebo	342	KG00101570	intervals prolonged qt	0.02237161062657833
+trial_1	placebo	933	KG00103917	Auditory Hallucinations	0.0223454087972641
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.021224379539489746
+trial_1	placebo	18	KG00098307	Pain, Chest	0.020950529724359512
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02060212753713131
+trial_1	placebo	280	KG00098670	DYSKINETIC SYNDROME	0.020183196291327477
+trial_1	placebo	363	KG00098184	burns injury	0.019753653556108475
+trial_1	placebo	178	KG00099307	Type IV Hyperlipoproteinemia	0.019552187994122505
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01946565881371498
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019453348591923714
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019345741719007492
+trial_1	placebo	339	KG00100334	proteinurias	0.01929551735520363
+trial_1	placebo	153	KG00099579	lethargy	0.019104845821857452
+trial_1	placebo	578	KG00097808	Intoxication, Chronic Alcoholic	0.018989767879247665
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018965404480695724
+trial_1	placebo	310	KG00097940	Appendicitis NOS	0.01894276961684227
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.018922634422779083
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018870549276471138
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.018442120403051376
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018142154440283775
+trial_1	placebo	269	KG00100399	pyaemia	0.01812988519668579
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.017994748428463936
+trial_1	placebo	147	KG00098000	atelectases	0.017652573063969612
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.017644992098212242
+trial_2	aripiprazole	132	KG00101045	Gain, Weight	0.2376558482646942
+trial_2	aripiprazole	17	KG00097991	Asthenia NOS	0.11986879259347916
+trial_2	aripiprazole	78	KG00099326	Hypertensive diseases	0.11909674853086472
+trial_2	aripiprazole	87	KG00098599	diarrhoea	0.10034072399139404
+trial_2	aripiprazole	9	KG00098432	Confusion NOS	0.09960795938968658
+trial_2	aripiprazole	79	KG00100317	Insomnia, Primary	0.09781580418348312
+trial_2	aripiprazole	173	KG00098172	Bronchopneumonia NOS	0.0975278913974762
+trial_2	aripiprazole	66	KG00098642	drowsiness	0.09592784941196442
+trial_2	aripiprazole	86	KG00098565	Depression, Mental	0.0927717462182045
+trial_2	aripiprazole	177	KG00099299	hyperglycaemia	0.0910656601190567
+trial_2	aripiprazole	242	KG00100855	tremors	0.08859321475028992
+trial_2	aripiprazole	783	KG00106735	Acathisia	0.08548034727573395
+trial_2	aripiprazole	77	KG00098450	Constipation NOS	0.0825066789984703
+trial_2	aripiprazole	151	KG00098274	Infarction, Cerebral	0.07763208448886871
+trial_2	aripiprazole	49	KG00099902	nausea with vomiting	0.06970595568418503
+trial_2	aripiprazole	189	KG00101580	Alanine aminotransferase increase	0.06862419843673706
+trial_2	aripiprazole	20	KG00098540	dehydration	0.06785302609205246
+trial_2	aripiprazole	262	KG00101199	agitation	0.06671500951051712
+trial_2	aripiprazole	21	KG00098675	dyspnoea	0.05997269228100777
+trial_2	aripiprazole	228	KG00114657	Weight below normal	0.05972721427679062
+trial_2	aripiprazole	46	KG00099121	Headache NOS	0.058938100934028625
+trial_2	aripiprazole	300	KG00101064	xerostomia	0.05509037524461746
+trial_2	aripiprazole	333	KG00104019	DOPINESS	0.05243607982993126
+trial_2	aripiprazole	102	KG00097916	anxieties	0.05181819945573807
+trial_2	aripiprazole	104	KG00097963	arthralgias	0.05124058201909065
+trial_2	aripiprazole	199	KG00098371	Rhinitis (chronic) NOS	0.051224250346422195
+trial_2	aripiprazole	68	KG00099901	nauseas	0.04961681738495827
+trial_2	aripiprazole	188	KG00101579	Aspartate aminotransferase increase	0.04886503517627716
+trial_2	aripiprazole	85	KG00098474	coughs	0.04851920157670975
+trial_2	aripiprazole	466	KG00101205	fall	0.04770202562212944
+trial_2	aripiprazole	29	KG00099354	hyponatraemia	0.04758761078119278
+trial_2	aripiprazole	81	KG00103828	Increased appetite (finding)	0.04699617251753807
+trial_2	aripiprazole	96	KG00101679	Unattended death NOS	0.046588655561208725
+trial_2	aripiprazole	64	KG00097734	Acrodermatitis, NOS	0.04371412843465805
+trial_2	aripiprazole	114	KG00098933	fevers	0.04223661497235298
+trial_2	aripiprazole	123	KG00099351	hypokalaemia	0.04216736927628517
+trial_2	aripiprazole	28	KG00099347	hypoglycaemia	0.04163292050361633
+trial_2	aripiprazole	37	KG00097696	Cramps, Abdominal	0.04100509360432625
+trial_2	aripiprazole	182	KG00100366	Disorders, Psychotic	0.040899936109781265
+trial_2	aripiprazole	67	KG00098673	Dyspepsia, NOS	0.0404275618493557
+trial_2	aripiprazole	76	KG00100450	Respiratory insufficiency, NOS	0.04008542373776436
+trial_2	aripiprazole	30	KG00099500	Acute Kidney Failure	0.03917945921421051
+trial_2	aripiprazole	180	KG00099363	Hypotension NOS	0.03836445137858391
+trial_2	aripiprazole	200	KG00098539	Disorders, Deglutition	0.036807432770729065
+trial_2	aripiprazole	92	KG00100926	Infections, Upper Respiratory	0.03651903569698334
+trial_2	aripiprazole	422	KG00101429	Creatine phosphokinase increased	0.03561711311340332
+trial_2	aripiprazole	456	KG00099420	Influenzae	0.03473325073719025
+trial_2	aripiprazole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03471196070313454
+trial_2	aripiprazole	101	KG00097901	Anorexia NOS	0.03450973704457283
+trial_2	aripiprazole	290	KG00103881	Physical wandering	0.03405977040529251
+trial_2	aripiprazole	36	KG00106434	Vision, Blurring Of	0.033330585807561874
+trial_2	aripiprazole	11	KG00097993	Asthma NOS	0.03250476345419884
+trial_2	aripiprazole	281	KG00098869	extrapyramidal; disorder	0.031557101756334305
+trial_2	aripiprazole	7	KG00097787	Aggressive Behaviour	0.031152060255408287
+trial_2	aripiprazole	80	KG00100516	of saliva secretion	0.029614387080073357
+trial_2	aripiprazole	239	KG00100128	pareses	0.028968460857868195
+trial_2	aripiprazole	131	KG00100948	Urinary tract infection (& [NOS])	0.028862204402685165
+trial_2	aripiprazole	116	KG00098964	Pain in foot	0.028768353164196014
+trial_2	aripiprazole	350	KG00106765	decreased platelet count	0.028546836227178574
+trial_2	aripiprazole	126	KG00100076	Pain NOS	0.028387486934661865
+trial_2	aripiprazole	243	KG00100947	Micturition frequency increased	0.02835535630583763
+trial_2	aripiprazole	139	KG00098855	Sinusitis, Ethmoid	0.02807104028761387
+trial_2	aripiprazole	225	KG00104032	Suicidal tendencies	0.027933506295084953
+trial_2	aripiprazole	341	KG00101472	Gamma-glutamyltransferase increased	0.027740171179175377
+trial_2	aripiprazole	152	KG00099402	INCONTINENCE NOS	0.02747034654021263
+trial_2	aripiprazole	118	KG00099011	Gastritis NOS	0.027310214936733246
+trial_2	aripiprazole	61	KG00099501	Chronic Kidney Failure	0.026846399530768394
+trial_2	aripiprazole	493	KG00098679	dystonias	0.026685163378715515
+trial_2	aripiprazole	739	KG00100119	Paraphrenia, NOS	0.02650807797908783
+trial_2	aripiprazole	69	KG00100082	Palpitations NOS	0.026470571756362915
+trial_2	aripiprazole	297	KG00099294	hypercholesterolaemia	0.0263503547757864
+trial_2	aripiprazole	138	KG00098796	epidemic vomiting syndrome	0.024818625301122665
+trial_2	aripiprazole	122	KG00099321	Hypersensitivity NOS	0.02434922568500042
+trial_2	aripiprazole	5	KG00099169	haematuria	0.023296430706977844
+trial_2	aripiprazole	508	KG00108565	blood glucose increased	0.022820547223091125
+trial_2	aripiprazole	14	KG00097852	Anemia NOS	0.02257775515317917
+trial_2	aripiprazole	342	KG00101570	intervals prolonged qt	0.02237161062657833
+trial_2	aripiprazole	933	KG00103917	Auditory Hallucinations	0.0223454087972641
+trial_2	aripiprazole	394	KG00100243	Pneumonia, Aspiration	0.021224379539489746
+trial_2	aripiprazole	18	KG00098307	Pain, Chest	0.020950529724359512
+trial_2	aripiprazole	191	KG00104055	Biliverdin increased	0.02060212753713131
+trial_2	aripiprazole	280	KG00098670	DYSKINETIC SYNDROME	0.020183196291327477
+trial_2	aripiprazole	363	KG00098184	burns injury	0.019753653556108475
+trial_2	aripiprazole	178	KG00099307	Type IV Hyperlipoproteinemia	0.019552187994122505
+trial_2	aripiprazole	142	KG00100923	Unspecified infectious and parasitic diseases	0.01946565881371498
+trial_2	aripiprazole	38	KG00098066	Binocular vision disorders	0.019453348591923714
+trial_2	aripiprazole	194	KG00110727	Neutrophil Count Decreased	0.019345741719007492
+trial_2	aripiprazole	339	KG00100334	proteinurias	0.01929551735520363
+trial_2	aripiprazole	153	KG00099579	lethargy	0.019104845821857452
+trial_2	aripiprazole	578	KG00097808	Intoxication, Chronic Alcoholic	0.018989767879247665
+trial_2	aripiprazole	204	KG00098849	Esophagitis, Peptic	0.018965404480695724
+trial_2	aripiprazole	310	KG00097940	Appendicitis NOS	0.01894276961684227
+trial_2	aripiprazole	261	KG00101559	raised alkaline phosphatase	0.018922634422779083
+trial_2	aripiprazole	130	KG00100683	Stomatitis NOS	0.018870549276471138
+trial_2	aripiprazole	232	KG00097997	Ataxia NOS	0.018442120403051376
+trial_2	aripiprazole	27	KG00099303	hyperkalaemia	0.018142154440283775
+trial_2	aripiprazole	269	KG00100399	pyaemia	0.01812988519668579
+trial_2	aripiprazole	286	KG00101110	Retention, Urinary	0.017994748428463936
+trial_2	aripiprazole	147	KG00098000	atelectases	0.017652573063969612
+trial_2	aripiprazole	179	KG00099342	hypocalcaemia	0.017644992098212242

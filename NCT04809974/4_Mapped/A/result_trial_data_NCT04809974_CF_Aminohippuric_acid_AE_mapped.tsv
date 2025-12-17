@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.16044893860816956
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.151689812541008
+trial_1	placebo	46	KG00099121	Headache NOS	0.11967381834983826
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10889562219381332
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10595683008432388
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09048938006162643
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08332916349172592
+trial_1	placebo	21	KG00098675	dyspnoea	0.08109071105718613
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07822009176015854
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07030247896909714
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06711312383413315
+trial_1	placebo	20	KG00098540	dehydration	0.06590090692043304
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06372445076704025
+trial_1	placebo	68	KG00099901	nauseas	0.06271877139806747
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06253015995025635
+trial_1	placebo	114	KG00098933	fevers	0.06112714484333992
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06107078120112419
+trial_1	placebo	126	KG00100076	Pain NOS	0.059299126267433167
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.057741209864616394
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05706692114472389
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05598487704992294
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.054777633398771286
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.054685067385435104
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05443708226084709
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.051235876977443695
+trial_1	placebo	85	KG00098474	coughs	0.05107181519269943
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04911303520202637
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.045367270708084106
+trial_1	placebo	147	KG00098000	atelectases	0.04523944482207298
+trial_1	placebo	228	KG00114657	Weight below normal	0.044726770371198654
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04434814676642418
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04335921257734299
+trial_1	placebo	269	KG00100399	pyaemia	0.043061718344688416
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04302988946437836
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04300912842154503
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.042799390852451324
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.042261116206645966
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04212749004364014
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.041313666850328445
+trial_1	placebo	116	KG00098964	Pain in foot	0.03951297327876091
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03865789994597435
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.037481922656297684
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03633037582039833
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03430550917983055
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03374330699443817
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03368396684527397
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03252659738063812
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03043428435921669
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.030270805582404137
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.03008921630680561
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029760608449578285
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.029682621359825134
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0292140394449234
+trial_1	placebo	11	KG00097993	Asthma NOS	0.028618283569812775
+trial_1	placebo	4	KG00098817	epistaxis	0.028567923232913017
+trial_1	placebo	104	KG00097963	arthralgias	0.028481848537921906
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02693760208785534
+trial_1	placebo	72	KG00103771	myalgias	0.026891669258475304
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026560503989458084
+trial_1	placebo	121	KG00099190	haemorrhage	0.026353830471634865
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.025953518226742744
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025916656479239464
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.025480322539806366
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02474096417427063
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024732261896133423
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02473207749426365
+trial_1	placebo	82	KG00097697	abdomen distended	0.02462957799434662
+trial_1	placebo	5	KG00099169	haematuria	0.024627480655908585
+trial_1	placebo	282	KG00099309	hypernatraemia	0.024590974673628807
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02458886429667473
+trial_1	placebo	239	KG00100128	pareses	0.024507682770490646
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.024184023961424828
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.024098895490169525
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.023737382143735886
+trial_1	placebo	86	KG00098565	Depression, Mental	0.023471202701330185
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02344316430389881
+trial_1	placebo	25	KG00099134	congestive failures heart	0.023217711597681046
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.021920153871178627
+trial_1	placebo	339	KG00100334	proteinurias	0.02152133733034134
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02148323319852352
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.021449128165841103
+trial_1	placebo	164	KG00108827	ileus colon	0.02132670395076275
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02093442715704441
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02062097378075123
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020484551787376404
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020228901877999306
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02020476944744587
+trial_1	placebo	208	KG00099896	Nasal congestion (finding)	0.019847556948661804
+trial_1	placebo	186	KG00101431	creatinine increased	0.019612343981862068
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0195454154163599
+trial_1	placebo	503	KG00102612	low haemoglobin	0.019241182133555412
+trial_1	placebo	24	KG00099015	Hemorrhage, Gastrointestinal	0.01879734918475151
+trial_1	placebo	257	KG00100922	Erythema NOS	0.01870284229516983
+trial_1	placebo	102	KG00097916	anxieties	0.018537404015660286
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01838749274611473
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01809774339199066
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018026702105998993
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.018010351806879044
+trial_1	placebo	466	KG00101205	fall	0.01786508783698082
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.017863614484667778
+trial_2	aminohippuric acid	87	KG00098599	diarrhoea	0.16044893860816956
+trial_2	aminohippuric acid	78	KG00099326	Hypertensive diseases	0.151689812541008
+trial_2	aminohippuric acid	46	KG00099121	Headache NOS	0.11967381834983826
+trial_2	aminohippuric acid	123	KG00099351	hypokalaemia	0.10889562219381332
+trial_2	aminohippuric acid	173	KG00098172	Bronchopneumonia NOS	0.10595683008432388
+trial_2	aminohippuric acid	14	KG00097852	Anemia NOS	0.09048938006162643
+trial_2	aminohippuric acid	37	KG00097696	Cramps, Abdominal	0.08332916349172592
+trial_2	aminohippuric acid	21	KG00098675	dyspnoea	0.08109071105718613
+trial_2	aminohippuric acid	9	KG00098432	Confusion NOS	0.07822009176015854
+trial_2	aminohippuric acid	49	KG00099902	nausea with vomiting	0.07030247896909714
+trial_2	aminohippuric acid	177	KG00099299	hyperglycaemia	0.06711312383413315
+trial_2	aminohippuric acid	20	KG00098540	dehydration	0.06590090692043304
+trial_2	aminohippuric acid	67	KG00098673	Dyspepsia, NOS	0.06372445076704025
+trial_2	aminohippuric acid	68	KG00099901	nauseas	0.06271877139806747
+trial_2	aminohippuric acid	64	KG00097734	Acrodermatitis, NOS	0.06253015995025635
+trial_2	aminohippuric acid	114	KG00098933	fevers	0.06112714484333992
+trial_2	aminohippuric acid	61	KG00099501	Chronic Kidney Failure	0.06107078120112419
+trial_2	aminohippuric acid	126	KG00100076	Pain NOS	0.059299126267433167
+trial_2	aminohippuric acid	76	KG00100450	Respiratory insufficiency, NOS	0.057741209864616394
+trial_2	aminohippuric acid	2	KG00100772	thrombocytopaenia	0.05706692114472389
+trial_2	aminohippuric acid	276	KG00099127	Arrest, Cardiac	0.05598487704992294
+trial_2	aminohippuric acid	188	KG00101579	Aspartate aminotransferase increase	0.054777633398771286
+trial_2	aminohippuric acid	200	KG00098539	Disorders, Deglutition	0.054685067385435104
+trial_2	aminohippuric acid	180	KG00099363	Hypotension NOS	0.05443708226084709
+trial_2	aminohippuric acid	189	KG00101580	Alanine aminotransferase increase	0.051235876977443695
+trial_2	aminohippuric acid	85	KG00098474	coughs	0.05107181519269943
+trial_2	aminohippuric acid	17	KG00097991	Asthenia NOS	0.04911303520202637
+trial_2	aminohippuric acid	396	KG00100373	Embolism, Pulmonary	0.045367270708084106
+trial_2	aminohippuric acid	147	KG00098000	atelectases	0.04523944482207298
+trial_2	aminohippuric acid	228	KG00114657	Weight below normal	0.044726770371198654
+trial_2	aminohippuric acid	96	KG00101679	Unattended death NOS	0.04434814676642418
+trial_2	aminohippuric acid	18	KG00098307	Pain, Chest	0.04335921257734299
+trial_2	aminohippuric acid	269	KG00100399	pyaemia	0.043061718344688416
+trial_2	aminohippuric acid	30	KG00099500	Acute Kidney Failure	0.04302988946437836
+trial_2	aminohippuric acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.04300912842154503
+trial_2	aminohippuric acid	151	KG00098274	Infarction, Cerebral	0.042799390852451324
+trial_2	aminohippuric acid	79	KG00100317	Insomnia, Primary	0.042261116206645966
+trial_2	aminohippuric acid	77	KG00098450	Constipation NOS	0.04212749004364014
+trial_2	aminohippuric acid	131	KG00100948	Urinary tract infection (& [NOS])	0.041313666850328445
+trial_2	aminohippuric acid	116	KG00098964	Pain in foot	0.03951297327876091
+trial_2	aminohippuric acid	350	KG00106765	decreased platelet count	0.03865789994597435
+trial_2	aminohippuric acid	28	KG00099347	hypoglycaemia	0.037481922656297684
+trial_2	aminohippuric acid	29	KG00099354	hyponatraemia	0.03633037582039833
+trial_2	aminohippuric acid	69	KG00100082	Palpitations NOS	0.03430550917983055
+trial_2	aminohippuric acid	441	KG00098262	cellulitis nos	0.03374330699443817
+trial_2	aminohippuric acid	139	KG00098855	Sinusitis, Ethmoid	0.03368396684527397
+trial_2	aminohippuric acid	101	KG00097901	Anorexia NOS	0.03252659738063812
+trial_2	aminohippuric acid	27	KG00099303	hyperkalaemia	0.03043428435921669
+trial_2	aminohippuric acid	253	KG00100232	Pleural effusion NOS (disorder)	0.030270805582404137
+trial_2	aminohippuric acid	268	KG00099557	Heart Failure, Left-Sided	0.03008921630680561
+trial_2	aminohippuric acid	204	KG00098849	Esophagitis, Peptic	0.029760608449578285
+trial_2	aminohippuric acid	138	KG00098796	epidemic vomiting syndrome	0.029682621359825134
+trial_2	aminohippuric acid	122	KG00099321	Hypersensitivity NOS	0.0292140394449234
+trial_2	aminohippuric acid	11	KG00097993	Asthma NOS	0.028618283569812775
+trial_2	aminohippuric acid	4	KG00098817	epistaxis	0.028567923232913017
+trial_2	aminohippuric acid	104	KG00097963	arthralgias	0.028481848537921906
+trial_2	aminohippuric acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02693760208785534
+trial_2	aminohippuric acid	72	KG00103771	myalgias	0.026891669258475304
+trial_2	aminohippuric acid	75	KG00100195	Dolens, Phlegmasia Alba	0.026560503989458084
+trial_2	aminohippuric acid	121	KG00099190	haemorrhage	0.026353830471634865
+trial_2	aminohippuric acid	494	KG00099838	Organ Failure, Multiple	0.025953518226742744
+trial_2	aminohippuric acid	31	KG00099872	Infarction, Myocardial	0.025916656479239464
+trial_2	aminohippuric acid	191	KG00104055	Biliverdin increased	0.025480322539806366
+trial_2	aminohippuric acid	38	KG00098066	Binocular vision disorders	0.02474096417427063
+trial_2	aminohippuric acid	92	KG00100926	Infections, Upper Respiratory	0.024732261896133423
+trial_2	aminohippuric acid	361	KG00098004	Fibrillation, Atrial	0.02473207749426365
+trial_2	aminohippuric acid	82	KG00097697	abdomen distended	0.02462957799434662
+trial_2	aminohippuric acid	5	KG00099169	haematuria	0.024627480655908585
+trial_2	aminohippuric acid	282	KG00099309	hypernatraemia	0.024590974673628807
+trial_2	aminohippuric acid	211	KG00100341	Pruritus NOS	0.02458886429667473
+trial_2	aminohippuric acid	239	KG00100128	pareses	0.024507682770490646
+trial_2	aminohippuric acid	194	KG00110727	Neutrophil Count Decreased	0.024184023961424828
+trial_2	aminohippuric acid	356	KG00112623	Infectious Lung Disorders	0.024098895490169525
+trial_2	aminohippuric acid	97	KG00104198	LIVER ENZYME ELEVATED	0.023737382143735886
+trial_2	aminohippuric acid	86	KG00098565	Depression, Mental	0.023471202701330185
+trial_2	aminohippuric acid	394	KG00100243	Pneumonia, Aspiration	0.02344316430389881
+trial_2	aminohippuric acid	25	KG00099134	congestive failures heart	0.023217711597681046
+trial_2	aminohippuric acid	179	KG00099342	hypocalcaemia	0.021920153871178627
+trial_2	aminohippuric acid	339	KG00100334	proteinurias	0.02152133733034134
+trial_2	aminohippuric acid	221	KG00101207	peripheral oedema	0.02148323319852352
+trial_2	aminohippuric acid	747	KG00101527	Liver function tests abnormal (finding)	0.021449128165841103
+trial_2	aminohippuric acid	164	KG00108827	ileus colon	0.02132670395076275
+trial_2	aminohippuric acid	33	KG00100094	Pancreatitis NOS	0.02093442715704441
+trial_2	aminohippuric acid	243	KG00100947	Micturition frequency increased	0.02062097378075123
+trial_2	aminohippuric acid	22	KG00098705	Edema (NOS)	0.020484551787376404
+trial_2	aminohippuric acid	261	KG00101559	raised alkaline phosphatase	0.020228901877999306
+trial_2	aminohippuric acid	508	KG00108565	blood glucose increased	0.02020476944744587
+trial_2	aminohippuric acid	208	KG00099896	Nasal congestion (finding)	0.019847556948661804
+trial_2	aminohippuric acid	186	KG00101431	creatinine increased	0.019612343981862068
+trial_2	aminohippuric acid	36	KG00106434	Vision, Blurring Of	0.0195454154163599
+trial_2	aminohippuric acid	503	KG00102612	low haemoglobin	0.019241182133555412
+trial_2	aminohippuric acid	24	KG00099015	Hemorrhage, Gastrointestinal	0.01879734918475151
+trial_2	aminohippuric acid	257	KG00100922	Erythema NOS	0.01870284229516983
+trial_2	aminohippuric acid	102	KG00097916	anxieties	0.018537404015660286
+trial_2	aminohippuric acid	454	KG00098286	Pain, Neck	0.01838749274611473
+trial_2	aminohippuric acid	130	KG00100683	Stomatitis NOS	0.01809774339199066
+trial_2	aminohippuric acid	286	KG00101110	Retention, Urinary	0.018026702105998993
+trial_2	aminohippuric acid	35	KG00101507	hypomagnesaemia	0.018010351806879044
+trial_2	aminohippuric acid	466	KG00101205	fall	0.01786508783698082
+trial_2	aminohippuric acid	271	KG00103813	reflex bradycardia	0.017863614484667778

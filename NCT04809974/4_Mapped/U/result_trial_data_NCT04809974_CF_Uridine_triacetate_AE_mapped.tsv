@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15314608812332153
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07245876640081406
+trial_1	placebo	68	KG00099901	nauseas	0.07225090265274048
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0709405392408371
+trial_1	placebo	46	KG00099121	Headache NOS	0.06678575277328491
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06398832052946091
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06364333629608154
+trial_1	placebo	20	KG00098540	dehydration	0.0621025525033474
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.061891768127679825
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.057643793523311615
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05729115009307861
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05444563552737236
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05106443539261818
+trial_1	placebo	21	KG00098675	dyspnoea	0.046800922602415085
+trial_1	placebo	228	KG00114657	Weight below normal	0.04381508007645607
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04170423746109009
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03977108746767044
+trial_1	placebo	126	KG00100076	Pain NOS	0.037566546350717545
+trial_1	placebo	114	KG00098933	fevers	0.036806173622608185
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03659934923052788
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.036282796412706375
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03466631844639778
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03421493247151375
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.033147357404232025
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.033058132976293564
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03302473947405815
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.032569848001003265
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03204609826207161
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.031047094613313675
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0310286246240139
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03003072552382946
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0298180989921093
+trial_1	placebo	85	KG00098474	coughs	0.02943219617009163
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02828194387257099
+trial_1	placebo	147	KG00098000	atelectases	0.0282500721514225
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028030849993228912
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0278399046510458
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02752993069589138
+trial_1	placebo	269	KG00100399	pyaemia	0.026969699189066887
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02550649829208851
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023528041318058968
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.023199740797281265
+trial_1	placebo	86	KG00098565	Depression, Mental	0.022788435220718384
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022228147834539413
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0219113826751709
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021858248859643936
+trial_1	placebo	5	KG00099169	haematuria	0.021677568554878235
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02119133435189724
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.020878488197922707
+trial_1	placebo	104	KG00097963	arthralgias	0.020844141021370888
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020536748692393303
+trial_1	placebo	164	KG00108827	ileus colon	0.019634414464235306
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018974322825670242
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01827561855316162
+trial_1	placebo	121	KG00099190	haemorrhage	0.018140070140361786
+trial_1	placebo	82	KG00097697	abdomen distended	0.01808045618236065
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017872745171189308
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.017746103927493095
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017725113779306412
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01763872802257538
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.017257757484912872
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017081458121538162
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01701975427567959
+trial_1	placebo	282	KG00099309	hypernatraemia	0.016952315345406532
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.016876673325896263
+trial_1	placebo	116	KG00098964	Pain in foot	0.016587553545832634
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0164592657238245
+trial_1	placebo	239	KG00100128	pareses	0.01628836803138256
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016127226874232292
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01601051352918148
+trial_1	placebo	4	KG00098817	epistaxis	0.016005586832761765
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01563531719148159
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.014765257015824318
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01475493237376213
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014687774702906609
+trial_1	placebo	234	KG00098669	dysgeusias	0.014479192905128002
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.014304050244390965
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.014209328219294548
+trial_1	placebo	72	KG00103771	myalgias	0.014130362309515476
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.014109812676906586
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.013832593336701393
+trial_1	placebo	186	KG00101431	creatinine increased	0.013516277074813843
+trial_1	placebo	466	KG00101205	fall	0.013407159596681595
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.013332999311387539
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0132247069850564
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013125100173056126
+trial_1	placebo	102	KG00097916	anxieties	0.013008326292037964
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.012624645605683327
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0125578036531806
+trial_1	placebo	60	KG00099440	Obstruction, Intestinal	0.012553872540593147
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.01248092856258154
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012353505939245224
+trial_1	placebo	398	KG00100580	Shock, Septic	0.011994307860732079
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.011904831044375896
+trial_1	placebo	262	KG00101199	agitation	0.011861590668559074
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011759442277252674
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01175118237733841
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.011446302756667137
+trial_1	placebo	503	KG00102612	low haemoglobin	0.011421051807701588
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.011394433677196503
+trial_2	uridine triacetate	87	KG00098599	diarrhoea	0.15314608812332153
+trial_2	uridine triacetate	177	KG00099299	hyperglycaemia	0.07245876640081406
+trial_2	uridine triacetate	68	KG00099901	nauseas	0.07225090265274048
+trial_2	uridine triacetate	123	KG00099351	hypokalaemia	0.0709405392408371
+trial_2	uridine triacetate	46	KG00099121	Headache NOS	0.06678575277328491
+trial_2	uridine triacetate	37	KG00097696	Cramps, Abdominal	0.06398832052946091
+trial_2	uridine triacetate	78	KG00099326	Hypertensive diseases	0.06364333629608154
+trial_2	uridine triacetate	20	KG00098540	dehydration	0.0621025525033474
+trial_2	uridine triacetate	49	KG00099902	nausea with vomiting	0.061891768127679825
+trial_2	uridine triacetate	173	KG00098172	Bronchopneumonia NOS	0.057643793523311615
+trial_2	uridine triacetate	14	KG00097852	Anemia NOS	0.05729115009307861
+trial_2	uridine triacetate	17	KG00097991	Asthenia NOS	0.05444563552737236
+trial_2	uridine triacetate	9	KG00098432	Confusion NOS	0.05106443539261818
+trial_2	uridine triacetate	21	KG00098675	dyspnoea	0.046800922602415085
+trial_2	uridine triacetate	228	KG00114657	Weight below normal	0.04381508007645607
+trial_2	uridine triacetate	67	KG00098673	Dyspepsia, NOS	0.04170423746109009
+trial_2	uridine triacetate	61	KG00099501	Chronic Kidney Failure	0.03977108746767044
+trial_2	uridine triacetate	126	KG00100076	Pain NOS	0.037566546350717545
+trial_2	uridine triacetate	114	KG00098933	fevers	0.036806173622608185
+trial_2	uridine triacetate	64	KG00097734	Acrodermatitis, NOS	0.03659934923052788
+trial_2	uridine triacetate	79	KG00100317	Insomnia, Primary	0.036282796412706375
+trial_2	uridine triacetate	2	KG00100772	thrombocytopaenia	0.03466631844639778
+trial_2	uridine triacetate	96	KG00101679	Unattended death NOS	0.03421493247151375
+trial_2	uridine triacetate	28	KG00099347	hypoglycaemia	0.033147357404232025
+trial_2	uridine triacetate	180	KG00099363	Hypotension NOS	0.033058132976293564
+trial_2	uridine triacetate	200	KG00098539	Disorders, Deglutition	0.03302473947405815
+trial_2	uridine triacetate	76	KG00100450	Respiratory insufficiency, NOS	0.032569848001003265
+trial_2	uridine triacetate	77	KG00098450	Constipation NOS	0.03204609826207161
+trial_2	uridine triacetate	151	KG00098274	Infarction, Cerebral	0.031047094613313675
+trial_2	uridine triacetate	30	KG00099500	Acute Kidney Failure	0.0310286246240139
+trial_2	uridine triacetate	29	KG00099354	hyponatraemia	0.03003072552382946
+trial_2	uridine triacetate	189	KG00101580	Alanine aminotransferase increase	0.0298180989921093
+trial_2	uridine triacetate	85	KG00098474	coughs	0.02943219617009163
+trial_2	uridine triacetate	396	KG00100373	Embolism, Pulmonary	0.02828194387257099
+trial_2	uridine triacetate	147	KG00098000	atelectases	0.0282500721514225
+trial_2	uridine triacetate	276	KG00099127	Arrest, Cardiac	0.028030849993228912
+trial_2	uridine triacetate	101	KG00097901	Anorexia NOS	0.0278399046510458
+trial_2	uridine triacetate	142	KG00100923	Unspecified infectious and parasitic diseases	0.02752993069589138
+trial_2	uridine triacetate	269	KG00100399	pyaemia	0.026969699189066887
+trial_2	uridine triacetate	350	KG00106765	decreased platelet count	0.02550649829208851
+trial_2	uridine triacetate	131	KG00100948	Urinary tract infection (& [NOS])	0.023528041318058968
+trial_2	uridine triacetate	188	KG00101579	Aspartate aminotransferase increase	0.023199740797281265
+trial_2	uridine triacetate	86	KG00098565	Depression, Mental	0.022788435220718384
+trial_2	uridine triacetate	18	KG00098307	Pain, Chest	0.022228147834539413
+trial_2	uridine triacetate	75	KG00100195	Dolens, Phlegmasia Alba	0.0219113826751709
+trial_2	uridine triacetate	122	KG00099321	Hypersensitivity NOS	0.021858248859643936
+trial_2	uridine triacetate	5	KG00099169	haematuria	0.021677568554878235
+trial_2	uridine triacetate	38	KG00098066	Binocular vision disorders	0.02119133435189724
+trial_2	uridine triacetate	138	KG00098796	epidemic vomiting syndrome	0.020878488197922707
+trial_2	uridine triacetate	104	KG00097963	arthralgias	0.020844141021370888
+trial_2	uridine triacetate	441	KG00098262	cellulitis nos	0.020536748692393303
+trial_2	uridine triacetate	164	KG00108827	ileus colon	0.019634414464235306
+trial_2	uridine triacetate	27	KG00099303	hyperkalaemia	0.018974322825670242
+trial_2	uridine triacetate	179	KG00099342	hypocalcaemia	0.01827561855316162
+trial_2	uridine triacetate	121	KG00099190	haemorrhage	0.018140070140361786
+trial_2	uridine triacetate	82	KG00097697	abdomen distended	0.01808045618236065
+trial_2	uridine triacetate	69	KG00100082	Palpitations NOS	0.017872745171189308
+trial_2	uridine triacetate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.017746103927493095
+trial_2	uridine triacetate	361	KG00098004	Fibrillation, Atrial	0.017725113779306412
+trial_2	uridine triacetate	139	KG00098855	Sinusitis, Ethmoid	0.01763872802257538
+trial_2	uridine triacetate	268	KG00099557	Heart Failure, Left-Sided	0.017257757484912872
+trial_2	uridine triacetate	204	KG00098849	Esophagitis, Peptic	0.017081458121538162
+trial_2	uridine triacetate	253	KG00100232	Pleural effusion NOS (disorder)	0.01701975427567959
+trial_2	uridine triacetate	282	KG00099309	hypernatraemia	0.016952315345406532
+trial_2	uridine triacetate	92	KG00100926	Infections, Upper Respiratory	0.016876673325896263
+trial_2	uridine triacetate	116	KG00098964	Pain in foot	0.016587553545832634
+trial_2	uridine triacetate	1	KG00099959	Neutropenia NOS	0.0164592657238245
+trial_2	uridine triacetate	239	KG00100128	pareses	0.01628836803138256
+trial_2	uridine triacetate	194	KG00110727	Neutrophil Count Decreased	0.016127226874232292
+trial_2	uridine triacetate	144	KG00099610	Leukopenia NOS	0.01601051352918148
+trial_2	uridine triacetate	4	KG00098817	epistaxis	0.016005586832761765
+trial_2	uridine triacetate	31	KG00099872	Infarction, Myocardial	0.01563531719148159
+trial_2	uridine triacetate	163	KG00104050	bowel obstructions small	0.014765257015824318
+trial_2	uridine triacetate	33	KG00100094	Pancreatitis NOS	0.01475493237376213
+trial_2	uridine triacetate	356	KG00112623	Infectious Lung Disorders	0.014687774702906609
+trial_2	uridine triacetate	234	KG00098669	dysgeusias	0.014479192905128002
+trial_2	uridine triacetate	130	KG00100683	Stomatitis NOS	0.014304050244390965
+trial_2	uridine triacetate	191	KG00104055	Biliverdin increased	0.014209328219294548
+trial_2	uridine triacetate	72	KG00103771	myalgias	0.014130362309515476
+trial_2	uridine triacetate	394	KG00100243	Pneumonia, Aspiration	0.014109812676906586
+trial_2	uridine triacetate	254	KG00100774	Thrombosis NOS	0.013832593336701393
+trial_2	uridine triacetate	186	KG00101431	creatinine increased	0.013516277074813843
+trial_2	uridine triacetate	466	KG00101205	fall	0.013407159596681595
+trial_2	uridine triacetate	243	KG00100947	Micturition frequency increased	0.013332999311387539
+trial_2	uridine triacetate	261	KG00101559	raised alkaline phosphatase	0.0132247069850564
+trial_2	uridine triacetate	15	KG00097882	Angina pectoris NOS	0.013125100173056126
+trial_2	uridine triacetate	102	KG00097916	anxieties	0.013008326292037964
+trial_2	uridine triacetate	249	KG00104430	hypoalbuminaemia	0.012624645605683327
+trial_2	uridine triacetate	11	KG00097993	Asthma NOS	0.0125578036531806
+trial_2	uridine triacetate	60	KG00099440	Obstruction, Intestinal	0.012553872540593147
+trial_2	uridine triacetate	170	KG00108926	Neutropenia, Febrile	0.01248092856258154
+trial_2	uridine triacetate	286	KG00101110	Retention, Urinary	0.012353505939245224
+trial_2	uridine triacetate	398	KG00100580	Shock, Septic	0.011994307860732079
+trial_2	uridine triacetate	211	KG00100341	Pruritus NOS	0.011904831044375896
+trial_2	uridine triacetate	262	KG00101199	agitation	0.011861590668559074
+trial_2	uridine triacetate	118	KG00099011	Gastritis NOS	0.011759442277252674
+trial_2	uridine triacetate	25	KG00099134	congestive failures heart	0.01175118237733841
+trial_2	uridine triacetate	494	KG00099838	Organ Failure, Multiple	0.011446302756667137
+trial_2	uridine triacetate	503	KG00102612	low haemoglobin	0.011421051807701588
+trial_2	uridine triacetate	400	KG00100925	Upper gastrointestinal haemorrhage	0.011394433677196503

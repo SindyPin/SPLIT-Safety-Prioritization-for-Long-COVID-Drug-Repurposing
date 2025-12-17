@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14536334574222565
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1360451877117157
+trial_1	placebo	87	KG00098599	diarrhoea	0.1328754723072052
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10861615091562271
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10440529882907867
+trial_1	placebo	20	KG00098540	dehydration	0.08835669606924057
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0798981785774231
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07564199715852737
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07232749462127686
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06985990703105927
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06565887480974197
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06562858819961548
+trial_1	placebo	21	KG00098675	dyspnoea	0.06354128569364548
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0627664253115654
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06257408112287521
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.061052460223436356
+trial_1	placebo	350	KG00106765	decreased platelet count	0.059839844703674316
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0596761591732502
+trial_1	placebo	46	KG00099121	Headache NOS	0.05720796436071396
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05667822062969208
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05642779916524887
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05580823868513107
+trial_1	placebo	239	KG00100128	pareses	0.055364158004522324
+trial_1	placebo	228	KG00114657	Weight below normal	0.055199034512043
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05479421094059944
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05389444902539253
+trial_1	placebo	68	KG00099901	nauseas	0.052281856536865234
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.050825849175453186
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0507056824862957
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05026182159781456
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05016839876770973
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0492582768201828
+trial_1	placebo	126	KG00100076	Pain NOS	0.04798264801502228
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04531947895884514
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04495184123516083
+trial_1	placebo	114	KG00098933	fevers	0.04440912976861
+trial_1	placebo	72	KG00103771	myalgias	0.041635192930698395
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0405234731733799
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04051024839282036
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03963140770792961
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03925738111138344
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03888172283768654
+trial_1	placebo	5	KG00099169	haematuria	0.03823892027139664
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.037572771310806274
+trial_1	placebo	104	KG00097963	arthralgias	0.03745134547352791
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.037190113216638565
+trial_1	placebo	85	KG00098474	coughs	0.036776963621377945
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.035872455686330795
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03446964547038078
+trial_1	placebo	102	KG00097916	anxieties	0.03400326147675514
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03397859260439873
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03346284106373787
+trial_1	placebo	147	KG00098000	atelectases	0.032757360488176346
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03232971951365471
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03167260065674782
+trial_1	placebo	116	KG00098964	Pain in foot	0.03166312351822853
+trial_1	placebo	466	KG00101205	fall	0.031639982014894485
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030946873128414154
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03080243431031704
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.030582791194319725
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03058028221130371
+trial_1	placebo	262	KG00101199	agitation	0.02915768139064312
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02911527082324028
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02882818877696991
+trial_1	placebo	282	KG00099309	hypernatraemia	0.028787491843104362
+trial_1	placebo	154	KG00099686	Lymphopenias	0.028647975996136665
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02809702791273594
+trial_1	placebo	82	KG00097697	abdomen distended	0.027617592364549637
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027528656646609306
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.027375176548957825
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02737181819975376
+trial_1	placebo	121	KG00099190	haemorrhage	0.027085663750767708
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.026996152475476265
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.026623478159308434
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026284843683242798
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026028215885162354
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.025802841410040855
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.025584744289517403
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02529865689575672
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.025216883048415184
+trial_1	placebo	100	KG00097815	alopecias	0.025045884773135185
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02486525848507881
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023813432082533836
+trial_1	placebo	242	KG00100855	tremors	0.023648975417017937
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02349282056093216
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02345898747444153
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023380087688565254
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02321038581430912
+trial_1	placebo	234	KG00098669	dysgeusias	0.022639406844973564
+trial_1	placebo	269	KG00100399	pyaemia	0.02249753661453724
+trial_1	placebo	186	KG00101431	creatinine increased	0.02246345393359661
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022413751110434532
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.022387489676475525
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02197447419166565
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02185123600065708
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02141949161887169
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.021371036767959595
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02124221809208393
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021038176491856575
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02096584625542164
+trial_2	cortisone acetate	177	KG00099299	hyperglycaemia	0.14536334574222565
+trial_2	cortisone acetate	78	KG00099326	Hypertensive diseases	0.1360451877117157
+trial_2	cortisone acetate	87	KG00098599	diarrhoea	0.1328754723072052
+trial_2	cortisone acetate	173	KG00098172	Bronchopneumonia NOS	0.10861615091562271
+trial_2	cortisone acetate	17	KG00097991	Asthenia NOS	0.10440529882907867
+trial_2	cortisone acetate	20	KG00098540	dehydration	0.08835669606924057
+trial_2	cortisone acetate	123	KG00099351	hypokalaemia	0.0798981785774231
+trial_2	cortisone acetate	9	KG00098432	Confusion NOS	0.07564199715852737
+trial_2	cortisone acetate	37	KG00097696	Cramps, Abdominal	0.07232749462127686
+trial_2	cortisone acetate	77	KG00098450	Constipation NOS	0.06985990703105927
+trial_2	cortisone acetate	200	KG00098539	Disorders, Deglutition	0.06565887480974197
+trial_2	cortisone acetate	243	KG00100947	Micturition frequency increased	0.06562858819961548
+trial_2	cortisone acetate	21	KG00098675	dyspnoea	0.06354128569364548
+trial_2	cortisone acetate	189	KG00101580	Alanine aminotransferase increase	0.0627664253115654
+trial_2	cortisone acetate	79	KG00100317	Insomnia, Primary	0.06257408112287521
+trial_2	cortisone acetate	67	KG00098673	Dyspepsia, NOS	0.061052460223436356
+trial_2	cortisone acetate	350	KG00106765	decreased platelet count	0.059839844703674316
+trial_2	cortisone acetate	28	KG00099347	hypoglycaemia	0.0596761591732502
+trial_2	cortisone acetate	46	KG00099121	Headache NOS	0.05720796436071396
+trial_2	cortisone acetate	86	KG00098565	Depression, Mental	0.05667822062969208
+trial_2	cortisone acetate	64	KG00097734	Acrodermatitis, NOS	0.05642779916524887
+trial_2	cortisone acetate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05580823868513107
+trial_2	cortisone acetate	239	KG00100128	pareses	0.055364158004522324
+trial_2	cortisone acetate	228	KG00114657	Weight below normal	0.055199034512043
+trial_2	cortisone acetate	14	KG00097852	Anemia NOS	0.05479421094059944
+trial_2	cortisone acetate	132	KG00101045	Gain, Weight	0.05389444902539253
+trial_2	cortisone acetate	68	KG00099901	nauseas	0.052281856536865234
+trial_2	cortisone acetate	179	KG00099342	hypocalcaemia	0.050825849175453186
+trial_2	cortisone acetate	29	KG00099354	hyponatraemia	0.0507056824862957
+trial_2	cortisone acetate	49	KG00099902	nausea with vomiting	0.05026182159781456
+trial_2	cortisone acetate	151	KG00098274	Infarction, Cerebral	0.05016839876770973
+trial_2	cortisone acetate	188	KG00101579	Aspartate aminotransferase increase	0.0492582768201828
+trial_2	cortisone acetate	126	KG00100076	Pain NOS	0.04798264801502228
+trial_2	cortisone acetate	27	KG00099303	hyperkalaemia	0.04531947895884514
+trial_2	cortisone acetate	2	KG00100772	thrombocytopaenia	0.04495184123516083
+trial_2	cortisone acetate	114	KG00098933	fevers	0.04440912976861
+trial_2	cortisone acetate	72	KG00103771	myalgias	0.041635192930698395
+trial_2	cortisone acetate	122	KG00099321	Hypersensitivity NOS	0.0405234731733799
+trial_2	cortisone acetate	194	KG00110727	Neutrophil Count Decreased	0.04051024839282036
+trial_2	cortisone acetate	180	KG00099363	Hypotension NOS	0.03963140770792961
+trial_2	cortisone acetate	38	KG00098066	Binocular vision disorders	0.03925738111138344
+trial_2	cortisone acetate	139	KG00098855	Sinusitis, Ethmoid	0.03888172283768654
+trial_2	cortisone acetate	5	KG00099169	haematuria	0.03823892027139664
+trial_2	cortisone acetate	96	KG00101679	Unattended death NOS	0.037572771310806274
+trial_2	cortisone acetate	104	KG00097963	arthralgias	0.03745134547352791
+trial_2	cortisone acetate	76	KG00100450	Respiratory insufficiency, NOS	0.037190113216638565
+trial_2	cortisone acetate	85	KG00098474	coughs	0.036776963621377945
+trial_2	cortisone acetate	355	KG00110857	lymphocyte count decreased	0.035872455686330795
+trial_2	cortisone acetate	131	KG00100948	Urinary tract infection (& [NOS])	0.03446964547038078
+trial_2	cortisone acetate	102	KG00097916	anxieties	0.03400326147675514
+trial_2	cortisone acetate	61	KG00099501	Chronic Kidney Failure	0.03397859260439873
+trial_2	cortisone acetate	101	KG00097901	Anorexia NOS	0.03346284106373787
+trial_2	cortisone acetate	147	KG00098000	atelectases	0.032757360488176346
+trial_2	cortisone acetate	249	KG00104430	hypoalbuminaemia	0.03232971951365471
+trial_2	cortisone acetate	35	KG00101507	hypomagnesaemia	0.03167260065674782
+trial_2	cortisone acetate	116	KG00098964	Pain in foot	0.03166312351822853
+trial_2	cortisone acetate	466	KG00101205	fall	0.031639982014894485
+trial_2	cortisone acetate	36	KG00106434	Vision, Blurring Of	0.030946873128414154
+trial_2	cortisone acetate	508	KG00108565	blood glucose increased	0.03080243431031704
+trial_2	cortisone acetate	288	KG00101223	hypophosphataemia	0.030582791194319725
+trial_2	cortisone acetate	261	KG00101559	raised alkaline phosphatase	0.03058028221130371
+trial_2	cortisone acetate	262	KG00101199	agitation	0.02915768139064312
+trial_2	cortisone acetate	69	KG00100082	Palpitations NOS	0.02911527082324028
+trial_2	cortisone acetate	221	KG00101207	peripheral oedema	0.02882818877696991
+trial_2	cortisone acetate	282	KG00099309	hypernatraemia	0.028787491843104362
+trial_2	cortisone acetate	154	KG00099686	Lymphopenias	0.028647975996136665
+trial_2	cortisone acetate	297	KG00099294	hypercholesterolaemia	0.02809702791273594
+trial_2	cortisone acetate	82	KG00097697	abdomen distended	0.027617592364549637
+trial_2	cortisone acetate	441	KG00098262	cellulitis nos	0.027528656646609306
+trial_2	cortisone acetate	142	KG00100923	Unspecified infectious and parasitic diseases	0.027375176548957825
+trial_2	cortisone acetate	166	KG00099773	menopausal syndrome	0.02737181819975376
+trial_2	cortisone acetate	121	KG00099190	haemorrhage	0.027085663750767708
+trial_2	cortisone acetate	144	KG00099610	Leukopenia NOS	0.026996152475476265
+trial_2	cortisone acetate	1	KG00099959	Neutropenia NOS	0.026623478159308434
+trial_2	cortisone acetate	92	KG00100926	Infections, Upper Respiratory	0.026284843683242798
+trial_2	cortisone acetate	396	KG00100373	Embolism, Pulmonary	0.026028215885162354
+trial_2	cortisone acetate	133	KG00101370	neuropathies sensory	0.025802841410040855
+trial_2	cortisone acetate	30	KG00099500	Acute Kidney Failure	0.025584744289517403
+trial_2	cortisone acetate	204	KG00098849	Esophagitis, Peptic	0.02529865689575672
+trial_2	cortisone acetate	75	KG00100195	Dolens, Phlegmasia Alba	0.025216883048415184
+trial_2	cortisone acetate	100	KG00097815	alopecias	0.025045884773135185
+trial_2	cortisone acetate	256	KG00100738	Tachycardia, Sinus	0.02486525848507881
+trial_2	cortisone acetate	276	KG00099127	Arrest, Cardiac	0.023813432082533836
+trial_2	cortisone acetate	242	KG00100855	tremors	0.023648975417017937
+trial_2	cortisone acetate	18	KG00098307	Pain, Chest	0.02349282056093216
+trial_2	cortisone acetate	191	KG00104055	Biliverdin increased	0.02345898747444153
+trial_2	cortisone acetate	286	KG00101110	Retention, Urinary	0.023380087688565254
+trial_2	cortisone acetate	195	KG00097814	Atopic Rhinitis	0.02321038581430912
+trial_2	cortisone acetate	234	KG00098669	dysgeusias	0.022639406844973564
+trial_2	cortisone acetate	269	KG00100399	pyaemia	0.02249753661453724
+trial_2	cortisone acetate	186	KG00101431	creatinine increased	0.02246345393359661
+trial_2	cortisone acetate	130	KG00100683	Stomatitis NOS	0.022413751110434532
+trial_2	cortisone acetate	22	KG00098705	Edema (NOS)	0.022387489676475525
+trial_2	cortisone acetate	152	KG00099402	INCONTINENCE NOS	0.02197447419166565
+trial_2	cortisone acetate	118	KG00099011	Gastritis NOS	0.02185123600065708
+trial_2	cortisone acetate	253	KG00100232	Pleural effusion NOS (disorder)	0.02141949161887169
+trial_2	cortisone acetate	341	KG00101472	Gamma-glutamyltransferase increased	0.021371036767959595
+trial_2	cortisone acetate	246	KG00103338	Aspartate Aminotransferase Measurement	0.02124221809208393
+trial_2	cortisone acetate	356	KG00112623	Infectious Lung Disorders	0.021038176491856575
+trial_2	cortisone acetate	254	KG00100774	Thrombosis NOS	0.02096584625542164

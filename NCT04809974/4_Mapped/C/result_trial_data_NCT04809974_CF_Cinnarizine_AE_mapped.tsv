@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1923215538263321
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16837391257286072
+trial_1	placebo	68	KG00099901	nauseas	0.1281682252883911
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12186228483915329
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12020788341760635
+trial_1	placebo	46	KG00099121	Headache NOS	0.11965914815664291
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11815894395112991
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09750155359506607
+trial_1	placebo	228	KG00114657	Weight below normal	0.08486738801002502
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.08251217007637024
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.080152228474617
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07688677310943604
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07562512904405594
+trial_1	placebo	21	KG00098675	dyspnoea	0.07497480511665344
+trial_1	placebo	20	KG00098540	dehydration	0.07070127874612808
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06257075071334839
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05929047614336014
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.058579664677381516
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.058408986777067184
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.049822915345430374
+trial_1	placebo	86	KG00098565	Depression, Mental	0.048575881868600845
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04782095551490784
+trial_1	placebo	102	KG00097916	anxieties	0.04605986177921295
+trial_1	placebo	126	KG00100076	Pain NOS	0.043263230472803116
+trial_1	placebo	85	KG00098474	coughs	0.04223920777440071
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03948673605918884
+trial_1	placebo	239	KG00100128	pareses	0.038945842534303665
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03856731578707695
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.038102660328149796
+trial_1	placebo	114	KG00098933	fevers	0.03716350346803665
+trial_1	placebo	104	KG00097963	arthralgias	0.03713793307542801
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03584187850356102
+trial_1	placebo	18	KG00098307	Pain, Chest	0.035826198756694794
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03508251905441284
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03468840941786766
+trial_1	placebo	5	KG00099169	haematuria	0.03463389351963997
+trial_1	placebo	300	KG00101064	xerostomia	0.03316226974129677
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032752055674791336
+trial_1	placebo	66	KG00098642	drowsiness	0.03243933245539665
+trial_1	placebo	262	KG00101199	agitation	0.03239355981349945
+trial_1	placebo	466	KG00101205	fall	0.03208457678556442
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.031244754791259766
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03002522513270378
+trial_1	placebo	116	KG00098964	Pain in foot	0.029965098947286606
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02972446009516716
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029570873826742172
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028997011482715607
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.028915954753756523
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.027499226853251457
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.027373600751161575
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.027059966698288918
+trial_1	placebo	234	KG00098669	dysgeusias	0.02703201025724411
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026648571714758873
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026579398661851883
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.026476377621293068
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.026056969538331032
+trial_1	placebo	147	KG00098000	atelectases	0.026017675176262856
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02583361230790615
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02566295489668846
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025485828518867493
+trial_1	placebo	82	KG00097697	abdomen distended	0.024563780054450035
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02307737059891224
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02302706427872181
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022860359400510788
+trial_1	placebo	269	KG00100399	pyaemia	0.022721977904438972
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022663027048110962
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.022418029606342316
+trial_1	placebo	242	KG00100855	tremors	0.022147363051772118
+trial_1	placebo	136	KG00101582	Dry;skin	0.02206498570740223
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022062290459871292
+trial_1	placebo	121	KG00099190	haemorrhage	0.021852577105164528
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02181626670062542
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02170160599052906
+trial_1	placebo	132	KG00101045	Gain, Weight	0.021217143163084984
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021213000640273094
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.021032271906733513
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02096015028655529
+trial_1	placebo	153	KG00099579	lethargy	0.02095237746834755
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020648201927542686
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.020561549812555313
+trial_1	placebo	164	KG00108827	ileus colon	0.020350774750113487
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020258750766515732
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.020219851285219193
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020211199298501015
+trial_1	placebo	339	KG00100334	proteinurias	0.019952960312366486
+trial_1	placebo	72	KG00103771	myalgias	0.019853530451655388
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019779406487941742
+trial_1	placebo	4	KG00098817	epistaxis	0.019668003544211388
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01960991509258747
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019054241478443146
+trial_1	placebo	454	KG00098286	Pain, Neck	0.018904076889157295
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01852882280945778
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.018293200060725212
+trial_1	placebo	456	KG00099420	Influenzae	0.018152659758925438
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018063755705952644
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0177964698523283
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01777517795562744
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.017619453370571136
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.017603540793061256
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.017475783824920654
+trial_2	cinnarizine	87	KG00098599	diarrhoea	0.1923215538263321
+trial_2	cinnarizine	78	KG00099326	Hypertensive diseases	0.16837391257286072
+trial_2	cinnarizine	68	KG00099901	nauseas	0.1281682252883911
+trial_2	cinnarizine	17	KG00097991	Asthenia NOS	0.12186228483915329
+trial_2	cinnarizine	49	KG00099902	nausea with vomiting	0.12020788341760635
+trial_2	cinnarizine	46	KG00099121	Headache NOS	0.11965914815664291
+trial_2	cinnarizine	9	KG00098432	Confusion NOS	0.11815894395112991
+trial_2	cinnarizine	79	KG00100317	Insomnia, Primary	0.09750155359506607
+trial_2	cinnarizine	228	KG00114657	Weight below normal	0.08486738801002502
+trial_2	cinnarizine	101	KG00097901	Anorexia NOS	0.08251217007637024
+trial_2	cinnarizine	173	KG00098172	Bronchopneumonia NOS	0.080152228474617
+trial_2	cinnarizine	67	KG00098673	Dyspepsia, NOS	0.07688677310943604
+trial_2	cinnarizine	77	KG00098450	Constipation NOS	0.07562512904405594
+trial_2	cinnarizine	21	KG00098675	dyspnoea	0.07497480511665344
+trial_2	cinnarizine	20	KG00098540	dehydration	0.07070127874612808
+trial_2	cinnarizine	177	KG00099299	hyperglycaemia	0.06257075071334839
+trial_2	cinnarizine	123	KG00099351	hypokalaemia	0.05929047614336014
+trial_2	cinnarizine	200	KG00098539	Disorders, Deglutition	0.058579664677381516
+trial_2	cinnarizine	64	KG00097734	Acrodermatitis, NOS	0.058408986777067184
+trial_2	cinnarizine	37	KG00097696	Cramps, Abdominal	0.049822915345430374
+trial_2	cinnarizine	86	KG00098565	Depression, Mental	0.048575881868600845
+trial_2	cinnarizine	151	KG00098274	Infarction, Cerebral	0.04782095551490784
+trial_2	cinnarizine	102	KG00097916	anxieties	0.04605986177921295
+trial_2	cinnarizine	126	KG00100076	Pain NOS	0.043263230472803116
+trial_2	cinnarizine	85	KG00098474	coughs	0.04223920777440071
+trial_2	cinnarizine	189	KG00101580	Alanine aminotransferase increase	0.03948673605918884
+trial_2	cinnarizine	239	KG00100128	pareses	0.038945842534303665
+trial_2	cinnarizine	29	KG00099354	hyponatraemia	0.03856731578707695
+trial_2	cinnarizine	61	KG00099501	Chronic Kidney Failure	0.038102660328149796
+trial_2	cinnarizine	114	KG00098933	fevers	0.03716350346803665
+trial_2	cinnarizine	104	KG00097963	arthralgias	0.03713793307542801
+trial_2	cinnarizine	180	KG00099363	Hypotension NOS	0.03584187850356102
+trial_2	cinnarizine	18	KG00098307	Pain, Chest	0.035826198756694794
+trial_2	cinnarizine	14	KG00097852	Anemia NOS	0.03508251905441284
+trial_2	cinnarizine	188	KG00101579	Aspartate aminotransferase increase	0.03468840941786766
+trial_2	cinnarizine	5	KG00099169	haematuria	0.03463389351963997
+trial_2	cinnarizine	300	KG00101064	xerostomia	0.03316226974129677
+trial_2	cinnarizine	96	KG00101679	Unattended death NOS	0.032752055674791336
+trial_2	cinnarizine	66	KG00098642	drowsiness	0.03243933245539665
+trial_2	cinnarizine	262	KG00101199	agitation	0.03239355981349945
+trial_2	cinnarizine	466	KG00101205	fall	0.03208457678556442
+trial_2	cinnarizine	76	KG00100450	Respiratory insufficiency, NOS	0.031244754791259766
+trial_2	cinnarizine	131	KG00100948	Urinary tract infection (& [NOS])	0.03002522513270378
+trial_2	cinnarizine	116	KG00098964	Pain in foot	0.029965098947286606
+trial_2	cinnarizine	139	KG00098855	Sinusitis, Ethmoid	0.02972446009516716
+trial_2	cinnarizine	396	KG00100373	Embolism, Pulmonary	0.029570873826742172
+trial_2	cinnarizine	350	KG00106765	decreased platelet count	0.028997011482715607
+trial_2	cinnarizine	211	KG00100341	Pruritus NOS	0.028915954753756523
+trial_2	cinnarizine	28	KG00099347	hypoglycaemia	0.027499226853251457
+trial_2	cinnarizine	142	KG00100923	Unspecified infectious and parasitic diseases	0.027373600751161575
+trial_2	cinnarizine	38	KG00098066	Binocular vision disorders	0.027059966698288918
+trial_2	cinnarizine	234	KG00098669	dysgeusias	0.02703201025724411
+trial_2	cinnarizine	30	KG00099500	Acute Kidney Failure	0.026648571714758873
+trial_2	cinnarizine	286	KG00101110	Retention, Urinary	0.026579398661851883
+trial_2	cinnarizine	243	KG00100947	Micturition frequency increased	0.026476377621293068
+trial_2	cinnarizine	199	KG00098371	Rhinitis (chronic) NOS	0.026056969538331032
+trial_2	cinnarizine	147	KG00098000	atelectases	0.026017675176262856
+trial_2	cinnarizine	75	KG00100195	Dolens, Phlegmasia Alba	0.02583361230790615
+trial_2	cinnarizine	2	KG00100772	thrombocytopaenia	0.02566295489668846
+trial_2	cinnarizine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025485828518867493
+trial_2	cinnarizine	82	KG00097697	abdomen distended	0.024563780054450035
+trial_2	cinnarizine	382	KG00099200	haemorrhoids	0.02307737059891224
+trial_2	cinnarizine	204	KG00098849	Esophagitis, Peptic	0.02302706427872181
+trial_2	cinnarizine	191	KG00104055	Biliverdin increased	0.022860359400510788
+trial_2	cinnarizine	269	KG00100399	pyaemia	0.022721977904438972
+trial_2	cinnarizine	69	KG00100082	Palpitations NOS	0.022663027048110962
+trial_2	cinnarizine	422	KG00101429	Creatine phosphokinase increased	0.022418029606342316
+trial_2	cinnarizine	242	KG00100855	tremors	0.022147363051772118
+trial_2	cinnarizine	136	KG00101582	Dry;skin	0.02206498570740223
+trial_2	cinnarizine	276	KG00099127	Arrest, Cardiac	0.022062290459871292
+trial_2	cinnarizine	121	KG00099190	haemorrhage	0.021852577105164528
+trial_2	cinnarizine	15	KG00097882	Angina pectoris NOS	0.02181626670062542
+trial_2	cinnarizine	36	KG00106434	Vision, Blurring Of	0.02170160599052906
+trial_2	cinnarizine	132	KG00101045	Gain, Weight	0.021217143163084984
+trial_2	cinnarizine	31	KG00099872	Infarction, Myocardial	0.021213000640273094
+trial_2	cinnarizine	394	KG00100243	Pneumonia, Aspiration	0.021032271906733513
+trial_2	cinnarizine	27	KG00099303	hyperkalaemia	0.02096015028655529
+trial_2	cinnarizine	153	KG00099579	lethargy	0.02095237746834755
+trial_2	cinnarizine	92	KG00100926	Infections, Upper Respiratory	0.020648201927542686
+trial_2	cinnarizine	33	KG00100094	Pancreatitis NOS	0.020561549812555313
+trial_2	cinnarizine	164	KG00108827	ileus colon	0.020350774750113487
+trial_2	cinnarizine	261	KG00101559	raised alkaline phosphatase	0.020258750766515732
+trial_2	cinnarizine	179	KG00099342	hypocalcaemia	0.020219851285219193
+trial_2	cinnarizine	122	KG00099321	Hypersensitivity NOS	0.020211199298501015
+trial_2	cinnarizine	339	KG00100334	proteinurias	0.019952960312366486
+trial_2	cinnarizine	72	KG00103771	myalgias	0.019853530451655388
+trial_2	cinnarizine	361	KG00098004	Fibrillation, Atrial	0.019779406487941742
+trial_2	cinnarizine	4	KG00098817	epistaxis	0.019668003544211388
+trial_2	cinnarizine	441	KG00098262	cellulitis nos	0.01960991509258747
+trial_2	cinnarizine	130	KG00100683	Stomatitis NOS	0.019054241478443146
+trial_2	cinnarizine	454	KG00098286	Pain, Neck	0.018904076889157295
+trial_2	cinnarizine	221	KG00101207	peripheral oedema	0.01852882280945778
+trial_2	cinnarizine	271	KG00103813	reflex bradycardia	0.018293200060725212
+trial_2	cinnarizine	456	KG00099420	Influenzae	0.018152659758925438
+trial_2	cinnarizine	118	KG00099011	Gastritis NOS	0.018063755705952644
+trial_2	cinnarizine	355	KG00110857	lymphocyte count decreased	0.0177964698523283
+trial_2	cinnarizine	11	KG00097993	Asthma NOS	0.01777517795562744
+trial_2	cinnarizine	371	KG00098517	Cystitis (NOS)	0.017619453370571136
+trial_2	cinnarizine	98	KG00097718	Incised wound, NOS	0.017603540793061256
+trial_2	cinnarizine	356	KG00112623	Infectious Lung Disorders	0.017475783824920654

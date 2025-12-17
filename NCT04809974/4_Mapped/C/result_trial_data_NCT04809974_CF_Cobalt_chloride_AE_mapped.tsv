@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20830000936985016
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15915115177631378
+trial_1	placebo	123	KG00099351	hypokalaemia	0.153021901845932
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14916838705539703
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13431935012340546
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12283198535442352
+trial_1	placebo	21	KG00098675	dyspnoea	0.12186501920223236
+trial_1	placebo	20	KG00098540	dehydration	0.11381413787603378
+trial_1	placebo	46	KG00099121	Headache NOS	0.11222823709249496
+trial_1	placebo	68	KG00099901	nauseas	0.1092880368232727
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10631764680147171
+trial_1	placebo	14	KG00097852	Anemia NOS	0.10418651252985
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.10104259848594666
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09753623604774475
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0937756597995758
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09163319319486618
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08766575157642365
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08650121092796326
+trial_1	placebo	228	KG00114657	Weight below normal	0.08486853539943695
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0847964808344841
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08307596296072006
+trial_1	placebo	114	KG00098933	fevers	0.07767487317323685
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0736619308590889
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07135291397571564
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0699097290635109
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06927857547998428
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0676356703042984
+trial_1	placebo	126	KG00100076	Pain NOS	0.06356362998485565
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0634882003068924
+trial_1	placebo	85	KG00098474	coughs	0.06151311844587326
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06041821464896202
+trial_1	placebo	72	KG00103771	myalgias	0.05941366031765938
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05680747330188751
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.056676995009183884
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05623805522918701
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.056155238300561905
+trial_1	placebo	86	KG00098565	Depression, Mental	0.055585578083992004
+trial_1	placebo	5	KG00099169	haematuria	0.054857414215803146
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.05330870300531387
+trial_1	placebo	234	KG00098669	dysgeusias	0.053072378039360046
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05298728495836258
+trial_1	placebo	104	KG00097963	arthralgias	0.051333244889974594
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05120931565761566
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.049271151423454285
+trial_1	placebo	239	KG00100128	pareses	0.04912269115447998
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04668235033750534
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04651724547147751
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.046514030545949936
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04648254066705704
+trial_1	placebo	147	KG00098000	atelectases	0.04557277262210846
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04296604171395302
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.041764043271541595
+trial_1	placebo	154	KG00099686	Lymphopenias	0.041314490139484406
+trial_1	placebo	82	KG00097697	abdomen distended	0.04130556806921959
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04108697175979614
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04054925590753555
+trial_1	placebo	102	KG00097916	anxieties	0.04009481146931648
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04008054360747337
+trial_1	placebo	116	KG00098964	Pain in foot	0.03998260572552681
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.039740052074193954
+trial_1	placebo	100	KG00097815	alopecias	0.03957371413707733
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03949112817645073
+trial_1	placebo	212	KG00100576	shivers	0.038142621517181396
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03792499005794525
+trial_1	placebo	282	KG00099309	hypernatraemia	0.037763986736536026
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.037348758429288864
+trial_1	placebo	269	KG00100399	pyaemia	0.036590825766325
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03654656931757927
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.036219798028469086
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03614549711346626
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03612233325839043
+trial_1	placebo	186	KG00101431	creatinine increased	0.03529210761189461
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03508166968822479
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0349062979221344
+trial_1	placebo	4	KG00098817	epistaxis	0.03472090885043144
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03390493616461754
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03333320468664169
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03277917206287384
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03197263181209564
+trial_1	placebo	466	KG00101205	fall	0.03194943815469742
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.031234897673130035
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030911264941096306
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.030387144535779953
+trial_1	placebo	121	KG00099190	haemorrhage	0.029644355177879333
+trial_1	placebo	257	KG00100922	Erythema NOS	0.029640015214681625
+trial_1	placebo	262	KG00101199	agitation	0.029091160744428635
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028816794976592064
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028542935848236084
+trial_1	placebo	136	KG00101582	Dry;skin	0.028337731957435608
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02789931185543537
+trial_1	placebo	164	KG00108827	ileus colon	0.02750379964709282
+trial_1	placebo	153	KG00099579	lethargy	0.026975929737091064
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02664055861532688
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02647683396935463
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.026342924684286118
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.026333343237638474
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026329705491662025
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.026323046535253525
+trial_1	placebo	503	KG00102612	low haemoglobin	0.02535075508058071
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02450115606188774
+trial_2	cobalt chloride	87	KG00098599	diarrhoea	0.20830000936985016
+trial_2	cobalt chloride	78	KG00099326	Hypertensive diseases	0.15915115177631378
+trial_2	cobalt chloride	123	KG00099351	hypokalaemia	0.153021901845932
+trial_2	cobalt chloride	177	KG00099299	hyperglycaemia	0.14916838705539703
+trial_2	cobalt chloride	17	KG00097991	Asthenia NOS	0.13431935012340546
+trial_2	cobalt chloride	173	KG00098172	Bronchopneumonia NOS	0.12283198535442352
+trial_2	cobalt chloride	21	KG00098675	dyspnoea	0.12186501920223236
+trial_2	cobalt chloride	20	KG00098540	dehydration	0.11381413787603378
+trial_2	cobalt chloride	46	KG00099121	Headache NOS	0.11222823709249496
+trial_2	cobalt chloride	68	KG00099901	nauseas	0.1092880368232727
+trial_2	cobalt chloride	37	KG00097696	Cramps, Abdominal	0.10631764680147171
+trial_2	cobalt chloride	14	KG00097852	Anemia NOS	0.10418651252985
+trial_2	cobalt chloride	2	KG00100772	thrombocytopaenia	0.10104259848594666
+trial_2	cobalt chloride	64	KG00097734	Acrodermatitis, NOS	0.09753623604774475
+trial_2	cobalt chloride	9	KG00098432	Confusion NOS	0.0937756597995758
+trial_2	cobalt chloride	67	KG00098673	Dyspepsia, NOS	0.09163319319486618
+trial_2	cobalt chloride	49	KG00099902	nausea with vomiting	0.08766575157642365
+trial_2	cobalt chloride	79	KG00100317	Insomnia, Primary	0.08650121092796326
+trial_2	cobalt chloride	228	KG00114657	Weight below normal	0.08486853539943695
+trial_2	cobalt chloride	200	KG00098539	Disorders, Deglutition	0.0847964808344841
+trial_2	cobalt chloride	189	KG00101580	Alanine aminotransferase increase	0.08307596296072006
+trial_2	cobalt chloride	114	KG00098933	fevers	0.07767487317323685
+trial_2	cobalt chloride	350	KG00106765	decreased platelet count	0.0736619308590889
+trial_2	cobalt chloride	77	KG00098450	Constipation NOS	0.07135291397571564
+trial_2	cobalt chloride	101	KG00097901	Anorexia NOS	0.0699097290635109
+trial_2	cobalt chloride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06927857547998428
+trial_2	cobalt chloride	188	KG00101579	Aspartate aminotransferase increase	0.0676356703042984
+trial_2	cobalt chloride	126	KG00100076	Pain NOS	0.06356362998485565
+trial_2	cobalt chloride	29	KG00099354	hyponatraemia	0.0634882003068924
+trial_2	cobalt chloride	85	KG00098474	coughs	0.06151311844587326
+trial_2	cobalt chloride	179	KG00099342	hypocalcaemia	0.06041821464896202
+trial_2	cobalt chloride	72	KG00103771	myalgias	0.05941366031765938
+trial_2	cobalt chloride	194	KG00110727	Neutrophil Count Decreased	0.05680747330188751
+trial_2	cobalt chloride	144	KG00099610	Leukopenia NOS	0.056676995009183884
+trial_2	cobalt chloride	243	KG00100947	Micturition frequency increased	0.05623805522918701
+trial_2	cobalt chloride	28	KG00099347	hypoglycaemia	0.056155238300561905
+trial_2	cobalt chloride	86	KG00098565	Depression, Mental	0.055585578083992004
+trial_2	cobalt chloride	5	KG00099169	haematuria	0.054857414215803146
+trial_2	cobalt chloride	1	KG00099959	Neutropenia NOS	0.05330870300531387
+trial_2	cobalt chloride	234	KG00098669	dysgeusias	0.053072378039360046
+trial_2	cobalt chloride	76	KG00100450	Respiratory insufficiency, NOS	0.05298728495836258
+trial_2	cobalt chloride	104	KG00097963	arthralgias	0.051333244889974594
+trial_2	cobalt chloride	27	KG00099303	hyperkalaemia	0.05120931565761566
+trial_2	cobalt chloride	122	KG00099321	Hypersensitivity NOS	0.049271151423454285
+trial_2	cobalt chloride	239	KG00100128	pareses	0.04912269115447998
+trial_2	cobalt chloride	61	KG00099501	Chronic Kidney Failure	0.04668235033750534
+trial_2	cobalt chloride	139	KG00098855	Sinusitis, Ethmoid	0.04651724547147751
+trial_2	cobalt chloride	355	KG00110857	lymphocyte count decreased	0.046514030545949936
+trial_2	cobalt chloride	180	KG00099363	Hypotension NOS	0.04648254066705704
+trial_2	cobalt chloride	147	KG00098000	atelectases	0.04557277262210846
+trial_2	cobalt chloride	131	KG00100948	Urinary tract infection (& [NOS])	0.04296604171395302
+trial_2	cobalt chloride	96	KG00101679	Unattended death NOS	0.041764043271541595
+trial_2	cobalt chloride	154	KG00099686	Lymphopenias	0.041314490139484406
+trial_2	cobalt chloride	82	KG00097697	abdomen distended	0.04130556806921959
+trial_2	cobalt chloride	38	KG00098066	Binocular vision disorders	0.04108697175979614
+trial_2	cobalt chloride	18	KG00098307	Pain, Chest	0.04054925590753555
+trial_2	cobalt chloride	102	KG00097916	anxieties	0.04009481146931648
+trial_2	cobalt chloride	261	KG00101559	raised alkaline phosphatase	0.04008054360747337
+trial_2	cobalt chloride	116	KG00098964	Pain in foot	0.03998260572552681
+trial_2	cobalt chloride	276	KG00099127	Arrest, Cardiac	0.039740052074193954
+trial_2	cobalt chloride	100	KG00097815	alopecias	0.03957371413707733
+trial_2	cobalt chloride	151	KG00098274	Infarction, Cerebral	0.03949112817645073
+trial_2	cobalt chloride	212	KG00100576	shivers	0.038142621517181396
+trial_2	cobalt chloride	69	KG00100082	Palpitations NOS	0.03792499005794525
+trial_2	cobalt chloride	282	KG00099309	hypernatraemia	0.037763986736536026
+trial_2	cobalt chloride	396	KG00100373	Embolism, Pulmonary	0.037348758429288864
+trial_2	cobalt chloride	269	KG00100399	pyaemia	0.036590825766325
+trial_2	cobalt chloride	191	KG00104055	Biliverdin increased	0.03654656931757927
+trial_2	cobalt chloride	142	KG00100923	Unspecified infectious and parasitic diseases	0.036219798028469086
+trial_2	cobalt chloride	249	KG00104430	hypoalbuminaemia	0.03614549711346626
+trial_2	cobalt chloride	288	KG00101223	hypophosphataemia	0.03612233325839043
+trial_2	cobalt chloride	186	KG00101431	creatinine increased	0.03529210761189461
+trial_2	cobalt chloride	92	KG00100926	Infections, Upper Respiratory	0.03508166968822479
+trial_2	cobalt chloride	30	KG00099500	Acute Kidney Failure	0.0349062979221344
+trial_2	cobalt chloride	4	KG00098817	epistaxis	0.03472090885043144
+trial_2	cobalt chloride	130	KG00100683	Stomatitis NOS	0.03390493616461754
+trial_2	cobalt chloride	253	KG00100232	Pleural effusion NOS (disorder)	0.03333320468664169
+trial_2	cobalt chloride	441	KG00098262	cellulitis nos	0.03277917206287384
+trial_2	cobalt chloride	204	KG00098849	Esophagitis, Peptic	0.03197263181209564
+trial_2	cobalt chloride	466	KG00101205	fall	0.03194943815469742
+trial_2	cobalt chloride	35	KG00101507	hypomagnesaemia	0.031234897673130035
+trial_2	cobalt chloride	36	KG00106434	Vision, Blurring Of	0.030911264941096306
+trial_2	cobalt chloride	211	KG00100341	Pruritus NOS	0.030387144535779953
+trial_2	cobalt chloride	121	KG00099190	haemorrhage	0.029644355177879333
+trial_2	cobalt chloride	257	KG00100922	Erythema NOS	0.029640015214681625
+trial_2	cobalt chloride	262	KG00101199	agitation	0.029091160744428635
+trial_2	cobalt chloride	361	KG00098004	Fibrillation, Atrial	0.028816794976592064
+trial_2	cobalt chloride	75	KG00100195	Dolens, Phlegmasia Alba	0.028542935848236084
+trial_2	cobalt chloride	136	KG00101582	Dry;skin	0.028337731957435608
+trial_2	cobalt chloride	508	KG00108565	blood glucose increased	0.02789931185543537
+trial_2	cobalt chloride	164	KG00108827	ileus colon	0.02750379964709282
+trial_2	cobalt chloride	153	KG00099579	lethargy	0.026975929737091064
+trial_2	cobalt chloride	454	KG00098286	Pain, Neck	0.02664055861532688
+trial_2	cobalt chloride	297	KG00099294	hypercholesterolaemia	0.02647683396935463
+trial_2	cobalt chloride	98	KG00097718	Incised wound, NOS	0.026342924684286118
+trial_2	cobalt chloride	31	KG00099872	Infarction, Myocardial	0.026333343237638474
+trial_2	cobalt chloride	221	KG00101207	peripheral oedema	0.026329705491662025
+trial_2	cobalt chloride	33	KG00100094	Pancreatitis NOS	0.026323046535253525
+trial_2	cobalt chloride	503	KG00102612	low haemoglobin	0.02535075508058071
+trial_2	cobalt chloride	341	KG00101472	Gamma-glutamyltransferase increased	0.02450115606188774

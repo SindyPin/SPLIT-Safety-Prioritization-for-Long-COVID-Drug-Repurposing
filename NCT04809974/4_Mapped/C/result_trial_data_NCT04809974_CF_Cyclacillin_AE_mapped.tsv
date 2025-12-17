@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.25029101967811584
+trial_1	placebo	87	KG00098599	diarrhoea	0.2202310860157013
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.17711198329925537
+trial_1	placebo	9	KG00098432	Confusion NOS	0.16253827512264252
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1526613086462021
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.15215760469436646
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14922372996807098
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.13927099108695984
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.13621564209461212
+trial_1	placebo	68	KG00099901	nauseas	0.1290092021226883
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12337984889745712
+trial_1	placebo	46	KG00099121	Headache NOS	0.11806964129209518
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.11692743748426437
+trial_1	placebo	20	KG00098540	dehydration	0.11642470955848694
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1150958463549614
+trial_1	placebo	350	KG00106765	decreased platelet count	0.11242159456014633
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11158418655395508
+trial_1	placebo	228	KG00114657	Weight below normal	0.11001656204462051
+trial_1	placebo	21	KG00098675	dyspnoea	0.10684659332036972
+trial_1	placebo	29	KG00099354	hyponatraemia	0.09955975413322449
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09930827468633652
+trial_1	placebo	114	KG00098933	fevers	0.09813256561756134
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0955008938908577
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09170092642307281
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.09000266343355179
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0842103660106659
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.08228078484535217
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07997715473175049
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07969202101230621
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0791211798787117
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07720915228128433
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07500779628753662
+trial_1	placebo	126	KG00100076	Pain NOS	0.07209887355566025
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06964414566755295
+trial_1	placebo	85	KG00098474	coughs	0.0692698135972023
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06922129541635513
+trial_1	placebo	239	KG00100128	pareses	0.06846852600574493
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06742851436138153
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0673036202788353
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.06713768094778061
+trial_1	placebo	147	KG00098000	atelectases	0.0629853680729866
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0622384212911129
+trial_1	placebo	72	KG00103771	myalgias	0.06187403202056885
+trial_1	placebo	104	KG00097963	arthralgias	0.06096629425883293
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05940321087837219
+trial_1	placebo	5	KG00099169	haematuria	0.05832814425230026
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05787777155637741
+trial_1	placebo	282	KG00099309	hypernatraemia	0.056053612381219864
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05580759793519974
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05418609455227852
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.05398005247116089
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05389539524912834
+trial_1	placebo	269	KG00100399	pyaemia	0.05317167565226555
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.052782218903303146
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05224251002073288
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.052185580134391785
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04908715561032295
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04763197898864746
+trial_1	placebo	116	KG00098964	Pain in foot	0.04752632603049278
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04705832898616791
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04688598960638046
+trial_1	placebo	102	KG00097916	anxieties	0.04603974521160126
+trial_1	placebo	164	KG00108827	ileus colon	0.045975252985954285
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04484942555427551
+trial_1	placebo	262	KG00101199	agitation	0.04467828944325447
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.044331204146146774
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04361874610185623
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.04354114457964897
+trial_1	placebo	18	KG00098307	Pain, Chest	0.043011248111724854
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04272591322660446
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.042506083846092224
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.042101312428712845
+trial_1	placebo	82	KG00097697	abdomen distended	0.040241092443466187
+trial_1	placebo	100	KG00097815	alopecias	0.038620881736278534
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.038533248007297516
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03850312903523445
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03843355178833008
+trial_1	placebo	186	KG00101431	creatinine increased	0.03813636675477028
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03785700723528862
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03783128038048744
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.037187159061431885
+trial_1	placebo	234	KG00098669	dysgeusias	0.0351097509264946
+trial_1	placebo	212	KG00100576	shivers	0.035071104764938354
+trial_1	placebo	121	KG00099190	haemorrhage	0.034866537898778915
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03460531309247017
+trial_1	placebo	466	KG00101205	fall	0.034355081617832184
+trial_1	placebo	339	KG00100334	proteinurias	0.033776938915252686
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.033748261630535126
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.0337304063141346
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.033271465450525284
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03304840996861458
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.032737866044044495
+trial_1	placebo	508	KG00108565	blood glucose increased	0.032701682299375534
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03260877728462219
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03258682042360306
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.03232210874557495
+trial_1	placebo	503	KG00102612	low haemoglobin	0.03228366747498512
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03164627030491829
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.031128397211432457
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03092145174741745
+trial_2	cyclacillin	78	KG00099326	Hypertensive diseases	0.25029101967811584
+trial_2	cyclacillin	87	KG00098599	diarrhoea	0.2202310860157013
+trial_2	cyclacillin	177	KG00099299	hyperglycaemia	0.17711198329925537
+trial_2	cyclacillin	9	KG00098432	Confusion NOS	0.16253827512264252
+trial_2	cyclacillin	123	KG00099351	hypokalaemia	0.1526613086462021
+trial_2	cyclacillin	189	KG00101580	Alanine aminotransferase increase	0.15215760469436646
+trial_2	cyclacillin	17	KG00097991	Asthenia NOS	0.14922372996807098
+trial_2	cyclacillin	188	KG00101579	Aspartate aminotransferase increase	0.13927099108695984
+trial_2	cyclacillin	173	KG00098172	Bronchopneumonia NOS	0.13621564209461212
+trial_2	cyclacillin	68	KG00099901	nauseas	0.1290092021226883
+trial_2	cyclacillin	49	KG00099902	nausea with vomiting	0.12337984889745712
+trial_2	cyclacillin	46	KG00099121	Headache NOS	0.11806964129209518
+trial_2	cyclacillin	2	KG00100772	thrombocytopaenia	0.11692743748426437
+trial_2	cyclacillin	20	KG00098540	dehydration	0.11642470955848694
+trial_2	cyclacillin	14	KG00097852	Anemia NOS	0.1150958463549614
+trial_2	cyclacillin	350	KG00106765	decreased platelet count	0.11242159456014633
+trial_2	cyclacillin	37	KG00097696	Cramps, Abdominal	0.11158418655395508
+trial_2	cyclacillin	228	KG00114657	Weight below normal	0.11001656204462051
+trial_2	cyclacillin	21	KG00098675	dyspnoea	0.10684659332036972
+trial_2	cyclacillin	29	KG00099354	hyponatraemia	0.09955975413322449
+trial_2	cyclacillin	79	KG00100317	Insomnia, Primary	0.09930827468633652
+trial_2	cyclacillin	114	KG00098933	fevers	0.09813256561756134
+trial_2	cyclacillin	200	KG00098539	Disorders, Deglutition	0.0955008938908577
+trial_2	cyclacillin	77	KG00098450	Constipation NOS	0.09170092642307281
+trial_2	cyclacillin	76	KG00100450	Respiratory insufficiency, NOS	0.09000266343355179
+trial_2	cyclacillin	67	KG00098673	Dyspepsia, NOS	0.0842103660106659
+trial_2	cyclacillin	180	KG00099363	Hypotension NOS	0.08228078484535217
+trial_2	cyclacillin	61	KG00099501	Chronic Kidney Failure	0.07997715473175049
+trial_2	cyclacillin	64	KG00097734	Acrodermatitis, NOS	0.07969202101230621
+trial_2	cyclacillin	179	KG00099342	hypocalcaemia	0.0791211798787117
+trial_2	cyclacillin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07720915228128433
+trial_2	cyclacillin	101	KG00097901	Anorexia NOS	0.07500779628753662
+trial_2	cyclacillin	126	KG00100076	Pain NOS	0.07209887355566025
+trial_2	cyclacillin	243	KG00100947	Micturition frequency increased	0.06964414566755295
+trial_2	cyclacillin	85	KG00098474	coughs	0.0692698135972023
+trial_2	cyclacillin	27	KG00099303	hyperkalaemia	0.06922129541635513
+trial_2	cyclacillin	239	KG00100128	pareses	0.06846852600574493
+trial_2	cyclacillin	151	KG00098274	Infarction, Cerebral	0.06742851436138153
+trial_2	cyclacillin	30	KG00099500	Acute Kidney Failure	0.0673036202788353
+trial_2	cyclacillin	194	KG00110727	Neutrophil Count Decreased	0.06713768094778061
+trial_2	cyclacillin	147	KG00098000	atelectases	0.0629853680729866
+trial_2	cyclacillin	86	KG00098565	Depression, Mental	0.0622384212911129
+trial_2	cyclacillin	72	KG00103771	myalgias	0.06187403202056885
+trial_2	cyclacillin	104	KG00097963	arthralgias	0.06096629425883293
+trial_2	cyclacillin	276	KG00099127	Arrest, Cardiac	0.05940321087837219
+trial_2	cyclacillin	5	KG00099169	haematuria	0.05832814425230026
+trial_2	cyclacillin	28	KG00099347	hypoglycaemia	0.05787777155637741
+trial_2	cyclacillin	282	KG00099309	hypernatraemia	0.056053612381219864
+trial_2	cyclacillin	122	KG00099321	Hypersensitivity NOS	0.05580759793519974
+trial_2	cyclacillin	144	KG00099610	Leukopenia NOS	0.05418609455227852
+trial_2	cyclacillin	131	KG00100948	Urinary tract infection (& [NOS])	0.05398005247116089
+trial_2	cyclacillin	261	KG00101559	raised alkaline phosphatase	0.05389539524912834
+trial_2	cyclacillin	269	KG00100399	pyaemia	0.05317167565226555
+trial_2	cyclacillin	35	KG00101507	hypomagnesaemia	0.052782218903303146
+trial_2	cyclacillin	132	KG00101045	Gain, Weight	0.05224251002073288
+trial_2	cyclacillin	249	KG00104430	hypoalbuminaemia	0.052185580134391785
+trial_2	cyclacillin	355	KG00110857	lymphocyte count decreased	0.04908715561032295
+trial_2	cyclacillin	396	KG00100373	Embolism, Pulmonary	0.04763197898864746
+trial_2	cyclacillin	116	KG00098964	Pain in foot	0.04752632603049278
+trial_2	cyclacillin	139	KG00098855	Sinusitis, Ethmoid	0.04705832898616791
+trial_2	cyclacillin	69	KG00100082	Palpitations NOS	0.04688598960638046
+trial_2	cyclacillin	102	KG00097916	anxieties	0.04603974521160126
+trial_2	cyclacillin	164	KG00108827	ileus colon	0.045975252985954285
+trial_2	cyclacillin	96	KG00101679	Unattended death NOS	0.04484942555427551
+trial_2	cyclacillin	262	KG00101199	agitation	0.04467828944325447
+trial_2	cyclacillin	253	KG00100232	Pleural effusion NOS (disorder)	0.044331204146146774
+trial_2	cyclacillin	38	KG00098066	Binocular vision disorders	0.04361874610185623
+trial_2	cyclacillin	166	KG00099773	menopausal syndrome	0.04354114457964897
+trial_2	cyclacillin	18	KG00098307	Pain, Chest	0.043011248111724854
+trial_2	cyclacillin	142	KG00100923	Unspecified infectious and parasitic diseases	0.04272591322660446
+trial_2	cyclacillin	191	KG00104055	Biliverdin increased	0.042506083846092224
+trial_2	cyclacillin	1	KG00099959	Neutropenia NOS	0.042101312428712845
+trial_2	cyclacillin	82	KG00097697	abdomen distended	0.040241092443466187
+trial_2	cyclacillin	100	KG00097815	alopecias	0.038620881736278534
+trial_2	cyclacillin	92	KG00100926	Infections, Upper Respiratory	0.038533248007297516
+trial_2	cyclacillin	130	KG00100683	Stomatitis NOS	0.03850312903523445
+trial_2	cyclacillin	75	KG00100195	Dolens, Phlegmasia Alba	0.03843355178833008
+trial_2	cyclacillin	186	KG00101431	creatinine increased	0.03813636675477028
+trial_2	cyclacillin	441	KG00098262	cellulitis nos	0.03785700723528862
+trial_2	cyclacillin	361	KG00098004	Fibrillation, Atrial	0.03783128038048744
+trial_2	cyclacillin	288	KG00101223	hypophosphataemia	0.037187159061431885
+trial_2	cyclacillin	234	KG00098669	dysgeusias	0.0351097509264946
+trial_2	cyclacillin	212	KG00100576	shivers	0.035071104764938354
+trial_2	cyclacillin	121	KG00099190	haemorrhage	0.034866537898778915
+trial_2	cyclacillin	341	KG00101472	Gamma-glutamyltransferase increased	0.03460531309247017
+trial_2	cyclacillin	466	KG00101205	fall	0.034355081617832184
+trial_2	cyclacillin	339	KG00100334	proteinurias	0.033776938915252686
+trial_2	cyclacillin	97	KG00104198	LIVER ENZYME ELEVATED	0.033748261630535126
+trial_2	cyclacillin	31	KG00099872	Infarction, Myocardial	0.0337304063141346
+trial_2	cyclacillin	286	KG00101110	Retention, Urinary	0.033271465450525284
+trial_2	cyclacillin	36	KG00106434	Vision, Blurring Of	0.03304840996861458
+trial_2	cyclacillin	268	KG00099557	Heart Failure, Left-Sided	0.032737866044044495
+trial_2	cyclacillin	508	KG00108565	blood glucose increased	0.032701682299375534
+trial_2	cyclacillin	154	KG00099686	Lymphopenias	0.03260877728462219
+trial_2	cyclacillin	204	KG00098849	Esophagitis, Peptic	0.03258682042360306
+trial_2	cyclacillin	494	KG00099838	Organ Failure, Multiple	0.03232210874557495
+trial_2	cyclacillin	503	KG00102612	low haemoglobin	0.03228366747498512
+trial_2	cyclacillin	221	KG00101207	peripheral oedema	0.03164627030491829
+trial_2	cyclacillin	15	KG00097882	Angina pectoris NOS	0.031128397211432457
+trial_2	cyclacillin	256	KG00100738	Tachycardia, Sinus	0.03092145174741745

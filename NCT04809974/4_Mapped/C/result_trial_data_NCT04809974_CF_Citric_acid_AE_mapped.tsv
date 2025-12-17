@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09648558497428894
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.051772020757198334
+trial_1	placebo	46	KG00099121	Headache NOS	0.04797681048512459
+trial_1	placebo	123	KG00099351	hypokalaemia	0.047916676849126816
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04626552015542984
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.045605264604091644
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0418245866894722
+trial_1	placebo	21	KG00098675	dyspnoea	0.037276364862918854
+trial_1	placebo	9	KG00098432	Confusion NOS	0.034966178238391876
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0339723564684391
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03387061506509781
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03207964077591896
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03092273883521557
+trial_1	placebo	20	KG00098540	dehydration	0.030768075957894325
+trial_1	placebo	68	KG00099901	nauseas	0.030714375898241997
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03060309775173664
+trial_1	placebo	114	KG00098933	fevers	0.030447427183389664
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.02892085164785385
+trial_1	placebo	126	KG00100076	Pain NOS	0.028828369453549385
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028439952060580254
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.027072662487626076
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.026115920394659042
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.024793196469545364
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.024753186851739883
+trial_1	placebo	147	KG00098000	atelectases	0.02446085587143898
+trial_1	placebo	85	KG00098474	coughs	0.024022717028856277
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.022891173139214516
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.022849632427096367
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.022514142096042633
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02246050164103508
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021506570279598236
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021404201164841652
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.021215705201029778
+trial_1	placebo	121	KG00099190	haemorrhage	0.019801560789346695
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.019516903907060623
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.019429216161370277
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0185287743806839
+trial_1	placebo	5	KG00099169	haematuria	0.018262730911374092
+trial_1	placebo	29	KG00099354	hyponatraemia	0.017676735296845436
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.017633119598031044
+trial_1	placebo	350	KG00106765	decreased platelet count	0.017239803448319435
+trial_1	placebo	269	KG00100399	pyaemia	0.017205188050866127
+trial_1	placebo	104	KG00097963	arthralgias	0.01707795262336731
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0168516356498003
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.016358662396669388
+trial_1	placebo	228	KG00114657	Weight below normal	0.01609080657362938
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.01586329936981201
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.01571534387767315
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.015660641714930534
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.015600942075252533
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015521655790507793
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015365233644843102
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015205827541649342
+trial_1	placebo	86	KG00098565	Depression, Mental	0.01515223179012537
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015112080611288548
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014819439500570297
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.014764903113245964
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014693875797092915
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014554332941770554
+trial_1	placebo	82	KG00097697	abdomen distended	0.014366735704243183
+trial_1	placebo	72	KG00103771	myalgias	0.014063606970012188
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013932429254055023
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.013881534337997437
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.013734528794884682
+trial_1	placebo	4	KG00098817	epistaxis	0.013581939041614532
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.013160698115825653
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.013026674278080463
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.012933134101331234
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.012785203754901886
+trial_1	placebo	239	KG00100128	pareses	0.012585079297423363
+trial_1	placebo	116	KG00098964	Pain in foot	0.012054386548697948
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011865990236401558
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.011749892495572567
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01160203106701374
+trial_1	placebo	164	KG00108827	ileus colon	0.011499359272420406
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.011422866024076939
+trial_1	placebo	282	KG00099309	hypernatraemia	0.011420249938964844
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.011365185491740704
+trial_1	placebo	186	KG00101431	creatinine increased	0.01119693648070097
+trial_1	placebo	136	KG00101582	Dry;skin	0.01117965392768383
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.011168100871145725
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01092471368610859
+trial_1	placebo	234	KG00098669	dysgeusias	0.010840775445103645
+trial_1	placebo	11	KG00097993	Asthma NOS	0.010822481475770473
+trial_1	placebo	102	KG00097916	anxieties	0.010634584352374077
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.010525187477469444
+trial_1	placebo	466	KG00101205	fall	0.010436484590172768
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.010351818054914474
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.010229543782770634
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01018115971237421
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.010090891271829605
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.010072916746139526
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01006621029227972
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.009666655212640762
+trial_1	placebo	221	KG00101207	peripheral oedema	0.009584764949977398
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.009466927498579025
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.009315877221524715
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.009018869139254093
+trial_1	placebo	25	KG00099134	congestive failures heart	0.009007927030324936
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.008896753191947937
+trial_2	citric acid	87	KG00098599	diarrhoea	0.09648558497428894
+trial_2	citric acid	173	KG00098172	Bronchopneumonia NOS	0.051772020757198334
+trial_2	citric acid	46	KG00099121	Headache NOS	0.04797681048512459
+trial_2	citric acid	123	KG00099351	hypokalaemia	0.047916676849126816
+trial_2	citric acid	37	KG00097696	Cramps, Abdominal	0.04626552015542984
+trial_2	citric acid	177	KG00099299	hyperglycaemia	0.045605264604091644
+trial_2	citric acid	78	KG00099326	Hypertensive diseases	0.0418245866894722
+trial_2	citric acid	21	KG00098675	dyspnoea	0.037276364862918854
+trial_2	citric acid	9	KG00098432	Confusion NOS	0.034966178238391876
+trial_2	citric acid	77	KG00098450	Constipation NOS	0.0339723564684391
+trial_2	citric acid	64	KG00097734	Acrodermatitis, NOS	0.03387061506509781
+trial_2	citric acid	14	KG00097852	Anemia NOS	0.03207964077591896
+trial_2	citric acid	67	KG00098673	Dyspepsia, NOS	0.03092273883521557
+trial_2	citric acid	20	KG00098540	dehydration	0.030768075957894325
+trial_2	citric acid	68	KG00099901	nauseas	0.030714375898241997
+trial_2	citric acid	49	KG00099902	nausea with vomiting	0.03060309775173664
+trial_2	citric acid	114	KG00098933	fevers	0.030447427183389664
+trial_2	citric acid	17	KG00097991	Asthenia NOS	0.02892085164785385
+trial_2	citric acid	126	KG00100076	Pain NOS	0.028828369453549385
+trial_2	citric acid	96	KG00101679	Unattended death NOS	0.028439952060580254
+trial_2	citric acid	151	KG00098274	Infarction, Cerebral	0.027072662487626076
+trial_2	citric acid	76	KG00100450	Respiratory insufficiency, NOS	0.026115920394659042
+trial_2	citric acid	2	KG00100772	thrombocytopaenia	0.024793196469545364
+trial_2	citric acid	180	KG00099363	Hypotension NOS	0.024753186851739883
+trial_2	citric acid	147	KG00098000	atelectases	0.02446085587143898
+trial_2	citric acid	85	KG00098474	coughs	0.024022717028856277
+trial_2	citric acid	61	KG00099501	Chronic Kidney Failure	0.022891173139214516
+trial_2	citric acid	200	KG00098539	Disorders, Deglutition	0.022849632427096367
+trial_2	citric acid	189	KG00101580	Alanine aminotransferase increase	0.022514142096042633
+trial_2	citric acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.02246050164103508
+trial_2	citric acid	396	KG00100373	Embolism, Pulmonary	0.021506570279598236
+trial_2	citric acid	30	KG00099500	Acute Kidney Failure	0.021404201164841652
+trial_2	citric acid	79	KG00100317	Insomnia, Primary	0.021215705201029778
+trial_2	citric acid	121	KG00099190	haemorrhage	0.019801560789346695
+trial_2	citric acid	276	KG00099127	Arrest, Cardiac	0.019516903907060623
+trial_2	citric acid	122	KG00099321	Hypersensitivity NOS	0.019429216161370277
+trial_2	citric acid	188	KG00101579	Aspartate aminotransferase increase	0.0185287743806839
+trial_2	citric acid	5	KG00099169	haematuria	0.018262730911374092
+trial_2	citric acid	29	KG00099354	hyponatraemia	0.017676735296845436
+trial_2	citric acid	131	KG00100948	Urinary tract infection (& [NOS])	0.017633119598031044
+trial_2	citric acid	350	KG00106765	decreased platelet count	0.017239803448319435
+trial_2	citric acid	269	KG00100399	pyaemia	0.017205188050866127
+trial_2	citric acid	104	KG00097963	arthralgias	0.01707795262336731
+trial_2	citric acid	18	KG00098307	Pain, Chest	0.0168516356498003
+trial_2	citric acid	179	KG00099342	hypocalcaemia	0.016358662396669388
+trial_2	citric acid	228	KG00114657	Weight below normal	0.01609080657362938
+trial_2	citric acid	243	KG00100947	Micturition frequency increased	0.01586329936981201
+trial_2	citric acid	28	KG00099347	hypoglycaemia	0.01571534387767315
+trial_2	citric acid	253	KG00100232	Pleural effusion NOS (disorder)	0.015660641714930534
+trial_2	citric acid	69	KG00100082	Palpitations NOS	0.015600942075252533
+trial_2	citric acid	31	KG00099872	Infarction, Myocardial	0.015521655790507793
+trial_2	citric acid	101	KG00097901	Anorexia NOS	0.015365233644843102
+trial_2	citric acid	361	KG00098004	Fibrillation, Atrial	0.015205827541649342
+trial_2	citric acid	86	KG00098565	Depression, Mental	0.01515223179012537
+trial_2	citric acid	441	KG00098262	cellulitis nos	0.015112080611288548
+trial_2	citric acid	75	KG00100195	Dolens, Phlegmasia Alba	0.014819439500570297
+trial_2	citric acid	194	KG00110727	Neutrophil Count Decreased	0.014764903113245964
+trial_2	citric acid	92	KG00100926	Infections, Upper Respiratory	0.014693875797092915
+trial_2	citric acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014554332941770554
+trial_2	citric acid	82	KG00097697	abdomen distended	0.014366735704243183
+trial_2	citric acid	72	KG00103771	myalgias	0.014063606970012188
+trial_2	citric acid	138	KG00098796	epidemic vomiting syndrome	0.013932429254055023
+trial_2	citric acid	211	KG00100341	Pruritus NOS	0.013881534337997437
+trial_2	citric acid	27	KG00099303	hyperkalaemia	0.013734528794884682
+trial_2	citric acid	4	KG00098817	epistaxis	0.013581939041614532
+trial_2	citric acid	144	KG00099610	Leukopenia NOS	0.013160698115825653
+trial_2	citric acid	139	KG00098855	Sinusitis, Ethmoid	0.013026674278080463
+trial_2	citric acid	249	KG00104430	hypoalbuminaemia	0.012933134101331234
+trial_2	citric acid	1	KG00099959	Neutropenia NOS	0.012785203754901886
+trial_2	citric acid	239	KG00100128	pareses	0.012585079297423363
+trial_2	citric acid	116	KG00098964	Pain in foot	0.012054386548697948
+trial_2	citric acid	191	KG00104055	Biliverdin increased	0.011865990236401558
+trial_2	citric acid	130	KG00100683	Stomatitis NOS	0.011749892495572567
+trial_2	citric acid	204	KG00098849	Esophagitis, Peptic	0.01160203106701374
+trial_2	citric acid	164	KG00108827	ileus colon	0.011499359272420406
+trial_2	citric acid	170	KG00108926	Neutropenia, Febrile	0.011422866024076939
+trial_2	citric acid	282	KG00099309	hypernatraemia	0.011420249938964844
+trial_2	citric acid	199	KG00098371	Rhinitis (chronic) NOS	0.011365185491740704
+trial_2	citric acid	186	KG00101431	creatinine increased	0.01119693648070097
+trial_2	citric acid	136	KG00101582	Dry;skin	0.01117965392768383
+trial_2	citric acid	38	KG00098066	Binocular vision disorders	0.011168100871145725
+trial_2	citric acid	15	KG00097882	Angina pectoris NOS	0.01092471368610859
+trial_2	citric acid	234	KG00098669	dysgeusias	0.010840775445103645
+trial_2	citric acid	11	KG00097993	Asthma NOS	0.010822481475770473
+trial_2	citric acid	102	KG00097916	anxieties	0.010634584352374077
+trial_2	citric acid	356	KG00112623	Infectious Lung Disorders	0.010525187477469444
+trial_2	citric acid	466	KG00101205	fall	0.010436484590172768
+trial_2	citric acid	261	KG00101559	raised alkaline phosphatase	0.010351818054914474
+trial_2	citric acid	195	KG00097814	Atopic Rhinitis	0.010229543782770634
+trial_2	citric acid	98	KG00097718	Incised wound, NOS	0.01018115971237421
+trial_2	citric acid	35	KG00101507	hypomagnesaemia	0.010090891271829605
+trial_2	citric acid	118	KG00099011	Gastritis NOS	0.010072916746139526
+trial_2	citric acid	133	KG00101370	neuropathies sensory	0.01006621029227972
+trial_2	citric acid	371	KG00098517	Cystitis (NOS)	0.009666655212640762
+trial_2	citric acid	221	KG00101207	peripheral oedema	0.009584764949977398
+trial_2	citric acid	286	KG00101110	Retention, Urinary	0.009466927498579025
+trial_2	citric acid	355	KG00110857	lymphocyte count decreased	0.009315877221524715
+trial_2	citric acid	254	KG00100774	Thrombosis NOS	0.009018869139254093
+trial_2	citric acid	25	KG00099134	congestive failures heart	0.009007927030324936
+trial_2	citric acid	394	KG00100243	Pneumonia, Aspiration	0.008896753191947937

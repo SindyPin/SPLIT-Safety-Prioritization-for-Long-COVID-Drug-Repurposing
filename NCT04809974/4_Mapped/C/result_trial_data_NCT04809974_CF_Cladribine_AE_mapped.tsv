@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15011827647686005
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09673182666301727
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09278932958841324
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09197886288166046
+trial_1	placebo	46	KG00099121	Headache NOS	0.0854121595621109
+trial_1	placebo	68	KG00099901	nauseas	0.08175981789827347
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08097344636917114
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08044321089982986
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07984177768230438
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07843495160341263
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07698039710521698
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07242591679096222
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0704316794872284
+trial_1	placebo	21	KG00098675	dyspnoea	0.0674850270152092
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06633704900741577
+trial_1	placebo	114	KG00098933	fevers	0.06534145027399063
+trial_1	placebo	20	KG00098540	dehydration	0.06111711636185646
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05988806113600731
+trial_1	placebo	228	KG00114657	Weight below normal	0.05919439345598221
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05394626036286354
+trial_1	placebo	126	KG00100076	Pain NOS	0.050494998693466187
+trial_1	placebo	77	KG00098450	Constipation NOS	0.047992244362831116
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04503060132265091
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.044228583574295044
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04403078928589821
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04220208153128624
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03889942169189453
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03807908296585083
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03783071041107178
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03696899861097336
+trial_1	placebo	85	KG00098474	coughs	0.035944148898124695
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03470190614461899
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.034518931061029434
+trial_1	placebo	72	KG00103771	myalgias	0.034288808703422546
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.034107863903045654
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03378506004810333
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03271345794200897
+trial_1	placebo	29	KG00099354	hyponatraemia	0.032687656581401825
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03253329545259476
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.032399993389844894
+trial_1	placebo	104	KG00097963	arthralgias	0.03225487843155861
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03205327317118645
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.031860340386629105
+trial_1	placebo	154	KG00099686	Lymphopenias	0.031294047832489014
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03098660334944725
+trial_1	placebo	239	KG00100128	pareses	0.02960595116019249
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02908981405198574
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.028137532994151115
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.028002901002764702
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027487263083457947
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02733352966606617
+trial_1	placebo	269	KG00100399	pyaemia	0.027106650173664093
+trial_1	placebo	147	KG00098000	atelectases	0.026906155049800873
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026730580255389214
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026481209322810173
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.025077108293771744
+trial_1	placebo	102	KG00097916	anxieties	0.02475510910153389
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.024071453139185905
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02383783459663391
+trial_1	placebo	116	KG00098964	Pain in foot	0.023402327671647072
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.022693848237395287
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.022616678848862648
+trial_1	placebo	5	KG00099169	haematuria	0.02132539451122284
+trial_1	placebo	82	KG00097697	abdomen distended	0.02129765972495079
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021123278886079788
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02084195986390114
+trial_1	placebo	466	KG00101205	fall	0.019739501178264618
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019733747467398643
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019440501928329468
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01921718381345272
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.019162850454449654
+trial_1	placebo	121	KG00099190	haemorrhage	0.019160430878400803
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018986592069268227
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018676090985536575
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018555302172899246
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01854383572936058
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01793985441327095
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01784316450357437
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017669150605797768
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0175799373537302
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01741054467856884
+trial_1	placebo	212	KG00100576	shivers	0.017267609015107155
+trial_1	placebo	186	KG00101431	creatinine increased	0.016469117254018784
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016398971900343895
+trial_1	placebo	234	KG00098669	dysgeusias	0.01631787046790123
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.015921693295240402
+trial_1	placebo	164	KG00108827	ileus colon	0.01581934094429016
+trial_1	placebo	100	KG00097815	alopecias	0.015572679229080677
+trial_1	placebo	390	KG00100095	pancytopenias	0.015531270764768124
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015161911956965923
+trial_1	placebo	456	KG00099420	Influenzae	0.01504804939031601
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.014802317135035992
+trial_1	placebo	221	KG00101207	peripheral oedema	0.014789541251957417
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.014637503772974014
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.014494872651994228
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014461126178503036
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01443401537835598
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.0141295799985528
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.014046275056898594
+trial_1	placebo	136	KG00101582	Dry;skin	0.013740654103457928
+trial_2	cladribine	87	KG00098599	diarrhoea	0.15011827647686005
+trial_2	cladribine	173	KG00098172	Bronchopneumonia NOS	0.09673182666301727
+trial_2	cladribine	17	KG00097991	Asthenia NOS	0.09278932958841324
+trial_2	cladribine	9	KG00098432	Confusion NOS	0.09197886288166046
+trial_2	cladribine	46	KG00099121	Headache NOS	0.0854121595621109
+trial_2	cladribine	68	KG00099901	nauseas	0.08175981789827347
+trial_2	cladribine	37	KG00097696	Cramps, Abdominal	0.08097344636917114
+trial_2	cladribine	64	KG00097734	Acrodermatitis, NOS	0.08044321089982986
+trial_2	cladribine	177	KG00099299	hyperglycaemia	0.07984177768230438
+trial_2	cladribine	49	KG00099902	nausea with vomiting	0.07843495160341263
+trial_2	cladribine	2	KG00100772	thrombocytopaenia	0.07698039710521698
+trial_2	cladribine	78	KG00099326	Hypertensive diseases	0.07242591679096222
+trial_2	cladribine	14	KG00097852	Anemia NOS	0.0704316794872284
+trial_2	cladribine	21	KG00098675	dyspnoea	0.0674850270152092
+trial_2	cladribine	123	KG00099351	hypokalaemia	0.06633704900741577
+trial_2	cladribine	114	KG00098933	fevers	0.06534145027399063
+trial_2	cladribine	20	KG00098540	dehydration	0.06111711636185646
+trial_2	cladribine	189	KG00101580	Alanine aminotransferase increase	0.05988806113600731
+trial_2	cladribine	228	KG00114657	Weight below normal	0.05919439345598221
+trial_2	cladribine	67	KG00098673	Dyspepsia, NOS	0.05394626036286354
+trial_2	cladribine	126	KG00100076	Pain NOS	0.050494998693466187
+trial_2	cladribine	77	KG00098450	Constipation NOS	0.047992244362831116
+trial_2	cladribine	1	KG00099959	Neutropenia NOS	0.04503060132265091
+trial_2	cladribine	188	KG00101579	Aspartate aminotransferase increase	0.044228583574295044
+trial_2	cladribine	79	KG00100317	Insomnia, Primary	0.04403078928589821
+trial_2	cladribine	101	KG00097901	Anorexia NOS	0.04220208153128624
+trial_2	cladribine	396	KG00100373	Embolism, Pulmonary	0.03889942169189453
+trial_2	cladribine	142	KG00100923	Unspecified infectious and parasitic diseases	0.03807908296585083
+trial_2	cladribine	131	KG00100948	Urinary tract infection (& [NOS])	0.03783071041107178
+trial_2	cladribine	144	KG00099610	Leukopenia NOS	0.03696899861097336
+trial_2	cladribine	85	KG00098474	coughs	0.035944148898124695
+trial_2	cladribine	151	KG00098274	Infarction, Cerebral	0.03470190614461899
+trial_2	cladribine	170	KG00108926	Neutropenia, Febrile	0.034518931061029434
+trial_2	cladribine	72	KG00103771	myalgias	0.034288808703422546
+trial_2	cladribine	76	KG00100450	Respiratory insufficiency, NOS	0.034107863903045654
+trial_2	cladribine	86	KG00098565	Depression, Mental	0.03378506004810333
+trial_2	cladribine	200	KG00098539	Disorders, Deglutition	0.03271345794200897
+trial_2	cladribine	29	KG00099354	hyponatraemia	0.032687656581401825
+trial_2	cladribine	96	KG00101679	Unattended death NOS	0.03253329545259476
+trial_2	cladribine	194	KG00110727	Neutrophil Count Decreased	0.032399993389844894
+trial_2	cladribine	104	KG00097963	arthralgias	0.03225487843155861
+trial_2	cladribine	122	KG00099321	Hypersensitivity NOS	0.03205327317118645
+trial_2	cladribine	61	KG00099501	Chronic Kidney Failure	0.031860340386629105
+trial_2	cladribine	154	KG00099686	Lymphopenias	0.031294047832489014
+trial_2	cladribine	75	KG00100195	Dolens, Phlegmasia Alba	0.03098660334944725
+trial_2	cladribine	239	KG00100128	pareses	0.02960595116019249
+trial_2	cladribine	350	KG00106765	decreased platelet count	0.02908981405198574
+trial_2	cladribine	180	KG00099363	Hypotension NOS	0.028137532994151115
+trial_2	cladribine	30	KG00099500	Acute Kidney Failure	0.028002901002764702
+trial_2	cladribine	18	KG00098307	Pain, Chest	0.027487263083457947
+trial_2	cladribine	441	KG00098262	cellulitis nos	0.02733352966606617
+trial_2	cladribine	269	KG00100399	pyaemia	0.027106650173664093
+trial_2	cladribine	147	KG00098000	atelectases	0.026906155049800873
+trial_2	cladribine	38	KG00098066	Binocular vision disorders	0.026730580255389214
+trial_2	cladribine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026481209322810173
+trial_2	cladribine	243	KG00100947	Micturition frequency increased	0.025077108293771744
+trial_2	cladribine	102	KG00097916	anxieties	0.02475510910153389
+trial_2	cladribine	139	KG00098855	Sinusitis, Ethmoid	0.024071453139185905
+trial_2	cladribine	361	KG00098004	Fibrillation, Atrial	0.02383783459663391
+trial_2	cladribine	116	KG00098964	Pain in foot	0.023402327671647072
+trial_2	cladribine	355	KG00110857	lymphocyte count decreased	0.022693848237395287
+trial_2	cladribine	27	KG00099303	hyperkalaemia	0.022616678848862648
+trial_2	cladribine	5	KG00099169	haematuria	0.02132539451122284
+trial_2	cladribine	82	KG00097697	abdomen distended	0.02129765972495079
+trial_2	cladribine	191	KG00104055	Biliverdin increased	0.021123278886079788
+trial_2	cladribine	28	KG00099347	hypoglycaemia	0.02084195986390114
+trial_2	cladribine	466	KG00101205	fall	0.019739501178264618
+trial_2	cladribine	253	KG00100232	Pleural effusion NOS (disorder)	0.019733747467398643
+trial_2	cladribine	261	KG00101559	raised alkaline phosphatase	0.019440501928329468
+trial_2	cladribine	92	KG00100926	Infections, Upper Respiratory	0.01921718381345272
+trial_2	cladribine	179	KG00099342	hypocalcaemia	0.019162850454449654
+trial_2	cladribine	121	KG00099190	haemorrhage	0.019160430878400803
+trial_2	cladribine	69	KG00100082	Palpitations NOS	0.018986592069268227
+trial_2	cladribine	138	KG00098796	epidemic vomiting syndrome	0.018676090985536575
+trial_2	cladribine	36	KG00106434	Vision, Blurring Of	0.018555302172899246
+trial_2	cladribine	211	KG00100341	Pruritus NOS	0.01854383572936058
+trial_2	cladribine	130	KG00100683	Stomatitis NOS	0.01793985441327095
+trial_2	cladribine	276	KG00099127	Arrest, Cardiac	0.01784316450357437
+trial_2	cladribine	31	KG00099872	Infarction, Myocardial	0.017669150605797768
+trial_2	cladribine	33	KG00100094	Pancreatitis NOS	0.0175799373537302
+trial_2	cladribine	282	KG00099309	hypernatraemia	0.01741054467856884
+trial_2	cladribine	212	KG00100576	shivers	0.017267609015107155
+trial_2	cladribine	186	KG00101431	creatinine increased	0.016469117254018784
+trial_2	cladribine	249	KG00104430	hypoalbuminaemia	0.016398971900343895
+trial_2	cladribine	234	KG00098669	dysgeusias	0.01631787046790123
+trial_2	cladribine	356	KG00112623	Infectious Lung Disorders	0.015921693295240402
+trial_2	cladribine	164	KG00108827	ileus colon	0.01581934094429016
+trial_2	cladribine	100	KG00097815	alopecias	0.015572679229080677
+trial_2	cladribine	390	KG00100095	pancytopenias	0.015531270764768124
+trial_2	cladribine	35	KG00101507	hypomagnesaemia	0.015161911956965923
+trial_2	cladribine	456	KG00099420	Influenzae	0.01504804939031601
+trial_2	cladribine	202	KG00098630	Disturbance of Skin Sensation	0.014802317135035992
+trial_2	cladribine	221	KG00101207	peripheral oedema	0.014789541251957417
+trial_2	cladribine	288	KG00101223	hypophosphataemia	0.014637503772974014
+trial_2	cladribine	341	KG00101472	Gamma-glutamyltransferase increased	0.014494872651994228
+trial_2	cladribine	11	KG00097993	Asthma NOS	0.014461126178503036
+trial_2	cladribine	204	KG00098849	Esophagitis, Peptic	0.01443401537835598
+trial_2	cladribine	133	KG00101370	neuropathies sensory	0.0141295799985528
+trial_2	cladribine	268	KG00099557	Heart Failure, Left-Sided	0.014046275056898594
+trial_2	cladribine	136	KG00101582	Dry;skin	0.013740654103457928

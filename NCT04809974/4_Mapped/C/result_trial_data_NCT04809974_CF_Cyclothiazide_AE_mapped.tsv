@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2585923969745636
+trial_1	placebo	87	KG00098599	diarrhoea	0.19972307980060577
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.17081885039806366
+trial_1	placebo	123	KG00099351	hypokalaemia	0.15999464690685272
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1463281810283661
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13932855427265167
+trial_1	placebo	20	KG00098540	dehydration	0.13506528735160828
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.13214212656021118
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12771804630756378
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.12545102834701538
+trial_1	placebo	21	KG00098675	dyspnoea	0.12113723158836365
+trial_1	placebo	29	KG00099354	hyponatraemia	0.11180425435304642
+trial_1	placebo	350	KG00106765	decreased platelet count	0.10781853646039963
+trial_1	placebo	228	KG00114657	Weight below normal	0.10531692951917648
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09704078733921051
+trial_1	placebo	46	KG00099121	Headache NOS	0.0969899520277977
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.09534280002117157
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09509381651878357
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09273711591959
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09265413880348206
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08919142931699753
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08881200104951859
+trial_1	placebo	86	KG00098565	Depression, Mental	0.08618849515914917
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08574240654706955
+trial_1	placebo	68	KG00099901	nauseas	0.08511215448379517
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08439476788043976
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08230429887771606
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.08152137696743011
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08012008666992188
+trial_1	placebo	239	KG00100128	pareses	0.07919217646121979
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07895438373088837
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.07842415571212769
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07502740621566772
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07402633130550385
+trial_1	placebo	104	KG00097963	arthralgias	0.07250253111124039
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07214183360338211
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06731553375720978
+trial_1	placebo	114	KG00098933	fevers	0.06703056395053864
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06576370447874069
+trial_1	placebo	5	KG00099169	haematuria	0.06503172218799591
+trial_1	placebo	126	KG00100076	Pain NOS	0.06462481617927551
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06202229857444763
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.06069216504693031
+trial_1	placebo	147	KG00098000	atelectases	0.060244977474212646
+trial_1	placebo	85	KG00098474	coughs	0.0595080703496933
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05918940156698227
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05903739854693413
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.057880960404872894
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05594877153635025
+trial_1	placebo	282	KG00099309	hypernatraemia	0.053308289498090744
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05206817761063576
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.051275454461574554
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.05102614685893059
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.05088140070438385
+trial_1	placebo	262	KG00101199	agitation	0.04977346211671829
+trial_1	placebo	466	KG00101205	fall	0.048974666744470596
+trial_1	placebo	269	KG00100399	pyaemia	0.048704519867897034
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04800768941640854
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04714951664209366
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04694085940718651
+trial_1	placebo	72	KG00103771	myalgias	0.046860937029123306
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.046563804149627686
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04646918177604675
+trial_1	placebo	164	KG00108827	ileus colon	0.045982688665390015
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.045928727835416794
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04553413763642311
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.044987816363573074
+trial_1	placebo	186	KG00101431	creatinine increased	0.04474988952279091
+trial_1	placebo	102	KG00097916	anxieties	0.04401346296072006
+trial_1	placebo	18	KG00098307	Pain, Chest	0.043855372816324234
+trial_1	placebo	116	KG00098964	Pain in foot	0.0437854565680027
+trial_1	placebo	121	KG00099190	haemorrhage	0.042904604226350784
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.04164430871605873
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.039838895201683044
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.038986556231975555
+trial_1	placebo	82	KG00097697	abdomen distended	0.038298968225717545
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.038180820643901825
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03817316144704819
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0380905345082283
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03808078542351723
+trial_1	placebo	154	KG00099686	Lymphopenias	0.037908703088760376
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03790288418531418
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03786560520529747
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.037807390093803406
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.036959655582904816
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03670378401875496
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03664098307490349
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.036179397255182266
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03550747409462929
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.0354679599404335
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.035083573311567307
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.034262724220752716
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03392208740115166
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.033885784447193146
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.03385747969150543
+trial_1	placebo	242	KG00100855	tremors	0.03319332003593445
+trial_1	placebo	339	KG00100334	proteinurias	0.032532356679439545
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.03167339414358139
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.031489163637161255
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.03124331124126911
+trial_2	cyclothiazide	78	KG00099326	Hypertensive diseases	0.2585923969745636
+trial_2	cyclothiazide	87	KG00098599	diarrhoea	0.19972307980060577
+trial_2	cyclothiazide	177	KG00099299	hyperglycaemia	0.17081885039806366
+trial_2	cyclothiazide	123	KG00099351	hypokalaemia	0.15999464690685272
+trial_2	cyclothiazide	189	KG00101580	Alanine aminotransferase increase	0.1463281810283661
+trial_2	cyclothiazide	17	KG00097991	Asthenia NOS	0.13932855427265167
+trial_2	cyclothiazide	20	KG00098540	dehydration	0.13506528735160828
+trial_2	cyclothiazide	173	KG00098172	Bronchopneumonia NOS	0.13214212656021118
+trial_2	cyclothiazide	9	KG00098432	Confusion NOS	0.12771804630756378
+trial_2	cyclothiazide	188	KG00101579	Aspartate aminotransferase increase	0.12545102834701538
+trial_2	cyclothiazide	21	KG00098675	dyspnoea	0.12113723158836365
+trial_2	cyclothiazide	29	KG00099354	hyponatraemia	0.11180425435304642
+trial_2	cyclothiazide	350	KG00106765	decreased platelet count	0.10781853646039963
+trial_2	cyclothiazide	228	KG00114657	Weight below normal	0.10531692951917648
+trial_2	cyclothiazide	67	KG00098673	Dyspepsia, NOS	0.09704078733921051
+trial_2	cyclothiazide	46	KG00099121	Headache NOS	0.0969899520277977
+trial_2	cyclothiazide	200	KG00098539	Disorders, Deglutition	0.09534280002117157
+trial_2	cyclothiazide	2	KG00100772	thrombocytopaenia	0.09509381651878357
+trial_2	cyclothiazide	14	KG00097852	Anemia NOS	0.09273711591959
+trial_2	cyclothiazide	79	KG00100317	Insomnia, Primary	0.09265413880348206
+trial_2	cyclothiazide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08919142931699753
+trial_2	cyclothiazide	37	KG00097696	Cramps, Abdominal	0.08881200104951859
+trial_2	cyclothiazide	86	KG00098565	Depression, Mental	0.08618849515914917
+trial_2	cyclothiazide	49	KG00099902	nausea with vomiting	0.08574240654706955
+trial_2	cyclothiazide	68	KG00099901	nauseas	0.08511215448379517
+trial_2	cyclothiazide	77	KG00098450	Constipation NOS	0.08439476788043976
+trial_2	cyclothiazide	76	KG00100450	Respiratory insufficiency, NOS	0.08230429887771606
+trial_2	cyclothiazide	27	KG00099303	hyperkalaemia	0.08152137696743011
+trial_2	cyclothiazide	64	KG00097734	Acrodermatitis, NOS	0.08012008666992188
+trial_2	cyclothiazide	239	KG00100128	pareses	0.07919217646121979
+trial_2	cyclothiazide	61	KG00099501	Chronic Kidney Failure	0.07895438373088837
+trial_2	cyclothiazide	179	KG00099342	hypocalcaemia	0.07842415571212769
+trial_2	cyclothiazide	243	KG00100947	Micturition frequency increased	0.07502740621566772
+trial_2	cyclothiazide	151	KG00098274	Infarction, Cerebral	0.07402633130550385
+trial_2	cyclothiazide	104	KG00097963	arthralgias	0.07250253111124039
+trial_2	cyclothiazide	30	KG00099500	Acute Kidney Failure	0.07214183360338211
+trial_2	cyclothiazide	28	KG00099347	hypoglycaemia	0.06731553375720978
+trial_2	cyclothiazide	114	KG00098933	fevers	0.06703056395053864
+trial_2	cyclothiazide	180	KG00099363	Hypotension NOS	0.06576370447874069
+trial_2	cyclothiazide	5	KG00099169	haematuria	0.06503172218799591
+trial_2	cyclothiazide	126	KG00100076	Pain NOS	0.06462481617927551
+trial_2	cyclothiazide	101	KG00097901	Anorexia NOS	0.06202229857444763
+trial_2	cyclothiazide	194	KG00110727	Neutrophil Count Decreased	0.06069216504693031
+trial_2	cyclothiazide	147	KG00098000	atelectases	0.060244977474212646
+trial_2	cyclothiazide	85	KG00098474	coughs	0.0595080703496933
+trial_2	cyclothiazide	96	KG00101679	Unattended death NOS	0.05918940156698227
+trial_2	cyclothiazide	132	KG00101045	Gain, Weight	0.05903739854693413
+trial_2	cyclothiazide	276	KG00099127	Arrest, Cardiac	0.057880960404872894
+trial_2	cyclothiazide	261	KG00101559	raised alkaline phosphatase	0.05594877153635025
+trial_2	cyclothiazide	282	KG00099309	hypernatraemia	0.053308289498090744
+trial_2	cyclothiazide	122	KG00099321	Hypersensitivity NOS	0.05206817761063576
+trial_2	cyclothiazide	131	KG00100948	Urinary tract infection (& [NOS])	0.051275454461574554
+trial_2	cyclothiazide	38	KG00098066	Binocular vision disorders	0.05102614685893059
+trial_2	cyclothiazide	191	KG00104055	Biliverdin increased	0.05088140070438385
+trial_2	cyclothiazide	262	KG00101199	agitation	0.04977346211671829
+trial_2	cyclothiazide	466	KG00101205	fall	0.048974666744470596
+trial_2	cyclothiazide	269	KG00100399	pyaemia	0.048704519867897034
+trial_2	cyclothiazide	139	KG00098855	Sinusitis, Ethmoid	0.04800768941640854
+trial_2	cyclothiazide	35	KG00101507	hypomagnesaemia	0.04714951664209366
+trial_2	cyclothiazide	355	KG00110857	lymphocyte count decreased	0.04694085940718651
+trial_2	cyclothiazide	72	KG00103771	myalgias	0.046860937029123306
+trial_2	cyclothiazide	249	KG00104430	hypoalbuminaemia	0.046563804149627686
+trial_2	cyclothiazide	144	KG00099610	Leukopenia NOS	0.04646918177604675
+trial_2	cyclothiazide	164	KG00108827	ileus colon	0.045982688665390015
+trial_2	cyclothiazide	288	KG00101223	hypophosphataemia	0.045928727835416794
+trial_2	cyclothiazide	396	KG00100373	Embolism, Pulmonary	0.04553413763642311
+trial_2	cyclothiazide	253	KG00100232	Pleural effusion NOS (disorder)	0.044987816363573074
+trial_2	cyclothiazide	186	KG00101431	creatinine increased	0.04474988952279091
+trial_2	cyclothiazide	102	KG00097916	anxieties	0.04401346296072006
+trial_2	cyclothiazide	18	KG00098307	Pain, Chest	0.043855372816324234
+trial_2	cyclothiazide	116	KG00098964	Pain in foot	0.0437854565680027
+trial_2	cyclothiazide	121	KG00099190	haemorrhage	0.042904604226350784
+trial_2	cyclothiazide	97	KG00104198	LIVER ENZYME ELEVATED	0.04164430871605873
+trial_2	cyclothiazide	361	KG00098004	Fibrillation, Atrial	0.039838895201683044
+trial_2	cyclothiazide	142	KG00100923	Unspecified infectious and parasitic diseases	0.038986556231975555
+trial_2	cyclothiazide	82	KG00097697	abdomen distended	0.038298968225717545
+trial_2	cyclothiazide	286	KG00101110	Retention, Urinary	0.038180820643901825
+trial_2	cyclothiazide	69	KG00100082	Palpitations NOS	0.03817316144704819
+trial_2	cyclothiazide	36	KG00106434	Vision, Blurring Of	0.0380905345082283
+trial_2	cyclothiazide	33	KG00100094	Pancreatitis NOS	0.03808078542351723
+trial_2	cyclothiazide	154	KG00099686	Lymphopenias	0.037908703088760376
+trial_2	cyclothiazide	256	KG00100738	Tachycardia, Sinus	0.03790288418531418
+trial_2	cyclothiazide	441	KG00098262	cellulitis nos	0.03786560520529747
+trial_2	cyclothiazide	75	KG00100195	Dolens, Phlegmasia Alba	0.037807390093803406
+trial_2	cyclothiazide	204	KG00098849	Esophagitis, Peptic	0.036959655582904816
+trial_2	cyclothiazide	341	KG00101472	Gamma-glutamyltransferase increased	0.03670378401875496
+trial_2	cyclothiazide	31	KG00099872	Infarction, Myocardial	0.03664098307490349
+trial_2	cyclothiazide	268	KG00099557	Heart Failure, Left-Sided	0.036179397255182266
+trial_2	cyclothiazide	422	KG00101429	Creatine phosphokinase increased	0.03550747409462929
+trial_2	cyclothiazide	15	KG00097882	Angina pectoris NOS	0.0354679599404335
+trial_2	cyclothiazide	356	KG00112623	Infectious Lung Disorders	0.035083573311567307
+trial_2	cyclothiazide	92	KG00100926	Infections, Upper Respiratory	0.034262724220752716
+trial_2	cyclothiazide	508	KG00108565	blood glucose increased	0.03392208740115166
+trial_2	cyclothiazide	394	KG00100243	Pneumonia, Aspiration	0.033885784447193146
+trial_2	cyclothiazide	297	KG00099294	hypercholesterolaemia	0.03385747969150543
+trial_2	cyclothiazide	242	KG00100855	tremors	0.03319332003593445
+trial_2	cyclothiazide	339	KG00100334	proteinurias	0.032532356679439545
+trial_2	cyclothiazide	494	KG00099838	Organ Failure, Multiple	0.03167339414358139
+trial_2	cyclothiazide	1	KG00099959	Neutropenia NOS	0.031489163637161255
+trial_2	cyclothiazide	22	KG00098705	Edema (NOS)	0.03124331124126911

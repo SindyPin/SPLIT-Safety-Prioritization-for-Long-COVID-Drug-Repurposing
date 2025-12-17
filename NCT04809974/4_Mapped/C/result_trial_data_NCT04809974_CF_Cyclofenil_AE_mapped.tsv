@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20730070769786835
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.17912547290325165
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1430010050535202
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13675488531589508
+trial_1	placebo	20	KG00098540	dehydration	0.1176740825176239
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11716024577617645
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11412809789180756
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11028068512678146
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10899341106414795
+trial_1	placebo	46	KG00099121	Headache NOS	0.10059075057506561
+trial_1	placebo	21	KG00098675	dyspnoea	0.09702019393444061
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09258933365345001
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09152650088071823
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09133165329694748
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08873726427555084
+trial_1	placebo	68	KG00099901	nauseas	0.08568903058767319
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0835798978805542
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08132082968950272
+trial_1	placebo	228	KG00114657	Weight below normal	0.07947638630867004
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07811756432056427
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0759996846318245
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07544846832752228
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07187524437904358
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06881341338157654
+trial_1	placebo	114	KG00098933	fevers	0.06800657510757446
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06690994650125504
+trial_1	placebo	85	KG00098474	coughs	0.06689117103815079
+trial_1	placebo	72	KG00103771	myalgias	0.06598499417304993
+trial_1	placebo	126	KG00100076	Pain NOS	0.06568225473165512
+trial_1	placebo	104	KG00097963	arthralgias	0.06204326078295708
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06047569587826729
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05709516629576683
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.056250397115945816
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.055764034390449524
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05533923581242561
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05411563441157341
+trial_1	placebo	239	KG00100128	pareses	0.052707523107528687
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05121946707367897
+trial_1	placebo	5	KG00099169	haematuria	0.050048280507326126
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04992754012346268
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0491555780172348
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04900112375617027
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04886531084775925
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04654471576213837
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04524071142077446
+trial_1	placebo	116	KG00098964	Pain in foot	0.043793462216854095
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04358682036399841
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04223863035440445
+trial_1	placebo	100	KG00097815	alopecias	0.04180437698960304
+trial_1	placebo	82	KG00097697	abdomen distended	0.041706632822752
+trial_1	placebo	102	KG00097916	anxieties	0.04149463400244713
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04114837571978569
+trial_1	placebo	147	KG00098000	atelectases	0.041035011410713196
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04097839072346687
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04019608721137047
+trial_1	placebo	234	KG00098669	dysgeusias	0.03866320848464966
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03860900178551674
+trial_1	placebo	282	KG00099309	hypernatraemia	0.037147603929042816
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03709116950631142
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03520619496703148
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03511875122785568
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0351182259619236
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03485849127173424
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03478548303246498
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03454139456152916
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.033995408564805984
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.033482085913419724
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03322441875934601
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03284532576799393
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03230049088597298
+trial_1	placebo	212	KG00100576	shivers	0.03216981887817383
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.031651802361011505
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.031232843175530434
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0311447661370039
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03108065016567707
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030908338725566864
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030884165316820145
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030831722542643547
+trial_1	placebo	132	KG00101045	Gain, Weight	0.030542362481355667
+trial_1	placebo	269	KG00100399	pyaemia	0.030508998781442642
+trial_1	placebo	262	KG00101199	agitation	0.03018246777355671
+trial_1	placebo	164	KG00108827	ileus colon	0.02951839007437229
+trial_1	placebo	121	KG00099190	haemorrhage	0.029377968981862068
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029323101043701172
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02931795082986355
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028424402698874474
+trial_1	placebo	339	KG00100334	proteinurias	0.028242943808436394
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02791738510131836
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027807293459773064
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02763938717544079
+trial_1	placebo	466	KG00101205	fall	0.02760852500796318
+trial_1	placebo	257	KG00100922	Erythema NOS	0.027294352650642395
+trial_1	placebo	186	KG00101431	creatinine increased	0.026992883533239365
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.026923926547169685
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02678978070616722
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.026757216081023216
+trial_1	placebo	153	KG00099579	lethargy	0.026738403365015984
+trial_1	placebo	136	KG00101582	Dry;skin	0.026632122695446014
+trial_1	placebo	4	KG00098817	epistaxis	0.02603670209646225
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025562303140759468
+trial_2	cyclofenil	87	KG00098599	diarrhoea	0.20730070769786835
+trial_2	cyclofenil	78	KG00099326	Hypertensive diseases	0.17912547290325165
+trial_2	cyclofenil	177	KG00099299	hyperglycaemia	0.1430010050535202
+trial_2	cyclofenil	17	KG00097991	Asthenia NOS	0.13675488531589508
+trial_2	cyclofenil	20	KG00098540	dehydration	0.1176740825176239
+trial_2	cyclofenil	123	KG00099351	hypokalaemia	0.11716024577617645
+trial_2	cyclofenil	37	KG00097696	Cramps, Abdominal	0.11412809789180756
+trial_2	cyclofenil	173	KG00098172	Bronchopneumonia NOS	0.11028068512678146
+trial_2	cyclofenil	9	KG00098432	Confusion NOS	0.10899341106414795
+trial_2	cyclofenil	46	KG00099121	Headache NOS	0.10059075057506561
+trial_2	cyclofenil	21	KG00098675	dyspnoea	0.09702019393444061
+trial_2	cyclofenil	14	KG00097852	Anemia NOS	0.09258933365345001
+trial_2	cyclofenil	77	KG00098450	Constipation NOS	0.09152650088071823
+trial_2	cyclofenil	79	KG00100317	Insomnia, Primary	0.09133165329694748
+trial_2	cyclofenil	67	KG00098673	Dyspepsia, NOS	0.08873726427555084
+trial_2	cyclofenil	68	KG00099901	nauseas	0.08568903058767319
+trial_2	cyclofenil	64	KG00097734	Acrodermatitis, NOS	0.0835798978805542
+trial_2	cyclofenil	200	KG00098539	Disorders, Deglutition	0.08132082968950272
+trial_2	cyclofenil	228	KG00114657	Weight below normal	0.07947638630867004
+trial_2	cyclofenil	189	KG00101580	Alanine aminotransferase increase	0.07811756432056427
+trial_2	cyclofenil	49	KG00099902	nausea with vomiting	0.0759996846318245
+trial_2	cyclofenil	2	KG00100772	thrombocytopaenia	0.07544846832752228
+trial_2	cyclofenil	243	KG00100947	Micturition frequency increased	0.07187524437904358
+trial_2	cyclofenil	188	KG00101579	Aspartate aminotransferase increase	0.06881341338157654
+trial_2	cyclofenil	114	KG00098933	fevers	0.06800657510757446
+trial_2	cyclofenil	350	KG00106765	decreased platelet count	0.06690994650125504
+trial_2	cyclofenil	85	KG00098474	coughs	0.06689117103815079
+trial_2	cyclofenil	72	KG00103771	myalgias	0.06598499417304993
+trial_2	cyclofenil	126	KG00100076	Pain NOS	0.06568225473165512
+trial_2	cyclofenil	104	KG00097963	arthralgias	0.06204326078295708
+trial_2	cyclofenil	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06047569587826729
+trial_2	cyclofenil	29	KG00099354	hyponatraemia	0.05709516629576683
+trial_2	cyclofenil	180	KG00099363	Hypotension NOS	0.056250397115945816
+trial_2	cyclofenil	122	KG00099321	Hypersensitivity NOS	0.055764034390449524
+trial_2	cyclofenil	86	KG00098565	Depression, Mental	0.05533923581242561
+trial_2	cyclofenil	28	KG00099347	hypoglycaemia	0.05411563441157341
+trial_2	cyclofenil	239	KG00100128	pareses	0.052707523107528687
+trial_2	cyclofenil	76	KG00100450	Respiratory insufficiency, NOS	0.05121946707367897
+trial_2	cyclofenil	5	KG00099169	haematuria	0.050048280507326126
+trial_2	cyclofenil	179	KG00099342	hypocalcaemia	0.04992754012346268
+trial_2	cyclofenil	101	KG00097901	Anorexia NOS	0.0491555780172348
+trial_2	cyclofenil	27	KG00099303	hyperkalaemia	0.04900112375617027
+trial_2	cyclofenil	139	KG00098855	Sinusitis, Ethmoid	0.04886531084775925
+trial_2	cyclofenil	194	KG00110727	Neutrophil Count Decreased	0.04654471576213837
+trial_2	cyclofenil	355	KG00110857	lymphocyte count decreased	0.04524071142077446
+trial_2	cyclofenil	116	KG00098964	Pain in foot	0.043793462216854095
+trial_2	cyclofenil	144	KG00099610	Leukopenia NOS	0.04358682036399841
+trial_2	cyclofenil	18	KG00098307	Pain, Chest	0.04223863035440445
+trial_2	cyclofenil	100	KG00097815	alopecias	0.04180437698960304
+trial_2	cyclofenil	82	KG00097697	abdomen distended	0.041706632822752
+trial_2	cyclofenil	102	KG00097916	anxieties	0.04149463400244713
+trial_2	cyclofenil	131	KG00100948	Urinary tract infection (& [NOS])	0.04114837571978569
+trial_2	cyclofenil	147	KG00098000	atelectases	0.041035011410713196
+trial_2	cyclofenil	151	KG00098274	Infarction, Cerebral	0.04097839072346687
+trial_2	cyclofenil	61	KG00099501	Chronic Kidney Failure	0.04019608721137047
+trial_2	cyclofenil	234	KG00098669	dysgeusias	0.03866320848464966
+trial_2	cyclofenil	69	KG00100082	Palpitations NOS	0.03860900178551674
+trial_2	cyclofenil	282	KG00099309	hypernatraemia	0.037147603929042816
+trial_2	cyclofenil	1	KG00099959	Neutropenia NOS	0.03709116950631142
+trial_2	cyclofenil	92	KG00100926	Infections, Upper Respiratory	0.03520619496703148
+trial_2	cyclofenil	249	KG00104430	hypoalbuminaemia	0.03511875122785568
+trial_2	cyclofenil	261	KG00101559	raised alkaline phosphatase	0.0351182259619236
+trial_2	cyclofenil	38	KG00098066	Binocular vision disorders	0.03485849127173424
+trial_2	cyclofenil	130	KG00100683	Stomatitis NOS	0.03478548303246498
+trial_2	cyclofenil	154	KG00099686	Lymphopenias	0.03454139456152916
+trial_2	cyclofenil	396	KG00100373	Embolism, Pulmonary	0.033995408564805984
+trial_2	cyclofenil	276	KG00099127	Arrest, Cardiac	0.033482085913419724
+trial_2	cyclofenil	96	KG00101679	Unattended death NOS	0.03322441875934601
+trial_2	cyclofenil	253	KG00100232	Pleural effusion NOS (disorder)	0.03284532576799393
+trial_2	cyclofenil	288	KG00101223	hypophosphataemia	0.03230049088597298
+trial_2	cyclofenil	212	KG00100576	shivers	0.03216981887817383
+trial_2	cyclofenil	35	KG00101507	hypomagnesaemia	0.031651802361011505
+trial_2	cyclofenil	30	KG00099500	Acute Kidney Failure	0.031232843175530434
+trial_2	cyclofenil	221	KG00101207	peripheral oedema	0.0311447661370039
+trial_2	cyclofenil	204	KG00098849	Esophagitis, Peptic	0.03108065016567707
+trial_2	cyclofenil	36	KG00106434	Vision, Blurring Of	0.030908338725566864
+trial_2	cyclofenil	191	KG00104055	Biliverdin increased	0.030884165316820145
+trial_2	cyclofenil	508	KG00108565	blood glucose increased	0.030831722542643547
+trial_2	cyclofenil	132	KG00101045	Gain, Weight	0.030542362481355667
+trial_2	cyclofenil	269	KG00100399	pyaemia	0.030508998781442642
+trial_2	cyclofenil	262	KG00101199	agitation	0.03018246777355671
+trial_2	cyclofenil	164	KG00108827	ileus colon	0.02951839007437229
+trial_2	cyclofenil	121	KG00099190	haemorrhage	0.029377968981862068
+trial_2	cyclofenil	211	KG00100341	Pruritus NOS	0.029323101043701172
+trial_2	cyclofenil	142	KG00100923	Unspecified infectious and parasitic diseases	0.02931795082986355
+trial_2	cyclofenil	75	KG00100195	Dolens, Phlegmasia Alba	0.028424402698874474
+trial_2	cyclofenil	339	KG00100334	proteinurias	0.028242943808436394
+trial_2	cyclofenil	454	KG00098286	Pain, Neck	0.02791738510131836
+trial_2	cyclofenil	441	KG00098262	cellulitis nos	0.027807293459773064
+trial_2	cyclofenil	166	KG00099773	menopausal syndrome	0.02763938717544079
+trial_2	cyclofenil	466	KG00101205	fall	0.02760852500796318
+trial_2	cyclofenil	257	KG00100922	Erythema NOS	0.027294352650642395
+trial_2	cyclofenil	186	KG00101431	creatinine increased	0.026992883533239365
+trial_2	cyclofenil	195	KG00097814	Atopic Rhinitis	0.026923926547169685
+trial_2	cyclofenil	371	KG00098517	Cystitis (NOS)	0.02678978070616722
+trial_2	cyclofenil	256	KG00100738	Tachycardia, Sinus	0.026757216081023216
+trial_2	cyclofenil	153	KG00099579	lethargy	0.026738403365015984
+trial_2	cyclofenil	136	KG00101582	Dry;skin	0.026632122695446014
+trial_2	cyclofenil	4	KG00098817	epistaxis	0.02603670209646225
+trial_2	cyclofenil	286	KG00101110	Retention, Urinary	0.025562303140759468

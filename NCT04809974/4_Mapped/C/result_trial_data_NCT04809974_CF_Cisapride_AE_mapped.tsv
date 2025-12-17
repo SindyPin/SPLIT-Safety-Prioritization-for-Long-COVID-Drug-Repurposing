@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2745169997215271
+trial_1	placebo	68	KG00099901	nauseas	0.19224005937576294
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.18282157182693481
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14920739829540253
+trial_1	placebo	123	KG00099351	hypokalaemia	0.14742134511470795
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13899368047714233
+trial_1	placebo	20	KG00098540	dehydration	0.12997199594974518
+trial_1	placebo	46	KG00099121	Headache NOS	0.12296868860721588
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.11532746255397797
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.11290647834539413
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11219014972448349
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.11202747374773026
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10555852204561234
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09983208030462265
+trial_1	placebo	21	KG00098675	dyspnoea	0.09912779182195663
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.095669224858284
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09353890269994736
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0844992995262146
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08331874012947083
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07583625614643097
+trial_1	placebo	228	KG00114657	Weight below normal	0.07275643199682236
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07260777056217194
+trial_1	placebo	126	KG00100076	Pain NOS	0.06364446878433228
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06334377825260162
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06112055107951164
+trial_1	placebo	82	KG00097697	abdomen distended	0.06027945131063461
+trial_1	placebo	114	KG00098933	fevers	0.05950700491666794
+trial_1	placebo	350	KG00106765	decreased platelet count	0.059175800532102585
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05710607394576073
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05674348399043083
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05155185982584953
+trial_1	placebo	5	KG00099169	haematuria	0.05116190388798714
+trial_1	placebo	239	KG00100128	pareses	0.05084332078695297
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04993347451090813
+trial_1	placebo	234	KG00098669	dysgeusias	0.04911794513463974
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04901834949851036
+trial_1	placebo	85	KG00098474	coughs	0.048750851303339005
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04830654338002205
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04697846248745918
+trial_1	placebo	72	KG00103771	myalgias	0.04532184079289436
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.0448317714035511
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.044480931013822556
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04383678361773491
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.043041013181209564
+trial_1	placebo	104	KG00097963	arthralgias	0.042966943234205246
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04292451962828636
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04289926961064339
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.042138174176216125
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04174739494919777
+trial_1	placebo	102	KG00097916	anxieties	0.04065817594528198
+trial_1	placebo	116	KG00098964	Pain in foot	0.04065398499369621
+trial_1	placebo	147	KG00098000	atelectases	0.040044598281383514
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.038997482508420944
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03899270296096802
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03868178650736809
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03839331492781639
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03825565427541733
+trial_1	placebo	186	KG00101431	creatinine increased	0.03737691044807434
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.036882489919662476
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03664632886648178
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0362219363451004
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0362185500562191
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03591601178050041
+trial_1	placebo	300	KG00101064	xerostomia	0.03585156053304672
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03530959039926529
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03527744114398956
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03499415144324303
+trial_1	placebo	86	KG00098565	Depression, Mental	0.034722700715065
+trial_1	placebo	136	KG00101582	Dry;skin	0.03361058607697487
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03359270468354225
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03261931240558624
+trial_1	placebo	269	KG00100399	pyaemia	0.03206717222929001
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0319657176733017
+trial_1	placebo	164	KG00108827	ileus colon	0.03190700709819794
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.031087012961506844
+trial_1	placebo	441	KG00098262	cellulitis nos	0.030459029600024223
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.030117660760879517
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.029396886005997658
+trial_1	placebo	66	KG00098642	drowsiness	0.029332030564546585
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.029173746705055237
+trial_1	placebo	221	KG00101207	peripheral oedema	0.029044315218925476
+trial_1	placebo	242	KG00100855	tremors	0.028663115575909615
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028022855520248413
+trial_1	placebo	262	KG00101199	agitation	0.027733318507671356
+trial_1	placebo	466	KG00101205	fall	0.027612322941422462
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.027591850608587265
+trial_1	placebo	508	KG00108565	blood glucose increased	0.027163421735167503
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026814769953489304
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02662457525730133
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02600848861038685
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.025917835533618927
+trial_1	placebo	343	KG00102674	Eruptions, Acneiform	0.025684963911771774
+trial_1	placebo	154	KG00099686	Lymphopenias	0.025595540180802345
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02558695338666439
+trial_1	placebo	212	KG00100576	shivers	0.025523392483592033
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02551046945154667
+trial_1	placebo	454	KG00098286	Pain, Neck	0.025412345305085182
+trial_1	placebo	153	KG00099579	lethargy	0.02532457746565342
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02465541660785675
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.02451552078127861
+trial_2	cisapride	87	KG00098599	diarrhoea	0.2745169997215271
+trial_2	cisapride	68	KG00099901	nauseas	0.19224005937576294
+trial_2	cisapride	49	KG00099902	nausea with vomiting	0.18282157182693481
+trial_2	cisapride	9	KG00098432	Confusion NOS	0.14920739829540253
+trial_2	cisapride	123	KG00099351	hypokalaemia	0.14742134511470795
+trial_2	cisapride	17	KG00097991	Asthenia NOS	0.13899368047714233
+trial_2	cisapride	20	KG00098540	dehydration	0.12997199594974518
+trial_2	cisapride	46	KG00099121	Headache NOS	0.12296868860721588
+trial_2	cisapride	67	KG00098673	Dyspepsia, NOS	0.11532746255397797
+trial_2	cisapride	188	KG00101579	Aspartate aminotransferase increase	0.11290647834539413
+trial_2	cisapride	77	KG00098450	Constipation NOS	0.11219014972448349
+trial_2	cisapride	189	KG00101580	Alanine aminotransferase increase	0.11202747374773026
+trial_2	cisapride	78	KG00099326	Hypertensive diseases	0.10555852204561234
+trial_2	cisapride	177	KG00099299	hyperglycaemia	0.09983208030462265
+trial_2	cisapride	21	KG00098675	dyspnoea	0.09912779182195663
+trial_2	cisapride	101	KG00097901	Anorexia NOS	0.095669224858284
+trial_2	cisapride	37	KG00097696	Cramps, Abdominal	0.09353890269994736
+trial_2	cisapride	64	KG00097734	Acrodermatitis, NOS	0.0844992995262146
+trial_2	cisapride	173	KG00098172	Bronchopneumonia NOS	0.08331874012947083
+trial_2	cisapride	79	KG00100317	Insomnia, Primary	0.07583625614643097
+trial_2	cisapride	228	KG00114657	Weight below normal	0.07275643199682236
+trial_2	cisapride	200	KG00098539	Disorders, Deglutition	0.07260777056217194
+trial_2	cisapride	126	KG00100076	Pain NOS	0.06364446878433228
+trial_2	cisapride	243	KG00100947	Micturition frequency increased	0.06334377825260162
+trial_2	cisapride	29	KG00099354	hyponatraemia	0.06112055107951164
+trial_2	cisapride	82	KG00097697	abdomen distended	0.06027945131063461
+trial_2	cisapride	114	KG00098933	fevers	0.05950700491666794
+trial_2	cisapride	350	KG00106765	decreased platelet count	0.059175800532102585
+trial_2	cisapride	14	KG00097852	Anemia NOS	0.05710607394576073
+trial_2	cisapride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05674348399043083
+trial_2	cisapride	261	KG00101559	raised alkaline phosphatase	0.05155185982584953
+trial_2	cisapride	5	KG00099169	haematuria	0.05116190388798714
+trial_2	cisapride	239	KG00100128	pareses	0.05084332078695297
+trial_2	cisapride	76	KG00100450	Respiratory insufficiency, NOS	0.04993347451090813
+trial_2	cisapride	234	KG00098669	dysgeusias	0.04911794513463974
+trial_2	cisapride	191	KG00104055	Biliverdin increased	0.04901834949851036
+trial_2	cisapride	85	KG00098474	coughs	0.048750851303339005
+trial_2	cisapride	18	KG00098307	Pain, Chest	0.04830654338002205
+trial_2	cisapride	28	KG00099347	hypoglycaemia	0.04697846248745918
+trial_2	cisapride	72	KG00103771	myalgias	0.04532184079289436
+trial_2	cisapride	211	KG00100341	Pruritus NOS	0.0448317714035511
+trial_2	cisapride	180	KG00099363	Hypotension NOS	0.044480931013822556
+trial_2	cisapride	38	KG00098066	Binocular vision disorders	0.04383678361773491
+trial_2	cisapride	35	KG00101507	hypomagnesaemia	0.043041013181209564
+trial_2	cisapride	104	KG00097963	arthralgias	0.042966943234205246
+trial_2	cisapride	61	KG00099501	Chronic Kidney Failure	0.04292451962828636
+trial_2	cisapride	151	KG00098274	Infarction, Cerebral	0.04289926961064339
+trial_2	cisapride	36	KG00106434	Vision, Blurring Of	0.042138174176216125
+trial_2	cisapride	179	KG00099342	hypocalcaemia	0.04174739494919777
+trial_2	cisapride	102	KG00097916	anxieties	0.04065817594528198
+trial_2	cisapride	116	KG00098964	Pain in foot	0.04065398499369621
+trial_2	cisapride	147	KG00098000	atelectases	0.040044598281383514
+trial_2	cisapride	130	KG00100683	Stomatitis NOS	0.038997482508420944
+trial_2	cisapride	396	KG00100373	Embolism, Pulmonary	0.03899270296096802
+trial_2	cisapride	204	KG00098849	Esophagitis, Peptic	0.03868178650736809
+trial_2	cisapride	96	KG00101679	Unattended death NOS	0.03839331492781639
+trial_2	cisapride	30	KG00099500	Acute Kidney Failure	0.03825565427541733
+trial_2	cisapride	186	KG00101431	creatinine increased	0.03737691044807434
+trial_2	cisapride	422	KG00101429	Creatine phosphokinase increased	0.036882489919662476
+trial_2	cisapride	131	KG00100948	Urinary tract infection (& [NOS])	0.03664632886648178
+trial_2	cisapride	27	KG00099303	hyperkalaemia	0.0362219363451004
+trial_2	cisapride	194	KG00110727	Neutrophil Count Decreased	0.0362185500562191
+trial_2	cisapride	286	KG00101110	Retention, Urinary	0.03591601178050041
+trial_2	cisapride	300	KG00101064	xerostomia	0.03585156053304672
+trial_2	cisapride	341	KG00101472	Gamma-glutamyltransferase increased	0.03530959039926529
+trial_2	cisapride	355	KG00110857	lymphocyte count decreased	0.03527744114398956
+trial_2	cisapride	69	KG00100082	Palpitations NOS	0.03499415144324303
+trial_2	cisapride	86	KG00098565	Depression, Mental	0.034722700715065
+trial_2	cisapride	136	KG00101582	Dry;skin	0.03361058607697487
+trial_2	cisapride	142	KG00100923	Unspecified infectious and parasitic diseases	0.03359270468354225
+trial_2	cisapride	249	KG00104430	hypoalbuminaemia	0.03261931240558624
+trial_2	cisapride	269	KG00100399	pyaemia	0.03206717222929001
+trial_2	cisapride	2	KG00100772	thrombocytopaenia	0.0319657176733017
+trial_2	cisapride	164	KG00108827	ileus colon	0.03190700709819794
+trial_2	cisapride	139	KG00098855	Sinusitis, Ethmoid	0.031087012961506844
+trial_2	cisapride	441	KG00098262	cellulitis nos	0.030459029600024223
+trial_2	cisapride	371	KG00098517	Cystitis (NOS)	0.030117660760879517
+trial_2	cisapride	122	KG00099321	Hypersensitivity NOS	0.029396886005997658
+trial_2	cisapride	66	KG00098642	drowsiness	0.029332030564546585
+trial_2	cisapride	94	KG00103829	abdominal discomfort	0.029173746705055237
+trial_2	cisapride	221	KG00101207	peripheral oedema	0.029044315218925476
+trial_2	cisapride	242	KG00100855	tremors	0.028663115575909615
+trial_2	cisapride	253	KG00100232	Pleural effusion NOS (disorder)	0.028022855520248413
+trial_2	cisapride	262	KG00101199	agitation	0.027733318507671356
+trial_2	cisapride	466	KG00101205	fall	0.027612322941422462
+trial_2	cisapride	356	KG00112623	Infectious Lung Disorders	0.027591850608587265
+trial_2	cisapride	508	KG00108565	blood glucose increased	0.027163421735167503
+trial_2	cisapride	75	KG00100195	Dolens, Phlegmasia Alba	0.026814769953489304
+trial_2	cisapride	282	KG00099309	hypernatraemia	0.02662457525730133
+trial_2	cisapride	276	KG00099127	Arrest, Cardiac	0.02600848861038685
+trial_2	cisapride	256	KG00100738	Tachycardia, Sinus	0.025917835533618927
+trial_2	cisapride	343	KG00102674	Eruptions, Acneiform	0.025684963911771774
+trial_2	cisapride	154	KG00099686	Lymphopenias	0.025595540180802345
+trial_2	cisapride	138	KG00098796	epidemic vomiting syndrome	0.02558695338666439
+trial_2	cisapride	212	KG00100576	shivers	0.025523392483592033
+trial_2	cisapride	97	KG00104198	LIVER ENZYME ELEVATED	0.02551046945154667
+trial_2	cisapride	454	KG00098286	Pain, Neck	0.025412345305085182
+trial_2	cisapride	153	KG00099579	lethargy	0.02532457746565342
+trial_2	cisapride	288	KG00101223	hypophosphataemia	0.02465541660785675
+trial_2	cisapride	747	KG00101527	Liver function tests abnormal (finding)	0.02451552078127861

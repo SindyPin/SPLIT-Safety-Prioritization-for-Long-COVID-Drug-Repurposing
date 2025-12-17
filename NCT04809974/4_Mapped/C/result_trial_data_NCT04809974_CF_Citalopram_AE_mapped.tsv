@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.22150348126888275
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14742764830589294
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14492617547512054
+trial_1	placebo	68	KG00099901	nauseas	0.11818333715200424
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10081934183835983
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.10010100156068802
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09370169043540955
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08843023329973221
+trial_1	placebo	300	KG00101064	xerostomia	0.08088643103837967
+trial_1	placebo	46	KG00099121	Headache NOS	0.07829122245311737
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07469096779823303
+trial_1	placebo	228	KG00114657	Weight below normal	0.07147642970085144
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.060152217745780945
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05976562947034836
+trial_1	placebo	20	KG00098540	dehydration	0.05776766315102577
+trial_1	placebo	21	KG00098675	dyspnoea	0.05639812722802162
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05513611435890198
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.053752172738313675
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05027991160750389
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04876624420285225
+trial_1	placebo	66	KG00098642	drowsiness	0.044671639800071716
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0434059239923954
+trial_1	placebo	102	KG00097916	anxieties	0.0416419692337513
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04119814559817314
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04050756245851517
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0373755544424057
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03683394193649292
+trial_1	placebo	85	KG00098474	coughs	0.035682085901498795
+trial_1	placebo	234	KG00098669	dysgeusias	0.03410157933831215
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03369073569774628
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03303864598274231
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.032776594161987305
+trial_1	placebo	114	KG00098933	fevers	0.03242490813136101
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03208082169294357
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03205031156539917
+trial_1	placebo	262	KG00101199	agitation	0.03141813725233078
+trial_1	placebo	126	KG00100076	Pain NOS	0.030652910470962524
+trial_1	placebo	242	KG00100855	tremors	0.030226310715079308
+trial_1	placebo	104	KG00097963	arthralgias	0.029628222808241844
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.0290956012904644
+trial_1	placebo	239	KG00100128	pareses	0.028776494786143303
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02684778720140457
+trial_1	placebo	14	KG00097852	Anemia NOS	0.026420218870043755
+trial_1	placebo	82	KG00097697	abdomen distended	0.026384476572275162
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.026124335825443268
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025229353457689285
+trial_1	placebo	350	KG00106765	decreased platelet count	0.024664780125021935
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02463499642908573
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023246191442012787
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.022760557010769844
+trial_1	placebo	136	KG00101582	Dry;skin	0.02233704924583435
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02179456688463688
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02171168476343155
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020456751808524132
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02035563625395298
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.019993992522358894
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.019713714718818665
+trial_1	placebo	72	KG00103771	myalgias	0.01951230876147747
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019480064511299133
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01943303644657135
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019110355526208878
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.018961096182465553
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.018826255574822426
+trial_1	placebo	5	KG00099169	haematuria	0.018704814836382866
+trial_1	placebo	116	KG00098964	Pain in foot	0.018626324832439423
+trial_1	placebo	466	KG00101205	fall	0.018384523689746857
+trial_1	placebo	345	KG00103926	impairments memory	0.018383249640464783
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.017880748957395554
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01750742457807064
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01720093935728073
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.017200592905282974
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.016715750098228455
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.016682473942637444
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.016553495079278946
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016551872715353966
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016544019803404808
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016244981437921524
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.016083115711808205
+trial_1	placebo	186	KG00101431	creatinine increased	0.015709539875388145
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01565982587635517
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015533911064267159
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015454619191586971
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01544868666678667
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.015375957824289799
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015160921029746532
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.01512868981808424
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01505706924945116
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01480724848806858
+trial_1	placebo	121	KG00099190	haemorrhage	0.014619357883930206
+trial_1	placebo	221	KG00101207	peripheral oedema	0.014609916135668755
+trial_1	placebo	165	KG00098537	Libido Decreased	0.014566149562597275
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014332429505884647
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.014290118589997292
+trial_1	placebo	456	KG00099420	Influenzae	0.014240192249417305
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014089217409491539
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.0140629131346941
+trial_1	placebo	333	KG00104019	DOPINESS	0.01391227263957262
+trial_1	placebo	441	KG00098262	cellulitis nos	0.013905785977840424
+trial_1	placebo	4	KG00098817	epistaxis	0.01385638676583767
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.013758118264377117
+trial_2	citalopram	87	KG00098599	diarrhoea	0.22150348126888275
+trial_2	citalopram	9	KG00098432	Confusion NOS	0.14742764830589294
+trial_2	citalopram	17	KG00097991	Asthenia NOS	0.14492617547512054
+trial_2	citalopram	68	KG00099901	nauseas	0.11818333715200424
+trial_2	citalopram	79	KG00100317	Insomnia, Primary	0.10081934183835983
+trial_2	citalopram	101	KG00097901	Anorexia NOS	0.10010100156068802
+trial_2	citalopram	77	KG00098450	Constipation NOS	0.09370169043540955
+trial_2	citalopram	49	KG00099902	nausea with vomiting	0.08843023329973221
+trial_2	citalopram	300	KG00101064	xerostomia	0.08088643103837967
+trial_2	citalopram	46	KG00099121	Headache NOS	0.07829122245311737
+trial_2	citalopram	78	KG00099326	Hypertensive diseases	0.07469096779823303
+trial_2	citalopram	228	KG00114657	Weight below normal	0.07147642970085144
+trial_2	citalopram	177	KG00099299	hyperglycaemia	0.060152217745780945
+trial_2	citalopram	37	KG00097696	Cramps, Abdominal	0.05976562947034836
+trial_2	citalopram	20	KG00098540	dehydration	0.05776766315102577
+trial_2	citalopram	21	KG00098675	dyspnoea	0.05639812722802162
+trial_2	citalopram	67	KG00098673	Dyspepsia, NOS	0.05513611435890198
+trial_2	citalopram	64	KG00097734	Acrodermatitis, NOS	0.053752172738313675
+trial_2	citalopram	123	KG00099351	hypokalaemia	0.05027991160750389
+trial_2	citalopram	173	KG00098172	Bronchopneumonia NOS	0.04876624420285225
+trial_2	citalopram	66	KG00098642	drowsiness	0.044671639800071716
+trial_2	citalopram	189	KG00101580	Alanine aminotransferase increase	0.0434059239923954
+trial_2	citalopram	102	KG00097916	anxieties	0.0416419692337513
+trial_2	citalopram	86	KG00098565	Depression, Mental	0.04119814559817314
+trial_2	citalopram	132	KG00101045	Gain, Weight	0.04050756245851517
+trial_2	citalopram	200	KG00098539	Disorders, Deglutition	0.0373755544424057
+trial_2	citalopram	243	KG00100947	Micturition frequency increased	0.03683394193649292
+trial_2	citalopram	85	KG00098474	coughs	0.035682085901498795
+trial_2	citalopram	234	KG00098669	dysgeusias	0.03410157933831215
+trial_2	citalopram	29	KG00099354	hyponatraemia	0.03369073569774628
+trial_2	citalopram	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03303864598274231
+trial_2	citalopram	36	KG00106434	Vision, Blurring Of	0.032776594161987305
+trial_2	citalopram	114	KG00098933	fevers	0.03242490813136101
+trial_2	citalopram	151	KG00098274	Infarction, Cerebral	0.03208082169294357
+trial_2	citalopram	188	KG00101579	Aspartate aminotransferase increase	0.03205031156539917
+trial_2	citalopram	262	KG00101199	agitation	0.03141813725233078
+trial_2	citalopram	126	KG00100076	Pain NOS	0.030652910470962524
+trial_2	citalopram	242	KG00100855	tremors	0.030226310715079308
+trial_2	citalopram	104	KG00097963	arthralgias	0.029628222808241844
+trial_2	citalopram	89	KG00099301	Hyperhidrosis (disorder)	0.0290956012904644
+trial_2	citalopram	239	KG00100128	pareses	0.028776494786143303
+trial_2	citalopram	96	KG00101679	Unattended death NOS	0.02684778720140457
+trial_2	citalopram	14	KG00097852	Anemia NOS	0.026420218870043755
+trial_2	citalopram	82	KG00097697	abdomen distended	0.026384476572275162
+trial_2	citalopram	180	KG00099363	Hypotension NOS	0.026124335825443268
+trial_2	citalopram	69	KG00100082	Palpitations NOS	0.025229353457689285
+trial_2	citalopram	350	KG00106765	decreased platelet count	0.024664780125021935
+trial_2	citalopram	261	KG00101559	raised alkaline phosphatase	0.02463499642908573
+trial_2	citalopram	18	KG00098307	Pain, Chest	0.023246191442012787
+trial_2	citalopram	199	KG00098371	Rhinitis (chronic) NOS	0.022760557010769844
+trial_2	citalopram	136	KG00101582	Dry;skin	0.02233704924583435
+trial_2	citalopram	191	KG00104055	Biliverdin increased	0.02179456688463688
+trial_2	citalopram	38	KG00098066	Binocular vision disorders	0.02171168476343155
+trial_2	citalopram	122	KG00099321	Hypersensitivity NOS	0.020456751808524132
+trial_2	citalopram	28	KG00099347	hypoglycaemia	0.02035563625395298
+trial_2	citalopram	218	KG00100801	Tinnitus NOS	0.019993992522358894
+trial_2	citalopram	76	KG00100450	Respiratory insufficiency, NOS	0.019713714718818665
+trial_2	citalopram	72	KG00103771	myalgias	0.01951230876147747
+trial_2	citalopram	130	KG00100683	Stomatitis NOS	0.019480064511299133
+trial_2	citalopram	131	KG00100948	Urinary tract infection (& [NOS])	0.01943303644657135
+trial_2	citalopram	211	KG00100341	Pruritus NOS	0.019110355526208878
+trial_2	citalopram	139	KG00098855	Sinusitis, Ethmoid	0.018961096182465553
+trial_2	citalopram	61	KG00099501	Chronic Kidney Failure	0.018826255574822426
+trial_2	citalopram	5	KG00099169	haematuria	0.018704814836382866
+trial_2	citalopram	116	KG00098964	Pain in foot	0.018626324832439423
+trial_2	citalopram	466	KG00101205	fall	0.018384523689746857
+trial_2	citalopram	345	KG00103926	impairments memory	0.018383249640464783
+trial_2	citalopram	142	KG00100923	Unspecified infectious and parasitic diseases	0.017880748957395554
+trial_2	citalopram	204	KG00098849	Esophagitis, Peptic	0.01750742457807064
+trial_2	citalopram	2	KG00100772	thrombocytopaenia	0.01720093935728073
+trial_2	citalopram	422	KG00101429	Creatine phosphokinase increased	0.017200592905282974
+trial_2	citalopram	166	KG00099773	menopausal syndrome	0.016715750098228455
+trial_2	citalopram	179	KG00099342	hypocalcaemia	0.016682473942637444
+trial_2	citalopram	133	KG00101370	neuropathies sensory	0.016553495079278946
+trial_2	citalopram	286	KG00101110	Retention, Urinary	0.016551872715353966
+trial_2	citalopram	194	KG00110727	Neutrophil Count Decreased	0.016544019803404808
+trial_2	citalopram	249	KG00104430	hypoalbuminaemia	0.016244981437921524
+trial_2	citalopram	94	KG00103829	abdominal discomfort	0.016083115711808205
+trial_2	citalopram	186	KG00101431	creatinine increased	0.015709539875388145
+trial_2	citalopram	92	KG00100926	Infections, Upper Respiratory	0.01565982587635517
+trial_2	citalopram	154	KG00099686	Lymphopenias	0.015533911064267159
+trial_2	citalopram	355	KG00110857	lymphocyte count decreased	0.015454619191586971
+trial_2	citalopram	30	KG00099500	Acute Kidney Failure	0.01544868666678667
+trial_2	citalopram	138	KG00098796	epidemic vomiting syndrome	0.015375957824289799
+trial_2	citalopram	361	KG00098004	Fibrillation, Atrial	0.015160921029746532
+trial_2	citalopram	235	KG00098682	Dysuria NOS	0.01512868981808424
+trial_2	citalopram	118	KG00099011	Gastritis NOS	0.01505706924945116
+trial_2	citalopram	396	KG00100373	Embolism, Pulmonary	0.01480724848806858
+trial_2	citalopram	121	KG00099190	haemorrhage	0.014619357883930206
+trial_2	citalopram	221	KG00101207	peripheral oedema	0.014609916135668755
+trial_2	citalopram	165	KG00098537	Libido Decreased	0.014566149562597275
+trial_2	citalopram	22	KG00098705	Edema (NOS)	0.014332429505884647
+trial_2	citalopram	341	KG00101472	Gamma-glutamyltransferase increased	0.014290118589997292
+trial_2	citalopram	456	KG00099420	Influenzae	0.014240192249417305
+trial_2	citalopram	35	KG00101507	hypomagnesaemia	0.014089217409491539
+trial_2	citalopram	371	KG00098517	Cystitis (NOS)	0.0140629131346941
+trial_2	citalopram	333	KG00104019	DOPINESS	0.01391227263957262
+trial_2	citalopram	441	KG00098262	cellulitis nos	0.013905785977840424
+trial_2	citalopram	4	KG00098817	epistaxis	0.01385638676583767
+trial_2	citalopram	152	KG00099402	INCONTINENCE NOS	0.013758118264377117

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09096655994653702
+trial_1	placebo	9	KG00098432	Confusion NOS	0.061310525983572006
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.060561515390872955
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05264538154006004
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.042636387050151825
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04228821396827698
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04025222733616829
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03717537969350815
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03482804074883461
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03347107023000717
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.032673269510269165
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03257034346461296
+trial_1	placebo	46	KG00099121	Headache NOS	0.03166922926902771
+trial_1	placebo	21	KG00098675	dyspnoea	0.03141535073518753
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03135097771883011
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029784047976136208
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.029357383027672768
+trial_1	placebo	20	KG00098540	dehydration	0.028965404257178307
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.028891000896692276
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02714705839753151
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.026576386764645576
+trial_1	placebo	114	KG00098933	fevers	0.025759780779480934
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.02539663389325142
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.024932049214839935
+trial_1	placebo	68	KG00099901	nauseas	0.02456977218389511
+trial_1	placebo	77	KG00098450	Constipation NOS	0.024313917383551598
+trial_1	placebo	85	KG00098474	coughs	0.02400609850883484
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.023904813453555107
+trial_1	placebo	269	KG00100399	pyaemia	0.023427072912454605
+trial_1	placebo	29	KG00099354	hyponatraemia	0.022395825013518333
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021696625277400017
+trial_1	placebo	147	KG00098000	atelectases	0.021649185568094254
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02164352498948574
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02118489518761635
+trial_1	placebo	126	KG00100076	Pain NOS	0.019855137914419174
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0197916142642498
+trial_1	placebo	350	KG00106765	decreased platelet count	0.019729338586330414
+trial_1	placebo	228	KG00114657	Weight below normal	0.019405918195843697
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019361989572644234
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.018572652712464333
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018170269206166267
+trial_1	placebo	86	KG00098565	Depression, Mental	0.018144231289625168
+trial_1	placebo	104	KG00097963	arthralgias	0.01684444770216942
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016578564420342445
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01657135970890522
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015988804399967194
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015776531770825386
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01569388620555401
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01566009782254696
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.015295944176614285
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.015191823244094849
+trial_1	placebo	5	KG00099169	haematuria	0.01505221240222454
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014810399152338505
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01468838844448328
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014686270616948605
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014647156931459904
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.014242603443562984
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.013820214197039604
+trial_1	placebo	11	KG00097993	Asthma NOS	0.013721068389713764
+trial_1	placebo	132	KG00101045	Gain, Weight	0.013458946719765663
+trial_1	placebo	234	KG00098669	dysgeusias	0.013264060951769352
+trial_1	placebo	121	KG00099190	haemorrhage	0.01303897239267826
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.012972798198461533
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01294775865972042
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.012799940072000027
+trial_1	placebo	4	KG00098817	epistaxis	0.01244696881622076
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.012252788990736008
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012203608639538288
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012110627256333828
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.011895468458533287
+trial_1	placebo	239	KG00100128	pareses	0.01184933353215456
+trial_1	placebo	72	KG00103771	myalgias	0.011564170941710472
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.011474983766674995
+trial_1	placebo	262	KG00101199	agitation	0.011437091045081615
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.010873349383473396
+trial_1	placebo	186	KG00101431	creatinine increased	0.010872174985706806
+trial_1	placebo	164	KG00108827	ileus colon	0.01083752978593111
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.010835285298526287
+trial_1	placebo	82	KG00097697	abdomen distended	0.010491437278687954
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01032052282243967
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.010221030563116074
+trial_1	placebo	221	KG00101207	peripheral oedema	0.009996959939599037
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.009977779351174831
+trial_1	placebo	25	KG00099134	congestive failures heart	0.00995346624404192
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.009866701439023018
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.009845081716775894
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.00979541800916195
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.009680688381195068
+trial_1	placebo	116	KG00098964	Pain in foot	0.009671508334577084
+trial_1	placebo	242	KG00100855	tremors	0.00963781587779522
+trial_1	placebo	102	KG00097916	anxieties	0.009569671005010605
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.009081835858523846
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.009051470085978508
+trial_1	placebo	282	KG00099309	hypernatraemia	0.009022538550198078
+trial_1	placebo	398	KG00100580	Shock, Septic	0.009007854387164116
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.008956537581980228
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.008932267315685749
+trial_1	placebo	339	KG00100334	proteinurias	0.008777457289397717
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.00871638860553503
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.008671028539538383
+trial_2	clavulanic acid	87	KG00098599	diarrhoea	0.09096655994653702
+trial_2	clavulanic acid	9	KG00098432	Confusion NOS	0.061310525983572006
+trial_2	clavulanic acid	78	KG00099326	Hypertensive diseases	0.060561515390872955
+trial_2	clavulanic acid	173	KG00098172	Bronchopneumonia NOS	0.05264538154006004
+trial_2	clavulanic acid	177	KG00099299	hyperglycaemia	0.042636387050151825
+trial_2	clavulanic acid	37	KG00097696	Cramps, Abdominal	0.04228821396827698
+trial_2	clavulanic acid	123	KG00099351	hypokalaemia	0.04025222733616829
+trial_2	clavulanic acid	17	KG00097991	Asthenia NOS	0.03717537969350815
+trial_2	clavulanic acid	151	KG00098274	Infarction, Cerebral	0.03482804074883461
+trial_2	clavulanic acid	64	KG00097734	Acrodermatitis, NOS	0.03347107023000717
+trial_2	clavulanic acid	61	KG00099501	Chronic Kidney Failure	0.032673269510269165
+trial_2	clavulanic acid	189	KG00101580	Alanine aminotransferase increase	0.03257034346461296
+trial_2	clavulanic acid	46	KG00099121	Headache NOS	0.03166922926902771
+trial_2	clavulanic acid	21	KG00098675	dyspnoea	0.03141535073518753
+trial_2	clavulanic acid	14	KG00097852	Anemia NOS	0.03135097771883011
+trial_2	clavulanic acid	30	KG00099500	Acute Kidney Failure	0.029784047976136208
+trial_2	clavulanic acid	2	KG00100772	thrombocytopaenia	0.029357383027672768
+trial_2	clavulanic acid	20	KG00098540	dehydration	0.028965404257178307
+trial_2	clavulanic acid	76	KG00100450	Respiratory insufficiency, NOS	0.028891000896692276
+trial_2	clavulanic acid	188	KG00101579	Aspartate aminotransferase increase	0.02714705839753151
+trial_2	clavulanic acid	180	KG00099363	Hypotension NOS	0.026576386764645576
+trial_2	clavulanic acid	114	KG00098933	fevers	0.025759780779480934
+trial_2	clavulanic acid	67	KG00098673	Dyspepsia, NOS	0.02539663389325142
+trial_2	clavulanic acid	49	KG00099902	nausea with vomiting	0.024932049214839935
+trial_2	clavulanic acid	68	KG00099901	nauseas	0.02456977218389511
+trial_2	clavulanic acid	77	KG00098450	Constipation NOS	0.024313917383551598
+trial_2	clavulanic acid	85	KG00098474	coughs	0.02400609850883484
+trial_2	clavulanic acid	96	KG00101679	Unattended death NOS	0.023904813453555107
+trial_2	clavulanic acid	269	KG00100399	pyaemia	0.023427072912454605
+trial_2	clavulanic acid	29	KG00099354	hyponatraemia	0.022395825013518333
+trial_2	clavulanic acid	276	KG00099127	Arrest, Cardiac	0.021696625277400017
+trial_2	clavulanic acid	147	KG00098000	atelectases	0.021649185568094254
+trial_2	clavulanic acid	396	KG00100373	Embolism, Pulmonary	0.02164352498948574
+trial_2	clavulanic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.02118489518761635
+trial_2	clavulanic acid	126	KG00100076	Pain NOS	0.019855137914419174
+trial_2	clavulanic acid	79	KG00100317	Insomnia, Primary	0.0197916142642498
+trial_2	clavulanic acid	350	KG00106765	decreased platelet count	0.019729338586330414
+trial_2	clavulanic acid	228	KG00114657	Weight below normal	0.019405918195843697
+trial_2	clavulanic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.019361989572644234
+trial_2	clavulanic acid	200	KG00098539	Disorders, Deglutition	0.018572652712464333
+trial_2	clavulanic acid	28	KG00099347	hypoglycaemia	0.018170269206166267
+trial_2	clavulanic acid	86	KG00098565	Depression, Mental	0.018144231289625168
+trial_2	clavulanic acid	104	KG00097963	arthralgias	0.01684444770216942
+trial_2	clavulanic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016578564420342445
+trial_2	clavulanic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.01657135970890522
+trial_2	clavulanic acid	361	KG00098004	Fibrillation, Atrial	0.015988804399967194
+trial_2	clavulanic acid	31	KG00099872	Infarction, Myocardial	0.015776531770825386
+trial_2	clavulanic acid	138	KG00098796	epidemic vomiting syndrome	0.01569388620555401
+trial_2	clavulanic acid	130	KG00100683	Stomatitis NOS	0.01566009782254696
+trial_2	clavulanic acid	122	KG00099321	Hypersensitivity NOS	0.015295944176614285
+trial_2	clavulanic acid	243	KG00100947	Micturition frequency increased	0.015191823244094849
+trial_2	clavulanic acid	5	KG00099169	haematuria	0.01505221240222454
+trial_2	clavulanic acid	69	KG00100082	Palpitations NOS	0.014810399152338505
+trial_2	clavulanic acid	27	KG00099303	hyperkalaemia	0.01468838844448328
+trial_2	clavulanic acid	441	KG00098262	cellulitis nos	0.014686270616948605
+trial_2	clavulanic acid	92	KG00100926	Infections, Upper Respiratory	0.014647156931459904
+trial_2	clavulanic acid	144	KG00099610	Leukopenia NOS	0.014242603443562984
+trial_2	clavulanic acid	1	KG00099959	Neutropenia NOS	0.013820214197039604
+trial_2	clavulanic acid	11	KG00097993	Asthma NOS	0.013721068389713764
+trial_2	clavulanic acid	132	KG00101045	Gain, Weight	0.013458946719765663
+trial_2	clavulanic acid	234	KG00098669	dysgeusias	0.013264060951769352
+trial_2	clavulanic acid	121	KG00099190	haemorrhage	0.01303897239267826
+trial_2	clavulanic acid	194	KG00110727	Neutrophil Count Decreased	0.012972798198461533
+trial_2	clavulanic acid	18	KG00098307	Pain, Chest	0.01294775865972042
+trial_2	clavulanic acid	179	KG00099342	hypocalcaemia	0.012799940072000027
+trial_2	clavulanic acid	4	KG00098817	epistaxis	0.01244696881622076
+trial_2	clavulanic acid	249	KG00104430	hypoalbuminaemia	0.012252788990736008
+trial_2	clavulanic acid	191	KG00104055	Biliverdin increased	0.012203608639538288
+trial_2	clavulanic acid	261	KG00101559	raised alkaline phosphatase	0.012110627256333828
+trial_2	clavulanic acid	15	KG00097882	Angina pectoris NOS	0.011895468458533287
+trial_2	clavulanic acid	239	KG00100128	pareses	0.01184933353215456
+trial_2	clavulanic acid	72	KG00103771	myalgias	0.011564170941710472
+trial_2	clavulanic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.011474983766674995
+trial_2	clavulanic acid	262	KG00101199	agitation	0.011437091045081615
+trial_2	clavulanic acid	199	KG00098371	Rhinitis (chronic) NOS	0.010873349383473396
+trial_2	clavulanic acid	186	KG00101431	creatinine increased	0.010872174985706806
+trial_2	clavulanic acid	164	KG00108827	ileus colon	0.01083752978593111
+trial_2	clavulanic acid	35	KG00101507	hypomagnesaemia	0.010835285298526287
+trial_2	clavulanic acid	82	KG00097697	abdomen distended	0.010491437278687954
+trial_2	clavulanic acid	139	KG00098855	Sinusitis, Ethmoid	0.01032052282243967
+trial_2	clavulanic acid	494	KG00099838	Organ Failure, Multiple	0.010221030563116074
+trial_2	clavulanic acid	221	KG00101207	peripheral oedema	0.009996959939599037
+trial_2	clavulanic acid	183	KG00100449	Adult Respiratory Distress Syndrome	0.009977779351174831
+trial_2	clavulanic acid	25	KG00099134	congestive failures heart	0.00995346624404192
+trial_2	clavulanic acid	38	KG00098066	Binocular vision disorders	0.009866701439023018
+trial_2	clavulanic acid	356	KG00112623	Infectious Lung Disorders	0.009845081716775894
+trial_2	clavulanic acid	211	KG00100341	Pruritus NOS	0.00979541800916195
+trial_2	clavulanic acid	118	KG00099011	Gastritis NOS	0.009680688381195068
+trial_2	clavulanic acid	116	KG00098964	Pain in foot	0.009671508334577084
+trial_2	clavulanic acid	242	KG00100855	tremors	0.00963781587779522
+trial_2	clavulanic acid	102	KG00097916	anxieties	0.009569671005010605
+trial_2	clavulanic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.009081835858523846
+trial_2	clavulanic acid	268	KG00099557	Heart Failure, Left-Sided	0.009051470085978508
+trial_2	clavulanic acid	282	KG00099309	hypernatraemia	0.009022538550198078
+trial_2	clavulanic acid	398	KG00100580	Shock, Septic	0.009007854387164116
+trial_2	clavulanic acid	422	KG00101429	Creatine phosphokinase increased	0.008956537581980228
+trial_2	clavulanic acid	202	KG00098630	Disturbance of Skin Sensation	0.008932267315685749
+trial_2	clavulanic acid	339	KG00100334	proteinurias	0.008777457289397717
+trial_2	clavulanic acid	36	KG00106434	Vision, Blurring Of	0.00871638860553503
+trial_2	clavulanic acid	288	KG00101223	hypophosphataemia	0.008671028539538383

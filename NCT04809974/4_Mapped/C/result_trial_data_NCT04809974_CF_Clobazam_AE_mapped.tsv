@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.28445833921432495
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.19854778051376343
+trial_1	placebo	87	KG00098599	diarrhoea	0.1709989607334137
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.15936881303787231
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.131617933511734
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11703663319349289
+trial_1	placebo	228	KG00114657	Weight below normal	0.11312983185052872
+trial_1	placebo	68	KG00099901	nauseas	0.11070777475833893
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1099923625588417
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10748431086540222
+trial_1	placebo	46	KG00099121	Headache NOS	0.10690285265445709
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.1019737645983696
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0966896116733551
+trial_1	placebo	20	KG00098540	dehydration	0.09502338618040085
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08662833273410797
+trial_1	placebo	21	KG00098675	dyspnoea	0.08178547769784927
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.07905269414186478
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0787230059504509
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07591234892606735
+trial_1	placebo	132	KG00101045	Gain, Weight	0.07238472253084183
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06529978662729263
+trial_1	placebo	104	KG00097963	arthralgias	0.0652935802936554
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0642310082912445
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0639728307723999
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06371384114027023
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06368250399827957
+trial_1	placebo	466	KG00101205	fall	0.059448570013046265
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0589943528175354
+trial_1	placebo	239	KG00100128	pareses	0.058862216770648956
+trial_1	placebo	66	KG00098642	drowsiness	0.058580003678798676
+trial_1	placebo	102	KG00097916	anxieties	0.057475682348012924
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05718426778912544
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.055348951369524
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05395457148551941
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.05367198958992958
+trial_1	placebo	114	KG00098933	fevers	0.053020186722278595
+trial_1	placebo	85	KG00098474	coughs	0.05243757367134094
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0502808578312397
+trial_1	placebo	242	KG00100855	tremors	0.0486343577504158
+trial_1	placebo	116	KG00098964	Pain in foot	0.048440199345350266
+trial_1	placebo	126	KG00100076	Pain NOS	0.047538384795188904
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04738108441233635
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0434572659432888
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04321581497788429
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04097385331988335
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03851193189620972
+trial_1	placebo	262	KG00101199	agitation	0.03849470987915993
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03682612627744675
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03677978739142418
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.036691952496767044
+trial_1	placebo	269	KG00100399	pyaemia	0.0364307165145874
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.036370329558849335
+trial_1	placebo	456	KG00099420	Influenzae	0.03541501238942146
+trial_1	placebo	5	KG00099169	haematuria	0.034951940178871155
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03461366146802902
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03445255756378174
+trial_1	placebo	147	KG00098000	atelectases	0.03367547318339348
+trial_1	placebo	345	KG00103926	impairments memory	0.033558670431375504
+trial_1	placebo	441	KG00098262	cellulitis nos	0.033035263419151306
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03260510414838791
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.03250390663743019
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.0317419171333313
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03171316161751747
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03088531643152237
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.030768465250730515
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.030122723430395126
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029973581433296204
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.029722852632403374
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02831953763961792
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.028300603851675987
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02813609316945076
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02812328189611435
+trial_1	placebo	300	KG00101064	xerostomia	0.028060680255293846
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026678724214434624
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026577739045023918
+trial_1	placebo	72	KG00103771	myalgias	0.025444211438298225
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.02541450969874859
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025304052978754044
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025200532749295235
+trial_1	placebo	203	KG00098661	dysarthrias	0.024469736963510513
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02398594655096531
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.023702554404735565
+trial_1	placebo	82	KG00097697	abdomen distended	0.023485256358981133
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0234303567558527
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022796664386987686
+trial_1	placebo	234	KG00098669	dysgeusias	0.022791152819991112
+trial_1	placebo	478	KG00103778	antalgic gait	0.022518761456012726
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02207844890654087
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02207024022936821
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02183361165225506
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.021732524037361145
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.021634532138705254
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021618736907839775
+trial_1	placebo	282	KG00099309	hypernatraemia	0.021455099806189537
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02105426788330078
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02097787894308567
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02095538191497326
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02064497210085392
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.020583415403962135
+trial_1	placebo	410	KG00104580	Balance impairment	0.02017020806670189
+trial_2	clobazam	9	KG00098432	Confusion NOS	0.28445833921432495
+trial_2	clobazam	17	KG00097991	Asthenia NOS	0.19854778051376343
+trial_2	clobazam	87	KG00098599	diarrhoea	0.1709989607334137
+trial_2	clobazam	173	KG00098172	Bronchopneumonia NOS	0.15936881303787231
+trial_2	clobazam	78	KG00099326	Hypertensive diseases	0.131617933511734
+trial_2	clobazam	79	KG00100317	Insomnia, Primary	0.11703663319349289
+trial_2	clobazam	228	KG00114657	Weight below normal	0.11312983185052872
+trial_2	clobazam	68	KG00099901	nauseas	0.11070777475833893
+trial_2	clobazam	49	KG00099902	nausea with vomiting	0.1099923625588417
+trial_2	clobazam	77	KG00098450	Constipation NOS	0.10748431086540222
+trial_2	clobazam	46	KG00099121	Headache NOS	0.10690285265445709
+trial_2	clobazam	151	KG00098274	Infarction, Cerebral	0.1019737645983696
+trial_2	clobazam	177	KG00099299	hyperglycaemia	0.0966896116733551
+trial_2	clobazam	20	KG00098540	dehydration	0.09502338618040085
+trial_2	clobazam	64	KG00097734	Acrodermatitis, NOS	0.08662833273410797
+trial_2	clobazam	21	KG00098675	dyspnoea	0.08178547769784927
+trial_2	clobazam	76	KG00100450	Respiratory insufficiency, NOS	0.07905269414186478
+trial_2	clobazam	86	KG00098565	Depression, Mental	0.0787230059504509
+trial_2	clobazam	123	KG00099351	hypokalaemia	0.07591234892606735
+trial_2	clobazam	132	KG00101045	Gain, Weight	0.07238472253084183
+trial_2	clobazam	37	KG00097696	Cramps, Abdominal	0.06529978662729263
+trial_2	clobazam	104	KG00097963	arthralgias	0.0652935802936554
+trial_2	clobazam	29	KG00099354	hyponatraemia	0.0642310082912445
+trial_2	clobazam	189	KG00101580	Alanine aminotransferase increase	0.0639728307723999
+trial_2	clobazam	30	KG00099500	Acute Kidney Failure	0.06371384114027023
+trial_2	clobazam	101	KG00097901	Anorexia NOS	0.06368250399827957
+trial_2	clobazam	466	KG00101205	fall	0.059448570013046265
+trial_2	clobazam	200	KG00098539	Disorders, Deglutition	0.0589943528175354
+trial_2	clobazam	239	KG00100128	pareses	0.058862216770648956
+trial_2	clobazam	66	KG00098642	drowsiness	0.058580003678798676
+trial_2	clobazam	102	KG00097916	anxieties	0.057475682348012924
+trial_2	clobazam	180	KG00099363	Hypotension NOS	0.05718426778912544
+trial_2	clobazam	188	KG00101579	Aspartate aminotransferase increase	0.055348951369524
+trial_2	clobazam	14	KG00097852	Anemia NOS	0.05395457148551941
+trial_2	clobazam	131	KG00100948	Urinary tract infection (& [NOS])	0.05367198958992958
+trial_2	clobazam	114	KG00098933	fevers	0.053020186722278595
+trial_2	clobazam	85	KG00098474	coughs	0.05243757367134094
+trial_2	clobazam	28	KG00099347	hypoglycaemia	0.0502808578312397
+trial_2	clobazam	242	KG00100855	tremors	0.0486343577504158
+trial_2	clobazam	116	KG00098964	Pain in foot	0.048440199345350266
+trial_2	clobazam	126	KG00100076	Pain NOS	0.047538384795188904
+trial_2	clobazam	67	KG00098673	Dyspepsia, NOS	0.04738108441233635
+trial_2	clobazam	139	KG00098855	Sinusitis, Ethmoid	0.0434572659432888
+trial_2	clobazam	61	KG00099501	Chronic Kidney Failure	0.04321581497788429
+trial_2	clobazam	350	KG00106765	decreased platelet count	0.04097385331988335
+trial_2	clobazam	96	KG00101679	Unattended death NOS	0.03851193189620972
+trial_2	clobazam	262	KG00101199	agitation	0.03849470987915993
+trial_2	clobazam	11	KG00097993	Asthma NOS	0.03682612627744675
+trial_2	clobazam	199	KG00098371	Rhinitis (chronic) NOS	0.03677978739142418
+trial_2	clobazam	396	KG00100373	Embolism, Pulmonary	0.036691952496767044
+trial_2	clobazam	269	KG00100399	pyaemia	0.0364307165145874
+trial_2	clobazam	92	KG00100926	Infections, Upper Respiratory	0.036370329558849335
+trial_2	clobazam	456	KG00099420	Influenzae	0.03541501238942146
+trial_2	clobazam	5	KG00099169	haematuria	0.034951940178871155
+trial_2	clobazam	361	KG00098004	Fibrillation, Atrial	0.03461366146802902
+trial_2	clobazam	36	KG00106434	Vision, Blurring Of	0.03445255756378174
+trial_2	clobazam	147	KG00098000	atelectases	0.03367547318339348
+trial_2	clobazam	345	KG00103926	impairments memory	0.033558670431375504
+trial_2	clobazam	441	KG00098262	cellulitis nos	0.033035263419151306
+trial_2	clobazam	38	KG00098066	Binocular vision disorders	0.03260510414838791
+trial_2	clobazam	232	KG00097997	Ataxia NOS	0.03250390663743019
+trial_2	clobazam	15	KG00097882	Angina pectoris NOS	0.0317419171333313
+trial_2	clobazam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03171316161751747
+trial_2	clobazam	18	KG00098307	Pain, Chest	0.03088531643152237
+trial_2	clobazam	2	KG00100772	thrombocytopaenia	0.030768465250730515
+trial_2	clobazam	98	KG00097718	Incised wound, NOS	0.030122723430395126
+trial_2	clobazam	211	KG00100341	Pruritus NOS	0.029973581433296204
+trial_2	clobazam	27	KG00099303	hyperkalaemia	0.029722852632403374
+trial_2	clobazam	394	KG00100243	Pneumonia, Aspiration	0.02831953763961792
+trial_2	clobazam	243	KG00100947	Micturition frequency increased	0.028300603851675987
+trial_2	clobazam	138	KG00098796	epidemic vomiting syndrome	0.02813609316945076
+trial_2	clobazam	276	KG00099127	Arrest, Cardiac	0.02812328189611435
+trial_2	clobazam	300	KG00101064	xerostomia	0.028060680255293846
+trial_2	clobazam	221	KG00101207	peripheral oedema	0.026678724214434624
+trial_2	clobazam	75	KG00100195	Dolens, Phlegmasia Alba	0.026577739045023918
+trial_2	clobazam	72	KG00103771	myalgias	0.025444211438298225
+trial_2	clobazam	366	KG00098275	Attack, Transient Ischemic	0.02541450969874859
+trial_2	clobazam	69	KG00100082	Palpitations NOS	0.025304052978754044
+trial_2	clobazam	286	KG00101110	Retention, Urinary	0.025200532749295235
+trial_2	clobazam	203	KG00098661	dysarthrias	0.024469736963510513
+trial_2	clobazam	204	KG00098849	Esophagitis, Peptic	0.02398594655096531
+trial_2	clobazam	31	KG00099872	Infarction, Myocardial	0.023702554404735565
+trial_2	clobazam	82	KG00097697	abdomen distended	0.023485256358981133
+trial_2	clobazam	179	KG00099342	hypocalcaemia	0.0234303567558527
+trial_2	clobazam	194	KG00110727	Neutrophil Count Decreased	0.022796664386987686
+trial_2	clobazam	234	KG00098669	dysgeusias	0.022791152819991112
+trial_2	clobazam	478	KG00103778	antalgic gait	0.022518761456012726
+trial_2	clobazam	253	KG00100232	Pleural effusion NOS (disorder)	0.02207844890654087
+trial_2	clobazam	422	KG00101429	Creatine phosphokinase increased	0.02207024022936821
+trial_2	clobazam	355	KG00110857	lymphocyte count decreased	0.02183361165225506
+trial_2	clobazam	225	KG00104032	Suicidal tendencies	0.021732524037361145
+trial_2	clobazam	261	KG00101559	raised alkaline phosphatase	0.021634532138705254
+trial_2	clobazam	35	KG00101507	hypomagnesaemia	0.021618736907839775
+trial_2	clobazam	282	KG00099309	hypernatraemia	0.021455099806189537
+trial_2	clobazam	191	KG00104055	Biliverdin increased	0.02105426788330078
+trial_2	clobazam	152	KG00099402	INCONTINENCE NOS	0.02097787894308567
+trial_2	clobazam	130	KG00100683	Stomatitis NOS	0.02095538191497326
+trial_2	clobazam	249	KG00104430	hypoalbuminaemia	0.02064497210085392
+trial_2	clobazam	118	KG00099011	Gastritis NOS	0.020583415403962135
+trial_2	clobazam	410	KG00104580	Balance impairment	0.02017020806670189

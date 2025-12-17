@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.21994976699352264
+trial_1	placebo	123	KG00099351	hypokalaemia	0.20569662749767303
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.18193680047988892
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1647917479276657
+trial_1	placebo	68	KG00099901	nauseas	0.15942929685115814
+trial_1	placebo	21	KG00098675	dyspnoea	0.1423841118812561
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1360819786787033
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.13567455112934113
+trial_1	placebo	20	KG00098540	dehydration	0.13381025195121765
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12084531784057617
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.1199963390827179
+trial_1	placebo	14	KG00097852	Anemia NOS	0.11778443306684494
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11421218514442444
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0978027731180191
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.0964512750506401
+trial_1	placebo	29	KG00099354	hyponatraemia	0.09637229144573212
+trial_1	placebo	46	KG00099121	Headache NOS	0.09604361653327942
+trial_1	placebo	126	KG00100076	Pain NOS	0.09524798393249512
+trial_1	placebo	114	KG00098933	fevers	0.09387277811765671
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09302587807178497
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09301243722438812
+trial_1	placebo	228	KG00114657	Weight below normal	0.09066250175237656
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08536610752344131
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.08159235864877701
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07975434511899948
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07875671237707138
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0777595043182373
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.07566096633672714
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.07368586957454681
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07326634973287582
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.07093110680580139
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07070991396903992
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.06997378170490265
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.06929002702236176
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06689747422933578
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.06510571390390396
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06075073406100273
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05930796638131142
+trial_1	placebo	104	KG00097963	arthralgias	0.05821554735302925
+trial_1	placebo	269	KG00100399	pyaemia	0.05816688761115074
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05810638144612312
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.057906731963157654
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.057649269700050354
+trial_1	placebo	85	KG00098474	coughs	0.05300140753388405
+trial_1	placebo	147	KG00098000	atelectases	0.05233626067638397
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05035664513707161
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0498705692589283
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04978461563587189
+trial_1	placebo	121	KG00099190	haemorrhage	0.04955578222870827
+trial_1	placebo	72	KG00103771	myalgias	0.049287520349025726
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.047559332102537155
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.047478578984737396
+trial_1	placebo	239	KG00100128	pareses	0.04709862172603607
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.046397484838962555
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.046189822256565094
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04490944743156433
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04471539333462715
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.044038038700819016
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0439775325357914
+trial_1	placebo	86	KG00098565	Depression, Mental	0.042848099023103714
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04240989685058594
+trial_1	placebo	455	KG00099290	hyperbilirubinemias	0.03939903900027275
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.039343900978565216
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.039026398211717606
+trial_1	placebo	82	KG00097697	abdomen distended	0.03882429748773575
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03760846331715584
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0375041700899601
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03671054542064667
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03617672622203827
+trial_1	placebo	212	KG00100576	shivers	0.03590703755617142
+trial_1	placebo	5	KG00099169	haematuria	0.03523409739136696
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03437599167227745
+trial_1	placebo	102	KG00097916	anxieties	0.03425320237874985
+trial_1	placebo	154	KG00099686	Lymphopenias	0.034136418253183365
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03410477563738823
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.0332944393157959
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0331607311964035
+trial_1	placebo	135	KG00101549	bone pain	0.03001234121620655
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02996538206934929
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.029432222247123718
+trial_1	placebo	100	KG00097815	alopecias	0.029331298545002937
+trial_1	placebo	116	KG00098964	Pain in foot	0.029180647805333138
+trial_1	placebo	186	KG00101431	creatinine increased	0.029108688235282898
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.029009869322180748
+trial_1	placebo	221	KG00101207	peripheral oedema	0.028907762840390205
+trial_1	placebo	466	KG00101205	fall	0.028834089636802673
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02833409421145916
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.027180904522538185
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.027047861367464066
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.0253845676779747
+trial_1	placebo	503	KG00102612	low haemoglobin	0.025316700339317322
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.023665733635425568
+trial_1	placebo	136	KG00101582	Dry;skin	0.0236598402261734
+trial_1	placebo	4	KG00098817	epistaxis	0.02348223328590393
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.023197226226329803
+trial_1	placebo	234	KG00098669	dysgeusias	0.023150352761149406
+trial_1	placebo	164	KG00108827	ileus colon	0.022964147850871086
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.02231038548052311
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.02213788591325283
+trial_1	placebo	390	KG00100095	pancytopenias	0.022040201351046562
+trial_2	cytarabine	87	KG00098599	diarrhoea	0.21994976699352264
+trial_2	cytarabine	123	KG00099351	hypokalaemia	0.20569662749767303
+trial_2	cytarabine	177	KG00099299	hyperglycaemia	0.18193680047988892
+trial_2	cytarabine	49	KG00099902	nausea with vomiting	0.1647917479276657
+trial_2	cytarabine	68	KG00099901	nauseas	0.15942929685115814
+trial_2	cytarabine	21	KG00098675	dyspnoea	0.1423841118812561
+trial_2	cytarabine	17	KG00097991	Asthenia NOS	0.1360819786787033
+trial_2	cytarabine	173	KG00098172	Bronchopneumonia NOS	0.13567455112934113
+trial_2	cytarabine	20	KG00098540	dehydration	0.13381025195121765
+trial_2	cytarabine	189	KG00101580	Alanine aminotransferase increase	0.12084531784057617
+trial_2	cytarabine	2	KG00100772	thrombocytopaenia	0.1199963390827179
+trial_2	cytarabine	14	KG00097852	Anemia NOS	0.11778443306684494
+trial_2	cytarabine	9	KG00098432	Confusion NOS	0.11421218514442444
+trial_2	cytarabine	37	KG00097696	Cramps, Abdominal	0.0978027731180191
+trial_2	cytarabine	170	KG00108926	Neutropenia, Febrile	0.0964512750506401
+trial_2	cytarabine	29	KG00099354	hyponatraemia	0.09637229144573212
+trial_2	cytarabine	46	KG00099121	Headache NOS	0.09604361653327942
+trial_2	cytarabine	126	KG00100076	Pain NOS	0.09524798393249512
+trial_2	cytarabine	114	KG00098933	fevers	0.09387277811765671
+trial_2	cytarabine	78	KG00099326	Hypertensive diseases	0.09302587807178497
+trial_2	cytarabine	64	KG00097734	Acrodermatitis, NOS	0.09301243722438812
+trial_2	cytarabine	228	KG00114657	Weight below normal	0.09066250175237656
+trial_2	cytarabine	76	KG00100450	Respiratory insufficiency, NOS	0.08536610752344131
+trial_2	cytarabine	180	KG00099363	Hypotension NOS	0.08159235864877701
+trial_2	cytarabine	188	KG00101579	Aspartate aminotransferase increase	0.07975434511899948
+trial_2	cytarabine	77	KG00098450	Constipation NOS	0.07875671237707138
+trial_2	cytarabine	350	KG00106765	decreased platelet count	0.0777595043182373
+trial_2	cytarabine	179	KG00099342	hypocalcaemia	0.07566096633672714
+trial_2	cytarabine	194	KG00110727	Neutrophil Count Decreased	0.07368586957454681
+trial_2	cytarabine	67	KG00098673	Dyspepsia, NOS	0.07326634973287582
+trial_2	cytarabine	142	KG00100923	Unspecified infectious and parasitic diseases	0.07093110680580139
+trial_2	cytarabine	61	KG00099501	Chronic Kidney Failure	0.07070991396903992
+trial_2	cytarabine	249	KG00104430	hypoalbuminaemia	0.06997378170490265
+trial_2	cytarabine	1	KG00099959	Neutropenia NOS	0.06929002702236176
+trial_2	cytarabine	101	KG00097901	Anorexia NOS	0.06689747422933578
+trial_2	cytarabine	96	KG00101679	Unattended death NOS	0.06510571390390396
+trial_2	cytarabine	30	KG00099500	Acute Kidney Failure	0.06075073406100273
+trial_2	cytarabine	144	KG00099610	Leukopenia NOS	0.05930796638131142
+trial_2	cytarabine	104	KG00097963	arthralgias	0.05821554735302925
+trial_2	cytarabine	269	KG00100399	pyaemia	0.05816688761115074
+trial_2	cytarabine	27	KG00099303	hyperkalaemia	0.05810638144612312
+trial_2	cytarabine	151	KG00098274	Infarction, Cerebral	0.057906731963157654
+trial_2	cytarabine	200	KG00098539	Disorders, Deglutition	0.057649269700050354
+trial_2	cytarabine	85	KG00098474	coughs	0.05300140753388405
+trial_2	cytarabine	147	KG00098000	atelectases	0.05233626067638397
+trial_2	cytarabine	79	KG00100317	Insomnia, Primary	0.05035664513707161
+trial_2	cytarabine	396	KG00100373	Embolism, Pulmonary	0.0498705692589283
+trial_2	cytarabine	191	KG00104055	Biliverdin increased	0.04978461563587189
+trial_2	cytarabine	121	KG00099190	haemorrhage	0.04955578222870827
+trial_2	cytarabine	72	KG00103771	myalgias	0.049287520349025726
+trial_2	cytarabine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.047559332102537155
+trial_2	cytarabine	361	KG00098004	Fibrillation, Atrial	0.047478578984737396
+trial_2	cytarabine	239	KG00100128	pareses	0.04709862172603607
+trial_2	cytarabine	35	KG00101507	hypomagnesaemia	0.046397484838962555
+trial_2	cytarabine	253	KG00100232	Pleural effusion NOS (disorder)	0.046189822256565094
+trial_2	cytarabine	282	KG00099309	hypernatraemia	0.04490944743156433
+trial_2	cytarabine	441	KG00098262	cellulitis nos	0.04471539333462715
+trial_2	cytarabine	261	KG00101559	raised alkaline phosphatase	0.044038038700819016
+trial_2	cytarabine	131	KG00100948	Urinary tract infection (& [NOS])	0.0439775325357914
+trial_2	cytarabine	86	KG00098565	Depression, Mental	0.042848099023103714
+trial_2	cytarabine	122	KG00099321	Hypersensitivity NOS	0.04240989685058594
+trial_2	cytarabine	455	KG00099290	hyperbilirubinemias	0.03939903900027275
+trial_2	cytarabine	243	KG00100947	Micturition frequency increased	0.039343900978565216
+trial_2	cytarabine	38	KG00098066	Binocular vision disorders	0.039026398211717606
+trial_2	cytarabine	82	KG00097697	abdomen distended	0.03882429748773575
+trial_2	cytarabine	288	KG00101223	hypophosphataemia	0.03760846331715584
+trial_2	cytarabine	28	KG00099347	hypoglycaemia	0.0375041700899601
+trial_2	cytarabine	18	KG00098307	Pain, Chest	0.03671054542064667
+trial_2	cytarabine	130	KG00100683	Stomatitis NOS	0.03617672622203827
+trial_2	cytarabine	212	KG00100576	shivers	0.03590703755617142
+trial_2	cytarabine	5	KG00099169	haematuria	0.03523409739136696
+trial_2	cytarabine	133	KG00101370	neuropathies sensory	0.03437599167227745
+trial_2	cytarabine	102	KG00097916	anxieties	0.03425320237874985
+trial_2	cytarabine	154	KG00099686	Lymphopenias	0.034136418253183365
+trial_2	cytarabine	211	KG00100341	Pruritus NOS	0.03410477563738823
+trial_2	cytarabine	268	KG00099557	Heart Failure, Left-Sided	0.0332944393157959
+trial_2	cytarabine	69	KG00100082	Palpitations NOS	0.0331607311964035
+trial_2	cytarabine	135	KG00101549	bone pain	0.03001234121620655
+trial_2	cytarabine	286	KG00101110	Retention, Urinary	0.02996538206934929
+trial_2	cytarabine	356	KG00112623	Infectious Lung Disorders	0.029432222247123718
+trial_2	cytarabine	100	KG00097815	alopecias	0.029331298545002937
+trial_2	cytarabine	116	KG00098964	Pain in foot	0.029180647805333138
+trial_2	cytarabine	186	KG00101431	creatinine increased	0.029108688235282898
+trial_2	cytarabine	31	KG00099872	Infarction, Myocardial	0.029009869322180748
+trial_2	cytarabine	221	KG00101207	peripheral oedema	0.028907762840390205
+trial_2	cytarabine	466	KG00101205	fall	0.028834089636802673
+trial_2	cytarabine	355	KG00110857	lymphocyte count decreased	0.02833409421145916
+trial_2	cytarabine	347	KG00104223	Mucosal ulcers	0.027180904522538185
+trial_2	cytarabine	75	KG00100195	Dolens, Phlegmasia Alba	0.027047861367464066
+trial_2	cytarabine	276	KG00099127	Arrest, Cardiac	0.0253845676779747
+trial_2	cytarabine	503	KG00102612	low haemoglobin	0.025316700339317322
+trial_2	cytarabine	494	KG00099838	Organ Failure, Multiple	0.023665733635425568
+trial_2	cytarabine	136	KG00101582	Dry;skin	0.0236598402261734
+trial_2	cytarabine	4	KG00098817	epistaxis	0.02348223328590393
+trial_2	cytarabine	89	KG00099301	Hyperhidrosis (disorder)	0.023197226226329803
+trial_2	cytarabine	234	KG00098669	dysgeusias	0.023150352761149406
+trial_2	cytarabine	164	KG00108827	ileus colon	0.022964147850871086
+trial_2	cytarabine	213	KG00100600	Infectious Skin Diseases	0.02231038548052311
+trial_2	cytarabine	183	KG00100449	Adult Respiratory Distress Syndrome	0.02213788591325283
+trial_2	cytarabine	390	KG00100095	pancytopenias	0.022040201351046562

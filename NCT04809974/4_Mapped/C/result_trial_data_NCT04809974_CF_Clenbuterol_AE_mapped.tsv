@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1373356580734253
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11387643218040466
+trial_1	placebo	68	KG00099901	nauseas	0.11124813556671143
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09686602652072906
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09108543395996094
+trial_1	placebo	46	KG00099121	Headache NOS	0.09032690525054932
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08909890800714493
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08906234055757523
+trial_1	placebo	20	KG00098540	dehydration	0.08693750947713852
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08368316292762756
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08165619522333145
+trial_1	placebo	21	KG00098675	dyspnoea	0.0708225890994072
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07016637921333313
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0620981827378273
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06132007762789726
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.057482361793518066
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05664942041039467
+trial_1	placebo	126	KG00100076	Pain NOS	0.05306850001215935
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.052266038954257965
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04863685369491577
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04518638923764229
+trial_1	placebo	14	KG00097852	Anemia NOS	0.044589318335056305
+trial_1	placebo	114	KG00098933	fevers	0.044453028589487076
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04339737445116043
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.042784079909324646
+trial_1	placebo	239	KG00100128	pareses	0.04145802929997444
+trial_1	placebo	228	KG00114657	Weight below normal	0.041073910892009735
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04089527577161789
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03991662338376045
+trial_1	placebo	5	KG00099169	haematuria	0.03916030377149582
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03908579796552658
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.039044395089149475
+trial_1	placebo	104	KG00097963	arthralgias	0.038395099341869354
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03579635173082352
+trial_1	placebo	147	KG00098000	atelectases	0.03532669320702553
+trial_1	placebo	85	KG00098474	coughs	0.03518500179052353
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03472448140382767
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03461867943406105
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03405576944351196
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03385908529162407
+trial_1	placebo	102	KG00097916	anxieties	0.03351828455924988
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0332864373922348
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03261595964431763
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0324472114443779
+trial_1	placebo	72	KG00103771	myalgias	0.03196967765688896
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03178922459483147
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0316322036087513
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.031295955181121826
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.031097931787371635
+trial_1	placebo	82	KG00097697	abdomen distended	0.030562125146389008
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03002708964049816
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0299247894436121
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02980693429708481
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029196303337812424
+trial_1	placebo	164	KG00108827	ileus colon	0.02773529849946499
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.027480630204081535
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.027400793507695198
+trial_1	placebo	116	KG00098964	Pain in foot	0.026877708733081818
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026815172284841537
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026516716927289963
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02646506205201149
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025856733322143555
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02573607861995697
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024676918983459473
+trial_1	placebo	121	KG00099190	haemorrhage	0.02419327385723591
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0240978691726923
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024024205282330513
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02388802357017994
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02385951578617096
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.023807285353541374
+trial_1	placebo	466	KG00101205	fall	0.023393336683511734
+trial_1	placebo	269	KG00100399	pyaemia	0.023343898355960846
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022825753316283226
+trial_1	placebo	262	KG00101199	agitation	0.02243601158261299
+trial_1	placebo	212	KG00100576	shivers	0.02210046537220478
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022090250626206398
+trial_1	placebo	234	KG00098669	dysgeusias	0.02201453410089016
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02184450626373291
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021228568628430367
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02112104743719101
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.021062089130282402
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020513545721769333
+trial_1	placebo	454	KG00098286	Pain, Neck	0.020121147856116295
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02006266452372074
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019822701811790466
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01952206715941429
+trial_1	placebo	153	KG00099579	lethargy	0.019418898969888687
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.019359320402145386
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0186113603413105
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.018549492582678795
+trial_1	placebo	508	KG00108565	blood glucose increased	0.018384182825684547
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.018270814791321754
+trial_1	placebo	186	KG00101431	creatinine increased	0.01825239323079586
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.018143458291888237
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.017759066075086594
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.01720525324344635
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01716006174683571
+trial_1	placebo	300	KG00101064	xerostomia	0.017099713906645775
+trial_1	placebo	100	KG00097815	alopecias	0.017088113352656364
+trial_1	placebo	66	KG00098642	drowsiness	0.01683937944471836
+trial_2	clenbuterol	87	KG00098599	diarrhoea	0.1373356580734253
+trial_2	clenbuterol	78	KG00099326	Hypertensive diseases	0.11387643218040466
+trial_2	clenbuterol	68	KG00099901	nauseas	0.11124813556671143
+trial_2	clenbuterol	49	KG00099902	nausea with vomiting	0.09686602652072906
+trial_2	clenbuterol	177	KG00099299	hyperglycaemia	0.09108543395996094
+trial_2	clenbuterol	46	KG00099121	Headache NOS	0.09032690525054932
+trial_2	clenbuterol	9	KG00098432	Confusion NOS	0.08909890800714493
+trial_2	clenbuterol	17	KG00097991	Asthenia NOS	0.08906234055757523
+trial_2	clenbuterol	20	KG00098540	dehydration	0.08693750947713852
+trial_2	clenbuterol	123	KG00099351	hypokalaemia	0.08368316292762756
+trial_2	clenbuterol	77	KG00098450	Constipation NOS	0.08165619522333145
+trial_2	clenbuterol	21	KG00098675	dyspnoea	0.0708225890994072
+trial_2	clenbuterol	173	KG00098172	Bronchopneumonia NOS	0.07016637921333313
+trial_2	clenbuterol	79	KG00100317	Insomnia, Primary	0.0620981827378273
+trial_2	clenbuterol	37	KG00097696	Cramps, Abdominal	0.06132007762789726
+trial_2	clenbuterol	67	KG00098673	Dyspepsia, NOS	0.057482361793518066
+trial_2	clenbuterol	200	KG00098539	Disorders, Deglutition	0.05664942041039467
+trial_2	clenbuterol	126	KG00100076	Pain NOS	0.05306850001215935
+trial_2	clenbuterol	180	KG00099363	Hypotension NOS	0.052266038954257965
+trial_2	clenbuterol	189	KG00101580	Alanine aminotransferase increase	0.04863685369491577
+trial_2	clenbuterol	188	KG00101579	Aspartate aminotransferase increase	0.04518638923764229
+trial_2	clenbuterol	14	KG00097852	Anemia NOS	0.044589318335056305
+trial_2	clenbuterol	114	KG00098933	fevers	0.044453028589487076
+trial_2	clenbuterol	29	KG00099354	hyponatraemia	0.04339737445116043
+trial_2	clenbuterol	101	KG00097901	Anorexia NOS	0.042784079909324646
+trial_2	clenbuterol	239	KG00100128	pareses	0.04145802929997444
+trial_2	clenbuterol	228	KG00114657	Weight below normal	0.041073910892009735
+trial_2	clenbuterol	64	KG00097734	Acrodermatitis, NOS	0.04089527577161789
+trial_2	clenbuterol	76	KG00100450	Respiratory insufficiency, NOS	0.03991662338376045
+trial_2	clenbuterol	5	KG00099169	haematuria	0.03916030377149582
+trial_2	clenbuterol	350	KG00106765	decreased platelet count	0.03908579796552658
+trial_2	clenbuterol	61	KG00099501	Chronic Kidney Failure	0.039044395089149475
+trial_2	clenbuterol	104	KG00097963	arthralgias	0.038395099341869354
+trial_2	clenbuterol	243	KG00100947	Micturition frequency increased	0.03579635173082352
+trial_2	clenbuterol	147	KG00098000	atelectases	0.03532669320702553
+trial_2	clenbuterol	85	KG00098474	coughs	0.03518500179052353
+trial_2	clenbuterol	179	KG00099342	hypocalcaemia	0.03472448140382767
+trial_2	clenbuterol	2	KG00100772	thrombocytopaenia	0.03461867943406105
+trial_2	clenbuterol	27	KG00099303	hyperkalaemia	0.03405576944351196
+trial_2	clenbuterol	96	KG00101679	Unattended death NOS	0.03385908529162407
+trial_2	clenbuterol	102	KG00097916	anxieties	0.03351828455924988
+trial_2	clenbuterol	86	KG00098565	Depression, Mental	0.0332864373922348
+trial_2	clenbuterol	38	KG00098066	Binocular vision disorders	0.03261595964431763
+trial_2	clenbuterol	28	KG00099347	hypoglycaemia	0.0324472114443779
+trial_2	clenbuterol	72	KG00103771	myalgias	0.03196967765688896
+trial_2	clenbuterol	30	KG00099500	Acute Kidney Failure	0.03178922459483147
+trial_2	clenbuterol	151	KG00098274	Infarction, Cerebral	0.0316322036087513
+trial_2	clenbuterol	131	KG00100948	Urinary tract infection (& [NOS])	0.031295955181121826
+trial_2	clenbuterol	122	KG00099321	Hypersensitivity NOS	0.031097931787371635
+trial_2	clenbuterol	82	KG00097697	abdomen distended	0.030562125146389008
+trial_2	clenbuterol	396	KG00100373	Embolism, Pulmonary	0.03002708964049816
+trial_2	clenbuterol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0299247894436121
+trial_2	clenbuterol	18	KG00098307	Pain, Chest	0.02980693429708481
+trial_2	clenbuterol	69	KG00100082	Palpitations NOS	0.029196303337812424
+trial_2	clenbuterol	164	KG00108827	ileus colon	0.02773529849946499
+trial_2	clenbuterol	276	KG00099127	Arrest, Cardiac	0.027480630204081535
+trial_2	clenbuterol	211	KG00100341	Pruritus NOS	0.027400793507695198
+trial_2	clenbuterol	116	KG00098964	Pain in foot	0.026877708733081818
+trial_2	clenbuterol	282	KG00099309	hypernatraemia	0.026815172284841537
+trial_2	clenbuterol	261	KG00101559	raised alkaline phosphatase	0.026516716927289963
+trial_2	clenbuterol	253	KG00100232	Pleural effusion NOS (disorder)	0.02646506205201149
+trial_2	clenbuterol	286	KG00101110	Retention, Urinary	0.025856733322143555
+trial_2	clenbuterol	35	KG00101507	hypomagnesaemia	0.02573607861995697
+trial_2	clenbuterol	142	KG00100923	Unspecified infectious and parasitic diseases	0.024676918983459473
+trial_2	clenbuterol	121	KG00099190	haemorrhage	0.02419327385723591
+trial_2	clenbuterol	441	KG00098262	cellulitis nos	0.0240978691726923
+trial_2	clenbuterol	75	KG00100195	Dolens, Phlegmasia Alba	0.024024205282330513
+trial_2	clenbuterol	194	KG00110727	Neutrophil Count Decreased	0.02388802357017994
+trial_2	clenbuterol	139	KG00098855	Sinusitis, Ethmoid	0.02385951578617096
+trial_2	clenbuterol	249	KG00104430	hypoalbuminaemia	0.023807285353541374
+trial_2	clenbuterol	466	KG00101205	fall	0.023393336683511734
+trial_2	clenbuterol	269	KG00100399	pyaemia	0.023343898355960846
+trial_2	clenbuterol	166	KG00099773	menopausal syndrome	0.022825753316283226
+trial_2	clenbuterol	262	KG00101199	agitation	0.02243601158261299
+trial_2	clenbuterol	212	KG00100576	shivers	0.02210046537220478
+trial_2	clenbuterol	204	KG00098849	Esophagitis, Peptic	0.022090250626206398
+trial_2	clenbuterol	234	KG00098669	dysgeusias	0.02201453410089016
+trial_2	clenbuterol	221	KG00101207	peripheral oedema	0.02184450626373291
+trial_2	clenbuterol	361	KG00098004	Fibrillation, Atrial	0.021228568628430367
+trial_2	clenbuterol	355	KG00110857	lymphocyte count decreased	0.02112104743719101
+trial_2	clenbuterol	144	KG00099610	Leukopenia NOS	0.021062089130282402
+trial_2	clenbuterol	31	KG00099872	Infarction, Myocardial	0.020513545721769333
+trial_2	clenbuterol	454	KG00098286	Pain, Neck	0.020121147856116295
+trial_2	clenbuterol	36	KG00106434	Vision, Blurring Of	0.02006266452372074
+trial_2	clenbuterol	191	KG00104055	Biliverdin increased	0.019822701811790466
+trial_2	clenbuterol	163	KG00104050	bowel obstructions small	0.01952206715941429
+trial_2	clenbuterol	153	KG00099579	lethargy	0.019418898969888687
+trial_2	clenbuterol	256	KG00100738	Tachycardia, Sinus	0.019359320402145386
+trial_2	clenbuterol	92	KG00100926	Infections, Upper Respiratory	0.0186113603413105
+trial_2	clenbuterol	394	KG00100243	Pneumonia, Aspiration	0.018549492582678795
+trial_2	clenbuterol	508	KG00108565	blood glucose increased	0.018384182825684547
+trial_2	clenbuterol	33	KG00100094	Pancreatitis NOS	0.018270814791321754
+trial_2	clenbuterol	186	KG00101431	creatinine increased	0.01825239323079586
+trial_2	clenbuterol	268	KG00099557	Heart Failure, Left-Sided	0.018143458291888237
+trial_2	clenbuterol	288	KG00101223	hypophosphataemia	0.017759066075086594
+trial_2	clenbuterol	97	KG00104198	LIVER ENZYME ELEVATED	0.01720525324344635
+trial_2	clenbuterol	22	KG00098705	Edema (NOS)	0.01716006174683571
+trial_2	clenbuterol	300	KG00101064	xerostomia	0.017099713906645775
+trial_2	clenbuterol	100	KG00097815	alopecias	0.017088113352656364
+trial_2	clenbuterol	66	KG00098642	drowsiness	0.01683937944471836

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1360771656036377
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11104138195514679
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09936394542455673
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09828857332468033
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09130919724702835
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0906931683421135
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08821015805006027
+trial_1	placebo	21	KG00098675	dyspnoea	0.08522965759038925
+trial_1	placebo	68	KG00099901	nauseas	0.08332673460245132
+trial_1	placebo	46	KG00099121	Headache NOS	0.08201036602258682
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08125646412372589
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07712087035179138
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07595378905534744
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07454255223274231
+trial_1	placebo	20	KG00098540	dehydration	0.07209290564060211
+trial_1	placebo	114	KG00098933	fevers	0.06291032582521439
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06254786252975464
+trial_1	placebo	85	KG00098474	coughs	0.059356700628995895
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05756840854883194
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.054724328219890594
+trial_1	placebo	126	KG00100076	Pain NOS	0.05384908616542816
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.053721439093351364
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.051923517137765884
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05130818486213684
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04885324463248253
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.048137493431568146
+trial_1	placebo	228	KG00114657	Weight below normal	0.04729239270091057
+trial_1	placebo	104	KG00097963	arthralgias	0.046825509518384933
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0465783067047596
+trial_1	placebo	72	KG00103771	myalgias	0.04382579028606415
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03965791314840317
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03909096494317055
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.038075800985097885
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03620780631899834
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03598463162779808
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03596855327486992
+trial_1	placebo	86	KG00098565	Depression, Mental	0.034982673823833466
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.033924348652362823
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.032829783856868744
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032592374831438065
+trial_1	placebo	239	KG00100128	pareses	0.03203468769788742
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.031849902123212814
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0314166396856308
+trial_1	placebo	147	KG00098000	atelectases	0.031345169991254807
+trial_1	placebo	102	KG00097916	anxieties	0.03132132068276405
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030887529253959656
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.030877044424414635
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0304940864443779
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.030128266662359238
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.029908807948231697
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029844224452972412
+trial_1	placebo	5	KG00099169	haematuria	0.02955404855310917
+trial_1	placebo	116	KG00098964	Pain in foot	0.028522254899144173
+trial_1	placebo	82	KG00097697	abdomen distended	0.02832585759460926
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028232628479599953
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.028090087696909904
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027546366676688194
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02716769278049469
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.026107078418135643
+trial_1	placebo	269	KG00100399	pyaemia	0.02593071199953556
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025891773402690887
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02547932229936123
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02496645599603653
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02424933761358261
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023894233629107475
+trial_1	placebo	282	KG00099309	hypernatraemia	0.023819850757718086
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02340918406844139
+trial_1	placebo	262	KG00101199	agitation	0.023381009697914124
+trial_1	placebo	212	KG00100576	shivers	0.02301320992410183
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023000964894890785
+trial_1	placebo	100	KG00097815	alopecias	0.02284996584057808
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022372685372829437
+trial_1	placebo	234	KG00098669	dysgeusias	0.022310245782136917
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0219547338783741
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02179693430662155
+trial_1	placebo	121	KG00099190	haemorrhage	0.02179095149040222
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021534599363803864
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02092522755265236
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020625539124011993
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.020381465554237366
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020281203091144562
+trial_1	placebo	466	KG00101205	fall	0.01964854635298252
+trial_1	placebo	132	KG00101045	Gain, Weight	0.019527047872543335
+trial_1	placebo	164	KG00108827	ileus colon	0.01921055279672146
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.018924010917544365
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01843697763979435
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018254101276397705
+trial_1	placebo	154	KG00099686	Lymphopenias	0.018125498667359352
+trial_1	placebo	11	KG00097993	Asthma NOS	0.017658792436122894
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01752689853310585
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01747036539018154
+trial_1	placebo	153	KG00099579	lethargy	0.0173592921346426
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01724899187684059
+trial_1	placebo	4	KG00098817	epistaxis	0.017237624153494835
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.017223041504621506
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.017170069739222527
+trial_1	placebo	186	KG00101431	creatinine increased	0.017098214477300644
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017077848315238953
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.016969306394457817
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016968192532658577
+trial_2	colfosceril palmitate	87	KG00098599	diarrhoea	0.1360771656036377
+trial_2	colfosceril palmitate	177	KG00099299	hyperglycaemia	0.11104138195514679
+trial_2	colfosceril palmitate	78	KG00099326	Hypertensive diseases	0.09936394542455673
+trial_2	colfosceril palmitate	17	KG00097991	Asthenia NOS	0.09828857332468033
+trial_2	colfosceril palmitate	9	KG00098432	Confusion NOS	0.09130919724702835
+trial_2	colfosceril palmitate	173	KG00098172	Bronchopneumonia NOS	0.0906931683421135
+trial_2	colfosceril palmitate	37	KG00097696	Cramps, Abdominal	0.08821015805006027
+trial_2	colfosceril palmitate	21	KG00098675	dyspnoea	0.08522965759038925
+trial_2	colfosceril palmitate	68	KG00099901	nauseas	0.08332673460245132
+trial_2	colfosceril palmitate	46	KG00099121	Headache NOS	0.08201036602258682
+trial_2	colfosceril palmitate	49	KG00099902	nausea with vomiting	0.08125646412372589
+trial_2	colfosceril palmitate	77	KG00098450	Constipation NOS	0.07712087035179138
+trial_2	colfosceril palmitate	123	KG00099351	hypokalaemia	0.07595378905534744
+trial_2	colfosceril palmitate	14	KG00097852	Anemia NOS	0.07454255223274231
+trial_2	colfosceril palmitate	20	KG00098540	dehydration	0.07209290564060211
+trial_2	colfosceril palmitate	114	KG00098933	fevers	0.06291032582521439
+trial_2	colfosceril palmitate	79	KG00100317	Insomnia, Primary	0.06254786252975464
+trial_2	colfosceril palmitate	85	KG00098474	coughs	0.059356700628995895
+trial_2	colfosceril palmitate	67	KG00098673	Dyspepsia, NOS	0.05756840854883194
+trial_2	colfosceril palmitate	64	KG00097734	Acrodermatitis, NOS	0.054724328219890594
+trial_2	colfosceril palmitate	126	KG00100076	Pain NOS	0.05384908616542816
+trial_2	colfosceril palmitate	189	KG00101580	Alanine aminotransferase increase	0.053721439093351364
+trial_2	colfosceril palmitate	2	KG00100772	thrombocytopaenia	0.051923517137765884
+trial_2	colfosceril palmitate	180	KG00099363	Hypotension NOS	0.05130818486213684
+trial_2	colfosceril palmitate	200	KG00098539	Disorders, Deglutition	0.04885324463248253
+trial_2	colfosceril palmitate	188	KG00101579	Aspartate aminotransferase increase	0.048137493431568146
+trial_2	colfosceril palmitate	228	KG00114657	Weight below normal	0.04729239270091057
+trial_2	colfosceril palmitate	104	KG00097963	arthralgias	0.046825509518384933
+trial_2	colfosceril palmitate	76	KG00100450	Respiratory insufficiency, NOS	0.0465783067047596
+trial_2	colfosceril palmitate	72	KG00103771	myalgias	0.04382579028606415
+trial_2	colfosceril palmitate	101	KG00097901	Anorexia NOS	0.03965791314840317
+trial_2	colfosceril palmitate	29	KG00099354	hyponatraemia	0.03909096494317055
+trial_2	colfosceril palmitate	122	KG00099321	Hypersensitivity NOS	0.038075800985097885
+trial_2	colfosceril palmitate	350	KG00106765	decreased platelet count	0.03620780631899834
+trial_2	colfosceril palmitate	61	KG00099501	Chronic Kidney Failure	0.03598463162779808
+trial_2	colfosceril palmitate	131	KG00100948	Urinary tract infection (& [NOS])	0.03596855327486992
+trial_2	colfosceril palmitate	86	KG00098565	Depression, Mental	0.034982673823833466
+trial_2	colfosceril palmitate	151	KG00098274	Infarction, Cerebral	0.033924348652362823
+trial_2	colfosceril palmitate	243	KG00100947	Micturition frequency increased	0.032829783856868744
+trial_2	colfosceril palmitate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032592374831438065
+trial_2	colfosceril palmitate	239	KG00100128	pareses	0.03203468769788742
+trial_2	colfosceril palmitate	28	KG00099347	hypoglycaemia	0.031849902123212814
+trial_2	colfosceril palmitate	96	KG00101679	Unattended death NOS	0.0314166396856308
+trial_2	colfosceril palmitate	147	KG00098000	atelectases	0.031345169991254807
+trial_2	colfosceril palmitate	102	KG00097916	anxieties	0.03132132068276405
+trial_2	colfosceril palmitate	18	KG00098307	Pain, Chest	0.030887529253959656
+trial_2	colfosceril palmitate	69	KG00100082	Palpitations NOS	0.030877044424414635
+trial_2	colfosceril palmitate	179	KG00099342	hypocalcaemia	0.0304940864443779
+trial_2	colfosceril palmitate	27	KG00099303	hyperkalaemia	0.030128266662359238
+trial_2	colfosceril palmitate	144	KG00099610	Leukopenia NOS	0.029908807948231697
+trial_2	colfosceril palmitate	30	KG00099500	Acute Kidney Failure	0.029844224452972412
+trial_2	colfosceril palmitate	5	KG00099169	haematuria	0.02955404855310917
+trial_2	colfosceril palmitate	116	KG00098964	Pain in foot	0.028522254899144173
+trial_2	colfosceril palmitate	82	KG00097697	abdomen distended	0.02832585759460926
+trial_2	colfosceril palmitate	253	KG00100232	Pleural effusion NOS (disorder)	0.028232628479599953
+trial_2	colfosceril palmitate	194	KG00110727	Neutrophil Count Decreased	0.028090087696909904
+trial_2	colfosceril palmitate	396	KG00100373	Embolism, Pulmonary	0.027546366676688194
+trial_2	colfosceril palmitate	139	KG00098855	Sinusitis, Ethmoid	0.02716769278049469
+trial_2	colfosceril palmitate	1	KG00099959	Neutropenia NOS	0.026107078418135643
+trial_2	colfosceril palmitate	269	KG00100399	pyaemia	0.02593071199953556
+trial_2	colfosceril palmitate	221	KG00101207	peripheral oedema	0.025891773402690887
+trial_2	colfosceril palmitate	142	KG00100923	Unspecified infectious and parasitic diseases	0.02547932229936123
+trial_2	colfosceril palmitate	92	KG00100926	Infections, Upper Respiratory	0.02496645599603653
+trial_2	colfosceril palmitate	211	KG00100341	Pruritus NOS	0.02424933761358261
+trial_2	colfosceril palmitate	261	KG00101559	raised alkaline phosphatase	0.023894233629107475
+trial_2	colfosceril palmitate	282	KG00099309	hypernatraemia	0.023819850757718086
+trial_2	colfosceril palmitate	361	KG00098004	Fibrillation, Atrial	0.02340918406844139
+trial_2	colfosceril palmitate	262	KG00101199	agitation	0.023381009697914124
+trial_2	colfosceril palmitate	212	KG00100576	shivers	0.02301320992410183
+trial_2	colfosceril palmitate	276	KG00099127	Arrest, Cardiac	0.023000964894890785
+trial_2	colfosceril palmitate	100	KG00097815	alopecias	0.02284996584057808
+trial_2	colfosceril palmitate	249	KG00104430	hypoalbuminaemia	0.022372685372829437
+trial_2	colfosceril palmitate	234	KG00098669	dysgeusias	0.022310245782136917
+trial_2	colfosceril palmitate	355	KG00110857	lymphocyte count decreased	0.0219547338783741
+trial_2	colfosceril palmitate	38	KG00098066	Binocular vision disorders	0.02179693430662155
+trial_2	colfosceril palmitate	121	KG00099190	haemorrhage	0.02179095149040222
+trial_2	colfosceril palmitate	31	KG00099872	Infarction, Myocardial	0.021534599363803864
+trial_2	colfosceril palmitate	130	KG00100683	Stomatitis NOS	0.02092522755265236
+trial_2	colfosceril palmitate	75	KG00100195	Dolens, Phlegmasia Alba	0.020625539124011993
+trial_2	colfosceril palmitate	36	KG00106434	Vision, Blurring Of	0.020381465554237366
+trial_2	colfosceril palmitate	441	KG00098262	cellulitis nos	0.020281203091144562
+trial_2	colfosceril palmitate	466	KG00101205	fall	0.01964854635298252
+trial_2	colfosceril palmitate	132	KG00101045	Gain, Weight	0.019527047872543335
+trial_2	colfosceril palmitate	164	KG00108827	ileus colon	0.01921055279672146
+trial_2	colfosceril palmitate	170	KG00108926	Neutropenia, Febrile	0.018924010917544365
+trial_2	colfosceril palmitate	35	KG00101507	hypomagnesaemia	0.01843697763979435
+trial_2	colfosceril palmitate	286	KG00101110	Retention, Urinary	0.018254101276397705
+trial_2	colfosceril palmitate	154	KG00099686	Lymphopenias	0.018125498667359352
+trial_2	colfosceril palmitate	11	KG00097993	Asthma NOS	0.017658792436122894
+trial_2	colfosceril palmitate	98	KG00097718	Incised wound, NOS	0.01752689853310585
+trial_2	colfosceril palmitate	191	KG00104055	Biliverdin increased	0.01747036539018154
+trial_2	colfosceril palmitate	153	KG00099579	lethargy	0.0173592921346426
+trial_2	colfosceril palmitate	288	KG00101223	hypophosphataemia	0.01724899187684059
+trial_2	colfosceril palmitate	4	KG00098817	epistaxis	0.017237624153494835
+trial_2	colfosceril palmitate	22	KG00098705	Edema (NOS)	0.017223041504621506
+trial_2	colfosceril palmitate	166	KG00099773	menopausal syndrome	0.017170069739222527
+trial_2	colfosceril palmitate	186	KG00101431	creatinine increased	0.017098214477300644
+trial_2	colfosceril palmitate	204	KG00098849	Esophagitis, Peptic	0.017077848315238953
+trial_2	colfosceril palmitate	371	KG00098517	Cystitis (NOS)	0.016969306394457817
+trial_2	colfosceril palmitate	138	KG00098796	epidemic vomiting syndrome	0.016968192532658577

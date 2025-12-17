@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1668619066476822
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15073727071285248
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13996854424476624
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13192398846149445
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1236768364906311
+trial_1	placebo	21	KG00098675	dyspnoea	0.10604896396398544
+trial_1	placebo	46	KG00099121	Headache NOS	0.10199712961912155
+trial_1	placebo	20	KG00098540	dehydration	0.09544657915830612
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09381186962127686
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09091454744338989
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08918879181146622
+trial_1	placebo	68	KG00099901	nauseas	0.08755452185869217
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08192887902259827
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08090956509113312
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07913430780172348
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07845071703195572
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07422424107789993
+trial_1	placebo	228	KG00114657	Weight below normal	0.07388261705636978
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07353492826223373
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06942081451416016
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06752905994653702
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.067461296916008
+trial_1	placebo	239	KG00100128	pareses	0.06614426523447037
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06477129459381104
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06274168938398361
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05885101854801178
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05733622610569
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05676090717315674
+trial_1	placebo	104	KG00097963	arthralgias	0.05624640733003616
+trial_1	placebo	126	KG00100076	Pain NOS	0.05529411509633064
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05245152860879898
+trial_1	placebo	114	KG00098933	fevers	0.05201615020632744
+trial_1	placebo	85	KG00098474	coughs	0.05184490233659744
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.050290681421756744
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04775026813149452
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04720783978700638
+trial_1	placebo	102	KG00097916	anxieties	0.04664326831698418
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.045192066580057144
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.044599708169698715
+trial_1	placebo	72	KG00103771	myalgias	0.044167064130306244
+trial_1	placebo	5	KG00099169	haematuria	0.04366478696465492
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.043586552143096924
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04321341589093208
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04137443006038666
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03846408426761627
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03845541551709175
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03770875930786133
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03745272755622864
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03615124896168709
+trial_1	placebo	116	KG00098964	Pain in foot	0.03609761223196983
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.035752564668655396
+trial_1	placebo	147	KG00098000	atelectases	0.03531289100646973
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03498438745737076
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.034492138773202896
+trial_1	placebo	262	KG00101199	agitation	0.03447435051202774
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.034177277237176895
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.034116245806217194
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03396570682525635
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0337357297539711
+trial_1	placebo	466	KG00101205	fall	0.033654943108558655
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0335935615003109
+trial_1	placebo	82	KG00097697	abdomen distended	0.033493608236312866
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03279341012239456
+trial_1	placebo	121	KG00099190	haemorrhage	0.03272593766450882
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03179775923490524
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03176082670688629
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0317266583442688
+trial_1	placebo	154	KG00099686	Lymphopenias	0.030651556327939034
+trial_1	placebo	132	KG00101045	Gain, Weight	0.030363865196704865
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.030313514173030853
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.029931124299764633
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.029777606949210167
+trial_1	placebo	164	KG00108827	ileus colon	0.029064686968922615
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.028948649764060974
+trial_1	placebo	66	KG00098642	drowsiness	0.02867940254509449
+trial_1	placebo	242	KG00100855	tremors	0.02801816165447235
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02794080413877964
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02743743546307087
+trial_1	placebo	234	KG00098669	dysgeusias	0.027145087718963623
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027032677084207535
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02655075304210186
+trial_1	placebo	269	KG00100399	pyaemia	0.026426266878843307
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02616766467690468
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.026114966720342636
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02597787231206894
+trial_1	placebo	212	KG00100576	shivers	0.02550528198480606
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.025414885953068733
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02477906085550785
+trial_1	placebo	186	KG00101431	creatinine increased	0.024714522063732147
+trial_1	placebo	153	KG00099579	lethargy	0.024698413908481598
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.0246855691075325
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.024605493992567062
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02454349212348461
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024521252140402794
+trial_1	placebo	300	KG00101064	xerostomia	0.0245156679302454
+trial_1	placebo	221	KG00101207	peripheral oedema	0.024431176483631134
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.024315128102898598
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02405235543847084
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02389402687549591
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023702632635831833
+trial_2	clobutinol	87	KG00098599	diarrhoea	0.1668619066476822
+trial_2	clobutinol	78	KG00099326	Hypertensive diseases	0.15073727071285248
+trial_2	clobutinol	17	KG00097991	Asthenia NOS	0.13996854424476624
+trial_2	clobutinol	9	KG00098432	Confusion NOS	0.13192398846149445
+trial_2	clobutinol	177	KG00099299	hyperglycaemia	0.1236768364906311
+trial_2	clobutinol	21	KG00098675	dyspnoea	0.10604896396398544
+trial_2	clobutinol	46	KG00099121	Headache NOS	0.10199712961912155
+trial_2	clobutinol	20	KG00098540	dehydration	0.09544657915830612
+trial_2	clobutinol	123	KG00099351	hypokalaemia	0.09381186962127686
+trial_2	clobutinol	173	KG00098172	Bronchopneumonia NOS	0.09091454744338989
+trial_2	clobutinol	77	KG00098450	Constipation NOS	0.08918879181146622
+trial_2	clobutinol	68	KG00099901	nauseas	0.08755452185869217
+trial_2	clobutinol	49	KG00099902	nausea with vomiting	0.08192887902259827
+trial_2	clobutinol	67	KG00098673	Dyspepsia, NOS	0.08090956509113312
+trial_2	clobutinol	79	KG00100317	Insomnia, Primary	0.07913430780172348
+trial_2	clobutinol	200	KG00098539	Disorders, Deglutition	0.07845071703195572
+trial_2	clobutinol	37	KG00097696	Cramps, Abdominal	0.07422424107789993
+trial_2	clobutinol	228	KG00114657	Weight below normal	0.07388261705636978
+trial_2	clobutinol	189	KG00101580	Alanine aminotransferase increase	0.07353492826223373
+trial_2	clobutinol	64	KG00097734	Acrodermatitis, NOS	0.06942081451416016
+trial_2	clobutinol	29	KG00099354	hyponatraemia	0.06752905994653702
+trial_2	clobutinol	188	KG00101579	Aspartate aminotransferase increase	0.067461296916008
+trial_2	clobutinol	239	KG00100128	pareses	0.06614426523447037
+trial_2	clobutinol	243	KG00100947	Micturition frequency increased	0.06477129459381104
+trial_2	clobutinol	180	KG00099363	Hypotension NOS	0.06274168938398361
+trial_2	clobutinol	14	KG00097852	Anemia NOS	0.05885101854801178
+trial_2	clobutinol	350	KG00106765	decreased platelet count	0.05733622610569
+trial_2	clobutinol	101	KG00097901	Anorexia NOS	0.05676090717315674
+trial_2	clobutinol	104	KG00097963	arthralgias	0.05624640733003616
+trial_2	clobutinol	126	KG00100076	Pain NOS	0.05529411509633064
+trial_2	clobutinol	179	KG00099342	hypocalcaemia	0.05245152860879898
+trial_2	clobutinol	114	KG00098933	fevers	0.05201615020632744
+trial_2	clobutinol	85	KG00098474	coughs	0.05184490233659744
+trial_2	clobutinol	2	KG00100772	thrombocytopaenia	0.050290681421756744
+trial_2	clobutinol	76	KG00100450	Respiratory insufficiency, NOS	0.04775026813149452
+trial_2	clobutinol	86	KG00098565	Depression, Mental	0.04720783978700638
+trial_2	clobutinol	102	KG00097916	anxieties	0.04664326831698418
+trial_2	clobutinol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.045192066580057144
+trial_2	clobutinol	27	KG00099303	hyperkalaemia	0.044599708169698715
+trial_2	clobutinol	72	KG00103771	myalgias	0.044167064130306244
+trial_2	clobutinol	5	KG00099169	haematuria	0.04366478696465492
+trial_2	clobutinol	61	KG00099501	Chronic Kidney Failure	0.043586552143096924
+trial_2	clobutinol	151	KG00098274	Infarction, Cerebral	0.04321341589093208
+trial_2	clobutinol	28	KG00099347	hypoglycaemia	0.04137443006038666
+trial_2	clobutinol	122	KG00099321	Hypersensitivity NOS	0.03846408426761627
+trial_2	clobutinol	355	KG00110857	lymphocyte count decreased	0.03845541551709175
+trial_2	clobutinol	18	KG00098307	Pain, Chest	0.03770875930786133
+trial_2	clobutinol	69	KG00100082	Palpitations NOS	0.03745272755622864
+trial_2	clobutinol	38	KG00098066	Binocular vision disorders	0.03615124896168709
+trial_2	clobutinol	116	KG00098964	Pain in foot	0.03609761223196983
+trial_2	clobutinol	96	KG00101679	Unattended death NOS	0.035752564668655396
+trial_2	clobutinol	147	KG00098000	atelectases	0.03531289100646973
+trial_2	clobutinol	194	KG00110727	Neutrophil Count Decreased	0.03498438745737076
+trial_2	clobutinol	249	KG00104430	hypoalbuminaemia	0.034492138773202896
+trial_2	clobutinol	262	KG00101199	agitation	0.03447435051202774
+trial_2	clobutinol	35	KG00101507	hypomagnesaemia	0.034177277237176895
+trial_2	clobutinol	36	KG00106434	Vision, Blurring Of	0.034116245806217194
+trial_2	clobutinol	30	KG00099500	Acute Kidney Failure	0.03396570682525635
+trial_2	clobutinol	131	KG00100948	Urinary tract infection (& [NOS])	0.0337357297539711
+trial_2	clobutinol	466	KG00101205	fall	0.033654943108558655
+trial_2	clobutinol	261	KG00101559	raised alkaline phosphatase	0.0335935615003109
+trial_2	clobutinol	82	KG00097697	abdomen distended	0.033493608236312866
+trial_2	clobutinol	282	KG00099309	hypernatraemia	0.03279341012239456
+trial_2	clobutinol	121	KG00099190	haemorrhage	0.03272593766450882
+trial_2	clobutinol	253	KG00100232	Pleural effusion NOS (disorder)	0.03179775923490524
+trial_2	clobutinol	396	KG00100373	Embolism, Pulmonary	0.03176082670688629
+trial_2	clobutinol	286	KG00101110	Retention, Urinary	0.0317266583442688
+trial_2	clobutinol	154	KG00099686	Lymphopenias	0.030651556327939034
+trial_2	clobutinol	132	KG00101045	Gain, Weight	0.030363865196704865
+trial_2	clobutinol	139	KG00098855	Sinusitis, Ethmoid	0.030313514173030853
+trial_2	clobutinol	144	KG00099610	Leukopenia NOS	0.029931124299764633
+trial_2	clobutinol	288	KG00101223	hypophosphataemia	0.029777606949210167
+trial_2	clobutinol	164	KG00108827	ileus colon	0.029064686968922615
+trial_2	clobutinol	256	KG00100738	Tachycardia, Sinus	0.028948649764060974
+trial_2	clobutinol	66	KG00098642	drowsiness	0.02867940254509449
+trial_2	clobutinol	242	KG00100855	tremors	0.02801816165447235
+trial_2	clobutinol	142	KG00100923	Unspecified infectious and parasitic diseases	0.02794080413877964
+trial_2	clobutinol	152	KG00099402	INCONTINENCE NOS	0.02743743546307087
+trial_2	clobutinol	234	KG00098669	dysgeusias	0.027145087718963623
+trial_2	clobutinol	361	KG00098004	Fibrillation, Atrial	0.027032677084207535
+trial_2	clobutinol	191	KG00104055	Biliverdin increased	0.02655075304210186
+trial_2	clobutinol	269	KG00100399	pyaemia	0.026426266878843307
+trial_2	clobutinol	75	KG00100195	Dolens, Phlegmasia Alba	0.02616766467690468
+trial_2	clobutinol	166	KG00099773	menopausal syndrome	0.026114966720342636
+trial_2	clobutinol	454	KG00098286	Pain, Neck	0.02597787231206894
+trial_2	clobutinol	212	KG00100576	shivers	0.02550528198480606
+trial_2	clobutinol	218	KG00100801	Tinnitus NOS	0.025414885953068733
+trial_2	clobutinol	211	KG00100341	Pruritus NOS	0.02477906085550785
+trial_2	clobutinol	186	KG00101431	creatinine increased	0.024714522063732147
+trial_2	clobutinol	153	KG00099579	lethargy	0.024698413908481598
+trial_2	clobutinol	371	KG00098517	Cystitis (NOS)	0.0246855691075325
+trial_2	clobutinol	98	KG00097718	Incised wound, NOS	0.024605493992567062
+trial_2	clobutinol	276	KG00099127	Arrest, Cardiac	0.02454349212348461
+trial_2	clobutinol	92	KG00100926	Infections, Upper Respiratory	0.024521252140402794
+trial_2	clobutinol	300	KG00101064	xerostomia	0.0245156679302454
+trial_2	clobutinol	221	KG00101207	peripheral oedema	0.024431176483631134
+trial_2	clobutinol	341	KG00101472	Gamma-glutamyltransferase increased	0.024315128102898598
+trial_2	clobutinol	508	KG00108565	blood glucose increased	0.02405235543847084
+trial_2	clobutinol	1	KG00099959	Neutropenia NOS	0.02389402687549591
+trial_2	clobutinol	130	KG00100683	Stomatitis NOS	0.023702632635831833

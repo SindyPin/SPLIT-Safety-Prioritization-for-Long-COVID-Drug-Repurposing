@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1251288503408432
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08660254627466202
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08106351643800735
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07216959446668625
+trial_1	placebo	87	KG00098599	diarrhoea	0.07002420723438263
+trial_1	placebo	46	KG00099121	Headache NOS	0.06440188735723495
+trial_1	placebo	9	KG00098432	Confusion NOS	0.060330405831336975
+trial_1	placebo	20	KG00098540	dehydration	0.05783526226878166
+trial_1	placebo	21	KG00098675	dyspnoea	0.0573250912129879
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0533427856862545
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04915275797247887
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04886293038725853
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04881367087364197
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04842305928468704
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04612881317734718
+trial_1	placebo	77	KG00098450	Constipation NOS	0.046059656888246536
+trial_1	placebo	147	KG00098000	atelectases	0.045174356549978256
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.045164093375205994
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.045006249099969864
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04363764822483063
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04282824322581291
+trial_1	placebo	68	KG00099901	nauseas	0.042774055153131485
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04155092313885689
+trial_1	placebo	5	KG00099169	haematuria	0.04152240231633186
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.041009679436683655
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04081832990050316
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03989550471305847
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03952113911509514
+trial_1	placebo	126	KG00100076	Pain NOS	0.03924170508980751
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03799044340848923
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03765827417373657
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.037225086241960526
+trial_1	placebo	86	KG00098565	Depression, Mental	0.036545634269714355
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03645791858434677
+trial_1	placebo	239	KG00100128	pareses	0.03577970713376999
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03541366010904312
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.034810397773981094
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.034632712602615356
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.034252382814884186
+trial_1	placebo	114	KG00098933	fevers	0.03371499478816986
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03364332765340805
+trial_1	placebo	228	KG00114657	Weight below normal	0.03315030410885811
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03260510414838791
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.031081244349479675
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.030598515644669533
+trial_1	placebo	72	KG00103771	myalgias	0.03056628443300724
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.030237844213843346
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03004288859665394
+trial_1	placebo	466	KG00101205	fall	0.029717545956373215
+trial_1	placebo	116	KG00098964	Pain in foot	0.028854982927441597
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.028508638963103294
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02811596728861332
+trial_1	placebo	121	KG00099190	haemorrhage	0.028093375265598297
+trial_1	placebo	104	KG00097963	arthralgias	0.028030771762132645
+trial_1	placebo	269	KG00100399	pyaemia	0.027931591495871544
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.027894238010048866
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.027829863131046295
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.0277249813079834
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02719770558178425
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026400234550237656
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02608252689242363
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02563716657459736
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025229323655366898
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024267684668302536
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023906823247671127
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023568477481603622
+trial_1	placebo	102	KG00097916	anxieties	0.02342686988413334
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02332841232419014
+trial_1	placebo	85	KG00098474	coughs	0.02324162796139717
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.023199770599603653
+trial_1	placebo	164	KG00108827	ileus colon	0.022553618997335434
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02239873632788658
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022061919793486595
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021471789106726646
+trial_1	placebo	262	KG00101199	agitation	0.021246008574962616
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.02124396711587906
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02093232050538063
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02091997116804123
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.020523235201835632
+trial_1	placebo	503	KG00102612	low haemoglobin	0.02027297206223011
+trial_1	placebo	234	KG00098669	dysgeusias	0.02020072564482689
+trial_1	placebo	4	KG00098817	epistaxis	0.019844574853777885
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.0194796584546566
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.019139038398861885
+trial_1	placebo	25	KG00099134	congestive failures heart	0.019016755744814873
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.018840467557311058
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.018777228891849518
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.018647534772753716
+trial_1	placebo	132	KG00101045	Gain, Weight	0.018453281372785568
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018431100994348526
+trial_1	placebo	212	KG00100576	shivers	0.018409017473459244
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.018118882551789284
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.01794264279305935
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01792454533278942
+trial_1	placebo	221	KG00101207	peripheral oedema	0.017761345952749252
+trial_1	placebo	153	KG00099579	lethargy	0.017713351175189018
+trial_1	placebo	100	KG00097815	alopecias	0.01758681610226631
+trial_1	placebo	82	KG00097697	abdomen distended	0.01750241406261921
+trial_1	placebo	618	KG00099164	haematoma	0.017383238300681114
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.017244458198547363
+trial_2	chromic chloride	78	KG00099326	Hypertensive diseases	0.1251288503408432
+trial_2	chromic chloride	177	KG00099299	hyperglycaemia	0.08660254627466202
+trial_2	chromic chloride	173	KG00098172	Bronchopneumonia NOS	0.08106351643800735
+trial_2	chromic chloride	123	KG00099351	hypokalaemia	0.07216959446668625
+trial_2	chromic chloride	87	KG00098599	diarrhoea	0.07002420723438263
+trial_2	chromic chloride	46	KG00099121	Headache NOS	0.06440188735723495
+trial_2	chromic chloride	9	KG00098432	Confusion NOS	0.060330405831336975
+trial_2	chromic chloride	20	KG00098540	dehydration	0.05783526226878166
+trial_2	chromic chloride	21	KG00098675	dyspnoea	0.0573250912129879
+trial_2	chromic chloride	17	KG00097991	Asthenia NOS	0.0533427856862545
+trial_2	chromic chloride	200	KG00098539	Disorders, Deglutition	0.04915275797247887
+trial_2	chromic chloride	14	KG00097852	Anemia NOS	0.04886293038725853
+trial_2	chromic chloride	37	KG00097696	Cramps, Abdominal	0.04881367087364197
+trial_2	chromic chloride	2	KG00100772	thrombocytopaenia	0.04842305928468704
+trial_2	chromic chloride	28	KG00099347	hypoglycaemia	0.04612881317734718
+trial_2	chromic chloride	77	KG00098450	Constipation NOS	0.046059656888246536
+trial_2	chromic chloride	147	KG00098000	atelectases	0.045174356549978256
+trial_2	chromic chloride	79	KG00100317	Insomnia, Primary	0.045164093375205994
+trial_2	chromic chloride	151	KG00098274	Infarction, Cerebral	0.045006249099969864
+trial_2	chromic chloride	67	KG00098673	Dyspepsia, NOS	0.04363764822483063
+trial_2	chromic chloride	180	KG00099363	Hypotension NOS	0.04282824322581291
+trial_2	chromic chloride	68	KG00099901	nauseas	0.042774055153131485
+trial_2	chromic chloride	189	KG00101580	Alanine aminotransferase increase	0.04155092313885689
+trial_2	chromic chloride	5	KG00099169	haematuria	0.04152240231633186
+trial_2	chromic chloride	61	KG00099501	Chronic Kidney Failure	0.041009679436683655
+trial_2	chromic chloride	76	KG00100450	Respiratory insufficiency, NOS	0.04081832990050316
+trial_2	chromic chloride	350	KG00106765	decreased platelet count	0.03989550471305847
+trial_2	chromic chloride	276	KG00099127	Arrest, Cardiac	0.03952113911509514
+trial_2	chromic chloride	126	KG00100076	Pain NOS	0.03924170508980751
+trial_2	chromic chloride	188	KG00101579	Aspartate aminotransferase increase	0.03799044340848923
+trial_2	chromic chloride	29	KG00099354	hyponatraemia	0.03765827417373657
+trial_2	chromic chloride	179	KG00099342	hypocalcaemia	0.037225086241960526
+trial_2	chromic chloride	86	KG00098565	Depression, Mental	0.036545634269714355
+trial_2	chromic chloride	49	KG00099902	nausea with vomiting	0.03645791858434677
+trial_2	chromic chloride	239	KG00100128	pareses	0.03577970713376999
+trial_2	chromic chloride	38	KG00098066	Binocular vision disorders	0.03541366010904312
+trial_2	chromic chloride	396	KG00100373	Embolism, Pulmonary	0.034810397773981094
+trial_2	chromic chloride	122	KG00099321	Hypersensitivity NOS	0.034632712602615356
+trial_2	chromic chloride	30	KG00099500	Acute Kidney Failure	0.034252382814884186
+trial_2	chromic chloride	114	KG00098933	fevers	0.03371499478816986
+trial_2	chromic chloride	243	KG00100947	Micturition frequency increased	0.03364332765340805
+trial_2	chromic chloride	228	KG00114657	Weight below normal	0.03315030410885811
+trial_2	chromic chloride	27	KG00099303	hyperkalaemia	0.03260510414838791
+trial_2	chromic chloride	64	KG00097734	Acrodermatitis, NOS	0.031081244349479675
+trial_2	chromic chloride	96	KG00101679	Unattended death NOS	0.030598515644669533
+trial_2	chromic chloride	72	KG00103771	myalgias	0.03056628443300724
+trial_2	chromic chloride	361	KG00098004	Fibrillation, Atrial	0.030237844213843346
+trial_2	chromic chloride	441	KG00098262	cellulitis nos	0.03004288859665394
+trial_2	chromic chloride	466	KG00101205	fall	0.029717545956373215
+trial_2	chromic chloride	116	KG00098964	Pain in foot	0.028854982927441597
+trial_2	chromic chloride	69	KG00100082	Palpitations NOS	0.028508638963103294
+trial_2	chromic chloride	282	KG00099309	hypernatraemia	0.02811596728861332
+trial_2	chromic chloride	121	KG00099190	haemorrhage	0.028093375265598297
+trial_2	chromic chloride	104	KG00097963	arthralgias	0.028030771762132645
+trial_2	chromic chloride	269	KG00100399	pyaemia	0.027931591495871544
+trial_2	chromic chloride	139	KG00098855	Sinusitis, Ethmoid	0.027894238010048866
+trial_2	chromic chloride	75	KG00100195	Dolens, Phlegmasia Alba	0.027829863131046295
+trial_2	chromic chloride	268	KG00099557	Heart Failure, Left-Sided	0.0277249813079834
+trial_2	chromic chloride	31	KG00099872	Infarction, Myocardial	0.02719770558178425
+trial_2	chromic chloride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026400234550237656
+trial_2	chromic chloride	18	KG00098307	Pain, Chest	0.02608252689242363
+trial_2	chromic chloride	131	KG00100948	Urinary tract infection (& [NOS])	0.02563716657459736
+trial_2	chromic chloride	92	KG00100926	Infections, Upper Respiratory	0.025229323655366898
+trial_2	chromic chloride	144	KG00099610	Leukopenia NOS	0.024267684668302536
+trial_2	chromic chloride	36	KG00106434	Vision, Blurring Of	0.023906823247671127
+trial_2	chromic chloride	253	KG00100232	Pleural effusion NOS (disorder)	0.023568477481603622
+trial_2	chromic chloride	102	KG00097916	anxieties	0.02342686988413334
+trial_2	chromic chloride	194	KG00110727	Neutrophil Count Decreased	0.02332841232419014
+trial_2	chromic chloride	85	KG00098474	coughs	0.02324162796139717
+trial_2	chromic chloride	142	KG00100923	Unspecified infectious and parasitic diseases	0.023199770599603653
+trial_2	chromic chloride	164	KG00108827	ileus colon	0.022553618997335434
+trial_2	chromic chloride	101	KG00097901	Anorexia NOS	0.02239873632788658
+trial_2	chromic chloride	286	KG00101110	Retention, Urinary	0.022061919793486595
+trial_2	chromic chloride	15	KG00097882	Angina pectoris NOS	0.021471789106726646
+trial_2	chromic chloride	262	KG00101199	agitation	0.021246008574962616
+trial_2	chromic chloride	163	KG00104050	bowel obstructions small	0.02124396711587906
+trial_2	chromic chloride	1	KG00099959	Neutropenia NOS	0.02093232050538063
+trial_2	chromic chloride	508	KG00108565	blood glucose increased	0.02091997116804123
+trial_2	chromic chloride	98	KG00097718	Incised wound, NOS	0.020523235201835632
+trial_2	chromic chloride	503	KG00102612	low haemoglobin	0.02027297206223011
+trial_2	chromic chloride	234	KG00098669	dysgeusias	0.02020072564482689
+trial_2	chromic chloride	4	KG00098817	epistaxis	0.019844574853777885
+trial_2	chromic chloride	35	KG00101507	hypomagnesaemia	0.0194796584546566
+trial_2	chromic chloride	204	KG00098849	Esophagitis, Peptic	0.019139038398861885
+trial_2	chromic chloride	25	KG00099134	congestive failures heart	0.019016755744814873
+trial_2	chromic chloride	366	KG00098275	Attack, Transient Ischemic	0.018840467557311058
+trial_2	chromic chloride	33	KG00100094	Pancreatitis NOS	0.018777228891849518
+trial_2	chromic chloride	355	KG00110857	lymphocyte count decreased	0.018647534772753716
+trial_2	chromic chloride	132	KG00101045	Gain, Weight	0.018453281372785568
+trial_2	chromic chloride	249	KG00104430	hypoalbuminaemia	0.018431100994348526
+trial_2	chromic chloride	212	KG00100576	shivers	0.018409017473459244
+trial_2	chromic chloride	97	KG00104198	LIVER ENZYME ELEVATED	0.018118882551789284
+trial_2	chromic chloride	271	KG00103813	reflex bradycardia	0.01794264279305935
+trial_2	chromic chloride	394	KG00100243	Pneumonia, Aspiration	0.01792454533278942
+trial_2	chromic chloride	221	KG00101207	peripheral oedema	0.017761345952749252
+trial_2	chromic chloride	153	KG00099579	lethargy	0.017713351175189018
+trial_2	chromic chloride	100	KG00097815	alopecias	0.01758681610226631
+trial_2	chromic chloride	82	KG00097697	abdomen distended	0.01750241406261921
+trial_2	chromic chloride	618	KG00099164	haematoma	0.017383238300681114
+trial_2	chromic chloride	118	KG00099011	Gastritis NOS	0.017244458198547363

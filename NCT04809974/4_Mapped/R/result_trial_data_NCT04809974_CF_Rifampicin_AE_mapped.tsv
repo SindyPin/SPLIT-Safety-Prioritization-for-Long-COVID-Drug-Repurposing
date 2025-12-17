@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.16217045485973358
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.14296777546405792
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1260714828968048
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11907333880662918
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10755949467420578
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10156557708978653
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08832055330276489
+trial_1	placebo	21	KG00098675	dyspnoea	0.08663435280323029
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08549045771360397
+trial_1	placebo	46	KG00099121	Headache NOS	0.08163666725158691
+trial_1	placebo	20	KG00098540	dehydration	0.0753314346075058
+trial_1	placebo	228	KG00114657	Weight below normal	0.07353677600622177
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07081776857376099
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06916920095682144
+trial_1	placebo	68	KG00099901	nauseas	0.0651361271739006
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0629831999540329
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06136922910809517
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.055927835404872894
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05561751499772072
+trial_1	placebo	350	KG00106765	decreased platelet count	0.054710883647203445
+trial_1	placebo	29	KG00099354	hyponatraemia	0.054062068462371826
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0526137575507164
+trial_1	placebo	114	KG00098933	fevers	0.052554015070199966
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0520758256316185
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.051996078342199326
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05185550078749657
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05183632671833038
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05068523809313774
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05063469707965851
+trial_1	placebo	85	KG00098474	coughs	0.05010909587144852
+trial_1	placebo	126	KG00100076	Pain NOS	0.048832569271326065
+trial_1	placebo	136	KG00101582	Dry;skin	0.04647715017199516
+trial_1	placebo	72	KG00103771	myalgias	0.043599970638751984
+trial_1	placebo	147	KG00098000	atelectases	0.043461237102746964
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04327518865466118
+trial_1	placebo	77	KG00098450	Constipation NOS	0.043087948113679886
+trial_1	placebo	234	KG00098669	dysgeusias	0.03975075110793114
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03953850641846657
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03903305158019066
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.037984948605298996
+trial_1	placebo	104	KG00097963	arthralgias	0.0379718542098999
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03678594529628754
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.036445267498493195
+trial_1	placebo	269	KG00100399	pyaemia	0.036201924085617065
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03619108721613884
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03586370125412941
+trial_1	placebo	239	KG00100128	pareses	0.03565005585551262
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.035307224839925766
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03515893220901489
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0350809209048748
+trial_1	placebo	5	KG00099169	haematuria	0.03466193750500679
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0334722064435482
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03328381106257439
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.032968804240226746
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.032707929611206055
+trial_1	placebo	121	KG00099190	haemorrhage	0.03269181028008461
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03207886591553688
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.031928885728120804
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.031800538301467896
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.031592294573783875
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03138690069317818
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.031210673972964287
+trial_1	placebo	441	KG00098262	cellulitis nos	0.031111517921090126
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.030635494738817215
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029081465676426888
+trial_1	placebo	186	KG00101431	creatinine increased	0.02820940874516964
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027363643050193787
+trial_1	placebo	116	KG00098964	Pain in foot	0.027347225695848465
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027042658999562263
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026367846876382828
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02614240162074566
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.025148242712020874
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02512369304895401
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02488282509148121
+trial_1	placebo	100	KG00097815	alopecias	0.02465771697461605
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.024486225098371506
+trial_1	placebo	82	KG00097697	abdomen distended	0.023993318900465965
+trial_1	placebo	102	KG00097916	anxieties	0.02374125085771084
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.023094438016414642
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023090260103344917
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022228293120861053
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.022174464538693428
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022114258259534836
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02203506976366043
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02199084497988224
+trial_1	placebo	257	KG00100922	Erythema NOS	0.021780718117952347
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021366948261857033
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02107015624642372
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02101064659655094
+trial_1	placebo	339	KG00100334	proteinurias	0.020692769438028336
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020601626485586166
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.019754955545067787
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01945243589580059
+trial_1	placebo	164	KG00108827	ileus colon	0.019394410774111748
+trial_1	placebo	132	KG00101045	Gain, Weight	0.019293121993541718
+trial_1	placebo	212	KG00100576	shivers	0.01927468553185463
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.01894834265112877
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018879178911447525
+trial_1	placebo	4	KG00098817	epistaxis	0.018692027777433395
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.018625758588314056
+trial_2	rifampicin	87	KG00098599	diarrhoea	0.16217045485973358
+trial_2	rifampicin	64	KG00097734	Acrodermatitis, NOS	0.14296777546405792
+trial_2	rifampicin	78	KG00099326	Hypertensive diseases	0.1260714828968048
+trial_2	rifampicin	9	KG00098432	Confusion NOS	0.11907333880662918
+trial_2	rifampicin	123	KG00099351	hypokalaemia	0.10755949467420578
+trial_2	rifampicin	17	KG00097991	Asthenia NOS	0.10156557708978653
+trial_2	rifampicin	173	KG00098172	Bronchopneumonia NOS	0.08832055330276489
+trial_2	rifampicin	21	KG00098675	dyspnoea	0.08663435280323029
+trial_2	rifampicin	189	KG00101580	Alanine aminotransferase increase	0.08549045771360397
+trial_2	rifampicin	46	KG00099121	Headache NOS	0.08163666725158691
+trial_2	rifampicin	20	KG00098540	dehydration	0.0753314346075058
+trial_2	rifampicin	228	KG00114657	Weight below normal	0.07353677600622177
+trial_2	rifampicin	177	KG00099299	hyperglycaemia	0.07081776857376099
+trial_2	rifampicin	188	KG00101579	Aspartate aminotransferase increase	0.06916920095682144
+trial_2	rifampicin	68	KG00099901	nauseas	0.0651361271739006
+trial_2	rifampicin	14	KG00097852	Anemia NOS	0.0629831999540329
+trial_2	rifampicin	67	KG00098673	Dyspepsia, NOS	0.06136922910809517
+trial_2	rifampicin	49	KG00099902	nausea with vomiting	0.055927835404872894
+trial_2	rifampicin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05561751499772072
+trial_2	rifampicin	350	KG00106765	decreased platelet count	0.054710883647203445
+trial_2	rifampicin	29	KG00099354	hyponatraemia	0.054062068462371826
+trial_2	rifampicin	243	KG00100947	Micturition frequency increased	0.0526137575507164
+trial_2	rifampicin	114	KG00098933	fevers	0.052554015070199966
+trial_2	rifampicin	191	KG00104055	Biliverdin increased	0.0520758256316185
+trial_2	rifampicin	37	KG00097696	Cramps, Abdominal	0.051996078342199326
+trial_2	rifampicin	200	KG00098539	Disorders, Deglutition	0.05185550078749657
+trial_2	rifampicin	79	KG00100317	Insomnia, Primary	0.05183632671833038
+trial_2	rifampicin	151	KG00098274	Infarction, Cerebral	0.05068523809313774
+trial_2	rifampicin	2	KG00100772	thrombocytopaenia	0.05063469707965851
+trial_2	rifampicin	85	KG00098474	coughs	0.05010909587144852
+trial_2	rifampicin	126	KG00100076	Pain NOS	0.048832569271326065
+trial_2	rifampicin	136	KG00101582	Dry;skin	0.04647715017199516
+trial_2	rifampicin	72	KG00103771	myalgias	0.043599970638751984
+trial_2	rifampicin	147	KG00098000	atelectases	0.043461237102746964
+trial_2	rifampicin	86	KG00098565	Depression, Mental	0.04327518865466118
+trial_2	rifampicin	77	KG00098450	Constipation NOS	0.043087948113679886
+trial_2	rifampicin	234	KG00098669	dysgeusias	0.03975075110793114
+trial_2	rifampicin	211	KG00100341	Pruritus NOS	0.03953850641846657
+trial_2	rifampicin	61	KG00099501	Chronic Kidney Failure	0.03903305158019066
+trial_2	rifampicin	396	KG00100373	Embolism, Pulmonary	0.037984948605298996
+trial_2	rifampicin	104	KG00097963	arthralgias	0.0379718542098999
+trial_2	rifampicin	76	KG00100450	Respiratory insufficiency, NOS	0.03678594529628754
+trial_2	rifampicin	261	KG00101559	raised alkaline phosphatase	0.036445267498493195
+trial_2	rifampicin	269	KG00100399	pyaemia	0.036201924085617065
+trial_2	rifampicin	96	KG00101679	Unattended death NOS	0.03619108721613884
+trial_2	rifampicin	130	KG00100683	Stomatitis NOS	0.03586370125412941
+trial_2	rifampicin	239	KG00100128	pareses	0.03565005585551262
+trial_2	rifampicin	28	KG00099347	hypoglycaemia	0.035307224839925766
+trial_2	rifampicin	101	KG00097901	Anorexia NOS	0.03515893220901489
+trial_2	rifampicin	18	KG00098307	Pain, Chest	0.0350809209048748
+trial_2	rifampicin	5	KG00099169	haematuria	0.03466193750500679
+trial_2	rifampicin	154	KG00099686	Lymphopenias	0.0334722064435482
+trial_2	rifampicin	249	KG00104430	hypoalbuminaemia	0.03328381106257439
+trial_2	rifampicin	27	KG00099303	hyperkalaemia	0.032968804240226746
+trial_2	rifampicin	36	KG00106434	Vision, Blurring Of	0.032707929611206055
+trial_2	rifampicin	121	KG00099190	haemorrhage	0.03269181028008461
+trial_2	rifampicin	179	KG00099342	hypocalcaemia	0.03207886591553688
+trial_2	rifampicin	131	KG00100948	Urinary tract infection (& [NOS])	0.031928885728120804
+trial_2	rifampicin	142	KG00100923	Unspecified infectious and parasitic diseases	0.031800538301467896
+trial_2	rifampicin	194	KG00110727	Neutrophil Count Decreased	0.031592294573783875
+trial_2	rifampicin	180	KG00099363	Hypotension NOS	0.03138690069317818
+trial_2	rifampicin	30	KG00099500	Acute Kidney Failure	0.031210673972964287
+trial_2	rifampicin	441	KG00098262	cellulitis nos	0.031111517921090126
+trial_2	rifampicin	35	KG00101507	hypomagnesaemia	0.030635494738817215
+trial_2	rifampicin	139	KG00098855	Sinusitis, Ethmoid	0.029081465676426888
+trial_2	rifampicin	186	KG00101431	creatinine increased	0.02820940874516964
+trial_2	rifampicin	122	KG00099321	Hypersensitivity NOS	0.027363643050193787
+trial_2	rifampicin	116	KG00098964	Pain in foot	0.027347225695848465
+trial_2	rifampicin	355	KG00110857	lymphocyte count decreased	0.027042658999562263
+trial_2	rifampicin	38	KG00098066	Binocular vision disorders	0.026367846876382828
+trial_2	rifampicin	276	KG00099127	Arrest, Cardiac	0.02614240162074566
+trial_2	rifampicin	75	KG00100195	Dolens, Phlegmasia Alba	0.025148242712020874
+trial_2	rifampicin	1	KG00099959	Neutropenia NOS	0.02512369304895401
+trial_2	rifampicin	282	KG00099309	hypernatraemia	0.02488282509148121
+trial_2	rifampicin	100	KG00097815	alopecias	0.02465771697461605
+trial_2	rifampicin	356	KG00112623	Infectious Lung Disorders	0.024486225098371506
+trial_2	rifampicin	82	KG00097697	abdomen distended	0.023993318900465965
+trial_2	rifampicin	102	KG00097916	anxieties	0.02374125085771084
+trial_2	rifampicin	246	KG00103338	Aspartate Aminotransferase Measurement	0.023094438016414642
+trial_2	rifampicin	69	KG00100082	Palpitations NOS	0.023090260103344917
+trial_2	rifampicin	253	KG00100232	Pleural effusion NOS (disorder)	0.022228293120861053
+trial_2	rifampicin	297	KG00099294	hypercholesterolaemia	0.022174464538693428
+trial_2	rifampicin	288	KG00101223	hypophosphataemia	0.022114258259534836
+trial_2	rifampicin	341	KG00101472	Gamma-glutamyltransferase increased	0.02203506976366043
+trial_2	rifampicin	31	KG00099872	Infarction, Myocardial	0.02199084497988224
+trial_2	rifampicin	257	KG00100922	Erythema NOS	0.021780718117952347
+trial_2	rifampicin	286	KG00101110	Retention, Urinary	0.021366948261857033
+trial_2	rifampicin	221	KG00101207	peripheral oedema	0.02107015624642372
+trial_2	rifampicin	422	KG00101429	Creatine phosphokinase increased	0.02101064659655094
+trial_2	rifampicin	339	KG00100334	proteinurias	0.020692769438028336
+trial_2	rifampicin	508	KG00108565	blood glucose increased	0.020601626485586166
+trial_2	rifampicin	218	KG00100801	Tinnitus NOS	0.019754955545067787
+trial_2	rifampicin	144	KG00099610	Leukopenia NOS	0.01945243589580059
+trial_2	rifampicin	164	KG00108827	ileus colon	0.019394410774111748
+trial_2	rifampicin	132	KG00101045	Gain, Weight	0.019293121993541718
+trial_2	rifampicin	212	KG00100576	shivers	0.01927468553185463
+trial_2	rifampicin	213	KG00100600	Infectious Skin Diseases	0.01894834265112877
+trial_2	rifampicin	204	KG00098849	Esophagitis, Peptic	0.018879178911447525
+trial_2	rifampicin	4	KG00098817	epistaxis	0.018692027777433395
+trial_2	rifampicin	133	KG00101370	neuropathies sensory	0.018625758588314056

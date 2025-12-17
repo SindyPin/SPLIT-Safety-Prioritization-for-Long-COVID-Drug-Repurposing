@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.21078048646450043
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1578644961118698
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13338330388069153
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10122896730899811
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09710747003555298
+trial_1	placebo	68	KG00099901	nauseas	0.09347876906394958
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09322153031826019
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09201718121767044
+trial_1	placebo	46	KG00099121	Headache NOS	0.08780483901500702
+trial_1	placebo	20	KG00098540	dehydration	0.07807239890098572
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0764378234744072
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07327012717723846
+trial_1	placebo	21	KG00098675	dyspnoea	0.07292966544628143
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06918846070766449
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06843360513448715
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0655287653207779
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0648152157664299
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05996228754520416
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05901051312685013
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.055587202310562134
+trial_1	placebo	228	KG00114657	Weight below normal	0.05443231761455536
+trial_1	placebo	126	KG00100076	Pain NOS	0.051784370094537735
+trial_1	placebo	300	KG00101064	xerostomia	0.05102342739701271
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.049472156912088394
+trial_1	placebo	85	KG00098474	coughs	0.04798807203769684
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04690614715218544
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04381847754120827
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04327936843037605
+trial_1	placebo	72	KG00103771	myalgias	0.043040767312049866
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04195798933506012
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04181608557701111
+trial_1	placebo	239	KG00100128	pareses	0.041161976754665375
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04083289951086044
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04021676257252693
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.038991112262010574
+trial_1	placebo	114	KG00098933	fevers	0.038430504500865936
+trial_1	placebo	5	KG00099169	haematuria	0.03752308338880539
+trial_1	placebo	104	KG00097963	arthralgias	0.0374622717499733
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03732014447450638
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03720042482018471
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03710551932454109
+trial_1	placebo	82	KG00097697	abdomen distended	0.03647879511117935
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03625870123505592
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03618932515382767
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03387925773859024
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03300522640347481
+trial_1	placebo	132	KG00101045	Gain, Weight	0.032821301370859146
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03250834718346596
+trial_1	placebo	102	KG00097916	anxieties	0.03245491534471512
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0306539423763752
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03036382980644703
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.029888691380620003
+trial_1	placebo	234	KG00098669	dysgeusias	0.029759405180811882
+trial_1	placebo	116	KG00098964	Pain in foot	0.028672412037849426
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02796182967722416
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.027949385344982147
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02791663259267807
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.027857935056090355
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027814170345664024
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027711180970072746
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027248499915003777
+trial_1	placebo	147	KG00098000	atelectases	0.02720259316265583
+trial_1	placebo	121	KG00099190	haemorrhage	0.02715188078582287
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026883654296398163
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02672060765326023
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.026665279641747475
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.026529638096690178
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0265203844755888
+trial_1	placebo	242	KG00100855	tremors	0.026318762451410294
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.025462089106440544
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025354521349072456
+trial_1	placebo	66	KG00098642	drowsiness	0.02521432936191559
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02508729323744774
+trial_1	placebo	164	KG00108827	ileus colon	0.02485746145248413
+trial_1	placebo	186	KG00101431	creatinine increased	0.024135183542966843
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023480860516428947
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.02342495135962963
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022994039580225945
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022947875782847404
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022879086434841156
+trial_1	placebo	136	KG00101582	Dry;skin	0.022620074450969696
+trial_1	placebo	4	KG00098817	epistaxis	0.02247806079685688
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02233942411839962
+trial_1	placebo	466	KG00101205	fall	0.022256894037127495
+trial_1	placebo	262	KG00101199	agitation	0.021837228909134865
+trial_1	placebo	269	KG00100399	pyaemia	0.02163124643266201
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02147437445819378
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.021315887570381165
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.02119051292538643
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021172115579247475
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02103978581726551
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.020996954292058945
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02070208452641964
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02060611918568611
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01999841257929802
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.0198752973228693
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019651245325803757
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.019524427130818367
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.019249169155955315
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019211648032069206
+trial_2	ranolazine	87	KG00098599	diarrhoea	0.21078048646450043
+trial_2	ranolazine	9	KG00098432	Confusion NOS	0.1578644961118698
+trial_2	ranolazine	17	KG00097991	Asthenia NOS	0.13338330388069153
+trial_2	ranolazine	77	KG00098450	Constipation NOS	0.10122896730899811
+trial_2	ranolazine	123	KG00099351	hypokalaemia	0.09710747003555298
+trial_2	ranolazine	68	KG00099901	nauseas	0.09347876906394958
+trial_2	ranolazine	67	KG00098673	Dyspepsia, NOS	0.09322153031826019
+trial_2	ranolazine	78	KG00099326	Hypertensive diseases	0.09201718121767044
+trial_2	ranolazine	46	KG00099121	Headache NOS	0.08780483901500702
+trial_2	ranolazine	20	KG00098540	dehydration	0.07807239890098572
+trial_2	ranolazine	173	KG00098172	Bronchopneumonia NOS	0.0764378234744072
+trial_2	ranolazine	177	KG00099299	hyperglycaemia	0.07327012717723846
+trial_2	ranolazine	21	KG00098675	dyspnoea	0.07292966544628143
+trial_2	ranolazine	37	KG00097696	Cramps, Abdominal	0.06918846070766449
+trial_2	ranolazine	189	KG00101580	Alanine aminotransferase increase	0.06843360513448715
+trial_2	ranolazine	49	KG00099902	nausea with vomiting	0.0655287653207779
+trial_2	ranolazine	188	KG00101579	Aspartate aminotransferase increase	0.0648152157664299
+trial_2	ranolazine	79	KG00100317	Insomnia, Primary	0.05996228754520416
+trial_2	ranolazine	64	KG00097734	Acrodermatitis, NOS	0.05901051312685013
+trial_2	ranolazine	243	KG00100947	Micturition frequency increased	0.055587202310562134
+trial_2	ranolazine	228	KG00114657	Weight below normal	0.05443231761455536
+trial_2	ranolazine	126	KG00100076	Pain NOS	0.051784370094537735
+trial_2	ranolazine	300	KG00101064	xerostomia	0.05102342739701271
+trial_2	ranolazine	101	KG00097901	Anorexia NOS	0.049472156912088394
+trial_2	ranolazine	85	KG00098474	coughs	0.04798807203769684
+trial_2	ranolazine	200	KG00098539	Disorders, Deglutition	0.04690614715218544
+trial_2	ranolazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04381847754120827
+trial_2	ranolazine	350	KG00106765	decreased platelet count	0.04327936843037605
+trial_2	ranolazine	72	KG00103771	myalgias	0.043040767312049866
+trial_2	ranolazine	14	KG00097852	Anemia NOS	0.04195798933506012
+trial_2	ranolazine	29	KG00099354	hyponatraemia	0.04181608557701111
+trial_2	ranolazine	239	KG00100128	pareses	0.041161976754665375
+trial_2	ranolazine	18	KG00098307	Pain, Chest	0.04083289951086044
+trial_2	ranolazine	180	KG00099363	Hypotension NOS	0.04021676257252693
+trial_2	ranolazine	96	KG00101679	Unattended death NOS	0.038991112262010574
+trial_2	ranolazine	114	KG00098933	fevers	0.038430504500865936
+trial_2	ranolazine	5	KG00099169	haematuria	0.03752308338880539
+trial_2	ranolazine	104	KG00097963	arthralgias	0.0374622717499733
+trial_2	ranolazine	191	KG00104055	Biliverdin increased	0.03732014447450638
+trial_2	ranolazine	151	KG00098274	Infarction, Cerebral	0.03720042482018471
+trial_2	ranolazine	76	KG00100450	Respiratory insufficiency, NOS	0.03710551932454109
+trial_2	ranolazine	82	KG00097697	abdomen distended	0.03647879511117935
+trial_2	ranolazine	36	KG00106434	Vision, Blurring Of	0.03625870123505592
+trial_2	ranolazine	86	KG00098565	Depression, Mental	0.03618932515382767
+trial_2	ranolazine	69	KG00100082	Palpitations NOS	0.03387925773859024
+trial_2	ranolazine	422	KG00101429	Creatine phosphokinase increased	0.03300522640347481
+trial_2	ranolazine	132	KG00101045	Gain, Weight	0.032821301370859146
+trial_2	ranolazine	35	KG00101507	hypomagnesaemia	0.03250834718346596
+trial_2	ranolazine	102	KG00097916	anxieties	0.03245491534471512
+trial_2	ranolazine	261	KG00101559	raised alkaline phosphatase	0.0306539423763752
+trial_2	ranolazine	30	KG00099500	Acute Kidney Failure	0.03036382980644703
+trial_2	ranolazine	2	KG00100772	thrombocytopaenia	0.029888691380620003
+trial_2	ranolazine	234	KG00098669	dysgeusias	0.029759405180811882
+trial_2	ranolazine	116	KG00098964	Pain in foot	0.028672412037849426
+trial_2	ranolazine	204	KG00098849	Esophagitis, Peptic	0.02796182967722416
+trial_2	ranolazine	28	KG00099347	hypoglycaemia	0.027949385344982147
+trial_2	ranolazine	61	KG00099501	Chronic Kidney Failure	0.02791663259267807
+trial_2	ranolazine	179	KG00099342	hypocalcaemia	0.027857935056090355
+trial_2	ranolazine	27	KG00099303	hyperkalaemia	0.027814170345664024
+trial_2	ranolazine	131	KG00100948	Urinary tract infection (& [NOS])	0.027711180970072746
+trial_2	ranolazine	122	KG00099321	Hypersensitivity NOS	0.027248499915003777
+trial_2	ranolazine	147	KG00098000	atelectases	0.02720259316265583
+trial_2	ranolazine	121	KG00099190	haemorrhage	0.02715188078582287
+trial_2	ranolazine	286	KG00101110	Retention, Urinary	0.026883654296398163
+trial_2	ranolazine	396	KG00100373	Embolism, Pulmonary	0.02672060765326023
+trial_2	ranolazine	249	KG00104430	hypoalbuminaemia	0.026665279641747475
+trial_2	ranolazine	22	KG00098705	Edema (NOS)	0.026529638096690178
+trial_2	ranolazine	130	KG00100683	Stomatitis NOS	0.0265203844755888
+trial_2	ranolazine	242	KG00100855	tremors	0.026318762451410294
+trial_2	ranolazine	256	KG00100738	Tachycardia, Sinus	0.025462089106440544
+trial_2	ranolazine	38	KG00098066	Binocular vision disorders	0.025354521349072456
+trial_2	ranolazine	66	KG00098642	drowsiness	0.02521432936191559
+trial_2	ranolazine	221	KG00101207	peripheral oedema	0.02508729323744774
+trial_2	ranolazine	164	KG00108827	ileus colon	0.02485746145248413
+trial_2	ranolazine	186	KG00101431	creatinine increased	0.024135183542966843
+trial_2	ranolazine	355	KG00110857	lymphocyte count decreased	0.023480860516428947
+trial_2	ranolazine	94	KG00103829	abdominal discomfort	0.02342495135962963
+trial_2	ranolazine	194	KG00110727	Neutrophil Count Decreased	0.022994039580225945
+trial_2	ranolazine	276	KG00099127	Arrest, Cardiac	0.022947875782847404
+trial_2	ranolazine	211	KG00100341	Pruritus NOS	0.022879086434841156
+trial_2	ranolazine	136	KG00101582	Dry;skin	0.022620074450969696
+trial_2	ranolazine	4	KG00098817	epistaxis	0.02247806079685688
+trial_2	ranolazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02233942411839962
+trial_2	ranolazine	466	KG00101205	fall	0.022256894037127495
+trial_2	ranolazine	262	KG00101199	agitation	0.021837228909134865
+trial_2	ranolazine	269	KG00100399	pyaemia	0.02163124643266201
+trial_2	ranolazine	508	KG00108565	blood glucose increased	0.02147437445819378
+trial_2	ranolazine	218	KG00100801	Tinnitus NOS	0.021315887570381165
+trial_2	ranolazine	89	KG00099301	Hyperhidrosis (disorder)	0.02119051292538643
+trial_2	ranolazine	356	KG00112623	Infectious Lung Disorders	0.021172115579247475
+trial_2	ranolazine	139	KG00098855	Sinusitis, Ethmoid	0.02103978581726551
+trial_2	ranolazine	235	KG00098682	Dysuria NOS	0.020996954292058945
+trial_2	ranolazine	441	KG00098262	cellulitis nos	0.02070208452641964
+trial_2	ranolazine	371	KG00098517	Cystitis (NOS)	0.02060611918568611
+trial_2	ranolazine	133	KG00101370	neuropathies sensory	0.01999841257929802
+trial_2	ranolazine	341	KG00101472	Gamma-glutamyltransferase increased	0.0198752973228693
+trial_2	ranolazine	253	KG00100232	Pleural effusion NOS (disorder)	0.019651245325803757
+trial_2	ranolazine	152	KG00099402	INCONTINENCE NOS	0.019524427130818367
+trial_2	ranolazine	118	KG00099011	Gastritis NOS	0.019249169155955315
+trial_2	ranolazine	15	KG00097882	Angina pectoris NOS	0.019211648032069206

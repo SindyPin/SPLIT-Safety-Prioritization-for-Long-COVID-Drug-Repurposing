@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1508815586566925
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14241954684257507
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1279577612876892
+trial_1	placebo	21	KG00098675	dyspnoea	0.123996302485466
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12127630412578583
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10920725017786026
+trial_1	placebo	46	KG00099121	Headache NOS	0.10845663398504257
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.10650694370269775
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09053291380405426
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0904126688838005
+trial_1	placebo	104	KG00097963	arthralgias	0.08210750669240952
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08120135217905045
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07735123485326767
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07346685230731964
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0730920359492302
+trial_1	placebo	20	KG00098540	dehydration	0.0706389844417572
+trial_1	placebo	85	KG00098474	coughs	0.0692298412322998
+trial_1	placebo	5	KG00099169	haematuria	0.06241879612207413
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06112019717693329
+trial_1	placebo	121	KG00099190	haemorrhage	0.05901750177145004
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05894634500145912
+trial_1	placebo	14	KG00097852	Anemia NOS	0.058488573879003525
+trial_1	placebo	114	KG00098933	fevers	0.0578596256673336
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05765816941857338
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05645469203591347
+trial_1	placebo	350	KG00106765	decreased platelet count	0.055597443133592606
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05488676205277443
+trial_1	placebo	72	KG00103771	myalgias	0.054740581661462784
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05395088344812393
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05389808490872383
+trial_1	placebo	68	KG00099901	nauseas	0.052219752222299576
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05175969749689102
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05095319077372551
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.050560444593429565
+trial_1	placebo	116	KG00098964	Pain in foot	0.05002946779131889
+trial_1	placebo	126	KG00100076	Pain NOS	0.0495002381503582
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04908037185668945
+trial_1	placebo	147	KG00098000	atelectases	0.04791918024420738
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.047894712537527084
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04686402529478073
+trial_1	placebo	4	KG00098817	epistaxis	0.04629175364971161
+trial_1	placebo	228	KG00114657	Weight below normal	0.045825108885765076
+trial_1	placebo	239	KG00100128	pareses	0.04506179317831993
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.044702328741550446
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.044379450380802155
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.044337254017591476
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04361080005764961
+trial_1	placebo	86	KG00098565	Depression, Mental	0.043445885181427
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04124809801578522
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03947819769382477
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.03930967301130295
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.038978319615125656
+trial_1	placebo	441	KG00098262	cellulitis nos	0.038035713136196136
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.038014765828847885
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.037521395832300186
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.0362536795437336
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03492465615272522
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03448686748743057
+trial_1	placebo	269	KG00100399	pyaemia	0.0341695211827755
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.033633895218372345
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032261382788419724
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.032100122421979904
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.031547900289297104
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03032461740076542
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030292920768260956
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.030080247670412064
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02985249273478985
+trial_1	placebo	466	KG00101205	fall	0.029822424054145813
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.029643503949046135
+trial_1	placebo	136	KG00101582	Dry;skin	0.02925494872033596
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.02912718802690506
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0288347527384758
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02879849448800087
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028793133795261383
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02855304628610611
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.028552940115332603
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.028357256203889847
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.027999311685562134
+trial_1	placebo	82	KG00097697	abdomen distended	0.027919631451368332
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02781072072684765
+trial_1	placebo	132	KG00101045	Gain, Weight	0.027779975906014442
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.027496103197336197
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02748202532529831
+trial_1	placebo	503	KG00102612	low haemoglobin	0.02735970728099346
+trial_1	placebo	618	KG00099164	haematoma	0.027301855385303497
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.027212413027882576
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.02678350917994976
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026213688775897026
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.025855116546154022
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02561706118285656
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.024516165256500244
+trial_1	placebo	339	KG00100334	proteinurias	0.02421167865395546
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02410157024860382
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0240375567227602
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023778147995471954
+trial_1	placebo	456	KG00099420	Influenzae	0.023735592141747475
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023470493033528328
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023081904277205467
+trial_1	placebo	292	KG00105137	Haemorrhage - rectal	0.023068655282258987
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022717319428920746
+trial_2	rivaroxaban	87	KG00098599	diarrhoea	0.1508815586566925
+trial_2	rivaroxaban	78	KG00099326	Hypertensive diseases	0.14241954684257507
+trial_2	rivaroxaban	123	KG00099351	hypokalaemia	0.1279577612876892
+trial_2	rivaroxaban	21	KG00098675	dyspnoea	0.123996302485466
+trial_2	rivaroxaban	173	KG00098172	Bronchopneumonia NOS	0.12127630412578583
+trial_2	rivaroxaban	9	KG00098432	Confusion NOS	0.10920725017786026
+trial_2	rivaroxaban	46	KG00099121	Headache NOS	0.10845663398504257
+trial_2	rivaroxaban	64	KG00097734	Acrodermatitis, NOS	0.10650694370269775
+trial_2	rivaroxaban	177	KG00099299	hyperglycaemia	0.09053291380405426
+trial_2	rivaroxaban	17	KG00097991	Asthenia NOS	0.0904126688838005
+trial_2	rivaroxaban	104	KG00097963	arthralgias	0.08210750669240952
+trial_2	rivaroxaban	189	KG00101580	Alanine aminotransferase increase	0.08120135217905045
+trial_2	rivaroxaban	67	KG00098673	Dyspepsia, NOS	0.07735123485326767
+trial_2	rivaroxaban	37	KG00097696	Cramps, Abdominal	0.07346685230731964
+trial_2	rivaroxaban	188	KG00101579	Aspartate aminotransferase increase	0.0730920359492302
+trial_2	rivaroxaban	20	KG00098540	dehydration	0.0706389844417572
+trial_2	rivaroxaban	85	KG00098474	coughs	0.0692298412322998
+trial_2	rivaroxaban	5	KG00099169	haematuria	0.06241879612207413
+trial_2	rivaroxaban	243	KG00100947	Micturition frequency increased	0.06112019717693329
+trial_2	rivaroxaban	121	KG00099190	haemorrhage	0.05901750177145004
+trial_2	rivaroxaban	79	KG00100317	Insomnia, Primary	0.05894634500145912
+trial_2	rivaroxaban	14	KG00097852	Anemia NOS	0.058488573879003525
+trial_2	rivaroxaban	114	KG00098933	fevers	0.0578596256673336
+trial_2	rivaroxaban	77	KG00098450	Constipation NOS	0.05765816941857338
+trial_2	rivaroxaban	18	KG00098307	Pain, Chest	0.05645469203591347
+trial_2	rivaroxaban	350	KG00106765	decreased platelet count	0.055597443133592606
+trial_2	rivaroxaban	29	KG00099354	hyponatraemia	0.05488676205277443
+trial_2	rivaroxaban	72	KG00103771	myalgias	0.054740581661462784
+trial_2	rivaroxaban	76	KG00100450	Respiratory insufficiency, NOS	0.05395088344812393
+trial_2	rivaroxaban	151	KG00098274	Infarction, Cerebral	0.05389808490872383
+trial_2	rivaroxaban	68	KG00099901	nauseas	0.052219752222299576
+trial_2	rivaroxaban	180	KG00099363	Hypotension NOS	0.05175969749689102
+trial_2	rivaroxaban	200	KG00098539	Disorders, Deglutition	0.05095319077372551
+trial_2	rivaroxaban	49	KG00099902	nausea with vomiting	0.050560444593429565
+trial_2	rivaroxaban	116	KG00098964	Pain in foot	0.05002946779131889
+trial_2	rivaroxaban	126	KG00100076	Pain NOS	0.0495002381503582
+trial_2	rivaroxaban	96	KG00101679	Unattended death NOS	0.04908037185668945
+trial_2	rivaroxaban	147	KG00098000	atelectases	0.04791918024420738
+trial_2	rivaroxaban	396	KG00100373	Embolism, Pulmonary	0.047894712537527084
+trial_2	rivaroxaban	2	KG00100772	thrombocytopaenia	0.04686402529478073
+trial_2	rivaroxaban	4	KG00098817	epistaxis	0.04629175364971161
+trial_2	rivaroxaban	228	KG00114657	Weight below normal	0.045825108885765076
+trial_2	rivaroxaban	239	KG00100128	pareses	0.04506179317831993
+trial_2	rivaroxaban	139	KG00098855	Sinusitis, Ethmoid	0.044702328741550446
+trial_2	rivaroxaban	69	KG00100082	Palpitations NOS	0.044379450380802155
+trial_2	rivaroxaban	30	KG00099500	Acute Kidney Failure	0.044337254017591476
+trial_2	rivaroxaban	28	KG00099347	hypoglycaemia	0.04361080005764961
+trial_2	rivaroxaban	86	KG00098565	Depression, Mental	0.043445885181427
+trial_2	rivaroxaban	179	KG00099342	hypocalcaemia	0.04124809801578522
+trial_2	rivaroxaban	27	KG00099303	hyperkalaemia	0.03947819769382477
+trial_2	rivaroxaban	98	KG00097718	Incised wound, NOS	0.03930967301130295
+trial_2	rivaroxaban	276	KG00099127	Arrest, Cardiac	0.038978319615125656
+trial_2	rivaroxaban	441	KG00098262	cellulitis nos	0.038035713136196136
+trial_2	rivaroxaban	61	KG00099501	Chronic Kidney Failure	0.038014765828847885
+trial_2	rivaroxaban	122	KG00099321	Hypersensitivity NOS	0.037521395832300186
+trial_2	rivaroxaban	15	KG00097882	Angina pectoris NOS	0.0362536795437336
+trial_2	rivaroxaban	361	KG00098004	Fibrillation, Atrial	0.03492465615272522
+trial_2	rivaroxaban	38	KG00098066	Binocular vision disorders	0.03448686748743057
+trial_2	rivaroxaban	269	KG00100399	pyaemia	0.0341695211827755
+trial_2	rivaroxaban	131	KG00100948	Urinary tract infection (& [NOS])	0.033633895218372345
+trial_2	rivaroxaban	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032261382788419724
+trial_2	rivaroxaban	286	KG00101110	Retention, Urinary	0.032100122421979904
+trial_2	rivaroxaban	249	KG00104430	hypoalbuminaemia	0.031547900289297104
+trial_2	rivaroxaban	142	KG00100923	Unspecified infectious and parasitic diseases	0.03032461740076542
+trial_2	rivaroxaban	191	KG00104055	Biliverdin increased	0.030292920768260956
+trial_2	rivaroxaban	138	KG00098796	epidemic vomiting syndrome	0.030080247670412064
+trial_2	rivaroxaban	282	KG00099309	hypernatraemia	0.02985249273478985
+trial_2	rivaroxaban	466	KG00101205	fall	0.029822424054145813
+trial_2	rivaroxaban	253	KG00100232	Pleural effusion NOS (disorder)	0.029643503949046135
+trial_2	rivaroxaban	136	KG00101582	Dry;skin	0.02925494872033596
+trial_2	rivaroxaban	271	KG00103813	reflex bradycardia	0.02912718802690506
+trial_2	rivaroxaban	11	KG00097993	Asthma NOS	0.0288347527384758
+trial_2	rivaroxaban	204	KG00098849	Esophagitis, Peptic	0.02879849448800087
+trial_2	rivaroxaban	36	KG00106434	Vision, Blurring Of	0.028793133795261383
+trial_2	rivaroxaban	257	KG00100922	Erythema NOS	0.02855304628610611
+trial_2	rivaroxaban	195	KG00097814	Atopic Rhinitis	0.028552940115332603
+trial_2	rivaroxaban	199	KG00098371	Rhinitis (chronic) NOS	0.028357256203889847
+trial_2	rivaroxaban	31	KG00099872	Infarction, Myocardial	0.027999311685562134
+trial_2	rivaroxaban	82	KG00097697	abdomen distended	0.027919631451368332
+trial_2	rivaroxaban	101	KG00097901	Anorexia NOS	0.02781072072684765
+trial_2	rivaroxaban	132	KG00101045	Gain, Weight	0.027779975906014442
+trial_2	rivaroxaban	268	KG00099557	Heart Failure, Left-Sided	0.027496103197336197
+trial_2	rivaroxaban	35	KG00101507	hypomagnesaemia	0.02748202532529831
+trial_2	rivaroxaban	503	KG00102612	low haemoglobin	0.02735970728099346
+trial_2	rivaroxaban	618	KG00099164	haematoma	0.027301855385303497
+trial_2	rivaroxaban	356	KG00112623	Infectious Lung Disorders	0.027212413027882576
+trial_2	rivaroxaban	263	KG00101519	Ischemia, Myocardial	0.02678350917994976
+trial_2	rivaroxaban	211	KG00100341	Pruritus NOS	0.026213688775897026
+trial_2	rivaroxaban	118	KG00099011	Gastritis NOS	0.025855116546154022
+trial_2	rivaroxaban	75	KG00100195	Dolens, Phlegmasia Alba	0.02561706118285656
+trial_2	rivaroxaban	254	KG00100774	Thrombosis NOS	0.024516165256500244
+trial_2	rivaroxaban	339	KG00100334	proteinurias	0.02421167865395546
+trial_2	rivaroxaban	454	KG00098286	Pain, Neck	0.02410157024860382
+trial_2	rivaroxaban	130	KG00100683	Stomatitis NOS	0.0240375567227602
+trial_2	rivaroxaban	92	KG00100926	Infections, Upper Respiratory	0.023778147995471954
+trial_2	rivaroxaban	456	KG00099420	Influenzae	0.023735592141747475
+trial_2	rivaroxaban	261	KG00101559	raised alkaline phosphatase	0.023470493033528328
+trial_2	rivaroxaban	194	KG00110727	Neutrophil Count Decreased	0.023081904277205467
+trial_2	rivaroxaban	292	KG00105137	Haemorrhage - rectal	0.023068655282258987
+trial_2	rivaroxaban	33	KG00100094	Pancreatitis NOS	0.022717319428920746

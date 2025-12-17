@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	46	KG00099121	Headache NOS	0.12763623893260956
+trial_1	placebo	68	KG00099901	nauseas	0.11310840398073196
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10163121670484543
+trial_1	placebo	87	KG00098599	diarrhoea	0.0811137929558754
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07917343825101852
+trial_1	placebo	21	KG00098675	dyspnoea	0.07858522236347198
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07774127274751663
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.060030676424503326
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05735810846090317
+trial_1	placebo	20	KG00098540	dehydration	0.05688314884901047
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.055743273347616196
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05534780025482178
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05236029252409935
+trial_1	placebo	126	KG00100076	Pain NOS	0.048852160573005676
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04861250892281532
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04723118990659714
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0467950738966465
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.046626072376966476
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04475894942879677
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.04093087464570999
+trial_1	placebo	114	KG00098933	fevers	0.04056449607014656
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.040025532245635986
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03873917832970619
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03410186991095543
+trial_1	placebo	72	KG00103771	myalgias	0.0328671894967556
+trial_1	placebo	82	KG00097697	abdomen distended	0.0323970653116703
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03216040879487991
+trial_1	placebo	85	KG00098474	coughs	0.0317101776599884
+trial_1	placebo	104	KG00097963	arthralgias	0.030678438022732735
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.029613303020596504
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.02960268408060074
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.028462477028369904
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.028120970353484154
+trial_1	placebo	147	KG00098000	atelectases	0.027989840134978294
+trial_1	placebo	116	KG00098964	Pain in foot	0.027870189398527145
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02718646079301834
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.026921970769762993
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.025626622140407562
+trial_1	placebo	121	KG00099190	haemorrhage	0.02445494942367077
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02435210719704628
+trial_1	placebo	5	KG00099169	haematuria	0.024222156032919884
+trial_1	placebo	102	KG00097916	anxieties	0.02395276352763176
+trial_1	placebo	350	KG00106765	decreased platelet count	0.023837370797991753
+trial_1	placebo	228	KG00114657	Weight below normal	0.023299671709537506
+trial_1	placebo	205	KG00098955	Flushed	0.022994890809059143
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022643590345978737
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.0225626640021801
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022260988131165504
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021889682859182358
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021060973405838013
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.020979342982172966
+trial_1	placebo	29	KG00099354	hyponatraemia	0.020546266809105873
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.020368443801999092
+trial_1	placebo	239	KG00100128	pareses	0.020266355946660042
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020051181316375732
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.019587039947509766
+trial_1	placebo	164	KG00108827	ileus colon	0.019452596083283424
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0193532295525074
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018781043589115143
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.01846579648554325
+trial_1	placebo	212	KG00100576	shivers	0.018310805782675743
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.018170099705457687
+trial_1	placebo	4	KG00098817	epistaxis	0.018148181959986687
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018148139119148254
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.018088215962052345
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017944810912013054
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017887691035866737
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01781586743891239
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01763249933719635
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.017201585695147514
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.017196644097566605
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.01675656996667385
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01668245904147625
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.016551027074456215
+trial_1	placebo	269	KG00100399	pyaemia	0.016155313700437546
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.016017690300941467
+trial_1	placebo	454	KG00098286	Pain, Neck	0.015977095812559128
+trial_1	placebo	282	KG00099309	hypernatraemia	0.015879781916737556
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.01572955586016178
+trial_1	placebo	208	KG00099896	Nasal congestion (finding)	0.015705905854701996
+trial_1	placebo	153	KG00099579	lethargy	0.015688370913267136
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.01566336862742901
+trial_1	placebo	234	KG00098669	dysgeusias	0.01550768781453371
+trial_1	placebo	221	KG00101207	peripheral oedema	0.015107461251318455
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.014990733005106449
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.014953757636249065
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014559989795088768
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014455907046794891
+trial_1	placebo	466	KG00101205	fall	0.014433207921683788
+trial_1	placebo	25	KG00099134	congestive failures heart	0.014054816216230392
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01361144706606865
+trial_1	placebo	86	KG00098565	Depression, Mental	0.013545497320592403
+trial_1	placebo	508	KG00108565	blood glucose increased	0.013416080735623837
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.013380549848079681
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.013235233724117279
+trial_1	placebo	618	KG00099164	haematoma	0.013064947910606861
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.012892019003629684
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.012870155274868011
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012601207010447979
+trial_1	placebo	186	KG00101431	creatinine increased	0.012590965256094933
+trial_2	regadenoson	46	KG00099121	Headache NOS	0.12763623893260956
+trial_2	regadenoson	68	KG00099901	nauseas	0.11310840398073196
+trial_2	regadenoson	49	KG00099902	nausea with vomiting	0.10163121670484543
+trial_2	regadenoson	87	KG00098599	diarrhoea	0.0811137929558754
+trial_2	regadenoson	9	KG00098432	Confusion NOS	0.07917343825101852
+trial_2	regadenoson	21	KG00098675	dyspnoea	0.07858522236347198
+trial_2	regadenoson	123	KG00099351	hypokalaemia	0.07774127274751663
+trial_2	regadenoson	37	KG00097696	Cramps, Abdominal	0.060030676424503326
+trial_2	regadenoson	77	KG00098450	Constipation NOS	0.05735810846090317
+trial_2	regadenoson	20	KG00098540	dehydration	0.05688314884901047
+trial_2	regadenoson	67	KG00098673	Dyspepsia, NOS	0.055743273347616196
+trial_2	regadenoson	17	KG00097991	Asthenia NOS	0.05534780025482178
+trial_2	regadenoson	173	KG00098172	Bronchopneumonia NOS	0.05236029252409935
+trial_2	regadenoson	126	KG00100076	Pain NOS	0.048852160573005676
+trial_2	regadenoson	18	KG00098307	Pain, Chest	0.04861250892281532
+trial_2	regadenoson	79	KG00100317	Insomnia, Primary	0.04723118990659714
+trial_2	regadenoson	101	KG00097901	Anorexia NOS	0.0467950738966465
+trial_2	regadenoson	177	KG00099299	hyperglycaemia	0.046626072376966476
+trial_2	regadenoson	14	KG00097852	Anemia NOS	0.04475894942879677
+trial_2	regadenoson	78	KG00099326	Hypertensive diseases	0.04093087464570999
+trial_2	regadenoson	114	KG00098933	fevers	0.04056449607014656
+trial_2	regadenoson	180	KG00099363	Hypotension NOS	0.040025532245635986
+trial_2	regadenoson	69	KG00100082	Palpitations NOS	0.03873917832970619
+trial_2	regadenoson	189	KG00101580	Alanine aminotransferase increase	0.03410186991095543
+trial_2	regadenoson	72	KG00103771	myalgias	0.0328671894967556
+trial_2	regadenoson	82	KG00097697	abdomen distended	0.0323970653116703
+trial_2	regadenoson	188	KG00101579	Aspartate aminotransferase increase	0.03216040879487991
+trial_2	regadenoson	85	KG00098474	coughs	0.0317101776599884
+trial_2	regadenoson	104	KG00097963	arthralgias	0.030678438022732735
+trial_2	regadenoson	76	KG00100450	Respiratory insufficiency, NOS	0.029613303020596504
+trial_2	regadenoson	64	KG00097734	Acrodermatitis, NOS	0.02960268408060074
+trial_2	regadenoson	2	KG00100772	thrombocytopaenia	0.028462477028369904
+trial_2	regadenoson	200	KG00098539	Disorders, Deglutition	0.028120970353484154
+trial_2	regadenoson	147	KG00098000	atelectases	0.027989840134978294
+trial_2	regadenoson	116	KG00098964	Pain in foot	0.027870189398527145
+trial_2	regadenoson	96	KG00101679	Unattended death NOS	0.02718646079301834
+trial_2	regadenoson	243	KG00100947	Micturition frequency increased	0.026921970769762993
+trial_2	regadenoson	396	KG00100373	Embolism, Pulmonary	0.025626622140407562
+trial_2	regadenoson	121	KG00099190	haemorrhage	0.02445494942367077
+trial_2	regadenoson	61	KG00099501	Chronic Kidney Failure	0.02435210719704628
+trial_2	regadenoson	5	KG00099169	haematuria	0.024222156032919884
+trial_2	regadenoson	102	KG00097916	anxieties	0.02395276352763176
+trial_2	regadenoson	350	KG00106765	decreased platelet count	0.023837370797991753
+trial_2	regadenoson	228	KG00114657	Weight below normal	0.023299671709537506
+trial_2	regadenoson	205	KG00098955	Flushed	0.022994890809059143
+trial_2	regadenoson	441	KG00098262	cellulitis nos	0.022643590345978737
+trial_2	regadenoson	211	KG00100341	Pruritus NOS	0.0225626640021801
+trial_2	regadenoson	253	KG00100232	Pleural effusion NOS (disorder)	0.022260988131165504
+trial_2	regadenoson	122	KG00099321	Hypersensitivity NOS	0.021889682859182358
+trial_2	regadenoson	38	KG00098066	Binocular vision disorders	0.021060973405838013
+trial_2	regadenoson	131	KG00100948	Urinary tract infection (& [NOS])	0.020979342982172966
+trial_2	regadenoson	29	KG00099354	hyponatraemia	0.020546266809105873
+trial_2	regadenoson	30	KG00099500	Acute Kidney Failure	0.020368443801999092
+trial_2	regadenoson	239	KG00100128	pareses	0.020266355946660042
+trial_2	regadenoson	142	KG00100923	Unspecified infectious and parasitic diseases	0.020051181316375732
+trial_2	regadenoson	276	KG00099127	Arrest, Cardiac	0.019587039947509766
+trial_2	regadenoson	164	KG00108827	ileus colon	0.019452596083283424
+trial_2	regadenoson	28	KG00099347	hypoglycaemia	0.0193532295525074
+trial_2	regadenoson	36	KG00106434	Vision, Blurring Of	0.018781043589115143
+trial_2	regadenoson	271	KG00103813	reflex bradycardia	0.01846579648554325
+trial_2	regadenoson	212	KG00100576	shivers	0.018310805782675743
+trial_2	regadenoson	108	KG00098479	Cramp, Limb	0.018170099705457687
+trial_2	regadenoson	4	KG00098817	epistaxis	0.018148181959986687
+trial_2	regadenoson	204	KG00098849	Esophagitis, Peptic	0.018148139119148254
+trial_2	regadenoson	151	KG00098274	Infarction, Cerebral	0.018088215962052345
+trial_2	regadenoson	139	KG00098855	Sinusitis, Ethmoid	0.017944810912013054
+trial_2	regadenoson	75	KG00100195	Dolens, Phlegmasia Alba	0.017887691035866737
+trial_2	regadenoson	166	KG00099773	menopausal syndrome	0.01781586743891239
+trial_2	regadenoson	286	KG00101110	Retention, Urinary	0.01763249933719635
+trial_2	regadenoson	22	KG00098705	Edema (NOS)	0.017201585695147514
+trial_2	regadenoson	179	KG00099342	hypocalcaemia	0.017196644097566605
+trial_2	regadenoson	94	KG00103829	abdominal discomfort	0.01675656996667385
+trial_2	regadenoson	27	KG00099303	hyperkalaemia	0.01668245904147625
+trial_2	regadenoson	361	KG00098004	Fibrillation, Atrial	0.016551027074456215
+trial_2	regadenoson	269	KG00100399	pyaemia	0.016155313700437546
+trial_2	regadenoson	33	KG00100094	Pancreatitis NOS	0.016017690300941467
+trial_2	regadenoson	454	KG00098286	Pain, Neck	0.015977095812559128
+trial_2	regadenoson	282	KG00099309	hypernatraemia	0.015879781916737556
+trial_2	regadenoson	202	KG00098630	Disturbance of Skin Sensation	0.01572955586016178
+trial_2	regadenoson	208	KG00099896	Nasal congestion (finding)	0.015705905854701996
+trial_2	regadenoson	153	KG00099579	lethargy	0.015688370913267136
+trial_2	regadenoson	268	KG00099557	Heart Failure, Left-Sided	0.01566336862742901
+trial_2	regadenoson	234	KG00098669	dysgeusias	0.01550768781453371
+trial_2	regadenoson	221	KG00101207	peripheral oedema	0.015107461251318455
+trial_2	regadenoson	31	KG00099872	Infarction, Myocardial	0.014990733005106449
+trial_2	regadenoson	191	KG00104055	Biliverdin increased	0.014953757636249065
+trial_2	regadenoson	35	KG00101507	hypomagnesaemia	0.014559989795088768
+trial_2	regadenoson	261	KG00101559	raised alkaline phosphatase	0.014455907046794891
+trial_2	regadenoson	466	KG00101205	fall	0.014433207921683788
+trial_2	regadenoson	25	KG00099134	congestive failures heart	0.014054816216230392
+trial_2	regadenoson	138	KG00098796	epidemic vomiting syndrome	0.01361144706606865
+trial_2	regadenoson	86	KG00098565	Depression, Mental	0.013545497320592403
+trial_2	regadenoson	508	KG00108565	blood glucose increased	0.013416080735623837
+trial_2	regadenoson	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.013380549848079681
+trial_2	regadenoson	352	KG00107658	NON-CARDIAC CHEST PAIN	0.013235233724117279
+trial_2	regadenoson	618	KG00099164	haematoma	0.013064947910606861
+trial_2	regadenoson	249	KG00104430	hypoalbuminaemia	0.012892019003629684
+trial_2	regadenoson	163	KG00104050	bowel obstructions small	0.012870155274868011
+trial_2	regadenoson	371	KG00098517	Cystitis (NOS)	0.012601207010447979
+trial_2	regadenoson	186	KG00101431	creatinine increased	0.012590965256094933

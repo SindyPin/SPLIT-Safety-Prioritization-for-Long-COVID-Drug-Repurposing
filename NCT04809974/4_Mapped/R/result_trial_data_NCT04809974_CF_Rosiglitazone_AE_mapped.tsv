@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14279082417488098
+trial_1	placebo	20	KG00098540	dehydration	0.07789894193410873
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07240517437458038
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0707421600818634
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06790125370025635
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06709174811840057
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0659850686788559
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06442632526159286
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06394582241773605
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05484526604413986
+trial_1	placebo	21	KG00098675	dyspnoea	0.053831204771995544
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04893796518445015
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04876198619604111
+trial_1	placebo	68	KG00099901	nauseas	0.048704467713832855
+trial_1	placebo	46	KG00099121	Headache NOS	0.048669420182704926
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04328904300928116
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.041836388409137726
+trial_1	placebo	126	KG00100076	Pain NOS	0.04178224131464958
+trial_1	placebo	77	KG00098450	Constipation NOS	0.038149841129779816
+trial_1	placebo	228	KG00114657	Weight below normal	0.03800501674413681
+trial_1	placebo	14	KG00097852	Anemia NOS	0.036776188760995865
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0346960686147213
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.034216590225696564
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03417222574353218
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03390577808022499
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03322787210345268
+trial_1	placebo	121	KG00099190	haemorrhage	0.03286378085613251
+trial_1	placebo	72	KG00103771	myalgias	0.0317838080227375
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.030612275004386902
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02991032972931862
+trial_1	placebo	86	KG00098565	Depression, Mental	0.029129758477211
+trial_1	placebo	114	KG00098933	fevers	0.028405994176864624
+trial_1	placebo	82	KG00097697	abdomen distended	0.02834012731909752
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02786324918270111
+trial_1	placebo	85	KG00098474	coughs	0.02710268273949623
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026804877445101738
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026522310450673103
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.026470012962818146
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026225341483950615
+trial_1	placebo	104	KG00097963	arthralgias	0.026199955493211746
+trial_1	placebo	5	KG00099169	haematuria	0.02613806165754795
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.025973331183195114
+trial_1	placebo	234	KG00098669	dysgeusias	0.024790948256850243
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02313128672540188
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.023073647171258926
+trial_1	placebo	147	KG00098000	atelectases	0.02303634025156498
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02285388484597206
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02268259972333908
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.022632338106632233
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.022236010059714317
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.021512478590011597
+trial_1	placebo	239	KG00100128	pareses	0.02139110118150711
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020823003724217415
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020300256088376045
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0195891372859478
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019557759165763855
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.018983788788318634
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018777338787913322
+trial_1	placebo	466	KG00101205	fall	0.018519051373004913
+trial_1	placebo	186	KG00101431	creatinine increased	0.018372321501374245
+trial_1	placebo	136	KG00101582	Dry;skin	0.018327483907341957
+trial_1	placebo	441	KG00098262	cellulitis nos	0.017951341345906258
+trial_1	placebo	116	KG00098964	Pain in foot	0.01762964203953743
+trial_1	placebo	154	KG00099686	Lymphopenias	0.017346331849694252
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.017210179939866066
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.017175646498799324
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016939209774136543
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.016662586480379105
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.016629336401820183
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01648542284965515
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.016485337167978287
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.016408126801252365
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016191359609365463
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.015932418406009674
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015882456675171852
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.015703288838267326
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015657098963856697
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.015284471213817596
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015209997072815895
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.015193521045148373
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.015112392604351044
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015078200027346611
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014990712516009808
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.014889429323375225
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.014757968485355377
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.014705762267112732
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.014615491032600403
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01454783696681261
+trial_1	placebo	4	KG00098817	epistaxis	0.01451392937451601
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.014470690861344337
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014280121773481369
+trial_1	placebo	100	KG00097815	alopecias	0.014263303950428963
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014092178083956242
+trial_1	placebo	102	KG00097916	anxieties	0.014037970453500748
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01389719545841217
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.013800730928778648
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.013732551597058773
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013472710736095905
+trial_1	placebo	269	KG00100399	pyaemia	0.013409500010311604
+trial_1	placebo	262	KG00101199	agitation	0.013364857994019985
+trial_2	rosiglitazone	87	KG00098599	diarrhoea	0.14279082417488098
+trial_2	rosiglitazone	20	KG00098540	dehydration	0.07789894193410873
+trial_2	rosiglitazone	177	KG00099299	hyperglycaemia	0.07240517437458038
+trial_2	rosiglitazone	64	KG00097734	Acrodermatitis, NOS	0.0707421600818634
+trial_2	rosiglitazone	67	KG00098673	Dyspepsia, NOS	0.06790125370025635
+trial_2	rosiglitazone	78	KG00099326	Hypertensive diseases	0.06709174811840057
+trial_2	rosiglitazone	173	KG00098172	Bronchopneumonia NOS	0.0659850686788559
+trial_2	rosiglitazone	17	KG00097991	Asthenia NOS	0.06442632526159286
+trial_2	rosiglitazone	123	KG00099351	hypokalaemia	0.06394582241773605
+trial_2	rosiglitazone	9	KG00098432	Confusion NOS	0.05484526604413986
+trial_2	rosiglitazone	21	KG00098675	dyspnoea	0.053831204771995544
+trial_2	rosiglitazone	37	KG00097696	Cramps, Abdominal	0.04893796518445015
+trial_2	rosiglitazone	28	KG00099347	hypoglycaemia	0.04876198619604111
+trial_2	rosiglitazone	68	KG00099901	nauseas	0.048704467713832855
+trial_2	rosiglitazone	46	KG00099121	Headache NOS	0.048669420182704926
+trial_2	rosiglitazone	49	KG00099902	nausea with vomiting	0.04328904300928116
+trial_2	rosiglitazone	243	KG00100947	Micturition frequency increased	0.041836388409137726
+trial_2	rosiglitazone	126	KG00100076	Pain NOS	0.04178224131464958
+trial_2	rosiglitazone	77	KG00098450	Constipation NOS	0.038149841129779816
+trial_2	rosiglitazone	228	KG00114657	Weight below normal	0.03800501674413681
+trial_2	rosiglitazone	14	KG00097852	Anemia NOS	0.036776188760995865
+trial_2	rosiglitazone	189	KG00101580	Alanine aminotransferase increase	0.0346960686147213
+trial_2	rosiglitazone	200	KG00098539	Disorders, Deglutition	0.034216590225696564
+trial_2	rosiglitazone	79	KG00100317	Insomnia, Primary	0.03417222574353218
+trial_2	rosiglitazone	101	KG00097901	Anorexia NOS	0.03390577808022499
+trial_2	rosiglitazone	29	KG00099354	hyponatraemia	0.03322787210345268
+trial_2	rosiglitazone	121	KG00099190	haemorrhage	0.03286378085613251
+trial_2	rosiglitazone	72	KG00103771	myalgias	0.0317838080227375
+trial_2	rosiglitazone	76	KG00100450	Respiratory insufficiency, NOS	0.030612275004386902
+trial_2	rosiglitazone	18	KG00098307	Pain, Chest	0.02991032972931862
+trial_2	rosiglitazone	86	KG00098565	Depression, Mental	0.029129758477211
+trial_2	rosiglitazone	114	KG00098933	fevers	0.028405994176864624
+trial_2	rosiglitazone	82	KG00097697	abdomen distended	0.02834012731909752
+trial_2	rosiglitazone	96	KG00101679	Unattended death NOS	0.02786324918270111
+trial_2	rosiglitazone	85	KG00098474	coughs	0.02710268273949623
+trial_2	rosiglitazone	132	KG00101045	Gain, Weight	0.026804877445101738
+trial_2	rosiglitazone	221	KG00101207	peripheral oedema	0.026522310450673103
+trial_2	rosiglitazone	151	KG00098274	Infarction, Cerebral	0.026470012962818146
+trial_2	rosiglitazone	350	KG00106765	decreased platelet count	0.026225341483950615
+trial_2	rosiglitazone	104	KG00097963	arthralgias	0.026199955493211746
+trial_2	rosiglitazone	5	KG00099169	haematuria	0.02613806165754795
+trial_2	rosiglitazone	180	KG00099363	Hypotension NOS	0.025973331183195114
+trial_2	rosiglitazone	234	KG00098669	dysgeusias	0.024790948256850243
+trial_2	rosiglitazone	122	KG00099321	Hypersensitivity NOS	0.02313128672540188
+trial_2	rosiglitazone	188	KG00101579	Aspartate aminotransferase increase	0.023073647171258926
+trial_2	rosiglitazone	147	KG00098000	atelectases	0.02303634025156498
+trial_2	rosiglitazone	131	KG00100948	Urinary tract infection (& [NOS])	0.02285388484597206
+trial_2	rosiglitazone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02268259972333908
+trial_2	rosiglitazone	61	KG00099501	Chronic Kidney Failure	0.022632338106632233
+trial_2	rosiglitazone	2	KG00100772	thrombocytopaenia	0.022236010059714317
+trial_2	rosiglitazone	142	KG00100923	Unspecified infectious and parasitic diseases	0.021512478590011597
+trial_2	rosiglitazone	239	KG00100128	pareses	0.02139110118150711
+trial_2	rosiglitazone	191	KG00104055	Biliverdin increased	0.020823003724217415
+trial_2	rosiglitazone	211	KG00100341	Pruritus NOS	0.020300256088376045
+trial_2	rosiglitazone	139	KG00098855	Sinusitis, Ethmoid	0.0195891372859478
+trial_2	rosiglitazone	27	KG00099303	hyperkalaemia	0.019557759165763855
+trial_2	rosiglitazone	179	KG00099342	hypocalcaemia	0.018983788788318634
+trial_2	rosiglitazone	204	KG00098849	Esophagitis, Peptic	0.018777338787913322
+trial_2	rosiglitazone	466	KG00101205	fall	0.018519051373004913
+trial_2	rosiglitazone	186	KG00101431	creatinine increased	0.018372321501374245
+trial_2	rosiglitazone	136	KG00101582	Dry;skin	0.018327483907341957
+trial_2	rosiglitazone	441	KG00098262	cellulitis nos	0.017951341345906258
+trial_2	rosiglitazone	116	KG00098964	Pain in foot	0.01762964203953743
+trial_2	rosiglitazone	154	KG00099686	Lymphopenias	0.017346331849694252
+trial_2	rosiglitazone	396	KG00100373	Embolism, Pulmonary	0.017210179939866066
+trial_2	rosiglitazone	249	KG00104430	hypoalbuminaemia	0.017175646498799324
+trial_2	rosiglitazone	22	KG00098705	Edema (NOS)	0.016939209774136543
+trial_2	rosiglitazone	36	KG00106434	Vision, Blurring Of	0.016662586480379105
+trial_2	rosiglitazone	30	KG00099500	Acute Kidney Failure	0.016629336401820183
+trial_2	rosiglitazone	69	KG00100082	Palpitations NOS	0.01648542284965515
+trial_2	rosiglitazone	246	KG00103338	Aspartate Aminotransferase Measurement	0.016485337167978287
+trial_2	rosiglitazone	361	KG00098004	Fibrillation, Atrial	0.016408126801252365
+trial_2	rosiglitazone	194	KG00110727	Neutrophil Count Decreased	0.016191359609365463
+trial_2	rosiglitazone	356	KG00112623	Infectious Lung Disorders	0.015932418406009674
+trial_2	rosiglitazone	286	KG00101110	Retention, Urinary	0.015882456675171852
+trial_2	rosiglitazone	138	KG00098796	epidemic vomiting syndrome	0.015703288838267326
+trial_2	rosiglitazone	38	KG00098066	Binocular vision disorders	0.015657098963856697
+trial_2	rosiglitazone	133	KG00101370	neuropathies sensory	0.015284471213817596
+trial_2	rosiglitazone	355	KG00110857	lymphocyte count decreased	0.015209997072815895
+trial_2	rosiglitazone	288	KG00101223	hypophosphataemia	0.015193521045148373
+trial_2	rosiglitazone	118	KG00099011	Gastritis NOS	0.015112392604351044
+trial_2	rosiglitazone	31	KG00099872	Infarction, Myocardial	0.015078200027346611
+trial_2	rosiglitazone	261	KG00101559	raised alkaline phosphatase	0.014990712516009808
+trial_2	rosiglitazone	152	KG00099402	INCONTINENCE NOS	0.014889429323375225
+trial_2	rosiglitazone	33	KG00100094	Pancreatitis NOS	0.014757968485355377
+trial_2	rosiglitazone	130	KG00100683	Stomatitis NOS	0.014705762267112732
+trial_2	rosiglitazone	195	KG00097814	Atopic Rhinitis	0.014615491032600403
+trial_2	rosiglitazone	371	KG00098517	Cystitis (NOS)	0.01454783696681261
+trial_2	rosiglitazone	4	KG00098817	epistaxis	0.01451392937451601
+trial_2	rosiglitazone	253	KG00100232	Pleural effusion NOS (disorder)	0.014470690861344337
+trial_2	rosiglitazone	75	KG00100195	Dolens, Phlegmasia Alba	0.014280121773481369
+trial_2	rosiglitazone	100	KG00097815	alopecias	0.014263303950428963
+trial_2	rosiglitazone	35	KG00101507	hypomagnesaemia	0.014092178083956242
+trial_2	rosiglitazone	102	KG00097916	anxieties	0.014037970453500748
+trial_2	rosiglitazone	508	KG00108565	blood glucose increased	0.01389719545841217
+trial_2	rosiglitazone	166	KG00099773	menopausal syndrome	0.013800730928778648
+trial_2	rosiglitazone	276	KG00099127	Arrest, Cardiac	0.013732551597058773
+trial_2	rosiglitazone	98	KG00097718	Incised wound, NOS	0.013472710736095905
+trial_2	rosiglitazone	269	KG00100399	pyaemia	0.013409500010311604
+trial_2	rosiglitazone	262	KG00101199	agitation	0.013364857994019985

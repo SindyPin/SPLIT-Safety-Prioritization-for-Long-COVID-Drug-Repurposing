@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15548069775104523
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14919434487819672
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11037325859069824
+trial_1	placebo	68	KG00099901	nauseas	0.10218935459852219
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09448806196451187
+trial_1	placebo	46	KG00099121	Headache NOS	0.0884447693824768
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08417917042970657
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06617552042007446
+trial_1	placebo	228	KG00114657	Weight below normal	0.06546392291784286
+trial_1	placebo	21	KG00098675	dyspnoea	0.06448360532522202
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06266036629676819
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.060722075402736664
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.060038499534130096
+trial_1	placebo	20	KG00098540	dehydration	0.05786849185824394
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05466553941369057
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.054112255573272705
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05276414379477501
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05145971477031708
+trial_1	placebo	123	KG00099351	hypokalaemia	0.049664080142974854
+trial_1	placebo	126	KG00100076	Pain NOS	0.04403449594974518
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04347734525799751
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.041297752410173416
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04086058586835861
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03991059958934784
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0375080406665802
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03736337646842003
+trial_1	placebo	114	KG00098933	fevers	0.03728635981678963
+trial_1	placebo	466	KG00101205	fall	0.034895073622465134
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03457304462790489
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03456604853272438
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.034472834318876266
+trial_1	placebo	104	KG00097963	arthralgias	0.034280721098184586
+trial_1	placebo	239	KG00100128	pareses	0.033640481531620026
+trial_1	placebo	102	KG00097916	anxieties	0.03333637863397598
+trial_1	placebo	116	KG00098964	Pain in foot	0.03291811794042587
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03175231069326401
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03159402310848236
+trial_1	placebo	85	KG00098474	coughs	0.030428342521190643
+trial_1	placebo	29	KG00099354	hyponatraemia	0.030127238482236862
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029868174344301224
+trial_1	placebo	66	KG00098642	drowsiness	0.02983974479138851
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.028773346915841103
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02767595276236534
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.026789065450429916
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.025762492790818214
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02547317184507847
+trial_1	placebo	5	KG00099169	haematuria	0.02450731210410595
+trial_1	placebo	82	KG00097697	abdomen distended	0.024358095601201057
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023821497336030006
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02377323806285858
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02359272539615631
+trial_1	placebo	262	KG00101199	agitation	0.023352358490228653
+trial_1	placebo	300	KG00101064	xerostomia	0.023286646232008934
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02295006811618805
+trial_1	placebo	147	KG00098000	atelectases	0.022650951519608498
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02232472039759159
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022038567811250687
+trial_1	placebo	132	KG00101045	Gain, Weight	0.021958258002996445
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.021360235288739204
+trial_1	placebo	269	KG00100399	pyaemia	0.02059973031282425
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020480208098888397
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02020087093114853
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01996750943362713
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01954302191734314
+trial_1	placebo	72	KG00103771	myalgias	0.018873879685997963
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018447641283273697
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01831478253006935
+trial_1	placebo	234	KG00098669	dysgeusias	0.018053030595183372
+trial_1	placebo	242	KG00100855	tremors	0.01800917088985443
+trial_1	placebo	456	KG00099420	Influenzae	0.01799142360687256
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.017922941595315933
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.017869187518954277
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.01778772659599781
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017774837091565132
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01762072555720806
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.017427053302526474
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.01732928678393364
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.017285995185375214
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.016856985166668892
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01672336272895336
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.01611027866601944
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01594870164990425
+trial_1	placebo	345	KG00103926	impairments memory	0.015716081485152245
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01547638513147831
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.015238886699080467
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.015149562619626522
+trial_1	placebo	4	KG00098817	epistaxis	0.015143055468797684
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.015122728422284126
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.014885742217302322
+trial_1	placebo	454	KG00098286	Pain, Neck	0.014769669622182846
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.014597647823393345
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01434940006583929
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014327350072562695
+trial_1	placebo	136	KG00101582	Dry;skin	0.0139840729534626
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.013963001780211926
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.013741984963417053
+trial_1	placebo	203	KG00098661	dysarthrias	0.013612151145935059
+trial_1	placebo	153	KG00099579	lethargy	0.013543864712119102
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013416781090199947
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013288290239870548
+trial_2	riluzole	87	KG00098599	diarrhoea	0.15548069775104523
+trial_2	riluzole	9	KG00098432	Confusion NOS	0.14919434487819672
+trial_2	riluzole	17	KG00097991	Asthenia NOS	0.11037325859069824
+trial_2	riluzole	68	KG00099901	nauseas	0.10218935459852219
+trial_2	riluzole	173	KG00098172	Bronchopneumonia NOS	0.09448806196451187
+trial_2	riluzole	46	KG00099121	Headache NOS	0.0884447693824768
+trial_2	riluzole	49	KG00099902	nausea with vomiting	0.08417917042970657
+trial_2	riluzole	77	KG00098450	Constipation NOS	0.06617552042007446
+trial_2	riluzole	228	KG00114657	Weight below normal	0.06546392291784286
+trial_2	riluzole	21	KG00098675	dyspnoea	0.06448360532522202
+trial_2	riluzole	79	KG00100317	Insomnia, Primary	0.06266036629676819
+trial_2	riluzole	64	KG00097734	Acrodermatitis, NOS	0.060722075402736664
+trial_2	riluzole	78	KG00099326	Hypertensive diseases	0.060038499534130096
+trial_2	riluzole	20	KG00098540	dehydration	0.05786849185824394
+trial_2	riluzole	67	KG00098673	Dyspepsia, NOS	0.05466553941369057
+trial_2	riluzole	177	KG00099299	hyperglycaemia	0.054112255573272705
+trial_2	riluzole	101	KG00097901	Anorexia NOS	0.05276414379477501
+trial_2	riluzole	37	KG00097696	Cramps, Abdominal	0.05145971477031708
+trial_2	riluzole	123	KG00099351	hypokalaemia	0.049664080142974854
+trial_2	riluzole	126	KG00100076	Pain NOS	0.04403449594974518
+trial_2	riluzole	151	KG00098274	Infarction, Cerebral	0.04347734525799751
+trial_2	riluzole	131	KG00100948	Urinary tract infection (& [NOS])	0.041297752410173416
+trial_2	riluzole	14	KG00097852	Anemia NOS	0.04086058586835861
+trial_2	riluzole	200	KG00098539	Disorders, Deglutition	0.03991059958934784
+trial_2	riluzole	76	KG00100450	Respiratory insufficiency, NOS	0.0375080406665802
+trial_2	riluzole	86	KG00098565	Depression, Mental	0.03736337646842003
+trial_2	riluzole	114	KG00098933	fevers	0.03728635981678963
+trial_2	riluzole	466	KG00101205	fall	0.034895073622465134
+trial_2	riluzole	189	KG00101580	Alanine aminotransferase increase	0.03457304462790489
+trial_2	riluzole	30	KG00099500	Acute Kidney Failure	0.03456604853272438
+trial_2	riluzole	396	KG00100373	Embolism, Pulmonary	0.034472834318876266
+trial_2	riluzole	104	KG00097963	arthralgias	0.034280721098184586
+trial_2	riluzole	239	KG00100128	pareses	0.033640481531620026
+trial_2	riluzole	102	KG00097916	anxieties	0.03333637863397598
+trial_2	riluzole	116	KG00098964	Pain in foot	0.03291811794042587
+trial_2	riluzole	96	KG00101679	Unattended death NOS	0.03175231069326401
+trial_2	riluzole	61	KG00099501	Chronic Kidney Failure	0.03159402310848236
+trial_2	riluzole	85	KG00098474	coughs	0.030428342521190643
+trial_2	riluzole	29	KG00099354	hyponatraemia	0.030127238482236862
+trial_2	riluzole	18	KG00098307	Pain, Chest	0.029868174344301224
+trial_2	riluzole	66	KG00098642	drowsiness	0.02983974479138851
+trial_2	riluzole	188	KG00101579	Aspartate aminotransferase increase	0.028773346915841103
+trial_2	riluzole	211	KG00100341	Pruritus NOS	0.02767595276236534
+trial_2	riluzole	180	KG00099363	Hypotension NOS	0.026789065450429916
+trial_2	riluzole	2	KG00100772	thrombocytopaenia	0.025762492790818214
+trial_2	riluzole	441	KG00098262	cellulitis nos	0.02547317184507847
+trial_2	riluzole	5	KG00099169	haematuria	0.02450731210410595
+trial_2	riluzole	82	KG00097697	abdomen distended	0.024358095601201057
+trial_2	riluzole	75	KG00100195	Dolens, Phlegmasia Alba	0.023821497336030006
+trial_2	riluzole	11	KG00097993	Asthma NOS	0.02377323806285858
+trial_2	riluzole	28	KG00099347	hypoglycaemia	0.02359272539615631
+trial_2	riluzole	262	KG00101199	agitation	0.023352358490228653
+trial_2	riluzole	300	KG00101064	xerostomia	0.023286646232008934
+trial_2	riluzole	36	KG00106434	Vision, Blurring Of	0.02295006811618805
+trial_2	riluzole	147	KG00098000	atelectases	0.022650951519608498
+trial_2	riluzole	38	KG00098066	Binocular vision disorders	0.02232472039759159
+trial_2	riluzole	361	KG00098004	Fibrillation, Atrial	0.022038567811250687
+trial_2	riluzole	132	KG00101045	Gain, Weight	0.021958258002996445
+trial_2	riluzole	139	KG00098855	Sinusitis, Ethmoid	0.021360235288739204
+trial_2	riluzole	269	KG00100399	pyaemia	0.02059973031282425
+trial_2	riluzole	69	KG00100082	Palpitations NOS	0.020480208098888397
+trial_2	riluzole	204	KG00098849	Esophagitis, Peptic	0.02020087093114853
+trial_2	riluzole	350	KG00106765	decreased platelet count	0.01996750943362713
+trial_2	riluzole	92	KG00100926	Infections, Upper Respiratory	0.01954302191734314
+trial_2	riluzole	72	KG00103771	myalgias	0.018873879685997963
+trial_2	riluzole	286	KG00101110	Retention, Urinary	0.018447641283273697
+trial_2	riluzole	422	KG00101429	Creatine phosphokinase increased	0.01831478253006935
+trial_2	riluzole	234	KG00098669	dysgeusias	0.018053030595183372
+trial_2	riluzole	242	KG00100855	tremors	0.01800917088985443
+trial_2	riluzole	456	KG00099420	Influenzae	0.01799142360687256
+trial_2	riluzole	276	KG00099127	Arrest, Cardiac	0.017922941595315933
+trial_2	riluzole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.017869187518954277
+trial_2	riluzole	243	KG00100947	Micturition frequency increased	0.01778772659599781
+trial_2	riluzole	138	KG00098796	epidemic vomiting syndrome	0.017774837091565132
+trial_2	riluzole	221	KG00101207	peripheral oedema	0.01762072555720806
+trial_2	riluzole	191	KG00104055	Biliverdin increased	0.017427053302526474
+trial_2	riluzole	108	KG00098479	Cramp, Limb	0.01732928678393364
+trial_2	riluzole	199	KG00098371	Rhinitis (chronic) NOS	0.017285995185375214
+trial_2	riluzole	394	KG00100243	Pneumonia, Aspiration	0.016856985166668892
+trial_2	riluzole	15	KG00097882	Angina pectoris NOS	0.01672336272895336
+trial_2	riluzole	271	KG00103813	reflex bradycardia	0.01611027866601944
+trial_2	riluzole	142	KG00100923	Unspecified infectious and parasitic diseases	0.01594870164990425
+trial_2	riluzole	345	KG00103926	impairments memory	0.015716081485152245
+trial_2	riluzole	31	KG00099872	Infarction, Myocardial	0.01547638513147831
+trial_2	riluzole	94	KG00103829	abdominal discomfort	0.015238886699080467
+trial_2	riluzole	253	KG00100232	Pleural effusion NOS (disorder)	0.015149562619626522
+trial_2	riluzole	4	KG00098817	epistaxis	0.015143055468797684
+trial_2	riluzole	261	KG00101559	raised alkaline phosphatase	0.015122728422284126
+trial_2	riluzole	98	KG00097718	Incised wound, NOS	0.014885742217302322
+trial_2	riluzole	454	KG00098286	Pain, Neck	0.014769669622182846
+trial_2	riluzole	33	KG00100094	Pancreatitis NOS	0.014597647823393345
+trial_2	riluzole	356	KG00112623	Infectious Lung Disorders	0.01434940006583929
+trial_2	riluzole	118	KG00099011	Gastritis NOS	0.014327350072562695
+trial_2	riluzole	136	KG00101582	Dry;skin	0.0139840729534626
+trial_2	riluzole	366	KG00098275	Attack, Transient Ischemic	0.013963001780211926
+trial_2	riluzole	225	KG00104032	Suicidal tendencies	0.013741984963417053
+trial_2	riluzole	203	KG00098661	dysarthrias	0.013612151145935059
+trial_2	riluzole	153	KG00099579	lethargy	0.013543864712119102
+trial_2	riluzole	25	KG00099134	congestive failures heart	0.013416781090199947
+trial_2	riluzole	194	KG00110727	Neutrophil Count Decreased	0.013288290239870548

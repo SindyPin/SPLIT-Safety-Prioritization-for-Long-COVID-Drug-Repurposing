@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2658844590187073
+trial_1	placebo	87	KG00098599	diarrhoea	0.20894809067249298
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1613718718290329
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14487284421920776
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14246869087219238
+trial_1	placebo	20	KG00098540	dehydration	0.1301935464143753
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12825746834278107
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1244310513138771
+trial_1	placebo	21	KG00098675	dyspnoea	0.12097810208797455
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11864908784627914
+trial_1	placebo	46	KG00099121	Headache NOS	0.11601043492555618
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10744190961122513
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.10715299844741821
+trial_1	placebo	68	KG00099901	nauseas	0.10331828892230988
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10238739103078842
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10107801109552383
+trial_1	placebo	228	KG00114657	Weight below normal	0.1000463142991066
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09541105479001999
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09183969348669052
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09016558527946472
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08978166431188583
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08654864132404327
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.08287937939167023
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07975126057863235
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0752033069729805
+trial_1	placebo	104	KG00097963	arthralgias	0.07475105673074722
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07397083938121796
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0737801343202591
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07343209534883499
+trial_1	placebo	85	KG00098474	coughs	0.07315734773874283
+trial_1	placebo	239	KG00100128	pareses	0.07287070900201797
+trial_1	placebo	126	KG00100076	Pain NOS	0.07035864889621735
+trial_1	placebo	114	KG00098933	fevers	0.06742981821298599
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06695089489221573
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06570839136838913
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06520325690507889
+trial_1	placebo	5	KG00099169	haematuria	0.06372269988059998
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06213434785604477
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05931782349944115
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05865877866744995
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05839713290333748
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05631526932120323
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05307215079665184
+trial_1	placebo	262	KG00101199	agitation	0.052548184990882874
+trial_1	placebo	132	KG00101045	Gain, Weight	0.051408614963293076
+trial_1	placebo	102	KG00097916	anxieties	0.05132248252630234
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.050834350287914276
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.050677746534347534
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05062469467520714
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04873569682240486
+trial_1	placebo	116	KG00098964	Pain in foot	0.0478343740105629
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0474918968975544
+trial_1	placebo	72	KG00103771	myalgias	0.046500369906425476
+trial_1	placebo	147	KG00098000	atelectases	0.04637372866272926
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.044845838099718094
+trial_1	placebo	339	KG00100334	proteinurias	0.04481721296906471
+trial_1	placebo	164	KG00108827	ileus colon	0.04456054046750069
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04413183033466339
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.043782759457826614
+trial_1	placebo	466	KG00101205	fall	0.04368438571691513
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.043361686170101166
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04309944435954094
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04184073954820633
+trial_1	placebo	82	KG00097697	abdomen distended	0.040926843881607056
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.040386151522397995
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04028146341443062
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03991970047354698
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03892473503947258
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03865355998277664
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0385374017059803
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03781275823712349
+trial_1	placebo	269	KG00100399	pyaemia	0.037740860134363174
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03757227957248688
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03712725639343262
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03696225583553314
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03665439039468765
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03632834926247597
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03630933165550232
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03622126951813698
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03610488399863243
+trial_1	placebo	234	KG00098669	dysgeusias	0.03543761372566223
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03521658107638359
+trial_1	placebo	186	KG00101431	creatinine increased	0.035077281296253204
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03495630621910095
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.03474986553192139
+trial_1	placebo	382	KG00099200	haemorrhoids	0.034685391932725906
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03464098274707794
+trial_1	placebo	153	KG00099579	lethargy	0.03445519879460335
+trial_1	placebo	242	KG00100855	tremors	0.03415806591510773
+trial_1	placebo	66	KG00098642	drowsiness	0.03385791555047035
+trial_1	placebo	221	KG00101207	peripheral oedema	0.033755477517843246
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.03353646397590637
+trial_1	placebo	454	KG00098286	Pain, Neck	0.03348146751523018
+trial_1	placebo	441	KG00098262	cellulitis nos	0.033468108624219894
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03311505168676376
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.03310761600732803
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.033068593591451645
+trial_1	placebo	121	KG00099190	haemorrhage	0.03306020051240921
+trial_1	placebo	154	KG00099686	Lymphopenias	0.032708968967199326
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0324435830116272
+trial_2	rilmenidine	78	KG00099326	Hypertensive diseases	0.2658844590187073
+trial_2	rilmenidine	87	KG00098599	diarrhoea	0.20894809067249298
+trial_2	rilmenidine	17	KG00097991	Asthenia NOS	0.1613718718290329
+trial_2	rilmenidine	9	KG00098432	Confusion NOS	0.14487284421920776
+trial_2	rilmenidine	177	KG00099299	hyperglycaemia	0.14246869087219238
+trial_2	rilmenidine	20	KG00098540	dehydration	0.1301935464143753
+trial_2	rilmenidine	123	KG00099351	hypokalaemia	0.12825746834278107
+trial_2	rilmenidine	173	KG00098172	Bronchopneumonia NOS	0.1244310513138771
+trial_2	rilmenidine	21	KG00098675	dyspnoea	0.12097810208797455
+trial_2	rilmenidine	77	KG00098450	Constipation NOS	0.11864908784627914
+trial_2	rilmenidine	46	KG00099121	Headache NOS	0.11601043492555618
+trial_2	rilmenidine	79	KG00100317	Insomnia, Primary	0.10744190961122513
+trial_2	rilmenidine	200	KG00098539	Disorders, Deglutition	0.10715299844741821
+trial_2	rilmenidine	68	KG00099901	nauseas	0.10331828892230988
+trial_2	rilmenidine	37	KG00097696	Cramps, Abdominal	0.10238739103078842
+trial_2	rilmenidine	189	KG00101580	Alanine aminotransferase increase	0.10107801109552383
+trial_2	rilmenidine	228	KG00114657	Weight below normal	0.1000463142991066
+trial_2	rilmenidine	49	KG00099902	nausea with vomiting	0.09541105479001999
+trial_2	rilmenidine	67	KG00098673	Dyspepsia, NOS	0.09183969348669052
+trial_2	rilmenidine	188	KG00101579	Aspartate aminotransferase increase	0.09016558527946472
+trial_2	rilmenidine	350	KG00106765	decreased platelet count	0.08978166431188583
+trial_2	rilmenidine	14	KG00097852	Anemia NOS	0.08654864132404327
+trial_2	rilmenidine	243	KG00100947	Micturition frequency increased	0.08287937939167023
+trial_2	rilmenidine	29	KG00099354	hyponatraemia	0.07975126057863235
+trial_2	rilmenidine	64	KG00097734	Acrodermatitis, NOS	0.0752033069729805
+trial_2	rilmenidine	104	KG00097963	arthralgias	0.07475105673074722
+trial_2	rilmenidine	86	KG00098565	Depression, Mental	0.07397083938121796
+trial_2	rilmenidine	2	KG00100772	thrombocytopaenia	0.0737801343202591
+trial_2	rilmenidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07343209534883499
+trial_2	rilmenidine	85	KG00098474	coughs	0.07315734773874283
+trial_2	rilmenidine	239	KG00100128	pareses	0.07287070900201797
+trial_2	rilmenidine	126	KG00100076	Pain NOS	0.07035864889621735
+trial_2	rilmenidine	114	KG00098933	fevers	0.06742981821298599
+trial_2	rilmenidine	180	KG00099363	Hypotension NOS	0.06695089489221573
+trial_2	rilmenidine	101	KG00097901	Anorexia NOS	0.06570839136838913
+trial_2	rilmenidine	76	KG00100450	Respiratory insufficiency, NOS	0.06520325690507889
+trial_2	rilmenidine	5	KG00099169	haematuria	0.06372269988059998
+trial_2	rilmenidine	28	KG00099347	hypoglycaemia	0.06213434785604477
+trial_2	rilmenidine	61	KG00099501	Chronic Kidney Failure	0.05931782349944115
+trial_2	rilmenidine	27	KG00099303	hyperkalaemia	0.05865877866744995
+trial_2	rilmenidine	179	KG00099342	hypocalcaemia	0.05839713290333748
+trial_2	rilmenidine	151	KG00098274	Infarction, Cerebral	0.05631526932120323
+trial_2	rilmenidine	194	KG00110727	Neutrophil Count Decreased	0.05307215079665184
+trial_2	rilmenidine	262	KG00101199	agitation	0.052548184990882874
+trial_2	rilmenidine	132	KG00101045	Gain, Weight	0.051408614963293076
+trial_2	rilmenidine	102	KG00097916	anxieties	0.05132248252630234
+trial_2	rilmenidine	131	KG00100948	Urinary tract infection (& [NOS])	0.050834350287914276
+trial_2	rilmenidine	139	KG00098855	Sinusitis, Ethmoid	0.050677746534347534
+trial_2	rilmenidine	30	KG00099500	Acute Kidney Failure	0.05062469467520714
+trial_2	rilmenidine	122	KG00099321	Hypersensitivity NOS	0.04873569682240486
+trial_2	rilmenidine	116	KG00098964	Pain in foot	0.0478343740105629
+trial_2	rilmenidine	355	KG00110857	lymphocyte count decreased	0.0474918968975544
+trial_2	rilmenidine	72	KG00103771	myalgias	0.046500369906425476
+trial_2	rilmenidine	147	KG00098000	atelectases	0.04637372866272926
+trial_2	rilmenidine	261	KG00101559	raised alkaline phosphatase	0.044845838099718094
+trial_2	rilmenidine	339	KG00100334	proteinurias	0.04481721296906471
+trial_2	rilmenidine	164	KG00108827	ileus colon	0.04456054046750069
+trial_2	rilmenidine	18	KG00098307	Pain, Chest	0.04413183033466339
+trial_2	rilmenidine	69	KG00100082	Palpitations NOS	0.043782759457826614
+trial_2	rilmenidine	466	KG00101205	fall	0.04368438571691513
+trial_2	rilmenidine	96	KG00101679	Unattended death NOS	0.043361686170101166
+trial_2	rilmenidine	276	KG00099127	Arrest, Cardiac	0.04309944435954094
+trial_2	rilmenidine	38	KG00098066	Binocular vision disorders	0.04184073954820633
+trial_2	rilmenidine	82	KG00097697	abdomen distended	0.040926843881607056
+trial_2	rilmenidine	35	KG00101507	hypomagnesaemia	0.040386151522397995
+trial_2	rilmenidine	144	KG00099610	Leukopenia NOS	0.04028146341443062
+trial_2	rilmenidine	282	KG00099309	hypernatraemia	0.03991970047354698
+trial_2	rilmenidine	130	KG00100683	Stomatitis NOS	0.03892473503947258
+trial_2	rilmenidine	396	KG00100373	Embolism, Pulmonary	0.03865355998277664
+trial_2	rilmenidine	92	KG00100926	Infections, Upper Respiratory	0.0385374017059803
+trial_2	rilmenidine	288	KG00101223	hypophosphataemia	0.03781275823712349
+trial_2	rilmenidine	269	KG00100399	pyaemia	0.037740860134363174
+trial_2	rilmenidine	204	KG00098849	Esophagitis, Peptic	0.03757227957248688
+trial_2	rilmenidine	191	KG00104055	Biliverdin increased	0.03712725639343262
+trial_2	rilmenidine	508	KG00108565	blood glucose increased	0.03696225583553314
+trial_2	rilmenidine	253	KG00100232	Pleural effusion NOS (disorder)	0.03665439039468765
+trial_2	rilmenidine	286	KG00101110	Retention, Urinary	0.03632834926247597
+trial_2	rilmenidine	256	KG00100738	Tachycardia, Sinus	0.03630933165550232
+trial_2	rilmenidine	249	KG00104430	hypoalbuminaemia	0.03622126951813698
+trial_2	rilmenidine	166	KG00099773	menopausal syndrome	0.03610488399863243
+trial_2	rilmenidine	234	KG00098669	dysgeusias	0.03543761372566223
+trial_2	rilmenidine	97	KG00104198	LIVER ENZYME ELEVATED	0.03521658107638359
+trial_2	rilmenidine	186	KG00101431	creatinine increased	0.035077281296253204
+trial_2	rilmenidine	75	KG00100195	Dolens, Phlegmasia Alba	0.03495630621910095
+trial_2	rilmenidine	297	KG00099294	hypercholesterolaemia	0.03474986553192139
+trial_2	rilmenidine	382	KG00099200	haemorrhoids	0.034685391932725906
+trial_2	rilmenidine	422	KG00101429	Creatine phosphokinase increased	0.03464098274707794
+trial_2	rilmenidine	153	KG00099579	lethargy	0.03445519879460335
+trial_2	rilmenidine	242	KG00100855	tremors	0.03415806591510773
+trial_2	rilmenidine	66	KG00098642	drowsiness	0.03385791555047035
+trial_2	rilmenidine	221	KG00101207	peripheral oedema	0.033755477517843246
+trial_2	rilmenidine	98	KG00097718	Incised wound, NOS	0.03353646397590637
+trial_2	rilmenidine	454	KG00098286	Pain, Neck	0.03348146751523018
+trial_2	rilmenidine	441	KG00098262	cellulitis nos	0.033468108624219894
+trial_2	rilmenidine	199	KG00098371	Rhinitis (chronic) NOS	0.03311505168676376
+trial_2	rilmenidine	152	KG00099402	INCONTINENCE NOS	0.03310761600732803
+trial_2	rilmenidine	341	KG00101472	Gamma-glutamyltransferase increased	0.033068593591451645
+trial_2	rilmenidine	121	KG00099190	haemorrhage	0.03306020051240921
+trial_2	rilmenidine	154	KG00099686	Lymphopenias	0.032708968967199326
+trial_2	rilmenidine	394	KG00100243	Pneumonia, Aspiration	0.0324435830116272

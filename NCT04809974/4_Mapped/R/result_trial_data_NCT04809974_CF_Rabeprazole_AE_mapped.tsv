@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2019323855638504
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09339176118373871
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07046527415513992
+trial_1	placebo	20	KG00098540	dehydration	0.06816098093986511
+trial_1	placebo	46	KG00099121	Headache NOS	0.06660863757133484
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06636583060026169
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06371672451496124
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06325443834066391
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06191723048686981
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06115713343024254
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06106996163725853
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05645725503563881
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05635947734117508
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.053940869867801666
+trial_1	placebo	21	KG00098675	dyspnoea	0.052784450352191925
+trial_1	placebo	228	KG00114657	Weight below normal	0.051639266312122345
+trial_1	placebo	68	KG00099901	nauseas	0.0491660051047802
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04482303187251091
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04447987303137779
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04100728780031204
+trial_1	placebo	85	KG00098474	coughs	0.04054614529013634
+trial_1	placebo	350	KG00106765	decreased platelet count	0.039663441479206085
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03857140988111496
+trial_1	placebo	114	KG00098933	fevers	0.03837024047970772
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03772252798080444
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03576891869306564
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03572214022278786
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03550810366868973
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03361969441175461
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03355797380208969
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03253608196973801
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0325283445417881
+trial_1	placebo	82	KG00097697	abdomen distended	0.03214343264698982
+trial_1	placebo	126	KG00100076	Pain NOS	0.03178959712386131
+trial_1	placebo	5	KG00099169	haematuria	0.031716734170913696
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03131214156746864
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03062281757593155
+trial_1	placebo	104	KG00097963	arthralgias	0.03059883415699005
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.030194642022252083
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.030033061280846596
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02974715456366539
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029327798634767532
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02869581989943981
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02866091951727867
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02808491513133049
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.027999162673950195
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02748383954167366
+trial_1	placebo	147	KG00098000	atelectases	0.02619580179452896
+trial_1	placebo	186	KG00101431	creatinine increased	0.025769632309675217
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.025306757539510727
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025069670751690865
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02479671873152256
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02458600513637066
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.024169448763132095
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.024077994748950005
+trial_1	placebo	269	KG00100399	pyaemia	0.023912569507956505
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.023195886984467506
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02267320454120636
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022592732682824135
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022221744060516357
+trial_1	placebo	239	KG00100128	pareses	0.022160977125167847
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021968554705381393
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021892888471484184
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021709371358156204
+trial_1	placebo	456	KG00099420	Influenzae	0.02170119434595108
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.021393531933426857
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02125350572168827
+trial_1	placebo	116	KG00098964	Pain in foot	0.020903198048472404
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02059277705848217
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.020450560376048088
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02035541832447052
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.020327556878328323
+trial_1	placebo	4	KG00098817	epistaxis	0.02016136795282364
+trial_1	placebo	72	KG00103771	myalgias	0.020066486671566963
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01976923644542694
+trial_1	placebo	136	KG00101582	Dry;skin	0.019618628546595573
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019435793161392212
+trial_1	placebo	234	KG00098669	dysgeusias	0.018793758004903793
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.018692342564463615
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0183031614869833
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01828976534307003
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.017999539151787758
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01790308579802513
+trial_1	placebo	121	KG00099190	haemorrhage	0.017884759232401848
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.01784553751349449
+trial_1	placebo	164	KG00108827	ileus colon	0.017819589003920555
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.017621567472815514
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.017580678686499596
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01728917844593525
+trial_1	placebo	102	KG00097916	anxieties	0.017236992716789246
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.016990795731544495
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.016831224784255028
+trial_1	placebo	454	KG00098286	Pain, Neck	0.016192756593227386
+trial_1	placebo	466	KG00101205	fall	0.016169462352991104
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0157382320612669
+trial_1	placebo	382	KG00099200	haemorrhoids	0.015737220644950867
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01572517119348049
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015330816619098186
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015236196108162403
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015218541026115417
+trial_2	rabeprazole	87	KG00098599	diarrhoea	0.2019323855638504
+trial_2	rabeprazole	123	KG00099351	hypokalaemia	0.09339176118373871
+trial_2	rabeprazole	173	KG00098172	Bronchopneumonia NOS	0.07046527415513992
+trial_2	rabeprazole	20	KG00098540	dehydration	0.06816098093986511
+trial_2	rabeprazole	46	KG00099121	Headache NOS	0.06660863757133484
+trial_2	rabeprazole	67	KG00098673	Dyspepsia, NOS	0.06636583060026169
+trial_2	rabeprazole	64	KG00097734	Acrodermatitis, NOS	0.06371672451496124
+trial_2	rabeprazole	37	KG00097696	Cramps, Abdominal	0.06325443834066391
+trial_2	rabeprazole	189	KG00101580	Alanine aminotransferase increase	0.06191723048686981
+trial_2	rabeprazole	9	KG00098432	Confusion NOS	0.06115713343024254
+trial_2	rabeprazole	188	KG00101579	Aspartate aminotransferase increase	0.06106996163725853
+trial_2	rabeprazole	49	KG00099902	nausea with vomiting	0.05645725503563881
+trial_2	rabeprazole	78	KG00099326	Hypertensive diseases	0.05635947734117508
+trial_2	rabeprazole	177	KG00099299	hyperglycaemia	0.053940869867801666
+trial_2	rabeprazole	21	KG00098675	dyspnoea	0.052784450352191925
+trial_2	rabeprazole	228	KG00114657	Weight below normal	0.051639266312122345
+trial_2	rabeprazole	68	KG00099901	nauseas	0.0491660051047802
+trial_2	rabeprazole	14	KG00097852	Anemia NOS	0.04482303187251091
+trial_2	rabeprazole	17	KG00097991	Asthenia NOS	0.04447987303137779
+trial_2	rabeprazole	151	KG00098274	Infarction, Cerebral	0.04100728780031204
+trial_2	rabeprazole	85	KG00098474	coughs	0.04054614529013634
+trial_2	rabeprazole	350	KG00106765	decreased platelet count	0.039663441479206085
+trial_2	rabeprazole	77	KG00098450	Constipation NOS	0.03857140988111496
+trial_2	rabeprazole	114	KG00098933	fevers	0.03837024047970772
+trial_2	rabeprazole	200	KG00098539	Disorders, Deglutition	0.03772252798080444
+trial_2	rabeprazole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03576891869306564
+trial_2	rabeprazole	243	KG00100947	Micturition frequency increased	0.03572214022278786
+trial_2	rabeprazole	29	KG00099354	hyponatraemia	0.03550810366868973
+trial_2	rabeprazole	138	KG00098796	epidemic vomiting syndrome	0.03361969441175461
+trial_2	rabeprazole	2	KG00100772	thrombocytopaenia	0.03355797380208969
+trial_2	rabeprazole	61	KG00099501	Chronic Kidney Failure	0.03253608196973801
+trial_2	rabeprazole	30	KG00099500	Acute Kidney Failure	0.0325283445417881
+trial_2	rabeprazole	82	KG00097697	abdomen distended	0.03214343264698982
+trial_2	rabeprazole	126	KG00100076	Pain NOS	0.03178959712386131
+trial_2	rabeprazole	5	KG00099169	haematuria	0.031716734170913696
+trial_2	rabeprazole	191	KG00104055	Biliverdin increased	0.03131214156746864
+trial_2	rabeprazole	101	KG00097901	Anorexia NOS	0.03062281757593155
+trial_2	rabeprazole	104	KG00097963	arthralgias	0.03059883415699005
+trial_2	rabeprazole	79	KG00100317	Insomnia, Primary	0.030194642022252083
+trial_2	rabeprazole	204	KG00098849	Esophagitis, Peptic	0.030033061280846596
+trial_2	rabeprazole	18	KG00098307	Pain, Chest	0.02974715456366539
+trial_2	rabeprazole	396	KG00100373	Embolism, Pulmonary	0.029327798634767532
+trial_2	rabeprazole	261	KG00101559	raised alkaline phosphatase	0.02869581989943981
+trial_2	rabeprazole	131	KG00100948	Urinary tract infection (& [NOS])	0.02866091951727867
+trial_2	rabeprazole	199	KG00098371	Rhinitis (chronic) NOS	0.02808491513133049
+trial_2	rabeprazole	76	KG00100450	Respiratory insufficiency, NOS	0.027999162673950195
+trial_2	rabeprazole	28	KG00099347	hypoglycaemia	0.02748383954167366
+trial_2	rabeprazole	147	KG00098000	atelectases	0.02619580179452896
+trial_2	rabeprazole	186	KG00101431	creatinine increased	0.025769632309675217
+trial_2	rabeprazole	130	KG00100683	Stomatitis NOS	0.025306757539510727
+trial_2	rabeprazole	276	KG00099127	Arrest, Cardiac	0.025069670751690865
+trial_2	rabeprazole	422	KG00101429	Creatine phosphokinase increased	0.02479671873152256
+trial_2	rabeprazole	86	KG00098565	Depression, Mental	0.02458600513637066
+trial_2	rabeprazole	96	KG00101679	Unattended death NOS	0.024169448763132095
+trial_2	rabeprazole	139	KG00098855	Sinusitis, Ethmoid	0.024077994748950005
+trial_2	rabeprazole	269	KG00100399	pyaemia	0.023912569507956505
+trial_2	rabeprazole	142	KG00100923	Unspecified infectious and parasitic diseases	0.023195886984467506
+trial_2	rabeprazole	356	KG00112623	Infectious Lung Disorders	0.02267320454120636
+trial_2	rabeprazole	194	KG00110727	Neutrophil Count Decreased	0.022592732682824135
+trial_2	rabeprazole	179	KG00099342	hypocalcaemia	0.022221744060516357
+trial_2	rabeprazole	239	KG00100128	pareses	0.022160977125167847
+trial_2	rabeprazole	441	KG00098262	cellulitis nos	0.021968554705381393
+trial_2	rabeprazole	69	KG00100082	Palpitations NOS	0.021892888471484184
+trial_2	rabeprazole	371	KG00098517	Cystitis (NOS)	0.021709371358156204
+trial_2	rabeprazole	456	KG00099420	Influenzae	0.02170119434595108
+trial_2	rabeprazole	180	KG00099363	Hypotension NOS	0.021393531933426857
+trial_2	rabeprazole	98	KG00097718	Incised wound, NOS	0.02125350572168827
+trial_2	rabeprazole	116	KG00098964	Pain in foot	0.020903198048472404
+trial_2	rabeprazole	257	KG00100922	Erythema NOS	0.02059277705848217
+trial_2	rabeprazole	118	KG00099011	Gastritis NOS	0.020450560376048088
+trial_2	rabeprazole	92	KG00100926	Infections, Upper Respiratory	0.02035541832447052
+trial_2	rabeprazole	341	KG00101472	Gamma-glutamyltransferase increased	0.020327556878328323
+trial_2	rabeprazole	4	KG00098817	epistaxis	0.02016136795282364
+trial_2	rabeprazole	72	KG00103771	myalgias	0.020066486671566963
+trial_2	rabeprazole	38	KG00098066	Binocular vision disorders	0.01976923644542694
+trial_2	rabeprazole	136	KG00101582	Dry;skin	0.019618628546595573
+trial_2	rabeprazole	27	KG00099303	hyperkalaemia	0.019435793161392212
+trial_2	rabeprazole	234	KG00098669	dysgeusias	0.018793758004903793
+trial_2	rabeprazole	122	KG00099321	Hypersensitivity NOS	0.018692342564463615
+trial_2	rabeprazole	361	KG00098004	Fibrillation, Atrial	0.0183031614869833
+trial_2	rabeprazole	195	KG00097814	Atopic Rhinitis	0.01828976534307003
+trial_2	rabeprazole	253	KG00100232	Pleural effusion NOS (disorder)	0.017999539151787758
+trial_2	rabeprazole	75	KG00100195	Dolens, Phlegmasia Alba	0.01790308579802513
+trial_2	rabeprazole	121	KG00099190	haemorrhage	0.017884759232401848
+trial_2	rabeprazole	94	KG00103829	abdominal discomfort	0.01784553751349449
+trial_2	rabeprazole	164	KG00108827	ileus colon	0.017819589003920555
+trial_2	rabeprazole	35	KG00101507	hypomagnesaemia	0.017621567472815514
+trial_2	rabeprazole	249	KG00104430	hypoalbuminaemia	0.017580678686499596
+trial_2	rabeprazole	33	KG00100094	Pancreatitis NOS	0.01728917844593525
+trial_2	rabeprazole	102	KG00097916	anxieties	0.017236992716789246
+trial_2	rabeprazole	40	KG00098092	Blepharoconjunctivitis NOS	0.016990795731544495
+trial_2	rabeprazole	288	KG00101223	hypophosphataemia	0.016831224784255028
+trial_2	rabeprazole	454	KG00098286	Pain, Neck	0.016192756593227386
+trial_2	rabeprazole	466	KG00101205	fall	0.016169462352991104
+trial_2	rabeprazole	394	KG00100243	Pneumonia, Aspiration	0.0157382320612669
+trial_2	rabeprazole	382	KG00099200	haemorrhoids	0.015737220644950867
+trial_2	rabeprazole	211	KG00100341	Pruritus NOS	0.01572517119348049
+trial_2	rabeprazole	31	KG00099872	Infarction, Myocardial	0.015330816619098186
+trial_2	rabeprazole	286	KG00101110	Retention, Urinary	0.015236196108162403
+trial_2	rabeprazole	11	KG00097993	Asthma NOS	0.015218541026115417

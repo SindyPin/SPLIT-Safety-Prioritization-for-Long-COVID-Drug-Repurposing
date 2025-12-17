@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15956628322601318
+trial_1	placebo	46	KG00099121	Headache NOS	0.08695903420448303
+trial_1	placebo	68	KG00099901	nauseas	0.08327195048332214
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06888766586780548
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06474161148071289
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06256494671106339
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06192728132009506
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0551045686006546
+trial_1	placebo	20	KG00098540	dehydration	0.05508449673652649
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.054642293602228165
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05428112670779228
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05278075113892555
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05219664052128792
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.050704147666692734
+trial_1	placebo	21	KG00098675	dyspnoea	0.04822370409965515
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.047913599759340286
+trial_1	placebo	126	KG00100076	Pain NOS	0.045995671302080154
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04225696623325348
+trial_1	placebo	228	KG00114657	Weight below normal	0.039646100252866745
+trial_1	placebo	114	KG00098933	fevers	0.03908195346593857
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03806614130735397
+trial_1	placebo	14	KG00097852	Anemia NOS	0.037707868963479996
+trial_1	placebo	72	KG00103771	myalgias	0.03614569082856178
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035947348922491074
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.030074210837483406
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02755182981491089
+trial_1	placebo	85	KG00098474	coughs	0.02654624916613102
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.0263063907623291
+trial_1	placebo	5	KG00099169	haematuria	0.025818346068263054
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.025717463344335556
+trial_1	placebo	104	KG00097963	arthralgias	0.024750739336013794
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.024581866338849068
+trial_1	placebo	121	KG00099190	haemorrhage	0.024560512974858284
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.02451115846633911
+trial_1	placebo	147	KG00098000	atelectases	0.02399720624089241
+trial_1	placebo	82	KG00097697	abdomen distended	0.0238686241209507
+trial_1	placebo	86	KG00098565	Depression, Mental	0.023776551708579063
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.023652438074350357
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.023456232622265816
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.022503724321722984
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02243504486978054
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02191583439707756
+trial_1	placebo	234	KG00098669	dysgeusias	0.021874679252505302
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02184714749455452
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.021639037877321243
+trial_1	placebo	239	KG00100128	pareses	0.021365294232964516
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0208933986723423
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.020736370235681534
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02058536373078823
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02020026184618473
+trial_1	placebo	350	KG00106765	decreased platelet count	0.019781963899731636
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01917576976120472
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018975621089339256
+trial_1	placebo	102	KG00097916	anxieties	0.018467316403985023
+trial_1	placebo	116	KG00098964	Pain in foot	0.018400872126221657
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018347423523664474
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.018117662519216537
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01787969283759594
+trial_1	placebo	466	KG00101205	fall	0.017591776326298714
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017274918034672737
+trial_1	placebo	100	KG00097815	alopecias	0.016996540129184723
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01618145778775215
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01616024784743786
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.015821635723114014
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.015378440730273724
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.015320354141294956
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.015283862128853798
+trial_1	placebo	136	KG00101582	Dry;skin	0.015160523355007172
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015037747099995613
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.015027502551674843
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01486832182854414
+trial_1	placebo	282	KG00099309	hypernatraemia	0.014849713072180748
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.014725077897310257
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.014560694806277752
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.014262666925787926
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014253519475460052
+trial_1	placebo	4	KG00098817	epistaxis	0.014159120619297028
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.014061677269637585
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.013722474686801434
+trial_1	placebo	269	KG00100399	pyaemia	0.013664763420820236
+trial_1	placebo	262	KG00101199	agitation	0.013313460163772106
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.013281915336847305
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.013083985075354576
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.012891333550214767
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.012855189852416515
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012744720093905926
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.012679536826908588
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.012676802463829517
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.012636741623282433
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01263460610061884
+trial_1	placebo	212	KG00100576	shivers	0.012317650951445103
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012282827869057655
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.012167282402515411
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01203381922096014
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.01201441790908575
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.011794693768024445
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.011675164103507996
+trial_1	placebo	186	KG00101431	creatinine increased	0.011646471917629242
+trial_1	placebo	221	KG00101207	peripheral oedema	0.011564742773771286
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.011556003242731094
+trial_2	resveratrol	87	KG00098599	diarrhoea	0.15956628322601318
+trial_2	resveratrol	46	KG00099121	Headache NOS	0.08695903420448303
+trial_2	resveratrol	68	KG00099901	nauseas	0.08327195048332214
+trial_2	resveratrol	49	KG00099902	nausea with vomiting	0.06888766586780548
+trial_2	resveratrol	67	KG00098673	Dyspepsia, NOS	0.06474161148071289
+trial_2	resveratrol	17	KG00097991	Asthenia NOS	0.06256494671106339
+trial_2	resveratrol	173	KG00098172	Bronchopneumonia NOS	0.06192728132009506
+trial_2	resveratrol	177	KG00099299	hyperglycaemia	0.0551045686006546
+trial_2	resveratrol	20	KG00098540	dehydration	0.05508449673652649
+trial_2	resveratrol	78	KG00099326	Hypertensive diseases	0.054642293602228165
+trial_2	resveratrol	37	KG00097696	Cramps, Abdominal	0.05428112670779228
+trial_2	resveratrol	9	KG00098432	Confusion NOS	0.05278075113892555
+trial_2	resveratrol	123	KG00099351	hypokalaemia	0.05219664052128792
+trial_2	resveratrol	101	KG00097901	Anorexia NOS	0.050704147666692734
+trial_2	resveratrol	21	KG00098675	dyspnoea	0.04822370409965515
+trial_2	resveratrol	64	KG00097734	Acrodermatitis, NOS	0.047913599759340286
+trial_2	resveratrol	126	KG00100076	Pain NOS	0.045995671302080154
+trial_2	resveratrol	79	KG00100317	Insomnia, Primary	0.04225696623325348
+trial_2	resveratrol	228	KG00114657	Weight below normal	0.039646100252866745
+trial_2	resveratrol	114	KG00098933	fevers	0.03908195346593857
+trial_2	resveratrol	77	KG00098450	Constipation NOS	0.03806614130735397
+trial_2	resveratrol	14	KG00097852	Anemia NOS	0.037707868963479996
+trial_2	resveratrol	72	KG00103771	myalgias	0.03614569082856178
+trial_2	resveratrol	200	KG00098539	Disorders, Deglutition	0.035947348922491074
+trial_2	resveratrol	96	KG00101679	Unattended death NOS	0.030074210837483406
+trial_2	resveratrol	18	KG00098307	Pain, Chest	0.02755182981491089
+trial_2	resveratrol	85	KG00098474	coughs	0.02654624916613102
+trial_2	resveratrol	142	KG00100923	Unspecified infectious and parasitic diseases	0.0263063907623291
+trial_2	resveratrol	5	KG00099169	haematuria	0.025818346068263054
+trial_2	resveratrol	2	KG00100772	thrombocytopaenia	0.025717463344335556
+trial_2	resveratrol	104	KG00097963	arthralgias	0.024750739336013794
+trial_2	resveratrol	139	KG00098855	Sinusitis, Ethmoid	0.024581866338849068
+trial_2	resveratrol	121	KG00099190	haemorrhage	0.024560512974858284
+trial_2	resveratrol	151	KG00098274	Infarction, Cerebral	0.02451115846633911
+trial_2	resveratrol	147	KG00098000	atelectases	0.02399720624089241
+trial_2	resveratrol	82	KG00097697	abdomen distended	0.0238686241209507
+trial_2	resveratrol	86	KG00098565	Depression, Mental	0.023776551708579063
+trial_2	resveratrol	122	KG00099321	Hypersensitivity NOS	0.023652438074350357
+trial_2	resveratrol	180	KG00099363	Hypotension NOS	0.023456232622265816
+trial_2	resveratrol	243	KG00100947	Micturition frequency increased	0.022503724321722984
+trial_2	resveratrol	29	KG00099354	hyponatraemia	0.02243504486978054
+trial_2	resveratrol	396	KG00100373	Embolism, Pulmonary	0.02191583439707756
+trial_2	resveratrol	234	KG00098669	dysgeusias	0.021874679252505302
+trial_2	resveratrol	189	KG00101580	Alanine aminotransferase increase	0.02184714749455452
+trial_2	resveratrol	76	KG00100450	Respiratory insufficiency, NOS	0.021639037877321243
+trial_2	resveratrol	239	KG00100128	pareses	0.021365294232964516
+trial_2	resveratrol	61	KG00099501	Chronic Kidney Failure	0.0208933986723423
+trial_2	resveratrol	28	KG00099347	hypoglycaemia	0.020736370235681534
+trial_2	resveratrol	131	KG00100948	Urinary tract infection (& [NOS])	0.02058536373078823
+trial_2	resveratrol	38	KG00098066	Binocular vision disorders	0.02020026184618473
+trial_2	resveratrol	350	KG00106765	decreased platelet count	0.019781963899731636
+trial_2	resveratrol	361	KG00098004	Fibrillation, Atrial	0.01917576976120472
+trial_2	resveratrol	211	KG00100341	Pruritus NOS	0.018975621089339256
+trial_2	resveratrol	102	KG00097916	anxieties	0.018467316403985023
+trial_2	resveratrol	116	KG00098964	Pain in foot	0.018400872126221657
+trial_2	resveratrol	69	KG00100082	Palpitations NOS	0.018347423523664474
+trial_2	resveratrol	188	KG00101579	Aspartate aminotransferase increase	0.018117662519216537
+trial_2	resveratrol	441	KG00098262	cellulitis nos	0.01787969283759594
+trial_2	resveratrol	466	KG00101205	fall	0.017591776326298714
+trial_2	resveratrol	204	KG00098849	Esophagitis, Peptic	0.017274918034672737
+trial_2	resveratrol	100	KG00097815	alopecias	0.016996540129184723
+trial_2	resveratrol	75	KG00100195	Dolens, Phlegmasia Alba	0.01618145778775215
+trial_2	resveratrol	179	KG00099342	hypocalcaemia	0.01616024784743786
+trial_2	resveratrol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.015821635723114014
+trial_2	resveratrol	276	KG00099127	Arrest, Cardiac	0.015378440730273724
+trial_2	resveratrol	98	KG00097718	Incised wound, NOS	0.015320354141294956
+trial_2	resveratrol	194	KG00110727	Neutrophil Count Decreased	0.015283862128853798
+trial_2	resveratrol	136	KG00101582	Dry;skin	0.015160523355007172
+trial_2	resveratrol	154	KG00099686	Lymphopenias	0.015037747099995613
+trial_2	resveratrol	30	KG00099500	Acute Kidney Failure	0.015027502551674843
+trial_2	resveratrol	355	KG00110857	lymphocyte count decreased	0.01486832182854414
+trial_2	resveratrol	282	KG00099309	hypernatraemia	0.014849713072180748
+trial_2	resveratrol	27	KG00099303	hyperkalaemia	0.014725077897310257
+trial_2	resveratrol	31	KG00099872	Infarction, Myocardial	0.014560694806277752
+trial_2	resveratrol	286	KG00101110	Retention, Urinary	0.014262666925787926
+trial_2	resveratrol	15	KG00097882	Angina pectoris NOS	0.014253519475460052
+trial_2	resveratrol	4	KG00098817	epistaxis	0.014159120619297028
+trial_2	resveratrol	170	KG00108926	Neutropenia, Febrile	0.014061677269637585
+trial_2	resveratrol	1	KG00099959	Neutropenia NOS	0.013722474686801434
+trial_2	resveratrol	269	KG00100399	pyaemia	0.013664763420820236
+trial_2	resveratrol	262	KG00101199	agitation	0.013313460163772106
+trial_2	resveratrol	371	KG00098517	Cystitis (NOS)	0.013281915336847305
+trial_2	resveratrol	253	KG00100232	Pleural effusion NOS (disorder)	0.013083985075354576
+trial_2	resveratrol	133	KG00101370	neuropathies sensory	0.012891333550214767
+trial_2	resveratrol	33	KG00100094	Pancreatitis NOS	0.012855189852416515
+trial_2	resveratrol	191	KG00104055	Biliverdin increased	0.012744720093905926
+trial_2	resveratrol	144	KG00099610	Leukopenia NOS	0.012679536826908588
+trial_2	resveratrol	92	KG00100926	Infections, Upper Respiratory	0.012676802463829517
+trial_2	resveratrol	249	KG00104430	hypoalbuminaemia	0.012636741623282433
+trial_2	resveratrol	138	KG00098796	epidemic vomiting syndrome	0.01263460610061884
+trial_2	resveratrol	212	KG00100576	shivers	0.012317650951445103
+trial_2	resveratrol	261	KG00101559	raised alkaline phosphatase	0.012282827869057655
+trial_2	resveratrol	195	KG00097814	Atopic Rhinitis	0.012167282402515411
+trial_2	resveratrol	11	KG00097993	Asthma NOS	0.01203381922096014
+trial_2	resveratrol	108	KG00098479	Cramp, Limb	0.01201441790908575
+trial_2	resveratrol	254	KG00100774	Thrombosis NOS	0.011794693768024445
+trial_2	resveratrol	271	KG00103813	reflex bradycardia	0.011675164103507996
+trial_2	resveratrol	186	KG00101431	creatinine increased	0.011646471917629242
+trial_2	resveratrol	221	KG00101207	peripheral oedema	0.011564742773771286
+trial_2	resveratrol	356	KG00112623	Infectious Lung Disorders	0.011556003242731094

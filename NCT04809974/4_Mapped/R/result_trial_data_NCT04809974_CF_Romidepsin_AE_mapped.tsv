@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.3285518288612366
+trial_1	placebo	68	KG00099901	nauseas	0.28215792775154114
+trial_1	placebo	123	KG00099351	hypokalaemia	0.2238493114709854
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.21942327916622162
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.20394355058670044
+trial_1	placebo	9	KG00098432	Confusion NOS	0.20198342204093933
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.19039371609687805
+trial_1	placebo	20	KG00098540	dehydration	0.18998418748378754
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.18880075216293335
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.18760167062282562
+trial_1	placebo	46	KG00099121	Headache NOS	0.18625092506408691
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.17730265855789185
+trial_1	placebo	77	KG00098450	Constipation NOS	0.17215140163898468
+trial_1	placebo	21	KG00098675	dyspnoea	0.16414159536361694
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.15612275898456573
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.15594226121902466
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.14894507825374603
+trial_1	placebo	228	KG00114657	Weight below normal	0.14084358513355255
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.130427286028862
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1296241134405136
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.12648408114910126
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11882713437080383
+trial_1	placebo	72	KG00103771	myalgias	0.1101602166891098
+trial_1	placebo	126	KG00100076	Pain NOS	0.10992292314767838
+trial_1	placebo	14	KG00097852	Anemia NOS	0.10389743000268936
+trial_1	placebo	114	KG00098933	fevers	0.09783157706260681
+trial_1	placebo	350	KG00106765	decreased platelet count	0.09344998002052307
+trial_1	placebo	29	KG00099354	hyponatraemia	0.09286832809448242
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08885541558265686
+trial_1	placebo	239	KG00100128	pareses	0.08217461407184601
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0802178680896759
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0801270455121994
+trial_1	placebo	82	KG00097697	abdomen distended	0.0774703100323677
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07725208252668381
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0768309161067009
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07555839419364929
+trial_1	placebo	102	KG00097916	anxieties	0.07215902954339981
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.07144425064325333
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.07136577367782593
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.07048171758651733
+trial_1	placebo	104	KG00097963	arthralgias	0.06974112242460251
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06818875670433044
+trial_1	placebo	85	KG00098474	coughs	0.06754302233457565
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0665307268500328
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.06546923518180847
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.06521710008382797
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.06399523466825485
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06339710205793381
+trial_1	placebo	212	KG00100576	shivers	0.06322073936462402
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.06274592131376266
+trial_1	placebo	234	KG00098669	dysgeusias	0.061483707278966904
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.06115400791168213
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.06052191182971001
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.060249242931604385
+trial_1	placebo	147	KG00098000	atelectases	0.05986513942480087
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.059522420167922974
+trial_1	placebo	5	KG00099169	haematuria	0.059133678674697876
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.055582307279109955
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05457973852753639
+trial_1	placebo	116	KG00098964	Pain in foot	0.05407891049981117
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05340670421719551
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05244636535644531
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05099332705140114
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.05010926350951195
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.049762893468141556
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04967157542705536
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04944763332605362
+trial_1	placebo	100	KG00097815	alopecias	0.04941464215517044
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.049066971987485886
+trial_1	placebo	186	KG00101431	creatinine increased	0.04860455170273781
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.04854585602879524
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04812226444482803
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.04784990847110748
+trial_1	placebo	154	KG00099686	Lymphopenias	0.04775792360305786
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04687873646616936
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.045977164059877396
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.04580061882734299
+trial_1	placebo	269	KG00100399	pyaemia	0.045649997889995575
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0447540357708931
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.043987590819597244
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.04365767166018486
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.042887452989816666
+trial_1	placebo	121	KG00099190	haemorrhage	0.04244789853692055
+trial_1	placebo	221	KG00101207	peripheral oedema	0.041846998035907745
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04160787910223007
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0412723533809185
+trial_1	placebo	136	KG00101582	Dry;skin	0.040732573717832565
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.040705595165491104
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.04038997367024422
+trial_1	placebo	466	KG00101205	fall	0.03951703757047653
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.03918091580271721
+trial_1	placebo	4	KG00098817	epistaxis	0.03787551447749138
+trial_1	placebo	300	KG00101064	xerostomia	0.037069790065288544
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03638313338160515
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.03603363037109375
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.034970611333847046
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03238549828529358
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.03214195743203163
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03179485723376274
+trial_1	placebo	135	KG00101549	bone pain	0.03127484768629074
+trial_2	romidepsin	87	KG00098599	diarrhoea	0.3285518288612366
+trial_2	romidepsin	68	KG00099901	nauseas	0.28215792775154114
+trial_2	romidepsin	123	KG00099351	hypokalaemia	0.2238493114709854
+trial_2	romidepsin	17	KG00097991	Asthenia NOS	0.21942327916622162
+trial_2	romidepsin	49	KG00099902	nausea with vomiting	0.20394355058670044
+trial_2	romidepsin	9	KG00098432	Confusion NOS	0.20198342204093933
+trial_2	romidepsin	78	KG00099326	Hypertensive diseases	0.19039371609687805
+trial_2	romidepsin	20	KG00098540	dehydration	0.18998418748378754
+trial_2	romidepsin	177	KG00099299	hyperglycaemia	0.18880075216293335
+trial_2	romidepsin	101	KG00097901	Anorexia NOS	0.18760167062282562
+trial_2	romidepsin	46	KG00099121	Headache NOS	0.18625092506408691
+trial_2	romidepsin	173	KG00098172	Bronchopneumonia NOS	0.17730265855789185
+trial_2	romidepsin	77	KG00098450	Constipation NOS	0.17215140163898468
+trial_2	romidepsin	21	KG00098675	dyspnoea	0.16414159536361694
+trial_2	romidepsin	64	KG00097734	Acrodermatitis, NOS	0.15612275898456573
+trial_2	romidepsin	189	KG00101580	Alanine aminotransferase increase	0.15594226121902466
+trial_2	romidepsin	37	KG00097696	Cramps, Abdominal	0.14894507825374603
+trial_2	romidepsin	228	KG00114657	Weight below normal	0.14084358513355255
+trial_2	romidepsin	2	KG00100772	thrombocytopaenia	0.130427286028862
+trial_2	romidepsin	67	KG00098673	Dyspepsia, NOS	0.1296241134405136
+trial_2	romidepsin	188	KG00101579	Aspartate aminotransferase increase	0.12648408114910126
+trial_2	romidepsin	79	KG00100317	Insomnia, Primary	0.11882713437080383
+trial_2	romidepsin	72	KG00103771	myalgias	0.1101602166891098
+trial_2	romidepsin	126	KG00100076	Pain NOS	0.10992292314767838
+trial_2	romidepsin	14	KG00097852	Anemia NOS	0.10389743000268936
+trial_2	romidepsin	114	KG00098933	fevers	0.09783157706260681
+trial_2	romidepsin	350	KG00106765	decreased platelet count	0.09344998002052307
+trial_2	romidepsin	29	KG00099354	hyponatraemia	0.09286832809448242
+trial_2	romidepsin	200	KG00098539	Disorders, Deglutition	0.08885541558265686
+trial_2	romidepsin	239	KG00100128	pareses	0.08217461407184601
+trial_2	romidepsin	243	KG00100947	Micturition frequency increased	0.0802178680896759
+trial_2	romidepsin	179	KG00099342	hypocalcaemia	0.0801270455121994
+trial_2	romidepsin	82	KG00097697	abdomen distended	0.0774703100323677
+trial_2	romidepsin	180	KG00099363	Hypotension NOS	0.07725208252668381
+trial_2	romidepsin	76	KG00100450	Respiratory insufficiency, NOS	0.0768309161067009
+trial_2	romidepsin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07555839419364929
+trial_2	romidepsin	102	KG00097916	anxieties	0.07215902954339981
+trial_2	romidepsin	194	KG00110727	Neutrophil Count Decreased	0.07144425064325333
+trial_2	romidepsin	38	KG00098066	Binocular vision disorders	0.07136577367782593
+trial_2	romidepsin	261	KG00101559	raised alkaline phosphatase	0.07048171758651733
+trial_2	romidepsin	104	KG00097963	arthralgias	0.06974112242460251
+trial_2	romidepsin	27	KG00099303	hyperkalaemia	0.06818875670433044
+trial_2	romidepsin	85	KG00098474	coughs	0.06754302233457565
+trial_2	romidepsin	86	KG00098565	Depression, Mental	0.0665307268500328
+trial_2	romidepsin	249	KG00104430	hypoalbuminaemia	0.06546923518180847
+trial_2	romidepsin	122	KG00099321	Hypersensitivity NOS	0.06521710008382797
+trial_2	romidepsin	131	KG00100948	Urinary tract infection (& [NOS])	0.06399523466825485
+trial_2	romidepsin	355	KG00110857	lymphocyte count decreased	0.06339710205793381
+trial_2	romidepsin	212	KG00100576	shivers	0.06322073936462402
+trial_2	romidepsin	288	KG00101223	hypophosphataemia	0.06274592131376266
+trial_2	romidepsin	234	KG00098669	dysgeusias	0.061483707278966904
+trial_2	romidepsin	396	KG00100373	Embolism, Pulmonary	0.06115400791168213
+trial_2	romidepsin	191	KG00104055	Biliverdin increased	0.06052191182971001
+trial_2	romidepsin	35	KG00101507	hypomagnesaemia	0.060249242931604385
+trial_2	romidepsin	147	KG00098000	atelectases	0.05986513942480087
+trial_2	romidepsin	211	KG00100341	Pruritus NOS	0.059522420167922974
+trial_2	romidepsin	5	KG00099169	haematuria	0.059133678674697876
+trial_2	romidepsin	151	KG00098274	Infarction, Cerebral	0.055582307279109955
+trial_2	romidepsin	139	KG00098855	Sinusitis, Ethmoid	0.05457973852753639
+trial_2	romidepsin	116	KG00098964	Pain in foot	0.05407891049981117
+trial_2	romidepsin	96	KG00101679	Unattended death NOS	0.05340670421719551
+trial_2	romidepsin	61	KG00099501	Chronic Kidney Failure	0.05244636535644531
+trial_2	romidepsin	18	KG00098307	Pain, Chest	0.05099332705140114
+trial_2	romidepsin	1	KG00099959	Neutropenia NOS	0.05010926350951195
+trial_2	romidepsin	28	KG00099347	hypoglycaemia	0.049762893468141556
+trial_2	romidepsin	282	KG00099309	hypernatraemia	0.04967157542705536
+trial_2	romidepsin	144	KG00099610	Leukopenia NOS	0.04944763332605362
+trial_2	romidepsin	100	KG00097815	alopecias	0.04941464215517044
+trial_2	romidepsin	142	KG00100923	Unspecified infectious and parasitic diseases	0.049066971987485886
+trial_2	romidepsin	186	KG00101431	creatinine increased	0.04860455170273781
+trial_2	romidepsin	361	KG00098004	Fibrillation, Atrial	0.04854585602879524
+trial_2	romidepsin	36	KG00106434	Vision, Blurring Of	0.04812226444482803
+trial_2	romidepsin	89	KG00099301	Hyperhidrosis (disorder)	0.04784990847110748
+trial_2	romidepsin	154	KG00099686	Lymphopenias	0.04775792360305786
+trial_2	romidepsin	441	KG00098262	cellulitis nos	0.04687873646616936
+trial_2	romidepsin	30	KG00099500	Acute Kidney Failure	0.045977164059877396
+trial_2	romidepsin	170	KG00108926	Neutropenia, Febrile	0.04580061882734299
+trial_2	romidepsin	269	KG00100399	pyaemia	0.045649997889995575
+trial_2	romidepsin	33	KG00100094	Pancreatitis NOS	0.0447540357708931
+trial_2	romidepsin	69	KG00100082	Palpitations NOS	0.043987590819597244
+trial_2	romidepsin	253	KG00100232	Pleural effusion NOS (disorder)	0.04365767166018486
+trial_2	romidepsin	204	KG00098849	Esophagitis, Peptic	0.042887452989816666
+trial_2	romidepsin	121	KG00099190	haemorrhage	0.04244789853692055
+trial_2	romidepsin	221	KG00101207	peripheral oedema	0.041846998035907745
+trial_2	romidepsin	130	KG00100683	Stomatitis NOS	0.04160787910223007
+trial_2	romidepsin	286	KG00101110	Retention, Urinary	0.0412723533809185
+trial_2	romidepsin	136	KG00101582	Dry;skin	0.040732573717832565
+trial_2	romidepsin	276	KG00099127	Arrest, Cardiac	0.040705595165491104
+trial_2	romidepsin	31	KG00099872	Infarction, Myocardial	0.04038997367024422
+trial_2	romidepsin	466	KG00101205	fall	0.03951703757047653
+trial_2	romidepsin	356	KG00112623	Infectious Lung Disorders	0.03918091580271721
+trial_2	romidepsin	4	KG00098817	epistaxis	0.03787551447749138
+trial_2	romidepsin	300	KG00101064	xerostomia	0.037069790065288544
+trial_2	romidepsin	133	KG00101370	neuropathies sensory	0.03638313338160515
+trial_2	romidepsin	22	KG00098705	Edema (NOS)	0.03603363037109375
+trial_2	romidepsin	75	KG00100195	Dolens, Phlegmasia Alba	0.034970611333847046
+trial_2	romidepsin	341	KG00101472	Gamma-glutamyltransferase increased	0.03238549828529358
+trial_2	romidepsin	213	KG00100600	Infectious Skin Diseases	0.03214195743203163
+trial_2	romidepsin	92	KG00100926	Infections, Upper Respiratory	0.03179485723376274
+trial_2	romidepsin	135	KG00101549	bone pain	0.03127484768629074

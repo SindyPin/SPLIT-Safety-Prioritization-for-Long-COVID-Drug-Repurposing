@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.07325495779514313
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.061795320361852646
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05354331061244011
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05245122313499451
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04894021898508072
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.048698071390390396
+trial_1	placebo	21	KG00098675	dyspnoea	0.04707769677042961
+trial_1	placebo	123	KG00099351	hypokalaemia	0.046374138444662094
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04500330984592438
+trial_1	placebo	126	KG00100076	Pain NOS	0.04471346735954285
+trial_1	placebo	46	KG00099121	Headache NOS	0.04264690726995468
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04166088625788689
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03760110214352608
+trial_1	placebo	68	KG00099901	nauseas	0.03482987731695175
+trial_1	placebo	104	KG00097963	arthralgias	0.03441940248012543
+trial_1	placebo	86	KG00098565	Depression, Mental	0.034295178949832916
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03280740603804588
+trial_1	placebo	20	KG00098540	dehydration	0.03215411677956581
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.031812507659196854
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03010820411145687
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029778577387332916
+trial_1	placebo	228	KG00114657	Weight below normal	0.02926589362323284
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.029114704579114914
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.029036881402134895
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02870604768395424
+trial_1	placebo	114	KG00098933	fevers	0.028623931109905243
+trial_1	placebo	14	KG00097852	Anemia NOS	0.028534123674035072
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027966178953647614
+trial_1	placebo	121	KG00099190	haemorrhage	0.026906263083219528
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026859397068619728
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0264145340770483
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026369165629148483
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.025257889181375504
+trial_1	placebo	466	KG00101205	fall	0.025152111425995827
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.024570869281888008
+trial_1	placebo	85	KG00098474	coughs	0.024260398000478745
+trial_1	placebo	239	KG00100128	pareses	0.024176277220249176
+trial_1	placebo	147	KG00098000	atelectases	0.024105360731482506
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02361924573779106
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022811483591794968
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02272898703813553
+trial_1	placebo	5	KG00099169	haematuria	0.02264697104692459
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0223085880279541
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02199675887823105
+trial_1	placebo	18	KG00098307	Pain, Chest	0.021825002506375313
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.021445630118250847
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.021296223625540733
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020861491560935974
+trial_1	placebo	116	KG00098964	Pain in foot	0.02005600929260254
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.020032823085784912
+trial_1	placebo	454	KG00098286	Pain, Neck	0.019983336329460144
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.019914688542485237
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019868964329361916
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019790560007095337
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01894264668226242
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01892557367682457
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01869492419064045
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.018534373492002487
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.018512267619371414
+trial_1	placebo	72	KG00103771	myalgias	0.018511665984988213
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.01842261478304863
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.018155882135033607
+trial_1	placebo	203	KG00098661	dysarthrias	0.017874134704470634
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01745441183447838
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017150936648249626
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01714850217103958
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.016995303332805634
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016678305342793465
+trial_1	placebo	102	KG00097916	anxieties	0.016650410369038582
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016649426892399788
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01652139611542225
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.0163271427154541
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.0163193941116333
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.016146758571267128
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.015499435365200043
+trial_1	placebo	186	KG00101431	creatinine increased	0.015359701588749886
+trial_1	placebo	82	KG00097697	abdomen distended	0.015354149043560028
+trial_1	placebo	456	KG00099420	Influenzae	0.015223688445985317
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.014403020963072777
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.014317328110337257
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.014286546036601067
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.014284907840192318
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.014007333666086197
+trial_1	placebo	269	KG00100399	pyaemia	0.01380529347807169
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.013675970025360584
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013658775947988033
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.013488957658410072
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.013464302755892277
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01300310529768467
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01300002634525299
+trial_1	placebo	23	KG00098974	Multiple Fractures	0.012960080057382584
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012927803210914135
+trial_1	placebo	135	KG00101549	bone pain	0.01292657945305109
+trial_1	placebo	310	KG00097940	Appendicitis NOS	0.012890726327896118
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.01285580638796091
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.012627173215150833
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01259981282055378
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01246765349060297
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.012405060231685638
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01236650999635458
+trial_2	risedronic acid	87	KG00098599	diarrhoea	0.07325495779514313
+trial_2	risedronic acid	78	KG00099326	Hypertensive diseases	0.061795320361852646
+trial_2	risedronic acid	9	KG00098432	Confusion NOS	0.05354331061244011
+trial_2	risedronic acid	173	KG00098172	Bronchopneumonia NOS	0.05245122313499451
+trial_2	risedronic acid	17	KG00097991	Asthenia NOS	0.04894021898508072
+trial_2	risedronic acid	67	KG00098673	Dyspepsia, NOS	0.048698071390390396
+trial_2	risedronic acid	21	KG00098675	dyspnoea	0.04707769677042961
+trial_2	risedronic acid	123	KG00099351	hypokalaemia	0.046374138444662094
+trial_2	risedronic acid	177	KG00099299	hyperglycaemia	0.04500330984592438
+trial_2	risedronic acid	126	KG00100076	Pain NOS	0.04471346735954285
+trial_2	risedronic acid	46	KG00099121	Headache NOS	0.04264690726995468
+trial_2	risedronic acid	64	KG00097734	Acrodermatitis, NOS	0.04166088625788689
+trial_2	risedronic acid	77	KG00098450	Constipation NOS	0.03760110214352608
+trial_2	risedronic acid	68	KG00099901	nauseas	0.03482987731695175
+trial_2	risedronic acid	104	KG00097963	arthralgias	0.03441940248012543
+trial_2	risedronic acid	86	KG00098565	Depression, Mental	0.034295178949832916
+trial_2	risedronic acid	37	KG00097696	Cramps, Abdominal	0.03280740603804588
+trial_2	risedronic acid	20	KG00098540	dehydration	0.03215411677956581
+trial_2	risedronic acid	151	KG00098274	Infarction, Cerebral	0.031812507659196854
+trial_2	risedronic acid	200	KG00098539	Disorders, Deglutition	0.03010820411145687
+trial_2	risedronic acid	243	KG00100947	Micturition frequency increased	0.029778577387332916
+trial_2	risedronic acid	228	KG00114657	Weight below normal	0.02926589362323284
+trial_2	risedronic acid	79	KG00100317	Insomnia, Primary	0.029114704579114914
+trial_2	risedronic acid	2	KG00100772	thrombocytopaenia	0.029036881402134895
+trial_2	risedronic acid	49	KG00099902	nausea with vomiting	0.02870604768395424
+trial_2	risedronic acid	114	KG00098933	fevers	0.028623931109905243
+trial_2	risedronic acid	14	KG00097852	Anemia NOS	0.028534123674035072
+trial_2	risedronic acid	29	KG00099354	hyponatraemia	0.027966178953647614
+trial_2	risedronic acid	121	KG00099190	haemorrhage	0.026906263083219528
+trial_2	risedronic acid	350	KG00106765	decreased platelet count	0.026859397068619728
+trial_2	risedronic acid	189	KG00101580	Alanine aminotransferase increase	0.0264145340770483
+trial_2	risedronic acid	61	KG00099501	Chronic Kidney Failure	0.026369165629148483
+trial_2	risedronic acid	96	KG00101679	Unattended death NOS	0.025257889181375504
+trial_2	risedronic acid	466	KG00101205	fall	0.025152111425995827
+trial_2	risedronic acid	28	KG00099347	hypoglycaemia	0.024570869281888008
+trial_2	risedronic acid	85	KG00098474	coughs	0.024260398000478745
+trial_2	risedronic acid	239	KG00100128	pareses	0.024176277220249176
+trial_2	risedronic acid	147	KG00098000	atelectases	0.024105360731482506
+trial_2	risedronic acid	179	KG00099342	hypocalcaemia	0.02361924573779106
+trial_2	risedronic acid	396	KG00100373	Embolism, Pulmonary	0.022811483591794968
+trial_2	risedronic acid	139	KG00098855	Sinusitis, Ethmoid	0.02272898703813553
+trial_2	risedronic acid	5	KG00099169	haematuria	0.02264697104692459
+trial_2	risedronic acid	30	KG00099500	Acute Kidney Failure	0.0223085880279541
+trial_2	risedronic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.02199675887823105
+trial_2	risedronic acid	18	KG00098307	Pain, Chest	0.021825002506375313
+trial_2	risedronic acid	118	KG00099011	Gastritis NOS	0.021445630118250847
+trial_2	risedronic acid	188	KG00101579	Aspartate aminotransferase increase	0.021296223625540733
+trial_2	risedronic acid	69	KG00100082	Palpitations NOS	0.020861491560935974
+trial_2	risedronic acid	116	KG00098964	Pain in foot	0.02005600929260254
+trial_2	risedronic acid	98	KG00097718	Incised wound, NOS	0.020032823085784912
+trial_2	risedronic acid	454	KG00098286	Pain, Neck	0.019983336329460144
+trial_2	risedronic acid	101	KG00097901	Anorexia NOS	0.019914688542485237
+trial_2	risedronic acid	361	KG00098004	Fibrillation, Atrial	0.019868964329361916
+trial_2	risedronic acid	441	KG00098262	cellulitis nos	0.019790560007095337
+trial_2	risedronic acid	138	KG00098796	epidemic vomiting syndrome	0.01894264668226242
+trial_2	risedronic acid	11	KG00097993	Asthma NOS	0.01892557367682457
+trial_2	risedronic acid	38	KG00098066	Binocular vision disorders	0.01869492419064045
+trial_2	risedronic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.018534373492002487
+trial_2	risedronic acid	122	KG00099321	Hypersensitivity NOS	0.018512267619371414
+trial_2	risedronic acid	72	KG00103771	myalgias	0.018511665984988213
+trial_2	risedronic acid	76	KG00100450	Respiratory insufficiency, NOS	0.01842261478304863
+trial_2	risedronic acid	166	KG00099773	menopausal syndrome	0.018155882135033607
+trial_2	risedronic acid	203	KG00098661	dysarthrias	0.017874134704470634
+trial_2	risedronic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.01745441183447838
+trial_2	risedronic acid	31	KG00099872	Infarction, Myocardial	0.017150936648249626
+trial_2	risedronic acid	199	KG00098371	Rhinitis (chronic) NOS	0.01714850217103958
+trial_2	risedronic acid	92	KG00100926	Infections, Upper Respiratory	0.016995303332805634
+trial_2	risedronic acid	211	KG00100341	Pruritus NOS	0.016678305342793465
+trial_2	risedronic acid	102	KG00097916	anxieties	0.016650410369038582
+trial_2	risedronic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016649426892399788
+trial_2	risedronic acid	15	KG00097882	Angina pectoris NOS	0.01652139611542225
+trial_2	risedronic acid	204	KG00098849	Esophagitis, Peptic	0.0163271427154541
+trial_2	risedronic acid	371	KG00098517	Cystitis (NOS)	0.0163193941116333
+trial_2	risedronic acid	160	KG00099291	hypercalcaemia	0.016146758571267128
+trial_2	risedronic acid	105	KG00097964	Arthritis NOS	0.015499435365200043
+trial_2	risedronic acid	186	KG00101431	creatinine increased	0.015359701588749886
+trial_2	risedronic acid	82	KG00097697	abdomen distended	0.015354149043560028
+trial_2	risedronic acid	456	KG00099420	Influenzae	0.015223688445985317
+trial_2	risedronic acid	276	KG00099127	Arrest, Cardiac	0.014403020963072777
+trial_2	risedronic acid	352	KG00107658	NON-CARDIAC CHEST PAIN	0.014317328110337257
+trial_2	risedronic acid	180	KG00099363	Hypotension NOS	0.014286546036601067
+trial_2	risedronic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.014284907840192318
+trial_2	risedronic acid	195	KG00097814	Atopic Rhinitis	0.014007333666086197
+trial_2	risedronic acid	269	KG00100399	pyaemia	0.01380529347807169
+trial_2	risedronic acid	27	KG00099303	hyperkalaemia	0.013675970025360584
+trial_2	risedronic acid	194	KG00110727	Neutrophil Count Decreased	0.013658775947988033
+trial_2	risedronic acid	356	KG00112623	Infectious Lung Disorders	0.013488957658410072
+trial_2	risedronic acid	163	KG00104050	bowel obstructions small	0.013464302755892277
+trial_2	risedronic acid	191	KG00104055	Biliverdin increased	0.01300310529768467
+trial_2	risedronic acid	286	KG00101110	Retention, Urinary	0.01300002634525299
+trial_2	risedronic acid	23	KG00098974	Multiple Fractures	0.012960080057382584
+trial_2	risedronic acid	261	KG00101559	raised alkaline phosphatase	0.012927803210914135
+trial_2	risedronic acid	135	KG00101549	bone pain	0.01292657945305109
+trial_2	risedronic acid	310	KG00097940	Appendicitis NOS	0.012890726327896118
+trial_2	risedronic acid	19	KG00098331	Cholecystitis NOS	0.01285580638796091
+trial_2	risedronic acid	263	KG00101519	Ischemia, Myocardial	0.012627173215150833
+trial_2	risedronic acid	25	KG00099134	congestive failures heart	0.01259981282055378
+trial_2	risedronic acid	249	KG00104430	hypoalbuminaemia	0.01246765349060297
+trial_2	risedronic acid	218	KG00100801	Tinnitus NOS	0.012405060231685638
+trial_2	risedronic acid	246	KG00103338	Aspartate Aminotransferase Measurement	0.01236650999635458

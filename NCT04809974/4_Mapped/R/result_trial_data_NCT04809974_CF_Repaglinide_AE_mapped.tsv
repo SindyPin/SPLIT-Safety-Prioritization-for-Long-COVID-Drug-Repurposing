@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1290721297264099
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07814189791679382
+trial_1	placebo	20	KG00098540	dehydration	0.06419454514980316
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06386486440896988
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0629376694560051
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06163438782095909
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05772197246551514
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.052824635058641434
+trial_1	placebo	9	KG00098432	Confusion NOS	0.051079463213682175
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04998774826526642
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04785829409956932
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.047756120562553406
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.045292675495147705
+trial_1	placebo	46	KG00099121	Headache NOS	0.04411870613694191
+trial_1	placebo	228	KG00114657	Weight below normal	0.04159817472100258
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03821012005209923
+trial_1	placebo	21	KG00098675	dyspnoea	0.03777788579463959
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.036318060010671616
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03577672317624092
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03523218631744385
+trial_1	placebo	29	KG00099354	hyponatraemia	0.035045549273490906
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.032141052186489105
+trial_1	placebo	126	KG00100076	Pain NOS	0.03196106106042862
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03069613315165043
+trial_1	placebo	132	KG00101045	Gain, Weight	0.029274102300405502
+trial_1	placebo	68	KG00099901	nauseas	0.0291595496237278
+trial_1	placebo	14	KG00097852	Anemia NOS	0.029106633737683296
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02797596901655197
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02699912153184414
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02665344625711441
+trial_1	placebo	147	KG00098000	atelectases	0.026243777945637703
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02543683350086212
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.025295309722423553
+trial_1	placebo	86	KG00098565	Depression, Mental	0.025197690352797508
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02449713461101055
+trial_1	placebo	85	KG00098474	coughs	0.02433009259402752
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023853808641433716
+trial_1	placebo	114	KG00098933	fevers	0.023652393370866776
+trial_1	placebo	82	KG00097697	abdomen distended	0.023571280762553215
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02322489209473133
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.023084139451384544
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.022998113185167313
+trial_1	placebo	104	KG00097963	arthralgias	0.022547543048858643
+trial_1	placebo	5	KG00099169	haematuria	0.02234974130988121
+trial_1	placebo	121	KG00099190	haemorrhage	0.02189595252275467
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021276574581861496
+trial_1	placebo	136	KG00101582	Dry;skin	0.020913591608405113
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0208775345236063
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020856907591223717
+trial_1	placebo	239	KG00100128	pareses	0.02046280913054943
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01957254856824875
+trial_1	placebo	466	KG00101205	fall	0.01927763596177101
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019218118861317635
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.018975812941789627
+trial_1	placebo	234	KG00098669	dysgeusias	0.018727857619524002
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01855294033885002
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018506702035665512
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018476640805602074
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018384812399744987
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018331384286284447
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.018018078058958054
+trial_1	placebo	72	KG00103771	myalgias	0.017962845042347908
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017903372645378113
+trial_1	placebo	221	KG00101207	peripheral oedema	0.017772480845451355
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01756586879491806
+trial_1	placebo	269	KG00100399	pyaemia	0.01753317378461361
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01749289594590664
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.017460914328694344
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017188353464007378
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.017138352617621422
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017137670889496803
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01712169498205185
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017070582136511803
+trial_1	placebo	186	KG00101431	creatinine increased	0.01657102443277836
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01635541021823883
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01580733433365822
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.015551303513348103
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.015375811606645584
+trial_1	placebo	116	KG00098964	Pain in foot	0.015272025018930435
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.015236655250191689
+trial_1	placebo	102	KG00097916	anxieties	0.015231668949127197
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01497662253677845
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.014974442310631275
+trial_1	placebo	4	KG00098817	epistaxis	0.014538804069161415
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.014469132758677006
+trial_1	placebo	242	KG00100855	tremors	0.014231660403311253
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.013949700631201267
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.013932501897215843
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01377566996961832
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.013635443523526192
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.013617132790386677
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.013378378003835678
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.013254859484732151
+trial_1	placebo	456	KG00099420	Influenzae	0.01277114637196064
+trial_1	placebo	154	KG00099686	Lymphopenias	0.012769131921231747
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.012769060209393501
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01226634718477726
+trial_1	placebo	282	KG00099309	hypernatraemia	0.012223144061863422
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.012143628671765327
+trial_1	placebo	11	KG00097993	Asthma NOS	0.012088324874639511
+trial_2	repaglinide	87	KG00098599	diarrhoea	0.1290721297264099
+trial_2	repaglinide	78	KG00099326	Hypertensive diseases	0.07814189791679382
+trial_2	repaglinide	20	KG00098540	dehydration	0.06419454514980316
+trial_2	repaglinide	64	KG00097734	Acrodermatitis, NOS	0.06386486440896988
+trial_2	repaglinide	173	KG00098172	Bronchopneumonia NOS	0.0629376694560051
+trial_2	repaglinide	177	KG00099299	hyperglycaemia	0.06163438782095909
+trial_2	repaglinide	123	KG00099351	hypokalaemia	0.05772197246551514
+trial_2	repaglinide	67	KG00098673	Dyspepsia, NOS	0.052824635058641434
+trial_2	repaglinide	9	KG00098432	Confusion NOS	0.051079463213682175
+trial_2	repaglinide	37	KG00097696	Cramps, Abdominal	0.04998774826526642
+trial_2	repaglinide	28	KG00099347	hypoglycaemia	0.04785829409956932
+trial_2	repaglinide	17	KG00097991	Asthenia NOS	0.047756120562553406
+trial_2	repaglinide	189	KG00101580	Alanine aminotransferase increase	0.045292675495147705
+trial_2	repaglinide	46	KG00099121	Headache NOS	0.04411870613694191
+trial_2	repaglinide	228	KG00114657	Weight below normal	0.04159817472100258
+trial_2	repaglinide	77	KG00098450	Constipation NOS	0.03821012005209923
+trial_2	repaglinide	21	KG00098675	dyspnoea	0.03777788579463959
+trial_2	repaglinide	49	KG00099902	nausea with vomiting	0.036318060010671616
+trial_2	repaglinide	243	KG00100947	Micturition frequency increased	0.03577672317624092
+trial_2	repaglinide	188	KG00101579	Aspartate aminotransferase increase	0.03523218631744385
+trial_2	repaglinide	29	KG00099354	hyponatraemia	0.035045549273490906
+trial_2	repaglinide	76	KG00100450	Respiratory insufficiency, NOS	0.032141052186489105
+trial_2	repaglinide	126	KG00100076	Pain NOS	0.03196106106042862
+trial_2	repaglinide	151	KG00098274	Infarction, Cerebral	0.03069613315165043
+trial_2	repaglinide	132	KG00101045	Gain, Weight	0.029274102300405502
+trial_2	repaglinide	68	KG00099901	nauseas	0.0291595496237278
+trial_2	repaglinide	14	KG00097852	Anemia NOS	0.029106633737683296
+trial_2	repaglinide	101	KG00097901	Anorexia NOS	0.02797596901655197
+trial_2	repaglinide	200	KG00098539	Disorders, Deglutition	0.02699912153184414
+trial_2	repaglinide	131	KG00100948	Urinary tract infection (& [NOS])	0.02665344625711441
+trial_2	repaglinide	147	KG00098000	atelectases	0.026243777945637703
+trial_2	repaglinide	350	KG00106765	decreased platelet count	0.02543683350086212
+trial_2	repaglinide	79	KG00100317	Insomnia, Primary	0.025295309722423553
+trial_2	repaglinide	86	KG00098565	Depression, Mental	0.025197690352797508
+trial_2	repaglinide	61	KG00099501	Chronic Kidney Failure	0.02449713461101055
+trial_2	repaglinide	85	KG00098474	coughs	0.02433009259402752
+trial_2	repaglinide	30	KG00099500	Acute Kidney Failure	0.023853808641433716
+trial_2	repaglinide	114	KG00098933	fevers	0.023652393370866776
+trial_2	repaglinide	82	KG00097697	abdomen distended	0.023571280762553215
+trial_2	repaglinide	180	KG00099363	Hypotension NOS	0.02322489209473133
+trial_2	repaglinide	179	KG00099342	hypocalcaemia	0.023084139451384544
+trial_2	repaglinide	96	KG00101679	Unattended death NOS	0.022998113185167313
+trial_2	repaglinide	104	KG00097963	arthralgias	0.022547543048858643
+trial_2	repaglinide	5	KG00099169	haematuria	0.02234974130988121
+trial_2	repaglinide	121	KG00099190	haemorrhage	0.02189595252275467
+trial_2	repaglinide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021276574581861496
+trial_2	repaglinide	136	KG00101582	Dry;skin	0.020913591608405113
+trial_2	repaglinide	2	KG00100772	thrombocytopaenia	0.0208775345236063
+trial_2	repaglinide	191	KG00104055	Biliverdin increased	0.020856907591223717
+trial_2	repaglinide	239	KG00100128	pareses	0.02046280913054943
+trial_2	repaglinide	441	KG00098262	cellulitis nos	0.01957254856824875
+trial_2	repaglinide	466	KG00101205	fall	0.01927763596177101
+trial_2	repaglinide	18	KG00098307	Pain, Chest	0.019218118861317635
+trial_2	repaglinide	35	KG00101507	hypomagnesaemia	0.018975812941789627
+trial_2	repaglinide	234	KG00098669	dysgeusias	0.018727857619524002
+trial_2	repaglinide	356	KG00112623	Infectious Lung Disorders	0.01855294033885002
+trial_2	repaglinide	27	KG00099303	hyperkalaemia	0.018506702035665512
+trial_2	repaglinide	138	KG00098796	epidemic vomiting syndrome	0.018476640805602074
+trial_2	repaglinide	130	KG00100683	Stomatitis NOS	0.018384812399744987
+trial_2	repaglinide	249	KG00104430	hypoalbuminaemia	0.018331384286284447
+trial_2	repaglinide	288	KG00101223	hypophosphataemia	0.018018078058958054
+trial_2	repaglinide	72	KG00103771	myalgias	0.017962845042347908
+trial_2	repaglinide	122	KG00099321	Hypersensitivity NOS	0.017903372645378113
+trial_2	repaglinide	221	KG00101207	peripheral oedema	0.017772480845451355
+trial_2	repaglinide	142	KG00100923	Unspecified infectious and parasitic diseases	0.01756586879491806
+trial_2	repaglinide	269	KG00100399	pyaemia	0.01753317378461361
+trial_2	repaglinide	92	KG00100926	Infections, Upper Respiratory	0.01749289594590664
+trial_2	repaglinide	211	KG00100341	Pruritus NOS	0.017460914328694344
+trial_2	repaglinide	204	KG00098849	Esophagitis, Peptic	0.017188353464007378
+trial_2	repaglinide	396	KG00100373	Embolism, Pulmonary	0.017138352617621422
+trial_2	repaglinide	139	KG00098855	Sinusitis, Ethmoid	0.017137670889496803
+trial_2	repaglinide	38	KG00098066	Binocular vision disorders	0.01712169498205185
+trial_2	repaglinide	69	KG00100082	Palpitations NOS	0.017070582136511803
+trial_2	repaglinide	186	KG00101431	creatinine increased	0.01657102443277836
+trial_2	repaglinide	261	KG00101559	raised alkaline phosphatase	0.01635541021823883
+trial_2	repaglinide	253	KG00100232	Pleural effusion NOS (disorder)	0.01580733433365822
+trial_2	repaglinide	118	KG00099011	Gastritis NOS	0.015551303513348103
+trial_2	repaglinide	36	KG00106434	Vision, Blurring Of	0.015375811606645584
+trial_2	repaglinide	116	KG00098964	Pain in foot	0.015272025018930435
+trial_2	repaglinide	371	KG00098517	Cystitis (NOS)	0.015236655250191689
+trial_2	repaglinide	102	KG00097916	anxieties	0.015231668949127197
+trial_2	repaglinide	286	KG00101110	Retention, Urinary	0.01497662253677845
+trial_2	repaglinide	33	KG00100094	Pancreatitis NOS	0.014974442310631275
+trial_2	repaglinide	4	KG00098817	epistaxis	0.014538804069161415
+trial_2	repaglinide	194	KG00110727	Neutrophil Count Decreased	0.014469132758677006
+trial_2	repaglinide	242	KG00100855	tremors	0.014231660403311253
+trial_2	repaglinide	199	KG00098371	Rhinitis (chronic) NOS	0.013949700631201267
+trial_2	repaglinide	31	KG00099872	Infarction, Myocardial	0.013932501897215843
+trial_2	repaglinide	355	KG00110857	lymphocyte count decreased	0.01377566996961832
+trial_2	repaglinide	276	KG00099127	Arrest, Cardiac	0.013635443523526192
+trial_2	repaglinide	75	KG00100195	Dolens, Phlegmasia Alba	0.013617132790386677
+trial_2	repaglinide	361	KG00098004	Fibrillation, Atrial	0.013378378003835678
+trial_2	repaglinide	195	KG00097814	Atopic Rhinitis	0.013254859484732151
+trial_2	repaglinide	456	KG00099420	Influenzae	0.01277114637196064
+trial_2	repaglinide	154	KG00099686	Lymphopenias	0.012769131921231747
+trial_2	repaglinide	152	KG00099402	INCONTINENCE NOS	0.012769060209393501
+trial_2	repaglinide	422	KG00101429	Creatine phosphokinase increased	0.01226634718477726
+trial_2	repaglinide	282	KG00099309	hypernatraemia	0.012223144061863422
+trial_2	repaglinide	160	KG00099291	hypercalcaemia	0.012143628671765327
+trial_2	repaglinide	11	KG00097993	Asthma NOS	0.012088324874639511

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19162701070308685
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1357950121164322
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.12461492419242859
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09956593066453934
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09907890111207962
+trial_1	placebo	21	KG00098675	dyspnoea	0.09451960027217865
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08397216349840164
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08254529535770416
+trial_1	placebo	20	KG00098540	dehydration	0.08203593641519547
+trial_1	placebo	46	KG00099121	Headache NOS	0.0753554254770279
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06870713829994202
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06811028718948364
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06748660653829575
+trial_1	placebo	85	KG00098474	coughs	0.06545349955558777
+trial_1	placebo	228	KG00114657	Weight below normal	0.06380646675825119
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0637742429971695
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05745498463511467
+trial_1	placebo	68	KG00099901	nauseas	0.05631675198674202
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.056197501718997955
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05519837886095047
+trial_1	placebo	126	KG00100076	Pain NOS	0.05327805131673813
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05201784893870354
+trial_1	placebo	86	KG00098565	Depression, Mental	0.051968324929475784
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.049112699925899506
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04838448017835617
+trial_1	placebo	114	KG00098933	fevers	0.04805438220500946
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04611654952168465
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04574943333864212
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04483930394053459
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04481895640492439
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.042431410402059555
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04228433221578598
+trial_1	placebo	104	KG00097963	arthralgias	0.04183826968073845
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.040483057498931885
+trial_1	placebo	136	KG00101582	Dry;skin	0.03978851065039635
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03901034966111183
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03835228085517883
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03639420121908188
+trial_1	placebo	121	KG00099190	haemorrhage	0.03614034131169319
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.035939499735832214
+trial_1	placebo	72	KG00103771	myalgias	0.03452838957309723
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.034360095858573914
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03389771282672882
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03272154554724693
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.032670412212610245
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03251931816339493
+trial_1	placebo	18	KG00098307	Pain, Chest	0.032035671174526215
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.030275844037532806
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029154766350984573
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.028900332748889923
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.028643958270549774
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02858157455921173
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.028560016304254532
+trial_1	placebo	234	KG00098669	dysgeusias	0.02841787040233612
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02806893363595009
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02802067995071411
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.028016511350870132
+trial_1	placebo	239	KG00100128	pareses	0.027035165578126907
+trial_1	placebo	147	KG00098000	atelectases	0.02634674496948719
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026328405365347862
+trial_1	placebo	116	KG00098964	Pain in foot	0.026122311130166054
+trial_1	placebo	441	KG00098262	cellulitis nos	0.025970418006181717
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.025781845673918724
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02556125819683075
+trial_1	placebo	186	KG00101431	creatinine increased	0.02534606121480465
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.025295846164226532
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025088628754019737
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024920543655753136
+trial_1	placebo	269	KG00100399	pyaemia	0.024813085794448853
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02417558617889881
+trial_1	placebo	11	KG00097993	Asthma NOS	0.023751946166157722
+trial_1	placebo	5	KG00099169	haematuria	0.02325947768986225
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02304825559258461
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.022635528817772865
+trial_1	placebo	132	KG00101045	Gain, Weight	0.022523246705532074
+trial_1	placebo	339	KG00100334	proteinurias	0.0224416796118021
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0224031712859869
+trial_1	placebo	4	KG00098817	epistaxis	0.021876046434044838
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021693026646971703
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021556023508310318
+trial_1	placebo	82	KG00097697	abdomen distended	0.021225884556770325
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02097328193485737
+trial_1	placebo	221	KG00101207	peripheral oedema	0.020528148859739304
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02038310281932354
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02024681493639946
+trial_1	placebo	102	KG00097916	anxieties	0.020219925791025162
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01967686414718628
+trial_1	placebo	100	KG00097815	alopecias	0.019275842234492302
+trial_1	placebo	155	KG00099960	Neutrophile	0.01913401670753956
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.019047683104872704
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019039055332541466
+trial_1	placebo	255	KG00099909	Necrotic debris, NOS	0.018878178671002388
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.018820565193891525
+trial_1	placebo	456	KG00099420	Influenzae	0.0185827799141407
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.018408240750432014
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.01813611574470997
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.017896128818392754
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01789485476911068
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01767583191394806
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01762818917632103
+trial_2	ritonavir	87	KG00098599	diarrhoea	0.19162701070308685
+trial_2	ritonavir	78	KG00099326	Hypertensive diseases	0.1357950121164322
+trial_2	ritonavir	64	KG00097734	Acrodermatitis, NOS	0.12461492419242859
+trial_2	ritonavir	123	KG00099351	hypokalaemia	0.09956593066453934
+trial_2	ritonavir	17	KG00097991	Asthenia NOS	0.09907890111207962
+trial_2	ritonavir	21	KG00098675	dyspnoea	0.09451960027217865
+trial_2	ritonavir	173	KG00098172	Bronchopneumonia NOS	0.08397216349840164
+trial_2	ritonavir	9	KG00098432	Confusion NOS	0.08254529535770416
+trial_2	ritonavir	20	KG00098540	dehydration	0.08203593641519547
+trial_2	ritonavir	46	KG00099121	Headache NOS	0.0753554254770279
+trial_2	ritonavir	189	KG00101580	Alanine aminotransferase increase	0.06870713829994202
+trial_2	ritonavir	79	KG00100317	Insomnia, Primary	0.06811028718948364
+trial_2	ritonavir	177	KG00099299	hyperglycaemia	0.06748660653829575
+trial_2	ritonavir	85	KG00098474	coughs	0.06545349955558777
+trial_2	ritonavir	228	KG00114657	Weight below normal	0.06380646675825119
+trial_2	ritonavir	67	KG00098673	Dyspepsia, NOS	0.0637742429971695
+trial_2	ritonavir	14	KG00097852	Anemia NOS	0.05745498463511467
+trial_2	ritonavir	68	KG00099901	nauseas	0.05631675198674202
+trial_2	ritonavir	49	KG00099902	nausea with vomiting	0.056197501718997955
+trial_2	ritonavir	37	KG00097696	Cramps, Abdominal	0.05519837886095047
+trial_2	ritonavir	126	KG00100076	Pain NOS	0.05327805131673813
+trial_2	ritonavir	29	KG00099354	hyponatraemia	0.05201784893870354
+trial_2	ritonavir	86	KG00098565	Depression, Mental	0.051968324929475784
+trial_2	ritonavir	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.049112699925899506
+trial_2	ritonavir	350	KG00106765	decreased platelet count	0.04838448017835617
+trial_2	ritonavir	114	KG00098933	fevers	0.04805438220500946
+trial_2	ritonavir	188	KG00101579	Aspartate aminotransferase increase	0.04611654952168465
+trial_2	ritonavir	28	KG00099347	hypoglycaemia	0.04574943333864212
+trial_2	ritonavir	200	KG00098539	Disorders, Deglutition	0.04483930394053459
+trial_2	ritonavir	2	KG00100772	thrombocytopaenia	0.04481895640492439
+trial_2	ritonavir	191	KG00104055	Biliverdin increased	0.042431410402059555
+trial_2	ritonavir	139	KG00098855	Sinusitis, Ethmoid	0.04228433221578598
+trial_2	ritonavir	104	KG00097963	arthralgias	0.04183826968073845
+trial_2	ritonavir	243	KG00100947	Micturition frequency increased	0.040483057498931885
+trial_2	ritonavir	136	KG00101582	Dry;skin	0.03978851065039635
+trial_2	ritonavir	151	KG00098274	Infarction, Cerebral	0.03901034966111183
+trial_2	ritonavir	96	KG00101679	Unattended death NOS	0.03835228085517883
+trial_2	ritonavir	130	KG00100683	Stomatitis NOS	0.03639420121908188
+trial_2	ritonavir	121	KG00099190	haemorrhage	0.03614034131169319
+trial_2	ritonavir	122	KG00099321	Hypersensitivity NOS	0.035939499735832214
+trial_2	ritonavir	72	KG00103771	myalgias	0.03452838957309723
+trial_2	ritonavir	36	KG00106434	Vision, Blurring Of	0.034360095858573914
+trial_2	ritonavir	77	KG00098450	Constipation NOS	0.03389771282672882
+trial_2	ritonavir	101	KG00097901	Anorexia NOS	0.03272154554724693
+trial_2	ritonavir	61	KG00099501	Chronic Kidney Failure	0.032670412212610245
+trial_2	ritonavir	142	KG00100923	Unspecified infectious and parasitic diseases	0.03251931816339493
+trial_2	ritonavir	18	KG00098307	Pain, Chest	0.032035671174526215
+trial_2	ritonavir	211	KG00100341	Pruritus NOS	0.030275844037532806
+trial_2	ritonavir	131	KG00100948	Urinary tract infection (& [NOS])	0.029154766350984573
+trial_2	ritonavir	356	KG00112623	Infectious Lung Disorders	0.028900332748889923
+trial_2	ritonavir	76	KG00100450	Respiratory insufficiency, NOS	0.028643958270549774
+trial_2	ritonavir	154	KG00099686	Lymphopenias	0.02858157455921173
+trial_2	ritonavir	180	KG00099363	Hypotension NOS	0.028560016304254532
+trial_2	ritonavir	234	KG00098669	dysgeusias	0.02841787040233612
+trial_2	ritonavir	194	KG00110727	Neutrophil Count Decreased	0.02806893363595009
+trial_2	ritonavir	246	KG00103338	Aspartate Aminotransferase Measurement	0.02802067995071411
+trial_2	ritonavir	261	KG00101559	raised alkaline phosphatase	0.028016511350870132
+trial_2	ritonavir	239	KG00100128	pareses	0.027035165578126907
+trial_2	ritonavir	147	KG00098000	atelectases	0.02634674496948719
+trial_2	ritonavir	27	KG00099303	hyperkalaemia	0.026328405365347862
+trial_2	ritonavir	116	KG00098964	Pain in foot	0.026122311130166054
+trial_2	ritonavir	441	KG00098262	cellulitis nos	0.025970418006181717
+trial_2	ritonavir	249	KG00104430	hypoalbuminaemia	0.025781845673918724
+trial_2	ritonavir	179	KG00099342	hypocalcaemia	0.02556125819683075
+trial_2	ritonavir	186	KG00101431	creatinine increased	0.02534606121480465
+trial_2	ritonavir	396	KG00100373	Embolism, Pulmonary	0.025295846164226532
+trial_2	ritonavir	69	KG00100082	Palpitations NOS	0.025088628754019737
+trial_2	ritonavir	38	KG00098066	Binocular vision disorders	0.024920543655753136
+trial_2	ritonavir	269	KG00100399	pyaemia	0.024813085794448853
+trial_2	ritonavir	138	KG00098796	epidemic vomiting syndrome	0.02417558617889881
+trial_2	ritonavir	11	KG00097993	Asthma NOS	0.023751946166157722
+trial_2	ritonavir	5	KG00099169	haematuria	0.02325947768986225
+trial_2	ritonavir	30	KG00099500	Acute Kidney Failure	0.02304825559258461
+trial_2	ritonavir	355	KG00110857	lymphocyte count decreased	0.022635528817772865
+trial_2	ritonavir	132	KG00101045	Gain, Weight	0.022523246705532074
+trial_2	ritonavir	339	KG00100334	proteinurias	0.0224416796118021
+trial_2	ritonavir	1	KG00099959	Neutropenia NOS	0.0224031712859869
+trial_2	ritonavir	4	KG00098817	epistaxis	0.021876046434044838
+trial_2	ritonavir	297	KG00099294	hypercholesterolaemia	0.021693026646971703
+trial_2	ritonavir	133	KG00101370	neuropathies sensory	0.021556023508310318
+trial_2	ritonavir	82	KG00097697	abdomen distended	0.021225884556770325
+trial_2	ritonavir	257	KG00100922	Erythema NOS	0.02097328193485737
+trial_2	ritonavir	221	KG00101207	peripheral oedema	0.020528148859739304
+trial_2	ritonavir	276	KG00099127	Arrest, Cardiac	0.02038310281932354
+trial_2	ritonavir	282	KG00099309	hypernatraemia	0.02024681493639946
+trial_2	ritonavir	102	KG00097916	anxieties	0.020219925791025162
+trial_2	ritonavir	195	KG00097814	Atopic Rhinitis	0.01967686414718628
+trial_2	ritonavir	100	KG00097815	alopecias	0.019275842234492302
+trial_2	ritonavir	155	KG00099960	Neutrophile	0.01913401670753956
+trial_2	ritonavir	204	KG00098849	Esophagitis, Peptic	0.019047683104872704
+trial_2	ritonavir	508	KG00108565	blood glucose increased	0.019039055332541466
+trial_2	ritonavir	255	KG00099909	Necrotic debris, NOS	0.018878178671002388
+trial_2	ritonavir	288	KG00101223	hypophosphataemia	0.018820565193891525
+trial_2	ritonavir	456	KG00099420	Influenzae	0.0185827799141407
+trial_2	ritonavir	35	KG00101507	hypomagnesaemia	0.018408240750432014
+trial_2	ritonavir	213	KG00100600	Infectious Skin Diseases	0.01813611574470997
+trial_2	ritonavir	199	KG00098371	Rhinitis (chronic) NOS	0.017896128818392754
+trial_2	ritonavir	92	KG00100926	Infections, Upper Respiratory	0.01789485476911068
+trial_2	ritonavir	118	KG00099011	Gastritis NOS	0.01767583191394806
+trial_2	ritonavir	75	KG00100195	Dolens, Phlegmasia Alba	0.01762818917632103

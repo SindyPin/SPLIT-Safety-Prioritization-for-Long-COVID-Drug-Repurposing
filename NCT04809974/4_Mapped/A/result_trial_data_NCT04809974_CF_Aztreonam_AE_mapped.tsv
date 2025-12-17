@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15119971334934235
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09321864694356918
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09080634266138077
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08407047390937805
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07644744962453842
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07590185105800629
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07393258064985275
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0702446699142456
+trial_1	placebo	68	KG00099901	nauseas	0.06557656079530716
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.062364012002944946
+trial_1	placebo	46	KG00099121	Headache NOS	0.060851357877254486
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.059196747839450836
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05862400308251381
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0580296590924263
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.057497113943099976
+trial_1	placebo	21	KG00098675	dyspnoea	0.05618025362491608
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.055945172905921936
+trial_1	placebo	147	KG00098000	atelectases	0.05346083641052246
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05008767172694206
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04797179624438286
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0474126897752285
+trial_1	placebo	20	KG00098540	dehydration	0.04625460132956505
+trial_1	placebo	269	KG00100399	pyaemia	0.046164367347955704
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04323025047779083
+trial_1	placebo	114	KG00098933	fevers	0.041951052844524384
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04133575037121773
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04060083627700806
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.039302632212638855
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.039193425327539444
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03917766362428665
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0378832072019577
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03729940578341484
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03381705656647682
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03296710178256035
+trial_1	placebo	126	KG00100076	Pain NOS	0.032561417669057846
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03192133083939552
+trial_1	placebo	85	KG00098474	coughs	0.031178541481494904
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.031164953485131264
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03071618266403675
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03022368997335434
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02992168441414833
+trial_1	placebo	228	KG00114657	Weight below normal	0.029882296919822693
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02890898659825325
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.028515256941318512
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.028002522885799408
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027613742277026176
+trial_1	placebo	5	KG00099169	haematuria	0.027159668505191803
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02690565399825573
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02639148384332657
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02574871852993965
+trial_1	placebo	104	KG00097963	arthralgias	0.025691699236631393
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.025493493303656578
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02544473670423031
+trial_1	placebo	18	KG00098307	Pain, Chest	0.025030802935361862
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.024901224300265312
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.024717900902032852
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.024640899151563644
+trial_1	placebo	234	KG00098669	dysgeusias	0.023969514295458794
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023032408207654953
+trial_1	placebo	102	KG00097916	anxieties	0.022988131269812584
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022789502516388893
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02272908203303814
+trial_1	placebo	239	KG00100128	pareses	0.02269585244357586
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02263607084751129
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022548304870724678
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.022200793027877808
+trial_1	placebo	86	KG00098565	Depression, Mental	0.021819548681378365
+trial_1	placebo	164	KG00108827	ileus colon	0.021687254309654236
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.021371878683567047
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021265888586640358
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.021095333620905876
+trial_1	placebo	116	KG00098964	Pain in foot	0.02101459912955761
+trial_1	placebo	186	KG00101431	creatinine increased	0.020910918712615967
+trial_1	placebo	72	KG00103771	myalgias	0.02045205980539322
+trial_1	placebo	4	KG00098817	epistaxis	0.02016138844192028
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.020053399726748466
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.019821960479021072
+trial_1	placebo	121	KG00099190	haemorrhage	0.019639454782009125
+trial_1	placebo	82	KG00097697	abdomen distended	0.01959618180990219
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.018927257508039474
+trial_1	placebo	713	KG00107657	distressed respiratory	0.018746307119727135
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018277399241924286
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.017937686294317245
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.017714953050017357
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.017577137798070908
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.017560817301273346
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.017560521140694618
+trial_1	placebo	25	KG00099134	congestive failures heart	0.017451778054237366
+trial_1	placebo	262	KG00101199	agitation	0.017174456268548965
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01709570735692978
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016821688041090965
+trial_1	placebo	136	KG00101582	Dry;skin	0.016757983714342117
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016449417918920517
+trial_1	placebo	488	KG00098167	Bronchospasm NOS	0.016278071328997612
+trial_1	placebo	503	KG00102612	low haemoglobin	0.016147470101714134
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.016146007925271988
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.01614062301814556
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01613016240298748
+trial_1	placebo	257	KG00100922	Erythema NOS	0.01604430191218853
+trial_1	placebo	11	KG00097993	Asthma NOS	0.016018696129322052
+trial_2	aztreonam	87	KG00098599	diarrhoea	0.15119971334934235
+trial_2	aztreonam	9	KG00098432	Confusion NOS	0.09321864694356918
+trial_2	aztreonam	78	KG00099326	Hypertensive diseases	0.09080634266138077
+trial_2	aztreonam	123	KG00099351	hypokalaemia	0.08407047390937805
+trial_2	aztreonam	173	KG00098172	Bronchopneumonia NOS	0.07644744962453842
+trial_2	aztreonam	189	KG00101580	Alanine aminotransferase increase	0.07590185105800629
+trial_2	aztreonam	64	KG00097734	Acrodermatitis, NOS	0.07393258064985275
+trial_2	aztreonam	188	KG00101579	Aspartate aminotransferase increase	0.0702446699142456
+trial_2	aztreonam	68	KG00099901	nauseas	0.06557656079530716
+trial_2	aztreonam	61	KG00099501	Chronic Kidney Failure	0.062364012002944946
+trial_2	aztreonam	46	KG00099121	Headache NOS	0.060851357877254486
+trial_2	aztreonam	76	KG00100450	Respiratory insufficiency, NOS	0.059196747839450836
+trial_2	aztreonam	49	KG00099902	nausea with vomiting	0.05862400308251381
+trial_2	aztreonam	30	KG00099500	Acute Kidney Failure	0.0580296590924263
+trial_2	aztreonam	177	KG00099299	hyperglycaemia	0.057497113943099976
+trial_2	aztreonam	21	KG00098675	dyspnoea	0.05618025362491608
+trial_2	aztreonam	37	KG00097696	Cramps, Abdominal	0.055945172905921936
+trial_2	aztreonam	147	KG00098000	atelectases	0.05346083641052246
+trial_2	aztreonam	17	KG00097991	Asthenia NOS	0.05008767172694206
+trial_2	aztreonam	276	KG00099127	Arrest, Cardiac	0.04797179624438286
+trial_2	aztreonam	14	KG00097852	Anemia NOS	0.0474126897752285
+trial_2	aztreonam	20	KG00098540	dehydration	0.04625460132956505
+trial_2	aztreonam	269	KG00100399	pyaemia	0.046164367347955704
+trial_2	aztreonam	396	KG00100373	Embolism, Pulmonary	0.04323025047779083
+trial_2	aztreonam	114	KG00098933	fevers	0.041951052844524384
+trial_2	aztreonam	67	KG00098673	Dyspepsia, NOS	0.04133575037121773
+trial_2	aztreonam	77	KG00098450	Constipation NOS	0.04060083627700806
+trial_2	aztreonam	180	KG00099363	Hypotension NOS	0.039302632212638855
+trial_2	aztreonam	79	KG00100317	Insomnia, Primary	0.039193425327539444
+trial_2	aztreonam	200	KG00098539	Disorders, Deglutition	0.03917766362428665
+trial_2	aztreonam	151	KG00098274	Infarction, Cerebral	0.0378832072019577
+trial_2	aztreonam	29	KG00099354	hyponatraemia	0.03729940578341484
+trial_2	aztreonam	2	KG00100772	thrombocytopaenia	0.03381705656647682
+trial_2	aztreonam	243	KG00100947	Micturition frequency increased	0.03296710178256035
+trial_2	aztreonam	126	KG00100076	Pain NOS	0.032561417669057846
+trial_2	aztreonam	350	KG00106765	decreased platelet count	0.03192133083939552
+trial_2	aztreonam	85	KG00098474	coughs	0.031178541481494904
+trial_2	aztreonam	69	KG00100082	Palpitations NOS	0.031164953485131264
+trial_2	aztreonam	142	KG00100923	Unspecified infectious and parasitic diseases	0.03071618266403675
+trial_2	aztreonam	96	KG00101679	Unattended death NOS	0.03022368997335434
+trial_2	aztreonam	131	KG00100948	Urinary tract infection (& [NOS])	0.02992168441414833
+trial_2	aztreonam	228	KG00114657	Weight below normal	0.029882296919822693
+trial_2	aztreonam	441	KG00098262	cellulitis nos	0.02890898659825325
+trial_2	aztreonam	35	KG00101507	hypomagnesaemia	0.028515256941318512
+trial_2	aztreonam	211	KG00100341	Pruritus NOS	0.028002522885799408
+trial_2	aztreonam	27	KG00099303	hyperkalaemia	0.027613742277026176
+trial_2	aztreonam	5	KG00099169	haematuria	0.027159668505191803
+trial_2	aztreonam	261	KG00101559	raised alkaline phosphatase	0.02690565399825573
+trial_2	aztreonam	191	KG00104055	Biliverdin increased	0.02639148384332657
+trial_2	aztreonam	75	KG00100195	Dolens, Phlegmasia Alba	0.02574871852993965
+trial_2	aztreonam	104	KG00097963	arthralgias	0.025691699236631393
+trial_2	aztreonam	361	KG00098004	Fibrillation, Atrial	0.025493493303656578
+trial_2	aztreonam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02544473670423031
+trial_2	aztreonam	18	KG00098307	Pain, Chest	0.025030802935361862
+trial_2	aztreonam	31	KG00099872	Infarction, Myocardial	0.024901224300265312
+trial_2	aztreonam	28	KG00099347	hypoglycaemia	0.024717900902032852
+trial_2	aztreonam	179	KG00099342	hypocalcaemia	0.024640899151563644
+trial_2	aztreonam	234	KG00098669	dysgeusias	0.023969514295458794
+trial_2	aztreonam	253	KG00100232	Pleural effusion NOS (disorder)	0.023032408207654953
+trial_2	aztreonam	102	KG00097916	anxieties	0.022988131269812584
+trial_2	aztreonam	282	KG00099309	hypernatraemia	0.022789502516388893
+trial_2	aztreonam	101	KG00097901	Anorexia NOS	0.02272908203303814
+trial_2	aztreonam	239	KG00100128	pareses	0.02269585244357586
+trial_2	aztreonam	122	KG00099321	Hypersensitivity NOS	0.02263607084751129
+trial_2	aztreonam	130	KG00100683	Stomatitis NOS	0.022548304870724678
+trial_2	aztreonam	92	KG00100926	Infections, Upper Respiratory	0.022200793027877808
+trial_2	aztreonam	86	KG00098565	Depression, Mental	0.021819548681378365
+trial_2	aztreonam	164	KG00108827	ileus colon	0.021687254309654236
+trial_2	aztreonam	494	KG00099838	Organ Failure, Multiple	0.021371878683567047
+trial_2	aztreonam	249	KG00104430	hypoalbuminaemia	0.021265888586640358
+trial_2	aztreonam	97	KG00104198	LIVER ENZYME ELEVATED	0.021095333620905876
+trial_2	aztreonam	116	KG00098964	Pain in foot	0.02101459912955761
+trial_2	aztreonam	186	KG00101431	creatinine increased	0.020910918712615967
+trial_2	aztreonam	72	KG00103771	myalgias	0.02045205980539322
+trial_2	aztreonam	4	KG00098817	epistaxis	0.02016138844192028
+trial_2	aztreonam	194	KG00110727	Neutrophil Count Decreased	0.020053399726748466
+trial_2	aztreonam	138	KG00098796	epidemic vomiting syndrome	0.019821960479021072
+trial_2	aztreonam	121	KG00099190	haemorrhage	0.019639454782009125
+trial_2	aztreonam	82	KG00097697	abdomen distended	0.01959618180990219
+trial_2	aztreonam	268	KG00099557	Heart Failure, Left-Sided	0.018927257508039474
+trial_2	aztreonam	713	KG00107657	distressed respiratory	0.018746307119727135
+trial_2	aztreonam	36	KG00106434	Vision, Blurring Of	0.018277399241924286
+trial_2	aztreonam	341	KG00101472	Gamma-glutamyltransferase increased	0.017937686294317245
+trial_2	aztreonam	38	KG00098066	Binocular vision disorders	0.017714953050017357
+trial_2	aztreonam	15	KG00097882	Angina pectoris NOS	0.017577137798070908
+trial_2	aztreonam	144	KG00099610	Leukopenia NOS	0.017560817301273346
+trial_2	aztreonam	747	KG00101527	Liver function tests abnormal (finding)	0.017560521140694618
+trial_2	aztreonam	25	KG00099134	congestive failures heart	0.017451778054237366
+trial_2	aztreonam	262	KG00101199	agitation	0.017174456268548965
+trial_2	aztreonam	394	KG00100243	Pneumonia, Aspiration	0.01709570735692978
+trial_2	aztreonam	286	KG00101110	Retention, Urinary	0.016821688041090965
+trial_2	aztreonam	136	KG00101582	Dry;skin	0.016757983714342117
+trial_2	aztreonam	204	KG00098849	Esophagitis, Peptic	0.016449417918920517
+trial_2	aztreonam	488	KG00098167	Bronchospasm NOS	0.016278071328997612
+trial_2	aztreonam	503	KG00102612	low haemoglobin	0.016147470101714134
+trial_2	aztreonam	356	KG00112623	Infectious Lung Disorders	0.016146007925271988
+trial_2	aztreonam	183	KG00100449	Adult Respiratory Distress Syndrome	0.01614062301814556
+trial_2	aztreonam	355	KG00110857	lymphocyte count decreased	0.01613016240298748
+trial_2	aztreonam	257	KG00100922	Erythema NOS	0.01604430191218853
+trial_2	aztreonam	11	KG00097993	Asthma NOS	0.016018696129322052

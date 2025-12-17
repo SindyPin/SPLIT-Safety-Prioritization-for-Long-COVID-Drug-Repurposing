@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1768372356891632
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12390259653329849
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12140773236751556
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10768451541662216
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09231985360383987
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09031715244054794
+trial_1	placebo	228	KG00114657	Weight below normal	0.08623889833688736
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08475926518440247
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08423078060150146
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08288770169019699
+trial_1	placebo	46	KG00099121	Headache NOS	0.08037147670984268
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08033948391675949
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07943662256002426
+trial_1	placebo	21	KG00098675	dyspnoea	0.07864488661289215
+trial_1	placebo	114	KG00098933	fevers	0.07407379150390625
+trial_1	placebo	68	KG00099901	nauseas	0.07392406463623047
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07028406113386154
+trial_1	placebo	20	KG00098540	dehydration	0.0691368579864502
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06695253401994705
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0636046752333641
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05644252523779869
+trial_1	placebo	85	KG00098474	coughs	0.05595199763774872
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05320096015930176
+trial_1	placebo	77	KG00098450	Constipation NOS	0.052745282649993896
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.051945894956588745
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05131860822439194
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.051095910370349884
+trial_1	placebo	126	KG00100076	Pain NOS	0.050422731786966324
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.046987492591142654
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04632535204291344
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04451030120253563
+trial_1	placebo	72	KG00103771	myalgias	0.044487353414297104
+trial_1	placebo	104	KG00097963	arthralgias	0.043000198900699615
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04243917018175125
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04115760326385498
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.039975352585315704
+trial_1	placebo	102	KG00097916	anxieties	0.03965644910931587
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03903377428650856
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03878762200474739
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03419387340545654
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03293828293681145
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.032778285443782806
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03273390606045723
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03260335326194763
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.032464321702718735
+trial_1	placebo	116	KG00098964	Pain in foot	0.03230869770050049
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03148452937602997
+trial_1	placebo	239	KG00100128	pareses	0.03142630681395531
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030930353328585625
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.030893251299858093
+trial_1	placebo	5	KG00099169	haematuria	0.030675390735268593
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03055102564394474
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030449632555246353
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03015408292412758
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.029861288145184517
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029623406007885933
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029217204079031944
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028451593592762947
+trial_1	placebo	269	KG00100399	pyaemia	0.027736421674489975
+trial_1	placebo	147	KG00098000	atelectases	0.027358902618288994
+trial_1	placebo	4	KG00098817	epistaxis	0.027277059853076935
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02654457278549671
+trial_1	placebo	466	KG00101205	fall	0.02611134573817253
+trial_1	placebo	262	KG00101199	agitation	0.0260724276304245
+trial_1	placebo	234	KG00098669	dysgeusias	0.02600371092557907
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025795400142669678
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02554573491215706
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025057658553123474
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02501847594976425
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.024919969961047173
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02479681558907032
+trial_1	placebo	282	KG00099309	hypernatraemia	0.023978115990757942
+trial_1	placebo	100	KG00097815	alopecias	0.023153934627771378
+trial_1	placebo	136	KG00101582	Dry;skin	0.023043183609843254
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02241491712629795
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02238815650343895
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02168601006269455
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021564124152064323
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02142031118273735
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021244145929813385
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02102944627404213
+trial_1	placebo	82	KG00097697	abdomen distended	0.02101266197860241
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.020678168162703514
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020592931658029556
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02017749845981598
+trial_1	placebo	121	KG00099190	haemorrhage	0.01994585245847702
+trial_1	placebo	242	KG00100855	tremors	0.019919607788324356
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0198235921561718
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01974162645637989
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019479690119624138
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019274180755019188
+trial_1	placebo	257	KG00100922	Erythema NOS	0.019251812249422073
+trial_1	placebo	186	KG00101431	creatinine increased	0.01890014111995697
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.018696993589401245
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01857912912964821
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.01855994388461113
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.01854981854557991
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018438993021845818
+trial_1	placebo	456	KG00099420	Influenzae	0.01836494356393814
+trial_1	placebo	508	KG00108565	blood glucose increased	0.018217653036117554
+trial_2	artemisinin	87	KG00098599	diarrhoea	0.1768372356891632
+trial_2	artemisinin	173	KG00098172	Bronchopneumonia NOS	0.12390259653329849
+trial_2	artemisinin	189	KG00101580	Alanine aminotransferase increase	0.12140773236751556
+trial_2	artemisinin	78	KG00099326	Hypertensive diseases	0.10768451541662216
+trial_2	artemisinin	64	KG00097734	Acrodermatitis, NOS	0.09231985360383987
+trial_2	artemisinin	188	KG00101579	Aspartate aminotransferase increase	0.09031715244054794
+trial_2	artemisinin	228	KG00114657	Weight below normal	0.08623889833688736
+trial_2	artemisinin	9	KG00098432	Confusion NOS	0.08475926518440247
+trial_2	artemisinin	49	KG00099902	nausea with vomiting	0.08423078060150146
+trial_2	artemisinin	123	KG00099351	hypokalaemia	0.08288770169019699
+trial_2	artemisinin	46	KG00099121	Headache NOS	0.08037147670984268
+trial_2	artemisinin	79	KG00100317	Insomnia, Primary	0.08033948391675949
+trial_2	artemisinin	17	KG00097991	Asthenia NOS	0.07943662256002426
+trial_2	artemisinin	21	KG00098675	dyspnoea	0.07864488661289215
+trial_2	artemisinin	114	KG00098933	fevers	0.07407379150390625
+trial_2	artemisinin	68	KG00099901	nauseas	0.07392406463623047
+trial_2	artemisinin	37	KG00097696	Cramps, Abdominal	0.07028406113386154
+trial_2	artemisinin	20	KG00098540	dehydration	0.0691368579864502
+trial_2	artemisinin	177	KG00099299	hyperglycaemia	0.06695253401994705
+trial_2	artemisinin	67	KG00098673	Dyspepsia, NOS	0.0636046752333641
+trial_2	artemisinin	14	KG00097852	Anemia NOS	0.05644252523779869
+trial_2	artemisinin	85	KG00098474	coughs	0.05595199763774872
+trial_2	artemisinin	86	KG00098565	Depression, Mental	0.05320096015930176
+trial_2	artemisinin	77	KG00098450	Constipation NOS	0.052745282649993896
+trial_2	artemisinin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.051945894956588745
+trial_2	artemisinin	350	KG00106765	decreased platelet count	0.05131860822439194
+trial_2	artemisinin	2	KG00100772	thrombocytopaenia	0.051095910370349884
+trial_2	artemisinin	126	KG00100076	Pain NOS	0.050422731786966324
+trial_2	artemisinin	200	KG00098539	Disorders, Deglutition	0.046987492591142654
+trial_2	artemisinin	151	KG00098274	Infarction, Cerebral	0.04632535204291344
+trial_2	artemisinin	29	KG00099354	hyponatraemia	0.04451030120253563
+trial_2	artemisinin	72	KG00103771	myalgias	0.044487353414297104
+trial_2	artemisinin	104	KG00097963	arthralgias	0.043000198900699615
+trial_2	artemisinin	101	KG00097901	Anorexia NOS	0.04243917018175125
+trial_2	artemisinin	243	KG00100947	Micturition frequency increased	0.04115760326385498
+trial_2	artemisinin	194	KG00110727	Neutrophil Count Decreased	0.039975352585315704
+trial_2	artemisinin	102	KG00097916	anxieties	0.03965644910931587
+trial_2	artemisinin	191	KG00104055	Biliverdin increased	0.03903377428650856
+trial_2	artemisinin	76	KG00100450	Respiratory insufficiency, NOS	0.03878762200474739
+trial_2	artemisinin	1	KG00099959	Neutropenia NOS	0.03419387340545654
+trial_2	artemisinin	180	KG00099363	Hypotension NOS	0.03293828293681145
+trial_2	artemisinin	69	KG00100082	Palpitations NOS	0.032778285443782806
+trial_2	artemisinin	96	KG00101679	Unattended death NOS	0.03273390606045723
+trial_2	artemisinin	122	KG00099321	Hypersensitivity NOS	0.03260335326194763
+trial_2	artemisinin	30	KG00099500	Acute Kidney Failure	0.032464321702718735
+trial_2	artemisinin	116	KG00098964	Pain in foot	0.03230869770050049
+trial_2	artemisinin	61	KG00099501	Chronic Kidney Failure	0.03148452937602997
+trial_2	artemisinin	239	KG00100128	pareses	0.03142630681395531
+trial_2	artemisinin	396	KG00100373	Embolism, Pulmonary	0.030930353328585625
+trial_2	artemisinin	261	KG00101559	raised alkaline phosphatase	0.030893251299858093
+trial_2	artemisinin	5	KG00099169	haematuria	0.030675390735268593
+trial_2	artemisinin	139	KG00098855	Sinusitis, Ethmoid	0.03055102564394474
+trial_2	artemisinin	131	KG00100948	Urinary tract infection (& [NOS])	0.030449632555246353
+trial_2	artemisinin	142	KG00100923	Unspecified infectious and parasitic diseases	0.03015408292412758
+trial_2	artemisinin	130	KG00100683	Stomatitis NOS	0.029861288145184517
+trial_2	artemisinin	441	KG00098262	cellulitis nos	0.029623406007885933
+trial_2	artemisinin	211	KG00100341	Pruritus NOS	0.029217204079031944
+trial_2	artemisinin	18	KG00098307	Pain, Chest	0.028451593592762947
+trial_2	artemisinin	269	KG00100399	pyaemia	0.027736421674489975
+trial_2	artemisinin	147	KG00098000	atelectases	0.027358902618288994
+trial_2	artemisinin	4	KG00098817	epistaxis	0.027277059853076935
+trial_2	artemisinin	179	KG00099342	hypocalcaemia	0.02654457278549671
+trial_2	artemisinin	466	KG00101205	fall	0.02611134573817253
+trial_2	artemisinin	262	KG00101199	agitation	0.0260724276304245
+trial_2	artemisinin	234	KG00098669	dysgeusias	0.02600371092557907
+trial_2	artemisinin	92	KG00100926	Infections, Upper Respiratory	0.025795400142669678
+trial_2	artemisinin	38	KG00098066	Binocular vision disorders	0.02554573491215706
+trial_2	artemisinin	341	KG00101472	Gamma-glutamyltransferase increased	0.025057658553123474
+trial_2	artemisinin	132	KG00101045	Gain, Weight	0.02501847594976425
+trial_2	artemisinin	355	KG00110857	lymphocyte count decreased	0.024919969961047173
+trial_2	artemisinin	144	KG00099610	Leukopenia NOS	0.02479681558907032
+trial_2	artemisinin	282	KG00099309	hypernatraemia	0.023978115990757942
+trial_2	artemisinin	100	KG00097815	alopecias	0.023153934627771378
+trial_2	artemisinin	136	KG00101582	Dry;skin	0.023043183609843254
+trial_2	artemisinin	28	KG00099347	hypoglycaemia	0.02241491712629795
+trial_2	artemisinin	154	KG00099686	Lymphopenias	0.02238815650343895
+trial_2	artemisinin	27	KG00099303	hyperkalaemia	0.02168601006269455
+trial_2	artemisinin	75	KG00100195	Dolens, Phlegmasia Alba	0.021564124152064323
+trial_2	artemisinin	36	KG00106434	Vision, Blurring Of	0.02142031118273735
+trial_2	artemisinin	249	KG00104430	hypoalbuminaemia	0.021244145929813385
+trial_2	artemisinin	422	KG00101429	Creatine phosphokinase increased	0.02102944627404213
+trial_2	artemisinin	82	KG00097697	abdomen distended	0.02101266197860241
+trial_2	artemisinin	35	KG00101507	hypomagnesaemia	0.020678168162703514
+trial_2	artemisinin	276	KG00099127	Arrest, Cardiac	0.020592931658029556
+trial_2	artemisinin	199	KG00098371	Rhinitis (chronic) NOS	0.02017749845981598
+trial_2	artemisinin	121	KG00099190	haemorrhage	0.01994585245847702
+trial_2	artemisinin	242	KG00100855	tremors	0.019919607788324356
+trial_2	artemisinin	11	KG00097993	Asthma NOS	0.0198235921561718
+trial_2	artemisinin	204	KG00098849	Esophagitis, Peptic	0.01974162645637989
+trial_2	artemisinin	361	KG00098004	Fibrillation, Atrial	0.019479690119624138
+trial_2	artemisinin	253	KG00100232	Pleural effusion NOS (disorder)	0.019274180755019188
+trial_2	artemisinin	257	KG00100922	Erythema NOS	0.019251812249422073
+trial_2	artemisinin	186	KG00101431	creatinine increased	0.01890014111995697
+trial_2	artemisinin	356	KG00112623	Infectious Lung Disorders	0.018696993589401245
+trial_2	artemisinin	98	KG00097718	Incised wound, NOS	0.01857912912964821
+trial_2	artemisinin	97	KG00104198	LIVER ENZYME ELEVATED	0.01855994388461113
+trial_2	artemisinin	170	KG00108926	Neutropenia, Febrile	0.01854981854557991
+trial_2	artemisinin	221	KG00101207	peripheral oedema	0.018438993021845818
+trial_2	artemisinin	456	KG00099420	Influenzae	0.01836494356393814
+trial_2	artemisinin	508	KG00108565	blood glucose increased	0.018217653036117554

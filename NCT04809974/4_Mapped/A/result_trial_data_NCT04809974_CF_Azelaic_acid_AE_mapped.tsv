@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1004297137260437
+trial_1	placebo	87	KG00098599	diarrhoea	0.09430813044309616
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08885838836431503
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06665506213903427
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0615711435675621
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05882726609706879
+trial_1	placebo	21	KG00098675	dyspnoea	0.05068022757768631
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04582361876964569
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04365771263837814
+trial_1	placebo	20	KG00098540	dehydration	0.04299329221248627
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04246416315436363
+trial_1	placebo	147	KG00098000	atelectases	0.041925448924303055
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.039720579981803894
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.039339665323495865
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.036752596497535706
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.036150675266981125
+trial_1	placebo	46	KG00099121	Headache NOS	0.03605196624994278
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03553208336234093
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03512762114405632
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.034428805112838745
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.033958956599235535
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.033711690455675125
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03294939547777176
+trial_1	placebo	114	KG00098933	fevers	0.03240680322051048
+trial_1	placebo	85	KG00098474	coughs	0.03227127715945244
+trial_1	placebo	126	KG00100076	Pain NOS	0.03195374459028244
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03185519948601723
+trial_1	placebo	228	KG00114657	Weight below normal	0.03142203018069267
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03103068843483925
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030767003074288368
+trial_1	placebo	269	KG00100399	pyaemia	0.02980082854628563
+trial_1	placebo	29	KG00099354	hyponatraemia	0.028281543403863907
+trial_1	placebo	5	KG00099169	haematuria	0.027517259120941162
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02734161913394928
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.026982877403497696
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02661616913974285
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026383884251117706
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.025895429775118828
+trial_1	placebo	104	KG00097963	arthralgias	0.025842448696494102
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02479674108326435
+trial_1	placebo	77	KG00098450	Constipation NOS	0.02443418651819229
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02439815178513527
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02344149351119995
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02342650108039379
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022832071408629417
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.022622087970376015
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02250772714614868
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.022500410676002502
+trial_1	placebo	136	KG00101582	Dry;skin	0.02233821526169777
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022107644006609917
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021404165774583817
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02091623656451702
+trial_1	placebo	121	KG00099190	haemorrhage	0.020684681832790375
+trial_1	placebo	68	KG00099901	nauseas	0.020405126735568047
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020000286400318146
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019646497443318367
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01964389532804489
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019491594284772873
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019426923245191574
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01926678977906704
+trial_1	placebo	239	KG00100128	pareses	0.019111840054392815
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019094889983534813
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01906524784862995
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.018926043063402176
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018474901095032692
+trial_1	placebo	186	KG00101431	creatinine increased	0.01812095381319523
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.018018431961536407
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01778368093073368
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01756679266691208
+trial_1	placebo	456	KG00099420	Influenzae	0.01742766611278057
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01741703785955906
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.016922947019338608
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.0168231800198555
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.01680471934378147
+trial_1	placebo	116	KG00098964	Pain in foot	0.01674336940050125
+trial_1	placebo	102	KG00097916	anxieties	0.01671372912824154
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0166645385324955
+trial_1	placebo	4	KG00098817	epistaxis	0.016664523631334305
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01648579351603985
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.016278347000479698
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.015962230041623116
+trial_1	placebo	164	KG00108827	ileus colon	0.015888599678874016
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015810806304216385
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.015380831435322762
+trial_1	placebo	18	KG00098307	Pain, Chest	0.015312457457184792
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015172637067735195
+trial_1	placebo	72	KG00103771	myalgias	0.01506792288273573
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015027398243546486
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.014909851364791393
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.014881841838359833
+trial_1	placebo	466	KG00101205	fall	0.014767817221581936
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.014519890770316124
+trial_1	placebo	257	KG00100922	Erythema NOS	0.014343015849590302
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.013990056701004505
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.013879172503948212
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01380179449915886
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.013558858074247837
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01347397267818451
+trial_1	placebo	234	KG00098669	dysgeusias	0.013427332043647766
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01340531837195158
+trial_2	azelaic acid	78	KG00099326	Hypertensive diseases	0.1004297137260437
+trial_2	azelaic acid	87	KG00098599	diarrhoea	0.09430813044309616
+trial_2	azelaic acid	173	KG00098172	Bronchopneumonia NOS	0.08885838836431503
+trial_2	azelaic acid	123	KG00099351	hypokalaemia	0.06665506213903427
+trial_2	azelaic acid	177	KG00099299	hyperglycaemia	0.0615711435675621
+trial_2	azelaic acid	64	KG00097734	Acrodermatitis, NOS	0.05882726609706879
+trial_2	azelaic acid	21	KG00098675	dyspnoea	0.05068022757768631
+trial_2	azelaic acid	151	KG00098274	Infarction, Cerebral	0.04582361876964569
+trial_2	azelaic acid	14	KG00097852	Anemia NOS	0.04365771263837814
+trial_2	azelaic acid	20	KG00098540	dehydration	0.04299329221248627
+trial_2	azelaic acid	61	KG00099501	Chronic Kidney Failure	0.04246416315436363
+trial_2	azelaic acid	147	KG00098000	atelectases	0.041925448924303055
+trial_2	azelaic acid	37	KG00097696	Cramps, Abdominal	0.039720579981803894
+trial_2	azelaic acid	76	KG00100450	Respiratory insufficiency, NOS	0.039339665323495865
+trial_2	azelaic acid	96	KG00101679	Unattended death NOS	0.036752596497535706
+trial_2	azelaic acid	2	KG00100772	thrombocytopaenia	0.036150675266981125
+trial_2	azelaic acid	46	KG00099121	Headache NOS	0.03605196624994278
+trial_2	azelaic acid	9	KG00098432	Confusion NOS	0.03553208336234093
+trial_2	azelaic acid	17	KG00097991	Asthenia NOS	0.03512762114405632
+trial_2	azelaic acid	189	KG00101580	Alanine aminotransferase increase	0.034428805112838745
+trial_2	azelaic acid	276	KG00099127	Arrest, Cardiac	0.033958956599235535
+trial_2	azelaic acid	200	KG00098539	Disorders, Deglutition	0.033711690455675125
+trial_2	azelaic acid	86	KG00098565	Depression, Mental	0.03294939547777176
+trial_2	azelaic acid	114	KG00098933	fevers	0.03240680322051048
+trial_2	azelaic acid	85	KG00098474	coughs	0.03227127715945244
+trial_2	azelaic acid	126	KG00100076	Pain NOS	0.03195374459028244
+trial_2	azelaic acid	30	KG00099500	Acute Kidney Failure	0.03185519948601723
+trial_2	azelaic acid	228	KG00114657	Weight below normal	0.03142203018069267
+trial_2	azelaic acid	79	KG00100317	Insomnia, Primary	0.03103068843483925
+trial_2	azelaic acid	396	KG00100373	Embolism, Pulmonary	0.030767003074288368
+trial_2	azelaic acid	269	KG00100399	pyaemia	0.02980082854628563
+trial_2	azelaic acid	29	KG00099354	hyponatraemia	0.028281543403863907
+trial_2	azelaic acid	5	KG00099169	haematuria	0.027517259120941162
+trial_2	azelaic acid	139	KG00098855	Sinusitis, Ethmoid	0.02734161913394928
+trial_2	azelaic acid	188	KG00101579	Aspartate aminotransferase increase	0.026982877403497696
+trial_2	azelaic acid	49	KG00099902	nausea with vomiting	0.02661616913974285
+trial_2	azelaic acid	350	KG00106765	decreased platelet count	0.026383884251117706
+trial_2	azelaic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.025895429775118828
+trial_2	azelaic acid	104	KG00097963	arthralgias	0.025842448696494102
+trial_2	azelaic acid	27	KG00099303	hyperkalaemia	0.02479674108326435
+trial_2	azelaic acid	77	KG00098450	Constipation NOS	0.02443418651819229
+trial_2	azelaic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.02439815178513527
+trial_2	azelaic acid	122	KG00099321	Hypersensitivity NOS	0.02344149351119995
+trial_2	azelaic acid	180	KG00099363	Hypotension NOS	0.02342650108039379
+trial_2	azelaic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022832071408629417
+trial_2	azelaic acid	67	KG00098673	Dyspepsia, NOS	0.022622087970376015
+trial_2	azelaic acid	179	KG00099342	hypocalcaemia	0.02250772714614868
+trial_2	azelaic acid	92	KG00100926	Infections, Upper Respiratory	0.022500410676002502
+trial_2	azelaic acid	136	KG00101582	Dry;skin	0.02233821526169777
+trial_2	azelaic acid	441	KG00098262	cellulitis nos	0.022107644006609917
+trial_2	azelaic acid	31	KG00099872	Infarction, Myocardial	0.021404165774583817
+trial_2	azelaic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.02091623656451702
+trial_2	azelaic acid	121	KG00099190	haemorrhage	0.020684681832790375
+trial_2	azelaic acid	68	KG00099901	nauseas	0.020405126735568047
+trial_2	azelaic acid	199	KG00098371	Rhinitis (chronic) NOS	0.020000286400318146
+trial_2	azelaic acid	249	KG00104430	hypoalbuminaemia	0.019646497443318367
+trial_2	azelaic acid	361	KG00098004	Fibrillation, Atrial	0.01964389532804489
+trial_2	azelaic acid	191	KG00104055	Biliverdin increased	0.019491594284772873
+trial_2	azelaic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.019426923245191574
+trial_2	azelaic acid	130	KG00100683	Stomatitis NOS	0.01926678977906704
+trial_2	azelaic acid	239	KG00100128	pareses	0.019111840054392815
+trial_2	azelaic acid	211	KG00100341	Pruritus NOS	0.019094889983534813
+trial_2	azelaic acid	282	KG00099309	hypernatraemia	0.01906524784862995
+trial_2	azelaic acid	194	KG00110727	Neutrophil Count Decreased	0.018926043063402176
+trial_2	azelaic acid	28	KG00099347	hypoglycaemia	0.018474901095032692
+trial_2	azelaic acid	186	KG00101431	creatinine increased	0.01812095381319523
+trial_2	azelaic acid	243	KG00100947	Micturition frequency increased	0.018018431961536407
+trial_2	azelaic acid	11	KG00097993	Asthma NOS	0.01778368093073368
+trial_2	azelaic acid	38	KG00098066	Binocular vision disorders	0.01756679266691208
+trial_2	azelaic acid	456	KG00099420	Influenzae	0.01742766611278057
+trial_2	azelaic acid	261	KG00101559	raised alkaline phosphatase	0.01741703785955906
+trial_2	azelaic acid	355	KG00110857	lymphocyte count decreased	0.016922947019338608
+trial_2	azelaic acid	195	KG00097814	Atopic Rhinitis	0.0168231800198555
+trial_2	azelaic acid	40	KG00098092	Blepharoconjunctivitis NOS	0.01680471934378147
+trial_2	azelaic acid	116	KG00098964	Pain in foot	0.01674336940050125
+trial_2	azelaic acid	102	KG00097916	anxieties	0.01671372912824154
+trial_2	azelaic acid	138	KG00098796	epidemic vomiting syndrome	0.0166645385324955
+trial_2	azelaic acid	4	KG00098817	epistaxis	0.016664523631334305
+trial_2	azelaic acid	356	KG00112623	Infectious Lung Disorders	0.01648579351603985
+trial_2	azelaic acid	297	KG00099294	hypercholesterolaemia	0.016278347000479698
+trial_2	azelaic acid	394	KG00100243	Pneumonia, Aspiration	0.015962230041623116
+trial_2	azelaic acid	164	KG00108827	ileus colon	0.015888599678874016
+trial_2	azelaic acid	101	KG00097901	Anorexia NOS	0.015810806304216385
+trial_2	azelaic acid	98	KG00097718	Incised wound, NOS	0.015380831435322762
+trial_2	azelaic acid	18	KG00098307	Pain, Chest	0.015312457457184792
+trial_2	azelaic acid	15	KG00097882	Angina pectoris NOS	0.015172637067735195
+trial_2	azelaic acid	72	KG00103771	myalgias	0.01506792288273573
+trial_2	azelaic acid	154	KG00099686	Lymphopenias	0.015027398243546486
+trial_2	azelaic acid	288	KG00101223	hypophosphataemia	0.014909851364791393
+trial_2	azelaic acid	494	KG00099838	Organ Failure, Multiple	0.014881841838359833
+trial_2	azelaic acid	466	KG00101205	fall	0.014767817221581936
+trial_2	azelaic acid	213	KG00100600	Infectious Skin Diseases	0.014519890770316124
+trial_2	azelaic acid	257	KG00100922	Erythema NOS	0.014343015849590302
+trial_2	azelaic acid	163	KG00104050	bowel obstructions small	0.013990056701004505
+trial_2	azelaic acid	1	KG00099959	Neutropenia NOS	0.013879172503948212
+trial_2	azelaic acid	118	KG00099011	Gastritis NOS	0.01380179449915886
+trial_2	azelaic acid	33	KG00100094	Pancreatitis NOS	0.013558858074247837
+trial_2	azelaic acid	69	KG00100082	Palpitations NOS	0.01347397267818451
+trial_2	azelaic acid	234	KG00098669	dysgeusias	0.013427332043647766
+trial_2	azelaic acid	25	KG00099134	congestive failures heart	0.01340531837195158

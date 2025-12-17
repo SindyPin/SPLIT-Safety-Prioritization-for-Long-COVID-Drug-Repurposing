@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.6538217067718506
+trial_1	placebo	87	KG00098599	diarrhoea	0.6080594658851624
+trial_1	placebo	228	KG00114657	Weight below normal	0.31770849227905273
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.29932665824890137
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.2866871953010559
+trial_1	placebo	20	KG00098540	dehydration	0.2832406461238861
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.28052300214767456
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.2769942879676819
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.25776946544647217
+trial_1	placebo	46	KG00099121	Headache NOS	0.25333371758461
+trial_1	placebo	123	KG00099351	hypokalaemia	0.25119978189468384
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.2429124116897583
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.24217291176319122
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.23206929862499237
+trial_1	placebo	9	KG00098432	Confusion NOS	0.21491652727127075
+trial_1	placebo	21	KG00098675	dyspnoea	0.20495867729187012
+trial_1	placebo	339	KG00100334	proteinurias	0.20480740070343018
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.182912215590477
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.17963482439517975
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.1790730506181717
+trial_1	placebo	68	KG00099901	nauseas	0.17590101063251495
+trial_1	placebo	257	KG00100922	Erythema NOS	0.17202815413475037
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.17164351046085358
+trial_1	placebo	124	KG00099369	hypothyroidisms	0.16611187160015106
+trial_1	placebo	77	KG00098450	Constipation NOS	0.1624840348958969
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.16005708277225494
+trial_1	placebo	234	KG00098669	dysgeusias	0.15975667536258698
+trial_1	placebo	350	KG00106765	decreased platelet count	0.15929675102233887
+trial_1	placebo	136	KG00101582	Dry;skin	0.1547594517469406
+trial_1	placebo	4	KG00098817	epistaxis	0.15129683911800385
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.14143669605255127
+trial_1	placebo	29	KG00099354	hyponatraemia	0.1395331174135208
+trial_1	placebo	104	KG00097963	arthralgias	0.13883692026138306
+trial_1	placebo	85	KG00098474	coughs	0.13130474090576172
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.13108906149864197
+trial_1	placebo	114	KG00098933	fevers	0.12824073433876038
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.1272796094417572
+trial_1	placebo	239	KG00100128	pareses	0.12616853415966034
+trial_1	placebo	382	KG00099200	haemorrhoids	0.1240294948220253
+trial_1	placebo	337	KG00099261	Hoarsenesses	0.12286397814750671
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.12263379991054535
+trial_1	placebo	5	KG00099169	haematuria	0.11985788494348526
+trial_1	placebo	18	KG00098307	Pain, Chest	0.1196092739701271
+trial_1	placebo	14	KG00097852	Anemia NOS	0.11562541127204895
+trial_1	placebo	86	KG00098565	Depression, Mental	0.11465451866388321
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.11431661248207092
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.10981188714504242
+trial_1	placebo	72	KG00103771	myalgias	0.10885368287563324
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.10515953600406647
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.10439417511224747
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.1041092500090599
+trial_1	placebo	126	KG00100076	Pain NOS	0.10277588665485382
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.10246344655752182
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.10166125744581223
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.10157623887062073
+trial_1	placebo	100	KG00097815	alopecias	0.09960781037807465
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.09951769560575485
+trial_1	placebo	186	KG00101431	creatinine increased	0.09725767374038696
+trial_1	placebo	147	KG00098000	atelectases	0.09649743884801865
+trial_1	placebo	116	KG00098964	Pain in foot	0.09479643404483795
+trial_1	placebo	82	KG00097697	abdomen distended	0.09379883855581284
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.09330849349498749
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.09219478815793991
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.09089325368404388
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.08941569179296494
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.08801469951868057
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.08556901663541794
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.08409388363361359
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.08334074169397354
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.08313137292861938
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.08215384185314178
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0820024386048317
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.08165860176086426
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.07971062511205673
+trial_1	placebo	83	KG00097747	pharyngitis nos acute	0.0783739984035492
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.07725748419761658
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.07680211961269379
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.07612211257219315
+trial_1	placebo	154	KG00099686	Lymphopenias	0.07390480488538742
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.07385920733213425
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.07363303005695343
+trial_1	placebo	269	KG00100399	pyaemia	0.07196103781461716
+trial_1	placebo	102	KG00097916	anxieties	0.07171764969825745
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07166194170713425
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.07079527527093887
+trial_1	placebo	454	KG00098286	Pain, Neck	0.07003931701183319
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.0698358416557312
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.06839528679847717
+trial_1	placebo	212	KG00100576	shivers	0.06774361431598663
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.06749461591243744
+trial_1	placebo	132	KG00101045	Gain, Weight	0.06565064191818237
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.06460311263799667
+trial_1	placebo	121	KG00099190	haemorrhage	0.06436136364936829
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.06415437906980515
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.06334742903709412
+trial_1	placebo	292	KG00105137	Haemorrhage - rectal	0.060669124126434326
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.06065219268202782
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.05990742892026901
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.058686256408691406
+trial_1	placebo	221	KG00101207	peripheral oedema	0.05861371383070946
+trial_2	axitinib	78	KG00099326	Hypertensive diseases	0.6538217067718506
+trial_2	axitinib	87	KG00098599	diarrhoea	0.6080594658851624
+trial_2	axitinib	228	KG00114657	Weight below normal	0.31770849227905273
+trial_2	axitinib	17	KG00097991	Asthenia NOS	0.29932665824890137
+trial_2	axitinib	67	KG00098673	Dyspepsia, NOS	0.2866871953010559
+trial_2	axitinib	20	KG00098540	dehydration	0.2832406461238861
+trial_2	axitinib	64	KG00097734	Acrodermatitis, NOS	0.28052300214767456
+trial_2	axitinib	189	KG00101580	Alanine aminotransferase increase	0.2769942879676819
+trial_2	axitinib	173	KG00098172	Bronchopneumonia NOS	0.25776946544647217
+trial_2	axitinib	46	KG00099121	Headache NOS	0.25333371758461
+trial_2	axitinib	123	KG00099351	hypokalaemia	0.25119978189468384
+trial_2	axitinib	37	KG00097696	Cramps, Abdominal	0.2429124116897583
+trial_2	axitinib	188	KG00101579	Aspartate aminotransferase increase	0.24217291176319122
+trial_2	axitinib	2	KG00100772	thrombocytopaenia	0.23206929862499237
+trial_2	axitinib	9	KG00098432	Confusion NOS	0.21491652727127075
+trial_2	axitinib	21	KG00098675	dyspnoea	0.20495867729187012
+trial_2	axitinib	339	KG00100334	proteinurias	0.20480740070343018
+trial_2	axitinib	177	KG00099299	hyperglycaemia	0.182912215590477
+trial_2	axitinib	49	KG00099902	nausea with vomiting	0.17963482439517975
+trial_2	axitinib	130	KG00100683	Stomatitis NOS	0.1790730506181717
+trial_2	axitinib	68	KG00099901	nauseas	0.17590101063251495
+trial_2	axitinib	257	KG00100922	Erythema NOS	0.17202815413475037
+trial_2	axitinib	101	KG00097901	Anorexia NOS	0.17164351046085358
+trial_2	axitinib	124	KG00099369	hypothyroidisms	0.16611187160015106
+trial_2	axitinib	77	KG00098450	Constipation NOS	0.1624840348958969
+trial_2	axitinib	200	KG00098539	Disorders, Deglutition	0.16005708277225494
+trial_2	axitinib	234	KG00098669	dysgeusias	0.15975667536258698
+trial_2	axitinib	350	KG00106765	decreased platelet count	0.15929675102233887
+trial_2	axitinib	136	KG00101582	Dry;skin	0.1547594517469406
+trial_2	axitinib	4	KG00098817	epistaxis	0.15129683911800385
+trial_2	axitinib	79	KG00100317	Insomnia, Primary	0.14143669605255127
+trial_2	axitinib	29	KG00099354	hyponatraemia	0.1395331174135208
+trial_2	axitinib	104	KG00097963	arthralgias	0.13883692026138306
+trial_2	axitinib	85	KG00098474	coughs	0.13130474090576172
+trial_2	axitinib	191	KG00104055	Biliverdin increased	0.13108906149864197
+trial_2	axitinib	114	KG00098933	fevers	0.12824073433876038
+trial_2	axitinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.1272796094417572
+trial_2	axitinib	239	KG00100128	pareses	0.12616853415966034
+trial_2	axitinib	382	KG00099200	haemorrhoids	0.1240294948220253
+trial_2	axitinib	337	KG00099261	Hoarsenesses	0.12286397814750671
+trial_2	axitinib	131	KG00100948	Urinary tract infection (& [NOS])	0.12263379991054535
+trial_2	axitinib	5	KG00099169	haematuria	0.11985788494348526
+trial_2	axitinib	18	KG00098307	Pain, Chest	0.1196092739701271
+trial_2	axitinib	14	KG00097852	Anemia NOS	0.11562541127204895
+trial_2	axitinib	86	KG00098565	Depression, Mental	0.11465451866388321
+trial_2	axitinib	139	KG00098855	Sinusitis, Ethmoid	0.11431661248207092
+trial_2	axitinib	288	KG00101223	hypophosphataemia	0.10981188714504242
+trial_2	axitinib	72	KG00103771	myalgias	0.10885368287563324
+trial_2	axitinib	261	KG00101559	raised alkaline phosphatase	0.10515953600406647
+trial_2	axitinib	179	KG00099342	hypocalcaemia	0.10439417511224747
+trial_2	axitinib	194	KG00110727	Neutrophil Count Decreased	0.1041092500090599
+trial_2	axitinib	126	KG00100076	Pain NOS	0.10277588665485382
+trial_2	axitinib	204	KG00098849	Esophagitis, Peptic	0.10246344655752182
+trial_2	axitinib	151	KG00098274	Infarction, Cerebral	0.10166125744581223
+trial_2	axitinib	243	KG00100947	Micturition frequency increased	0.10157623887062073
+trial_2	axitinib	100	KG00097815	alopecias	0.09960781037807465
+trial_2	axitinib	38	KG00098066	Binocular vision disorders	0.09951769560575485
+trial_2	axitinib	186	KG00101431	creatinine increased	0.09725767374038696
+trial_2	axitinib	147	KG00098000	atelectases	0.09649743884801865
+trial_2	axitinib	116	KG00098964	Pain in foot	0.09479643404483795
+trial_2	axitinib	82	KG00097697	abdomen distended	0.09379883855581284
+trial_2	axitinib	180	KG00099363	Hypotension NOS	0.09330849349498749
+trial_2	axitinib	396	KG00100373	Embolism, Pulmonary	0.09219478815793991
+trial_2	axitinib	1	KG00099959	Neutropenia NOS	0.09089325368404388
+trial_2	axitinib	122	KG00099321	Hypersensitivity NOS	0.08941569179296494
+trial_2	axitinib	28	KG00099347	hypoglycaemia	0.08801469951868057
+trial_2	axitinib	27	KG00099303	hyperkalaemia	0.08556901663541794
+trial_2	axitinib	144	KG00099610	Leukopenia NOS	0.08409388363361359
+trial_2	axitinib	61	KG00099501	Chronic Kidney Failure	0.08334074169397354
+trial_2	axitinib	142	KG00100923	Unspecified infectious and parasitic diseases	0.08313137292861938
+trial_2	axitinib	347	KG00104223	Mucosal ulcers	0.08215384185314178
+trial_2	axitinib	33	KG00100094	Pancreatitis NOS	0.0820024386048317
+trial_2	axitinib	249	KG00104430	hypoalbuminaemia	0.08165860176086426
+trial_2	axitinib	76	KG00100450	Respiratory insufficiency, NOS	0.07971062511205673
+trial_2	axitinib	83	KG00097747	pharyngitis nos acute	0.0783739984035492
+trial_2	axitinib	36	KG00106434	Vision, Blurring Of	0.07725748419761658
+trial_2	axitinib	35	KG00101507	hypomagnesaemia	0.07680211961269379
+trial_2	axitinib	356	KG00112623	Infectious Lung Disorders	0.07612211257219315
+trial_2	axitinib	154	KG00099686	Lymphopenias	0.07390480488538742
+trial_2	axitinib	355	KG00110857	lymphocyte count decreased	0.07385920733213425
+trial_2	axitinib	422	KG00101429	Creatine phosphokinase increased	0.07363303005695343
+trial_2	axitinib	269	KG00100399	pyaemia	0.07196103781461716
+trial_2	axitinib	102	KG00097916	anxieties	0.07171764969825745
+trial_2	axitinib	30	KG00099500	Acute Kidney Failure	0.07166194170713425
+trial_2	axitinib	92	KG00100926	Infections, Upper Respiratory	0.07079527527093887
+trial_2	axitinib	454	KG00098286	Pain, Neck	0.07003931701183319
+trial_2	axitinib	297	KG00099294	hypercholesterolaemia	0.0698358416557312
+trial_2	axitinib	31	KG00099872	Infarction, Myocardial	0.06839528679847717
+trial_2	axitinib	212	KG00100576	shivers	0.06774361431598663
+trial_2	axitinib	276	KG00099127	Arrest, Cardiac	0.06749461591243744
+trial_2	axitinib	132	KG00101045	Gain, Weight	0.06565064191818237
+trial_2	axitinib	341	KG00101472	Gamma-glutamyltransferase increased	0.06460311263799667
+trial_2	axitinib	121	KG00099190	haemorrhage	0.06436136364936829
+trial_2	axitinib	286	KG00101110	Retention, Urinary	0.06415437906980515
+trial_2	axitinib	218	KG00100801	Tinnitus NOS	0.06334742903709412
+trial_2	axitinib	292	KG00105137	Haemorrhage - rectal	0.060669124126434326
+trial_2	axitinib	99	KG00097728	acne; vulgaris	0.06065219268202782
+trial_2	axitinib	75	KG00100195	Dolens, Phlegmasia Alba	0.05990742892026901
+trial_2	axitinib	211	KG00100341	Pruritus NOS	0.058686256408691406
+trial_2	axitinib	221	KG00101207	peripheral oedema	0.05861371383070946

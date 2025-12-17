@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	132	KG00101045	Gain, Weight	0.23507528007030487
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1493207961320877
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14412762224674225
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14016054570674896
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1392931044101715
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12027784436941147
+trial_1	placebo	86	KG00098565	Depression, Mental	0.11890660226345062
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11171676218509674
+trial_1	placebo	87	KG00098599	diarrhoea	0.10902649909257889
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10853737592697144
+trial_1	placebo	66	KG00098642	drowsiness	0.10576803982257843
+trial_1	placebo	242	KG00100855	tremors	0.0942048579454422
+trial_1	placebo	20	KG00098540	dehydration	0.09389156848192215
+trial_1	placebo	21	KG00098675	dyspnoea	0.0890841856598854
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0884956419467926
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08193869143724442
+trial_1	placebo	228	KG00114657	Weight below normal	0.07095793634653091
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06954638659954071
+trial_1	placebo	104	KG00097963	arthralgias	0.06730704754590988
+trial_1	placebo	262	KG00101199	agitation	0.06668691337108612
+trial_1	placebo	300	KG00101064	xerostomia	0.06445825099945068
+trial_1	placebo	466	KG00101205	fall	0.06414273381233215
+trial_1	placebo	783	KG00106735	Acathisia	0.06309982389211655
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06256341189146042
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06174016743898392
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06166992709040642
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05950022116303444
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05873458459973335
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.057757146656513214
+trial_1	placebo	102	KG00097916	anxieties	0.057433076202869415
+trial_1	placebo	85	KG00098474	coughs	0.05598020181059837
+trial_1	placebo	46	KG00099121	Headache NOS	0.05573515594005585
+trial_1	placebo	114	KG00098933	fevers	0.054645877331495285
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05450557544827461
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05163675546646118
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.050601352006196976
+trial_1	placebo	68	KG00099901	nauseas	0.047933779656887054
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.04656233638525009
+trial_1	placebo	239	KG00100128	pareses	0.04505890607833862
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04423363506793976
+trial_1	placebo	81	KG00103828	Increased appetite (finding)	0.043649353086948395
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.042865585535764694
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04210583120584488
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.04205093905329704
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04195810854434967
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04115685075521469
+trial_1	placebo	333	KG00104019	DOPINESS	0.040959231555461884
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04093199968338013
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04069707915186882
+trial_1	placebo	456	KG00099420	Influenzae	0.03962388634681702
+trial_1	placebo	126	KG00100076	Pain NOS	0.03947540372610092
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03930702432990074
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0390009768307209
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03866835683584213
+trial_1	placebo	116	KG00098964	Pain in foot	0.03864200785756111
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03793345391750336
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.036360129714012146
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03600563481450081
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.0353456549346447
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.035181332379579544
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03424447402358055
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0327833890914917
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.031244272366166115
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.030948149040341377
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.030756765976548195
+trial_1	placebo	290	KG00103881	Physical wandering	0.0304277241230011
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029411761090159416
+trial_1	placebo	5	KG00099169	haematuria	0.0287235826253891
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.027713729068636894
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.027668185532093048
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0274813249707222
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027337249368429184
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027331147342920303
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02640262432396412
+trial_1	placebo	739	KG00100119	Paraphrenia, NOS	0.026242155581712723
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026084361597895622
+trial_1	placebo	7	KG00097787	Aggressive Behaviour	0.0260698851197958
+trial_1	placebo	80	KG00100516	of saliva secretion	0.025896862149238586
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025711145251989365
+trial_1	placebo	281	KG00098869	extrapyramidal; disorder	0.02571079693734646
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.025544071570038795
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02537333406507969
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025129549205303192
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024929316714406013
+trial_1	placebo	269	KG00100399	pyaemia	0.024768730625510216
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024368438869714737
+trial_1	placebo	493	KG00098679	dystonias	0.02388090454041958
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.023197995498776436
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.022860582917928696
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022649794816970825
+trial_1	placebo	147	KG00098000	atelectases	0.022623401135206223
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02250010520219803
+trial_1	placebo	345	KG00103926	impairments memory	0.02222747914493084
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021915026009082794
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021652797237038612
+trial_1	placebo	153	KG00099579	lethargy	0.021632365882396698
+trial_1	placebo	203	KG00098661	dysarthrias	0.021561237052083015
+trial_1	placebo	342	KG00101570	intervals prolonged qt	0.021527819335460663
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021292777732014656
+trial_1	placebo	933	KG00103917	Auditory Hallucinations	0.02106037363409996
+trial_2	asenapine	132	KG00101045	Gain, Weight	0.23507528007030487
+trial_2	asenapine	78	KG00099326	Hypertensive diseases	0.1493207961320877
+trial_2	asenapine	17	KG00097991	Asthenia NOS	0.14412762224674225
+trial_2	asenapine	9	KG00098432	Confusion NOS	0.14016054570674896
+trial_2	asenapine	173	KG00098172	Bronchopneumonia NOS	0.1392931044101715
+trial_2	asenapine	77	KG00098450	Constipation NOS	0.12027784436941147
+trial_2	asenapine	86	KG00098565	Depression, Mental	0.11890660226345062
+trial_2	asenapine	79	KG00100317	Insomnia, Primary	0.11171676218509674
+trial_2	asenapine	87	KG00098599	diarrhoea	0.10902649909257889
+trial_2	asenapine	177	KG00099299	hyperglycaemia	0.10853737592697144
+trial_2	asenapine	66	KG00098642	drowsiness	0.10576803982257843
+trial_2	asenapine	242	KG00100855	tremors	0.0942048579454422
+trial_2	asenapine	20	KG00098540	dehydration	0.09389156848192215
+trial_2	asenapine	21	KG00098675	dyspnoea	0.0890841856598854
+trial_2	asenapine	151	KG00098274	Infarction, Cerebral	0.0884956419467926
+trial_2	asenapine	189	KG00101580	Alanine aminotransferase increase	0.08193869143724442
+trial_2	asenapine	228	KG00114657	Weight below normal	0.07095793634653091
+trial_2	asenapine	49	KG00099902	nausea with vomiting	0.06954638659954071
+trial_2	asenapine	104	KG00097963	arthralgias	0.06730704754590988
+trial_2	asenapine	262	KG00101199	agitation	0.06668691337108612
+trial_2	asenapine	300	KG00101064	xerostomia	0.06445825099945068
+trial_2	asenapine	466	KG00101205	fall	0.06414273381233215
+trial_2	asenapine	783	KG00106735	Acathisia	0.06309982389211655
+trial_2	asenapine	188	KG00101579	Aspartate aminotransferase increase	0.06256341189146042
+trial_2	asenapine	30	KG00099500	Acute Kidney Failure	0.06174016743898392
+trial_2	asenapine	123	KG00099351	hypokalaemia	0.06166992709040642
+trial_2	asenapine	64	KG00097734	Acrodermatitis, NOS	0.05950022116303444
+trial_2	asenapine	29	KG00099354	hyponatraemia	0.05873458459973335
+trial_2	asenapine	76	KG00100450	Respiratory insufficiency, NOS	0.057757146656513214
+trial_2	asenapine	102	KG00097916	anxieties	0.057433076202869415
+trial_2	asenapine	85	KG00098474	coughs	0.05598020181059837
+trial_2	asenapine	46	KG00099121	Headache NOS	0.05573515594005585
+trial_2	asenapine	114	KG00098933	fevers	0.054645877331495285
+trial_2	asenapine	96	KG00101679	Unattended death NOS	0.05450557544827461
+trial_2	asenapine	180	KG00099363	Hypotension NOS	0.05163675546646118
+trial_2	asenapine	37	KG00097696	Cramps, Abdominal	0.050601352006196976
+trial_2	asenapine	68	KG00099901	nauseas	0.047933779656887054
+trial_2	asenapine	199	KG00098371	Rhinitis (chronic) NOS	0.04656233638525009
+trial_2	asenapine	239	KG00100128	pareses	0.04505890607833862
+trial_2	asenapine	28	KG00099347	hypoglycaemia	0.04423363506793976
+trial_2	asenapine	81	KG00103828	Increased appetite (finding)	0.043649353086948395
+trial_2	asenapine	200	KG00098539	Disorders, Deglutition	0.042865585535764694
+trial_2	asenapine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04210583120584488
+trial_2	asenapine	182	KG00100366	Disorders, Psychotic	0.04205093905329704
+trial_2	asenapine	67	KG00098673	Dyspepsia, NOS	0.04195810854434967
+trial_2	asenapine	36	KG00106434	Vision, Blurring Of	0.04115685075521469
+trial_2	asenapine	333	KG00104019	DOPINESS	0.040959231555461884
+trial_2	asenapine	92	KG00100926	Infections, Upper Respiratory	0.04093199968338013
+trial_2	asenapine	131	KG00100948	Urinary tract infection (& [NOS])	0.04069707915186882
+trial_2	asenapine	456	KG00099420	Influenzae	0.03962388634681702
+trial_2	asenapine	126	KG00100076	Pain NOS	0.03947540372610092
+trial_2	asenapine	422	KG00101429	Creatine phosphokinase increased	0.03930702432990074
+trial_2	asenapine	243	KG00100947	Micturition frequency increased	0.0390009768307209
+trial_2	asenapine	11	KG00097993	Asthma NOS	0.03866835683584213
+trial_2	asenapine	116	KG00098964	Pain in foot	0.03864200785756111
+trial_2	asenapine	350	KG00106765	decreased platelet count	0.03793345391750336
+trial_2	asenapine	61	KG00099501	Chronic Kidney Failure	0.036360129714012146
+trial_2	asenapine	101	KG00097901	Anorexia NOS	0.03600563481450081
+trial_2	asenapine	152	KG00099402	INCONTINENCE NOS	0.0353456549346447
+trial_2	asenapine	225	KG00104032	Suicidal tendencies	0.035181332379579544
+trial_2	asenapine	14	KG00097852	Anemia NOS	0.03424447402358055
+trial_2	asenapine	139	KG00098855	Sinusitis, Ethmoid	0.0327833890914917
+trial_2	asenapine	118	KG00099011	Gastritis NOS	0.031244272366166115
+trial_2	asenapine	297	KG00099294	hypercholesterolaemia	0.030948149040341377
+trial_2	asenapine	122	KG00099321	Hypersensitivity NOS	0.030756765976548195
+trial_2	asenapine	290	KG00103881	Physical wandering	0.0304277241230011
+trial_2	asenapine	69	KG00100082	Palpitations NOS	0.029411761090159416
+trial_2	asenapine	5	KG00099169	haematuria	0.0287235826253891
+trial_2	asenapine	341	KG00101472	Gamma-glutamyltransferase increased	0.027713729068636894
+trial_2	asenapine	191	KG00104055	Biliverdin increased	0.027668185532093048
+trial_2	asenapine	394	KG00100243	Pneumonia, Aspiration	0.0274813249707222
+trial_2	asenapine	286	KG00101110	Retention, Urinary	0.027337249368429184
+trial_2	asenapine	18	KG00098307	Pain, Chest	0.027331147342920303
+trial_2	asenapine	138	KG00098796	epidemic vomiting syndrome	0.02640262432396412
+trial_2	asenapine	739	KG00100119	Paraphrenia, NOS	0.026242155581712723
+trial_2	asenapine	38	KG00098066	Binocular vision disorders	0.026084361597895622
+trial_2	asenapine	7	KG00097787	Aggressive Behaviour	0.0260698851197958
+trial_2	asenapine	80	KG00100516	of saliva secretion	0.025896862149238586
+trial_2	asenapine	221	KG00101207	peripheral oedema	0.025711145251989365
+trial_2	asenapine	281	KG00098869	extrapyramidal; disorder	0.02571079693734646
+trial_2	asenapine	27	KG00099303	hyperkalaemia	0.025544071570038795
+trial_2	asenapine	194	KG00110727	Neutrophil Count Decreased	0.02537333406507969
+trial_2	asenapine	261	KG00101559	raised alkaline phosphatase	0.025129549205303192
+trial_2	asenapine	508	KG00108565	blood glucose increased	0.024929316714406013
+trial_2	asenapine	269	KG00100399	pyaemia	0.024768730625510216
+trial_2	asenapine	396	KG00100373	Embolism, Pulmonary	0.024368438869714737
+trial_2	asenapine	493	KG00098679	dystonias	0.02388090454041958
+trial_2	asenapine	2	KG00100772	thrombocytopaenia	0.023197995498776436
+trial_2	asenapine	232	KG00097997	Ataxia NOS	0.022860582917928696
+trial_2	asenapine	179	KG00099342	hypocalcaemia	0.022649794816970825
+trial_2	asenapine	147	KG00098000	atelectases	0.022623401135206223
+trial_2	asenapine	22	KG00098705	Edema (NOS)	0.02250010520219803
+trial_2	asenapine	345	KG00103926	impairments memory	0.02222747914493084
+trial_2	asenapine	256	KG00100738	Tachycardia, Sinus	0.021915026009082794
+trial_2	asenapine	130	KG00100683	Stomatitis NOS	0.021652797237038612
+trial_2	asenapine	153	KG00099579	lethargy	0.021632365882396698
+trial_2	asenapine	203	KG00098661	dysarthrias	0.021561237052083015
+trial_2	asenapine	342	KG00101570	intervals prolonged qt	0.021527819335460663
+trial_2	asenapine	211	KG00100341	Pruritus NOS	0.021292777732014656
+trial_2	asenapine	933	KG00103917	Auditory Hallucinations	0.02106037363409996

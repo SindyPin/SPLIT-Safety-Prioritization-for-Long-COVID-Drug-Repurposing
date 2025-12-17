@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07370440661907196
+trial_1	placebo	87	KG00098599	diarrhoea	0.06994489580392838
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06900341063737869
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05568027123808861
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05247960612177849
+trial_1	placebo	46	KG00099121	Headache NOS	0.05139888450503349
+trial_1	placebo	21	KG00098675	dyspnoea	0.046795014292001724
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04318522661924362
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.039605624973773956
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03897210583090782
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.038335636258125305
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.03789805993437767
+trial_1	placebo	85	KG00098474	coughs	0.03575019910931587
+trial_1	placebo	20	KG00098540	dehydration	0.03458215668797493
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.02982507459819317
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.029444940388202667
+trial_1	placebo	68	KG00099901	nauseas	0.029095565900206566
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02848639525473118
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027841759845614433
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02767374739050865
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027613647282123566
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02739391289651394
+trial_1	placebo	126	KG00100076	Pain NOS	0.02667538821697235
+trial_1	placebo	77	KG00098450	Constipation NOS	0.02579142339527607
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.024528630077838898
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02449127286672592
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.024405287578701973
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023490821942687035
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.022946912795305252
+trial_1	placebo	114	KG00098933	fevers	0.022794228047132492
+trial_1	placebo	104	KG00097963	arthralgias	0.022318625822663307
+trial_1	placebo	228	KG00114657	Weight below normal	0.022243626415729523
+trial_1	placebo	29	KG00099354	hyponatraemia	0.021648075431585312
+trial_1	placebo	121	KG00099190	haemorrhage	0.02161647193133831
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.021573765203356743
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.020962616428732872
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.020336976274847984
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020264387130737305
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02024032361805439
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.020158618688583374
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020077861845493317
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.019583679735660553
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01914297603070736
+trial_1	placebo	132	KG00101045	Gain, Weight	0.018577836453914642
+trial_1	placebo	300	KG00101064	xerostomia	0.018444914370775223
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018084540963172913
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01806408353149891
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.017521068453788757
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017414728179574013
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01709647662937641
+trial_1	placebo	5	KG00099169	haematuria	0.01707564666867256
+trial_1	placebo	441	KG00098262	cellulitis nos	0.016739843413233757
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01673515886068344
+trial_1	placebo	164	KG00108827	ileus colon	0.01654021069407463
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.016523046419024467
+trial_1	placebo	350	KG00106765	decreased platelet count	0.016486939042806625
+trial_1	placebo	102	KG00097916	anxieties	0.01618928648531437
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01618012972176075
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.0160536989569664
+trial_1	placebo	147	KG00098000	atelectases	0.015987850725650787
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015975147485733032
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015923433005809784
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0158220287412405
+trial_1	placebo	269	KG00100399	pyaemia	0.015549902804195881
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.015207812190055847
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014923850074410439
+trial_1	placebo	466	KG00101205	fall	0.014770439825952053
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01466874685138464
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01464558020234108
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.014620169997215271
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014592497609555721
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.014242053963243961
+trial_1	placebo	239	KG00100128	pareses	0.014183777384459972
+trial_1	placebo	116	KG00098964	Pain in foot	0.014137579128146172
+trial_1	placebo	72	KG00103771	myalgias	0.013993109576404095
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.013277797028422356
+trial_1	placebo	456	KG00099420	Influenzae	0.013215725310146809
+trial_1	placebo	203	KG00098661	dysarthrias	0.01302577368915081
+trial_1	placebo	262	KG00101199	agitation	0.012822965160012245
+trial_1	placebo	4	KG00098817	epistaxis	0.012710980139672756
+trial_1	placebo	221	KG00101207	peripheral oedema	0.012485465966165066
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012480922043323517
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.012175589799880981
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.012113765813410282
+trial_1	placebo	508	KG00108565	blood glucose increased	0.012102552689611912
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.012034714221954346
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011957650072872639
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.011830122210085392
+trial_1	placebo	136	KG00101582	Dry;skin	0.011741645634174347
+trial_1	placebo	82	KG00097697	abdomen distended	0.01155743096023798
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.011524427682161331
+trial_1	placebo	382	KG00099200	haemorrhoids	0.011301184073090553
+trial_1	placebo	234	KG00098669	dysgeusias	0.011285875923931599
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011188999749720097
+trial_1	placebo	186	KG00101431	creatinine increased	0.011041444726288319
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.011026879772543907
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.010889146476984024
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.010600828565657139
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.010519765317440033
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.010514257475733757
+trial_2	terazosin	78	KG00099326	Hypertensive diseases	0.07370440661907196
+trial_2	terazosin	87	KG00098599	diarrhoea	0.06994489580392838
+trial_2	terazosin	9	KG00098432	Confusion NOS	0.06900341063737869
+trial_2	terazosin	173	KG00098172	Bronchopneumonia NOS	0.05568027123808861
+trial_2	terazosin	17	KG00097991	Asthenia NOS	0.05247960612177849
+trial_2	terazosin	46	KG00099121	Headache NOS	0.05139888450503349
+trial_2	terazosin	21	KG00098675	dyspnoea	0.046795014292001724
+trial_2	terazosin	123	KG00099351	hypokalaemia	0.04318522661924362
+trial_2	terazosin	151	KG00098274	Infarction, Cerebral	0.039605624973773956
+trial_2	terazosin	67	KG00098673	Dyspepsia, NOS	0.03897210583090782
+trial_2	terazosin	79	KG00100317	Insomnia, Primary	0.038335636258125305
+trial_2	terazosin	177	KG00099299	hyperglycaemia	0.03789805993437767
+trial_2	terazosin	85	KG00098474	coughs	0.03575019910931587
+trial_2	terazosin	20	KG00098540	dehydration	0.03458215668797493
+trial_2	terazosin	37	KG00097696	Cramps, Abdominal	0.02982507459819317
+trial_2	terazosin	180	KG00099363	Hypotension NOS	0.029444940388202667
+trial_2	terazosin	68	KG00099901	nauseas	0.029095565900206566
+trial_2	terazosin	14	KG00097852	Anemia NOS	0.02848639525473118
+trial_2	terazosin	96	KG00101679	Unattended death NOS	0.027841759845614433
+trial_2	terazosin	61	KG00099501	Chronic Kidney Failure	0.02767374739050865
+trial_2	terazosin	18	KG00098307	Pain, Chest	0.027613647282123566
+trial_2	terazosin	200	KG00098539	Disorders, Deglutition	0.02739391289651394
+trial_2	terazosin	126	KG00100076	Pain NOS	0.02667538821697235
+trial_2	terazosin	77	KG00098450	Constipation NOS	0.02579142339527607
+trial_2	terazosin	64	KG00097734	Acrodermatitis, NOS	0.024528630077838898
+trial_2	terazosin	86	KG00098565	Depression, Mental	0.02449127286672592
+trial_2	terazosin	49	KG00099902	nausea with vomiting	0.024405287578701973
+trial_2	terazosin	361	KG00098004	Fibrillation, Atrial	0.023490821942687035
+trial_2	terazosin	76	KG00100450	Respiratory insufficiency, NOS	0.022946912795305252
+trial_2	terazosin	114	KG00098933	fevers	0.022794228047132492
+trial_2	terazosin	104	KG00097963	arthralgias	0.022318625822663307
+trial_2	terazosin	228	KG00114657	Weight below normal	0.022243626415729523
+trial_2	terazosin	29	KG00099354	hyponatraemia	0.021648075431585312
+trial_2	terazosin	121	KG00099190	haemorrhage	0.02161647193133831
+trial_2	terazosin	243	KG00100947	Micturition frequency increased	0.021573765203356743
+trial_2	terazosin	30	KG00099500	Acute Kidney Failure	0.020962616428732872
+trial_2	terazosin	396	KG00100373	Embolism, Pulmonary	0.020336976274847984
+trial_2	terazosin	69	KG00100082	Palpitations NOS	0.020264387130737305
+trial_2	terazosin	142	KG00100923	Unspecified infectious and parasitic diseases	0.02024032361805439
+trial_2	terazosin	189	KG00101580	Alanine aminotransferase increase	0.020158618688583374
+trial_2	terazosin	31	KG00099872	Infarction, Myocardial	0.020077861845493317
+trial_2	terazosin	276	KG00099127	Arrest, Cardiac	0.019583679735660553
+trial_2	terazosin	15	KG00097882	Angina pectoris NOS	0.01914297603070736
+trial_2	terazosin	132	KG00101045	Gain, Weight	0.018577836453914642
+trial_2	terazosin	300	KG00101064	xerostomia	0.018444914370775223
+trial_2	terazosin	138	KG00098796	epidemic vomiting syndrome	0.018084540963172913
+trial_2	terazosin	131	KG00100948	Urinary tract infection (& [NOS])	0.01806408353149891
+trial_2	terazosin	28	KG00099347	hypoglycaemia	0.017521068453788757
+trial_2	terazosin	139	KG00098855	Sinusitis, Ethmoid	0.017414728179574013
+trial_2	terazosin	166	KG00099773	menopausal syndrome	0.01709647662937641
+trial_2	terazosin	5	KG00099169	haematuria	0.01707564666867256
+trial_2	terazosin	441	KG00098262	cellulitis nos	0.016739843413233757
+trial_2	terazosin	122	KG00099321	Hypersensitivity NOS	0.01673515886068344
+trial_2	terazosin	164	KG00108827	ileus colon	0.01654021069407463
+trial_2	terazosin	188	KG00101579	Aspartate aminotransferase increase	0.016523046419024467
+trial_2	terazosin	350	KG00106765	decreased platelet count	0.016486939042806625
+trial_2	terazosin	102	KG00097916	anxieties	0.01618928648531437
+trial_2	terazosin	11	KG00097993	Asthma NOS	0.01618012972176075
+trial_2	terazosin	199	KG00098371	Rhinitis (chronic) NOS	0.0160536989569664
+trial_2	terazosin	147	KG00098000	atelectases	0.015987850725650787
+trial_2	terazosin	286	KG00101110	Retention, Urinary	0.015975147485733032
+trial_2	terazosin	101	KG00097901	Anorexia NOS	0.015923433005809784
+trial_2	terazosin	36	KG00106434	Vision, Blurring Of	0.0158220287412405
+trial_2	terazosin	269	KG00100399	pyaemia	0.015549902804195881
+trial_2	terazosin	22	KG00098705	Edema (NOS)	0.015207812190055847
+trial_2	terazosin	118	KG00099011	Gastritis NOS	0.014923850074410439
+trial_2	terazosin	466	KG00101205	fall	0.014770439825952053
+trial_2	terazosin	25	KG00099134	congestive failures heart	0.01466874685138464
+trial_2	terazosin	2	KG00100772	thrombocytopaenia	0.01464558020234108
+trial_2	terazosin	38	KG00098066	Binocular vision disorders	0.014620169997215271
+trial_2	terazosin	75	KG00100195	Dolens, Phlegmasia Alba	0.014592497609555721
+trial_2	terazosin	27	KG00099303	hyperkalaemia	0.014242053963243961
+trial_2	terazosin	239	KG00100128	pareses	0.014183777384459972
+trial_2	terazosin	116	KG00098964	Pain in foot	0.014137579128146172
+trial_2	terazosin	72	KG00103771	myalgias	0.013993109576404095
+trial_2	terazosin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.013277797028422356
+trial_2	terazosin	456	KG00099420	Influenzae	0.013215725310146809
+trial_2	terazosin	203	KG00098661	dysarthrias	0.01302577368915081
+trial_2	terazosin	262	KG00101199	agitation	0.012822965160012245
+trial_2	terazosin	4	KG00098817	epistaxis	0.012710980139672756
+trial_2	terazosin	221	KG00101207	peripheral oedema	0.012485465966165066
+trial_2	terazosin	204	KG00098849	Esophagitis, Peptic	0.012480922043323517
+trial_2	terazosin	356	KG00112623	Infectious Lung Disorders	0.012175589799880981
+trial_2	terazosin	152	KG00099402	INCONTINENCE NOS	0.012113765813410282
+trial_2	terazosin	508	KG00108565	blood glucose increased	0.012102552689611912
+trial_2	terazosin	271	KG00103813	reflex bradycardia	0.012034714221954346
+trial_2	terazosin	191	KG00104055	Biliverdin increased	0.011957650072872639
+trial_2	terazosin	92	KG00100926	Infections, Upper Respiratory	0.011830122210085392
+trial_2	terazosin	136	KG00101582	Dry;skin	0.011741645634174347
+trial_2	terazosin	82	KG00097697	abdomen distended	0.01155743096023798
+trial_2	terazosin	371	KG00098517	Cystitis (NOS)	0.011524427682161331
+trial_2	terazosin	382	KG00099200	haemorrhoids	0.011301184073090553
+trial_2	terazosin	234	KG00098669	dysgeusias	0.011285875923931599
+trial_2	terazosin	33	KG00100094	Pancreatitis NOS	0.011188999749720097
+trial_2	terazosin	186	KG00101431	creatinine increased	0.011041444726288319
+trial_2	terazosin	366	KG00098275	Attack, Transient Ischemic	0.011026879772543907
+trial_2	terazosin	253	KG00100232	Pleural effusion NOS (disorder)	0.010889146476984024
+trial_2	terazosin	297	KG00099294	hypercholesterolaemia	0.010600828565657139
+trial_2	terazosin	211	KG00100341	Pruritus NOS	0.010519765317440033
+trial_2	terazosin	130	KG00100683	Stomatitis NOS	0.010514257475733757

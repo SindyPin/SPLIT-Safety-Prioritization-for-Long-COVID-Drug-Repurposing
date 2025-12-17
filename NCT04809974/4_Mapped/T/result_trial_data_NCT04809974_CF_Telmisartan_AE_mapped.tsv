@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2525497376918793
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.20914912223815918
+trial_1	placebo	123	KG00099351	hypokalaemia	0.18696659803390503
+trial_1	placebo	20	KG00098540	dehydration	0.1805233359336853
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.15117262303829193
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14940913021564484
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1165919080376625
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09984031319618225
+trial_1	placebo	228	KG00114657	Weight below normal	0.09920313209295273
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09393621236085892
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08724565804004669
+trial_1	placebo	21	KG00098675	dyspnoea	0.08651841431856155
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.08607685565948486
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.08603151142597198
+trial_1	placebo	46	KG00099121	Headache NOS	0.08431464433670044
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0833604708313942
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08180791139602661
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08143278956413269
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0805651992559433
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0780424103140831
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07672230154275894
+trial_1	placebo	85	KG00098474	coughs	0.07445917278528214
+trial_1	placebo	126	KG00100076	Pain NOS	0.07017818093299866
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.06862157583236694
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06816278398036957
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06812705844640732
+trial_1	placebo	114	KG00098933	fevers	0.06776463240385056
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06684727966785431
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06678669154644012
+trial_1	placebo	121	KG00099190	haemorrhage	0.06641275435686111
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06492407619953156
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0635884702205658
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06282252073287964
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06226961687207222
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.062180906534194946
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06043977662920952
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05741899833083153
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05607333779335022
+trial_1	placebo	5	KG00099169	haematuria	0.05343048647046089
+trial_1	placebo	104	KG00097963	arthralgias	0.05341639369726181
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.053236257284879684
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05287900194525719
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05117115005850792
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0500243678689003
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04968656972050667
+trial_1	placebo	164	KG00108827	ileus colon	0.04956205189228058
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04948318004608154
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.048776429146528244
+trial_1	placebo	68	KG00099901	nauseas	0.04786400869488716
+trial_1	placebo	269	KG00100399	pyaemia	0.04724593460559845
+trial_1	placebo	186	KG00101431	creatinine increased	0.04539751634001732
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.044599708169698715
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0442410409450531
+trial_1	placebo	147	KG00098000	atelectases	0.04412590712308884
+trial_1	placebo	239	KG00100128	pareses	0.044033750891685486
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04378573223948479
+trial_1	placebo	72	KG00103771	myalgias	0.0437072217464447
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04366881027817726
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0418960377573967
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.041634272783994675
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.040285635739564896
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03927934914827347
+trial_1	placebo	132	KG00101045	Gain, Weight	0.038128212094306946
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.03790413588285446
+trial_1	placebo	466	KG00101205	fall	0.03766566514968872
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03735886514186859
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0368356853723526
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03673125058412552
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03595496341586113
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03556597977876663
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0355391651391983
+trial_1	placebo	154	KG00099686	Lymphopenias	0.035506125539541245
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03534380719065666
+trial_1	placebo	339	KG00100334	proteinurias	0.03524816036224365
+trial_1	placebo	102	KG00097916	anxieties	0.035197094082832336
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.035111453384160995
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0349276140332222
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03488563746213913
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03460371866822243
+trial_1	placebo	282	KG00099309	hypernatraemia	0.034558411687612534
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.034463852643966675
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.03309189900755882
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03294302150607109
+trial_1	placebo	382	KG00099200	haemorrhoids	0.03285566344857216
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03240912780165672
+trial_1	placebo	262	KG00101199	agitation	0.03156975284218788
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03147367015480995
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.031248904764652252
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.030596690252423286
+trial_1	placebo	4	KG00098817	epistaxis	0.030486036092042923
+trial_1	placebo	136	KG00101582	Dry;skin	0.030268041417002678
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.030248360708355904
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.030038388445973396
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.029838474467396736
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.029045773670077324
+trial_1	placebo	456	KG00099420	Influenzae	0.0285752285271883
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02854977175593376
+trial_1	placebo	11	KG00097993	Asthma NOS	0.028318602591753006
+trial_1	placebo	116	KG00098964	Pain in foot	0.028296079486608505
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02797982096672058
+trial_2	telmisartan	87	KG00098599	diarrhoea	0.2525497376918793
+trial_2	telmisartan	78	KG00099326	Hypertensive diseases	0.20914912223815918
+trial_2	telmisartan	123	KG00099351	hypokalaemia	0.18696659803390503
+trial_2	telmisartan	20	KG00098540	dehydration	0.1805233359336853
+trial_2	telmisartan	173	KG00098172	Bronchopneumonia NOS	0.15117262303829193
+trial_2	telmisartan	177	KG00099299	hyperglycaemia	0.14940913021564484
+trial_2	telmisartan	17	KG00097991	Asthenia NOS	0.1165919080376625
+trial_2	telmisartan	9	KG00098432	Confusion NOS	0.09984031319618225
+trial_2	telmisartan	228	KG00114657	Weight below normal	0.09920313209295273
+trial_2	telmisartan	37	KG00097696	Cramps, Abdominal	0.09393621236085892
+trial_2	telmisartan	29	KG00099354	hyponatraemia	0.08724565804004669
+trial_2	telmisartan	21	KG00098675	dyspnoea	0.08651841431856155
+trial_2	telmisartan	180	KG00099363	Hypotension NOS	0.08607685565948486
+trial_2	telmisartan	151	KG00098274	Infarction, Cerebral	0.08603151142597198
+trial_2	telmisartan	46	KG00099121	Headache NOS	0.08431464433670044
+trial_2	telmisartan	49	KG00099902	nausea with vomiting	0.0833604708313942
+trial_2	telmisartan	350	KG00106765	decreased platelet count	0.08180791139602661
+trial_2	telmisartan	14	KG00097852	Anemia NOS	0.08143278956413269
+trial_2	telmisartan	2	KG00100772	thrombocytopaenia	0.0805651992559433
+trial_2	telmisartan	189	KG00101580	Alanine aminotransferase increase	0.0780424103140831
+trial_2	telmisartan	200	KG00098539	Disorders, Deglutition	0.07672230154275894
+trial_2	telmisartan	85	KG00098474	coughs	0.07445917278528214
+trial_2	telmisartan	126	KG00100076	Pain NOS	0.07017818093299866
+trial_2	telmisartan	142	KG00100923	Unspecified infectious and parasitic diseases	0.06862157583236694
+trial_2	telmisartan	188	KG00101579	Aspartate aminotransferase increase	0.06816278398036957
+trial_2	telmisartan	67	KG00098673	Dyspepsia, NOS	0.06812705844640732
+trial_2	telmisartan	114	KG00098933	fevers	0.06776463240385056
+trial_2	telmisartan	61	KG00099501	Chronic Kidney Failure	0.06684727966785431
+trial_2	telmisartan	76	KG00100450	Respiratory insufficiency, NOS	0.06678669154644012
+trial_2	telmisartan	121	KG00099190	haemorrhage	0.06641275435686111
+trial_2	telmisartan	179	KG00099342	hypocalcaemia	0.06492407619953156
+trial_2	telmisartan	96	KG00101679	Unattended death NOS	0.0635884702205658
+trial_2	telmisartan	27	KG00099303	hyperkalaemia	0.06282252073287964
+trial_2	telmisartan	28	KG00099347	hypoglycaemia	0.06226961687207222
+trial_2	telmisartan	64	KG00097734	Acrodermatitis, NOS	0.062180906534194946
+trial_2	telmisartan	86	KG00098565	Depression, Mental	0.06043977662920952
+trial_2	telmisartan	101	KG00097901	Anorexia NOS	0.05741899833083153
+trial_2	telmisartan	122	KG00099321	Hypersensitivity NOS	0.05607333779335022
+trial_2	telmisartan	5	KG00099169	haematuria	0.05343048647046089
+trial_2	telmisartan	104	KG00097963	arthralgias	0.05341639369726181
+trial_2	telmisartan	356	KG00112623	Infectious Lung Disorders	0.053236257284879684
+trial_2	telmisartan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05287900194525719
+trial_2	telmisartan	77	KG00098450	Constipation NOS	0.05117115005850792
+trial_2	telmisartan	243	KG00100947	Micturition frequency increased	0.0500243678689003
+trial_2	telmisartan	249	KG00104430	hypoalbuminaemia	0.04968656972050667
+trial_2	telmisartan	164	KG00108827	ileus colon	0.04956205189228058
+trial_2	telmisartan	276	KG00099127	Arrest, Cardiac	0.04948318004608154
+trial_2	telmisartan	79	KG00100317	Insomnia, Primary	0.048776429146528244
+trial_2	telmisartan	68	KG00099901	nauseas	0.04786400869488716
+trial_2	telmisartan	269	KG00100399	pyaemia	0.04724593460559845
+trial_2	telmisartan	186	KG00101431	creatinine increased	0.04539751634001732
+trial_2	telmisartan	191	KG00104055	Biliverdin increased	0.044599708169698715
+trial_2	telmisartan	194	KG00110727	Neutrophil Count Decreased	0.0442410409450531
+trial_2	telmisartan	147	KG00098000	atelectases	0.04412590712308884
+trial_2	telmisartan	239	KG00100128	pareses	0.044033750891685486
+trial_2	telmisartan	35	KG00101507	hypomagnesaemia	0.04378573223948479
+trial_2	telmisartan	72	KG00103771	myalgias	0.0437072217464447
+trial_2	telmisartan	130	KG00100683	Stomatitis NOS	0.04366881027817726
+trial_2	telmisartan	30	KG00099500	Acute Kidney Failure	0.0418960377573967
+trial_2	telmisartan	139	KG00098855	Sinusitis, Ethmoid	0.041634272783994675
+trial_2	telmisartan	131	KG00100948	Urinary tract infection (& [NOS])	0.040285635739564896
+trial_2	telmisartan	288	KG00101223	hypophosphataemia	0.03927934914827347
+trial_2	telmisartan	132	KG00101045	Gain, Weight	0.038128212094306946
+trial_2	telmisartan	22	KG00098705	Edema (NOS)	0.03790413588285446
+trial_2	telmisartan	466	KG00101205	fall	0.03766566514968872
+trial_2	telmisartan	261	KG00101559	raised alkaline phosphatase	0.03735886514186859
+trial_2	telmisartan	361	KG00098004	Fibrillation, Atrial	0.0368356853723526
+trial_2	telmisartan	221	KG00101207	peripheral oedema	0.03673125058412552
+trial_2	telmisartan	18	KG00098307	Pain, Chest	0.03595496341586113
+trial_2	telmisartan	199	KG00098371	Rhinitis (chronic) NOS	0.03556597977876663
+trial_2	telmisartan	253	KG00100232	Pleural effusion NOS (disorder)	0.0355391651391983
+trial_2	telmisartan	154	KG00099686	Lymphopenias	0.035506125539541245
+trial_2	telmisartan	31	KG00099872	Infarction, Myocardial	0.03534380719065666
+trial_2	telmisartan	339	KG00100334	proteinurias	0.03524816036224365
+trial_2	telmisartan	102	KG00097916	anxieties	0.035197094082832336
+trial_2	telmisartan	170	KG00108926	Neutropenia, Febrile	0.035111453384160995
+trial_2	telmisartan	138	KG00098796	epidemic vomiting syndrome	0.0349276140332222
+trial_2	telmisartan	396	KG00100373	Embolism, Pulmonary	0.03488563746213913
+trial_2	telmisartan	144	KG00099610	Leukopenia NOS	0.03460371866822243
+trial_2	telmisartan	282	KG00099309	hypernatraemia	0.034558411687612534
+trial_2	telmisartan	38	KG00098066	Binocular vision disorders	0.034463852643966675
+trial_2	telmisartan	152	KG00099402	INCONTINENCE NOS	0.03309189900755882
+trial_2	telmisartan	1	KG00099959	Neutropenia NOS	0.03294302150607109
+trial_2	telmisartan	382	KG00099200	haemorrhoids	0.03285566344857216
+trial_2	telmisartan	371	KG00098517	Cystitis (NOS)	0.03240912780165672
+trial_2	telmisartan	262	KG00101199	agitation	0.03156975284218788
+trial_2	telmisartan	355	KG00110857	lymphocyte count decreased	0.03147367015480995
+trial_2	telmisartan	394	KG00100243	Pneumonia, Aspiration	0.031248904764652252
+trial_2	telmisartan	286	KG00101110	Retention, Urinary	0.030596690252423286
+trial_2	telmisartan	4	KG00098817	epistaxis	0.030486036092042923
+trial_2	telmisartan	136	KG00101582	Dry;skin	0.030268041417002678
+trial_2	telmisartan	118	KG00099011	Gastritis NOS	0.030248360708355904
+trial_2	telmisartan	213	KG00100600	Infectious Skin Diseases	0.030038388445973396
+trial_2	telmisartan	133	KG00101370	neuropathies sensory	0.029838474467396736
+trial_2	telmisartan	246	KG00103338	Aspartate Aminotransferase Measurement	0.029045773670077324
+trial_2	telmisartan	456	KG00099420	Influenzae	0.0285752285271883
+trial_2	telmisartan	33	KG00100094	Pancreatitis NOS	0.02854977175593376
+trial_2	telmisartan	11	KG00097993	Asthma NOS	0.028318602591753006
+trial_2	telmisartan	116	KG00098964	Pain in foot	0.028296079486608505
+trial_2	telmisartan	256	KG00100738	Tachycardia, Sinus	0.02797982096672058

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.11309181153774261
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.053633566945791245
+trial_1	placebo	21	KG00098675	dyspnoea	0.05285971611738205
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0516047477722168
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05082423985004425
+trial_1	placebo	123	KG00099351	hypokalaemia	0.049759987741708755
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.046664875000715256
+trial_1	placebo	9	KG00098432	Confusion NOS	0.046141088008880615
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0434512160718441
+trial_1	placebo	68	KG00099901	nauseas	0.04338202625513077
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04270651191473007
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04108339175581932
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.039538923650979996
+trial_1	placebo	20	KG00098540	dehydration	0.03877725824713707
+trial_1	placebo	46	KG00099121	Headache NOS	0.03607799857854843
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03594280406832695
+trial_1	placebo	114	KG00098933	fevers	0.03454248234629631
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032463543117046356
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.032195162028074265
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0317162461578846
+trial_1	placebo	77	KG00098450	Constipation NOS	0.030850807204842567
+trial_1	placebo	126	KG00100076	Pain NOS	0.030590178444981575
+trial_1	placebo	121	KG00099190	haemorrhage	0.02974100224673748
+trial_1	placebo	228	KG00114657	Weight below normal	0.02912878803908825
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02889954298734665
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.028093721717596054
+trial_1	placebo	85	KG00098474	coughs	0.02742828242480755
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.026911618188023567
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.026282645761966705
+trial_1	placebo	147	KG00098000	atelectases	0.025545727461576462
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.025472864508628845
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02460944838821888
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.024150613695383072
+trial_1	placebo	29	KG00099354	hyponatraemia	0.023591510951519012
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02351396158337593
+trial_1	placebo	269	KG00100399	pyaemia	0.023213617503643036
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02167360670864582
+trial_1	placebo	350	KG00106765	decreased platelet count	0.021185357123613358
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021064821630716324
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.020921997725963593
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020828165113925934
+trial_1	placebo	86	KG00098565	Depression, Mental	0.020155157893896103
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01966041512787342
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018930785357952118
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01885044202208519
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.018752412870526314
+trial_1	placebo	104	KG00097963	arthralgias	0.018430251628160477
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017437050119042397
+trial_1	placebo	234	KG00098669	dysgeusias	0.017028730362653732
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.016845356673002243
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01681925356388092
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.016715532168745995
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01653929613530636
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0164505522698164
+trial_1	placebo	72	KG00103771	myalgias	0.0163022018969059
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015980778262019157
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01583649218082428
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01577550359070301
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01544868666678667
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.015117978677153587
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015067200176417828
+trial_1	placebo	100	KG00097815	alopecias	0.015007909387350082
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015002433210611343
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.014962553977966309
+trial_1	placebo	5	KG00099169	haematuria	0.014911020174622536
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014791876077651978
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.014621145091950893
+trial_1	placebo	164	KG00108827	ileus colon	0.014407278038561344
+trial_1	placebo	154	KG00099686	Lymphopenias	0.014349482022225857
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.014338451437652111
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.014186056330800056
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014160179533064365
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014021460898220539
+trial_1	placebo	239	KG00100128	pareses	0.01374080777168274
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.013515177182853222
+trial_1	placebo	136	KG00101582	Dry;skin	0.013219051994383335
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.013177250511944294
+trial_1	placebo	155	KG00099960	Neutrophile	0.013015919364988804
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.012588143348693848
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.012484448030591011
+trial_1	placebo	102	KG00097916	anxieties	0.012435093522071838
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.0123749403283
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.012281162664294243
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.012236755341291428
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.012022492475807667
+trial_1	placebo	186	KG00101431	creatinine increased	0.011976395733654499
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.011822281405329704
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.011444732546806335
+trial_1	placebo	282	KG00099309	hypernatraemia	0.010936981998383999
+trial_1	placebo	262	KG00101199	agitation	0.01071351021528244
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01069112028926611
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01053372211754322
+trial_1	placebo	4	KG00098817	epistaxis	0.010226937010884285
+trial_1	placebo	82	KG00097697	abdomen distended	0.010059232823550701
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.009997866116464138
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.009898096323013306
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.009825503453612328
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.009757081046700478
+trial_1	placebo	248	KG00103361	measurement of creatinine	0.00969318114221096
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.009485444985330105
+trial_2	tetracycline	87	KG00098599	diarrhoea	0.11309181153774261
+trial_2	tetracycline	173	KG00098172	Bronchopneumonia NOS	0.053633566945791245
+trial_2	tetracycline	21	KG00098675	dyspnoea	0.05285971611738205
+trial_2	tetracycline	177	KG00099299	hyperglycaemia	0.0516047477722168
+trial_2	tetracycline	78	KG00099326	Hypertensive diseases	0.05082423985004425
+trial_2	tetracycline	123	KG00099351	hypokalaemia	0.049759987741708755
+trial_2	tetracycline	64	KG00097734	Acrodermatitis, NOS	0.046664875000715256
+trial_2	tetracycline	9	KG00098432	Confusion NOS	0.046141088008880615
+trial_2	tetracycline	17	KG00097991	Asthenia NOS	0.0434512160718441
+trial_2	tetracycline	68	KG00099901	nauseas	0.04338202625513077
+trial_2	tetracycline	37	KG00097696	Cramps, Abdominal	0.04270651191473007
+trial_2	tetracycline	14	KG00097852	Anemia NOS	0.04108339175581932
+trial_2	tetracycline	49	KG00099902	nausea with vomiting	0.039538923650979996
+trial_2	tetracycline	20	KG00098540	dehydration	0.03877725824713707
+trial_2	tetracycline	46	KG00099121	Headache NOS	0.03607799857854843
+trial_2	tetracycline	142	KG00100923	Unspecified infectious and parasitic diseases	0.03594280406832695
+trial_2	tetracycline	114	KG00098933	fevers	0.03454248234629631
+trial_2	tetracycline	96	KG00101679	Unattended death NOS	0.032463543117046356
+trial_2	tetracycline	151	KG00098274	Infarction, Cerebral	0.032195162028074265
+trial_2	tetracycline	67	KG00098673	Dyspepsia, NOS	0.0317162461578846
+trial_2	tetracycline	77	KG00098450	Constipation NOS	0.030850807204842567
+trial_2	tetracycline	126	KG00100076	Pain NOS	0.030590178444981575
+trial_2	tetracycline	121	KG00099190	haemorrhage	0.02974100224673748
+trial_2	tetracycline	228	KG00114657	Weight below normal	0.02912878803908825
+trial_2	tetracycline	79	KG00100317	Insomnia, Primary	0.02889954298734665
+trial_2	tetracycline	61	KG00099501	Chronic Kidney Failure	0.028093721717596054
+trial_2	tetracycline	85	KG00098474	coughs	0.02742828242480755
+trial_2	tetracycline	189	KG00101580	Alanine aminotransferase increase	0.026911618188023567
+trial_2	tetracycline	2	KG00100772	thrombocytopaenia	0.026282645761966705
+trial_2	tetracycline	147	KG00098000	atelectases	0.025545727461576462
+trial_2	tetracycline	180	KG00099363	Hypotension NOS	0.025472864508628845
+trial_2	tetracycline	76	KG00100450	Respiratory insufficiency, NOS	0.02460944838821888
+trial_2	tetracycline	200	KG00098539	Disorders, Deglutition	0.024150613695383072
+trial_2	tetracycline	29	KG00099354	hyponatraemia	0.023591510951519012
+trial_2	tetracycline	101	KG00097901	Anorexia NOS	0.02351396158337593
+trial_2	tetracycline	269	KG00100399	pyaemia	0.023213617503643036
+trial_2	tetracycline	396	KG00100373	Embolism, Pulmonary	0.02167360670864582
+trial_2	tetracycline	350	KG00106765	decreased platelet count	0.021185357123613358
+trial_2	tetracycline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021064821630716324
+trial_2	tetracycline	188	KG00101579	Aspartate aminotransferase increase	0.020921997725963593
+trial_2	tetracycline	122	KG00099321	Hypersensitivity NOS	0.020828165113925934
+trial_2	tetracycline	86	KG00098565	Depression, Mental	0.020155157893896103
+trial_2	tetracycline	1	KG00099959	Neutropenia NOS	0.01966041512787342
+trial_2	tetracycline	28	KG00099347	hypoglycaemia	0.018930785357952118
+trial_2	tetracycline	30	KG00099500	Acute Kidney Failure	0.01885044202208519
+trial_2	tetracycline	179	KG00099342	hypocalcaemia	0.018752412870526314
+trial_2	tetracycline	104	KG00097963	arthralgias	0.018430251628160477
+trial_2	tetracycline	130	KG00100683	Stomatitis NOS	0.017437050119042397
+trial_2	tetracycline	234	KG00098669	dysgeusias	0.017028730362653732
+trial_2	tetracycline	276	KG00099127	Arrest, Cardiac	0.016845356673002243
+trial_2	tetracycline	194	KG00110727	Neutrophil Count Decreased	0.01681925356388092
+trial_2	tetracycline	133	KG00101370	neuropathies sensory	0.016715532168745995
+trial_2	tetracycline	249	KG00104430	hypoalbuminaemia	0.01653929613530636
+trial_2	tetracycline	75	KG00100195	Dolens, Phlegmasia Alba	0.0164505522698164
+trial_2	tetracycline	72	KG00103771	myalgias	0.0163022018969059
+trial_2	tetracycline	441	KG00098262	cellulitis nos	0.015980778262019157
+trial_2	tetracycline	27	KG00099303	hyperkalaemia	0.01583649218082428
+trial_2	tetracycline	361	KG00098004	Fibrillation, Atrial	0.01577550359070301
+trial_2	tetracycline	18	KG00098307	Pain, Chest	0.01544868666678667
+trial_2	tetracycline	131	KG00100948	Urinary tract infection (& [NOS])	0.015117978677153587
+trial_2	tetracycline	31	KG00099872	Infarction, Myocardial	0.015067200176417828
+trial_2	tetracycline	100	KG00097815	alopecias	0.015007909387350082
+trial_2	tetracycline	144	KG00099610	Leukopenia NOS	0.015002433210611343
+trial_2	tetracycline	243	KG00100947	Micturition frequency increased	0.014962553977966309
+trial_2	tetracycline	5	KG00099169	haematuria	0.014911020174622536
+trial_2	tetracycline	69	KG00100082	Palpitations NOS	0.014791876077651978
+trial_2	tetracycline	170	KG00108926	Neutropenia, Febrile	0.014621145091950893
+trial_2	tetracycline	164	KG00108827	ileus colon	0.014407278038561344
+trial_2	tetracycline	154	KG00099686	Lymphopenias	0.014349482022225857
+trial_2	tetracycline	253	KG00100232	Pleural effusion NOS (disorder)	0.014338451437652111
+trial_2	tetracycline	138	KG00098796	epidemic vomiting syndrome	0.014186056330800056
+trial_2	tetracycline	356	KG00112623	Infectious Lung Disorders	0.014160179533064365
+trial_2	tetracycline	261	KG00101559	raised alkaline phosphatase	0.014021460898220539
+trial_2	tetracycline	239	KG00100128	pareses	0.01374080777168274
+trial_2	tetracycline	191	KG00104055	Biliverdin increased	0.013515177182853222
+trial_2	tetracycline	136	KG00101582	Dry;skin	0.013219051994383335
+trial_2	tetracycline	246	KG00103338	Aspartate Aminotransferase Measurement	0.013177250511944294
+trial_2	tetracycline	155	KG00099960	Neutrophile	0.013015919364988804
+trial_2	tetracycline	139	KG00098855	Sinusitis, Ethmoid	0.012588143348693848
+trial_2	tetracycline	254	KG00100774	Thrombosis NOS	0.012484448030591011
+trial_2	tetracycline	102	KG00097916	anxieties	0.012435093522071838
+trial_2	tetracycline	118	KG00099011	Gastritis NOS	0.0123749403283
+trial_2	tetracycline	92	KG00100926	Infections, Upper Respiratory	0.012281162664294243
+trial_2	tetracycline	211	KG00100341	Pruritus NOS	0.012236755341291428
+trial_2	tetracycline	38	KG00098066	Binocular vision disorders	0.012022492475807667
+trial_2	tetracycline	186	KG00101431	creatinine increased	0.011976395733654499
+trial_2	tetracycline	35	KG00101507	hypomagnesaemia	0.011822281405329704
+trial_2	tetracycline	15	KG00097882	Angina pectoris NOS	0.011444732546806335
+trial_2	tetracycline	282	KG00099309	hypernatraemia	0.010936981998383999
+trial_2	tetracycline	262	KG00101199	agitation	0.01071351021528244
+trial_2	tetracycline	33	KG00100094	Pancreatitis NOS	0.01069112028926611
+trial_2	tetracycline	288	KG00101223	hypophosphataemia	0.01053372211754322
+trial_2	tetracycline	4	KG00098817	epistaxis	0.010226937010884285
+trial_2	tetracycline	82	KG00097697	abdomen distended	0.010059232823550701
+trial_2	tetracycline	347	KG00104223	Mucosal ulcers	0.009997866116464138
+trial_2	tetracycline	183	KG00100449	Adult Respiratory Distress Syndrome	0.009898096323013306
+trial_2	tetracycline	213	KG00100600	Infectious Skin Diseases	0.009825503453612328
+trial_2	tetracycline	355	KG00110857	lymphocyte count decreased	0.009757081046700478
+trial_2	tetracycline	248	KG00103361	measurement of creatinine	0.00969318114221096
+trial_2	tetracycline	22	KG00098705	Edema (NOS)	0.009485444985330105

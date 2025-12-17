@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17008660733699799
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12369078397750854
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11464320123195648
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09578965604305267
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.084943488240242
+trial_1	placebo	20	KG00098540	dehydration	0.08176642656326294
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07647381722927094
+trial_1	placebo	46	KG00099121	Headache NOS	0.06930549442768097
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06887421011924744
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06569371372461319
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06511645764112473
+trial_1	placebo	228	KG00114657	Weight below normal	0.0624079555273056
+trial_1	placebo	21	KG00098675	dyspnoea	0.062201205641031265
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0582377091050148
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05466973036527634
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05367293208837509
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05263860151171684
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05189169943332672
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05187242850661278
+trial_1	placebo	68	KG00099901	nauseas	0.05157753452658653
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05081536993384361
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.050711147487163544
+trial_1	placebo	126	KG00100076	Pain NOS	0.04845038801431656
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04750484228134155
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04739280790090561
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04611152783036232
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04525985196232796
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0425606332719326
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.041140858083963394
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04056541249155998
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03999103605747223
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03995786979794502
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03777354583144188
+trial_1	placebo	239	KG00100128	pareses	0.03746423125267029
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.036395907402038574
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03613841533660889
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.035355307161808014
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03477879986166954
+trial_1	placebo	85	KG00098474	coughs	0.034631069749593735
+trial_1	placebo	121	KG00099190	haemorrhage	0.03334073722362518
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.032573167234659195
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03233658894896507
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.032213304191827774
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.031103355810046196
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03083803690969944
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.030566465109586716
+trial_1	placebo	114	KG00098933	fevers	0.029751338064670563
+trial_1	placebo	102	KG00097916	anxieties	0.029716286808252335
+trial_1	placebo	147	KG00098000	atelectases	0.02915051206946373
+trial_1	placebo	164	KG00108827	ileus colon	0.029026241973042488
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02870366908609867
+trial_1	placebo	5	KG00099169	haematuria	0.02827570214867592
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028216712176799774
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027962341904640198
+trial_1	placebo	234	KG00098669	dysgeusias	0.027766665443778038
+trial_1	placebo	104	KG00097963	arthralgias	0.027453601360321045
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02711421437561512
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026895783841609955
+trial_1	placebo	72	KG00103771	myalgias	0.026828235015273094
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026446878910064697
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026304835453629494
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026118380948901176
+trial_1	placebo	269	KG00100399	pyaemia	0.02573534846305847
+trial_1	placebo	82	KG00097697	abdomen distended	0.02516290545463562
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02479565143585205
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.024756064638495445
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024603649973869324
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023820748552680016
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.023557111620903015
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02311072126030922
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022983964532613754
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02268371358513832
+trial_1	placebo	242	KG00100855	tremors	0.02260693721473217
+trial_1	placebo	262	KG00101199	agitation	0.02252960577607155
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022377237677574158
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022143123671412468
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0218766238540411
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021865764632821083
+trial_1	placebo	186	KG00101431	creatinine increased	0.021815231069922447
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02173536643385887
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021553708240389824
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021421290934085846
+trial_1	placebo	300	KG00101064	xerostomia	0.021379655227065086
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02136191353201866
+trial_1	placebo	116	KG00098964	Pain in foot	0.021007400006055832
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02100345306098461
+trial_1	placebo	466	KG00101205	fall	0.02057482860982418
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020300734788179398
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.020079711452126503
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01929771527647972
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01903778314590454
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.018936440348625183
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0188420619815588
+trial_1	placebo	66	KG00098642	drowsiness	0.018527261912822723
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018482819199562073
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.018457673490047455
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0182284377515316
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01822173036634922
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.018038636073470116
+trial_1	placebo	508	KG00108565	blood glucose increased	0.017917092889547348
+trial_2	torasemide	87	KG00098599	diarrhoea	0.17008660733699799
+trial_2	torasemide	9	KG00098432	Confusion NOS	0.12369078397750854
+trial_2	torasemide	78	KG00099326	Hypertensive diseases	0.11464320123195648
+trial_2	torasemide	123	KG00099351	hypokalaemia	0.09578965604305267
+trial_2	torasemide	17	KG00097991	Asthenia NOS	0.084943488240242
+trial_2	torasemide	20	KG00098540	dehydration	0.08176642656326294
+trial_2	torasemide	177	KG00099299	hyperglycaemia	0.07647381722927094
+trial_2	torasemide	46	KG00099121	Headache NOS	0.06930549442768097
+trial_2	torasemide	173	KG00098172	Bronchopneumonia NOS	0.06887421011924744
+trial_2	torasemide	77	KG00098450	Constipation NOS	0.06569371372461319
+trial_2	torasemide	67	KG00098673	Dyspepsia, NOS	0.06511645764112473
+trial_2	torasemide	228	KG00114657	Weight below normal	0.0624079555273056
+trial_2	torasemide	21	KG00098675	dyspnoea	0.062201205641031265
+trial_2	torasemide	37	KG00097696	Cramps, Abdominal	0.0582377091050148
+trial_2	torasemide	189	KG00101580	Alanine aminotransferase increase	0.05466973036527634
+trial_2	torasemide	350	KG00106765	decreased platelet count	0.05367293208837509
+trial_2	torasemide	151	KG00098274	Infarction, Cerebral	0.05263860151171684
+trial_2	torasemide	29	KG00099354	hyponatraemia	0.05189169943332672
+trial_2	torasemide	200	KG00098539	Disorders, Deglutition	0.05187242850661278
+trial_2	torasemide	68	KG00099901	nauseas	0.05157753452658653
+trial_2	torasemide	188	KG00101579	Aspartate aminotransferase increase	0.05081536993384361
+trial_2	torasemide	243	KG00100947	Micturition frequency increased	0.050711147487163544
+trial_2	torasemide	126	KG00100076	Pain NOS	0.04845038801431656
+trial_2	torasemide	49	KG00099902	nausea with vomiting	0.04750484228134155
+trial_2	torasemide	180	KG00099363	Hypotension NOS	0.04739280790090561
+trial_2	torasemide	14	KG00097852	Anemia NOS	0.04611152783036232
+trial_2	torasemide	64	KG00097734	Acrodermatitis, NOS	0.04525985196232796
+trial_2	torasemide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0425606332719326
+trial_2	torasemide	2	KG00100772	thrombocytopaenia	0.041140858083963394
+trial_2	torasemide	79	KG00100317	Insomnia, Primary	0.04056541249155998
+trial_2	torasemide	96	KG00101679	Unattended death NOS	0.03999103605747223
+trial_2	torasemide	76	KG00100450	Respiratory insufficiency, NOS	0.03995786979794502
+trial_2	torasemide	61	KG00099501	Chronic Kidney Failure	0.03777354583144188
+trial_2	torasemide	239	KG00100128	pareses	0.03746423125267029
+trial_2	torasemide	101	KG00097901	Anorexia NOS	0.036395907402038574
+trial_2	torasemide	179	KG00099342	hypocalcaemia	0.03613841533660889
+trial_2	torasemide	35	KG00101507	hypomagnesaemia	0.035355307161808014
+trial_2	torasemide	86	KG00098565	Depression, Mental	0.03477879986166954
+trial_2	torasemide	85	KG00098474	coughs	0.034631069749593735
+trial_2	torasemide	121	KG00099190	haemorrhage	0.03334073722362518
+trial_2	torasemide	191	KG00104055	Biliverdin increased	0.032573167234659195
+trial_2	torasemide	27	KG00099303	hyperkalaemia	0.03233658894896507
+trial_2	torasemide	28	KG00099347	hypoglycaemia	0.032213304191827774
+trial_2	torasemide	142	KG00100923	Unspecified infectious and parasitic diseases	0.031103355810046196
+trial_2	torasemide	30	KG00099500	Acute Kidney Failure	0.03083803690969944
+trial_2	torasemide	249	KG00104430	hypoalbuminaemia	0.030566465109586716
+trial_2	torasemide	114	KG00098933	fevers	0.029751338064670563
+trial_2	torasemide	102	KG00097916	anxieties	0.029716286808252335
+trial_2	torasemide	147	KG00098000	atelectases	0.02915051206946373
+trial_2	torasemide	164	KG00108827	ileus colon	0.029026241973042488
+trial_2	torasemide	194	KG00110727	Neutrophil Count Decreased	0.02870366908609867
+trial_2	torasemide	5	KG00099169	haematuria	0.02827570214867592
+trial_2	torasemide	18	KG00098307	Pain, Chest	0.028216712176799774
+trial_2	torasemide	122	KG00099321	Hypersensitivity NOS	0.027962341904640198
+trial_2	torasemide	234	KG00098669	dysgeusias	0.027766665443778038
+trial_2	torasemide	104	KG00097963	arthralgias	0.027453601360321045
+trial_2	torasemide	38	KG00098066	Binocular vision disorders	0.02711421437561512
+trial_2	torasemide	261	KG00101559	raised alkaline phosphatase	0.026895783841609955
+trial_2	torasemide	72	KG00103771	myalgias	0.026828235015273094
+trial_2	torasemide	396	KG00100373	Embolism, Pulmonary	0.026446878910064697
+trial_2	torasemide	276	KG00099127	Arrest, Cardiac	0.026304835453629494
+trial_2	torasemide	132	KG00101045	Gain, Weight	0.026118380948901176
+trial_2	torasemide	269	KG00100399	pyaemia	0.02573534846305847
+trial_2	torasemide	82	KG00097697	abdomen distended	0.02516290545463562
+trial_2	torasemide	36	KG00106434	Vision, Blurring Of	0.02479565143585205
+trial_2	torasemide	286	KG00101110	Retention, Urinary	0.024756064638495445
+trial_2	torasemide	131	KG00100948	Urinary tract infection (& [NOS])	0.024603649973869324
+trial_2	torasemide	361	KG00098004	Fibrillation, Atrial	0.023820748552680016
+trial_2	torasemide	356	KG00112623	Infectious Lung Disorders	0.023557111620903015
+trial_2	torasemide	288	KG00101223	hypophosphataemia	0.02311072126030922
+trial_2	torasemide	69	KG00100082	Palpitations NOS	0.022983964532613754
+trial_2	torasemide	256	KG00100738	Tachycardia, Sinus	0.02268371358513832
+trial_2	torasemide	242	KG00100855	tremors	0.02260693721473217
+trial_2	torasemide	262	KG00101199	agitation	0.02252960577607155
+trial_2	torasemide	75	KG00100195	Dolens, Phlegmasia Alba	0.022377237677574158
+trial_2	torasemide	130	KG00100683	Stomatitis NOS	0.022143123671412468
+trial_2	torasemide	253	KG00100232	Pleural effusion NOS (disorder)	0.0218766238540411
+trial_2	torasemide	355	KG00110857	lymphocyte count decreased	0.021865764632821083
+trial_2	torasemide	186	KG00101431	creatinine increased	0.021815231069922447
+trial_2	torasemide	282	KG00099309	hypernatraemia	0.02173536643385887
+trial_2	torasemide	133	KG00101370	neuropathies sensory	0.021553708240389824
+trial_2	torasemide	441	KG00098262	cellulitis nos	0.021421290934085846
+trial_2	torasemide	300	KG00101064	xerostomia	0.021379655227065086
+trial_2	torasemide	204	KG00098849	Esophagitis, Peptic	0.02136191353201866
+trial_2	torasemide	116	KG00098964	Pain in foot	0.021007400006055832
+trial_2	torasemide	22	KG00098705	Edema (NOS)	0.02100345306098461
+trial_2	torasemide	466	KG00101205	fall	0.02057482860982418
+trial_2	torasemide	31	KG00099872	Infarction, Myocardial	0.020300734788179398
+trial_2	torasemide	218	KG00100801	Tinnitus NOS	0.020079711452126503
+trial_2	torasemide	118	KG00099011	Gastritis NOS	0.01929771527647972
+trial_2	torasemide	33	KG00100094	Pancreatitis NOS	0.01903778314590454
+trial_2	torasemide	422	KG00101429	Creatine phosphokinase increased	0.018936440348625183
+trial_2	torasemide	154	KG00099686	Lymphopenias	0.0188420619815588
+trial_2	torasemide	66	KG00098642	drowsiness	0.018527261912822723
+trial_2	torasemide	15	KG00097882	Angina pectoris NOS	0.018482819199562073
+trial_2	torasemide	254	KG00100774	Thrombosis NOS	0.018457673490047455
+trial_2	torasemide	221	KG00101207	peripheral oedema	0.0182284377515316
+trial_2	torasemide	144	KG00099610	Leukopenia NOS	0.01822173036634922
+trial_2	torasemide	371	KG00098517	Cystitis (NOS)	0.018038636073470116
+trial_2	torasemide	508	KG00108565	blood glucose increased	0.017917092889547348

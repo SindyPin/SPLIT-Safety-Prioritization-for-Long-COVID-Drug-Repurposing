@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06334012746810913
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06145337596535683
+trial_1	placebo	87	KG00098599	diarrhoea	0.060944635421037674
+trial_1	placebo	123	KG00099351	hypokalaemia	0.047753311693668365
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.045979093760252
+trial_1	placebo	21	KG00098675	dyspnoea	0.04518583416938782
+trial_1	placebo	20	KG00098540	dehydration	0.0380428209900856
+trial_1	placebo	46	KG00099121	Headache NOS	0.03661413863301277
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03541218861937523
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03499148041009903
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03285114839673042
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.031352799385786057
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03133336082100868
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03126285970211029
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.030400831252336502
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03016667813062668
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.029805514961481094
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.027518024668097496
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.026867123320698738
+trial_1	placebo	29	KG00099354	hyponatraemia	0.026855705305933952
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02678932622075081
+trial_1	placebo	126	KG00100076	Pain NOS	0.026031363755464554
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02584201470017433
+trial_1	placebo	147	KG00098000	atelectases	0.025805486366152763
+trial_1	placebo	77	KG00098450	Constipation NOS	0.025745555758476257
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.025532366707921028
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.024547874927520752
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.024403510615229607
+trial_1	placebo	68	KG00099901	nauseas	0.024194110184907913
+trial_1	placebo	114	KG00098933	fevers	0.023354364559054375
+trial_1	placebo	228	KG00114657	Weight below normal	0.023051584139466286
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02301807701587677
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02274611033499241
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.02252214588224888
+trial_1	placebo	121	KG00099190	haemorrhage	0.022389305755496025
+trial_1	placebo	350	KG00106765	decreased platelet count	0.021670186892151833
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021491630002856255
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02141004614531994
+trial_1	placebo	269	KG00100399	pyaemia	0.020800763741135597
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02017667144536972
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019583946093916893
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0191325843334198
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018567241728305817
+trial_1	placebo	85	KG00098474	coughs	0.01836746744811535
+trial_1	placebo	5	KG00099169	haematuria	0.017386462539434433
+trial_1	placebo	86	KG00098565	Depression, Mental	0.016947105526924133
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01690211147069931
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01686198078095913
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01684693619608879
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01634501852095127
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016053637489676476
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015764113515615463
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015305304899811745
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015102416276931763
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014957374893128872
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.014865849167108536
+trial_1	placebo	282	KG00099309	hypernatraemia	0.014860459603369236
+trial_1	placebo	104	KG00097963	arthralgias	0.014772895723581314
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014643206261098385
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014412629418075085
+trial_1	placebo	234	KG00098669	dysgeusias	0.014311977662146091
+trial_1	placebo	239	KG00100128	pareses	0.014026575721800327
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.013615896925330162
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.013223985210061073
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.013105732388794422
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.012886467389762402
+trial_1	placebo	18	KG00098307	Pain, Chest	0.012760438024997711
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012344714254140854
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01231334637850523
+trial_1	placebo	72	KG00103771	myalgias	0.011932498775422573
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.011667820625007153
+trial_1	placebo	82	KG00097697	abdomen distended	0.011489607393741608
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.011430827900767326
+trial_1	placebo	154	KG00099686	Lymphopenias	0.011419200338423252
+trial_1	placebo	262	KG00101199	agitation	0.011381398886442184
+trial_1	placebo	164	KG00108827	ileus colon	0.011367558501660824
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.011298301629722118
+trial_1	placebo	257	KG00100922	Erythema NOS	0.011134601198136806
+trial_1	placebo	102	KG00097916	anxieties	0.011100123636424541
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01109051238745451
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.011059219017624855
+trial_1	placebo	4	KG00098817	epistaxis	0.011040429584681988
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.010888940654695034
+trial_1	placebo	186	KG00101431	creatinine increased	0.010612507350742817
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.010576849803328514
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.010534870438277721
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.010449355468153954
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01018949132412672
+trial_1	placebo	212	KG00100576	shivers	0.010156720876693726
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.010078814812004566
+trial_1	placebo	466	KG00101205	fall	0.010076379403471947
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.010032804682850838
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.010027416050434113
+trial_1	placebo	136	KG00101582	Dry;skin	0.009939167648553848
+trial_1	placebo	221	KG00101207	peripheral oedema	0.00991707295179367
+trial_1	placebo	116	KG00098964	Pain in foot	0.009858919307589531
+trial_1	placebo	100	KG00097815	alopecias	0.009829086251556873
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.009804602712392807
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.009775517508387566
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.009705630131065845
+trial_2	tannic acid	177	KG00099299	hyperglycaemia	0.06334012746810913
+trial_2	tannic acid	78	KG00099326	Hypertensive diseases	0.06145337596535683
+trial_2	tannic acid	87	KG00098599	diarrhoea	0.060944635421037674
+trial_2	tannic acid	123	KG00099351	hypokalaemia	0.047753311693668365
+trial_2	tannic acid	173	KG00098172	Bronchopneumonia NOS	0.045979093760252
+trial_2	tannic acid	21	KG00098675	dyspnoea	0.04518583416938782
+trial_2	tannic acid	20	KG00098540	dehydration	0.0380428209900856
+trial_2	tannic acid	46	KG00099121	Headache NOS	0.03661413863301277
+trial_2	tannic acid	17	KG00097991	Asthenia NOS	0.03541218861937523
+trial_2	tannic acid	14	KG00097852	Anemia NOS	0.03499148041009903
+trial_2	tannic acid	37	KG00097696	Cramps, Abdominal	0.03285114839673042
+trial_2	tannic acid	2	KG00100772	thrombocytopaenia	0.031352799385786057
+trial_2	tannic acid	9	KG00098432	Confusion NOS	0.03133336082100868
+trial_2	tannic acid	64	KG00097734	Acrodermatitis, NOS	0.03126285970211029
+trial_2	tannic acid	49	KG00099902	nausea with vomiting	0.030400831252336502
+trial_2	tannic acid	96	KG00101679	Unattended death NOS	0.03016667813062668
+trial_2	tannic acid	61	KG00099501	Chronic Kidney Failure	0.029805514961481094
+trial_2	tannic acid	76	KG00100450	Respiratory insufficiency, NOS	0.027518024668097496
+trial_2	tannic acid	151	KG00098274	Infarction, Cerebral	0.026867123320698738
+trial_2	tannic acid	29	KG00099354	hyponatraemia	0.026855705305933952
+trial_2	tannic acid	180	KG00099363	Hypotension NOS	0.02678932622075081
+trial_2	tannic acid	126	KG00100076	Pain NOS	0.026031363755464554
+trial_2	tannic acid	200	KG00098539	Disorders, Deglutition	0.02584201470017433
+trial_2	tannic acid	147	KG00098000	atelectases	0.025805486366152763
+trial_2	tannic acid	77	KG00098450	Constipation NOS	0.025745555758476257
+trial_2	tannic acid	189	KG00101580	Alanine aminotransferase increase	0.025532366707921028
+trial_2	tannic acid	79	KG00100317	Insomnia, Primary	0.024547874927520752
+trial_2	tannic acid	28	KG00099347	hypoglycaemia	0.024403510615229607
+trial_2	tannic acid	68	KG00099901	nauseas	0.024194110184907913
+trial_2	tannic acid	114	KG00098933	fevers	0.023354364559054375
+trial_2	tannic acid	228	KG00114657	Weight below normal	0.023051584139466286
+trial_2	tannic acid	188	KG00101579	Aspartate aminotransferase increase	0.02301807701587677
+trial_2	tannic acid	179	KG00099342	hypocalcaemia	0.02274611033499241
+trial_2	tannic acid	67	KG00098673	Dyspepsia, NOS	0.02252214588224888
+trial_2	tannic acid	121	KG00099190	haemorrhage	0.022389305755496025
+trial_2	tannic acid	350	KG00106765	decreased platelet count	0.021670186892151833
+trial_2	tannic acid	122	KG00099321	Hypersensitivity NOS	0.021491630002856255
+trial_2	tannic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.02141004614531994
+trial_2	tannic acid	269	KG00100399	pyaemia	0.020800763741135597
+trial_2	tannic acid	30	KG00099500	Acute Kidney Failure	0.02017667144536972
+trial_2	tannic acid	396	KG00100373	Embolism, Pulmonary	0.019583946093916893
+trial_2	tannic acid	27	KG00099303	hyperkalaemia	0.0191325843334198
+trial_2	tannic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018567241728305817
+trial_2	tannic acid	85	KG00098474	coughs	0.01836746744811535
+trial_2	tannic acid	5	KG00099169	haematuria	0.017386462539434433
+trial_2	tannic acid	86	KG00098565	Depression, Mental	0.016947105526924133
+trial_2	tannic acid	249	KG00104430	hypoalbuminaemia	0.01690211147069931
+trial_2	tannic acid	1	KG00099959	Neutropenia NOS	0.01686198078095913
+trial_2	tannic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.01684693619608879
+trial_2	tannic acid	276	KG00099127	Arrest, Cardiac	0.01634501852095127
+trial_2	tannic acid	194	KG00110727	Neutrophil Count Decreased	0.016053637489676476
+trial_2	tannic acid	31	KG00099872	Infarction, Myocardial	0.015764113515615463
+trial_2	tannic acid	38	KG00098066	Binocular vision disorders	0.015305304899811745
+trial_2	tannic acid	144	KG00099610	Leukopenia NOS	0.015102416276931763
+trial_2	tannic acid	261	KG00101559	raised alkaline phosphatase	0.014957374893128872
+trial_2	tannic acid	101	KG00097901	Anorexia NOS	0.014865849167108536
+trial_2	tannic acid	282	KG00099309	hypernatraemia	0.014860459603369236
+trial_2	tannic acid	104	KG00097963	arthralgias	0.014772895723581314
+trial_2	tannic acid	361	KG00098004	Fibrillation, Atrial	0.014643206261098385
+trial_2	tannic acid	441	KG00098262	cellulitis nos	0.014412629418075085
+trial_2	tannic acid	234	KG00098669	dysgeusias	0.014311977662146091
+trial_2	tannic acid	239	KG00100128	pareses	0.014026575721800327
+trial_2	tannic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.013615896925330162
+trial_2	tannic acid	130	KG00100683	Stomatitis NOS	0.013223985210061073
+trial_2	tannic acid	69	KG00100082	Palpitations NOS	0.013105732388794422
+trial_2	tannic acid	243	KG00100947	Micturition frequency increased	0.012886467389762402
+trial_2	tannic acid	18	KG00098307	Pain, Chest	0.012760438024997711
+trial_2	tannic acid	191	KG00104055	Biliverdin increased	0.012344714254140854
+trial_2	tannic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.01231334637850523
+trial_2	tannic acid	72	KG00103771	myalgias	0.011932498775422573
+trial_2	tannic acid	268	KG00099557	Heart Failure, Left-Sided	0.011667820625007153
+trial_2	tannic acid	82	KG00097697	abdomen distended	0.011489607393741608
+trial_2	tannic acid	36	KG00106434	Vision, Blurring Of	0.011430827900767326
+trial_2	tannic acid	154	KG00099686	Lymphopenias	0.011419200338423252
+trial_2	tannic acid	262	KG00101199	agitation	0.011381398886442184
+trial_2	tannic acid	164	KG00108827	ileus colon	0.011367558501660824
+trial_2	tannic acid	92	KG00100926	Infections, Upper Respiratory	0.011298301629722118
+trial_2	tannic acid	257	KG00100922	Erythema NOS	0.011134601198136806
+trial_2	tannic acid	102	KG00097916	anxieties	0.011100123636424541
+trial_2	tannic acid	288	KG00101223	hypophosphataemia	0.01109051238745451
+trial_2	tannic acid	355	KG00110857	lymphocyte count decreased	0.011059219017624855
+trial_2	tannic acid	4	KG00098817	epistaxis	0.011040429584681988
+trial_2	tannic acid	254	KG00100774	Thrombosis NOS	0.010888940654695034
+trial_2	tannic acid	186	KG00101431	creatinine increased	0.010612507350742817
+trial_2	tannic acid	211	KG00100341	Pruritus NOS	0.010576849803328514
+trial_2	tannic acid	139	KG00098855	Sinusitis, Ethmoid	0.010534870438277721
+trial_2	tannic acid	15	KG00097882	Angina pectoris NOS	0.010449355468153954
+trial_2	tannic acid	356	KG00112623	Infectious Lung Disorders	0.01018949132412672
+trial_2	tannic acid	212	KG00100576	shivers	0.010156720876693726
+trial_2	tannic acid	35	KG00101507	hypomagnesaemia	0.010078814812004566
+trial_2	tannic acid	466	KG00101205	fall	0.010076379403471947
+trial_2	tannic acid	213	KG00100600	Infectious Skin Diseases	0.010032804682850838
+trial_2	tannic acid	163	KG00104050	bowel obstructions small	0.010027416050434113
+trial_2	tannic acid	136	KG00101582	Dry;skin	0.009939167648553848
+trial_2	tannic acid	221	KG00101207	peripheral oedema	0.00991707295179367
+trial_2	tannic acid	116	KG00098964	Pain in foot	0.009858919307589531
+trial_2	tannic acid	100	KG00097815	alopecias	0.009829086251556873
+trial_2	tannic acid	133	KG00101370	neuropathies sensory	0.009804602712392807
+trial_2	tannic acid	183	KG00100449	Adult Respiratory Distress Syndrome	0.009775517508387566
+trial_2	tannic acid	22	KG00098705	Edema (NOS)	0.009705630131065845

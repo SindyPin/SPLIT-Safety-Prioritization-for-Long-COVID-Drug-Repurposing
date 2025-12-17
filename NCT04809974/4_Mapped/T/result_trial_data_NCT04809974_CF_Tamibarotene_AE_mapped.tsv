@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2694559097290039
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.19911597669124603
+trial_1	placebo	123	KG00099351	hypokalaemia	0.17488159239292145
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.17088107764720917
+trial_1	placebo	68	KG00099901	nauseas	0.16210922598838806
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14129237830638885
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.13678225874900818
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.13602788746356964
+trial_1	placebo	20	KG00098540	dehydration	0.1358199268579483
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1286151111125946
+trial_1	placebo	21	KG00098675	dyspnoea	0.1277923583984375
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12727095186710358
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12517355382442474
+trial_1	placebo	46	KG00099121	Headache NOS	0.1204497218132019
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.11542633175849915
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.1102202907204628
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10528941452503204
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09832432866096497
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09649934619665146
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09539633989334106
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.09510128200054169
+trial_1	placebo	114	KG00098933	fevers	0.0900747999548912
+trial_1	placebo	228	KG00114657	Weight below normal	0.08959796279668808
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.08628172427415848
+trial_1	placebo	72	KG00103771	myalgias	0.08478096127510071
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.08389034867286682
+trial_1	placebo	126	KG00100076	Pain NOS	0.08011633157730103
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07726866751909256
+trial_1	placebo	104	KG00097963	arthralgias	0.07500705868005753
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07209239155054092
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07184436917304993
+trial_1	placebo	85	KG00098474	coughs	0.07174236327409744
+trial_1	placebo	5	KG00099169	haematuria	0.07083798199892044
+trial_1	placebo	239	KG00100128	pareses	0.07012978196144104
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06883067637681961
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06722544878721237
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06652597337961197
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06618858873844147
+trial_1	placebo	147	KG00098000	atelectases	0.06084709241986275
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.059419866651296616
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05881735309958458
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.057583678513765335
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05710681900382042
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05664815753698349
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.056277722120285034
+trial_1	placebo	102	KG00097916	anxieties	0.05526559799909592
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05491315945982933
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.054716479033231735
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.05356549844145775
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.052887823432683945
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05246947333216667
+trial_1	placebo	116	KG00098964	Pain in foot	0.05211678892374039
+trial_1	placebo	282	KG00099309	hypernatraemia	0.05122446268796921
+trial_1	placebo	100	KG00097815	alopecias	0.05054513365030289
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0505056157708168
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0495457649230957
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04891515523195267
+trial_1	placebo	82	KG00097697	abdomen distended	0.04877706989645958
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04706033691763878
+trial_1	placebo	212	KG00100576	shivers	0.046842776238918304
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04536791145801544
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0447772853076458
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04458531737327576
+trial_1	placebo	154	KG00099686	Lymphopenias	0.04444758966565132
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04431033879518509
+trial_1	placebo	136	KG00101582	Dry;skin	0.04401681199669838
+trial_1	placebo	441	KG00098262	cellulitis nos	0.044009413570165634
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.043827928602695465
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04311007261276245
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.042439091950654984
+trial_1	placebo	269	KG00100399	pyaemia	0.04212460666894913
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04206836223602295
+trial_1	placebo	234	KG00098669	dysgeusias	0.04126252606511116
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.04096221923828125
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.040097955614328384
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.039547137916088104
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03828222304582596
+trial_1	placebo	186	KG00101431	creatinine increased	0.03801547735929489
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03794935718178749
+trial_1	placebo	164	KG00108827	ileus colon	0.03779607266187668
+trial_1	placebo	121	KG00099190	haemorrhage	0.036639899015426636
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03653954714536667
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03607337176799774
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.035900503396987915
+trial_1	placebo	508	KG00108565	blood glucose increased	0.035125140100717545
+trial_1	placebo	454	KG00098286	Pain, Neck	0.034998662769794464
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.03498305380344391
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03493967652320862
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.033151641488075256
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03307327628135681
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.032978594303131104
+trial_1	placebo	466	KG00101205	fall	0.032642386853694916
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03243492543697357
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03214343264698982
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.032039575278759
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03192942216992378
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03181483596563339
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03047892265021801
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03024701401591301
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02975054644048214
+trial_2	tamibarotene	87	KG00098599	diarrhoea	0.2694559097290039
+trial_2	tamibarotene	78	KG00099326	Hypertensive diseases	0.19911597669124603
+trial_2	tamibarotene	123	KG00099351	hypokalaemia	0.17488159239292145
+trial_2	tamibarotene	17	KG00097991	Asthenia NOS	0.17088107764720917
+trial_2	tamibarotene	68	KG00099901	nauseas	0.16210922598838806
+trial_2	tamibarotene	177	KG00099299	hyperglycaemia	0.14129237830638885
+trial_2	tamibarotene	64	KG00097734	Acrodermatitis, NOS	0.13678225874900818
+trial_2	tamibarotene	49	KG00099902	nausea with vomiting	0.13602788746356964
+trial_2	tamibarotene	20	KG00098540	dehydration	0.1358199268579483
+trial_2	tamibarotene	173	KG00098172	Bronchopneumonia NOS	0.1286151111125946
+trial_2	tamibarotene	21	KG00098675	dyspnoea	0.1277923583984375
+trial_2	tamibarotene	189	KG00101580	Alanine aminotransferase increase	0.12727095186710358
+trial_2	tamibarotene	9	KG00098432	Confusion NOS	0.12517355382442474
+trial_2	tamibarotene	46	KG00099121	Headache NOS	0.1204497218132019
+trial_2	tamibarotene	67	KG00098673	Dyspepsia, NOS	0.11542633175849915
+trial_2	tamibarotene	37	KG00097696	Cramps, Abdominal	0.1102202907204628
+trial_2	tamibarotene	188	KG00101579	Aspartate aminotransferase increase	0.10528941452503204
+trial_2	tamibarotene	77	KG00098450	Constipation NOS	0.09832432866096497
+trial_2	tamibarotene	79	KG00100317	Insomnia, Primary	0.09649934619665146
+trial_2	tamibarotene	14	KG00097852	Anemia NOS	0.09539633989334106
+trial_2	tamibarotene	200	KG00098539	Disorders, Deglutition	0.09510128200054169
+trial_2	tamibarotene	114	KG00098933	fevers	0.0900747999548912
+trial_2	tamibarotene	228	KG00114657	Weight below normal	0.08959796279668808
+trial_2	tamibarotene	243	KG00100947	Micturition frequency increased	0.08628172427415848
+trial_2	tamibarotene	72	KG00103771	myalgias	0.08478096127510071
+trial_2	tamibarotene	101	KG00097901	Anorexia NOS	0.08389034867286682
+trial_2	tamibarotene	126	KG00100076	Pain NOS	0.08011633157730103
+trial_2	tamibarotene	350	KG00106765	decreased platelet count	0.07726866751909256
+trial_2	tamibarotene	104	KG00097963	arthralgias	0.07500705868005753
+trial_2	tamibarotene	2	KG00100772	thrombocytopaenia	0.07209239155054092
+trial_2	tamibarotene	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07184436917304993
+trial_2	tamibarotene	85	KG00098474	coughs	0.07174236327409744
+trial_2	tamibarotene	5	KG00099169	haematuria	0.07083798199892044
+trial_2	tamibarotene	239	KG00100128	pareses	0.07012978196144104
+trial_2	tamibarotene	76	KG00100450	Respiratory insufficiency, NOS	0.06883067637681961
+trial_2	tamibarotene	27	KG00099303	hyperkalaemia	0.06722544878721237
+trial_2	tamibarotene	179	KG00099342	hypocalcaemia	0.06652597337961197
+trial_2	tamibarotene	29	KG00099354	hyponatraemia	0.06618858873844147
+trial_2	tamibarotene	147	KG00098000	atelectases	0.06084709241986275
+trial_2	tamibarotene	180	KG00099363	Hypotension NOS	0.059419866651296616
+trial_2	tamibarotene	86	KG00098565	Depression, Mental	0.05881735309958458
+trial_2	tamibarotene	139	KG00098855	Sinusitis, Ethmoid	0.057583678513765335
+trial_2	tamibarotene	18	KG00098307	Pain, Chest	0.05710681900382042
+trial_2	tamibarotene	194	KG00110727	Neutrophil Count Decreased	0.05664815753698349
+trial_2	tamibarotene	355	KG00110857	lymphocyte count decreased	0.056277722120285034
+trial_2	tamibarotene	102	KG00097916	anxieties	0.05526559799909592
+trial_2	tamibarotene	122	KG00099321	Hypersensitivity NOS	0.05491315945982933
+trial_2	tamibarotene	191	KG00104055	Biliverdin increased	0.054716479033231735
+trial_2	tamibarotene	211	KG00100341	Pruritus NOS	0.05356549844145775
+trial_2	tamibarotene	28	KG00099347	hypoglycaemia	0.052887823432683945
+trial_2	tamibarotene	61	KG00099501	Chronic Kidney Failure	0.05246947333216667
+trial_2	tamibarotene	116	KG00098964	Pain in foot	0.05211678892374039
+trial_2	tamibarotene	282	KG00099309	hypernatraemia	0.05122446268796921
+trial_2	tamibarotene	100	KG00097815	alopecias	0.05054513365030289
+trial_2	tamibarotene	261	KG00101559	raised alkaline phosphatase	0.0505056157708168
+trial_2	tamibarotene	131	KG00100948	Urinary tract infection (& [NOS])	0.0495457649230957
+trial_2	tamibarotene	396	KG00100373	Embolism, Pulmonary	0.04891515523195267
+trial_2	tamibarotene	82	KG00097697	abdomen distended	0.04877706989645958
+trial_2	tamibarotene	35	KG00101507	hypomagnesaemia	0.04706033691763878
+trial_2	tamibarotene	212	KG00100576	shivers	0.046842776238918304
+trial_2	tamibarotene	69	KG00100082	Palpitations NOS	0.04536791145801544
+trial_2	tamibarotene	38	KG00098066	Binocular vision disorders	0.0447772853076458
+trial_2	tamibarotene	249	KG00104430	hypoalbuminaemia	0.04458531737327576
+trial_2	tamibarotene	154	KG00099686	Lymphopenias	0.04444758966565132
+trial_2	tamibarotene	30	KG00099500	Acute Kidney Failure	0.04431033879518509
+trial_2	tamibarotene	136	KG00101582	Dry;skin	0.04401681199669838
+trial_2	tamibarotene	441	KG00098262	cellulitis nos	0.044009413570165634
+trial_2	tamibarotene	276	KG00099127	Arrest, Cardiac	0.043827928602695465
+trial_2	tamibarotene	151	KG00098274	Infarction, Cerebral	0.04311007261276245
+trial_2	tamibarotene	253	KG00100232	Pleural effusion NOS (disorder)	0.042439091950654984
+trial_2	tamibarotene	269	KG00100399	pyaemia	0.04212460666894913
+trial_2	tamibarotene	144	KG00099610	Leukopenia NOS	0.04206836223602295
+trial_2	tamibarotene	234	KG00098669	dysgeusias	0.04126252606511116
+trial_2	tamibarotene	288	KG00101223	hypophosphataemia	0.04096221923828125
+trial_2	tamibarotene	204	KG00098849	Esophagitis, Peptic	0.040097955614328384
+trial_2	tamibarotene	130	KG00100683	Stomatitis NOS	0.039547137916088104
+trial_2	tamibarotene	221	KG00101207	peripheral oedema	0.03828222304582596
+trial_2	tamibarotene	186	KG00101431	creatinine increased	0.03801547735929489
+trial_2	tamibarotene	96	KG00101679	Unattended death NOS	0.03794935718178749
+trial_2	tamibarotene	164	KG00108827	ileus colon	0.03779607266187668
+trial_2	tamibarotene	121	KG00099190	haemorrhage	0.036639899015426636
+trial_2	tamibarotene	33	KG00100094	Pancreatitis NOS	0.03653954714536667
+trial_2	tamibarotene	142	KG00100923	Unspecified infectious and parasitic diseases	0.03607337176799774
+trial_2	tamibarotene	341	KG00101472	Gamma-glutamyltransferase increased	0.035900503396987915
+trial_2	tamibarotene	508	KG00108565	blood glucose increased	0.035125140100717545
+trial_2	tamibarotene	454	KG00098286	Pain, Neck	0.034998662769794464
+trial_2	tamibarotene	297	KG00099294	hypercholesterolaemia	0.03498305380344391
+trial_2	tamibarotene	75	KG00100195	Dolens, Phlegmasia Alba	0.03493967652320862
+trial_2	tamibarotene	166	KG00099773	menopausal syndrome	0.033151641488075256
+trial_2	tamibarotene	361	KG00098004	Fibrillation, Atrial	0.03307327628135681
+trial_2	tamibarotene	286	KG00101110	Retention, Urinary	0.032978594303131104
+trial_2	tamibarotene	466	KG00101205	fall	0.032642386853694916
+trial_2	tamibarotene	1	KG00099959	Neutropenia NOS	0.03243492543697357
+trial_2	tamibarotene	256	KG00100738	Tachycardia, Sinus	0.03214343264698982
+trial_2	tamibarotene	195	KG00097814	Atopic Rhinitis	0.032039575278759
+trial_2	tamibarotene	97	KG00104198	LIVER ENZYME ELEVATED	0.03192942216992378
+trial_2	tamibarotene	92	KG00100926	Infections, Upper Respiratory	0.03181483596563339
+trial_2	tamibarotene	31	KG00099872	Infarction, Myocardial	0.03047892265021801
+trial_2	tamibarotene	371	KG00098517	Cystitis (NOS)	0.03024701401591301
+trial_2	tamibarotene	36	KG00106434	Vision, Blurring Of	0.02975054644048214

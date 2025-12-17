@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2806492745876312
+trial_1	placebo	123	KG00099351	hypokalaemia	0.13768936693668365
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13641327619552612
+trial_1	placebo	20	KG00098540	dehydration	0.12854215502738953
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12684366106987
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11346577107906342
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10161906480789185
+trial_1	placebo	228	KG00114657	Weight below normal	0.09175587445497513
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.09010184556245804
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0890837237238884
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08842935413122177
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08723638951778412
+trial_1	placebo	68	KG00099901	nauseas	0.08234591037034988
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07964448630809784
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07789728790521622
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07386569678783417
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07308686524629593
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06957732886075974
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06903766840696335
+trial_1	placebo	21	KG00098675	dyspnoea	0.06889276951551437
+trial_1	placebo	46	KG00099121	Headache NOS	0.06839446723461151
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06614956259727478
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06583632528781891
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06489764899015427
+trial_1	placebo	121	KG00099190	haemorrhage	0.06439460813999176
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06420066207647324
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06379593908786774
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06208910793066025
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.061349473893642426
+trial_1	placebo	14	KG00097852	Anemia NOS	0.056875601410865784
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.056837085634469986
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.054140180349349976
+trial_1	placebo	126	KG00100076	Pain NOS	0.053862765431404114
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05279603973031044
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05241093784570694
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05172152817249298
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04987851157784462
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04955204576253891
+trial_1	placebo	147	KG00098000	atelectases	0.04887426644563675
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04865303635597229
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04792901501059532
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04786895215511322
+trial_1	placebo	257	KG00100922	Erythema NOS	0.04761279374361038
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04701826348900795
+trial_1	placebo	114	KG00098933	fevers	0.04568762704730034
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04559355974197388
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04484473913908005
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.044630277901887894
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04462176933884621
+trial_1	placebo	136	KG00101582	Dry;skin	0.04411837086081505
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04393342137336731
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04380001500248909
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04257430136203766
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04146011173725128
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04104796051979065
+trial_1	placebo	239	KG00100128	pareses	0.040497537702322006
+trial_1	placebo	18	KG00098307	Pain, Chest	0.038905154913663864
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03842809796333313
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03815110772848129
+trial_1	placebo	104	KG00097963	arthralgias	0.03810688108205795
+trial_1	placebo	85	KG00098474	coughs	0.03777887299656868
+trial_1	placebo	5	KG00099169	haematuria	0.03704237937927246
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03688668832182884
+trial_1	placebo	164	KG00108827	ileus colon	0.03684505820274353
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03607382997870445
+trial_1	placebo	269	KG00100399	pyaemia	0.03606101870536804
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.03461586683988571
+trial_1	placebo	100	KG00097815	alopecias	0.034398604184389114
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.0340893380343914
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03389091044664383
+trial_1	placebo	155	KG00099960	Neutrophile	0.033170342445373535
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03169696405529976
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0311256255954504
+trial_1	placebo	82	KG00097697	abdomen distended	0.03045170195400715
+trial_1	placebo	186	KG00101431	creatinine increased	0.030367916449904442
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03009849227964878
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.029637552797794342
+trial_1	placebo	234	KG00098669	dysgeusias	0.029489172622561455
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02926432155072689
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029120979830622673
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.028250783681869507
+trial_1	placebo	503	KG00102612	low haemoglobin	0.028132364153862
+trial_1	placebo	174	KG00098731	Embolism NOS	0.027976643294095993
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.027657417580485344
+trial_1	placebo	4	KG00098817	epistaxis	0.02760363556444645
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02718808688223362
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.027003124356269836
+trial_1	placebo	382	KG00099200	haemorrhoids	0.026405535638332367
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02637512795627117
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.02612314186990261
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025782816112041473
+trial_1	placebo	343	KG00102674	Eruptions, Acneiform	0.025587905198335648
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02553717792034149
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.025530735030770302
+trial_1	placebo	132	KG00101045	Gain, Weight	0.025491906329989433
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.025441845878958702
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.025217540562152863
+trial_1	placebo	116	KG00098964	Pain in foot	0.025190068408846855
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.025144830346107483
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0248488150537014
+trial_2	tegafur	87	KG00098599	diarrhoea	0.2806492745876312
+trial_2	tegafur	123	KG00099351	hypokalaemia	0.13768936693668365
+trial_2	tegafur	78	KG00099326	Hypertensive diseases	0.13641327619552612
+trial_2	tegafur	20	KG00098540	dehydration	0.12854215502738953
+trial_2	tegafur	177	KG00099299	hyperglycaemia	0.12684366106987
+trial_2	tegafur	17	KG00097991	Asthenia NOS	0.11346577107906342
+trial_2	tegafur	9	KG00098432	Confusion NOS	0.10161906480789185
+trial_2	tegafur	228	KG00114657	Weight below normal	0.09175587445497513
+trial_2	tegafur	200	KG00098539	Disorders, Deglutition	0.09010184556245804
+trial_2	tegafur	189	KG00101580	Alanine aminotransferase increase	0.0890837237238884
+trial_2	tegafur	29	KG00099354	hyponatraemia	0.08842935413122177
+trial_2	tegafur	64	KG00097734	Acrodermatitis, NOS	0.08723638951778412
+trial_2	tegafur	68	KG00099901	nauseas	0.08234591037034988
+trial_2	tegafur	67	KG00098673	Dyspepsia, NOS	0.07964448630809784
+trial_2	tegafur	2	KG00100772	thrombocytopaenia	0.07789728790521622
+trial_2	tegafur	49	KG00099902	nausea with vomiting	0.07386569678783417
+trial_2	tegafur	37	KG00097696	Cramps, Abdominal	0.07308686524629593
+trial_2	tegafur	179	KG00099342	hypocalcaemia	0.06957732886075974
+trial_2	tegafur	350	KG00106765	decreased platelet count	0.06903766840696335
+trial_2	tegafur	21	KG00098675	dyspnoea	0.06889276951551437
+trial_2	tegafur	46	KG00099121	Headache NOS	0.06839446723461151
+trial_2	tegafur	77	KG00098450	Constipation NOS	0.06614956259727478
+trial_2	tegafur	188	KG00101579	Aspartate aminotransferase increase	0.06583632528781891
+trial_2	tegafur	173	KG00098172	Bronchopneumonia NOS	0.06489764899015427
+trial_2	tegafur	121	KG00099190	haemorrhage	0.06439460813999176
+trial_2	tegafur	28	KG00099347	hypoglycaemia	0.06420066207647324
+trial_2	tegafur	61	KG00099501	Chronic Kidney Failure	0.06379593908786774
+trial_2	tegafur	151	KG00098274	Infarction, Cerebral	0.06208910793066025
+trial_2	tegafur	142	KG00100923	Unspecified infectious and parasitic diseases	0.061349473893642426
+trial_2	tegafur	14	KG00097852	Anemia NOS	0.056875601410865784
+trial_2	tegafur	76	KG00100450	Respiratory insufficiency, NOS	0.056837085634469986
+trial_2	tegafur	180	KG00099363	Hypotension NOS	0.054140180349349976
+trial_2	tegafur	126	KG00100076	Pain NOS	0.053862765431404114
+trial_2	tegafur	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05279603973031044
+trial_2	tegafur	194	KG00110727	Neutrophil Count Decreased	0.05241093784570694
+trial_2	tegafur	79	KG00100317	Insomnia, Primary	0.05172152817249298
+trial_2	tegafur	122	KG00099321	Hypersensitivity NOS	0.04987851157784462
+trial_2	tegafur	96	KG00101679	Unattended death NOS	0.04955204576253891
+trial_2	tegafur	147	KG00098000	atelectases	0.04887426644563675
+trial_2	tegafur	27	KG00099303	hyperkalaemia	0.04865303635597229
+trial_2	tegafur	30	KG00099500	Acute Kidney Failure	0.04792901501059532
+trial_2	tegafur	191	KG00104055	Biliverdin increased	0.04786895215511322
+trial_2	tegafur	257	KG00100922	Erythema NOS	0.04761279374361038
+trial_2	tegafur	86	KG00098565	Depression, Mental	0.04701826348900795
+trial_2	tegafur	114	KG00098933	fevers	0.04568762704730034
+trial_2	tegafur	243	KG00100947	Micturition frequency increased	0.04559355974197388
+trial_2	tegafur	282	KG00099309	hypernatraemia	0.04484473913908005
+trial_2	tegafur	249	KG00104430	hypoalbuminaemia	0.044630277901887894
+trial_2	tegafur	130	KG00100683	Stomatitis NOS	0.04462176933884621
+trial_2	tegafur	136	KG00101582	Dry;skin	0.04411837086081505
+trial_2	tegafur	101	KG00097901	Anorexia NOS	0.04393342137336731
+trial_2	tegafur	144	KG00099610	Leukopenia NOS	0.04380001500248909
+trial_2	tegafur	396	KG00100373	Embolism, Pulmonary	0.04257430136203766
+trial_2	tegafur	38	KG00098066	Binocular vision disorders	0.04146011173725128
+trial_2	tegafur	35	KG00101507	hypomagnesaemia	0.04104796051979065
+trial_2	tegafur	239	KG00100128	pareses	0.040497537702322006
+trial_2	tegafur	18	KG00098307	Pain, Chest	0.038905154913663864
+trial_2	tegafur	1	KG00099959	Neutropenia NOS	0.03842809796333313
+trial_2	tegafur	261	KG00101559	raised alkaline phosphatase	0.03815110772848129
+trial_2	tegafur	104	KG00097963	arthralgias	0.03810688108205795
+trial_2	tegafur	85	KG00098474	coughs	0.03777887299656868
+trial_2	tegafur	5	KG00099169	haematuria	0.03704237937927246
+trial_2	tegafur	276	KG00099127	Arrest, Cardiac	0.03688668832182884
+trial_2	tegafur	164	KG00108827	ileus colon	0.03684505820274353
+trial_2	tegafur	133	KG00101370	neuropathies sensory	0.03607382997870445
+trial_2	tegafur	269	KG00100399	pyaemia	0.03606101870536804
+trial_2	tegafur	254	KG00100774	Thrombosis NOS	0.03461586683988571
+trial_2	tegafur	100	KG00097815	alopecias	0.034398604184389114
+trial_2	tegafur	347	KG00104223	Mucosal ulcers	0.0340893380343914
+trial_2	tegafur	441	KG00098262	cellulitis nos	0.03389091044664383
+trial_2	tegafur	155	KG00099960	Neutrophile	0.033170342445373535
+trial_2	tegafur	154	KG00099686	Lymphopenias	0.03169696405529976
+trial_2	tegafur	131	KG00100948	Urinary tract infection (& [NOS])	0.0311256255954504
+trial_2	tegafur	82	KG00097697	abdomen distended	0.03045170195400715
+trial_2	tegafur	186	KG00101431	creatinine increased	0.030367916449904442
+trial_2	tegafur	36	KG00106434	Vision, Blurring Of	0.03009849227964878
+trial_2	tegafur	288	KG00101223	hypophosphataemia	0.029637552797794342
+trial_2	tegafur	234	KG00098669	dysgeusias	0.029489172622561455
+trial_2	tegafur	75	KG00100195	Dolens, Phlegmasia Alba	0.02926432155072689
+trial_2	tegafur	204	KG00098849	Esophagitis, Peptic	0.029120979830622673
+trial_2	tegafur	213	KG00100600	Infectious Skin Diseases	0.028250783681869507
+trial_2	tegafur	503	KG00102612	low haemoglobin	0.028132364153862
+trial_2	tegafur	174	KG00098731	Embolism NOS	0.027976643294095993
+trial_2	tegafur	356	KG00112623	Infectious Lung Disorders	0.027657417580485344
+trial_2	tegafur	4	KG00098817	epistaxis	0.02760363556444645
+trial_2	tegafur	246	KG00103338	Aspartate Aminotransferase Measurement	0.02718808688223362
+trial_2	tegafur	253	KG00100232	Pleural effusion NOS (disorder)	0.027003124356269836
+trial_2	tegafur	382	KG00099200	haemorrhoids	0.026405535638332367
+trial_2	tegafur	286	KG00101110	Retention, Urinary	0.02637512795627117
+trial_2	tegafur	263	KG00101519	Ischemia, Myocardial	0.02612314186990261
+trial_2	tegafur	31	KG00099872	Infarction, Myocardial	0.025782816112041473
+trial_2	tegafur	343	KG00102674	Eruptions, Acneiform	0.025587905198335648
+trial_2	tegafur	15	KG00097882	Angina pectoris NOS	0.02553717792034149
+trial_2	tegafur	371	KG00098517	Cystitis (NOS)	0.025530735030770302
+trial_2	tegafur	132	KG00101045	Gain, Weight	0.025491906329989433
+trial_2	tegafur	195	KG00097814	Atopic Rhinitis	0.025441845878958702
+trial_2	tegafur	361	KG00098004	Fibrillation, Atrial	0.025217540562152863
+trial_2	tegafur	116	KG00098964	Pain in foot	0.025190068408846855
+trial_2	tegafur	118	KG00099011	Gastritis NOS	0.025144830346107483
+trial_2	tegafur	69	KG00100082	Palpitations NOS	0.0248488150537014

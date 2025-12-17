@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.4582652747631073
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.38583704829216003
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.33617615699768066
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.3085462152957916
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.277312308549881
+trial_1	placebo	123	KG00099351	hypokalaemia	0.2770174741744995
+trial_1	placebo	20	KG00098540	dehydration	0.26461276412010193
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.25906771421432495
+trial_1	placebo	228	KG00114657	Weight below normal	0.24876350164413452
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.2337719202041626
+trial_1	placebo	21	KG00098675	dyspnoea	0.2255825400352478
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.19647648930549622
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1843416541814804
+trial_1	placebo	14	KG00097852	Anemia NOS	0.17491868138313293
+trial_1	placebo	114	KG00098933	fevers	0.1575337052345276
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.15706011652946472
+trial_1	placebo	85	KG00098474	coughs	0.15592193603515625
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.15454664826393127
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1517169028520584
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.14986690878868103
+trial_1	placebo	68	KG00099901	nauseas	0.14609497785568237
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.14106307923793793
+trial_1	placebo	46	KG00099121	Headache NOS	0.13542290031909943
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.13065920770168304
+trial_1	placebo	136	KG00101582	Dry;skin	0.1190691739320755
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11735149472951889
+trial_1	placebo	126	KG00100076	Pain NOS	0.11666814982891083
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.11343744397163391
+trial_1	placebo	29	KG00099354	hyponatraemia	0.11287606507539749
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11187944561243057
+trial_1	placebo	104	KG00097963	arthralgias	0.11085693538188934
+trial_1	placebo	5	KG00099169	haematuria	0.11002429574728012
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.1093669980764389
+trial_1	placebo	86	KG00098565	Depression, Mental	0.10748106241226196
+trial_1	placebo	350	KG00106765	decreased platelet count	0.1062891036272049
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.09958953410387039
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.09822186082601547
+trial_1	placebo	72	KG00103771	myalgias	0.09745608270168304
+trial_1	placebo	147	KG00098000	atelectases	0.09662303328514099
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.09576339274644852
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.09405313432216644
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0937650054693222
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.09372363984584808
+trial_1	placebo	234	KG00098669	dysgeusias	0.09313657879829407
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.09284190088510513
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.09252185374498367
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.09080018848180771
+trial_1	placebo	4	KG00098817	epistaxis	0.09062081575393677
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0887315571308136
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.08838891983032227
+trial_1	placebo	239	KG00100128	pareses	0.08754820376634598
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.08568134903907776
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.08559025079011917
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.08303847163915634
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08207825571298599
+trial_1	placebo	339	KG00100334	proteinurias	0.08205478638410568
+trial_1	placebo	154	KG00099686	Lymphopenias	0.08078500628471375
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.08071083575487137
+trial_1	placebo	186	KG00101431	creatinine increased	0.08062462508678436
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.08001888543367386
+trial_1	placebo	18	KG00098307	Pain, Chest	0.07841220498085022
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.07769373059272766
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.07725683599710464
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.07695265859365463
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07574058324098587
+trial_1	placebo	100	KG00097815	alopecias	0.07453348487615585
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.07431764900684357
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.07431669533252716
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.07173104584217072
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07153923809528351
+trial_1	placebo	212	KG00100576	shivers	0.07109805196523666
+trial_1	placebo	269	KG00100399	pyaemia	0.06870585680007935
+trial_1	placebo	121	KG00099190	haemorrhage	0.06716606020927429
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06693471223115921
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.06592531502246857
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.06562802195549011
+trial_1	placebo	257	KG00100922	Erythema NOS	0.06533514708280563
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0640723928809166
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.06262819468975067
+trial_1	placebo	82	KG00097697	abdomen distended	0.06200329214334488
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.06148830056190491
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.060399096459150314
+trial_1	placebo	116	KG00098964	Pain in foot	0.059187036007642746
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.05704503878951073
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.056217215955257416
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.055464260280132294
+trial_1	placebo	382	KG00099200	haemorrhoids	0.05132293328642845
+trial_1	placebo	102	KG00097916	anxieties	0.051320161670446396
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.049943678081035614
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.04906170815229416
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04881592467427254
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.04800321161746979
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.047563422471284866
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04700369015336037
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.04638964682817459
+trial_1	placebo	441	KG00098262	cellulitis nos	0.046026188880205154
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.045959390699863434
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.044487323611974716
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.04433789104223251
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.043977390974760056
+trial_2	temsirolimus	87	KG00098599	diarrhoea	0.4582652747631073
+trial_2	temsirolimus	78	KG00099326	Hypertensive diseases	0.38583704829216003
+trial_2	temsirolimus	64	KG00097734	Acrodermatitis, NOS	0.33617615699768066
+trial_2	temsirolimus	17	KG00097991	Asthenia NOS	0.3085462152957916
+trial_2	temsirolimus	173	KG00098172	Bronchopneumonia NOS	0.277312308549881
+trial_2	temsirolimus	123	KG00099351	hypokalaemia	0.2770174741744995
+trial_2	temsirolimus	20	KG00098540	dehydration	0.26461276412010193
+trial_2	temsirolimus	177	KG00099299	hyperglycaemia	0.25906771421432495
+trial_2	temsirolimus	228	KG00114657	Weight below normal	0.24876350164413452
+trial_2	temsirolimus	2	KG00100772	thrombocytopaenia	0.2337719202041626
+trial_2	temsirolimus	21	KG00098675	dyspnoea	0.2255825400352478
+trial_2	temsirolimus	37	KG00097696	Cramps, Abdominal	0.19647648930549622
+trial_2	temsirolimus	9	KG00098432	Confusion NOS	0.1843416541814804
+trial_2	temsirolimus	14	KG00097852	Anemia NOS	0.17491868138313293
+trial_2	temsirolimus	114	KG00098933	fevers	0.1575337052345276
+trial_2	temsirolimus	189	KG00101580	Alanine aminotransferase increase	0.15706011652946472
+trial_2	temsirolimus	85	KG00098474	coughs	0.15592193603515625
+trial_2	temsirolimus	67	KG00098673	Dyspepsia, NOS	0.15454664826393127
+trial_2	temsirolimus	49	KG00099902	nausea with vomiting	0.1517169028520584
+trial_2	temsirolimus	130	KG00100683	Stomatitis NOS	0.14986690878868103
+trial_2	temsirolimus	68	KG00099901	nauseas	0.14609497785568237
+trial_2	temsirolimus	188	KG00101579	Aspartate aminotransferase increase	0.14106307923793793
+trial_2	temsirolimus	46	KG00099121	Headache NOS	0.13542290031909943
+trial_2	temsirolimus	101	KG00097901	Anorexia NOS	0.13065920770168304
+trial_2	temsirolimus	136	KG00101582	Dry;skin	0.1190691739320755
+trial_2	temsirolimus	77	KG00098450	Constipation NOS	0.11735149472951889
+trial_2	temsirolimus	126	KG00100076	Pain NOS	0.11666814982891083
+trial_2	temsirolimus	131	KG00100948	Urinary tract infection (& [NOS])	0.11343744397163391
+trial_2	temsirolimus	29	KG00099354	hyponatraemia	0.11287606507539749
+trial_2	temsirolimus	79	KG00100317	Insomnia, Primary	0.11187944561243057
+trial_2	temsirolimus	104	KG00097963	arthralgias	0.11085693538188934
+trial_2	temsirolimus	5	KG00099169	haematuria	0.11002429574728012
+trial_2	temsirolimus	200	KG00098539	Disorders, Deglutition	0.1093669980764389
+trial_2	temsirolimus	86	KG00098565	Depression, Mental	0.10748106241226196
+trial_2	temsirolimus	350	KG00106765	decreased platelet count	0.1062891036272049
+trial_2	temsirolimus	76	KG00100450	Respiratory insufficiency, NOS	0.09958953410387039
+trial_2	temsirolimus	288	KG00101223	hypophosphataemia	0.09822186082601547
+trial_2	temsirolimus	72	KG00103771	myalgias	0.09745608270168304
+trial_2	temsirolimus	147	KG00098000	atelectases	0.09662303328514099
+trial_2	temsirolimus	297	KG00099294	hypercholesterolaemia	0.09576339274644852
+trial_2	temsirolimus	144	KG00099610	Leukopenia NOS	0.09405313432216644
+trial_2	temsirolimus	1	KG00099959	Neutropenia NOS	0.0937650054693222
+trial_2	temsirolimus	243	KG00100947	Micturition frequency increased	0.09372363984584808
+trial_2	temsirolimus	234	KG00098669	dysgeusias	0.09313657879829407
+trial_2	temsirolimus	122	KG00099321	Hypersensitivity NOS	0.09284190088510513
+trial_2	temsirolimus	139	KG00098855	Sinusitis, Ethmoid	0.09252185374498367
+trial_2	temsirolimus	211	KG00100341	Pruritus NOS	0.09080018848180771
+trial_2	temsirolimus	4	KG00098817	epistaxis	0.09062081575393677
+trial_2	temsirolimus	180	KG00099363	Hypotension NOS	0.0887315571308136
+trial_2	temsirolimus	61	KG00099501	Chronic Kidney Failure	0.08838891983032227
+trial_2	temsirolimus	239	KG00100128	pareses	0.08754820376634598
+trial_2	temsirolimus	179	KG00099342	hypocalcaemia	0.08568134903907776
+trial_2	temsirolimus	396	KG00100373	Embolism, Pulmonary	0.08559025079011917
+trial_2	temsirolimus	28	KG00099347	hypoglycaemia	0.08303847163915634
+trial_2	temsirolimus	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08207825571298599
+trial_2	temsirolimus	339	KG00100334	proteinurias	0.08205478638410568
+trial_2	temsirolimus	154	KG00099686	Lymphopenias	0.08078500628471375
+trial_2	temsirolimus	191	KG00104055	Biliverdin increased	0.08071083575487137
+trial_2	temsirolimus	186	KG00101431	creatinine increased	0.08062462508678436
+trial_2	temsirolimus	27	KG00099303	hyperkalaemia	0.08001888543367386
+trial_2	temsirolimus	18	KG00098307	Pain, Chest	0.07841220498085022
+trial_2	temsirolimus	142	KG00100923	Unspecified infectious and parasitic diseases	0.07769373059272766
+trial_2	temsirolimus	261	KG00101559	raised alkaline phosphatase	0.07725683599710464
+trial_2	temsirolimus	194	KG00110727	Neutrophil Count Decreased	0.07695265859365463
+trial_2	temsirolimus	151	KG00098274	Infarction, Cerebral	0.07574058324098587
+trial_2	temsirolimus	100	KG00097815	alopecias	0.07453348487615585
+trial_2	temsirolimus	249	KG00104430	hypoalbuminaemia	0.07431764900684357
+trial_2	temsirolimus	35	KG00101507	hypomagnesaemia	0.07431669533252716
+trial_2	temsirolimus	347	KG00104223	Mucosal ulcers	0.07173104584217072
+trial_2	temsirolimus	30	KG00099500	Acute Kidney Failure	0.07153923809528351
+trial_2	temsirolimus	212	KG00100576	shivers	0.07109805196523666
+trial_2	temsirolimus	269	KG00100399	pyaemia	0.06870585680007935
+trial_2	temsirolimus	121	KG00099190	haemorrhage	0.06716606020927429
+trial_2	temsirolimus	355	KG00110857	lymphocyte count decreased	0.06693471223115921
+trial_2	temsirolimus	356	KG00112623	Infectious Lung Disorders	0.06592531502246857
+trial_2	temsirolimus	96	KG00101679	Unattended death NOS	0.06562802195549011
+trial_2	temsirolimus	257	KG00100922	Erythema NOS	0.06533514708280563
+trial_2	temsirolimus	221	KG00101207	peripheral oedema	0.0640723928809166
+trial_2	temsirolimus	38	KG00098066	Binocular vision disorders	0.06262819468975067
+trial_2	temsirolimus	82	KG00097697	abdomen distended	0.06200329214334488
+trial_2	temsirolimus	276	KG00099127	Arrest, Cardiac	0.06148830056190491
+trial_2	temsirolimus	75	KG00100195	Dolens, Phlegmasia Alba	0.060399096459150314
+trial_2	temsirolimus	116	KG00098964	Pain in foot	0.059187036007642746
+trial_2	temsirolimus	253	KG00100232	Pleural effusion NOS (disorder)	0.05704503878951073
+trial_2	temsirolimus	92	KG00100926	Infections, Upper Respiratory	0.056217215955257416
+trial_2	temsirolimus	31	KG00099872	Infarction, Myocardial	0.055464260280132294
+trial_2	temsirolimus	382	KG00099200	haemorrhoids	0.05132293328642845
+trial_2	temsirolimus	102	KG00097916	anxieties	0.051320161670446396
+trial_2	temsirolimus	99	KG00097728	acne; vulgaris	0.049943678081035614
+trial_2	temsirolimus	133	KG00101370	neuropathies sensory	0.04906170815229416
+trial_2	temsirolimus	282	KG00099309	hypernatraemia	0.04881592467427254
+trial_2	temsirolimus	33	KG00100094	Pancreatitis NOS	0.04800321161746979
+trial_2	temsirolimus	138	KG00098796	epidemic vomiting syndrome	0.047563422471284866
+trial_2	temsirolimus	132	KG00101045	Gain, Weight	0.04700369015336037
+trial_2	temsirolimus	204	KG00098849	Esophagitis, Peptic	0.04638964682817459
+trial_2	temsirolimus	441	KG00098262	cellulitis nos	0.046026188880205154
+trial_2	temsirolimus	246	KG00103338	Aspartate Aminotransferase Measurement	0.045959390699863434
+trial_2	temsirolimus	69	KG00100082	Palpitations NOS	0.044487323611974716
+trial_2	temsirolimus	213	KG00100600	Infectious Skin Diseases	0.04433789104223251
+trial_2	temsirolimus	286	KG00101110	Retention, Urinary	0.043977390974760056

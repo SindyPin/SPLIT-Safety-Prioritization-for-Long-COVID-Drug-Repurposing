@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.113043412566185
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09795130044221878
+trial_1	placebo	87	KG00098599	diarrhoea	0.09214169532060623
+trial_1	placebo	46	KG00099121	Headache NOS	0.06878335028886795
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06643389910459518
+trial_1	placebo	68	KG00099901	nauseas	0.05987270176410675
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05701254680752754
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05628899857401848
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05588394030928612
+trial_1	placebo	21	KG00098675	dyspnoea	0.05351586639881134
+trial_1	placebo	77	KG00098450	Constipation NOS	0.052486270666122437
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05104880407452583
+trial_1	placebo	20	KG00098540	dehydration	0.04602189362049103
+trial_1	placebo	123	KG00099351	hypokalaemia	0.041317399591207504
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03854312747716904
+trial_1	placebo	66	KG00098642	drowsiness	0.037975434213876724
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03569668158888817
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03563111275434494
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03539394214749336
+trial_1	placebo	85	KG00098474	coughs	0.032513707876205444
+trial_1	placebo	228	KG00114657	Weight below normal	0.03233266621828079
+trial_1	placebo	126	KG00100076	Pain NOS	0.03225275129079819
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03174697607755661
+trial_1	placebo	114	KG00098933	fevers	0.03165406733751297
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03128717839717865
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.030892305076122284
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02743089757859707
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.027085568755865097
+trial_1	placebo	104	KG00097963	arthralgias	0.02695351094007492
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02694447711110115
+trial_1	placebo	29	KG00099354	hyponatraemia	0.026896849274635315
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026846960186958313
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026174215599894524
+trial_1	placebo	102	KG00097916	anxieties	0.02437819540500641
+trial_1	placebo	132	KG00101045	Gain, Weight	0.023992784321308136
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.023801280185580254
+trial_1	placebo	262	KG00101199	agitation	0.02216392382979393
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.022071540355682373
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02168666198849678
+trial_1	placebo	234	KG00098669	dysgeusias	0.021611204370856285
+trial_1	placebo	300	KG00101064	xerostomia	0.02135118469595909
+trial_1	placebo	242	KG00100855	tremors	0.02032785676419735
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.019977543503046036
+trial_1	placebo	116	KG00098964	Pain in foot	0.019829129800200462
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.019667865708470345
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01919564977288246
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01916135661303997
+trial_1	placebo	239	KG00100128	pareses	0.019000355154275894
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018875885754823685
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.018770921975374222
+trial_1	placebo	5	KG00099169	haematuria	0.01842641830444336
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017557643353939056
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.017499037086963654
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.017359331250190735
+trial_1	placebo	466	KG00101205	fall	0.016781555488705635
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016494331881403923
+trial_1	placebo	350	KG00106765	decreased platelet count	0.016374913975596428
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.016353484243154526
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01619158871471882
+trial_1	placebo	147	KG00098000	atelectases	0.0159249659627676
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01587747223675251
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015813248232007027
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.015599742531776428
+trial_1	placebo	269	KG00100399	pyaemia	0.015339608304202557
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.015177755616605282
+trial_1	placebo	82	KG00097697	abdomen distended	0.015129386447370052
+trial_1	placebo	72	KG00103771	myalgias	0.014824633486568928
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014567594043910503
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01452313270419836
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014004291035234928
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013791070319712162
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.013543757610023022
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.013272508047521114
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012814137153327465
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012486377730965614
+trial_1	placebo	136	KG00101582	Dry;skin	0.012464341707527637
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01231719832867384
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.012274015694856644
+trial_1	placebo	456	KG00099420	Influenzae	0.012246598489582539
+trial_1	placebo	4	KG00098817	epistaxis	0.012242422439157963
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012234000489115715
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.011876835487782955
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.011804011650383472
+trial_1	placebo	121	KG00099190	haemorrhage	0.01165026519447565
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01161187794059515
+trial_1	placebo	153	KG00099579	lethargy	0.011496216990053654
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.011363085359334946
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.011346090584993362
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01134237926453352
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.010744413360953331
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.010711347684264183
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.010699989274144173
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01058677863329649
+trial_1	placebo	333	KG00104019	DOPINESS	0.010546687059104443
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.010458924807608128
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.010373559780418873
+trial_1	placebo	454	KG00098286	Pain, Neck	0.010322491638362408
+trial_1	placebo	164	KG00108827	ileus colon	0.01031020749360323
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.010201964527368546
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.009934697300195694
+trial_2	temazepam	9	KG00098432	Confusion NOS	0.113043412566185
+trial_2	temazepam	17	KG00097991	Asthenia NOS	0.09795130044221878
+trial_2	temazepam	87	KG00098599	diarrhoea	0.09214169532060623
+trial_2	temazepam	46	KG00099121	Headache NOS	0.06878335028886795
+trial_2	temazepam	49	KG00099902	nausea with vomiting	0.06643389910459518
+trial_2	temazepam	68	KG00099901	nauseas	0.05987270176410675
+trial_2	temazepam	78	KG00099326	Hypertensive diseases	0.05701254680752754
+trial_2	temazepam	177	KG00099299	hyperglycaemia	0.05628899857401848
+trial_2	temazepam	79	KG00100317	Insomnia, Primary	0.05588394030928612
+trial_2	temazepam	21	KG00098675	dyspnoea	0.05351586639881134
+trial_2	temazepam	77	KG00098450	Constipation NOS	0.052486270666122437
+trial_2	temazepam	173	KG00098172	Bronchopneumonia NOS	0.05104880407452583
+trial_2	temazepam	20	KG00098540	dehydration	0.04602189362049103
+trial_2	temazepam	123	KG00099351	hypokalaemia	0.041317399591207504
+trial_2	temazepam	180	KG00099363	Hypotension NOS	0.03854312747716904
+trial_2	temazepam	66	KG00098642	drowsiness	0.037975434213876724
+trial_2	temazepam	64	KG00097734	Acrodermatitis, NOS	0.03569668158888817
+trial_2	temazepam	151	KG00098274	Infarction, Cerebral	0.03563111275434494
+trial_2	temazepam	37	KG00097696	Cramps, Abdominal	0.03539394214749336
+trial_2	temazepam	85	KG00098474	coughs	0.032513707876205444
+trial_2	temazepam	228	KG00114657	Weight below normal	0.03233266621828079
+trial_2	temazepam	126	KG00100076	Pain NOS	0.03225275129079819
+trial_2	temazepam	14	KG00097852	Anemia NOS	0.03174697607755661
+trial_2	temazepam	114	KG00098933	fevers	0.03165406733751297
+trial_2	temazepam	67	KG00098673	Dyspepsia, NOS	0.03128717839717865
+trial_2	temazepam	200	KG00098539	Disorders, Deglutition	0.030892305076122284
+trial_2	temazepam	86	KG00098565	Depression, Mental	0.02743089757859707
+trial_2	temazepam	76	KG00100450	Respiratory insufficiency, NOS	0.027085568755865097
+trial_2	temazepam	104	KG00097963	arthralgias	0.02695351094007492
+trial_2	temazepam	101	KG00097901	Anorexia NOS	0.02694447711110115
+trial_2	temazepam	29	KG00099354	hyponatraemia	0.026896849274635315
+trial_2	temazepam	96	KG00101679	Unattended death NOS	0.026846960186958313
+trial_2	temazepam	61	KG00099501	Chronic Kidney Failure	0.026174215599894524
+trial_2	temazepam	102	KG00097916	anxieties	0.02437819540500641
+trial_2	temazepam	132	KG00101045	Gain, Weight	0.023992784321308136
+trial_2	temazepam	28	KG00099347	hypoglycaemia	0.023801280185580254
+trial_2	temazepam	262	KG00101199	agitation	0.02216392382979393
+trial_2	temazepam	131	KG00100948	Urinary tract infection (& [NOS])	0.022071540355682373
+trial_2	temazepam	30	KG00099500	Acute Kidney Failure	0.02168666198849678
+trial_2	temazepam	234	KG00098669	dysgeusias	0.021611204370856285
+trial_2	temazepam	300	KG00101064	xerostomia	0.02135118469595909
+trial_2	temazepam	242	KG00100855	tremors	0.02032785676419735
+trial_2	temazepam	36	KG00106434	Vision, Blurring Of	0.019977543503046036
+trial_2	temazepam	116	KG00098964	Pain in foot	0.019829129800200462
+trial_2	temazepam	189	KG00101580	Alanine aminotransferase increase	0.019667865708470345
+trial_2	temazepam	18	KG00098307	Pain, Chest	0.01919564977288246
+trial_2	temazepam	211	KG00100341	Pruritus NOS	0.01916135661303997
+trial_2	temazepam	239	KG00100128	pareses	0.019000355154275894
+trial_2	temazepam	221	KG00101207	peripheral oedema	0.018875885754823685
+trial_2	temazepam	396	KG00100373	Embolism, Pulmonary	0.018770921975374222
+trial_2	temazepam	5	KG00099169	haematuria	0.01842641830444336
+trial_2	temazepam	69	KG00100082	Palpitations NOS	0.017557643353939056
+trial_2	temazepam	188	KG00101579	Aspartate aminotransferase increase	0.017499037086963654
+trial_2	temazepam	199	KG00098371	Rhinitis (chronic) NOS	0.017359331250190735
+trial_2	temazepam	466	KG00101205	fall	0.016781555488705635
+trial_2	temazepam	142	KG00100923	Unspecified infectious and parasitic diseases	0.016494331881403923
+trial_2	temazepam	350	KG00106765	decreased platelet count	0.016374913975596428
+trial_2	temazepam	38	KG00098066	Binocular vision disorders	0.016353484243154526
+trial_2	temazepam	441	KG00098262	cellulitis nos	0.01619158871471882
+trial_2	temazepam	147	KG00098000	atelectases	0.0159249659627676
+trial_2	temazepam	139	KG00098855	Sinusitis, Ethmoid	0.01587747223675251
+trial_2	temazepam	11	KG00097993	Asthma NOS	0.015813248232007027
+trial_2	temazepam	130	KG00100683	Stomatitis NOS	0.015599742531776428
+trial_2	temazepam	269	KG00100399	pyaemia	0.015339608304202557
+trial_2	temazepam	2	KG00100772	thrombocytopaenia	0.015177755616605282
+trial_2	temazepam	82	KG00097697	abdomen distended	0.015129386447370052
+trial_2	temazepam	72	KG00103771	myalgias	0.014824633486568928
+trial_2	temazepam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014567594043910503
+trial_2	temazepam	122	KG00099321	Hypersensitivity NOS	0.01452313270419836
+trial_2	temazepam	75	KG00100195	Dolens, Phlegmasia Alba	0.014004291035234928
+trial_2	temazepam	138	KG00098796	epidemic vomiting syndrome	0.013791070319712162
+trial_2	temazepam	243	KG00100947	Micturition frequency increased	0.013543757610023022
+trial_2	temazepam	92	KG00100926	Infections, Upper Respiratory	0.013272508047521114
+trial_2	temazepam	286	KG00101110	Retention, Urinary	0.012814137153327465
+trial_2	temazepam	361	KG00098004	Fibrillation, Atrial	0.012486377730965614
+trial_2	temazepam	136	KG00101582	Dry;skin	0.012464341707527637
+trial_2	temazepam	261	KG00101559	raised alkaline phosphatase	0.01231719832867384
+trial_2	temazepam	179	KG00099342	hypocalcaemia	0.012274015694856644
+trial_2	temazepam	456	KG00099420	Influenzae	0.012246598489582539
+trial_2	temazepam	4	KG00098817	epistaxis	0.012242422439157963
+trial_2	temazepam	204	KG00098849	Esophagitis, Peptic	0.012234000489115715
+trial_2	temazepam	27	KG00099303	hyperkalaemia	0.011876835487782955
+trial_2	temazepam	249	KG00104430	hypoalbuminaemia	0.011804011650383472
+trial_2	temazepam	121	KG00099190	haemorrhage	0.01165026519447565
+trial_2	temazepam	276	KG00099127	Arrest, Cardiac	0.01161187794059515
+trial_2	temazepam	153	KG00099579	lethargy	0.011496216990053654
+trial_2	temazepam	232	KG00097997	Ataxia NOS	0.011363085359334946
+trial_2	temazepam	394	KG00100243	Pneumonia, Aspiration	0.011346090584993362
+trial_2	temazepam	22	KG00098705	Edema (NOS)	0.01134237926453352
+trial_2	temazepam	98	KG00097718	Incised wound, NOS	0.010744413360953331
+trial_2	temazepam	254	KG00100774	Thrombosis NOS	0.010711347684264183
+trial_2	temazepam	422	KG00101429	Creatine phosphokinase increased	0.010699989274144173
+trial_2	temazepam	118	KG00099011	Gastritis NOS	0.01058677863329649
+trial_2	temazepam	333	KG00104019	DOPINESS	0.010546687059104443
+trial_2	temazepam	1	KG00099959	Neutropenia NOS	0.010458924807608128
+trial_2	temazepam	15	KG00097882	Angina pectoris NOS	0.010373559780418873
+trial_2	temazepam	454	KG00098286	Pain, Neck	0.010322491638362408
+trial_2	temazepam	164	KG00108827	ileus colon	0.01031020749360323
+trial_2	temazepam	191	KG00104055	Biliverdin increased	0.010201964527368546
+trial_2	temazepam	170	KG00108926	Neutropenia, Febrile	0.009934697300195694

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.29383647441864014
+trial_1	placebo	87	KG00098599	diarrhoea	0.2902836203575134
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.2796878516674042
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.2285231053829193
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.22547248005867004
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.1736900508403778
+trial_1	placebo	77	KG00098450	Constipation NOS	0.15536944568157196
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.14974316954612732
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14974139630794525
+trial_1	placebo	123	KG00099351	hypokalaemia	0.149264395236969
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14320777356624603
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.1326732486486435
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1276674121618271
+trial_1	placebo	20	KG00098540	dehydration	0.12629319727420807
+trial_1	placebo	21	KG00098675	dyspnoea	0.12558519840240479
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.12331612408161163
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.11666572093963623
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.11573126912117004
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1109485775232315
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.108690045773983
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.10377072542905807
+trial_1	placebo	46	KG00099121	Headache NOS	0.09839560836553574
+trial_1	placebo	228	KG00114657	Weight below normal	0.09819693863391876
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0977126881480217
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09719689190387726
+trial_1	placebo	104	KG00097963	arthralgias	0.09355881810188293
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.09302666783332825
+trial_1	placebo	114	KG00098933	fevers	0.09273918718099594
+trial_1	placebo	5	KG00099169	haematuria	0.08978071063756943
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.08518640697002411
+trial_1	placebo	186	KG00101431	creatinine increased	0.08505275845527649
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.08421288430690765
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.0836876630783081
+trial_1	placebo	239	KG00100128	pareses	0.08367764204740524
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08355455100536346
+trial_1	placebo	116	KG00098964	Pain in foot	0.08288709819316864
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.08202815800905228
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08136481046676636
+trial_1	placebo	68	KG00099901	nauseas	0.08124624937772751
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08082212507724762
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.08061899244785309
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.07954056560993195
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.07897685468196869
+trial_1	placebo	85	KG00098474	coughs	0.07863825559616089
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07464006543159485
+trial_1	placebo	132	KG00101045	Gain, Weight	0.07425786554813385
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.073226198554039
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07222064584493637
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0714791789650917
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.07077281922101974
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0706404447555542
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.07013186067342758
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06981929391622543
+trial_1	placebo	456	KG00099420	Influenzae	0.06975766271352768
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.06838296353816986
+trial_1	placebo	126	KG00100076	Pain NOS	0.06813566386699677
+trial_1	placebo	136	KG00101582	Dry;skin	0.0677122250199318
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.06496673077344894
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06459216773509979
+trial_1	placebo	147	KG00098000	atelectases	0.06425046920776367
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.06371579319238663
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.06308550387620926
+trial_1	placebo	466	KG00101205	fall	0.06247541680932045
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0611584447324276
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06063232943415642
+trial_1	placebo	102	KG00097916	anxieties	0.05996684357523918
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.05977514013648033
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0589803084731102
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05891131982207298
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05808918550610542
+trial_1	placebo	72	KG00103771	myalgias	0.05799543485045433
+trial_1	placebo	489	KG00099244	Herpes zoster disease	0.057785823941230774
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.056637976318597794
+trial_1	placebo	178	KG00099307	Type IV Hyperlipoproteinemia	0.05552072823047638
+trial_1	placebo	339	KG00100334	proteinurias	0.054805077612400055
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05470667779445648
+trial_1	placebo	154	KG00099686	Lymphopenias	0.05422515049576759
+trial_1	placebo	83	KG00097747	pharyngitis nos acute	0.053805992007255554
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05286750569939613
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.052839383482933044
+trial_1	placebo	363	KG00098184	burns injury	0.05266399309039116
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.052508339285850525
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.05218854919075966
+trial_1	placebo	382	KG00099200	haemorrhoids	0.05201253294944763
+trial_1	placebo	4	KG00098817	epistaxis	0.05117892846465111
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05107025429606438
+trial_1	placebo	257	KG00100922	Erythema NOS	0.050908543169498444
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.05063959211111069
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.04998176172375679
+trial_1	placebo	82	KG00097697	abdomen distended	0.0494363009929657
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04883129522204399
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.04843401163816452
+trial_1	placebo	11	KG00097993	Asthma NOS	0.04806572571396828
+trial_1	placebo	454	KG00098286	Pain, Neck	0.047207143157720566
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0471898578107357
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.04703919589519501
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.04692700877785683
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.04641253128647804
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.04596381634473801
+trial_1	placebo	269	KG00100399	pyaemia	0.04467505216598511
+trial_2	tofacitinib	78	KG00099326	Hypertensive diseases	0.29383647441864014
+trial_2	tofacitinib	87	KG00098599	diarrhoea	0.2902836203575134
+trial_2	tofacitinib	189	KG00101580	Alanine aminotransferase increase	0.2796878516674042
+trial_2	tofacitinib	188	KG00101579	Aspartate aminotransferase increase	0.2285231053829193
+trial_2	tofacitinib	173	KG00098172	Bronchopneumonia NOS	0.22547248005867004
+trial_2	tofacitinib	64	KG00097734	Acrodermatitis, NOS	0.1736900508403778
+trial_2	tofacitinib	77	KG00098450	Constipation NOS	0.15536944568157196
+trial_2	tofacitinib	37	KG00097696	Cramps, Abdominal	0.14974316954612732
+trial_2	tofacitinib	9	KG00098432	Confusion NOS	0.14974139630794525
+trial_2	tofacitinib	123	KG00099351	hypokalaemia	0.149264395236969
+trial_2	tofacitinib	17	KG00097991	Asthenia NOS	0.14320777356624603
+trial_2	tofacitinib	243	KG00100947	Micturition frequency increased	0.1326732486486435
+trial_2	tofacitinib	67	KG00098673	Dyspepsia, NOS	0.1276674121618271
+trial_2	tofacitinib	20	KG00098540	dehydration	0.12629319727420807
+trial_2	tofacitinib	21	KG00098675	dyspnoea	0.12558519840240479
+trial_2	tofacitinib	297	KG00099294	hypercholesterolaemia	0.12331612408161163
+trial_2	tofacitinib	131	KG00100948	Urinary tract infection (& [NOS])	0.11666572093963623
+trial_2	tofacitinib	422	KG00101429	Creatine phosphokinase increased	0.11573126912117004
+trial_2	tofacitinib	14	KG00097852	Anemia NOS	0.1109485775232315
+trial_2	tofacitinib	177	KG00099299	hyperglycaemia	0.108690045773983
+trial_2	tofacitinib	2	KG00100772	thrombocytopaenia	0.10377072542905807
+trial_2	tofacitinib	46	KG00099121	Headache NOS	0.09839560836553574
+trial_2	tofacitinib	228	KG00114657	Weight below normal	0.09819693863391876
+trial_2	tofacitinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0977126881480217
+trial_2	tofacitinib	79	KG00100317	Insomnia, Primary	0.09719689190387726
+trial_2	tofacitinib	104	KG00097963	arthralgias	0.09355881810188293
+trial_2	tofacitinib	200	KG00098539	Disorders, Deglutition	0.09302666783332825
+trial_2	tofacitinib	114	KG00098933	fevers	0.09273918718099594
+trial_2	tofacitinib	5	KG00099169	haematuria	0.08978071063756943
+trial_2	tofacitinib	341	KG00101472	Gamma-glutamyltransferase increased	0.08518640697002411
+trial_2	tofacitinib	186	KG00101431	creatinine increased	0.08505275845527649
+trial_2	tofacitinib	92	KG00100926	Infections, Upper Respiratory	0.08421288430690765
+trial_2	tofacitinib	99	KG00097728	acne; vulgaris	0.0836876630783081
+trial_2	tofacitinib	239	KG00100128	pareses	0.08367764204740524
+trial_2	tofacitinib	76	KG00100450	Respiratory insufficiency, NOS	0.08355455100536346
+trial_2	tofacitinib	116	KG00098964	Pain in foot	0.08288709819316864
+trial_2	tofacitinib	151	KG00098274	Infarction, Cerebral	0.08202815800905228
+trial_2	tofacitinib	49	KG00099902	nausea with vomiting	0.08136481046676636
+trial_2	tofacitinib	68	KG00099901	nauseas	0.08124624937772751
+trial_2	tofacitinib	350	KG00106765	decreased platelet count	0.08082212507724762
+trial_2	tofacitinib	191	KG00104055	Biliverdin increased	0.08061899244785309
+trial_2	tofacitinib	261	KG00101559	raised alkaline phosphatase	0.07954056560993195
+trial_2	tofacitinib	355	KG00110857	lymphocyte count decreased	0.07897685468196869
+trial_2	tofacitinib	85	KG00098474	coughs	0.07863825559616089
+trial_2	tofacitinib	101	KG00097901	Anorexia NOS	0.07464006543159485
+trial_2	tofacitinib	132	KG00101045	Gain, Weight	0.07425786554813385
+trial_2	tofacitinib	130	KG00100683	Stomatitis NOS	0.073226198554039
+trial_2	tofacitinib	86	KG00098565	Depression, Mental	0.07222064584493637
+trial_2	tofacitinib	194	KG00110727	Neutrophil Count Decreased	0.0714791789650917
+trial_2	tofacitinib	138	KG00098796	epidemic vomiting syndrome	0.07077281922101974
+trial_2	tofacitinib	139	KG00098855	Sinusitis, Ethmoid	0.0706404447555542
+trial_2	tofacitinib	204	KG00098849	Esophagitis, Peptic	0.07013186067342758
+trial_2	tofacitinib	30	KG00099500	Acute Kidney Failure	0.06981929391622543
+trial_2	tofacitinib	456	KG00099420	Influenzae	0.06975766271352768
+trial_2	tofacitinib	97	KG00104198	LIVER ENZYME ELEVATED	0.06838296353816986
+trial_2	tofacitinib	126	KG00100076	Pain NOS	0.06813566386699677
+trial_2	tofacitinib	136	KG00101582	Dry;skin	0.0677122250199318
+trial_2	tofacitinib	118	KG00099011	Gastritis NOS	0.06496673077344894
+trial_2	tofacitinib	61	KG00099501	Chronic Kidney Failure	0.06459216773509979
+trial_2	tofacitinib	147	KG00098000	atelectases	0.06425046920776367
+trial_2	tofacitinib	396	KG00100373	Embolism, Pulmonary	0.06371579319238663
+trial_2	tofacitinib	199	KG00098371	Rhinitis (chronic) NOS	0.06308550387620926
+trial_2	tofacitinib	466	KG00101205	fall	0.06247541680932045
+trial_2	tofacitinib	179	KG00099342	hypocalcaemia	0.0611584447324276
+trial_2	tofacitinib	29	KG00099354	hyponatraemia	0.06063232943415642
+trial_2	tofacitinib	102	KG00097916	anxieties	0.05996684357523918
+trial_2	tofacitinib	356	KG00112623	Infectious Lung Disorders	0.05977514013648033
+trial_2	tofacitinib	441	KG00098262	cellulitis nos	0.0589803084731102
+trial_2	tofacitinib	28	KG00099347	hypoglycaemia	0.05891131982207298
+trial_2	tofacitinib	18	KG00098307	Pain, Chest	0.05808918550610542
+trial_2	tofacitinib	72	KG00103771	myalgias	0.05799543485045433
+trial_2	tofacitinib	489	KG00099244	Herpes zoster disease	0.057785823941230774
+trial_2	tofacitinib	33	KG00100094	Pancreatitis NOS	0.056637976318597794
+trial_2	tofacitinib	178	KG00099307	Type IV Hyperlipoproteinemia	0.05552072823047638
+trial_2	tofacitinib	339	KG00100334	proteinurias	0.054805077612400055
+trial_2	tofacitinib	276	KG00099127	Arrest, Cardiac	0.05470667779445648
+trial_2	tofacitinib	154	KG00099686	Lymphopenias	0.05422515049576759
+trial_2	tofacitinib	83	KG00097747	pharyngitis nos acute	0.053805992007255554
+trial_2	tofacitinib	27	KG00099303	hyperkalaemia	0.05286750569939613
+trial_2	tofacitinib	211	KG00100341	Pruritus NOS	0.052839383482933044
+trial_2	tofacitinib	363	KG00098184	burns injury	0.05266399309039116
+trial_2	tofacitinib	69	KG00100082	Palpitations NOS	0.052508339285850525
+trial_2	tofacitinib	38	KG00098066	Binocular vision disorders	0.05218854919075966
+trial_2	tofacitinib	382	KG00099200	haemorrhoids	0.05201253294944763
+trial_2	tofacitinib	4	KG00098817	epistaxis	0.05117892846465111
+trial_2	tofacitinib	144	KG00099610	Leukopenia NOS	0.05107025429606438
+trial_2	tofacitinib	257	KG00100922	Erythema NOS	0.050908543169498444
+trial_2	tofacitinib	371	KG00098517	Cystitis (NOS)	0.05063959211111069
+trial_2	tofacitinib	288	KG00101223	hypophosphataemia	0.04998176172375679
+trial_2	tofacitinib	82	KG00097697	abdomen distended	0.0494363009929657
+trial_2	tofacitinib	35	KG00101507	hypomagnesaemia	0.04883129522204399
+trial_2	tofacitinib	747	KG00101527	Liver function tests abnormal (finding)	0.04843401163816452
+trial_2	tofacitinib	11	KG00097993	Asthma NOS	0.04806572571396828
+trial_2	tofacitinib	454	KG00098286	Pain, Neck	0.047207143157720566
+trial_2	tofacitinib	122	KG00099321	Hypersensitivity NOS	0.0471898578107357
+trial_2	tofacitinib	98	KG00097718	Incised wound, NOS	0.04703919589519501
+trial_2	tofacitinib	75	KG00100195	Dolens, Phlegmasia Alba	0.04692700877785683
+trial_2	tofacitinib	105	KG00097964	Arthritis NOS	0.04641253128647804
+trial_2	tofacitinib	195	KG00097814	Atopic Rhinitis	0.04596381634473801
+trial_2	tofacitinib	269	KG00100399	pyaemia	0.04467505216598511

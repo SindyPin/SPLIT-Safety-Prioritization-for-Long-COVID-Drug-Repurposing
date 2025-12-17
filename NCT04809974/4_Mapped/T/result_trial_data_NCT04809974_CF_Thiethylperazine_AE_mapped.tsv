@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.19430950284004211
+trial_1	placebo	87	KG00098599	diarrhoea	0.19132232666015625
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16404259204864502
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13728122413158417
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1307099163532257
+trial_1	placebo	46	KG00099121	Headache NOS	0.12526169419288635
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12255333364009857
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11960247904062271
+trial_1	placebo	20	KG00098540	dehydration	0.1118634045124054
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10107273608446121
+trial_1	placebo	68	KG00099901	nauseas	0.09461966156959534
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09154412895441055
+trial_1	placebo	21	KG00098675	dyspnoea	0.08715136349201202
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0866468995809555
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0803275927901268
+trial_1	placebo	85	KG00098474	coughs	0.0789312943816185
+trial_1	placebo	228	KG00114657	Weight below normal	0.07457433640956879
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07037999480962753
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0684608668088913
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06784991919994354
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06720729917287827
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06486743688583374
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06368259340524673
+trial_1	placebo	104	KG00097963	arthralgias	0.06263123452663422
+trial_1	placebo	132	KG00101045	Gain, Weight	0.061308447271585464
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06073437258601189
+trial_1	placebo	114	KG00098933	fevers	0.060330599546432495
+trial_1	placebo	300	KG00101064	xerostomia	0.05914313718676567
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05669459328055382
+trial_1	placebo	102	KG00097916	anxieties	0.0558415912091732
+trial_1	placebo	66	KG00098642	drowsiness	0.05530120059847832
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05513174459338188
+trial_1	placebo	242	KG00100855	tremors	0.05145076662302017
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04931344464421272
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04572482407093048
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04556826874613762
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04349364712834358
+trial_1	placebo	126	KG00100076	Pain NOS	0.04297817870974541
+trial_1	placebo	239	KG00100128	pareses	0.04199492558836937
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04113328084349632
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04108945280313492
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04104914143681526
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.040261685848236084
+trial_1	placebo	262	KG00101199	agitation	0.03926476091146469
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03900673985481262
+trial_1	placebo	18	KG00098307	Pain, Chest	0.038392484188079834
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.037136923521757126
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.036715082824230194
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.036639805883169174
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.035758063197135925
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03547908738255501
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03545650094747543
+trial_1	placebo	116	KG00098964	Pain in foot	0.034992873668670654
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03412270173430443
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0335405096411705
+trial_1	placebo	5	KG00099169	haematuria	0.033437151461839676
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03336896374821663
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.032398372888565063
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.03034883365035057
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03032623790204525
+trial_1	placebo	4	KG00098817	epistaxis	0.02974877879023552
+trial_1	placebo	234	KG00098669	dysgeusias	0.029724473133683205
+trial_1	placebo	466	KG00101205	fall	0.029334591701626778
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02928147092461586
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028714565560221672
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02840571105480194
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.027976201847195625
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.027530506253242493
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027306832373142242
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02718239277601242
+trial_1	placebo	72	KG00103771	myalgias	0.026372799649834633
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.025716030970215797
+trial_1	placebo	147	KG00098000	atelectases	0.025686120614409447
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02554072067141533
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02526870183646679
+trial_1	placebo	82	KG00097697	abdomen distended	0.02499697543680668
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024851785972714424
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02445880137383938
+trial_1	placebo	269	KG00100399	pyaemia	0.0242141205817461
+trial_1	placebo	456	KG00099420	Influenzae	0.024085620418190956
+trial_1	placebo	164	KG00108827	ileus colon	0.023898888379335403
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023388581350445747
+trial_1	placebo	339	KG00100334	proteinurias	0.023272139951586723
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0231736209243536
+trial_1	placebo	121	KG00099190	haemorrhage	0.023155881091952324
+trial_1	placebo	221	KG00101207	peripheral oedema	0.022976908832788467
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02246842347085476
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.022154690697789192
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02209753356873989
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.021655883640050888
+trial_1	placebo	136	KG00101582	Dry;skin	0.021483177319169044
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.021221032366156578
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02099004201591015
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.020873351022601128
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020620791241526604
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.020371921360492706
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02022436633706093
+trial_1	placebo	88	KG00099248	hiccups	0.020182475447654724
+trial_1	placebo	186	KG00101431	creatinine increased	0.020164886489510536
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02015828900039196
+trial_2	thiethylperazine	17	KG00097991	Asthenia NOS	0.19430950284004211
+trial_2	thiethylperazine	87	KG00098599	diarrhoea	0.19132232666015625
+trial_2	thiethylperazine	78	KG00099326	Hypertensive diseases	0.16404259204864502
+trial_2	thiethylperazine	177	KG00099299	hyperglycaemia	0.13728122413158417
+trial_2	thiethylperazine	9	KG00098432	Confusion NOS	0.1307099163532257
+trial_2	thiethylperazine	46	KG00099121	Headache NOS	0.12526169419288635
+trial_2	thiethylperazine	77	KG00098450	Constipation NOS	0.12255333364009857
+trial_2	thiethylperazine	49	KG00099902	nausea with vomiting	0.11960247904062271
+trial_2	thiethylperazine	20	KG00098540	dehydration	0.1118634045124054
+trial_2	thiethylperazine	79	KG00100317	Insomnia, Primary	0.10107273608446121
+trial_2	thiethylperazine	68	KG00099901	nauseas	0.09461966156959534
+trial_2	thiethylperazine	173	KG00098172	Bronchopneumonia NOS	0.09154412895441055
+trial_2	thiethylperazine	21	KG00098675	dyspnoea	0.08715136349201202
+trial_2	thiethylperazine	123	KG00099351	hypokalaemia	0.0866468995809555
+trial_2	thiethylperazine	86	KG00098565	Depression, Mental	0.0803275927901268
+trial_2	thiethylperazine	85	KG00098474	coughs	0.0789312943816185
+trial_2	thiethylperazine	228	KG00114657	Weight below normal	0.07457433640956879
+trial_2	thiethylperazine	180	KG00099363	Hypotension NOS	0.07037999480962753
+trial_2	thiethylperazine	37	KG00097696	Cramps, Abdominal	0.0684608668088913
+trial_2	thiethylperazine	151	KG00098274	Infarction, Cerebral	0.06784991919994354
+trial_2	thiethylperazine	29	KG00099354	hyponatraemia	0.06720729917287827
+trial_2	thiethylperazine	189	KG00101580	Alanine aminotransferase increase	0.06486743688583374
+trial_2	thiethylperazine	67	KG00098673	Dyspepsia, NOS	0.06368259340524673
+trial_2	thiethylperazine	104	KG00097963	arthralgias	0.06263123452663422
+trial_2	thiethylperazine	132	KG00101045	Gain, Weight	0.061308447271585464
+trial_2	thiethylperazine	200	KG00098539	Disorders, Deglutition	0.06073437258601189
+trial_2	thiethylperazine	114	KG00098933	fevers	0.060330599546432495
+trial_2	thiethylperazine	300	KG00101064	xerostomia	0.05914313718676567
+trial_2	thiethylperazine	96	KG00101679	Unattended death NOS	0.05669459328055382
+trial_2	thiethylperazine	102	KG00097916	anxieties	0.0558415912091732
+trial_2	thiethylperazine	66	KG00098642	drowsiness	0.05530120059847832
+trial_2	thiethylperazine	188	KG00101579	Aspartate aminotransferase increase	0.05513174459338188
+trial_2	thiethylperazine	242	KG00100855	tremors	0.05145076662302017
+trial_2	thiethylperazine	64	KG00097734	Acrodermatitis, NOS	0.04931344464421272
+trial_2	thiethylperazine	350	KG00106765	decreased platelet count	0.04572482407093048
+trial_2	thiethylperazine	101	KG00097901	Anorexia NOS	0.04556826874613762
+trial_2	thiethylperazine	36	KG00106434	Vision, Blurring Of	0.04349364712834358
+trial_2	thiethylperazine	126	KG00100076	Pain NOS	0.04297817870974541
+trial_2	thiethylperazine	239	KG00100128	pareses	0.04199492558836937
+trial_2	thiethylperazine	122	KG00099321	Hypersensitivity NOS	0.04113328084349632
+trial_2	thiethylperazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04108945280313492
+trial_2	thiethylperazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.04104914143681526
+trial_2	thiethylperazine	30	KG00099500	Acute Kidney Failure	0.040261685848236084
+trial_2	thiethylperazine	262	KG00101199	agitation	0.03926476091146469
+trial_2	thiethylperazine	14	KG00097852	Anemia NOS	0.03900673985481262
+trial_2	thiethylperazine	18	KG00098307	Pain, Chest	0.038392484188079834
+trial_2	thiethylperazine	28	KG00099347	hypoglycaemia	0.037136923521757126
+trial_2	thiethylperazine	131	KG00100948	Urinary tract infection (& [NOS])	0.036715082824230194
+trial_2	thiethylperazine	38	KG00098066	Binocular vision disorders	0.036639805883169174
+trial_2	thiethylperazine	130	KG00100683	Stomatitis NOS	0.035758063197135925
+trial_2	thiethylperazine	139	KG00098855	Sinusitis, Ethmoid	0.03547908738255501
+trial_2	thiethylperazine	76	KG00100450	Respiratory insufficiency, NOS	0.03545650094747543
+trial_2	thiethylperazine	116	KG00098964	Pain in foot	0.034992873668670654
+trial_2	thiethylperazine	199	KG00098371	Rhinitis (chronic) NOS	0.03412270173430443
+trial_2	thiethylperazine	61	KG00099501	Chronic Kidney Failure	0.0335405096411705
+trial_2	thiethylperazine	5	KG00099169	haematuria	0.033437151461839676
+trial_2	thiethylperazine	92	KG00100926	Infections, Upper Respiratory	0.03336896374821663
+trial_2	thiethylperazine	179	KG00099342	hypocalcaemia	0.032398372888565063
+trial_2	thiethylperazine	170	KG00108926	Neutropenia, Febrile	0.03034883365035057
+trial_2	thiethylperazine	261	KG00101559	raised alkaline phosphatase	0.03032623790204525
+trial_2	thiethylperazine	4	KG00098817	epistaxis	0.02974877879023552
+trial_2	thiethylperazine	234	KG00098669	dysgeusias	0.029724473133683205
+trial_2	thiethylperazine	466	KG00101205	fall	0.029334591701626778
+trial_2	thiethylperazine	396	KG00100373	Embolism, Pulmonary	0.02928147092461586
+trial_2	thiethylperazine	27	KG00099303	hyperkalaemia	0.028714565560221672
+trial_2	thiethylperazine	194	KG00110727	Neutrophil Count Decreased	0.02840571105480194
+trial_2	thiethylperazine	1	KG00099959	Neutropenia NOS	0.027976201847195625
+trial_2	thiethylperazine	2	KG00100772	thrombocytopaenia	0.027530506253242493
+trial_2	thiethylperazine	286	KG00101110	Retention, Urinary	0.027306832373142242
+trial_2	thiethylperazine	35	KG00101507	hypomagnesaemia	0.02718239277601242
+trial_2	thiethylperazine	72	KG00103771	myalgias	0.026372799649834633
+trial_2	thiethylperazine	204	KG00098849	Esophagitis, Peptic	0.025716030970215797
+trial_2	thiethylperazine	147	KG00098000	atelectases	0.025686120614409447
+trial_2	thiethylperazine	69	KG00100082	Palpitations NOS	0.02554072067141533
+trial_2	thiethylperazine	152	KG00099402	INCONTINENCE NOS	0.02526870183646679
+trial_2	thiethylperazine	82	KG00097697	abdomen distended	0.02499697543680668
+trial_2	thiethylperazine	249	KG00104430	hypoalbuminaemia	0.024851785972714424
+trial_2	thiethylperazine	243	KG00100947	Micturition frequency increased	0.02445880137383938
+trial_2	thiethylperazine	269	KG00100399	pyaemia	0.0242141205817461
+trial_2	thiethylperazine	456	KG00099420	Influenzae	0.024085620418190956
+trial_2	thiethylperazine	164	KG00108827	ileus colon	0.023898888379335403
+trial_2	thiethylperazine	191	KG00104055	Biliverdin increased	0.023388581350445747
+trial_2	thiethylperazine	339	KG00100334	proteinurias	0.023272139951586723
+trial_2	thiethylperazine	11	KG00097993	Asthma NOS	0.0231736209243536
+trial_2	thiethylperazine	121	KG00099190	haemorrhage	0.023155881091952324
+trial_2	thiethylperazine	221	KG00101207	peripheral oedema	0.022976908832788467
+trial_2	thiethylperazine	75	KG00100195	Dolens, Phlegmasia Alba	0.02246842347085476
+trial_2	thiethylperazine	254	KG00100774	Thrombosis NOS	0.022154690697789192
+trial_2	thiethylperazine	118	KG00099011	Gastritis NOS	0.02209753356873989
+trial_2	thiethylperazine	144	KG00099610	Leukopenia NOS	0.021655883640050888
+trial_2	thiethylperazine	136	KG00101582	Dry;skin	0.021483177319169044
+trial_2	thiethylperazine	341	KG00101472	Gamma-glutamyltransferase increased	0.021221032366156578
+trial_2	thiethylperazine	138	KG00098796	epidemic vomiting syndrome	0.02099004201591015
+trial_2	thiethylperazine	232	KG00097997	Ataxia NOS	0.020873351022601128
+trial_2	thiethylperazine	508	KG00108565	blood glucose increased	0.020620791241526604
+trial_2	thiethylperazine	195	KG00097814	Atopic Rhinitis	0.020371921360492706
+trial_2	thiethylperazine	422	KG00101429	Creatine phosphokinase increased	0.02022436633706093
+trial_2	thiethylperazine	88	KG00099248	hiccups	0.020182475447654724
+trial_2	thiethylperazine	186	KG00101431	creatinine increased	0.020164886489510536
+trial_2	thiethylperazine	22	KG00098705	Edema (NOS)	0.02015828900039196

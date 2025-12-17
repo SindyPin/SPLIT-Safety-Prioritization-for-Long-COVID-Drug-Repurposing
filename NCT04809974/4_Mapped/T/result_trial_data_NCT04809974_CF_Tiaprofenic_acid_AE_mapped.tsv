@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15364503860473633
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13150136172771454
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10065951198339462
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0965203270316124
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09533646702766418
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08313222974538803
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07885961979627609
+trial_1	placebo	20	KG00098540	dehydration	0.07865022867918015
+trial_1	placebo	21	KG00098675	dyspnoea	0.07752583920955658
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07493963837623596
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07020430266857147
+trial_1	placebo	46	KG00099121	Headache NOS	0.07005983591079712
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06964702904224396
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06891851872205734
+trial_1	placebo	68	KG00099901	nauseas	0.06769831478595734
+trial_1	placebo	228	KG00114657	Weight below normal	0.06356709450483322
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06173808127641678
+trial_1	placebo	14	KG00097852	Anemia NOS	0.061428651213645935
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06115993857383728
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.059529975056648254
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05835394933819771
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05646152421832085
+trial_1	placebo	114	KG00098933	fevers	0.05468318611383438
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05405586585402489
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0532212108373642
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05156956985592842
+trial_1	placebo	72	KG00103771	myalgias	0.049792103469371796
+trial_1	placebo	126	KG00100076	Pain NOS	0.04959750548005104
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04826769232749939
+trial_1	placebo	5	KG00099169	haematuria	0.04549626260995865
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04515254124999046
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04465409368276596
+trial_1	placebo	85	KG00098474	coughs	0.0438259094953537
+trial_1	placebo	239	KG00100128	pareses	0.04104403778910637
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04090321809053421
+trial_1	placebo	104	KG00097963	arthralgias	0.040698159486055374
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04038110375404358
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03983289375901222
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03968937695026398
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.039048418402671814
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03899866342544556
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03864292800426483
+trial_1	placebo	147	KG00098000	atelectases	0.037015821784734726
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03700366988778114
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0362323522567749
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.034795764833688736
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0340067483484745
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03356859087944031
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03342366963624954
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03332607075572014
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.033259157091379166
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03302815929055214
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03237299993634224
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.032048825174570084
+trial_1	placebo	100	KG00097815	alopecias	0.031280916184186935
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030171262100338936
+trial_1	placebo	121	KG00099190	haemorrhage	0.029824327677488327
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02932356856763363
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.029174091294407845
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02896423637866974
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02887733094394207
+trial_1	placebo	154	KG00099686	Lymphopenias	0.028720509260892868
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028688788414001465
+trial_1	placebo	102	KG00097916	anxieties	0.02851366251707077
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02850344218313694
+trial_1	placebo	282	KG00099309	hypernatraemia	0.028070800006389618
+trial_1	placebo	262	KG00101199	agitation	0.027861878275871277
+trial_1	placebo	234	KG00098669	dysgeusias	0.02770709991455078
+trial_1	placebo	269	KG00100399	pyaemia	0.02764645591378212
+trial_1	placebo	164	KG00108827	ileus colon	0.027146978303790092
+trial_1	placebo	132	KG00101045	Gain, Weight	0.025809574872255325
+trial_1	placebo	116	KG00098964	Pain in foot	0.025473076850175858
+trial_1	placebo	186	KG00101431	creatinine increased	0.025103548541665077
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.025013893842697144
+trial_1	placebo	82	KG00097697	abdomen distended	0.024903737008571625
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.024393761530518532
+trial_1	placebo	466	KG00101205	fall	0.02374936267733574
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02366822399199009
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.023506885394454002
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02254517748951912
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022179143503308296
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022141527384519577
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.022065216675400734
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021487653255462646
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0210125595331192
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.0208009984344244
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.020797016099095345
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02073771506547928
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02071463130414486
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020621389150619507
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02025594376027584
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02006731554865837
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.020066354423761368
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01988103799521923
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.019245201721787453
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.019151153042912483
+trial_1	placebo	339	KG00100334	proteinurias	0.0190439373254776
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.018899668008089066
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.018726227805018425
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018710171803832054
+trial_2	tiaprofenic acid	87	KG00098599	diarrhoea	0.15364503860473633
+trial_2	tiaprofenic acid	78	KG00099326	Hypertensive diseases	0.13150136172771454
+trial_2	tiaprofenic acid	17	KG00097991	Asthenia NOS	0.10065951198339462
+trial_2	tiaprofenic acid	177	KG00099299	hyperglycaemia	0.0965203270316124
+trial_2	tiaprofenic acid	123	KG00099351	hypokalaemia	0.09533646702766418
+trial_2	tiaprofenic acid	173	KG00098172	Bronchopneumonia NOS	0.08313222974538803
+trial_2	tiaprofenic acid	9	KG00098432	Confusion NOS	0.07885961979627609
+trial_2	tiaprofenic acid	20	KG00098540	dehydration	0.07865022867918015
+trial_2	tiaprofenic acid	21	KG00098675	dyspnoea	0.07752583920955658
+trial_2	tiaprofenic acid	189	KG00101580	Alanine aminotransferase increase	0.07493963837623596
+trial_2	tiaprofenic acid	37	KG00097696	Cramps, Abdominal	0.07020430266857147
+trial_2	tiaprofenic acid	46	KG00099121	Headache NOS	0.07005983591079712
+trial_2	tiaprofenic acid	49	KG00099902	nausea with vomiting	0.06964702904224396
+trial_2	tiaprofenic acid	188	KG00101579	Aspartate aminotransferase increase	0.06891851872205734
+trial_2	tiaprofenic acid	68	KG00099901	nauseas	0.06769831478595734
+trial_2	tiaprofenic acid	228	KG00114657	Weight below normal	0.06356709450483322
+trial_2	tiaprofenic acid	67	KG00098673	Dyspepsia, NOS	0.06173808127641678
+trial_2	tiaprofenic acid	14	KG00097852	Anemia NOS	0.061428651213645935
+trial_2	tiaprofenic acid	64	KG00097734	Acrodermatitis, NOS	0.06115993857383728
+trial_2	tiaprofenic acid	2	KG00100772	thrombocytopaenia	0.059529975056648254
+trial_2	tiaprofenic acid	79	KG00100317	Insomnia, Primary	0.05835394933819771
+trial_2	tiaprofenic acid	200	KG00098539	Disorders, Deglutition	0.05646152421832085
+trial_2	tiaprofenic acid	114	KG00098933	fevers	0.05468318611383438
+trial_2	tiaprofenic acid	350	KG00106765	decreased platelet count	0.05405586585402489
+trial_2	tiaprofenic acid	77	KG00098450	Constipation NOS	0.0532212108373642
+trial_2	tiaprofenic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05156956985592842
+trial_2	tiaprofenic acid	72	KG00103771	myalgias	0.049792103469371796
+trial_2	tiaprofenic acid	126	KG00100076	Pain NOS	0.04959750548005104
+trial_2	tiaprofenic acid	29	KG00099354	hyponatraemia	0.04826769232749939
+trial_2	tiaprofenic acid	5	KG00099169	haematuria	0.04549626260995865
+trial_2	tiaprofenic acid	101	KG00097901	Anorexia NOS	0.04515254124999046
+trial_2	tiaprofenic acid	86	KG00098565	Depression, Mental	0.04465409368276596
+trial_2	tiaprofenic acid	85	KG00098474	coughs	0.0438259094953537
+trial_2	tiaprofenic acid	239	KG00100128	pareses	0.04104403778910637
+trial_2	tiaprofenic acid	179	KG00099342	hypocalcaemia	0.04090321809053421
+trial_2	tiaprofenic acid	104	KG00097963	arthralgias	0.040698159486055374
+trial_2	tiaprofenic acid	122	KG00099321	Hypersensitivity NOS	0.04038110375404358
+trial_2	tiaprofenic acid	243	KG00100947	Micturition frequency increased	0.03983289375901222
+trial_2	tiaprofenic acid	151	KG00098274	Infarction, Cerebral	0.03968937695026398
+trial_2	tiaprofenic acid	61	KG00099501	Chronic Kidney Failure	0.039048418402671814
+trial_2	tiaprofenic acid	96	KG00101679	Unattended death NOS	0.03899866342544556
+trial_2	tiaprofenic acid	194	KG00110727	Neutrophil Count Decreased	0.03864292800426483
+trial_2	tiaprofenic acid	147	KG00098000	atelectases	0.037015821784734726
+trial_2	tiaprofenic acid	76	KG00100450	Respiratory insufficiency, NOS	0.03700366988778114
+trial_2	tiaprofenic acid	180	KG00099363	Hypotension NOS	0.0362323522567749
+trial_2	tiaprofenic acid	27	KG00099303	hyperkalaemia	0.034795764833688736
+trial_2	tiaprofenic acid	261	KG00101559	raised alkaline phosphatase	0.0340067483484745
+trial_2	tiaprofenic acid	144	KG00099610	Leukopenia NOS	0.03356859087944031
+trial_2	tiaprofenic acid	1	KG00099959	Neutropenia NOS	0.03342366963624954
+trial_2	tiaprofenic acid	28	KG00099347	hypoglycaemia	0.03332607075572014
+trial_2	tiaprofenic acid	396	KG00100373	Embolism, Pulmonary	0.033259157091379166
+trial_2	tiaprofenic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.03302815929055214
+trial_2	tiaprofenic acid	139	KG00098855	Sinusitis, Ethmoid	0.03237299993634224
+trial_2	tiaprofenic acid	38	KG00098066	Binocular vision disorders	0.032048825174570084
+trial_2	tiaprofenic acid	100	KG00097815	alopecias	0.031280916184186935
+trial_2	tiaprofenic acid	30	KG00099500	Acute Kidney Failure	0.030171262100338936
+trial_2	tiaprofenic acid	121	KG00099190	haemorrhage	0.029824327677488327
+trial_2	tiaprofenic acid	355	KG00110857	lymphocyte count decreased	0.02932356856763363
+trial_2	tiaprofenic acid	276	KG00099127	Arrest, Cardiac	0.029174091294407845
+trial_2	tiaprofenic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.02896423637866974
+trial_2	tiaprofenic acid	18	KG00098307	Pain, Chest	0.02887733094394207
+trial_2	tiaprofenic acid	154	KG00099686	Lymphopenias	0.028720509260892868
+trial_2	tiaprofenic acid	191	KG00104055	Biliverdin increased	0.028688788414001465
+trial_2	tiaprofenic acid	102	KG00097916	anxieties	0.02851366251707077
+trial_2	tiaprofenic acid	249	KG00104430	hypoalbuminaemia	0.02850344218313694
+trial_2	tiaprofenic acid	282	KG00099309	hypernatraemia	0.028070800006389618
+trial_2	tiaprofenic acid	262	KG00101199	agitation	0.027861878275871277
+trial_2	tiaprofenic acid	234	KG00098669	dysgeusias	0.02770709991455078
+trial_2	tiaprofenic acid	269	KG00100399	pyaemia	0.02764645591378212
+trial_2	tiaprofenic acid	164	KG00108827	ileus colon	0.027146978303790092
+trial_2	tiaprofenic acid	132	KG00101045	Gain, Weight	0.025809574872255325
+trial_2	tiaprofenic acid	116	KG00098964	Pain in foot	0.025473076850175858
+trial_2	tiaprofenic acid	186	KG00101431	creatinine increased	0.025103548541665077
+trial_2	tiaprofenic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.025013893842697144
+trial_2	tiaprofenic acid	82	KG00097697	abdomen distended	0.024903737008571625
+trial_2	tiaprofenic acid	69	KG00100082	Palpitations NOS	0.024393761530518532
+trial_2	tiaprofenic acid	466	KG00101205	fall	0.02374936267733574
+trial_2	tiaprofenic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.02366822399199009
+trial_2	tiaprofenic acid	341	KG00101472	Gamma-glutamyltransferase increased	0.023506885394454002
+trial_2	tiaprofenic acid	441	KG00098262	cellulitis nos	0.02254517748951912
+trial_2	tiaprofenic acid	130	KG00100683	Stomatitis NOS	0.022179143503308296
+trial_2	tiaprofenic acid	508	KG00108565	blood glucose increased	0.022141527384519577
+trial_2	tiaprofenic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.022065216675400734
+trial_2	tiaprofenic acid	35	KG00101507	hypomagnesaemia	0.021487653255462646
+trial_2	tiaprofenic acid	92	KG00100926	Infections, Upper Respiratory	0.0210125595331192
+trial_2	tiaprofenic acid	204	KG00098849	Esophagitis, Peptic	0.0208009984344244
+trial_2	tiaprofenic acid	36	KG00106434	Vision, Blurring Of	0.020797016099095345
+trial_2	tiaprofenic acid	422	KG00101429	Creatine phosphokinase increased	0.02073771506547928
+trial_2	tiaprofenic acid	33	KG00100094	Pancreatitis NOS	0.02071463130414486
+trial_2	tiaprofenic acid	361	KG00098004	Fibrillation, Atrial	0.020621389150619507
+trial_2	tiaprofenic acid	356	KG00112623	Infectious Lung Disorders	0.02025594376027584
+trial_2	tiaprofenic acid	286	KG00101110	Retention, Urinary	0.02006731554865837
+trial_2	tiaprofenic acid	288	KG00101223	hypophosphataemia	0.020066354423761368
+trial_2	tiaprofenic acid	371	KG00098517	Cystitis (NOS)	0.01988103799521923
+trial_2	tiaprofenic acid	246	KG00103338	Aspartate Aminotransferase Measurement	0.019245201721787453
+trial_2	tiaprofenic acid	213	KG00100600	Infectious Skin Diseases	0.019151153042912483
+trial_2	tiaprofenic acid	339	KG00100334	proteinurias	0.0190439373254776
+trial_2	tiaprofenic acid	22	KG00098705	Edema (NOS)	0.018899668008089066
+trial_2	tiaprofenic acid	254	KG00100774	Thrombosis NOS	0.018726227805018425
+trial_2	tiaprofenic acid	211	KG00100341	Pruritus NOS	0.018710171803832054

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15754835307598114
+trial_1	placebo	87	KG00098599	diarrhoea	0.15500785410404205
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1180885061621666
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11648258566856384
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11460453271865845
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10248685628175735
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09688509255647659
+trial_1	placebo	68	KG00099901	nauseas	0.08739359676837921
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08617176860570908
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08507461845874786
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08266694843769073
+trial_1	placebo	21	KG00098675	dyspnoea	0.08104931563138962
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08040543645620346
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07984813302755356
+trial_1	placebo	20	KG00098540	dehydration	0.07975200563669205
+trial_1	placebo	46	KG00099121	Headache NOS	0.07967807352542877
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07747887820005417
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06704772263765335
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06599903851747513
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06013736501336098
+trial_1	placebo	228	KG00114657	Weight below normal	0.05942501500248909
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0576116144657135
+trial_1	placebo	104	KG00097963	arthralgias	0.05695004016160965
+trial_1	placebo	114	KG00098933	fevers	0.05502993240952492
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05406297370791435
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05374972149729729
+trial_1	placebo	126	KG00100076	Pain NOS	0.05198776721954346
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05173315107822418
+trial_1	placebo	239	KG00100128	pareses	0.05075644701719284
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.050312355160713196
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04960664361715317
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.048914335668087006
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04784387722611427
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04743477329611778
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04468274116516113
+trial_1	placebo	85	KG00098474	coughs	0.044623102992773056
+trial_1	placebo	102	KG00097916	anxieties	0.04241432249546051
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.042368534952402115
+trial_1	placebo	5	KG00099169	haematuria	0.04191712662577629
+trial_1	placebo	72	KG00103771	myalgias	0.04149309918284416
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.041050318628549576
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.040901556611061096
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04083694517612457
+trial_1	placebo	466	KG00101205	fall	0.03998827189207077
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03994627669453621
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.039488669484853745
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03847106173634529
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.038215700536966324
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.036692846566438675
+trial_1	placebo	262	KG00101199	agitation	0.03640443831682205
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03581823781132698
+trial_1	placebo	116	KG00098964	Pain in foot	0.03550706431269646
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.035086192190647125
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.034496206790208817
+trial_1	placebo	147	KG00098000	atelectases	0.03433608263731003
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03410930931568146
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03387587144970894
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0336885005235672
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03256611153483391
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03201726824045181
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03080172650516033
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.0306182112544775
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.030146360397338867
+trial_1	placebo	66	KG00098642	drowsiness	0.029351696372032166
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.029012193903326988
+trial_1	placebo	269	KG00100399	pyaemia	0.028740976005792618
+trial_1	placebo	282	KG00099309	hypernatraemia	0.028525467962026596
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02849901281297207
+trial_1	placebo	82	KG00097697	abdomen distended	0.02841649018228054
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028220372274518013
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.028090087696909904
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027938123792409897
+trial_1	placebo	242	KG00100855	tremors	0.027404626831412315
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027235887944698334
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02694353461265564
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026934228837490082
+trial_1	placebo	154	KG00099686	Lymphopenias	0.026533516123890877
+trial_1	placebo	300	KG00101064	xerostomia	0.02599560283124447
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.025943074375391006
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025587109848856926
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.025192994624376297
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02507500909268856
+trial_1	placebo	456	KG00099420	Influenzae	0.02507052756845951
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.024733586236834526
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024639682844281197
+trial_1	placebo	234	KG00098669	dysgeusias	0.024539964273571968
+trial_1	placebo	100	KG00097815	alopecias	0.024463126435875893
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02441098727285862
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.024199219420552254
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02419653907418251
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024011537432670593
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.023666836321353912
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02357073873281479
+trial_1	placebo	164	KG00108827	ileus colon	0.0235357116907835
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.023497620597481728
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.023472219705581665
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022961746901273727
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02295920066535473
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022951271384954453
+trial_1	placebo	186	KG00101431	creatinine increased	0.02244488336145878
+trial_2	tolfenamic acid	78	KG00099326	Hypertensive diseases	0.15754835307598114
+trial_2	tolfenamic acid	87	KG00098599	diarrhoea	0.15500785410404205
+trial_2	tolfenamic acid	9	KG00098432	Confusion NOS	0.1180885061621666
+trial_2	tolfenamic acid	17	KG00097991	Asthenia NOS	0.11648258566856384
+trial_2	tolfenamic acid	173	KG00098172	Bronchopneumonia NOS	0.11460453271865845
+trial_2	tolfenamic acid	177	KG00099299	hyperglycaemia	0.10248685628175735
+trial_2	tolfenamic acid	189	KG00101580	Alanine aminotransferase increase	0.09688509255647659
+trial_2	tolfenamic acid	68	KG00099901	nauseas	0.08739359676837921
+trial_2	tolfenamic acid	123	KG00099351	hypokalaemia	0.08617176860570908
+trial_2	tolfenamic acid	79	KG00100317	Insomnia, Primary	0.08507461845874786
+trial_2	tolfenamic acid	64	KG00097734	Acrodermatitis, NOS	0.08266694843769073
+trial_2	tolfenamic acid	21	KG00098675	dyspnoea	0.08104931563138962
+trial_2	tolfenamic acid	49	KG00099902	nausea with vomiting	0.08040543645620346
+trial_2	tolfenamic acid	188	KG00101579	Aspartate aminotransferase increase	0.07984813302755356
+trial_2	tolfenamic acid	20	KG00098540	dehydration	0.07975200563669205
+trial_2	tolfenamic acid	46	KG00099121	Headache NOS	0.07967807352542877
+trial_2	tolfenamic acid	77	KG00098450	Constipation NOS	0.07747887820005417
+trial_2	tolfenamic acid	67	KG00098673	Dyspepsia, NOS	0.06704772263765335
+trial_2	tolfenamic acid	37	KG00097696	Cramps, Abdominal	0.06599903851747513
+trial_2	tolfenamic acid	200	KG00098539	Disorders, Deglutition	0.06013736501336098
+trial_2	tolfenamic acid	228	KG00114657	Weight below normal	0.05942501500248909
+trial_2	tolfenamic acid	86	KG00098565	Depression, Mental	0.0576116144657135
+trial_2	tolfenamic acid	104	KG00097963	arthralgias	0.05695004016160965
+trial_2	tolfenamic acid	114	KG00098933	fevers	0.05502993240952492
+trial_2	tolfenamic acid	29	KG00099354	hyponatraemia	0.05406297370791435
+trial_2	tolfenamic acid	14	KG00097852	Anemia NOS	0.05374972149729729
+trial_2	tolfenamic acid	126	KG00100076	Pain NOS	0.05198776721954346
+trial_2	tolfenamic acid	151	KG00098274	Infarction, Cerebral	0.05173315107822418
+trial_2	tolfenamic acid	239	KG00100128	pareses	0.05075644701719284
+trial_2	tolfenamic acid	101	KG00097901	Anorexia NOS	0.050312355160713196
+trial_2	tolfenamic acid	243	KG00100947	Micturition frequency increased	0.04960664361715317
+trial_2	tolfenamic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.048914335668087006
+trial_2	tolfenamic acid	76	KG00100450	Respiratory insufficiency, NOS	0.04784387722611427
+trial_2	tolfenamic acid	132	KG00101045	Gain, Weight	0.04743477329611778
+trial_2	tolfenamic acid	350	KG00106765	decreased platelet count	0.04468274116516113
+trial_2	tolfenamic acid	85	KG00098474	coughs	0.044623102992773056
+trial_2	tolfenamic acid	102	KG00097916	anxieties	0.04241432249546051
+trial_2	tolfenamic acid	180	KG00099363	Hypotension NOS	0.042368534952402115
+trial_2	tolfenamic acid	5	KG00099169	haematuria	0.04191712662577629
+trial_2	tolfenamic acid	72	KG00103771	myalgias	0.04149309918284416
+trial_2	tolfenamic acid	28	KG00099347	hypoglycaemia	0.041050318628549576
+trial_2	tolfenamic acid	61	KG00099501	Chronic Kidney Failure	0.040901556611061096
+trial_2	tolfenamic acid	96	KG00101679	Unattended death NOS	0.04083694517612457
+trial_2	tolfenamic acid	466	KG00101205	fall	0.03998827189207077
+trial_2	tolfenamic acid	179	KG00099342	hypocalcaemia	0.03994627669453621
+trial_2	tolfenamic acid	27	KG00099303	hyperkalaemia	0.039488669484853745
+trial_2	tolfenamic acid	139	KG00098855	Sinusitis, Ethmoid	0.03847106173634529
+trial_2	tolfenamic acid	38	KG00098066	Binocular vision disorders	0.038215700536966324
+trial_2	tolfenamic acid	30	KG00099500	Acute Kidney Failure	0.036692846566438675
+trial_2	tolfenamic acid	262	KG00101199	agitation	0.03640443831682205
+trial_2	tolfenamic acid	2	KG00100772	thrombocytopaenia	0.03581823781132698
+trial_2	tolfenamic acid	116	KG00098964	Pain in foot	0.03550706431269646
+trial_2	tolfenamic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.035086192190647125
+trial_2	tolfenamic acid	122	KG00099321	Hypersensitivity NOS	0.034496206790208817
+trial_2	tolfenamic acid	147	KG00098000	atelectases	0.03433608263731003
+trial_2	tolfenamic acid	355	KG00110857	lymphocyte count decreased	0.03410930931568146
+trial_2	tolfenamic acid	194	KG00110727	Neutrophil Count Decreased	0.03387587144970894
+trial_2	tolfenamic acid	36	KG00106434	Vision, Blurring Of	0.0336885005235672
+trial_2	tolfenamic acid	261	KG00101559	raised alkaline phosphatase	0.03256611153483391
+trial_2	tolfenamic acid	341	KG00101472	Gamma-glutamyltransferase increased	0.03201726824045181
+trial_2	tolfenamic acid	396	KG00100373	Embolism, Pulmonary	0.03080172650516033
+trial_2	tolfenamic acid	422	KG00101429	Creatine phosphokinase increased	0.0306182112544775
+trial_2	tolfenamic acid	211	KG00100341	Pruritus NOS	0.030146360397338867
+trial_2	tolfenamic acid	66	KG00098642	drowsiness	0.029351696372032166
+trial_2	tolfenamic acid	92	KG00100926	Infections, Upper Respiratory	0.029012193903326988
+trial_2	tolfenamic acid	269	KG00100399	pyaemia	0.028740976005792618
+trial_2	tolfenamic acid	282	KG00099309	hypernatraemia	0.028525467962026596
+trial_2	tolfenamic acid	441	KG00098262	cellulitis nos	0.02849901281297207
+trial_2	tolfenamic acid	82	KG00097697	abdomen distended	0.02841649018228054
+trial_2	tolfenamic acid	191	KG00104055	Biliverdin increased	0.028220372274518013
+trial_2	tolfenamic acid	69	KG00100082	Palpitations NOS	0.028090087696909904
+trial_2	tolfenamic acid	18	KG00098307	Pain, Chest	0.027938123792409897
+trial_2	tolfenamic acid	242	KG00100855	tremors	0.027404626831412315
+trial_2	tolfenamic acid	361	KG00098004	Fibrillation, Atrial	0.027235887944698334
+trial_2	tolfenamic acid	276	KG00099127	Arrest, Cardiac	0.02694353461265564
+trial_2	tolfenamic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.026934228837490082
+trial_2	tolfenamic acid	154	KG00099686	Lymphopenias	0.026533516123890877
+trial_2	tolfenamic acid	300	KG00101064	xerostomia	0.02599560283124447
+trial_2	tolfenamic acid	33	KG00100094	Pancreatitis NOS	0.025943074375391006
+trial_2	tolfenamic acid	221	KG00101207	peripheral oedema	0.025587109848856926
+trial_2	tolfenamic acid	204	KG00098849	Esophagitis, Peptic	0.025192994624376297
+trial_2	tolfenamic acid	297	KG00099294	hypercholesterolaemia	0.02507500909268856
+trial_2	tolfenamic acid	456	KG00099420	Influenzae	0.02507052756845951
+trial_2	tolfenamic acid	286	KG00101110	Retention, Urinary	0.024733586236834526
+trial_2	tolfenamic acid	508	KG00108565	blood glucose increased	0.024639682844281197
+trial_2	tolfenamic acid	234	KG00098669	dysgeusias	0.024539964273571968
+trial_2	tolfenamic acid	100	KG00097815	alopecias	0.024463126435875893
+trial_2	tolfenamic acid	256	KG00100738	Tachycardia, Sinus	0.02441098727285862
+trial_2	tolfenamic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.024199219420552254
+trial_2	tolfenamic acid	118	KG00099011	Gastritis NOS	0.02419653907418251
+trial_2	tolfenamic acid	249	KG00104430	hypoalbuminaemia	0.024011537432670593
+trial_2	tolfenamic acid	31	KG00099872	Infarction, Myocardial	0.023666836321353912
+trial_2	tolfenamic acid	35	KG00101507	hypomagnesaemia	0.02357073873281479
+trial_2	tolfenamic acid	164	KG00108827	ileus colon	0.0235357116907835
+trial_2	tolfenamic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.023497620597481728
+trial_2	tolfenamic acid	15	KG00097882	Angina pectoris NOS	0.023472219705581665
+trial_2	tolfenamic acid	144	KG00099610	Leukopenia NOS	0.022961746901273727
+trial_2	tolfenamic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.02295920066535473
+trial_2	tolfenamic acid	288	KG00101223	hypophosphataemia	0.022951271384954453
+trial_2	tolfenamic acid	186	KG00101431	creatinine increased	0.02244488336145878

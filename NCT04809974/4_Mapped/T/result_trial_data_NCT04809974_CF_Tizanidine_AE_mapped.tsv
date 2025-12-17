@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1730477660894394
+trial_1	placebo	87	KG00098599	diarrhoea	0.13010667264461517
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11250576376914978
+trial_1	placebo	68	KG00099901	nauseas	0.09715615212917328
+trial_1	placebo	46	KG00099121	Headache NOS	0.08580062538385391
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08338519185781479
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08110912144184113
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0768624022603035
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07318072766065598
+trial_1	placebo	20	KG00098540	dehydration	0.06943938136100769
+trial_1	placebo	21	KG00098675	dyspnoea	0.06742777675390244
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06327709555625916
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06165989115834236
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05751735344529152
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05090952292084694
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04866429418325424
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04667464643716812
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0464889258146286
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.044133711606264114
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04186682775616646
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.041138432919979095
+trial_1	placebo	228	KG00114657	Weight below normal	0.03929366543889046
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03755689412355423
+trial_1	placebo	126	KG00100076	Pain NOS	0.037479691207408905
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03656664490699768
+trial_1	placebo	114	KG00098933	fevers	0.03630707785487175
+trial_1	placebo	239	KG00100128	pareses	0.035514283925294876
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.035315319895744324
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03495729714632034
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03482235223054886
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0341346338391304
+trial_1	placebo	86	KG00098565	Depression, Mental	0.033560991287231445
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03331296890974045
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03326920419931412
+trial_1	placebo	66	KG00098642	drowsiness	0.03283674269914627
+trial_1	placebo	85	KG00098474	coughs	0.03244331479072571
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.032145410776138306
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03027256764471531
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.029963122680783272
+trial_1	placebo	104	KG00097963	arthralgias	0.02962380088865757
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02918853424489498
+trial_1	placebo	102	KG00097916	anxieties	0.028582151979207993
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02776479721069336
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02712789922952652
+trial_1	placebo	466	KG00101205	fall	0.026979481801390648
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.026131482794880867
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.025948546826839447
+trial_1	placebo	116	KG00098964	Pain in foot	0.0258542001247406
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025824852287769318
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.025186438113451004
+trial_1	placebo	269	KG00100399	pyaemia	0.024991121143102646
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02453620918095112
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.024415161460638046
+trial_1	placebo	300	KG00101064	xerostomia	0.024317488074302673
+trial_1	placebo	350	KG00106765	decreased platelet count	0.023622088134288788
+trial_1	placebo	5	KG00099169	haematuria	0.023578647524118423
+trial_1	placebo	234	KG00098669	dysgeusias	0.02330652065575123
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.023205408826470375
+trial_1	placebo	82	KG00097697	abdomen distended	0.022893093526363373
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022355739027261734
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02185874432325363
+trial_1	placebo	147	KG00098000	atelectases	0.021314559504389763
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02085866592824459
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.020738111808896065
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020474661141633987
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020134299993515015
+trial_1	placebo	72	KG00103771	myalgias	0.019914912059903145
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019508693367242813
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019456032663583755
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0194257702678442
+trial_1	placebo	262	KG00101199	agitation	0.019265515729784966
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019008560106158257
+trial_1	placebo	164	KG00108827	ileus colon	0.018978137522935867
+trial_1	placebo	11	KG00097993	Asthma NOS	0.017737463116645813
+trial_1	placebo	132	KG00101045	Gain, Weight	0.017725661396980286
+trial_1	placebo	242	KG00100855	tremors	0.01763712614774704
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016811976209282875
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01673390343785286
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.016674496233463287
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.016600267961621284
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.016099663451313972
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01605372130870819
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.015852151438593864
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015623476356267929
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.015623131766915321
+trial_1	placebo	25	KG00099134	congestive failures heart	0.015594308264553547
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.015544259920716286
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.015308712609112263
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.015036801807582378
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014990479685366154
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.014846643432974815
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.014723321422934532
+trial_1	placebo	203	KG00098661	dysarthrias	0.01465050783008337
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01410467829555273
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.014087456278502941
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014059937559068203
+trial_1	placebo	456	KG00099420	Influenzae	0.014025752432644367
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.013993654400110245
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.013860095292329788
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.013745876029133797
+trial_2	tizanidine	9	KG00098432	Confusion NOS	0.1730477660894394
+trial_2	tizanidine	87	KG00098599	diarrhoea	0.13010667264461517
+trial_2	tizanidine	17	KG00097991	Asthenia NOS	0.11250576376914978
+trial_2	tizanidine	68	KG00099901	nauseas	0.09715615212917328
+trial_2	tizanidine	46	KG00099121	Headache NOS	0.08580062538385391
+trial_2	tizanidine	49	KG00099902	nausea with vomiting	0.08338519185781479
+trial_2	tizanidine	78	KG00099326	Hypertensive diseases	0.08110912144184113
+trial_2	tizanidine	173	KG00098172	Bronchopneumonia NOS	0.0768624022603035
+trial_2	tizanidine	77	KG00098450	Constipation NOS	0.07318072766065598
+trial_2	tizanidine	20	KG00098540	dehydration	0.06943938136100769
+trial_2	tizanidine	21	KG00098675	dyspnoea	0.06742777675390244
+trial_2	tizanidine	123	KG00099351	hypokalaemia	0.06327709555625916
+trial_2	tizanidine	177	KG00099299	hyperglycaemia	0.06165989115834236
+trial_2	tizanidine	79	KG00100317	Insomnia, Primary	0.05751735344529152
+trial_2	tizanidine	67	KG00098673	Dyspepsia, NOS	0.05090952292084694
+trial_2	tizanidine	37	KG00097696	Cramps, Abdominal	0.04866429418325424
+trial_2	tizanidine	14	KG00097852	Anemia NOS	0.04667464643716812
+trial_2	tizanidine	180	KG00099363	Hypotension NOS	0.0464889258146286
+trial_2	tizanidine	151	KG00098274	Infarction, Cerebral	0.044133711606264114
+trial_2	tizanidine	200	KG00098539	Disorders, Deglutition	0.04186682775616646
+trial_2	tizanidine	101	KG00097901	Anorexia NOS	0.041138432919979095
+trial_2	tizanidine	228	KG00114657	Weight below normal	0.03929366543889046
+trial_2	tizanidine	64	KG00097734	Acrodermatitis, NOS	0.03755689412355423
+trial_2	tizanidine	126	KG00100076	Pain NOS	0.037479691207408905
+trial_2	tizanidine	61	KG00099501	Chronic Kidney Failure	0.03656664490699768
+trial_2	tizanidine	114	KG00098933	fevers	0.03630707785487175
+trial_2	tizanidine	239	KG00100128	pareses	0.035514283925294876
+trial_2	tizanidine	396	KG00100373	Embolism, Pulmonary	0.035315319895744324
+trial_2	tizanidine	30	KG00099500	Acute Kidney Failure	0.03495729714632034
+trial_2	tizanidine	29	KG00099354	hyponatraemia	0.03482235223054886
+trial_2	tizanidine	76	KG00100450	Respiratory insufficiency, NOS	0.0341346338391304
+trial_2	tizanidine	86	KG00098565	Depression, Mental	0.033560991287231445
+trial_2	tizanidine	18	KG00098307	Pain, Chest	0.03331296890974045
+trial_2	tizanidine	131	KG00100948	Urinary tract infection (& [NOS])	0.03326920419931412
+trial_2	tizanidine	66	KG00098642	drowsiness	0.03283674269914627
+trial_2	tizanidine	85	KG00098474	coughs	0.03244331479072571
+trial_2	tizanidine	361	KG00098004	Fibrillation, Atrial	0.032145410776138306
+trial_2	tizanidine	38	KG00098066	Binocular vision disorders	0.03027256764471531
+trial_2	tizanidine	36	KG00106434	Vision, Blurring Of	0.029963122680783272
+trial_2	tizanidine	104	KG00097963	arthralgias	0.02962380088865757
+trial_2	tizanidine	75	KG00100195	Dolens, Phlegmasia Alba	0.02918853424489498
+trial_2	tizanidine	102	KG00097916	anxieties	0.028582151979207993
+trial_2	tizanidine	96	KG00101679	Unattended death NOS	0.02776479721069336
+trial_2	tizanidine	441	KG00098262	cellulitis nos	0.02712789922952652
+trial_2	tizanidine	466	KG00101205	fall	0.026979481801390648
+trial_2	tizanidine	189	KG00101580	Alanine aminotransferase increase	0.026131482794880867
+trial_2	tizanidine	28	KG00099347	hypoglycaemia	0.025948546826839447
+trial_2	tizanidine	116	KG00098964	Pain in foot	0.0258542001247406
+trial_2	tizanidine	286	KG00101110	Retention, Urinary	0.025824852287769318
+trial_2	tizanidine	2	KG00100772	thrombocytopaenia	0.025186438113451004
+trial_2	tizanidine	269	KG00100399	pyaemia	0.024991121143102646
+trial_2	tizanidine	221	KG00101207	peripheral oedema	0.02453620918095112
+trial_2	tizanidine	188	KG00101579	Aspartate aminotransferase increase	0.024415161460638046
+trial_2	tizanidine	300	KG00101064	xerostomia	0.024317488074302673
+trial_2	tizanidine	350	KG00106765	decreased platelet count	0.023622088134288788
+trial_2	tizanidine	5	KG00099169	haematuria	0.023578647524118423
+trial_2	tizanidine	234	KG00098669	dysgeusias	0.02330652065575123
+trial_2	tizanidine	15	KG00097882	Angina pectoris NOS	0.023205408826470375
+trial_2	tizanidine	82	KG00097697	abdomen distended	0.022893093526363373
+trial_2	tizanidine	69	KG00100082	Palpitations NOS	0.022355739027261734
+trial_2	tizanidine	276	KG00099127	Arrest, Cardiac	0.02185874432325363
+trial_2	tizanidine	147	KG00098000	atelectases	0.021314559504389763
+trial_2	tizanidine	204	KG00098849	Esophagitis, Peptic	0.02085866592824459
+trial_2	tizanidine	243	KG00100947	Micturition frequency increased	0.020738111808896065
+trial_2	tizanidine	31	KG00099872	Infarction, Myocardial	0.020474661141633987
+trial_2	tizanidine	139	KG00098855	Sinusitis, Ethmoid	0.020134299993515015
+trial_2	tizanidine	72	KG00103771	myalgias	0.019914912059903145
+trial_2	tizanidine	142	KG00100923	Unspecified infectious and parasitic diseases	0.019508693367242813
+trial_2	tizanidine	211	KG00100341	Pruritus NOS	0.019456032663583755
+trial_2	tizanidine	27	KG00099303	hyperkalaemia	0.0194257702678442
+trial_2	tizanidine	262	KG00101199	agitation	0.019265515729784966
+trial_2	tizanidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019008560106158257
+trial_2	tizanidine	164	KG00108827	ileus colon	0.018978137522935867
+trial_2	tizanidine	11	KG00097993	Asthma NOS	0.017737463116645813
+trial_2	tizanidine	132	KG00101045	Gain, Weight	0.017725661396980286
+trial_2	tizanidine	242	KG00100855	tremors	0.01763712614774704
+trial_2	tizanidine	138	KG00098796	epidemic vomiting syndrome	0.016811976209282875
+trial_2	tizanidine	163	KG00104050	bowel obstructions small	0.01673390343785286
+trial_2	tizanidine	261	KG00101559	raised alkaline phosphatase	0.016674496233463287
+trial_2	tizanidine	268	KG00099557	Heart Failure, Left-Sided	0.016600267961621284
+trial_2	tizanidine	394	KG00100243	Pneumonia, Aspiration	0.016099663451313972
+trial_2	tizanidine	253	KG00100232	Pleural effusion NOS (disorder)	0.01605372130870819
+trial_2	tizanidine	22	KG00098705	Edema (NOS)	0.015852151438593864
+trial_2	tizanidine	35	KG00101507	hypomagnesaemia	0.015623476356267929
+trial_2	tizanidine	122	KG00099321	Hypersensitivity NOS	0.015623131766915321
+trial_2	tizanidine	25	KG00099134	congestive failures heart	0.015594308264553547
+trial_2	tizanidine	92	KG00100926	Infections, Upper Respiratory	0.015544259920716286
+trial_2	tizanidine	271	KG00103813	reflex bradycardia	0.015308712609112263
+trial_2	tizanidine	179	KG00099342	hypocalcaemia	0.015036801807582378
+trial_2	tizanidine	118	KG00099011	Gastritis NOS	0.014990479685366154
+trial_2	tizanidine	98	KG00097718	Incised wound, NOS	0.014846643432974815
+trial_2	tizanidine	89	KG00099301	Hyperhidrosis (disorder)	0.014723321422934532
+trial_2	tizanidine	203	KG00098661	dysarthrias	0.01465050783008337
+trial_2	tizanidine	191	KG00104055	Biliverdin increased	0.01410467829555273
+trial_2	tizanidine	366	KG00098275	Attack, Transient Ischemic	0.014087456278502941
+trial_2	tizanidine	371	KG00098517	Cystitis (NOS)	0.014059937559068203
+trial_2	tizanidine	456	KG00099420	Influenzae	0.014025752432644367
+trial_2	tizanidine	166	KG00099773	menopausal syndrome	0.013993654400110245
+trial_2	tizanidine	352	KG00107658	NON-CARDIAC CHEST PAIN	0.013860095292329788
+trial_2	tizanidine	199	KG00098371	Rhinitis (chronic) NOS	0.013745876029133797

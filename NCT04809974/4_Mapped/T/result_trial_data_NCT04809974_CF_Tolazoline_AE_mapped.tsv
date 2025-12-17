@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1967354118824005
+trial_1	placebo	87	KG00098599	diarrhoea	0.16003817319869995
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13255371153354645
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12943705916404724
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12877178192138672
+trial_1	placebo	68	KG00099901	nauseas	0.11863372474908829
+trial_1	placebo	20	KG00098540	dehydration	0.1185113936662674
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11686047911643982
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10554049164056778
+trial_1	placebo	21	KG00098675	dyspnoea	0.10132310539484024
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10061641782522202
+trial_1	placebo	46	KG00099121	Headache NOS	0.09099990874528885
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08323705941438675
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08214102685451508
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08018472790718079
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07990119606256485
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07515512406826019
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07455050945281982
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06977605819702148
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06954599916934967
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06606348603963852
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06563910096883774
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06480297446250916
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06456373631954193
+trial_1	placebo	228	KG00114657	Weight below normal	0.061786945909261703
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.061198923736810684
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05709883198142052
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.056600701063871384
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05580037459731102
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0543183833360672
+trial_1	placebo	239	KG00100128	pareses	0.05397734418511391
+trial_1	placebo	126	KG00100076	Pain NOS	0.05384174734354019
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05315684154629707
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0529891774058342
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05156630277633667
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04996674880385399
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04979480803012848
+trial_1	placebo	114	KG00098933	fevers	0.04854473099112511
+trial_1	placebo	5	KG00099169	haematuria	0.04783843830227852
+trial_1	placebo	104	KG00097963	arthralgias	0.04775563254952431
+trial_1	placebo	85	KG00098474	coughs	0.047735102474689484
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04680027440190315
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.046100035309791565
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04516267776489258
+trial_1	placebo	147	KG00098000	atelectases	0.04481213167309761
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.044625043869018555
+trial_1	placebo	164	KG00108827	ileus colon	0.04313083738088608
+trial_1	placebo	262	KG00101199	agitation	0.04285425692796707
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04104512557387352
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04031165689229965
+trial_1	placebo	269	KG00100399	pyaemia	0.03998320922255516
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.039749015122652054
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03887339308857918
+trial_1	placebo	102	KG00097916	anxieties	0.0376644991338253
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03751355782151222
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03745023533701897
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.037072550505399704
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03674207255244255
+trial_1	placebo	466	KG00101205	fall	0.03575705364346504
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03525616228580475
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03512086719274521
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03489852324128151
+trial_1	placebo	121	KG00099190	haemorrhage	0.034194961190223694
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03361647203564644
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.03302151709794998
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.033014796674251556
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03265240415930748
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03249942511320114
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.032423485070466995
+trial_1	placebo	72	KG00103771	myalgias	0.03195536881685257
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03167812153697014
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.031668517738580704
+trial_1	placebo	116	KG00098964	Pain in foot	0.03156837448477745
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.031028099358081818
+trial_1	placebo	441	KG00098262	cellulitis nos	0.030557721853256226
+trial_1	placebo	186	KG00101431	creatinine increased	0.030536670237779617
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03048180416226387
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03046790510416031
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.030440589413046837
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03020929917693138
+trial_1	placebo	508	KG00108565	blood glucose increased	0.029598068445920944
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029169782996177673
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02905970811843872
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.028925202786922455
+trial_1	placebo	82	KG00097697	abdomen distended	0.02875605970621109
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.028309602290391922
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02829669788479805
+trial_1	placebo	25	KG00099134	congestive failures heart	0.02828248217701912
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.028209606185555458
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02811550907790661
+trial_1	placebo	221	KG00101207	peripheral oedema	0.027692975476384163
+trial_1	placebo	66	KG00098642	drowsiness	0.02765214815735817
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.027237549424171448
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.027179159224033356
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.026877867057919502
+trial_1	placebo	154	KG00099686	Lymphopenias	0.026631776243448257
+trial_1	placebo	234	KG00098669	dysgeusias	0.02655096724629402
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026468465104699135
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.0258066114038229
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0257406048476696
+trial_2	tolazoline	78	KG00099326	Hypertensive diseases	0.1967354118824005
+trial_2	tolazoline	87	KG00098599	diarrhoea	0.16003817319869995
+trial_2	tolazoline	17	KG00097991	Asthenia NOS	0.13255371153354645
+trial_2	tolazoline	177	KG00099299	hyperglycaemia	0.12943705916404724
+trial_2	tolazoline	123	KG00099351	hypokalaemia	0.12877178192138672
+trial_2	tolazoline	68	KG00099901	nauseas	0.11863372474908829
+trial_2	tolazoline	20	KG00098540	dehydration	0.1185113936662674
+trial_2	tolazoline	9	KG00098432	Confusion NOS	0.11686047911643982
+trial_2	tolazoline	173	KG00098172	Bronchopneumonia NOS	0.10554049164056778
+trial_2	tolazoline	21	KG00098675	dyspnoea	0.10132310539484024
+trial_2	tolazoline	49	KG00099902	nausea with vomiting	0.10061641782522202
+trial_2	tolazoline	46	KG00099121	Headache NOS	0.09099990874528885
+trial_2	tolazoline	200	KG00098539	Disorders, Deglutition	0.08323705941438675
+trial_2	tolazoline	189	KG00101580	Alanine aminotransferase increase	0.08214102685451508
+trial_2	tolazoline	79	KG00100317	Insomnia, Primary	0.08018472790718079
+trial_2	tolazoline	77	KG00098450	Constipation NOS	0.07990119606256485
+trial_2	tolazoline	29	KG00099354	hyponatraemia	0.07515512406826019
+trial_2	tolazoline	67	KG00098673	Dyspepsia, NOS	0.07455050945281982
+trial_2	tolazoline	188	KG00101579	Aspartate aminotransferase increase	0.06977605819702148
+trial_2	tolazoline	14	KG00097852	Anemia NOS	0.06954599916934967
+trial_2	tolazoline	350	KG00106765	decreased platelet count	0.06606348603963852
+trial_2	tolazoline	76	KG00100450	Respiratory insufficiency, NOS	0.06563910096883774
+trial_2	tolazoline	180	KG00099363	Hypotension NOS	0.06480297446250916
+trial_2	tolazoline	61	KG00099501	Chronic Kidney Failure	0.06456373631954193
+trial_2	tolazoline	228	KG00114657	Weight below normal	0.061786945909261703
+trial_2	tolazoline	37	KG00097696	Cramps, Abdominal	0.061198923736810684
+trial_2	tolazoline	151	KG00098274	Infarction, Cerebral	0.05709883198142052
+trial_2	tolazoline	27	KG00099303	hyperkalaemia	0.056600701063871384
+trial_2	tolazoline	86	KG00098565	Depression, Mental	0.05580037459731102
+trial_2	tolazoline	28	KG00099347	hypoglycaemia	0.0543183833360672
+trial_2	tolazoline	239	KG00100128	pareses	0.05397734418511391
+trial_2	tolazoline	126	KG00100076	Pain NOS	0.05384174734354019
+trial_2	tolazoline	64	KG00097734	Acrodermatitis, NOS	0.05315684154629707
+trial_2	tolazoline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0529891774058342
+trial_2	tolazoline	96	KG00101679	Unattended death NOS	0.05156630277633667
+trial_2	tolazoline	30	KG00099500	Acute Kidney Failure	0.04996674880385399
+trial_2	tolazoline	179	KG00099342	hypocalcaemia	0.04979480803012848
+trial_2	tolazoline	114	KG00098933	fevers	0.04854473099112511
+trial_2	tolazoline	5	KG00099169	haematuria	0.04783843830227852
+trial_2	tolazoline	104	KG00097963	arthralgias	0.04775563254952431
+trial_2	tolazoline	85	KG00098474	coughs	0.047735102474689484
+trial_2	tolazoline	2	KG00100772	thrombocytopaenia	0.04680027440190315
+trial_2	tolazoline	276	KG00099127	Arrest, Cardiac	0.046100035309791565
+trial_2	tolazoline	243	KG00100947	Micturition frequency increased	0.04516267776489258
+trial_2	tolazoline	147	KG00098000	atelectases	0.04481213167309761
+trial_2	tolazoline	101	KG00097901	Anorexia NOS	0.044625043869018555
+trial_2	tolazoline	164	KG00108827	ileus colon	0.04313083738088608
+trial_2	tolazoline	262	KG00101199	agitation	0.04285425692796707
+trial_2	tolazoline	132	KG00101045	Gain, Weight	0.04104512557387352
+trial_2	tolazoline	18	KG00098307	Pain, Chest	0.04031165689229965
+trial_2	tolazoline	269	KG00100399	pyaemia	0.03998320922255516
+trial_2	tolazoline	131	KG00100948	Urinary tract infection (& [NOS])	0.039749015122652054
+trial_2	tolazoline	261	KG00101559	raised alkaline phosphatase	0.03887339308857918
+trial_2	tolazoline	102	KG00097916	anxieties	0.0376644991338253
+trial_2	tolazoline	122	KG00099321	Hypersensitivity NOS	0.03751355782151222
+trial_2	tolazoline	194	KG00110727	Neutrophil Count Decreased	0.03745023533701897
+trial_2	tolazoline	142	KG00100923	Unspecified infectious and parasitic diseases	0.037072550505399704
+trial_2	tolazoline	38	KG00098066	Binocular vision disorders	0.03674207255244255
+trial_2	tolazoline	466	KG00101205	fall	0.03575705364346504
+trial_2	tolazoline	31	KG00099872	Infarction, Myocardial	0.03525616228580475
+trial_2	tolazoline	396	KG00100373	Embolism, Pulmonary	0.03512086719274521
+trial_2	tolazoline	282	KG00099309	hypernatraemia	0.03489852324128151
+trial_2	tolazoline	121	KG00099190	haemorrhage	0.034194961190223694
+trial_2	tolazoline	35	KG00101507	hypomagnesaemia	0.03361647203564644
+trial_2	tolazoline	394	KG00100243	Pneumonia, Aspiration	0.03302151709794998
+trial_2	tolazoline	139	KG00098855	Sinusitis, Ethmoid	0.033014796674251556
+trial_2	tolazoline	361	KG00098004	Fibrillation, Atrial	0.03265240415930748
+trial_2	tolazoline	355	KG00110857	lymphocyte count decreased	0.03249942511320114
+trial_2	tolazoline	286	KG00101110	Retention, Urinary	0.032423485070466995
+trial_2	tolazoline	72	KG00103771	myalgias	0.03195536881685257
+trial_2	tolazoline	191	KG00104055	Biliverdin increased	0.03167812153697014
+trial_2	tolazoline	253	KG00100232	Pleural effusion NOS (disorder)	0.031668517738580704
+trial_2	tolazoline	116	KG00098964	Pain in foot	0.03156837448477745
+trial_2	tolazoline	15	KG00097882	Angina pectoris NOS	0.031028099358081818
+trial_2	tolazoline	441	KG00098262	cellulitis nos	0.030557721853256226
+trial_2	tolazoline	186	KG00101431	creatinine increased	0.030536670237779617
+trial_2	tolazoline	75	KG00100195	Dolens, Phlegmasia Alba	0.03048180416226387
+trial_2	tolazoline	144	KG00099610	Leukopenia NOS	0.03046790510416031
+trial_2	tolazoline	33	KG00100094	Pancreatitis NOS	0.030440589413046837
+trial_2	tolazoline	249	KG00104430	hypoalbuminaemia	0.03020929917693138
+trial_2	tolazoline	508	KG00108565	blood glucose increased	0.029598068445920944
+trial_2	tolazoline	69	KG00100082	Palpitations NOS	0.029169782996177673
+trial_2	tolazoline	22	KG00098705	Edema (NOS)	0.02905970811843872
+trial_2	tolazoline	204	KG00098849	Esophagitis, Peptic	0.028925202786922455
+trial_2	tolazoline	82	KG00097697	abdomen distended	0.02875605970621109
+trial_2	tolazoline	256	KG00100738	Tachycardia, Sinus	0.028309602290391922
+trial_2	tolazoline	97	KG00104198	LIVER ENZYME ELEVATED	0.02829669788479805
+trial_2	tolazoline	25	KG00099134	congestive failures heart	0.02828248217701912
+trial_2	tolazoline	288	KG00101223	hypophosphataemia	0.028209606185555458
+trial_2	tolazoline	341	KG00101472	Gamma-glutamyltransferase increased	0.02811550907790661
+trial_2	tolazoline	221	KG00101207	peripheral oedema	0.027692975476384163
+trial_2	tolazoline	66	KG00098642	drowsiness	0.02765214815735817
+trial_2	tolazoline	422	KG00101429	Creatine phosphokinase increased	0.027237549424171448
+trial_2	tolazoline	36	KG00106434	Vision, Blurring Of	0.027179159224033356
+trial_2	tolazoline	297	KG00099294	hypercholesterolaemia	0.026877867057919502
+trial_2	tolazoline	154	KG00099686	Lymphopenias	0.026631776243448257
+trial_2	tolazoline	234	KG00098669	dysgeusias	0.02655096724629402
+trial_2	tolazoline	211	KG00100341	Pruritus NOS	0.026468465104699135
+trial_2	tolazoline	163	KG00104050	bowel obstructions small	0.0258066114038229
+trial_2	tolazoline	130	KG00100683	Stomatitis NOS	0.0257406048476696

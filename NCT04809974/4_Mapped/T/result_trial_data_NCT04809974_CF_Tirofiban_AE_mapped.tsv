@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14128898084163666
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10042636841535568
+trial_1	placebo	46	KG00099121	Headache NOS	0.09442321211099625
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07754526287317276
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07183083891868591
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06323878467082977
+trial_1	placebo	121	KG00099190	haemorrhage	0.06209331378340721
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05804819613695145
+trial_1	placebo	21	KG00098675	dyspnoea	0.05391786992549896
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.053610946983098984
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05164840817451477
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0515965037047863
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04907706379890442
+trial_1	placebo	104	KG00097963	arthralgias	0.047634951770305634
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0468854084610939
+trial_1	placebo	20	KG00098540	dehydration	0.046622682362794876
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04502866417169571
+trial_1	placebo	68	KG00099901	nauseas	0.04439563304185867
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.041113875806331635
+trial_1	placebo	147	KG00098000	atelectases	0.039182744920253754
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03855331614613533
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03768099099397659
+trial_1	placebo	5	KG00099169	haematuria	0.03722761571407318
+trial_1	placebo	85	KG00098474	coughs	0.03713233396410942
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.037059664726257324
+trial_1	placebo	114	KG00098933	fevers	0.0369168221950531
+trial_1	placebo	126	KG00100076	Pain NOS	0.03625885397195816
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03594932332634926
+trial_1	placebo	228	KG00114657	Weight below normal	0.03568117693066597
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03466600179672241
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03447505086660385
+trial_1	placebo	77	KG00098450	Constipation NOS	0.034164492040872574
+trial_1	placebo	350	KG00106765	decreased platelet count	0.032552678138017654
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.032201386988162994
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.032048702239990234
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03148810938000679
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03147922456264496
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.031026579439640045
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.031010692939162254
+trial_1	placebo	257	KG00100922	Erythema NOS	0.03057020530104637
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.029619278386235237
+trial_1	placebo	72	KG00103771	myalgias	0.029484953731298447
+trial_1	placebo	4	KG00098817	epistaxis	0.029048532247543335
+trial_1	placebo	14	KG00097852	Anemia NOS	0.028469011187553406
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.028382426127791405
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02792963758111
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02787427417933941
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02705102413892746
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026199398562312126
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02554188296198845
+trial_1	placebo	239	KG00100128	pareses	0.024780679494142532
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.024448780342936516
+trial_1	placebo	116	KG00098964	Pain in foot	0.024337168782949448
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.023646404966711998
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02349134162068367
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022484274581074715
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.022480176761746407
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.022274697199463844
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022047212347388268
+trial_1	placebo	339	KG00100334	proteinurias	0.02183331735432148
+trial_1	placebo	86	KG00098565	Depression, Mental	0.021820906549692154
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021556291729211807
+trial_1	placebo	82	KG00097697	abdomen distended	0.020911309868097305
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02036154270172119
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.020261727273464203
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.0202002115547657
+trial_1	placebo	136	KG00101582	Dry;skin	0.020081868395209312
+trial_1	placebo	269	KG00100399	pyaemia	0.019331978633999825
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01931951940059662
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01838982105255127
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01826133392751217
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017953980714082718
+trial_1	placebo	382	KG00099200	haemorrhoids	0.017797201871871948
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.017664194107055664
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01760490983724594
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017389485612511635
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.017364082857966423
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.017320526763796806
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01731122098863125
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.017252283170819283
+trial_1	placebo	503	KG00102612	low haemoglobin	0.017097774893045425
+trial_1	placebo	102	KG00097916	anxieties	0.01705707237124443
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.016996260732412338
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.016865592449903488
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01674950122833252
+trial_1	placebo	618	KG00099164	haematoma	0.016599146649241447
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.016432253643870354
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01623457483947277
+trial_1	placebo	441	KG00098262	cellulitis nos	0.016093796119093895
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.016007471829652786
+trial_1	placebo	212	KG00100576	shivers	0.0157508235424757
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.015673907473683357
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.015602991916239262
+trial_1	placebo	71	KG00100958	urticarias	0.01545899547636509
+trial_1	placebo	466	KG00101205	fall	0.0153818279504776
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015227270312607288
+trial_1	placebo	164	KG00108827	ileus colon	0.015218198299407959
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01515171118080616
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015008275397121906
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.015007042326033115
+trial_2	tirofiban	87	KG00098599	diarrhoea	0.14128898084163666
+trial_2	tirofiban	78	KG00099326	Hypertensive diseases	0.10042636841535568
+trial_2	tirofiban	46	KG00099121	Headache NOS	0.09442321211099625
+trial_2	tirofiban	123	KG00099351	hypokalaemia	0.07754526287317276
+trial_2	tirofiban	64	KG00097734	Acrodermatitis, NOS	0.07183083891868591
+trial_2	tirofiban	9	KG00098432	Confusion NOS	0.06323878467082977
+trial_2	tirofiban	121	KG00099190	haemorrhage	0.06209331378340721
+trial_2	tirofiban	67	KG00098673	Dyspepsia, NOS	0.05804819613695145
+trial_2	tirofiban	21	KG00098675	dyspnoea	0.05391786992549896
+trial_2	tirofiban	173	KG00098172	Bronchopneumonia NOS	0.053610946983098984
+trial_2	tirofiban	177	KG00099299	hyperglycaemia	0.05164840817451477
+trial_2	tirofiban	17	KG00097991	Asthenia NOS	0.0515965037047863
+trial_2	tirofiban	49	KG00099902	nausea with vomiting	0.04907706379890442
+trial_2	tirofiban	104	KG00097963	arthralgias	0.047634951770305634
+trial_2	tirofiban	189	KG00101580	Alanine aminotransferase increase	0.0468854084610939
+trial_2	tirofiban	20	KG00098540	dehydration	0.046622682362794876
+trial_2	tirofiban	37	KG00097696	Cramps, Abdominal	0.04502866417169571
+trial_2	tirofiban	68	KG00099901	nauseas	0.04439563304185867
+trial_2	tirofiban	188	KG00101579	Aspartate aminotransferase increase	0.041113875806331635
+trial_2	tirofiban	147	KG00098000	atelectases	0.039182744920253754
+trial_2	tirofiban	200	KG00098539	Disorders, Deglutition	0.03855331614613533
+trial_2	tirofiban	18	KG00098307	Pain, Chest	0.03768099099397659
+trial_2	tirofiban	5	KG00099169	haematuria	0.03722761571407318
+trial_2	tirofiban	85	KG00098474	coughs	0.03713233396410942
+trial_2	tirofiban	79	KG00100317	Insomnia, Primary	0.037059664726257324
+trial_2	tirofiban	114	KG00098933	fevers	0.0369168221950531
+trial_2	tirofiban	126	KG00100076	Pain NOS	0.03625885397195816
+trial_2	tirofiban	29	KG00099354	hyponatraemia	0.03594932332634926
+trial_2	tirofiban	228	KG00114657	Weight below normal	0.03568117693066597
+trial_2	tirofiban	76	KG00100450	Respiratory insufficiency, NOS	0.03466600179672241
+trial_2	tirofiban	2	KG00100772	thrombocytopaenia	0.03447505086660385
+trial_2	tirofiban	77	KG00098450	Constipation NOS	0.034164492040872574
+trial_2	tirofiban	350	KG00106765	decreased platelet count	0.032552678138017654
+trial_2	tirofiban	243	KG00100947	Micturition frequency increased	0.032201386988162994
+trial_2	tirofiban	122	KG00099321	Hypersensitivity NOS	0.032048702239990234
+trial_2	tirofiban	101	KG00097901	Anorexia NOS	0.03148810938000679
+trial_2	tirofiban	28	KG00099347	hypoglycaemia	0.03147922456264496
+trial_2	tirofiban	180	KG00099363	Hypotension NOS	0.031026579439640045
+trial_2	tirofiban	179	KG00099342	hypocalcaemia	0.031010692939162254
+trial_2	tirofiban	257	KG00100922	Erythema NOS	0.03057020530104637
+trial_2	tirofiban	151	KG00098274	Infarction, Cerebral	0.029619278386235237
+trial_2	tirofiban	72	KG00103771	myalgias	0.029484953731298447
+trial_2	tirofiban	4	KG00098817	epistaxis	0.029048532247543335
+trial_2	tirofiban	14	KG00097852	Anemia NOS	0.028469011187553406
+trial_2	tirofiban	69	KG00100082	Palpitations NOS	0.028382426127791405
+trial_2	tirofiban	96	KG00101679	Unattended death NOS	0.02792963758111
+trial_2	tirofiban	282	KG00099309	hypernatraemia	0.02787427417933941
+trial_2	tirofiban	142	KG00100923	Unspecified infectious and parasitic diseases	0.02705102413892746
+trial_2	tirofiban	61	KG00099501	Chronic Kidney Failure	0.026199398562312126
+trial_2	tirofiban	27	KG00099303	hyperkalaemia	0.02554188296198845
+trial_2	tirofiban	239	KG00100128	pareses	0.024780679494142532
+trial_2	tirofiban	191	KG00104055	Biliverdin increased	0.024448780342936516
+trial_2	tirofiban	116	KG00098964	Pain in foot	0.024337168782949448
+trial_2	tirofiban	98	KG00097718	Incised wound, NOS	0.023646404966711998
+trial_2	tirofiban	276	KG00099127	Arrest, Cardiac	0.02349134162068367
+trial_2	tirofiban	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022484274581074715
+trial_2	tirofiban	30	KG00099500	Acute Kidney Failure	0.022480176761746407
+trial_2	tirofiban	139	KG00098855	Sinusitis, Ethmoid	0.022274697199463844
+trial_2	tirofiban	396	KG00100373	Embolism, Pulmonary	0.022047212347388268
+trial_2	tirofiban	339	KG00100334	proteinurias	0.02183331735432148
+trial_2	tirofiban	86	KG00098565	Depression, Mental	0.021820906549692154
+trial_2	tirofiban	249	KG00104430	hypoalbuminaemia	0.021556291729211807
+trial_2	tirofiban	82	KG00097697	abdomen distended	0.020911309868097305
+trial_2	tirofiban	253	KG00100232	Pleural effusion NOS (disorder)	0.02036154270172119
+trial_2	tirofiban	246	KG00103338	Aspartate Aminotransferase Measurement	0.020261727273464203
+trial_2	tirofiban	195	KG00097814	Atopic Rhinitis	0.0202002115547657
+trial_2	tirofiban	136	KG00101582	Dry;skin	0.020081868395209312
+trial_2	tirofiban	269	KG00100399	pyaemia	0.019331978633999825
+trial_2	tirofiban	199	KG00098371	Rhinitis (chronic) NOS	0.01931951940059662
+trial_2	tirofiban	194	KG00110727	Neutrophil Count Decreased	0.01838982105255127
+trial_2	tirofiban	31	KG00099872	Infarction, Myocardial	0.01826133392751217
+trial_2	tirofiban	130	KG00100683	Stomatitis NOS	0.017953980714082718
+trial_2	tirofiban	382	KG00099200	haemorrhoids	0.017797201871871948
+trial_2	tirofiban	211	KG00100341	Pruritus NOS	0.017664194107055664
+trial_2	tirofiban	38	KG00098066	Binocular vision disorders	0.01760490983724594
+trial_2	tirofiban	138	KG00098796	epidemic vomiting syndrome	0.017389485612511635
+trial_2	tirofiban	268	KG00099557	Heart Failure, Left-Sided	0.017364082857966423
+trial_2	tirofiban	355	KG00110857	lymphocyte count decreased	0.017320526763796806
+trial_2	tirofiban	371	KG00098517	Cystitis (NOS)	0.01731122098863125
+trial_2	tirofiban	35	KG00101507	hypomagnesaemia	0.017252283170819283
+trial_2	tirofiban	503	KG00102612	low haemoglobin	0.017097774893045425
+trial_2	tirofiban	102	KG00097916	anxieties	0.01705707237124443
+trial_2	tirofiban	271	KG00103813	reflex bradycardia	0.016996260732412338
+trial_2	tirofiban	36	KG00106434	Vision, Blurring Of	0.016865592449903488
+trial_2	tirofiban	131	KG00100948	Urinary tract infection (& [NOS])	0.01674950122833252
+trial_2	tirofiban	618	KG00099164	haematoma	0.016599146649241447
+trial_2	tirofiban	263	KG00101519	Ischemia, Myocardial	0.016432253643870354
+trial_2	tirofiban	454	KG00098286	Pain, Neck	0.01623457483947277
+trial_2	tirofiban	441	KG00098262	cellulitis nos	0.016093796119093895
+trial_2	tirofiban	254	KG00100774	Thrombosis NOS	0.016007471829652786
+trial_2	tirofiban	212	KG00100576	shivers	0.0157508235424757
+trial_2	tirofiban	118	KG00099011	Gastritis NOS	0.015673907473683357
+trial_2	tirofiban	213	KG00100600	Infectious Skin Diseases	0.015602991916239262
+trial_2	tirofiban	71	KG00100958	urticarias	0.01545899547636509
+trial_2	tirofiban	466	KG00101205	fall	0.0153818279504776
+trial_2	tirofiban	286	KG00101110	Retention, Urinary	0.015227270312607288
+trial_2	tirofiban	164	KG00108827	ileus colon	0.015218198299407959
+trial_2	tirofiban	154	KG00099686	Lymphopenias	0.01515171118080616
+trial_2	tirofiban	11	KG00097993	Asthma NOS	0.015008275397121906
+trial_2	tirofiban	204	KG00098849	Esophagitis, Peptic	0.015007042326033115

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.17244604229927063
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12266703695058823
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10721602290868759
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10708657652139664
+trial_1	placebo	87	KG00098599	diarrhoea	0.10376997292041779
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07991158217191696
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07974904775619507
+trial_1	placebo	20	KG00098540	dehydration	0.07481962442398071
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07092603296041489
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06594443321228027
+trial_1	placebo	21	KG00098675	dyspnoea	0.06569341570138931
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06475454568862915
+trial_1	placebo	132	KG00101045	Gain, Weight	0.06277115643024445
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05840170755982399
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05824875831604004
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05806543305516243
+trial_1	placebo	239	KG00100128	pareses	0.055868636816740036
+trial_1	placebo	46	KG00099121	Headache NOS	0.05535055696964264
+trial_1	placebo	104	KG00097963	arthralgias	0.05524167791008949
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05522394925355911
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05274350568652153
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0526309609413147
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05195493623614311
+trial_1	placebo	126	KG00100076	Pain NOS	0.05144897475838661
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.048073384910821915
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04594951495528221
+trial_1	placebo	228	KG00114657	Weight below normal	0.04573482275009155
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04549778252840042
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.044911276549100876
+trial_1	placebo	72	KG00103771	myalgias	0.04348568618297577
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.043385278433561325
+trial_1	placebo	114	KG00098933	fevers	0.04335236921906471
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04323611781001091
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04144960269331932
+trial_1	placebo	85	KG00098474	coughs	0.041446734219789505
+trial_1	placebo	350	KG00106765	decreased platelet count	0.041163623332977295
+trial_1	placebo	29	KG00099354	hyponatraemia	0.040932849049568176
+trial_1	placebo	68	KG00099901	nauseas	0.040630556643009186
+trial_1	placebo	5	KG00099169	haematuria	0.03875243663787842
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.038554102182388306
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03849177062511444
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03825734183192253
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.038239069283008575
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03688002750277519
+trial_1	placebo	102	KG00097916	anxieties	0.03684452548623085
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.036558572202920914
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03479049727320671
+trial_1	placebo	466	KG00101205	fall	0.03466830775141716
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.034608323127031326
+trial_1	placebo	116	KG00098964	Pain in foot	0.03458034247159958
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03418896719813347
+trial_1	placebo	121	KG00099190	haemorrhage	0.034047551453113556
+trial_1	placebo	147	KG00098000	atelectases	0.033881593495607376
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03324436768889427
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03191099688410759
+trial_1	placebo	262	KG00101199	agitation	0.03127859905362129
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03082086145877838
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03057072125375271
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029844030737876892
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02960737608373165
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.029586607590317726
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029246622696518898
+trial_1	placebo	508	KG00108565	blood glucose increased	0.029034292325377464
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028971003368496895
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.028547564521431923
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028127754107117653
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02780584804713726
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02740105427801609
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026999441906809807
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026710782200098038
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02609368972480297
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02565990574657917
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.025377271696925163
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025217382237315178
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02502971515059471
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024969670921564102
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.024929361417889595
+trial_1	placebo	164	KG00108827	ileus colon	0.024357398971915245
+trial_1	placebo	203	KG00098661	dysarthrias	0.02420962043106556
+trial_1	placebo	456	KG00099420	Influenzae	0.024180883541703224
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02393396385014057
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02386236935853958
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023705484345555305
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02363220788538456
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02358386106789112
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023440653458237648
+trial_1	placebo	100	KG00097815	alopecias	0.023356424644589424
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.023130057379603386
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02302420139312744
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02276095375418663
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.022090116515755653
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022069981321692467
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021821528673171997
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.020999327301979065
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.020961666479706764
+trial_1	placebo	269	KG00100399	pyaemia	0.02087251842021942
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.020819690078496933
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020699517801404
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.020642142742872238
+trial_1	placebo	454	KG00098286	Pain, Neck	0.020525533705949783
+trial_2	testosterone propionate	78	KG00099326	Hypertensive diseases	0.17244604229927063
+trial_2	testosterone propionate	177	KG00099299	hyperglycaemia	0.12266703695058823
+trial_2	testosterone propionate	17	KG00097991	Asthenia NOS	0.10721602290868759
+trial_2	testosterone propionate	173	KG00098172	Bronchopneumonia NOS	0.10708657652139664
+trial_2	testosterone propionate	87	KG00098599	diarrhoea	0.10376997292041779
+trial_2	testosterone propionate	79	KG00100317	Insomnia, Primary	0.07991158217191696
+trial_2	testosterone propionate	9	KG00098432	Confusion NOS	0.07974904775619507
+trial_2	testosterone propionate	20	KG00098540	dehydration	0.07481962442398071
+trial_2	testosterone propionate	86	KG00098565	Depression, Mental	0.07092603296041489
+trial_2	testosterone propionate	123	KG00099351	hypokalaemia	0.06594443321228027
+trial_2	testosterone propionate	21	KG00098675	dyspnoea	0.06569341570138931
+trial_2	testosterone propionate	77	KG00098450	Constipation NOS	0.06475454568862915
+trial_2	testosterone propionate	132	KG00101045	Gain, Weight	0.06277115643024445
+trial_2	testosterone propionate	37	KG00097696	Cramps, Abdominal	0.05840170755982399
+trial_2	testosterone propionate	200	KG00098539	Disorders, Deglutition	0.05824875831604004
+trial_2	testosterone propionate	243	KG00100947	Micturition frequency increased	0.05806543305516243
+trial_2	testosterone propionate	239	KG00100128	pareses	0.055868636816740036
+trial_2	testosterone propionate	46	KG00099121	Headache NOS	0.05535055696964264
+trial_2	testosterone propionate	104	KG00097963	arthralgias	0.05524167791008949
+trial_2	testosterone propionate	67	KG00098673	Dyspepsia, NOS	0.05522394925355911
+trial_2	testosterone propionate	139	KG00098855	Sinusitis, Ethmoid	0.05274350568652153
+trial_2	testosterone propionate	122	KG00099321	Hypersensitivity NOS	0.0526309609413147
+trial_2	testosterone propionate	151	KG00098274	Infarction, Cerebral	0.05195493623614311
+trial_2	testosterone propionate	126	KG00100076	Pain NOS	0.05144897475838661
+trial_2	testosterone propionate	28	KG00099347	hypoglycaemia	0.048073384910821915
+trial_2	testosterone propionate	64	KG00097734	Acrodermatitis, NOS	0.04594951495528221
+trial_2	testosterone propionate	228	KG00114657	Weight below normal	0.04573482275009155
+trial_2	testosterone propionate	189	KG00101580	Alanine aminotransferase increase	0.04549778252840042
+trial_2	testosterone propionate	166	KG00099773	menopausal syndrome	0.044911276549100876
+trial_2	testosterone propionate	72	KG00103771	myalgias	0.04348568618297577
+trial_2	testosterone propionate	38	KG00098066	Binocular vision disorders	0.043385278433561325
+trial_2	testosterone propionate	114	KG00098933	fevers	0.04335236921906471
+trial_2	testosterone propionate	14	KG00097852	Anemia NOS	0.04323611781001091
+trial_2	testosterone propionate	180	KG00099363	Hypotension NOS	0.04144960269331932
+trial_2	testosterone propionate	85	KG00098474	coughs	0.041446734219789505
+trial_2	testosterone propionate	350	KG00106765	decreased platelet count	0.041163623332977295
+trial_2	testosterone propionate	29	KG00099354	hyponatraemia	0.040932849049568176
+trial_2	testosterone propionate	68	KG00099901	nauseas	0.040630556643009186
+trial_2	testosterone propionate	5	KG00099169	haematuria	0.03875243663787842
+trial_2	testosterone propionate	49	KG00099902	nausea with vomiting	0.038554102182388306
+trial_2	testosterone propionate	179	KG00099342	hypocalcaemia	0.03849177062511444
+trial_2	testosterone propionate	96	KG00101679	Unattended death NOS	0.03825734183192253
+trial_2	testosterone propionate	27	KG00099303	hyperkalaemia	0.038239069283008575
+trial_2	testosterone propionate	76	KG00100450	Respiratory insufficiency, NOS	0.03688002750277519
+trial_2	testosterone propionate	102	KG00097916	anxieties	0.03684452548623085
+trial_2	testosterone propionate	188	KG00101579	Aspartate aminotransferase increase	0.036558572202920914
+trial_2	testosterone propionate	131	KG00100948	Urinary tract infection (& [NOS])	0.03479049727320671
+trial_2	testosterone propionate	466	KG00101205	fall	0.03466830775141716
+trial_2	testosterone propionate	61	KG00099501	Chronic Kidney Failure	0.034608323127031326
+trial_2	testosterone propionate	116	KG00098964	Pain in foot	0.03458034247159958
+trial_2	testosterone propionate	2	KG00100772	thrombocytopaenia	0.03418896719813347
+trial_2	testosterone propionate	121	KG00099190	haemorrhage	0.034047551453113556
+trial_2	testosterone propionate	147	KG00098000	atelectases	0.033881593495607376
+trial_2	testosterone propionate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03324436768889427
+trial_2	testosterone propionate	396	KG00100373	Embolism, Pulmonary	0.03191099688410759
+trial_2	testosterone propionate	262	KG00101199	agitation	0.03127859905362129
+trial_2	testosterone propionate	441	KG00098262	cellulitis nos	0.03082086145877838
+trial_2	testosterone propionate	92	KG00100926	Infections, Upper Respiratory	0.03057072125375271
+trial_2	testosterone propionate	18	KG00098307	Pain, Chest	0.029844030737876892
+trial_2	testosterone propionate	30	KG00099500	Acute Kidney Failure	0.02960737608373165
+trial_2	testosterone propionate	152	KG00099402	INCONTINENCE NOS	0.029586607590317726
+trial_2	testosterone propionate	69	KG00100082	Palpitations NOS	0.029246622696518898
+trial_2	testosterone propionate	508	KG00108565	blood glucose increased	0.029034292325377464
+trial_2	testosterone propionate	286	KG00101110	Retention, Urinary	0.028971003368496895
+trial_2	testosterone propionate	297	KG00099294	hypercholesterolaemia	0.028547564521431923
+trial_2	testosterone propionate	276	KG00099127	Arrest, Cardiac	0.028127754107117653
+trial_2	testosterone propionate	22	KG00098705	Edema (NOS)	0.02780584804713726
+trial_2	testosterone propionate	142	KG00100923	Unspecified infectious and parasitic diseases	0.02740105427801609
+trial_2	testosterone propionate	75	KG00100195	Dolens, Phlegmasia Alba	0.026999441906809807
+trial_2	testosterone propionate	282	KG00099309	hypernatraemia	0.026710782200098038
+trial_2	testosterone propionate	101	KG00097901	Anorexia NOS	0.02609368972480297
+trial_2	testosterone propionate	118	KG00099011	Gastritis NOS	0.02565990574657917
+trial_2	testosterone propionate	36	KG00106434	Vision, Blurring Of	0.025377271696925163
+trial_2	testosterone propionate	221	KG00101207	peripheral oedema	0.025217382237315178
+trial_2	testosterone propionate	355	KG00110857	lymphocyte count decreased	0.02502971515059471
+trial_2	testosterone propionate	249	KG00104430	hypoalbuminaemia	0.024969670921564102
+trial_2	testosterone propionate	204	KG00098849	Esophagitis, Peptic	0.024929361417889595
+trial_2	testosterone propionate	164	KG00108827	ileus colon	0.024357398971915245
+trial_2	testosterone propionate	203	KG00098661	dysarthrias	0.02420962043106556
+trial_2	testosterone propionate	456	KG00099420	Influenzae	0.024180883541703224
+trial_2	testosterone propionate	256	KG00100738	Tachycardia, Sinus	0.02393396385014057
+trial_2	testosterone propionate	254	KG00100774	Thrombosis NOS	0.02386236935853958
+trial_2	testosterone propionate	361	KG00098004	Fibrillation, Atrial	0.023705484345555305
+trial_2	testosterone propionate	194	KG00110727	Neutrophil Count Decreased	0.02363220788538456
+trial_2	testosterone propionate	11	KG00097993	Asthma NOS	0.02358386106789112
+trial_2	testosterone propionate	261	KG00101559	raised alkaline phosphatase	0.023440653458237648
+trial_2	testosterone propionate	100	KG00097815	alopecias	0.023356424644589424
+trial_2	testosterone propionate	133	KG00101370	neuropathies sensory	0.023130057379603386
+trial_2	testosterone propionate	35	KG00101507	hypomagnesaemia	0.02302420139312744
+trial_2	testosterone propionate	138	KG00098796	epidemic vomiting syndrome	0.02276095375418663
+trial_2	testosterone propionate	195	KG00097814	Atopic Rhinitis	0.022090116515755653
+trial_2	testosterone propionate	33	KG00100094	Pancreatitis NOS	0.022069981321692467
+trial_2	testosterone propionate	31	KG00099872	Infarction, Myocardial	0.021821528673171997
+trial_2	testosterone propionate	288	KG00101223	hypophosphataemia	0.020999327301979065
+trial_2	testosterone propionate	253	KG00100232	Pleural effusion NOS (disorder)	0.020961666479706764
+trial_2	testosterone propionate	269	KG00100399	pyaemia	0.02087251842021942
+trial_2	testosterone propionate	163	KG00104050	bowel obstructions small	0.020819690078496933
+trial_2	testosterone propionate	144	KG00099610	Leukopenia NOS	0.020699517801404
+trial_2	testosterone propionate	15	KG00097882	Angina pectoris NOS	0.020642142742872238
+trial_2	testosterone propionate	454	KG00098286	Pain, Neck	0.020525533705949783

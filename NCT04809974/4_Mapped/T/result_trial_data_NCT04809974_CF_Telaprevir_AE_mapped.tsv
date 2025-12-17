@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.24061556160449982
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.22271351516246796
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.17972785234451294
+trial_1	placebo	9	KG00098432	Confusion NOS	0.17764367163181305
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15505406260490417
+trial_1	placebo	21	KG00098675	dyspnoea	0.14312055706977844
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1364448219537735
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1352967768907547
+trial_1	placebo	46	KG00099121	Headache NOS	0.13105720281600952
+trial_1	placebo	68	KG00099901	nauseas	0.12646439671516418
+trial_1	placebo	228	KG00114657	Weight below normal	0.12394880503416061
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11771053075790405
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.10869251936674118
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.107248954474926
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1063724085688591
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10608000308275223
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10499579459428787
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1026376485824585
+trial_1	placebo	20	KG00098540	dehydration	0.10153032094240189
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10043950378894806
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0956585556268692
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.09283077716827393
+trial_1	placebo	114	KG00098933	fevers	0.09185823053121567
+trial_1	placebo	104	KG00097963	arthralgias	0.08637764304876328
+trial_1	placebo	85	KG00098474	coughs	0.08334828168153763
+trial_1	placebo	126	KG00100076	Pain NOS	0.08256424963474274
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.08128729462623596
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07799975574016571
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07200239598751068
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.06853068619966507
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06836485117673874
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.06558849662542343
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06558243930339813
+trial_1	placebo	136	KG00101582	Dry;skin	0.06550019234418869
+trial_1	placebo	72	KG00103771	myalgias	0.0654868632555008
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.060997381806373596
+trial_1	placebo	18	KG00098307	Pain, Chest	0.059488583356142044
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05820953845977783
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05603867769241333
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05559651553630829
+trial_1	placebo	234	KG00098669	dysgeusias	0.05552371218800545
+trial_1	placebo	257	KG00100922	Erythema NOS	0.0543886236846447
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0495607815682888
+trial_1	placebo	82	KG00097697	abdomen distended	0.04935629293322563
+trial_1	placebo	239	KG00100128	pareses	0.04809277504682541
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04729747772216797
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04668566957116127
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04653267189860344
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.046425022184848785
+trial_1	placebo	116	KG00098964	Pain in foot	0.04536253213882446
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04470791667699814
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.044672004878520966
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.043862443417310715
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.043333932757377625
+trial_1	placebo	147	KG00098000	atelectases	0.04304148629307747
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04231082275509834
+trial_1	placebo	212	KG00100576	shivers	0.04217228293418884
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04213908687233925
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04057978093624115
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.040500909090042114
+trial_1	placebo	269	KG00100399	pyaemia	0.04009142518043518
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.039744555950164795
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03951133415102959
+trial_1	placebo	102	KG00097916	anxieties	0.039452530443668365
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0393977127969265
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03848876431584358
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03838944807648659
+trial_1	placebo	186	KG00101431	creatinine increased	0.03836515545845032
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.038182396441698074
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03653924912214279
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.036358632147312164
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03563244640827179
+trial_1	placebo	345	KG00103926	impairments memory	0.03454925864934921
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03441419079899788
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.033970776945352554
+trial_1	placebo	121	KG00099190	haemorrhage	0.033938780426979065
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03392045572400093
+trial_1	placebo	454	KG00098286	Pain, Neck	0.03303270414471626
+trial_1	placebo	5	KG00099169	haematuria	0.032629307359457016
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.032216884195804596
+trial_1	placebo	100	KG00097815	alopecias	0.0321478396654129
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.031594160944223404
+trial_1	placebo	339	KG00100334	proteinurias	0.03127302974462509
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03102983348071575
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03099074959754944
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.030879603698849678
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03071732260286808
+trial_1	placebo	382	KG00099200	haemorrhoids	0.030626993626356125
+trial_1	placebo	164	KG00108827	ileus colon	0.029482293874025345
+trial_1	placebo	535	KG00098309	chest pains wall	0.029046427458524704
+trial_1	placebo	255	KG00099909	Necrotic debris, NOS	0.028915807604789734
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02889912948012352
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.028836119920015335
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.028734026476740837
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.028444215655326843
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02792835421860218
+trial_1	placebo	363	KG00098184	burns injury	0.027205275371670723
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.027108415961265564
+trial_1	placebo	282	KG00099309	hypernatraemia	0.027088196948170662
+trial_1	placebo	4	KG00098817	epistaxis	0.02707526832818985
+trial_2	telaprevir	87	KG00098599	diarrhoea	0.24061556160449982
+trial_2	telaprevir	78	KG00099326	Hypertensive diseases	0.22271351516246796
+trial_2	telaprevir	64	KG00097734	Acrodermatitis, NOS	0.17972785234451294
+trial_2	telaprevir	9	KG00098432	Confusion NOS	0.17764367163181305
+trial_2	telaprevir	17	KG00097991	Asthenia NOS	0.15505406260490417
+trial_2	telaprevir	21	KG00098675	dyspnoea	0.14312055706977844
+trial_2	telaprevir	123	KG00099351	hypokalaemia	0.1364448219537735
+trial_2	telaprevir	189	KG00101580	Alanine aminotransferase increase	0.1352967768907547
+trial_2	telaprevir	46	KG00099121	Headache NOS	0.13105720281600952
+trial_2	telaprevir	68	KG00099901	nauseas	0.12646439671516418
+trial_2	telaprevir	228	KG00114657	Weight below normal	0.12394880503416061
+trial_2	telaprevir	79	KG00100317	Insomnia, Primary	0.11771053075790405
+trial_2	telaprevir	101	KG00097901	Anorexia NOS	0.10869251936674118
+trial_2	telaprevir	173	KG00098172	Bronchopneumonia NOS	0.107248954474926
+trial_2	telaprevir	49	KG00099902	nausea with vomiting	0.1063724085688591
+trial_2	telaprevir	37	KG00097696	Cramps, Abdominal	0.10608000308275223
+trial_2	telaprevir	77	KG00098450	Constipation NOS	0.10499579459428787
+trial_2	telaprevir	14	KG00097852	Anemia NOS	0.1026376485824585
+trial_2	telaprevir	20	KG00098540	dehydration	0.10153032094240189
+trial_2	telaprevir	188	KG00101579	Aspartate aminotransferase increase	0.10043950378894806
+trial_2	telaprevir	67	KG00098673	Dyspepsia, NOS	0.0956585556268692
+trial_2	telaprevir	243	KG00100947	Micturition frequency increased	0.09283077716827393
+trial_2	telaprevir	114	KG00098933	fevers	0.09185823053121567
+trial_2	telaprevir	104	KG00097963	arthralgias	0.08637764304876328
+trial_2	telaprevir	85	KG00098474	coughs	0.08334828168153763
+trial_2	telaprevir	126	KG00100076	Pain NOS	0.08256424963474274
+trial_2	telaprevir	2	KG00100772	thrombocytopaenia	0.08128729462623596
+trial_2	telaprevir	350	KG00106765	decreased platelet count	0.07799975574016571
+trial_2	telaprevir	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07200239598751068
+trial_2	telaprevir	191	KG00104055	Biliverdin increased	0.06853068619966507
+trial_2	telaprevir	29	KG00099354	hyponatraemia	0.06836485117673874
+trial_2	telaprevir	211	KG00100341	Pruritus NOS	0.06558849662542343
+trial_2	telaprevir	177	KG00099299	hyperglycaemia	0.06558243930339813
+trial_2	telaprevir	136	KG00101582	Dry;skin	0.06550019234418869
+trial_2	telaprevir	72	KG00103771	myalgias	0.0654868632555008
+trial_2	telaprevir	130	KG00100683	Stomatitis NOS	0.060997381806373596
+trial_2	telaprevir	18	KG00098307	Pain, Chest	0.059488583356142044
+trial_2	telaprevir	86	KG00098565	Depression, Mental	0.05820953845977783
+trial_2	telaprevir	200	KG00098539	Disorders, Deglutition	0.05603867769241333
+trial_2	telaprevir	139	KG00098855	Sinusitis, Ethmoid	0.05559651553630829
+trial_2	telaprevir	234	KG00098669	dysgeusias	0.05552371218800545
+trial_2	telaprevir	257	KG00100922	Erythema NOS	0.0543886236846447
+trial_2	telaprevir	261	KG00101559	raised alkaline phosphatase	0.0495607815682888
+trial_2	telaprevir	82	KG00097697	abdomen distended	0.04935629293322563
+trial_2	telaprevir	239	KG00100128	pareses	0.04809277504682541
+trial_2	telaprevir	151	KG00098274	Infarction, Cerebral	0.04729747772216797
+trial_2	telaprevir	131	KG00100948	Urinary tract infection (& [NOS])	0.04668566957116127
+trial_2	telaprevir	69	KG00100082	Palpitations NOS	0.04653267189860344
+trial_2	telaprevir	28	KG00099347	hypoglycaemia	0.046425022184848785
+trial_2	telaprevir	116	KG00098964	Pain in foot	0.04536253213882446
+trial_2	telaprevir	441	KG00098262	cellulitis nos	0.04470791667699814
+trial_2	telaprevir	61	KG00099501	Chronic Kidney Failure	0.044672004878520966
+trial_2	telaprevir	76	KG00100450	Respiratory insufficiency, NOS	0.043862443417310715
+trial_2	telaprevir	179	KG00099342	hypocalcaemia	0.043333932757377625
+trial_2	telaprevir	147	KG00098000	atelectases	0.04304148629307747
+trial_2	telaprevir	396	KG00100373	Embolism, Pulmonary	0.04231082275509834
+trial_2	telaprevir	212	KG00100576	shivers	0.04217228293418884
+trial_2	telaprevir	36	KG00106434	Vision, Blurring Of	0.04213908687233925
+trial_2	telaprevir	180	KG00099363	Hypotension NOS	0.04057978093624115
+trial_2	telaprevir	356	KG00112623	Infectious Lung Disorders	0.040500909090042114
+trial_2	telaprevir	269	KG00100399	pyaemia	0.04009142518043518
+trial_2	telaprevir	122	KG00099321	Hypersensitivity NOS	0.039744555950164795
+trial_2	telaprevir	249	KG00104430	hypoalbuminaemia	0.03951133415102959
+trial_2	telaprevir	102	KG00097916	anxieties	0.039452530443668365
+trial_2	telaprevir	38	KG00098066	Binocular vision disorders	0.0393977127969265
+trial_2	telaprevir	194	KG00110727	Neutrophil Count Decreased	0.03848876431584358
+trial_2	telaprevir	154	KG00099686	Lymphopenias	0.03838944807648659
+trial_2	telaprevir	186	KG00101431	creatinine increased	0.03836515545845032
+trial_2	telaprevir	355	KG00110857	lymphocyte count decreased	0.038182396441698074
+trial_2	telaprevir	27	KG00099303	hyperkalaemia	0.03653924912214279
+trial_2	telaprevir	30	KG00099500	Acute Kidney Failure	0.036358632147312164
+trial_2	telaprevir	371	KG00098517	Cystitis (NOS)	0.03563244640827179
+trial_2	telaprevir	345	KG00103926	impairments memory	0.03454925864934921
+trial_2	telaprevir	166	KG00099773	menopausal syndrome	0.03441419079899788
+trial_2	telaprevir	89	KG00099301	Hyperhidrosis (disorder)	0.033970776945352554
+trial_2	telaprevir	121	KG00099190	haemorrhage	0.033938780426979065
+trial_2	telaprevir	138	KG00098796	epidemic vomiting syndrome	0.03392045572400093
+trial_2	telaprevir	454	KG00098286	Pain, Neck	0.03303270414471626
+trial_2	telaprevir	5	KG00099169	haematuria	0.032629307359457016
+trial_2	telaprevir	253	KG00100232	Pleural effusion NOS (disorder)	0.032216884195804596
+trial_2	telaprevir	100	KG00097815	alopecias	0.0321478396654129
+trial_2	telaprevir	35	KG00101507	hypomagnesaemia	0.031594160944223404
+trial_2	telaprevir	339	KG00100334	proteinurias	0.03127302974462509
+trial_2	telaprevir	204	KG00098849	Esophagitis, Peptic	0.03102983348071575
+trial_2	telaprevir	96	KG00101679	Unattended death NOS	0.03099074959754944
+trial_2	telaprevir	288	KG00101223	hypophosphataemia	0.030879603698849678
+trial_2	telaprevir	11	KG00097993	Asthma NOS	0.03071732260286808
+trial_2	telaprevir	382	KG00099200	haemorrhoids	0.030626993626356125
+trial_2	telaprevir	164	KG00108827	ileus colon	0.029482293874025345
+trial_2	telaprevir	535	KG00098309	chest pains wall	0.029046427458524704
+trial_2	telaprevir	255	KG00099909	Necrotic debris, NOS	0.028915807604789734
+trial_2	telaprevir	276	KG00099127	Arrest, Cardiac	0.02889912948012352
+trial_2	telaprevir	218	KG00100801	Tinnitus NOS	0.028836119920015335
+trial_2	telaprevir	1	KG00099959	Neutropenia NOS	0.028734026476740837
+trial_2	telaprevir	33	KG00100094	Pancreatitis NOS	0.028444215655326843
+trial_2	telaprevir	142	KG00100923	Unspecified infectious and parasitic diseases	0.02792835421860218
+trial_2	telaprevir	363	KG00098184	burns injury	0.027205275371670723
+trial_2	telaprevir	98	KG00097718	Incised wound, NOS	0.027108415961265564
+trial_2	telaprevir	282	KG00099309	hypernatraemia	0.027088196948170662
+trial_2	telaprevir	4	KG00098817	epistaxis	0.02707526832818985

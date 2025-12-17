@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15989530086517334
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15034744143486023
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1233988031744957
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11830830574035645
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10353539884090424
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09936323016881943
+trial_1	placebo	20	KG00098540	dehydration	0.09013856947422028
+trial_1	placebo	21	KG00098675	dyspnoea	0.08710025995969772
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08673768490552902
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08374543488025665
+trial_1	placebo	46	KG00099121	Headache NOS	0.08027684688568115
+trial_1	placebo	228	KG00114657	Weight below normal	0.07790370285511017
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07299534231424332
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0719136968255043
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07138688862323761
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06756191700696945
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06539160013198853
+trial_1	placebo	68	KG00099901	nauseas	0.06478460878133774
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06359123438596725
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06337279826402664
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06329182535409927
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06174572929739952
+trial_1	placebo	14	KG00097852	Anemia NOS	0.060246244072914124
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.059271812438964844
+trial_1	placebo	85	KG00098474	coughs	0.05761294066905975
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05688085779547691
+trial_1	placebo	114	KG00098933	fevers	0.05525130778551102
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05431497469544411
+trial_1	placebo	104	KG00097963	arthralgias	0.05139496922492981
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05116860568523407
+trial_1	placebo	239	KG00100128	pareses	0.050124768167734146
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05010608583688736
+trial_1	placebo	126	KG00100076	Pain NOS	0.04814635217189789
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04810977354645729
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04675113037228584
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0460084043443203
+trial_1	placebo	132	KG00101045	Gain, Weight	0.045700881630182266
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04240783676505089
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.041755180805921555
+trial_1	placebo	72	KG00103771	myalgias	0.04107441380620003
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.040801238268613815
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04039884731173515
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.039966341108083725
+trial_1	placebo	262	KG00101199	agitation	0.03855886310338974
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03847689926624298
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03815483674407005
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.038134846836328506
+trial_1	placebo	102	KG00097916	anxieties	0.03520147502422333
+trial_1	placebo	5	KG00099169	haematuria	0.03399217501282692
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.033849671483039856
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03348083794116974
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0334380604326725
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03333461284637451
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.032844141125679016
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.031515151262283325
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03136420249938965
+trial_1	placebo	116	KG00098964	Pain in foot	0.03096403181552887
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030567748472094536
+trial_1	placebo	154	KG00099686	Lymphopenias	0.030552087351679802
+trial_1	placebo	466	KG00101205	fall	0.030438341200351715
+trial_1	placebo	147	KG00098000	atelectases	0.03039819560945034
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02980087511241436
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02909933775663376
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02902129665017128
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0285347793251276
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02842644974589348
+trial_1	placebo	269	KG00100399	pyaemia	0.028194427490234375
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02812878228724003
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.027810553088784218
+trial_1	placebo	82	KG00097697	abdomen distended	0.027739444747567177
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02737351879477501
+trial_1	placebo	242	KG00100855	tremors	0.026698198169469833
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026696251705288887
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.026592163369059563
+trial_1	placebo	164	KG00108827	ileus colon	0.026511818170547485
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02649112604558468
+trial_1	placebo	508	KG00108565	blood glucose increased	0.026163574308156967
+trial_1	placebo	121	KG00099190	haemorrhage	0.02595621906220913
+trial_1	placebo	234	KG00098669	dysgeusias	0.02583208680152893
+trial_1	placebo	66	KG00098642	drowsiness	0.024479256942868233
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02447475865483284
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023872068151831627
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023533644154667854
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.023459315299987793
+trial_1	placebo	300	KG00101064	xerostomia	0.023390330374240875
+trial_1	placebo	186	KG00101431	creatinine increased	0.023295927792787552
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.023005053400993347
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022993389517068863
+trial_1	placebo	100	KG00097815	alopecias	0.022901862859725952
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02273395098745823
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.022587774321436882
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02233019284904003
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022276192903518677
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.022209718823432922
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.0221444983035326
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02212947979569435
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.021983876824378967
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02195851318538189
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021902335807681084
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021875543519854546
+trial_2	toloxatone	87	KG00098599	diarrhoea	0.15989530086517334
+trial_2	toloxatone	78	KG00099326	Hypertensive diseases	0.15034744143486023
+trial_2	toloxatone	17	KG00097991	Asthenia NOS	0.1233988031744957
+trial_2	toloxatone	9	KG00098432	Confusion NOS	0.11830830574035645
+trial_2	toloxatone	177	KG00099299	hyperglycaemia	0.10353539884090424
+trial_2	toloxatone	173	KG00098172	Bronchopneumonia NOS	0.09936323016881943
+trial_2	toloxatone	20	KG00098540	dehydration	0.09013856947422028
+trial_2	toloxatone	21	KG00098675	dyspnoea	0.08710025995969772
+trial_2	toloxatone	189	KG00101580	Alanine aminotransferase increase	0.08673768490552902
+trial_2	toloxatone	123	KG00099351	hypokalaemia	0.08374543488025665
+trial_2	toloxatone	46	KG00099121	Headache NOS	0.08027684688568115
+trial_2	toloxatone	228	KG00114657	Weight below normal	0.07790370285511017
+trial_2	toloxatone	79	KG00100317	Insomnia, Primary	0.07299534231424332
+trial_2	toloxatone	188	KG00101579	Aspartate aminotransferase increase	0.0719136968255043
+trial_2	toloxatone	37	KG00097696	Cramps, Abdominal	0.07138688862323761
+trial_2	toloxatone	67	KG00098673	Dyspepsia, NOS	0.06756191700696945
+trial_2	toloxatone	64	KG00097734	Acrodermatitis, NOS	0.06539160013198853
+trial_2	toloxatone	68	KG00099901	nauseas	0.06478460878133774
+trial_2	toloxatone	49	KG00099902	nausea with vomiting	0.06359123438596725
+trial_2	toloxatone	77	KG00098450	Constipation NOS	0.06337279826402664
+trial_2	toloxatone	29	KG00099354	hyponatraemia	0.06329182535409927
+trial_2	toloxatone	200	KG00098539	Disorders, Deglutition	0.06174572929739952
+trial_2	toloxatone	14	KG00097852	Anemia NOS	0.060246244072914124
+trial_2	toloxatone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.059271812438964844
+trial_2	toloxatone	85	KG00098474	coughs	0.05761294066905975
+trial_2	toloxatone	350	KG00106765	decreased platelet count	0.05688085779547691
+trial_2	toloxatone	114	KG00098933	fevers	0.05525130778551102
+trial_2	toloxatone	86	KG00098565	Depression, Mental	0.05431497469544411
+trial_2	toloxatone	104	KG00097963	arthralgias	0.05139496922492981
+trial_2	toloxatone	243	KG00100947	Micturition frequency increased	0.05116860568523407
+trial_2	toloxatone	239	KG00100128	pareses	0.050124768167734146
+trial_2	toloxatone	151	KG00098274	Infarction, Cerebral	0.05010608583688736
+trial_2	toloxatone	126	KG00100076	Pain NOS	0.04814635217189789
+trial_2	toloxatone	2	KG00100772	thrombocytopaenia	0.04810977354645729
+trial_2	toloxatone	101	KG00097901	Anorexia NOS	0.04675113037228584
+trial_2	toloxatone	76	KG00100450	Respiratory insufficiency, NOS	0.0460084043443203
+trial_2	toloxatone	132	KG00101045	Gain, Weight	0.045700881630182266
+trial_2	toloxatone	180	KG00099363	Hypotension NOS	0.04240783676505089
+trial_2	toloxatone	61	KG00099501	Chronic Kidney Failure	0.041755180805921555
+trial_2	toloxatone	72	KG00103771	myalgias	0.04107441380620003
+trial_2	toloxatone	28	KG00099347	hypoglycaemia	0.040801238268613815
+trial_2	toloxatone	96	KG00101679	Unattended death NOS	0.04039884731173515
+trial_2	toloxatone	194	KG00110727	Neutrophil Count Decreased	0.039966341108083725
+trial_2	toloxatone	262	KG00101199	agitation	0.03855886310338974
+trial_2	toloxatone	122	KG00099321	Hypersensitivity NOS	0.03847689926624298
+trial_2	toloxatone	179	KG00099342	hypocalcaemia	0.03815483674407005
+trial_2	toloxatone	27	KG00099303	hyperkalaemia	0.038134846836328506
+trial_2	toloxatone	102	KG00097916	anxieties	0.03520147502422333
+trial_2	toloxatone	5	KG00099169	haematuria	0.03399217501282692
+trial_2	toloxatone	36	KG00106434	Vision, Blurring Of	0.033849671483039856
+trial_2	toloxatone	261	KG00101559	raised alkaline phosphatase	0.03348083794116974
+trial_2	toloxatone	355	KG00110857	lymphocyte count decreased	0.0334380604326725
+trial_2	toloxatone	139	KG00098855	Sinusitis, Ethmoid	0.03333461284637451
+trial_2	toloxatone	30	KG00099500	Acute Kidney Failure	0.032844141125679016
+trial_2	toloxatone	38	KG00098066	Binocular vision disorders	0.031515151262283325
+trial_2	toloxatone	18	KG00098307	Pain, Chest	0.03136420249938965
+trial_2	toloxatone	116	KG00098964	Pain in foot	0.03096403181552887
+trial_2	toloxatone	131	KG00100948	Urinary tract infection (& [NOS])	0.030567748472094536
+trial_2	toloxatone	154	KG00099686	Lymphopenias	0.030552087351679802
+trial_2	toloxatone	466	KG00101205	fall	0.030438341200351715
+trial_2	toloxatone	147	KG00098000	atelectases	0.03039819560945034
+trial_2	toloxatone	396	KG00100373	Embolism, Pulmonary	0.02980087511241436
+trial_2	toloxatone	191	KG00104055	Biliverdin increased	0.02909933775663376
+trial_2	toloxatone	142	KG00100923	Unspecified infectious and parasitic diseases	0.02902129665017128
+trial_2	toloxatone	1	KG00099959	Neutropenia NOS	0.0285347793251276
+trial_2	toloxatone	144	KG00099610	Leukopenia NOS	0.02842644974589348
+trial_2	toloxatone	269	KG00100399	pyaemia	0.028194427490234375
+trial_2	toloxatone	282	KG00099309	hypernatraemia	0.02812878228724003
+trial_2	toloxatone	341	KG00101472	Gamma-glutamyltransferase increased	0.027810553088784218
+trial_2	toloxatone	82	KG00097697	abdomen distended	0.027739444747567177
+trial_2	toloxatone	276	KG00099127	Arrest, Cardiac	0.02737351879477501
+trial_2	toloxatone	242	KG00100855	tremors	0.026698198169469833
+trial_2	toloxatone	69	KG00100082	Palpitations NOS	0.026696251705288887
+trial_2	toloxatone	422	KG00101429	Creatine phosphokinase increased	0.026592163369059563
+trial_2	toloxatone	164	KG00108827	ileus colon	0.026511818170547485
+trial_2	toloxatone	249	KG00104430	hypoalbuminaemia	0.02649112604558468
+trial_2	toloxatone	508	KG00108565	blood glucose increased	0.026163574308156967
+trial_2	toloxatone	121	KG00099190	haemorrhage	0.02595621906220913
+trial_2	toloxatone	234	KG00098669	dysgeusias	0.02583208680152893
+trial_2	toloxatone	66	KG00098642	drowsiness	0.024479256942868233
+trial_2	toloxatone	361	KG00098004	Fibrillation, Atrial	0.02447475865483284
+trial_2	toloxatone	92	KG00100926	Infections, Upper Respiratory	0.023872068151831627
+trial_2	toloxatone	253	KG00100232	Pleural effusion NOS (disorder)	0.023533644154667854
+trial_2	toloxatone	256	KG00100738	Tachycardia, Sinus	0.023459315299987793
+trial_2	toloxatone	300	KG00101064	xerostomia	0.023390330374240875
+trial_2	toloxatone	186	KG00101431	creatinine increased	0.023295927792787552
+trial_2	toloxatone	356	KG00112623	Infectious Lung Disorders	0.023005053400993347
+trial_2	toloxatone	286	KG00101110	Retention, Urinary	0.022993389517068863
+trial_2	toloxatone	100	KG00097815	alopecias	0.022901862859725952
+trial_2	toloxatone	97	KG00104198	LIVER ENZYME ELEVATED	0.02273395098745823
+trial_2	toloxatone	118	KG00099011	Gastritis NOS	0.022587774321436882
+trial_2	toloxatone	130	KG00100683	Stomatitis NOS	0.02233019284904003
+trial_2	toloxatone	441	KG00098262	cellulitis nos	0.022276192903518677
+trial_2	toloxatone	35	KG00101507	hypomagnesaemia	0.022209718823432922
+trial_2	toloxatone	297	KG00099294	hypercholesterolaemia	0.0221444983035326
+trial_2	toloxatone	11	KG00097993	Asthma NOS	0.02212947979569435
+trial_2	toloxatone	232	KG00097997	Ataxia NOS	0.021983876824378967
+trial_2	toloxatone	371	KG00098517	Cystitis (NOS)	0.02195851318538189
+trial_2	toloxatone	15	KG00097882	Angina pectoris NOS	0.021902335807681084
+trial_2	toloxatone	199	KG00098371	Rhinitis (chronic) NOS	0.021875543519854546

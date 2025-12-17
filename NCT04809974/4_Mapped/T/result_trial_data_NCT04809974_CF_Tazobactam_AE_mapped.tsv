@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1279202699661255
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10740197449922562
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09083841741085052
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0844305157661438
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07593309134244919
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07130178064107895
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07064462453126907
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06632855534553528
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06084926053881645
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05651068687438965
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05621735379099846
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.053235217928886414
+trial_1	placebo	269	KG00100399	pyaemia	0.05321583151817322
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05182800441980362
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04997574910521507
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04936429113149643
+trial_1	placebo	68	KG00099901	nauseas	0.04932934790849686
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.048464152961969376
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.047722410410642624
+trial_1	placebo	147	KG00098000	atelectases	0.04564141854643822
+trial_1	placebo	46	KG00099121	Headache NOS	0.04497909918427467
+trial_1	placebo	21	KG00098675	dyspnoea	0.04420163109898567
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.043878182768821716
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.042424291372299194
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.042279183864593506
+trial_1	placebo	20	KG00098540	dehydration	0.041512493044137955
+trial_1	placebo	77	KG00098450	Constipation NOS	0.040061239153146744
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.038101471960544586
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03680482879281044
+trial_1	placebo	114	KG00098933	fevers	0.036564551293849945
+trial_1	placebo	350	KG00106765	decreased platelet count	0.035848017781972885
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.031646255403757095
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03112131729722023
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030007170513272285
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.029682399705052376
+trial_1	placebo	228	KG00114657	Weight below normal	0.029551129788160324
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.029265478253364563
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02859722077846527
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0280954260379076
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028004199266433716
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027967898175120354
+trial_1	placebo	164	KG00108827	ileus colon	0.027571415528655052
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02686362713575363
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026707757264375687
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0266115665435791
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.026606237515807152
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026120204478502274
+trial_1	placebo	5	KG00099169	haematuria	0.026120144873857498
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.026116803288459778
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.025617491453886032
+trial_1	placebo	85	KG00098474	coughs	0.025550175458192825
+trial_1	placebo	126	KG00100076	Pain NOS	0.025394385680556297
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025227153673768044
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.024488715454936028
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02383575588464737
+trial_1	placebo	104	KG00097963	arthralgias	0.02335035800933838
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023288024589419365
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02269037999212742
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022443046793341637
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.021653806790709496
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021342743188142776
+trial_1	placebo	25	KG00099134	congestive failures heart	0.021030880510807037
+trial_1	placebo	186	KG00101431	creatinine increased	0.020937437191605568
+trial_1	placebo	86	KG00098565	Depression, Mental	0.020881101489067078
+trial_1	placebo	234	KG00098669	dysgeusias	0.0206756554543972
+trial_1	placebo	18	KG00098307	Pain, Chest	0.020445162430405617
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02027658000588417
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.020000217482447624
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01983436569571495
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019428521394729614
+trial_1	placebo	398	KG00100580	Shock, Septic	0.019158145412802696
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01904425397515297
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.018528351560235023
+trial_1	placebo	4	KG00098817	epistaxis	0.018491139635443687
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.018417363986372948
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018285995349287987
+trial_1	placebo	239	KG00100128	pareses	0.018098441883921623
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.01784321293234825
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017677562311291695
+trial_1	placebo	713	KG00107657	distressed respiratory	0.017534101381897926
+trial_1	placebo	82	KG00097697	abdomen distended	0.017522793263196945
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.017155155539512634
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.016987977549433708
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01689709722995758
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01657288894057274
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01633426547050476
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.016225438565015793
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.016149455681443214
+trial_1	placebo	102	KG00097916	anxieties	0.015971018001437187
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.015970028936862946
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015778910368680954
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01565963588654995
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.015451454557478428
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015415871515870094
+trial_1	placebo	121	KG00099190	haemorrhage	0.01525198109447956
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.015117616392672062
+trial_1	placebo	149	KG00100192	phlebitides	0.014924137853085995
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014761914499104023
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.014733471907675266
+trial_1	placebo	116	KG00098964	Pain in foot	0.014716288074851036
+trial_2	tazobactam	87	KG00098599	diarrhoea	0.1279202699661255
+trial_2	tazobactam	78	KG00099326	Hypertensive diseases	0.10740197449922562
+trial_2	tazobactam	9	KG00098432	Confusion NOS	0.09083841741085052
+trial_2	tazobactam	123	KG00099351	hypokalaemia	0.0844305157661438
+trial_2	tazobactam	30	KG00099500	Acute Kidney Failure	0.07593309134244919
+trial_2	tazobactam	189	KG00101580	Alanine aminotransferase increase	0.07130178064107895
+trial_2	tazobactam	173	KG00098172	Bronchopneumonia NOS	0.07064462453126907
+trial_2	tazobactam	61	KG00099501	Chronic Kidney Failure	0.06632855534553528
+trial_2	tazobactam	188	KG00101579	Aspartate aminotransferase increase	0.06084926053881645
+trial_2	tazobactam	14	KG00097852	Anemia NOS	0.05651068687438965
+trial_2	tazobactam	76	KG00100450	Respiratory insufficiency, NOS	0.05621735379099846
+trial_2	tazobactam	276	KG00099127	Arrest, Cardiac	0.053235217928886414
+trial_2	tazobactam	269	KG00100399	pyaemia	0.05321583151817322
+trial_2	tazobactam	37	KG00097696	Cramps, Abdominal	0.05182800441980362
+trial_2	tazobactam	177	KG00099299	hyperglycaemia	0.04997574910521507
+trial_2	tazobactam	396	KG00100373	Embolism, Pulmonary	0.04936429113149643
+trial_2	tazobactam	68	KG00099901	nauseas	0.04932934790849686
+trial_2	tazobactam	2	KG00100772	thrombocytopaenia	0.048464152961969376
+trial_2	tazobactam	151	KG00098274	Infarction, Cerebral	0.047722410410642624
+trial_2	tazobactam	147	KG00098000	atelectases	0.04564141854643822
+trial_2	tazobactam	46	KG00099121	Headache NOS	0.04497909918427467
+trial_2	tazobactam	21	KG00098675	dyspnoea	0.04420163109898567
+trial_2	tazobactam	49	KG00099902	nausea with vomiting	0.043878182768821716
+trial_2	tazobactam	64	KG00097734	Acrodermatitis, NOS	0.042424291372299194
+trial_2	tazobactam	180	KG00099363	Hypotension NOS	0.042279183864593506
+trial_2	tazobactam	20	KG00098540	dehydration	0.041512493044137955
+trial_2	tazobactam	77	KG00098450	Constipation NOS	0.040061239153146744
+trial_2	tazobactam	17	KG00097991	Asthenia NOS	0.038101471960544586
+trial_2	tazobactam	29	KG00099354	hyponatraemia	0.03680482879281044
+trial_2	tazobactam	114	KG00098933	fevers	0.036564551293849945
+trial_2	tazobactam	350	KG00106765	decreased platelet count	0.035848017781972885
+trial_2	tazobactam	79	KG00100317	Insomnia, Primary	0.031646255403757095
+trial_2	tazobactam	67	KG00098673	Dyspepsia, NOS	0.03112131729722023
+trial_2	tazobactam	131	KG00100948	Urinary tract infection (& [NOS])	0.030007170513272285
+trial_2	tazobactam	200	KG00098539	Disorders, Deglutition	0.029682399705052376
+trial_2	tazobactam	228	KG00114657	Weight below normal	0.029551129788160324
+trial_2	tazobactam	361	KG00098004	Fibrillation, Atrial	0.029265478253364563
+trial_2	tazobactam	75	KG00100195	Dolens, Phlegmasia Alba	0.02859722077846527
+trial_2	tazobactam	441	KG00098262	cellulitis nos	0.0280954260379076
+trial_2	tazobactam	31	KG00099872	Infarction, Myocardial	0.028004199266433716
+trial_2	tazobactam	27	KG00099303	hyperkalaemia	0.027967898175120354
+trial_2	tazobactam	164	KG00108827	ileus colon	0.027571415528655052
+trial_2	tazobactam	191	KG00104055	Biliverdin increased	0.02686362713575363
+trial_2	tazobactam	96	KG00101679	Unattended death NOS	0.026707757264375687
+trial_2	tazobactam	28	KG00099347	hypoglycaemia	0.0266115665435791
+trial_2	tazobactam	35	KG00101507	hypomagnesaemia	0.026606237515807152
+trial_2	tazobactam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026120204478502274
+trial_2	tazobactam	5	KG00099169	haematuria	0.026120144873857498
+trial_2	tazobactam	253	KG00100232	Pleural effusion NOS (disorder)	0.026116803288459778
+trial_2	tazobactam	494	KG00099838	Organ Failure, Multiple	0.025617491453886032
+trial_2	tazobactam	85	KG00098474	coughs	0.025550175458192825
+trial_2	tazobactam	126	KG00100076	Pain NOS	0.025394385680556297
+trial_2	tazobactam	69	KG00100082	Palpitations NOS	0.025227153673768044
+trial_2	tazobactam	261	KG00101559	raised alkaline phosphatase	0.024488715454936028
+trial_2	tazobactam	243	KG00100947	Micturition frequency increased	0.02383575588464737
+trial_2	tazobactam	104	KG00097963	arthralgias	0.02335035800933838
+trial_2	tazobactam	130	KG00100683	Stomatitis NOS	0.023288024589419365
+trial_2	tazobactam	142	KG00100923	Unspecified infectious and parasitic diseases	0.02269037999212742
+trial_2	tazobactam	179	KG00099342	hypocalcaemia	0.022443046793341637
+trial_2	tazobactam	138	KG00098796	epidemic vomiting syndrome	0.021653806790709496
+trial_2	tazobactam	15	KG00097882	Angina pectoris NOS	0.021342743188142776
+trial_2	tazobactam	25	KG00099134	congestive failures heart	0.021030880510807037
+trial_2	tazobactam	186	KG00101431	creatinine increased	0.020937437191605568
+trial_2	tazobactam	86	KG00098565	Depression, Mental	0.020881101489067078
+trial_2	tazobactam	234	KG00098669	dysgeusias	0.0206756554543972
+trial_2	tazobactam	18	KG00098307	Pain, Chest	0.020445162430405617
+trial_2	tazobactam	394	KG00100243	Pneumonia, Aspiration	0.02027658000588417
+trial_2	tazobactam	268	KG00099557	Heart Failure, Left-Sided	0.020000217482447624
+trial_2	tazobactam	249	KG00104430	hypoalbuminaemia	0.01983436569571495
+trial_2	tazobactam	144	KG00099610	Leukopenia NOS	0.019428521394729614
+trial_2	tazobactam	398	KG00100580	Shock, Septic	0.019158145412802696
+trial_2	tazobactam	92	KG00100926	Infections, Upper Respiratory	0.01904425397515297
+trial_2	tazobactam	356	KG00112623	Infectious Lung Disorders	0.018528351560235023
+trial_2	tazobactam	4	KG00098817	epistaxis	0.018491139635443687
+trial_2	tazobactam	561	KG00104180	Diarrhoea, Clostridium difficile	0.018417363986372948
+trial_2	tazobactam	286	KG00101110	Retention, Urinary	0.018285995349287987
+trial_2	tazobactam	239	KG00100128	pareses	0.018098441883921623
+trial_2	tazobactam	183	KG00100449	Adult Respiratory Distress Syndrome	0.01784321293234825
+trial_2	tazobactam	194	KG00110727	Neutrophil Count Decreased	0.017677562311291695
+trial_2	tazobactam	713	KG00107657	distressed respiratory	0.017534101381897926
+trial_2	tazobactam	82	KG00097697	abdomen distended	0.017522793263196945
+trial_2	tazobactam	883	KG00107760	Neonatal cardiorespiratory arrest	0.017155155539512634
+trial_2	tazobactam	97	KG00104198	LIVER ENZYME ELEVATED	0.016987977549433708
+trial_2	tazobactam	11	KG00097993	Asthma NOS	0.01689709722995758
+trial_2	tazobactam	38	KG00098066	Binocular vision disorders	0.01657288894057274
+trial_2	tazobactam	282	KG00099309	hypernatraemia	0.01633426547050476
+trial_2	tazobactam	33	KG00100094	Pancreatitis NOS	0.016225438565015793
+trial_2	tazobactam	400	KG00100925	Upper gastrointestinal haemorrhage	0.016149455681443214
+trial_2	tazobactam	102	KG00097916	anxieties	0.015971018001437187
+trial_2	tazobactam	1	KG00099959	Neutropenia NOS	0.015970028936862946
+trial_2	tazobactam	211	KG00100341	Pruritus NOS	0.015778910368680954
+trial_2	tazobactam	422	KG00101429	Creatine phosphokinase increased	0.01565963588654995
+trial_2	tazobactam	122	KG00099321	Hypersensitivity NOS	0.015451454557478428
+trial_2	tazobactam	101	KG00097901	Anorexia NOS	0.015415871515870094
+trial_2	tazobactam	121	KG00099190	haemorrhage	0.01525198109447956
+trial_2	tazobactam	288	KG00101223	hypophosphataemia	0.015117616392672062
+trial_2	tazobactam	149	KG00100192	phlebitides	0.014924137853085995
+trial_2	tazobactam	204	KG00098849	Esophagitis, Peptic	0.014761914499104023
+trial_2	tazobactam	747	KG00101527	Liver function tests abnormal (finding)	0.014733471907675266
+trial_2	tazobactam	116	KG00098964	Pain in foot	0.014716288074851036

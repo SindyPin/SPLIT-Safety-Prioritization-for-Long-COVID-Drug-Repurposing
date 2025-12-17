@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16018860042095184
+trial_1	placebo	87	KG00098599	diarrhoea	0.14089864492416382
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13158194720745087
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11305784434080124
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10992877930402756
+trial_1	placebo	20	KG00098540	dehydration	0.09176900237798691
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09172999858856201
+trial_1	placebo	21	KG00098675	dyspnoea	0.08414888381958008
+trial_1	placebo	228	KG00114657	Weight below normal	0.08354315906763077
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08350735157728195
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07973667234182358
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07875758409500122
+trial_1	placebo	46	KG00099121	Headache NOS	0.07870277762413025
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07521730661392212
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07462713122367859
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06734571605920792
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06645940989255905
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0661349818110466
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06612279266119003
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06592965871095657
+trial_1	placebo	68	KG00099901	nauseas	0.06410462409257889
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06229691952466965
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05967951565980911
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.059352170675992966
+trial_1	placebo	126	KG00100076	Pain NOS	0.059220343828201294
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05831466242671013
+trial_1	placebo	14	KG00097852	Anemia NOS	0.058151520788669586
+trial_1	placebo	114	KG00098933	fevers	0.05691414698958397
+trial_1	placebo	104	KG00097963	arthralgias	0.05570274963974953
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.053829822689294815
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05325288698077202
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05196346342563629
+trial_1	placebo	85	KG00098474	coughs	0.05162891000509262
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05157039687037468
+trial_1	placebo	239	KG00100128	pareses	0.05146811529994011
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05022960156202316
+trial_1	placebo	72	KG00103771	myalgias	0.05014060437679291
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.046386126428842545
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.045057881623506546
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04488930478692055
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04354209825396538
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04239387810230255
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04067676141858101
+trial_1	placebo	102	KG00097916	anxieties	0.0405690036714077
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.040332186967134476
+trial_1	placebo	5	KG00099169	haematuria	0.039435021579265594
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03886799514293671
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03725279122591019
+trial_1	placebo	147	KG00098000	atelectases	0.03650077432394028
+trial_1	placebo	262	KG00101199	agitation	0.036087051033973694
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.035906825214624405
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.035820577293634415
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03522631525993347
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03377290815114975
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0335993729531765
+trial_1	placebo	121	KG00099190	haemorrhage	0.033477794378995895
+trial_1	placebo	116	KG00098964	Pain in foot	0.03328200802206993
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03271704912185669
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03243550658226013
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.032335568219423294
+trial_1	placebo	18	KG00098307	Pain, Chest	0.031284693628549576
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.03083195351064205
+trial_1	placebo	154	KG00099686	Lymphopenias	0.030641663819551468
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02987620048224926
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02953469567000866
+trial_1	placebo	508	KG00108565	blood glucose increased	0.029458168894052505
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028941238299012184
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02892952226102352
+trial_1	placebo	82	KG00097697	abdomen distended	0.02869507484138012
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02734205685555935
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026941269636154175
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026583975180983543
+trial_1	placebo	466	KG00101205	fall	0.026566630229353905
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02651943638920784
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.0262347012758255
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02606247179210186
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025973781943321228
+trial_1	placebo	234	KG00098669	dysgeusias	0.025752654299139977
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.025719089433550835
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02503482811152935
+trial_1	placebo	339	KG00100334	proteinurias	0.024662217125296593
+trial_1	placebo	186	KG00101431	creatinine increased	0.024649327620863914
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02430780977010727
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02417483739554882
+trial_1	placebo	136	KG00101582	Dry;skin	0.024162180721759796
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.0238651130348444
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.023154279217123985
+trial_1	placebo	100	KG00097815	alopecias	0.022990481927990913
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.022901184856891632
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022884706035256386
+trial_1	placebo	269	KG00100399	pyaemia	0.022680284455418587
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02246713638305664
+trial_1	placebo	164	KG00108827	ileus colon	0.0223650261759758
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02220030315220356
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022172551602125168
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021969730034470558
+trial_1	placebo	153	KG00099579	lethargy	0.021741731092333794
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021630514413118362
+trial_1	placebo	212	KG00100576	shivers	0.021397665143013
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02130395919084549
+trial_2	testolactone	78	KG00099326	Hypertensive diseases	0.16018860042095184
+trial_2	testolactone	87	KG00098599	diarrhoea	0.14089864492416382
+trial_2	testolactone	177	KG00099299	hyperglycaemia	0.13158194720745087
+trial_2	testolactone	17	KG00097991	Asthenia NOS	0.11305784434080124
+trial_2	testolactone	173	KG00098172	Bronchopneumonia NOS	0.10992877930402756
+trial_2	testolactone	20	KG00098540	dehydration	0.09176900237798691
+trial_2	testolactone	123	KG00099351	hypokalaemia	0.09172999858856201
+trial_2	testolactone	21	KG00098675	dyspnoea	0.08414888381958008
+trial_2	testolactone	228	KG00114657	Weight below normal	0.08354315906763077
+trial_2	testolactone	9	KG00098432	Confusion NOS	0.08350735157728195
+trial_2	testolactone	37	KG00097696	Cramps, Abdominal	0.07973667234182358
+trial_2	testolactone	79	KG00100317	Insomnia, Primary	0.07875758409500122
+trial_2	testolactone	46	KG00099121	Headache NOS	0.07870277762413025
+trial_2	testolactone	189	KG00101580	Alanine aminotransferase increase	0.07521730661392212
+trial_2	testolactone	243	KG00100947	Micturition frequency increased	0.07462713122367859
+trial_2	testolactone	64	KG00097734	Acrodermatitis, NOS	0.06734571605920792
+trial_2	testolactone	350	KG00106765	decreased platelet count	0.06645940989255905
+trial_2	testolactone	77	KG00098450	Constipation NOS	0.0661349818110466
+trial_2	testolactone	86	KG00098565	Depression, Mental	0.06612279266119003
+trial_2	testolactone	67	KG00098673	Dyspepsia, NOS	0.06592965871095657
+trial_2	testolactone	68	KG00099901	nauseas	0.06410462409257889
+trial_2	testolactone	49	KG00099902	nausea with vomiting	0.06229691952466965
+trial_2	testolactone	200	KG00098539	Disorders, Deglutition	0.05967951565980911
+trial_2	testolactone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.059352170675992966
+trial_2	testolactone	126	KG00100076	Pain NOS	0.059220343828201294
+trial_2	testolactone	188	KG00101579	Aspartate aminotransferase increase	0.05831466242671013
+trial_2	testolactone	14	KG00097852	Anemia NOS	0.058151520788669586
+trial_2	testolactone	114	KG00098933	fevers	0.05691414698958397
+trial_2	testolactone	104	KG00097963	arthralgias	0.05570274963974953
+trial_2	testolactone	2	KG00100772	thrombocytopaenia	0.053829822689294815
+trial_2	testolactone	101	KG00097901	Anorexia NOS	0.05325288698077202
+trial_2	testolactone	29	KG00099354	hyponatraemia	0.05196346342563629
+trial_2	testolactone	85	KG00098474	coughs	0.05162891000509262
+trial_2	testolactone	122	KG00099321	Hypersensitivity NOS	0.05157039687037468
+trial_2	testolactone	239	KG00100128	pareses	0.05146811529994011
+trial_2	testolactone	151	KG00098274	Infarction, Cerebral	0.05022960156202316
+trial_2	testolactone	72	KG00103771	myalgias	0.05014060437679291
+trial_2	testolactone	179	KG00099342	hypocalcaemia	0.046386126428842545
+trial_2	testolactone	139	KG00098855	Sinusitis, Ethmoid	0.045057881623506546
+trial_2	testolactone	132	KG00101045	Gain, Weight	0.04488930478692055
+trial_2	testolactone	194	KG00110727	Neutrophil Count Decreased	0.04354209825396538
+trial_2	testolactone	76	KG00100450	Respiratory insufficiency, NOS	0.04239387810230255
+trial_2	testolactone	96	KG00101679	Unattended death NOS	0.04067676141858101
+trial_2	testolactone	102	KG00097916	anxieties	0.0405690036714077
+trial_2	testolactone	28	KG00099347	hypoglycaemia	0.040332186967134476
+trial_2	testolactone	5	KG00099169	haematuria	0.039435021579265594
+trial_2	testolactone	166	KG00099773	menopausal syndrome	0.03886799514293671
+trial_2	testolactone	355	KG00110857	lymphocyte count decreased	0.03725279122591019
+trial_2	testolactone	147	KG00098000	atelectases	0.03650077432394028
+trial_2	testolactone	262	KG00101199	agitation	0.036087051033973694
+trial_2	testolactone	180	KG00099363	Hypotension NOS	0.035906825214624405
+trial_2	testolactone	61	KG00099501	Chronic Kidney Failure	0.035820577293634415
+trial_2	testolactone	27	KG00099303	hyperkalaemia	0.03522631525993347
+trial_2	testolactone	261	KG00101559	raised alkaline phosphatase	0.03377290815114975
+trial_2	testolactone	38	KG00098066	Binocular vision disorders	0.0335993729531765
+trial_2	testolactone	121	KG00099190	haemorrhage	0.033477794378995895
+trial_2	testolactone	116	KG00098964	Pain in foot	0.03328200802206993
+trial_2	testolactone	282	KG00099309	hypernatraemia	0.03271704912185669
+trial_2	testolactone	131	KG00100948	Urinary tract infection (& [NOS])	0.03243550658226013
+trial_2	testolactone	249	KG00104430	hypoalbuminaemia	0.032335568219423294
+trial_2	testolactone	18	KG00098307	Pain, Chest	0.031284693628549576
+trial_2	testolactone	297	KG00099294	hypercholesterolaemia	0.03083195351064205
+trial_2	testolactone	154	KG00099686	Lymphopenias	0.030641663819551468
+trial_2	testolactone	142	KG00100923	Unspecified infectious and parasitic diseases	0.02987620048224926
+trial_2	testolactone	69	KG00100082	Palpitations NOS	0.02953469567000866
+trial_2	testolactone	508	KG00108565	blood glucose increased	0.029458168894052505
+trial_2	testolactone	36	KG00106434	Vision, Blurring Of	0.028941238299012184
+trial_2	testolactone	191	KG00104055	Biliverdin increased	0.02892952226102352
+trial_2	testolactone	82	KG00097697	abdomen distended	0.02869507484138012
+trial_2	testolactone	152	KG00099402	INCONTINENCE NOS	0.02734205685555935
+trial_2	testolactone	396	KG00100373	Embolism, Pulmonary	0.026941269636154175
+trial_2	testolactone	30	KG00099500	Acute Kidney Failure	0.026583975180983543
+trial_2	testolactone	466	KG00101205	fall	0.026566630229353905
+trial_2	testolactone	246	KG00103338	Aspartate Aminotransferase Measurement	0.02651943638920784
+trial_2	testolactone	288	KG00101223	hypophosphataemia	0.0262347012758255
+trial_2	testolactone	144	KG00099610	Leukopenia NOS	0.02606247179210186
+trial_2	testolactone	1	KG00099959	Neutropenia NOS	0.025973781943321228
+trial_2	testolactone	234	KG00098669	dysgeusias	0.025752654299139977
+trial_2	testolactone	130	KG00100683	Stomatitis NOS	0.025719089433550835
+trial_2	testolactone	35	KG00101507	hypomagnesaemia	0.02503482811152935
+trial_2	testolactone	339	KG00100334	proteinurias	0.024662217125296593
+trial_2	testolactone	186	KG00101431	creatinine increased	0.024649327620863914
+trial_2	testolactone	276	KG00099127	Arrest, Cardiac	0.02430780977010727
+trial_2	testolactone	92	KG00100926	Infections, Upper Respiratory	0.02417483739554882
+trial_2	testolactone	136	KG00101582	Dry;skin	0.024162180721759796
+trial_2	testolactone	195	KG00097814	Atopic Rhinitis	0.0238651130348444
+trial_2	testolactone	133	KG00101370	neuropathies sensory	0.023154279217123985
+trial_2	testolactone	100	KG00097815	alopecias	0.022990481927990913
+trial_2	testolactone	341	KG00101472	Gamma-glutamyltransferase increased	0.022901184856891632
+trial_2	testolactone	286	KG00101110	Retention, Urinary	0.022884706035256386
+trial_2	testolactone	269	KG00100399	pyaemia	0.022680284455418587
+trial_2	testolactone	454	KG00098286	Pain, Neck	0.02246713638305664
+trial_2	testolactone	164	KG00108827	ileus colon	0.0223650261759758
+trial_2	testolactone	75	KG00100195	Dolens, Phlegmasia Alba	0.02220030315220356
+trial_2	testolactone	441	KG00098262	cellulitis nos	0.022172551602125168
+trial_2	testolactone	221	KG00101207	peripheral oedema	0.021969730034470558
+trial_2	testolactone	153	KG00099579	lethargy	0.021741731092333794
+trial_2	testolactone	22	KG00098705	Edema (NOS)	0.021630514413118362
+trial_2	testolactone	212	KG00100576	shivers	0.021397665143013
+trial_2	testolactone	361	KG00098004	Fibrillation, Atrial	0.02130395919084549

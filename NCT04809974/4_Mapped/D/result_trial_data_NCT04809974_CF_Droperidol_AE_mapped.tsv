@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.0824383795261383
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0824308767914772
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07820317149162292
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0719035416841507
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07157730311155319
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06471259891986847
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06140675023198128
+trial_1	placebo	21	KG00098675	dyspnoea	0.05666372925043106
+trial_1	placebo	46	KG00099121	Headache NOS	0.05437930300831795
+trial_1	placebo	20	KG00098540	dehydration	0.05310819298028946
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05158672481775284
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.051350899040699005
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04807619750499725
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.044891901314258575
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.042373672127723694
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04197607934474945
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04046907648444176
+trial_1	placebo	68	KG00099901	nauseas	0.0398421511054039
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03918720781803131
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.035362813621759415
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.034290142357349396
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.032913580536842346
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03245237097144127
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.032312676310539246
+trial_1	placebo	85	KG00098474	coughs	0.03214934468269348
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03185207024216652
+trial_1	placebo	86	KG00098565	Depression, Mental	0.031731016933918
+trial_1	placebo	114	KG00098933	fevers	0.031375620514154434
+trial_1	placebo	126	KG00100076	Pain NOS	0.03124074824154377
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03070966899394989
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030583739280700684
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0297215785831213
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.029668759554624557
+trial_1	placebo	104	KG00097963	arthralgias	0.02925705537199974
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02791409194469452
+trial_1	placebo	66	KG00098642	drowsiness	0.027079232037067413
+trial_1	placebo	300	KG00101064	xerostomia	0.026993336156010628
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02684733457863331
+trial_1	placebo	242	KG00100855	tremors	0.026578590273857117
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025847727432847023
+trial_1	placebo	228	KG00114657	Weight below normal	0.025823725387454033
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.025181883946061134
+trial_1	placebo	102	KG00097916	anxieties	0.02512751892209053
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02386396937072277
+trial_1	placebo	239	KG00100128	pareses	0.023638425394892693
+trial_1	placebo	121	KG00099190	haemorrhage	0.023287752643227577
+trial_1	placebo	262	KG00101199	agitation	0.022819239646196365
+trial_1	placebo	5	KG00099169	haematuria	0.02246161177754402
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02238823100924492
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02206629142165184
+trial_1	placebo	147	KG00098000	atelectases	0.021917443722486496
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021878546103835106
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021817080676555634
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.021512648090720177
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.021250179037451744
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.020606106147170067
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019944095984101295
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019921237602829933
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019807754084467888
+trial_1	placebo	269	KG00100399	pyaemia	0.019670799374580383
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.019482139497995377
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019099503755569458
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01892475038766861
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018910670652985573
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01870671473443508
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01865663006901741
+trial_1	placebo	466	KG00101205	fall	0.01821431890130043
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.017887147143483162
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01772497221827507
+trial_1	placebo	164	KG00108827	ileus colon	0.017723876982927322
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016601350158452988
+trial_1	placebo	116	KG00098964	Pain in foot	0.016322700306773186
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016195112839341164
+trial_1	placebo	234	KG00098669	dysgeusias	0.01582033559679985
+trial_1	placebo	186	KG00101431	creatinine increased	0.01546033751219511
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.015294830314815044
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.015159925445914268
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015123914927244186
+trial_1	placebo	136	KG00101582	Dry;skin	0.0150960274040699
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.015058533288538456
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01493508368730545
+trial_1	placebo	82	KG00097697	abdomen distended	0.014930807054042816
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014756948687136173
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014604329131543636
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.014401151798665524
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.014384478330612183
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014235582202672958
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.014196169562637806
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014166370965540409
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014147291891276836
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014110925607383251
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.013919300399720669
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.013667220249772072
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013632095418870449
+trial_1	placebo	4	KG00098817	epistaxis	0.013607721775770187
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.013504411093890667
+trial_1	placebo	72	KG00103771	myalgias	0.013317864388227463
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.013256373815238476
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01324040349572897
+trial_1	placebo	282	KG00099309	hypernatraemia	0.013066601939499378
+trial_2	droperidol	87	KG00098599	diarrhoea	0.0824383795261383
+trial_2	droperidol	9	KG00098432	Confusion NOS	0.0824308767914772
+trial_2	droperidol	17	KG00097991	Asthenia NOS	0.07820317149162292
+trial_2	droperidol	177	KG00099299	hyperglycaemia	0.0719035416841507
+trial_2	droperidol	78	KG00099326	Hypertensive diseases	0.07157730311155319
+trial_2	droperidol	123	KG00099351	hypokalaemia	0.06471259891986847
+trial_2	droperidol	77	KG00098450	Constipation NOS	0.06140675023198128
+trial_2	droperidol	21	KG00098675	dyspnoea	0.05666372925043106
+trial_2	droperidol	46	KG00099121	Headache NOS	0.05437930300831795
+trial_2	droperidol	20	KG00098540	dehydration	0.05310819298028946
+trial_2	droperidol	49	KG00099902	nausea with vomiting	0.05158672481775284
+trial_2	droperidol	173	KG00098172	Bronchopneumonia NOS	0.051350899040699005
+trial_2	droperidol	79	KG00100317	Insomnia, Primary	0.04807619750499725
+trial_2	droperidol	151	KG00098274	Infarction, Cerebral	0.044891901314258575
+trial_2	droperidol	189	KG00101580	Alanine aminotransferase increase	0.042373672127723694
+trial_2	droperidol	96	KG00101679	Unattended death NOS	0.04197607934474945
+trial_2	droperidol	180	KG00099363	Hypotension NOS	0.04046907648444176
+trial_2	droperidol	68	KG00099901	nauseas	0.0398421511054039
+trial_2	droperidol	29	KG00099354	hyponatraemia	0.03918720781803131
+trial_2	droperidol	188	KG00101579	Aspartate aminotransferase increase	0.035362813621759415
+trial_2	droperidol	200	KG00098539	Disorders, Deglutition	0.034290142357349396
+trial_2	droperidol	76	KG00100450	Respiratory insufficiency, NOS	0.032913580536842346
+trial_2	droperidol	67	KG00098673	Dyspepsia, NOS	0.03245237097144127
+trial_2	droperidol	37	KG00097696	Cramps, Abdominal	0.032312676310539246
+trial_2	droperidol	85	KG00098474	coughs	0.03214934468269348
+trial_2	droperidol	132	KG00101045	Gain, Weight	0.03185207024216652
+trial_2	droperidol	86	KG00098565	Depression, Mental	0.031731016933918
+trial_2	droperidol	114	KG00098933	fevers	0.031375620514154434
+trial_2	droperidol	126	KG00100076	Pain NOS	0.03124074824154377
+trial_2	droperidol	64	KG00097734	Acrodermatitis, NOS	0.03070966899394989
+trial_2	droperidol	30	KG00099500	Acute Kidney Failure	0.030583739280700684
+trial_2	droperidol	350	KG00106765	decreased platelet count	0.0297215785831213
+trial_2	droperidol	61	KG00099501	Chronic Kidney Failure	0.029668759554624557
+trial_2	droperidol	104	KG00097963	arthralgias	0.02925705537199974
+trial_2	droperidol	142	KG00100923	Unspecified infectious and parasitic diseases	0.02791409194469452
+trial_2	droperidol	66	KG00098642	drowsiness	0.027079232037067413
+trial_2	droperidol	300	KG00101064	xerostomia	0.026993336156010628
+trial_2	droperidol	14	KG00097852	Anemia NOS	0.02684733457863331
+trial_2	droperidol	242	KG00100855	tremors	0.026578590273857117
+trial_2	droperidol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025847727432847023
+trial_2	droperidol	228	KG00114657	Weight below normal	0.025823725387454033
+trial_2	droperidol	179	KG00099342	hypocalcaemia	0.025181883946061134
+trial_2	droperidol	102	KG00097916	anxieties	0.02512751892209053
+trial_2	droperidol	28	KG00099347	hypoglycaemia	0.02386396937072277
+trial_2	droperidol	239	KG00100128	pareses	0.023638425394892693
+trial_2	droperidol	121	KG00099190	haemorrhage	0.023287752643227577
+trial_2	droperidol	262	KG00101199	agitation	0.022819239646196365
+trial_2	droperidol	5	KG00099169	haematuria	0.02246161177754402
+trial_2	droperidol	36	KG00106434	Vision, Blurring Of	0.02238823100924492
+trial_2	droperidol	18	KG00098307	Pain, Chest	0.02206629142165184
+trial_2	droperidol	147	KG00098000	atelectases	0.021917443722486496
+trial_2	droperidol	35	KG00101507	hypomagnesaemia	0.021878546103835106
+trial_2	droperidol	249	KG00104430	hypoalbuminaemia	0.021817080676555634
+trial_2	droperidol	261	KG00101559	raised alkaline phosphatase	0.021512648090720177
+trial_2	droperidol	243	KG00100947	Micturition frequency increased	0.021250179037451744
+trial_2	droperidol	396	KG00100373	Embolism, Pulmonary	0.020606106147170067
+trial_2	droperidol	130	KG00100683	Stomatitis NOS	0.019944095984101295
+trial_2	droperidol	27	KG00099303	hyperkalaemia	0.019921237602829933
+trial_2	droperidol	286	KG00101110	Retention, Urinary	0.019807754084467888
+trial_2	droperidol	269	KG00100399	pyaemia	0.019670799374580383
+trial_2	droperidol	2	KG00100772	thrombocytopaenia	0.019482139497995377
+trial_2	droperidol	191	KG00104055	Biliverdin increased	0.019099503755569458
+trial_2	droperidol	101	KG00097901	Anorexia NOS	0.01892475038766861
+trial_2	droperidol	38	KG00098066	Binocular vision disorders	0.018910670652985573
+trial_2	droperidol	69	KG00100082	Palpitations NOS	0.01870671473443508
+trial_2	droperidol	122	KG00099321	Hypersensitivity NOS	0.01865663006901741
+trial_2	droperidol	466	KG00101205	fall	0.01821431890130043
+trial_2	droperidol	131	KG00100948	Urinary tract infection (& [NOS])	0.017887147143483162
+trial_2	droperidol	194	KG00110727	Neutrophil Count Decreased	0.01772497221827507
+trial_2	droperidol	164	KG00108827	ileus colon	0.017723876982927322
+trial_2	droperidol	22	KG00098705	Edema (NOS)	0.016601350158452988
+trial_2	droperidol	116	KG00098964	Pain in foot	0.016322700306773186
+trial_2	droperidol	211	KG00100341	Pruritus NOS	0.016195112839341164
+trial_2	droperidol	234	KG00098669	dysgeusias	0.01582033559679985
+trial_2	droperidol	186	KG00101431	creatinine increased	0.01546033751219511
+trial_2	droperidol	170	KG00108926	Neutropenia, Febrile	0.015294830314815044
+trial_2	droperidol	253	KG00100232	Pleural effusion NOS (disorder)	0.015159925445914268
+trial_2	droperidol	199	KG00098371	Rhinitis (chronic) NOS	0.015123914927244186
+trial_2	droperidol	136	KG00101582	Dry;skin	0.0150960274040699
+trial_2	droperidol	276	KG00099127	Arrest, Cardiac	0.015058533288538456
+trial_2	droperidol	221	KG00101207	peripheral oedema	0.01493508368730545
+trial_2	droperidol	82	KG00097697	abdomen distended	0.014930807054042816
+trial_2	droperidol	441	KG00098262	cellulitis nos	0.014756948687136173
+trial_2	droperidol	356	KG00112623	Infectious Lung Disorders	0.014604329131543636
+trial_2	droperidol	133	KG00101370	neuropathies sensory	0.014401151798665524
+trial_2	droperidol	256	KG00100738	Tachycardia, Sinus	0.014384478330612183
+trial_2	droperidol	118	KG00099011	Gastritis NOS	0.014235582202672958
+trial_2	droperidol	422	KG00101429	Creatine phosphokinase increased	0.014196169562637806
+trial_2	droperidol	254	KG00100774	Thrombosis NOS	0.014166370965540409
+trial_2	droperidol	92	KG00100926	Infections, Upper Respiratory	0.014147291891276836
+trial_2	droperidol	361	KG00098004	Fibrillation, Atrial	0.014110925607383251
+trial_2	droperidol	75	KG00100195	Dolens, Phlegmasia Alba	0.013919300399720669
+trial_2	droperidol	144	KG00099610	Leukopenia NOS	0.013667220249772072
+trial_2	droperidol	15	KG00097882	Angina pectoris NOS	0.013632095418870449
+trial_2	droperidol	4	KG00098817	epistaxis	0.013607721775770187
+trial_2	droperidol	394	KG00100243	Pneumonia, Aspiration	0.013504411093890667
+trial_2	droperidol	72	KG00103771	myalgias	0.013317864388227463
+trial_2	droperidol	1	KG00099959	Neutropenia NOS	0.013256373815238476
+trial_2	droperidol	152	KG00099402	INCONTINENCE NOS	0.01324040349572897
+trial_2	droperidol	282	KG00099309	hypernatraemia	0.013066601939499378

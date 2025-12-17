@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18835635483264923
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16880030930042267
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13084110617637634
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12565013766288757
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09968449175357819
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09889371693134308
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09639955312013626
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09136935323476791
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08671437948942184
+trial_1	placebo	20	KG00098540	dehydration	0.0824594795703888
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08198664337396622
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.08128026127815247
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.078903928399086
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07557205110788345
+trial_1	placebo	21	KG00098675	dyspnoea	0.07464241981506348
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07357954233884811
+trial_1	placebo	68	KG00099901	nauseas	0.07225733995437622
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0710296556353569
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06982646137475967
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06852639466524124
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06821850687265396
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06787025183439255
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06600257009267807
+trial_1	placebo	46	KG00099121	Headache NOS	0.06583288311958313
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.06401366740465164
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.06226129084825516
+trial_1	placebo	147	KG00098000	atelectases	0.06188787892460823
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06133347004652023
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.060718826949596405
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05887649580836296
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05527222901582718
+trial_1	placebo	114	KG00098933	fevers	0.05351942032575607
+trial_1	placebo	5	KG00099169	haematuria	0.0529957115650177
+trial_1	placebo	269	KG00100399	pyaemia	0.05272846668958664
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05185076221823692
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05143589526414871
+trial_1	placebo	29	KG00099354	hyponatraemia	0.050029102712869644
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.0489351786673069
+trial_1	placebo	228	KG00114657	Weight below normal	0.04858608916401863
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04512937739491463
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04468516632914543
+trial_1	placebo	164	KG00108827	ileus colon	0.043485209345817566
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.043320778757333755
+trial_1	placebo	239	KG00100128	pareses	0.042956314980983734
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0424351692199707
+trial_1	placebo	126	KG00100076	Pain NOS	0.04129764810204506
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.040537383407354355
+trial_1	placebo	104	KG00097963	arthralgias	0.03970368206501007
+trial_1	placebo	85	KG00098474	coughs	0.03942028805613518
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.039109621196985245
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03909625858068466
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03786606341600418
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03690820187330246
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.036814652383327484
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03650673106312752
+trial_1	placebo	234	KG00098669	dysgeusias	0.03636113181710243
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03618526831269264
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.035574037581682205
+trial_1	placebo	102	KG00097916	anxieties	0.03551231697201729
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03517954796552658
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.034168679267168045
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03404884412884712
+trial_1	placebo	186	KG00101431	creatinine increased	0.03370695561170578
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03369328752160072
+trial_1	placebo	82	KG00097697	abdomen distended	0.03318589925765991
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03316541761159897
+trial_1	placebo	116	KG00098964	Pain in foot	0.03222693130373955
+trial_1	placebo	72	KG00103771	myalgias	0.03205369412899017
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03194056823849678
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0317872054874897
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03173452615737915
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.031428903341293335
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03129148110747337
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.031040862202644348
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03042702190577984
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02987654134631157
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.029771042987704277
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02971218340098858
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02964203618466854
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02950305864214897
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02918432280421257
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028899511322379112
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.028529854491353035
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.028160659596323967
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02786175161600113
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02782497927546501
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.027523178607225418
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02748829498887062
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027042176574468613
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.02634461037814617
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.02591896243393421
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.025868374854326248
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.025823496282100677
+trial_1	placebo	4	KG00098817	epistaxis	0.025815177708864212
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02548036351799965
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02514776773750782
+trial_1	placebo	262	KG00101199	agitation	0.025002194568514824
+trial_1	placebo	257	KG00100922	Erythema NOS	0.024995625019073486
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.02479386515915394
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024487409740686417
+trial_2	doripenem	87	KG00098599	diarrhoea	0.18835635483264923
+trial_2	doripenem	78	KG00099326	Hypertensive diseases	0.16880030930042267
+trial_2	doripenem	9	KG00098432	Confusion NOS	0.13084110617637634
+trial_2	doripenem	123	KG00099351	hypokalaemia	0.12565013766288757
+trial_2	doripenem	188	KG00101579	Aspartate aminotransferase increase	0.09968449175357819
+trial_2	doripenem	189	KG00101580	Alanine aminotransferase increase	0.09889371693134308
+trial_2	doripenem	173	KG00098172	Bronchopneumonia NOS	0.09639955312013626
+trial_2	doripenem	77	KG00098450	Constipation NOS	0.09136935323476791
+trial_2	doripenem	177	KG00099299	hyperglycaemia	0.08671437948942184
+trial_2	doripenem	20	KG00098540	dehydration	0.0824594795703888
+trial_2	doripenem	37	KG00097696	Cramps, Abdominal	0.08198664337396622
+trial_2	doripenem	30	KG00099500	Acute Kidney Failure	0.08128026127815247
+trial_2	doripenem	17	KG00097991	Asthenia NOS	0.078903928399086
+trial_2	doripenem	61	KG00099501	Chronic Kidney Failure	0.07557205110788345
+trial_2	doripenem	21	KG00098675	dyspnoea	0.07464241981506348
+trial_2	doripenem	64	KG00097734	Acrodermatitis, NOS	0.07357954233884811
+trial_2	doripenem	68	KG00099901	nauseas	0.07225733995437622
+trial_2	doripenem	76	KG00100450	Respiratory insufficiency, NOS	0.0710296556353569
+trial_2	doripenem	243	KG00100947	Micturition frequency increased	0.06982646137475967
+trial_2	doripenem	2	KG00100772	thrombocytopaenia	0.06852639466524124
+trial_2	doripenem	49	KG00099902	nausea with vomiting	0.06821850687265396
+trial_2	doripenem	14	KG00097852	Anemia NOS	0.06787025183439255
+trial_2	doripenem	350	KG00106765	decreased platelet count	0.06600257009267807
+trial_2	doripenem	46	KG00099121	Headache NOS	0.06583288311958313
+trial_2	doripenem	396	KG00100373	Embolism, Pulmonary	0.06401366740465164
+trial_2	doripenem	276	KG00099127	Arrest, Cardiac	0.06226129084825516
+trial_2	doripenem	147	KG00098000	atelectases	0.06188787892460823
+trial_2	doripenem	79	KG00100317	Insomnia, Primary	0.06133347004652023
+trial_2	doripenem	200	KG00098539	Disorders, Deglutition	0.060718826949596405
+trial_2	doripenem	67	KG00098673	Dyspepsia, NOS	0.05887649580836296
+trial_2	doripenem	151	KG00098274	Infarction, Cerebral	0.05527222901582718
+trial_2	doripenem	114	KG00098933	fevers	0.05351942032575607
+trial_2	doripenem	5	KG00099169	haematuria	0.0529957115650177
+trial_2	doripenem	269	KG00100399	pyaemia	0.05272846668958664
+trial_2	doripenem	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05185076221823692
+trial_2	doripenem	180	KG00099363	Hypotension NOS	0.05143589526414871
+trial_2	doripenem	29	KG00099354	hyponatraemia	0.050029102712869644
+trial_2	doripenem	35	KG00101507	hypomagnesaemia	0.0489351786673069
+trial_2	doripenem	228	KG00114657	Weight below normal	0.04858608916401863
+trial_2	doripenem	261	KG00101559	raised alkaline phosphatase	0.04512937739491463
+trial_2	doripenem	179	KG00099342	hypocalcaemia	0.04468516632914543
+trial_2	doripenem	164	KG00108827	ileus colon	0.043485209345817566
+trial_2	doripenem	27	KG00099303	hyperkalaemia	0.043320778757333755
+trial_2	doripenem	239	KG00100128	pareses	0.042956314980983734
+trial_2	doripenem	69	KG00100082	Palpitations NOS	0.0424351692199707
+trial_2	doripenem	126	KG00100076	Pain NOS	0.04129764810204506
+trial_2	doripenem	191	KG00104055	Biliverdin increased	0.040537383407354355
+trial_2	doripenem	104	KG00097963	arthralgias	0.03970368206501007
+trial_2	doripenem	85	KG00098474	coughs	0.03942028805613518
+trial_2	doripenem	131	KG00100948	Urinary tract infection (& [NOS])	0.039109621196985245
+trial_2	doripenem	28	KG00099347	hypoglycaemia	0.03909625858068466
+trial_2	doripenem	86	KG00098565	Depression, Mental	0.03786606341600418
+trial_2	doripenem	422	KG00101429	Creatine phosphokinase increased	0.03690820187330246
+trial_2	doripenem	101	KG00097901	Anorexia NOS	0.036814652383327484
+trial_2	doripenem	75	KG00100195	Dolens, Phlegmasia Alba	0.03650673106312752
+trial_2	doripenem	234	KG00098669	dysgeusias	0.03636113181710243
+trial_2	doripenem	130	KG00100683	Stomatitis NOS	0.03618526831269264
+trial_2	doripenem	253	KG00100232	Pleural effusion NOS (disorder)	0.035574037581682205
+trial_2	doripenem	102	KG00097916	anxieties	0.03551231697201729
+trial_2	doripenem	441	KG00098262	cellulitis nos	0.03517954796552658
+trial_2	doripenem	194	KG00110727	Neutrophil Count Decreased	0.034168679267168045
+trial_2	doripenem	38	KG00098066	Binocular vision disorders	0.03404884412884712
+trial_2	doripenem	186	KG00101431	creatinine increased	0.03370695561170578
+trial_2	doripenem	97	KG00104198	LIVER ENZYME ELEVATED	0.03369328752160072
+trial_2	doripenem	82	KG00097697	abdomen distended	0.03318589925765991
+trial_2	doripenem	211	KG00100341	Pruritus NOS	0.03316541761159897
+trial_2	doripenem	116	KG00098964	Pain in foot	0.03222693130373955
+trial_2	doripenem	72	KG00103771	myalgias	0.03205369412899017
+trial_2	doripenem	286	KG00101110	Retention, Urinary	0.03194056823849678
+trial_2	doripenem	18	KG00098307	Pain, Chest	0.0317872054874897
+trial_2	doripenem	249	KG00104430	hypoalbuminaemia	0.03173452615737915
+trial_2	doripenem	494	KG00099838	Organ Failure, Multiple	0.031428903341293335
+trial_2	doripenem	282	KG00099309	hypernatraemia	0.03129148110747337
+trial_2	doripenem	361	KG00098004	Fibrillation, Atrial	0.031040862202644348
+trial_2	doripenem	122	KG00099321	Hypersensitivity NOS	0.03042702190577984
+trial_2	doripenem	144	KG00099610	Leukopenia NOS	0.02987654134631157
+trial_2	doripenem	256	KG00100738	Tachycardia, Sinus	0.029771042987704277
+trial_2	doripenem	341	KG00101472	Gamma-glutamyltransferase increased	0.02971218340098858
+trial_2	doripenem	394	KG00100243	Pneumonia, Aspiration	0.02964203618466854
+trial_2	doripenem	288	KG00101223	hypophosphataemia	0.02950305864214897
+trial_2	doripenem	204	KG00098849	Esophagitis, Peptic	0.02918432280421257
+trial_2	doripenem	31	KG00099872	Infarction, Myocardial	0.028899511322379112
+trial_2	doripenem	356	KG00112623	Infectious Lung Disorders	0.028529854491353035
+trial_2	doripenem	92	KG00100926	Infections, Upper Respiratory	0.028160659596323967
+trial_2	doripenem	454	KG00098286	Pain, Neck	0.02786175161600113
+trial_2	doripenem	96	KG00101679	Unattended death NOS	0.02782497927546501
+trial_2	doripenem	561	KG00104180	Diarrhoea, Clostridium difficile	0.027523178607225418
+trial_2	doripenem	138	KG00098796	epidemic vomiting syndrome	0.02748829498887062
+trial_2	doripenem	355	KG00110857	lymphocyte count decreased	0.027042176574468613
+trial_2	doripenem	747	KG00101527	Liver function tests abnormal (finding)	0.02634461037814617
+trial_2	doripenem	202	KG00098630	Disturbance of Skin Sensation	0.02591896243393421
+trial_2	doripenem	163	KG00104050	bowel obstructions small	0.025868374854326248
+trial_2	doripenem	371	KG00098517	Cystitis (NOS)	0.025823496282100677
+trial_2	doripenem	4	KG00098817	epistaxis	0.025815177708864212
+trial_2	doripenem	15	KG00097882	Angina pectoris NOS	0.02548036351799965
+trial_2	doripenem	268	KG00099557	Heart Failure, Left-Sided	0.02514776773750782
+trial_2	doripenem	262	KG00101199	agitation	0.025002194568514824
+trial_2	doripenem	257	KG00100922	Erythema NOS	0.024995625019073486
+trial_2	doripenem	183	KG00100449	Adult Respiratory Distress Syndrome	0.02479386515915394
+trial_2	doripenem	508	KG00108565	blood glucose increased	0.024487409740686417

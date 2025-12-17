@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11579330265522003
+trial_1	placebo	87	KG00098599	diarrhoea	0.09435408562421799
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08778434991836548
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07329986989498138
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07245835661888123
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06432289630174637
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06189531832933426
+trial_1	placebo	20	KG00098540	dehydration	0.06058051437139511
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05768141523003578
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05511663481593132
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05486191436648369
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05303999036550522
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.052600614726543427
+trial_1	placebo	228	KG00114657	Weight below normal	0.050058331340551376
+trial_1	placebo	21	KG00098675	dyspnoea	0.04860204830765724
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.047262582927942276
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04686479642987251
+trial_1	placebo	46	KG00099121	Headache NOS	0.046708013862371445
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.044288963079452515
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04260004311800003
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04151379317045212
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04125664010643959
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04111959785223007
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03979770094156265
+trial_1	placebo	126	KG00100076	Pain NOS	0.03904132544994354
+trial_1	placebo	72	KG00103771	myalgias	0.037117283791303635
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03634608909487724
+trial_1	placebo	350	KG00106765	decreased platelet count	0.035529255867004395
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.035512421280145645
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.035447362810373306
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03530574589967728
+trial_1	placebo	104	KG00097963	arthralgias	0.03511614724993706
+trial_1	placebo	68	KG00099901	nauseas	0.03472191095352173
+trial_1	placebo	239	KG00100128	pareses	0.033876676112413406
+trial_1	placebo	121	KG00099190	haemorrhage	0.033631376922130585
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032995469868183136
+trial_1	placebo	114	KG00098933	fevers	0.03187772259116173
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.030840836465358734
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.030364476144313812
+trial_1	placebo	85	KG00098474	coughs	0.02907092683017254
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028422104194760323
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02777659147977829
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.027606185525655746
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.027510808780789375
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02701420709490776
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02671569399535656
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.026212764903903008
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02592470496892929
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02563767321407795
+trial_1	placebo	147	KG00098000	atelectases	0.02503403276205063
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.024620136246085167
+trial_1	placebo	102	KG00097916	anxieties	0.02461421489715576
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.024542633444070816
+trial_1	placebo	5	KG00099169	haematuria	0.023873351514339447
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02356819249689579
+trial_1	placebo	116	KG00098964	Pain in foot	0.023556092754006386
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02349025383591652
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02338322065770626
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02327602729201317
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022916214540600777
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02261270023882389
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022550836205482483
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02246765047311783
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02236492559313774
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022271545603871346
+trial_1	placebo	262	KG00101199	agitation	0.021862594410777092
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02180168777704239
+trial_1	placebo	466	KG00101205	fall	0.0217833761125803
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021400755271315575
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021113796159625053
+trial_1	placebo	100	KG00097815	alopecias	0.020823976024985313
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.020657258108258247
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.020171724259853363
+trial_1	placebo	136	KG00101582	Dry;skin	0.01962829753756523
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019548263400793076
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019168278202414513
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0188832376152277
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018534915521740913
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.018467511981725693
+trial_1	placebo	363	KG00098184	burns injury	0.018288370221853256
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01828683726489544
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018168900161981583
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.017947809770703316
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017888428643345833
+trial_1	placebo	339	KG00100334	proteinurias	0.017717676237225533
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01767457276582718
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.017601529136300087
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017534060403704643
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01736624725162983
+trial_1	placebo	456	KG00099420	Influenzae	0.01729520782828331
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.017185799777507782
+trial_1	placebo	242	KG00100855	tremors	0.017151249572634697
+trial_1	placebo	345	KG00103926	impairments memory	0.017006875947117805
+trial_1	placebo	203	KG00098661	dysarthrias	0.01695600524544716
+trial_1	placebo	454	KG00098286	Pain, Neck	0.016919417306780815
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01686909608542919
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.01686217077076435
+trial_1	placebo	82	KG00097697	abdomen distended	0.016823241487145424
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.016480103135108948
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.016423916444182396
+trial_2	drospirenone	78	KG00099326	Hypertensive diseases	0.11579330265522003
+trial_2	drospirenone	87	KG00098599	diarrhoea	0.09435408562421799
+trial_2	drospirenone	177	KG00099299	hyperglycaemia	0.08778434991836548
+trial_2	drospirenone	173	KG00098172	Bronchopneumonia NOS	0.07329986989498138
+trial_2	drospirenone	17	KG00097991	Asthenia NOS	0.07245835661888123
+trial_2	drospirenone	243	KG00100947	Micturition frequency increased	0.06432289630174637
+trial_2	drospirenone	9	KG00098432	Confusion NOS	0.06189531832933426
+trial_2	drospirenone	20	KG00098540	dehydration	0.06058051437139511
+trial_2	drospirenone	64	KG00097734	Acrodermatitis, NOS	0.05768141523003578
+trial_2	drospirenone	123	KG00099351	hypokalaemia	0.05511663481593132
+trial_2	drospirenone	79	KG00100317	Insomnia, Primary	0.05486191436648369
+trial_2	drospirenone	86	KG00098565	Depression, Mental	0.05303999036550522
+trial_2	drospirenone	67	KG00098673	Dyspepsia, NOS	0.052600614726543427
+trial_2	drospirenone	228	KG00114657	Weight below normal	0.050058331340551376
+trial_2	drospirenone	21	KG00098675	dyspnoea	0.04860204830765724
+trial_2	drospirenone	151	KG00098274	Infarction, Cerebral	0.047262582927942276
+trial_2	drospirenone	37	KG00097696	Cramps, Abdominal	0.04686479642987251
+trial_2	drospirenone	46	KG00099121	Headache NOS	0.046708013862371445
+trial_2	drospirenone	122	KG00099321	Hypersensitivity NOS	0.044288963079452515
+trial_2	drospirenone	132	KG00101045	Gain, Weight	0.04260004311800003
+trial_2	drospirenone	200	KG00098539	Disorders, Deglutition	0.04151379317045212
+trial_2	drospirenone	77	KG00098450	Constipation NOS	0.04125664010643959
+trial_2	drospirenone	189	KG00101580	Alanine aminotransferase increase	0.04111959785223007
+trial_2	drospirenone	28	KG00099347	hypoglycaemia	0.03979770094156265
+trial_2	drospirenone	126	KG00100076	Pain NOS	0.03904132544994354
+trial_2	drospirenone	72	KG00103771	myalgias	0.037117283791303635
+trial_2	drospirenone	14	KG00097852	Anemia NOS	0.03634608909487724
+trial_2	drospirenone	350	KG00106765	decreased platelet count	0.035529255867004395
+trial_2	drospirenone	166	KG00099773	menopausal syndrome	0.035512421280145645
+trial_2	drospirenone	139	KG00098855	Sinusitis, Ethmoid	0.035447362810373306
+trial_2	drospirenone	29	KG00099354	hyponatraemia	0.03530574589967728
+trial_2	drospirenone	104	KG00097963	arthralgias	0.03511614724993706
+trial_2	drospirenone	68	KG00099901	nauseas	0.03472191095352173
+trial_2	drospirenone	239	KG00100128	pareses	0.033876676112413406
+trial_2	drospirenone	121	KG00099190	haemorrhage	0.033631376922130585
+trial_2	drospirenone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032995469868183136
+trial_2	drospirenone	114	KG00098933	fevers	0.03187772259116173
+trial_2	drospirenone	49	KG00099902	nausea with vomiting	0.030840836465358734
+trial_2	drospirenone	188	KG00101579	Aspartate aminotransferase increase	0.030364476144313812
+trial_2	drospirenone	85	KG00098474	coughs	0.02907092683017254
+trial_2	drospirenone	96	KG00101679	Unattended death NOS	0.028422104194760323
+trial_2	drospirenone	27	KG00099303	hyperkalaemia	0.02777659147977829
+trial_2	drospirenone	38	KG00098066	Binocular vision disorders	0.027606185525655746
+trial_2	drospirenone	179	KG00099342	hypocalcaemia	0.027510808780789375
+trial_2	drospirenone	2	KG00100772	thrombocytopaenia	0.02701420709490776
+trial_2	drospirenone	36	KG00106434	Vision, Blurring Of	0.02671569399535656
+trial_2	drospirenone	297	KG00099294	hypercholesterolaemia	0.026212764903903008
+trial_2	drospirenone	180	KG00099363	Hypotension NOS	0.02592470496892929
+trial_2	drospirenone	76	KG00100450	Respiratory insufficiency, NOS	0.02563767321407795
+trial_2	drospirenone	147	KG00098000	atelectases	0.02503403276205063
+trial_2	drospirenone	101	KG00097901	Anorexia NOS	0.024620136246085167
+trial_2	drospirenone	102	KG00097916	anxieties	0.02461421489715576
+trial_2	drospirenone	61	KG00099501	Chronic Kidney Failure	0.024542633444070816
+trial_2	drospirenone	5	KG00099169	haematuria	0.023873351514339447
+trial_2	drospirenone	355	KG00110857	lymphocyte count decreased	0.02356819249689579
+trial_2	drospirenone	116	KG00098964	Pain in foot	0.023556092754006386
+trial_2	drospirenone	142	KG00100923	Unspecified infectious and parasitic diseases	0.02349025383591652
+trial_2	drospirenone	131	KG00100948	Urinary tract infection (& [NOS])	0.02338322065770626
+trial_2	drospirenone	246	KG00103338	Aspartate Aminotransferase Measurement	0.02327602729201317
+trial_2	drospirenone	194	KG00110727	Neutrophil Count Decreased	0.022916214540600777
+trial_2	drospirenone	282	KG00099309	hypernatraemia	0.02261270023882389
+trial_2	drospirenone	18	KG00098307	Pain, Chest	0.022550836205482483
+trial_2	drospirenone	508	KG00108565	blood glucose increased	0.02246765047311783
+trial_2	drospirenone	441	KG00098262	cellulitis nos	0.02236492559313774
+trial_2	drospirenone	154	KG00099686	Lymphopenias	0.022271545603871346
+trial_2	drospirenone	262	KG00101199	agitation	0.021862594410777092
+trial_2	drospirenone	152	KG00099402	INCONTINENCE NOS	0.02180168777704239
+trial_2	drospirenone	466	KG00101205	fall	0.0217833761125803
+trial_2	drospirenone	133	KG00101370	neuropathies sensory	0.021400755271315575
+trial_2	drospirenone	69	KG00100082	Palpitations NOS	0.021113796159625053
+trial_2	drospirenone	100	KG00097815	alopecias	0.020823976024985313
+trial_2	drospirenone	249	KG00104430	hypoalbuminaemia	0.020657258108258247
+trial_2	drospirenone	195	KG00097814	Atopic Rhinitis	0.020171724259853363
+trial_2	drospirenone	136	KG00101582	Dry;skin	0.01962829753756523
+trial_2	drospirenone	396	KG00100373	Embolism, Pulmonary	0.019548263400793076
+trial_2	drospirenone	221	KG00101207	peripheral oedema	0.019168278202414513
+trial_2	drospirenone	191	KG00104055	Biliverdin increased	0.0188832376152277
+trial_2	drospirenone	92	KG00100926	Infections, Upper Respiratory	0.018534915521740913
+trial_2	drospirenone	75	KG00100195	Dolens, Phlegmasia Alba	0.018467511981725693
+trial_2	drospirenone	363	KG00098184	burns injury	0.018288370221853256
+trial_2	drospirenone	276	KG00099127	Arrest, Cardiac	0.01828683726489544
+trial_2	drospirenone	30	KG00099500	Acute Kidney Failure	0.018168900161981583
+trial_2	drospirenone	118	KG00099011	Gastritis NOS	0.017947809770703316
+trial_2	drospirenone	31	KG00099872	Infarction, Myocardial	0.017888428643345833
+trial_2	drospirenone	339	KG00100334	proteinurias	0.017717676237225533
+trial_2	drospirenone	261	KG00101559	raised alkaline phosphatase	0.01767457276582718
+trial_2	drospirenone	22	KG00098705	Edema (NOS)	0.017601529136300087
+trial_2	drospirenone	361	KG00098004	Fibrillation, Atrial	0.017534060403704643
+trial_2	drospirenone	288	KG00101223	hypophosphataemia	0.01736624725162983
+trial_2	drospirenone	456	KG00099420	Influenzae	0.01729520782828331
+trial_2	drospirenone	286	KG00101110	Retention, Urinary	0.017185799777507782
+trial_2	drospirenone	242	KG00100855	tremors	0.017151249572634697
+trial_2	drospirenone	345	KG00103926	impairments memory	0.017006875947117805
+trial_2	drospirenone	203	KG00098661	dysarthrias	0.01695600524544716
+trial_2	drospirenone	454	KG00098286	Pain, Neck	0.016919417306780815
+trial_2	drospirenone	33	KG00100094	Pancreatitis NOS	0.01686909608542919
+trial_2	drospirenone	254	KG00100774	Thrombosis NOS	0.01686217077076435
+trial_2	drospirenone	82	KG00097697	abdomen distended	0.016823241487145424
+trial_2	drospirenone	371	KG00098517	Cystitis (NOS)	0.016480103135108948
+trial_2	drospirenone	105	KG00097964	Arthritis NOS	0.016423916444182396

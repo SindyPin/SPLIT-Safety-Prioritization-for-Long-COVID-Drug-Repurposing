@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	68	KG00099901	nauseas	0.22306999564170837
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.21167074143886566
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18102779984474182
+trial_1	placebo	87	KG00098599	diarrhoea	0.1782463639974594
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15280188620090485
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.13587085902690887
+trial_1	placebo	20	KG00098540	dehydration	0.11975087225437164
+trial_1	placebo	46	KG00099121	Headache NOS	0.11968439072370529
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11817630380392075
+trial_1	placebo	77	KG00098450	Constipation NOS	0.1167733371257782
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.1150769367814064
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11123604327440262
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10408537089824677
+trial_1	placebo	21	KG00098675	dyspnoea	0.09556055068969727
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08156700432300568
+trial_1	placebo	228	KG00114657	Weight below normal	0.07749080657958984
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0710218995809555
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06942084431648254
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06827203929424286
+trial_1	placebo	102	KG00097916	anxieties	0.0621059276163578
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06181212142109871
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06081248074769974
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05720221623778343
+trial_1	placebo	126	KG00100076	Pain NOS	0.05639815330505371
+trial_1	placebo	29	KG00099354	hyponatraemia	0.054000385105609894
+trial_1	placebo	14	KG00097852	Anemia NOS	0.052158284932374954
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04988567903637886
+trial_1	placebo	114	KG00098933	fevers	0.04925302788615227
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04917769134044647
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04740273207426071
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04610005393624306
+trial_1	placebo	239	KG00100128	pareses	0.0453583188354969
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04412207379937172
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0436982735991478
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.043321460485458374
+trial_1	placebo	466	KG00101205	fall	0.04118296876549721
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.041182901710271835
+trial_1	placebo	85	KG00098474	coughs	0.040916915982961655
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03984774276614189
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03878002241253853
+trial_1	placebo	164	KG00108827	ileus colon	0.03847324103116989
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03824656084179878
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03801264613866806
+trial_1	placebo	300	KG00101064	xerostomia	0.03777069225907326
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03751898556947708
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.037276219576597214
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03713654726743698
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03696516156196594
+trial_1	placebo	104	KG00097963	arthralgias	0.0366724394261837
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03648865222930908
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0364852249622345
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03619832918047905
+trial_1	placebo	147	KG00098000	atelectases	0.036027271300554276
+trial_1	placebo	66	KG00098642	drowsiness	0.03571021184325218
+trial_1	placebo	116	KG00098964	Pain in foot	0.0346175953745842
+trial_1	placebo	5	KG00099169	haematuria	0.034494951367378235
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.034425292164087296
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.034324582666158676
+trial_1	placebo	262	KG00101199	agitation	0.03420104831457138
+trial_1	placebo	269	KG00100399	pyaemia	0.0340346097946167
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03363148495554924
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03346847742795944
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03246790170669556
+trial_1	placebo	82	KG00097697	abdomen distended	0.03158542141318321
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.031469304114580154
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.03125905990600586
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03103376366198063
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.031032823026180267
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03071778453886509
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030502915382385254
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.030483508482575417
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0304751954972744
+trial_1	placebo	121	KG00099190	haemorrhage	0.03044557385146618
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.029863212257623672
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02924162708222866
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027004489675164223
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.026956263929605484
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02662409469485283
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02641265280544758
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02639589086174965
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.025881566107273102
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.025543758645653725
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.025450313463807106
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02478826232254505
+trial_1	placebo	25	KG00099134	congestive failures heart	0.024746673181653023
+trial_1	placebo	454	KG00098286	Pain, Neck	0.024551084265112877
+trial_1	placebo	153	KG00099579	lethargy	0.024397853761911392
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02414383925497532
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.024054912850260735
+trial_1	placebo	234	KG00098669	dysgeusias	0.023914722725749016
+trial_1	placebo	203	KG00098661	dysarthrias	0.023828890174627304
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023720083758234978
+trial_1	placebo	425	KG00098146	Chronic Brain Damage	0.02322162501513958
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.023084117099642754
+trial_1	placebo	301	KG00099112	Hallucination NOS	0.02259773574769497
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.022557176649570465
+trial_1	placebo	242	KG00100855	tremors	0.022369379177689552
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022328732535243034
+trial_1	placebo	212	KG00100576	shivers	0.022233277559280396
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.022032998502254486
+trial_2	droxidopa	68	KG00099901	nauseas	0.22306999564170837
+trial_2	droxidopa	49	KG00099902	nausea with vomiting	0.21167074143886566
+trial_2	droxidopa	78	KG00099326	Hypertensive diseases	0.18102779984474182
+trial_2	droxidopa	87	KG00098599	diarrhoea	0.1782463639974594
+trial_2	droxidopa	9	KG00098432	Confusion NOS	0.15280188620090485
+trial_2	droxidopa	101	KG00097901	Anorexia NOS	0.13587085902690887
+trial_2	droxidopa	20	KG00098540	dehydration	0.11975087225437164
+trial_2	droxidopa	46	KG00099121	Headache NOS	0.11968439072370529
+trial_2	droxidopa	123	KG00099351	hypokalaemia	0.11817630380392075
+trial_2	droxidopa	77	KG00098450	Constipation NOS	0.1167733371257782
+trial_2	droxidopa	79	KG00100317	Insomnia, Primary	0.1150769367814064
+trial_2	droxidopa	17	KG00097991	Asthenia NOS	0.11123604327440262
+trial_2	droxidopa	173	KG00098172	Bronchopneumonia NOS	0.10408537089824677
+trial_2	droxidopa	21	KG00098675	dyspnoea	0.09556055068969727
+trial_2	droxidopa	177	KG00099299	hyperglycaemia	0.08156700432300568
+trial_2	droxidopa	228	KG00114657	Weight below normal	0.07749080657958984
+trial_2	droxidopa	200	KG00098539	Disorders, Deglutition	0.0710218995809555
+trial_2	droxidopa	67	KG00098673	Dyspepsia, NOS	0.06942084431648254
+trial_2	droxidopa	180	KG00099363	Hypotension NOS	0.06827203929424286
+trial_2	droxidopa	102	KG00097916	anxieties	0.0621059276163578
+trial_2	droxidopa	61	KG00099501	Chronic Kidney Failure	0.06181212142109871
+trial_2	droxidopa	37	KG00097696	Cramps, Abdominal	0.06081248074769974
+trial_2	droxidopa	86	KG00098565	Depression, Mental	0.05720221623778343
+trial_2	droxidopa	126	KG00100076	Pain NOS	0.05639815330505371
+trial_2	droxidopa	29	KG00099354	hyponatraemia	0.054000385105609894
+trial_2	droxidopa	14	KG00097852	Anemia NOS	0.052158284932374954
+trial_2	droxidopa	151	KG00098274	Infarction, Cerebral	0.04988567903637886
+trial_2	droxidopa	114	KG00098933	fevers	0.04925302788615227
+trial_2	droxidopa	18	KG00098307	Pain, Chest	0.04917769134044647
+trial_2	droxidopa	76	KG00100450	Respiratory insufficiency, NOS	0.04740273207426071
+trial_2	droxidopa	64	KG00097734	Acrodermatitis, NOS	0.04610005393624306
+trial_2	droxidopa	239	KG00100128	pareses	0.0453583188354969
+trial_2	droxidopa	189	KG00101580	Alanine aminotransferase increase	0.04412207379937172
+trial_2	droxidopa	361	KG00098004	Fibrillation, Atrial	0.0436982735991478
+trial_2	droxidopa	286	KG00101110	Retention, Urinary	0.043321460485458374
+trial_2	droxidopa	466	KG00101205	fall	0.04118296876549721
+trial_2	droxidopa	38	KG00098066	Binocular vision disorders	0.041182901710271835
+trial_2	droxidopa	85	KG00098474	coughs	0.040916915982961655
+trial_2	droxidopa	30	KG00099500	Acute Kidney Failure	0.03984774276614189
+trial_2	droxidopa	69	KG00100082	Palpitations NOS	0.03878002241253853
+trial_2	droxidopa	164	KG00108827	ileus colon	0.03847324103116989
+trial_2	droxidopa	211	KG00100341	Pruritus NOS	0.03824656084179878
+trial_2	droxidopa	188	KG00101579	Aspartate aminotransferase increase	0.03801264613866806
+trial_2	droxidopa	300	KG00101064	xerostomia	0.03777069225907326
+trial_2	droxidopa	350	KG00106765	decreased platelet count	0.03751898556947708
+trial_2	droxidopa	142	KG00100923	Unspecified infectious and parasitic diseases	0.037276219576597214
+trial_2	droxidopa	31	KG00099872	Infarction, Myocardial	0.03713654726743698
+trial_2	droxidopa	96	KG00101679	Unattended death NOS	0.03696516156196594
+trial_2	droxidopa	104	KG00097963	arthralgias	0.0366724394261837
+trial_2	droxidopa	28	KG00099347	hypoglycaemia	0.03648865222930908
+trial_2	droxidopa	75	KG00100195	Dolens, Phlegmasia Alba	0.0364852249622345
+trial_2	droxidopa	2	KG00100772	thrombocytopaenia	0.03619832918047905
+trial_2	droxidopa	147	KG00098000	atelectases	0.036027271300554276
+trial_2	droxidopa	66	KG00098642	drowsiness	0.03571021184325218
+trial_2	droxidopa	116	KG00098964	Pain in foot	0.0346175953745842
+trial_2	droxidopa	5	KG00099169	haematuria	0.034494951367378235
+trial_2	droxidopa	276	KG00099127	Arrest, Cardiac	0.034425292164087296
+trial_2	droxidopa	131	KG00100948	Urinary tract infection (& [NOS])	0.034324582666158676
+trial_2	droxidopa	262	KG00101199	agitation	0.03420104831457138
+trial_2	droxidopa	269	KG00100399	pyaemia	0.0340346097946167
+trial_2	droxidopa	243	KG00100947	Micturition frequency increased	0.03363148495554924
+trial_2	droxidopa	396	KG00100373	Embolism, Pulmonary	0.03346847742795944
+trial_2	droxidopa	221	KG00101207	peripheral oedema	0.03246790170669556
+trial_2	droxidopa	82	KG00097697	abdomen distended	0.03158542141318321
+trial_2	droxidopa	27	KG00099303	hyperkalaemia	0.031469304114580154
+trial_2	droxidopa	15	KG00097882	Angina pectoris NOS	0.03125905990600586
+trial_2	droxidopa	441	KG00098262	cellulitis nos	0.03103376366198063
+trial_2	droxidopa	394	KG00100243	Pneumonia, Aspiration	0.031032823026180267
+trial_2	droxidopa	204	KG00098849	Esophagitis, Peptic	0.03071778453886509
+trial_2	droxidopa	179	KG00099342	hypocalcaemia	0.030502915382385254
+trial_2	droxidopa	139	KG00098855	Sinusitis, Ethmoid	0.030483508482575417
+trial_2	droxidopa	22	KG00098705	Edema (NOS)	0.0304751954972744
+trial_2	droxidopa	121	KG00099190	haemorrhage	0.03044557385146618
+trial_2	droxidopa	253	KG00100232	Pleural effusion NOS (disorder)	0.029863212257623672
+trial_2	droxidopa	261	KG00101559	raised alkaline phosphatase	0.02924162708222866
+trial_2	droxidopa	122	KG00099321	Hypersensitivity NOS	0.027004489675164223
+trial_2	droxidopa	89	KG00099301	Hyperhidrosis (disorder)	0.026956263929605484
+trial_2	droxidopa	382	KG00099200	haemorrhoids	0.02662409469485283
+trial_2	droxidopa	282	KG00099309	hypernatraemia	0.02641265280544758
+trial_2	droxidopa	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02639589086174965
+trial_2	droxidopa	33	KG00100094	Pancreatitis NOS	0.025881566107273102
+trial_2	droxidopa	191	KG00104055	Biliverdin increased	0.025543758645653725
+trial_2	droxidopa	36	KG00106434	Vision, Blurring Of	0.025450313463807106
+trial_2	droxidopa	166	KG00099773	menopausal syndrome	0.02478826232254505
+trial_2	droxidopa	25	KG00099134	congestive failures heart	0.024746673181653023
+trial_2	droxidopa	454	KG00098286	Pain, Neck	0.024551084265112877
+trial_2	droxidopa	153	KG00099579	lethargy	0.024397853761911392
+trial_2	droxidopa	371	KG00098517	Cystitis (NOS)	0.02414383925497532
+trial_2	droxidopa	98	KG00097718	Incised wound, NOS	0.024054912850260735
+trial_2	droxidopa	234	KG00098669	dysgeusias	0.023914722725749016
+trial_2	droxidopa	203	KG00098661	dysarthrias	0.023828890174627304
+trial_2	droxidopa	118	KG00099011	Gastritis NOS	0.023720083758234978
+trial_2	droxidopa	425	KG00098146	Chronic Brain Damage	0.02322162501513958
+trial_2	droxidopa	254	KG00100774	Thrombosis NOS	0.023084117099642754
+trial_2	droxidopa	301	KG00099112	Hallucination NOS	0.02259773574769497
+trial_2	droxidopa	35	KG00101507	hypomagnesaemia	0.022557176649570465
+trial_2	droxidopa	242	KG00100855	tremors	0.022369379177689552
+trial_2	droxidopa	288	KG00101223	hypophosphataemia	0.022328732535243034
+trial_2	droxidopa	212	KG00100576	shivers	0.022233277559280396
+trial_2	droxidopa	268	KG00099557	Heart Failure, Left-Sided	0.022032998502254486

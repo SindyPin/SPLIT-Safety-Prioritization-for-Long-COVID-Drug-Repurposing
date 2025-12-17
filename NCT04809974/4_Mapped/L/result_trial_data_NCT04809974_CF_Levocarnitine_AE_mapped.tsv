@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.11428041011095047
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08886435627937317
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08512145280838013
+trial_1	placebo	68	KG00099901	nauseas	0.06615476310253143
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06544339656829834
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06311219930648804
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06263235211372375
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06133069097995758
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06019355729222298
+trial_1	placebo	46	KG00099121	Headache NOS	0.059982944279909134
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05826842039823532
+trial_1	placebo	20	KG00098540	dehydration	0.0576188787817955
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0573001429438591
+trial_1	placebo	21	KG00098675	dyspnoea	0.05574711412191391
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.051417604088783264
+trial_1	placebo	126	KG00100076	Pain NOS	0.04735859856009483
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04497843235731125
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04172990843653679
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04041898995637894
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04009022191166878
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.038564398884773254
+trial_1	placebo	114	KG00098933	fevers	0.03805270791053772
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03713085874915123
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0371239073574543
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.034589800983667374
+trial_1	placebo	228	KG00114657	Weight below normal	0.03428908437490463
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03391693904995918
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03371389955282211
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03338737040758133
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03276414796710014
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03165964409708977
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03069230169057846
+trial_1	placebo	72	KG00103771	myalgias	0.02996629662811756
+trial_1	placebo	85	KG00098474	coughs	0.02964291349053383
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02946089394390583
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02877337671816349
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02844969928264618
+trial_1	placebo	121	KG00099190	haemorrhage	0.027200032025575638
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02717660740017891
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02698538266122341
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02682214230298996
+trial_1	placebo	234	KG00098669	dysgeusias	0.026779886335134506
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.026598241180181503
+trial_1	placebo	147	KG00098000	atelectases	0.026418570429086685
+trial_1	placebo	82	KG00097697	abdomen distended	0.025485653430223465
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02395656146109104
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.023795083165168762
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023186134174466133
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0228695310652256
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02281123958528042
+trial_1	placebo	5	KG00099169	haematuria	0.02250397577881813
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02233799174427986
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.022155826911330223
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021856307983398438
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021472034975886345
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02135833166539669
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02110365778207779
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02107982337474823
+trial_1	placebo	269	KG00100399	pyaemia	0.020848773419857025
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020646505057811737
+trial_1	placebo	262	KG00101199	agitation	0.020510567352175713
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020313138142228127
+trial_1	placebo	104	KG00097963	arthralgias	0.020261181518435478
+trial_1	placebo	239	KG00100128	pareses	0.020091818645596504
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.019929688423871994
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.019595177844166756
+trial_1	placebo	100	KG00097815	alopecias	0.019436344504356384
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01881886087357998
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0187080018222332
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01869475282728672
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01857050508260727
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01834062859416008
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.018160855397582054
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.017713384702801704
+trial_1	placebo	441	KG00098262	cellulitis nos	0.017264436930418015
+trial_1	placebo	116	KG00098964	Pain in foot	0.017223605886101723
+trial_1	placebo	186	KG00101431	creatinine increased	0.01721959561109543
+trial_1	placebo	164	KG00108827	ileus colon	0.017155855894088745
+trial_1	placebo	154	KG00099686	Lymphopenias	0.016533665359020233
+trial_1	placebo	102	KG00097916	anxieties	0.016515841707587242
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.016005391255021095
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.015638165175914764
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015638157725334167
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015506924130022526
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.015451361425220966
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.015417826361954212
+trial_1	placebo	508	KG00108565	blood glucose increased	0.015414410270750523
+trial_1	placebo	282	KG00099309	hypernatraemia	0.015369974076747894
+trial_1	placebo	466	KG00101205	fall	0.015173870138823986
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014805647544562817
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014738304540514946
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014579481445252895
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.014083045534789562
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01396279875189066
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.013845459558069706
+trial_1	placebo	4	KG00098817	epistaxis	0.013631731271743774
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013492455706000328
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.013408375903964043
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.013376835733652115
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013312570750713348
+trial_2	levocarnitine	87	KG00098599	diarrhoea	0.11428041011095047
+trial_2	levocarnitine	9	KG00098432	Confusion NOS	0.08886435627937317
+trial_2	levocarnitine	177	KG00099299	hyperglycaemia	0.08512145280838013
+trial_2	levocarnitine	68	KG00099901	nauseas	0.06615476310253143
+trial_2	levocarnitine	123	KG00099351	hypokalaemia	0.06544339656829834
+trial_2	levocarnitine	173	KG00098172	Bronchopneumonia NOS	0.06311219930648804
+trial_2	levocarnitine	17	KG00097991	Asthenia NOS	0.06263235211372375
+trial_2	levocarnitine	14	KG00097852	Anemia NOS	0.06133069097995758
+trial_2	levocarnitine	78	KG00099326	Hypertensive diseases	0.06019355729222298
+trial_2	levocarnitine	46	KG00099121	Headache NOS	0.059982944279909134
+trial_2	levocarnitine	77	KG00098450	Constipation NOS	0.05826842039823532
+trial_2	levocarnitine	20	KG00098540	dehydration	0.0576188787817955
+trial_2	levocarnitine	37	KG00097696	Cramps, Abdominal	0.0573001429438591
+trial_2	levocarnitine	21	KG00098675	dyspnoea	0.05574711412191391
+trial_2	levocarnitine	49	KG00099902	nausea with vomiting	0.051417604088783264
+trial_2	levocarnitine	126	KG00100076	Pain NOS	0.04735859856009483
+trial_2	levocarnitine	67	KG00098673	Dyspepsia, NOS	0.04497843235731125
+trial_2	levocarnitine	200	KG00098539	Disorders, Deglutition	0.04172990843653679
+trial_2	levocarnitine	2	KG00100772	thrombocytopaenia	0.04041898995637894
+trial_2	levocarnitine	79	KG00100317	Insomnia, Primary	0.04009022191166878
+trial_2	levocarnitine	180	KG00099363	Hypotension NOS	0.038564398884773254
+trial_2	levocarnitine	114	KG00098933	fevers	0.03805270791053772
+trial_2	levocarnitine	96	KG00101679	Unattended death NOS	0.03713085874915123
+trial_2	levocarnitine	76	KG00100450	Respiratory insufficiency, NOS	0.0371239073574543
+trial_2	levocarnitine	61	KG00099501	Chronic Kidney Failure	0.034589800983667374
+trial_2	levocarnitine	228	KG00114657	Weight below normal	0.03428908437490463
+trial_2	levocarnitine	28	KG00099347	hypoglycaemia	0.03391693904995918
+trial_2	levocarnitine	64	KG00097734	Acrodermatitis, NOS	0.03371389955282211
+trial_2	levocarnitine	151	KG00098274	Infarction, Cerebral	0.03338737040758133
+trial_2	levocarnitine	29	KG00099354	hyponatraemia	0.03276414796710014
+trial_2	levocarnitine	350	KG00106765	decreased platelet count	0.03165964409708977
+trial_2	levocarnitine	189	KG00101580	Alanine aminotransferase increase	0.03069230169057846
+trial_2	levocarnitine	72	KG00103771	myalgias	0.02996629662811756
+trial_2	levocarnitine	85	KG00098474	coughs	0.02964291349053383
+trial_2	levocarnitine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02946089394390583
+trial_2	levocarnitine	188	KG00101579	Aspartate aminotransferase increase	0.02877337671816349
+trial_2	levocarnitine	243	KG00100947	Micturition frequency increased	0.02844969928264618
+trial_2	levocarnitine	121	KG00099190	haemorrhage	0.027200032025575638
+trial_2	levocarnitine	101	KG00097901	Anorexia NOS	0.02717660740017891
+trial_2	levocarnitine	18	KG00098307	Pain, Chest	0.02698538266122341
+trial_2	levocarnitine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02682214230298996
+trial_2	levocarnitine	234	KG00098669	dysgeusias	0.026779886335134506
+trial_2	levocarnitine	144	KG00099610	Leukopenia NOS	0.026598241180181503
+trial_2	levocarnitine	147	KG00098000	atelectases	0.026418570429086685
+trial_2	levocarnitine	82	KG00097697	abdomen distended	0.025485653430223465
+trial_2	levocarnitine	86	KG00098565	Depression, Mental	0.02395656146109104
+trial_2	levocarnitine	122	KG00099321	Hypersensitivity NOS	0.023795083165168762
+trial_2	levocarnitine	221	KG00101207	peripheral oedema	0.023186134174466133
+trial_2	levocarnitine	179	KG00099342	hypocalcaemia	0.0228695310652256
+trial_2	levocarnitine	276	KG00099127	Arrest, Cardiac	0.02281123958528042
+trial_2	levocarnitine	5	KG00099169	haematuria	0.02250397577881813
+trial_2	levocarnitine	194	KG00110727	Neutrophil Count Decreased	0.02233799174427986
+trial_2	levocarnitine	131	KG00100948	Urinary tract infection (& [NOS])	0.022155826911330223
+trial_2	levocarnitine	22	KG00098705	Edema (NOS)	0.021856307983398438
+trial_2	levocarnitine	30	KG00099500	Acute Kidney Failure	0.021472034975886345
+trial_2	levocarnitine	132	KG00101045	Gain, Weight	0.02135833166539669
+trial_2	levocarnitine	27	KG00099303	hyperkalaemia	0.02110365778207779
+trial_2	levocarnitine	1	KG00099959	Neutropenia NOS	0.02107982337474823
+trial_2	levocarnitine	269	KG00100399	pyaemia	0.020848773419857025
+trial_2	levocarnitine	69	KG00100082	Palpitations NOS	0.020646505057811737
+trial_2	levocarnitine	262	KG00101199	agitation	0.020510567352175713
+trial_2	levocarnitine	361	KG00098004	Fibrillation, Atrial	0.020313138142228127
+trial_2	levocarnitine	104	KG00097963	arthralgias	0.020261181518435478
+trial_2	levocarnitine	239	KG00100128	pareses	0.020091818645596504
+trial_2	levocarnitine	31	KG00099872	Infarction, Myocardial	0.019929688423871994
+trial_2	levocarnitine	133	KG00101370	neuropathies sensory	0.019595177844166756
+trial_2	levocarnitine	100	KG00097815	alopecias	0.019436344504356384
+trial_2	levocarnitine	253	KG00100232	Pleural effusion NOS (disorder)	0.01881886087357998
+trial_2	levocarnitine	75	KG00100195	Dolens, Phlegmasia Alba	0.0187080018222332
+trial_2	levocarnitine	211	KG00100341	Pruritus NOS	0.01869475282728672
+trial_2	levocarnitine	396	KG00100373	Embolism, Pulmonary	0.01857050508260727
+trial_2	levocarnitine	249	KG00104430	hypoalbuminaemia	0.01834062859416008
+trial_2	levocarnitine	170	KG00108926	Neutropenia, Febrile	0.018160855397582054
+trial_2	levocarnitine	261	KG00101559	raised alkaline phosphatase	0.017713384702801704
+trial_2	levocarnitine	441	KG00098262	cellulitis nos	0.017264436930418015
+trial_2	levocarnitine	116	KG00098964	Pain in foot	0.017223605886101723
+trial_2	levocarnitine	186	KG00101431	creatinine increased	0.01721959561109543
+trial_2	levocarnitine	164	KG00108827	ileus colon	0.017155855894088745
+trial_2	levocarnitine	154	KG00099686	Lymphopenias	0.016533665359020233
+trial_2	levocarnitine	102	KG00097916	anxieties	0.016515841707587242
+trial_2	levocarnitine	191	KG00104055	Biliverdin increased	0.016005391255021095
+trial_2	levocarnitine	130	KG00100683	Stomatitis NOS	0.015638165175914764
+trial_2	levocarnitine	355	KG00110857	lymphocyte count decreased	0.015638157725334167
+trial_2	levocarnitine	286	KG00101110	Retention, Urinary	0.015506924130022526
+trial_2	levocarnitine	36	KG00106434	Vision, Blurring Of	0.015451361425220966
+trial_2	levocarnitine	204	KG00098849	Esophagitis, Peptic	0.015417826361954212
+trial_2	levocarnitine	508	KG00108565	blood glucose increased	0.015414410270750523
+trial_2	levocarnitine	282	KG00099309	hypernatraemia	0.015369974076747894
+trial_2	levocarnitine	466	KG00101205	fall	0.015173870138823986
+trial_2	levocarnitine	35	KG00101507	hypomagnesaemia	0.014805647544562817
+trial_2	levocarnitine	15	KG00097882	Angina pectoris NOS	0.014738304540514946
+trial_2	levocarnitine	254	KG00100774	Thrombosis NOS	0.014579481445252895
+trial_2	levocarnitine	139	KG00098855	Sinusitis, Ethmoid	0.014083045534789562
+trial_2	levocarnitine	166	KG00099773	menopausal syndrome	0.01396279875189066
+trial_2	levocarnitine	288	KG00101223	hypophosphataemia	0.013845459558069706
+trial_2	levocarnitine	4	KG00098817	epistaxis	0.013631731271743774
+trial_2	levocarnitine	25	KG00099134	congestive failures heart	0.013492455706000328
+trial_2	levocarnitine	356	KG00112623	Infectious Lung Disorders	0.013408375903964043
+trial_2	levocarnitine	38	KG00098066	Binocular vision disorders	0.013376835733652115
+trial_2	levocarnitine	138	KG00098796	epidemic vomiting syndrome	0.013312570750713348

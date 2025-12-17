@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09530659019947052
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07111430913209915
+trial_1	placebo	46	KG00099121	Headache NOS	0.06223424896597862
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.059601061046123505
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05947847291827202
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05588262155652046
+trial_1	placebo	68	KG00099901	nauseas	0.050911594182252884
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04534696415066719
+trial_1	placebo	20	KG00098540	dehydration	0.04329287260770798
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04318442568182945
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04304156452417374
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04301237687468529
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.042980216443538666
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03939781337976456
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03920187056064606
+trial_1	placebo	126	KG00100076	Pain NOS	0.038919661194086075
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03623358532786369
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03384533151984215
+trial_1	placebo	21	KG00098675	dyspnoea	0.03290547430515289
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03114672750234604
+trial_1	placebo	114	KG00098933	fevers	0.03056301921606064
+trial_1	placebo	228	KG00114657	Weight below normal	0.030158914625644684
+trial_1	placebo	121	KG00099190	haemorrhage	0.029104502871632576
+trial_1	placebo	86	KG00098565	Depression, Mental	0.026758234947919846
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.026350166648626328
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.025950733572244644
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.025718599557876587
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02560131438076496
+trial_1	placebo	29	KG00099354	hyponatraemia	0.025518903508782387
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02410939894616604
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02379760704934597
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.023537350818514824
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02210504189133644
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.022070415318012238
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.021607475355267525
+trial_1	placebo	72	KG00103771	myalgias	0.02128680981695652
+trial_1	placebo	104	KG00097963	arthralgias	0.021114669740200043
+trial_1	placebo	132	KG00101045	Gain, Weight	0.020629921928048134
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02049724943935871
+trial_1	placebo	82	KG00097697	abdomen distended	0.019499504938721657
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.019370045512914658
+trial_1	placebo	239	KG00100128	pareses	0.019329719245433807
+trial_1	placebo	85	KG00098474	coughs	0.01903381012380123
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01875975728034973
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.018742965534329414
+trial_1	placebo	147	KG00098000	atelectases	0.0185945276170969
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.018156031146645546
+trial_1	placebo	5	KG00099169	haematuria	0.01803230307996273
+trial_1	placebo	18	KG00098307	Pain, Chest	0.017959026619791985
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.017848771065473557
+trial_1	placebo	102	KG00097916	anxieties	0.017477095127105713
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.017296001315116882
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.017074014991521835
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017044860869646072
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016940321773290634
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01669936254620552
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01657947339117527
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016451269388198853
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.016092535108327866
+trial_1	placebo	116	KG00098964	Pain in foot	0.016073036938905716
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01571674644947052
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.014903499744832516
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014842214994132519
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01454470120370388
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.014257915318012238
+trial_1	placebo	282	KG00099309	hypernatraemia	0.014057353138923645
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.013898581266403198
+trial_1	placebo	441	KG00098262	cellulitis nos	0.013759994879364967
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.013675353489816189
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.013660985045135021
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013591052033007145
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.013554681092500687
+trial_1	placebo	466	KG00101205	fall	0.013481790199875832
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.013448288664221764
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.012898902408778667
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.012800668366253376
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012550349347293377
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012408021837472916
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.012252678163349628
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012221717275679111
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.012161408551037312
+trial_1	placebo	262	KG00101199	agitation	0.012156179174780846
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01213143952190876
+trial_1	placebo	136	KG00101582	Dry;skin	0.012067518197000027
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01194989588111639
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.011846113950014114
+trial_1	placebo	154	KG00099686	Lymphopenias	0.011777509935200214
+trial_1	placebo	100	KG00097815	alopecias	0.0116810854524374
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.011659618467092514
+trial_1	placebo	248	KG00103361	measurement of creatinine	0.011577591300010681
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.011526563204824924
+trial_1	placebo	269	KG00100399	pyaemia	0.011474350467324257
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.011160035617649555
+trial_1	placebo	234	KG00098669	dysgeusias	0.011062807403504848
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.010748865082859993
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01072272751480341
+trial_1	placebo	186	KG00101431	creatinine increased	0.01069064624607563
+trial_1	placebo	164	KG00108827	ileus colon	0.010667029768228531
+trial_1	placebo	155	KG00099960	Neutrophile	0.01030388381332159
+trial_1	placebo	212	KG00100576	shivers	0.010171505622565746
+trial_2	liothyronine	87	KG00098599	diarrhoea	0.09530659019947052
+trial_2	liothyronine	177	KG00099299	hyperglycaemia	0.07111430913209915
+trial_2	liothyronine	46	KG00099121	Headache NOS	0.06223424896597862
+trial_2	liothyronine	17	KG00097991	Asthenia NOS	0.059601061046123505
+trial_2	liothyronine	9	KG00098432	Confusion NOS	0.05947847291827202
+trial_2	liothyronine	78	KG00099326	Hypertensive diseases	0.05588262155652046
+trial_2	liothyronine	68	KG00099901	nauseas	0.050911594182252884
+trial_2	liothyronine	123	KG00099351	hypokalaemia	0.04534696415066719
+trial_2	liothyronine	20	KG00098540	dehydration	0.04329287260770798
+trial_2	liothyronine	37	KG00097696	Cramps, Abdominal	0.04318442568182945
+trial_2	liothyronine	173	KG00098172	Bronchopneumonia NOS	0.04304156452417374
+trial_2	liothyronine	49	KG00099902	nausea with vomiting	0.04301237687468529
+trial_2	liothyronine	79	KG00100317	Insomnia, Primary	0.042980216443538666
+trial_2	liothyronine	64	KG00097734	Acrodermatitis, NOS	0.03939781337976456
+trial_2	liothyronine	77	KG00098450	Constipation NOS	0.03920187056064606
+trial_2	liothyronine	126	KG00100076	Pain NOS	0.038919661194086075
+trial_2	liothyronine	67	KG00098673	Dyspepsia, NOS	0.03623358532786369
+trial_2	liothyronine	101	KG00097901	Anorexia NOS	0.03384533151984215
+trial_2	liothyronine	21	KG00098675	dyspnoea	0.03290547430515289
+trial_2	liothyronine	96	KG00101679	Unattended death NOS	0.03114672750234604
+trial_2	liothyronine	114	KG00098933	fevers	0.03056301921606064
+trial_2	liothyronine	228	KG00114657	Weight below normal	0.030158914625644684
+trial_2	liothyronine	121	KG00099190	haemorrhage	0.029104502871632576
+trial_2	liothyronine	86	KG00098565	Depression, Mental	0.026758234947919846
+trial_2	liothyronine	180	KG00099363	Hypotension NOS	0.026350166648626328
+trial_2	liothyronine	200	KG00098539	Disorders, Deglutition	0.025950733572244644
+trial_2	liothyronine	151	KG00098274	Infarction, Cerebral	0.025718599557876587
+trial_2	liothyronine	28	KG00099347	hypoglycaemia	0.02560131438076496
+trial_2	liothyronine	29	KG00099354	hyponatraemia	0.025518903508782387
+trial_2	liothyronine	243	KG00100947	Micturition frequency increased	0.02410939894616604
+trial_2	liothyronine	14	KG00097852	Anemia NOS	0.02379760704934597
+trial_2	liothyronine	122	KG00099321	Hypersensitivity NOS	0.023537350818514824
+trial_2	liothyronine	179	KG00099342	hypocalcaemia	0.02210504189133644
+trial_2	liothyronine	189	KG00101580	Alanine aminotransferase increase	0.022070415318012238
+trial_2	liothyronine	142	KG00100923	Unspecified infectious and parasitic diseases	0.021607475355267525
+trial_2	liothyronine	72	KG00103771	myalgias	0.02128680981695652
+trial_2	liothyronine	104	KG00097963	arthralgias	0.021114669740200043
+trial_2	liothyronine	132	KG00101045	Gain, Weight	0.020629921928048134
+trial_2	liothyronine	350	KG00106765	decreased platelet count	0.02049724943935871
+trial_2	liothyronine	82	KG00097697	abdomen distended	0.019499504938721657
+trial_2	liothyronine	76	KG00100450	Respiratory insufficiency, NOS	0.019370045512914658
+trial_2	liothyronine	239	KG00100128	pareses	0.019329719245433807
+trial_2	liothyronine	85	KG00098474	coughs	0.01903381012380123
+trial_2	liothyronine	166	KG00099773	menopausal syndrome	0.01875975728034973
+trial_2	liothyronine	2	KG00100772	thrombocytopaenia	0.018742965534329414
+trial_2	liothyronine	147	KG00098000	atelectases	0.0185945276170969
+trial_2	liothyronine	61	KG00099501	Chronic Kidney Failure	0.018156031146645546
+trial_2	liothyronine	5	KG00099169	haematuria	0.01803230307996273
+trial_2	liothyronine	18	KG00098307	Pain, Chest	0.017959026619791985
+trial_2	liothyronine	27	KG00099303	hyperkalaemia	0.017848771065473557
+trial_2	liothyronine	102	KG00097916	anxieties	0.017477095127105713
+trial_2	liothyronine	133	KG00101370	neuropathies sensory	0.017296001315116882
+trial_2	liothyronine	38	KG00098066	Binocular vision disorders	0.017074014991521835
+trial_2	liothyronine	139	KG00098855	Sinusitis, Ethmoid	0.017044860869646072
+trial_2	liothyronine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016940321773290634
+trial_2	liothyronine	22	KG00098705	Edema (NOS)	0.01669936254620552
+trial_2	liothyronine	249	KG00104430	hypoalbuminaemia	0.01657947339117527
+trial_2	liothyronine	211	KG00100341	Pruritus NOS	0.016451269388198853
+trial_2	liothyronine	188	KG00101579	Aspartate aminotransferase increase	0.016092535108327866
+trial_2	liothyronine	116	KG00098964	Pain in foot	0.016073036938905716
+trial_2	liothyronine	75	KG00100195	Dolens, Phlegmasia Alba	0.01571674644947052
+trial_2	liothyronine	131	KG00100948	Urinary tract infection (& [NOS])	0.014903499744832516
+trial_2	liothyronine	69	KG00100082	Palpitations NOS	0.014842214994132519
+trial_2	liothyronine	221	KG00101207	peripheral oedema	0.01454470120370388
+trial_2	liothyronine	246	KG00103338	Aspartate Aminotransferase Measurement	0.014257915318012238
+trial_2	liothyronine	282	KG00099309	hypernatraemia	0.014057353138923645
+trial_2	liothyronine	254	KG00100774	Thrombosis NOS	0.013898581266403198
+trial_2	liothyronine	441	KG00098262	cellulitis nos	0.013759994879364967
+trial_2	liothyronine	361	KG00098004	Fibrillation, Atrial	0.013675353489816189
+trial_2	liothyronine	396	KG00100373	Embolism, Pulmonary	0.013660985045135021
+trial_2	liothyronine	194	KG00110727	Neutrophil Count Decreased	0.013591052033007145
+trial_2	liothyronine	276	KG00099127	Arrest, Cardiac	0.013554681092500687
+trial_2	liothyronine	466	KG00101205	fall	0.013481790199875832
+trial_2	liothyronine	36	KG00106434	Vision, Blurring Of	0.013448288664221764
+trial_2	liothyronine	89	KG00099301	Hyperhidrosis (disorder)	0.012898902408778667
+trial_2	liothyronine	288	KG00101223	hypophosphataemia	0.012800668366253376
+trial_2	liothyronine	191	KG00104055	Biliverdin increased	0.012550349347293377
+trial_2	liothyronine	31	KG00099872	Infarction, Myocardial	0.012408021837472916
+trial_2	liothyronine	30	KG00099500	Acute Kidney Failure	0.012252678163349628
+trial_2	liothyronine	204	KG00098849	Esophagitis, Peptic	0.012221717275679111
+trial_2	liothyronine	35	KG00101507	hypomagnesaemia	0.012161408551037312
+trial_2	liothyronine	262	KG00101199	agitation	0.012156179174780846
+trial_2	liothyronine	253	KG00100232	Pleural effusion NOS (disorder)	0.01213143952190876
+trial_2	liothyronine	136	KG00101582	Dry;skin	0.012067518197000027
+trial_2	liothyronine	286	KG00101110	Retention, Urinary	0.01194989588111639
+trial_2	liothyronine	170	KG00108926	Neutropenia, Febrile	0.011846113950014114
+trial_2	liothyronine	154	KG00099686	Lymphopenias	0.011777509935200214
+trial_2	liothyronine	100	KG00097815	alopecias	0.0116810854524374
+trial_2	liothyronine	261	KG00101559	raised alkaline phosphatase	0.011659618467092514
+trial_2	liothyronine	248	KG00103361	measurement of creatinine	0.011577591300010681
+trial_2	liothyronine	92	KG00100926	Infections, Upper Respiratory	0.011526563204824924
+trial_2	liothyronine	269	KG00100399	pyaemia	0.011474350467324257
+trial_2	liothyronine	355	KG00110857	lymphocyte count decreased	0.011160035617649555
+trial_2	liothyronine	234	KG00098669	dysgeusias	0.011062807403504848
+trial_2	liothyronine	195	KG00097814	Atopic Rhinitis	0.010748865082859993
+trial_2	liothyronine	33	KG00100094	Pancreatitis NOS	0.01072272751480341
+trial_2	liothyronine	186	KG00101431	creatinine increased	0.01069064624607563
+trial_2	liothyronine	164	KG00108827	ileus colon	0.010667029768228531
+trial_2	liothyronine	155	KG00099960	Neutrophile	0.01030388381332159
+trial_2	liothyronine	212	KG00100576	shivers	0.010171505622565746

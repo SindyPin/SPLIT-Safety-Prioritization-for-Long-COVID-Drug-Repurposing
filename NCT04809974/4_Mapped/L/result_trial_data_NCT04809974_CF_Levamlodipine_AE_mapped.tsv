@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.24515709280967712
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18776001036167145
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11228915303945541
+trial_1	placebo	20	KG00098540	dehydration	0.1012764424085617
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09777010977268219
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09775349497795105
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09151516854763031
+trial_1	placebo	228	KG00114657	Weight below normal	0.08941608667373657
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0869603380560875
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08490930497646332
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08322934061288834
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.08320500701665878
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08292228728532791
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07355525344610214
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07343733310699463
+trial_1	placebo	46	KG00099121	Headache NOS	0.07305611670017242
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06835537403821945
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06232205033302307
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06192191317677498
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.061638496816158295
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.060571108013391495
+trial_1	placebo	239	KG00100128	pareses	0.05719022825360298
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05515461415052414
+trial_1	placebo	350	KG00106765	decreased platelet count	0.053132496774196625
+trial_1	placebo	21	KG00098675	dyspnoea	0.05228929594159126
+trial_1	placebo	68	KG00099901	nauseas	0.050313759595155716
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04909927397966385
+trial_1	placebo	126	KG00100076	Pain NOS	0.048939432948827744
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.048306114971637726
+trial_1	placebo	5	KG00099169	haematuria	0.04812786728143692
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.047699760645627975
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04712095484137535
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04694836586713791
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04693781957030296
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04609093815088272
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.045766524970531464
+trial_1	placebo	147	KG00098000	atelectases	0.04575999826192856
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04575037211179733
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04557180777192116
+trial_1	placebo	104	KG00097963	arthralgias	0.04336053878068924
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.043061915785074234
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04159720242023468
+trial_1	placebo	85	KG00098474	coughs	0.04124007746577263
+trial_1	placebo	14	KG00097852	Anemia NOS	0.040870551019907
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04084620252251625
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03980039060115814
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.039732784032821655
+trial_1	placebo	121	KG00099190	haemorrhage	0.03958719223737717
+trial_1	placebo	114	KG00098933	fevers	0.039310652762651443
+trial_1	placebo	136	KG00101582	Dry;skin	0.038927145302295685
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.038857754319906235
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03852070868015289
+trial_1	placebo	102	KG00097916	anxieties	0.038425542414188385
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03710242733359337
+trial_1	placebo	72	KG00103771	myalgias	0.0360616073012352
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.035878896713256836
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03577246889472008
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03570576384663582
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.035454005002975464
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03498145937919617
+trial_1	placebo	164	KG00108827	ileus colon	0.03494968265295029
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.034844834357500076
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03470318391919136
+trial_1	placebo	382	KG00099200	haemorrhoids	0.033683184534311295
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.033629968762397766
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03309709206223488
+trial_1	placebo	466	KG00101205	fall	0.032640259712934494
+trial_1	placebo	339	KG00100334	proteinurias	0.03259371966123581
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.032289955765008926
+trial_1	placebo	269	KG00100399	pyaemia	0.030925923958420753
+trial_1	placebo	363	KG00098184	burns injury	0.030914388597011566
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030756046995520592
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.030426442623138428
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0302596315741539
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.030122647061944008
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.029570648446679115
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02934804931282997
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029210416600108147
+trial_1	placebo	154	KG00099686	Lymphopenias	0.029175110161304474
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02910190261900425
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028716877102851868
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028711583465337753
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028662141412496567
+trial_1	placebo	454	KG00098286	Pain, Neck	0.028015179559588432
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.027854610234498978
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02773810736835003
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.0276509877294302
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027606889605522156
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.027473678812384605
+trial_1	placebo	262	KG00101199	agitation	0.027442041784524918
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02741113491356373
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.027278034016489983
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026899395510554314
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.026754116639494896
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.026515435427427292
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.026293495669960976
+trial_1	placebo	456	KG00099420	Influenzae	0.02606283873319626
+trial_1	placebo	132	KG00101045	Gain, Weight	0.025712905451655388
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.02552896738052368
+trial_1	placebo	116	KG00098964	Pain in foot	0.025497134774923325
+trial_2	levamlodipine	87	KG00098599	diarrhoea	0.24515709280967712
+trial_2	levamlodipine	78	KG00099326	Hypertensive diseases	0.18776001036167145
+trial_2	levamlodipine	123	KG00099351	hypokalaemia	0.11228915303945541
+trial_2	levamlodipine	20	KG00098540	dehydration	0.1012764424085617
+trial_2	levamlodipine	9	KG00098432	Confusion NOS	0.09777010977268219
+trial_2	levamlodipine	64	KG00097734	Acrodermatitis, NOS	0.09775349497795105
+trial_2	levamlodipine	17	KG00097991	Asthenia NOS	0.09151516854763031
+trial_2	levamlodipine	228	KG00114657	Weight below normal	0.08941608667373657
+trial_2	levamlodipine	189	KG00101580	Alanine aminotransferase increase	0.0869603380560875
+trial_2	levamlodipine	67	KG00098673	Dyspepsia, NOS	0.08490930497646332
+trial_2	levamlodipine	173	KG00098172	Bronchopneumonia NOS	0.08322934061288834
+trial_2	levamlodipine	188	KG00101579	Aspartate aminotransferase increase	0.08320500701665878
+trial_2	levamlodipine	177	KG00099299	hyperglycaemia	0.08292228728532791
+trial_2	levamlodipine	200	KG00098539	Disorders, Deglutition	0.07355525344610214
+trial_2	levamlodipine	243	KG00100947	Micturition frequency increased	0.07343733310699463
+trial_2	levamlodipine	46	KG00099121	Headache NOS	0.07305611670017242
+trial_2	levamlodipine	37	KG00097696	Cramps, Abdominal	0.06835537403821945
+trial_2	levamlodipine	29	KG00099354	hyponatraemia	0.06232205033302307
+trial_2	levamlodipine	179	KG00099342	hypocalcaemia	0.06192191317677498
+trial_2	levamlodipine	151	KG00098274	Infarction, Cerebral	0.061638496816158295
+trial_2	levamlodipine	49	KG00099902	nausea with vomiting	0.060571108013391495
+trial_2	levamlodipine	239	KG00100128	pareses	0.05719022825360298
+trial_2	levamlodipine	77	KG00098450	Constipation NOS	0.05515461415052414
+trial_2	levamlodipine	350	KG00106765	decreased platelet count	0.053132496774196625
+trial_2	levamlodipine	21	KG00098675	dyspnoea	0.05228929594159126
+trial_2	levamlodipine	68	KG00099901	nauseas	0.050313759595155716
+trial_2	levamlodipine	101	KG00097901	Anorexia NOS	0.04909927397966385
+trial_2	levamlodipine	126	KG00100076	Pain NOS	0.048939432948827744
+trial_2	levamlodipine	79	KG00100317	Insomnia, Primary	0.048306114971637726
+trial_2	levamlodipine	5	KG00099169	haematuria	0.04812786728143692
+trial_2	levamlodipine	122	KG00099321	Hypersensitivity NOS	0.047699760645627975
+trial_2	levamlodipine	61	KG00099501	Chronic Kidney Failure	0.04712095484137535
+trial_2	levamlodipine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04694836586713791
+trial_2	levamlodipine	27	KG00099303	hyperkalaemia	0.04693781957030296
+trial_2	levamlodipine	28	KG00099347	hypoglycaemia	0.04609093815088272
+trial_2	levamlodipine	76	KG00100450	Respiratory insufficiency, NOS	0.045766524970531464
+trial_2	levamlodipine	147	KG00098000	atelectases	0.04575999826192856
+trial_2	levamlodipine	180	KG00099363	Hypotension NOS	0.04575037211179733
+trial_2	levamlodipine	86	KG00098565	Depression, Mental	0.04557180777192116
+trial_2	levamlodipine	104	KG00097963	arthralgias	0.04336053878068924
+trial_2	levamlodipine	355	KG00110857	lymphocyte count decreased	0.043061915785074234
+trial_2	levamlodipine	38	KG00098066	Binocular vision disorders	0.04159720242023468
+trial_2	levamlodipine	85	KG00098474	coughs	0.04124007746577263
+trial_2	levamlodipine	14	KG00097852	Anemia NOS	0.040870551019907
+trial_2	levamlodipine	282	KG00099309	hypernatraemia	0.04084620252251625
+trial_2	levamlodipine	2	KG00100772	thrombocytopaenia	0.03980039060115814
+trial_2	levamlodipine	371	KG00098517	Cystitis (NOS)	0.039732784032821655
+trial_2	levamlodipine	121	KG00099190	haemorrhage	0.03958719223737717
+trial_2	levamlodipine	114	KG00098933	fevers	0.039310652762651443
+trial_2	levamlodipine	136	KG00101582	Dry;skin	0.038927145302295685
+trial_2	levamlodipine	35	KG00101507	hypomagnesaemia	0.038857754319906235
+trial_2	levamlodipine	191	KG00104055	Biliverdin increased	0.03852070868015289
+trial_2	levamlodipine	102	KG00097916	anxieties	0.038425542414188385
+trial_2	levamlodipine	249	KG00104430	hypoalbuminaemia	0.03710242733359337
+trial_2	levamlodipine	72	KG00103771	myalgias	0.0360616073012352
+trial_2	levamlodipine	261	KG00101559	raised alkaline phosphatase	0.035878896713256836
+trial_2	levamlodipine	30	KG00099500	Acute Kidney Failure	0.03577246889472008
+trial_2	levamlodipine	131	KG00100948	Urinary tract infection (& [NOS])	0.03570576384663582
+trial_2	levamlodipine	341	KG00101472	Gamma-glutamyltransferase increased	0.035454005002975464
+trial_2	levamlodipine	130	KG00100683	Stomatitis NOS	0.03498145937919617
+trial_2	levamlodipine	164	KG00108827	ileus colon	0.03494968265295029
+trial_2	levamlodipine	422	KG00101429	Creatine phosphokinase increased	0.034844834357500076
+trial_2	levamlodipine	276	KG00099127	Arrest, Cardiac	0.03470318391919136
+trial_2	levamlodipine	382	KG00099200	haemorrhoids	0.033683184534311295
+trial_2	levamlodipine	256	KG00100738	Tachycardia, Sinus	0.033629968762397766
+trial_2	levamlodipine	194	KG00110727	Neutrophil Count Decreased	0.03309709206223488
+trial_2	levamlodipine	466	KG00101205	fall	0.032640259712934494
+trial_2	levamlodipine	339	KG00100334	proteinurias	0.03259371966123581
+trial_2	levamlodipine	139	KG00098855	Sinusitis, Ethmoid	0.032289955765008926
+trial_2	levamlodipine	269	KG00100399	pyaemia	0.030925923958420753
+trial_2	levamlodipine	363	KG00098184	burns injury	0.030914388597011566
+trial_2	levamlodipine	396	KG00100373	Embolism, Pulmonary	0.030756046995520592
+trial_2	levamlodipine	199	KG00098371	Rhinitis (chronic) NOS	0.030426442623138428
+trial_2	levamlodipine	69	KG00100082	Palpitations NOS	0.0302596315741539
+trial_2	levamlodipine	288	KG00101223	hypophosphataemia	0.030122647061944008
+trial_2	levamlodipine	142	KG00100923	Unspecified infectious and parasitic diseases	0.029570648446679115
+trial_2	levamlodipine	257	KG00100922	Erythema NOS	0.02934804931282997
+trial_2	levamlodipine	441	KG00098262	cellulitis nos	0.029210416600108147
+trial_2	levamlodipine	154	KG00099686	Lymphopenias	0.029175110161304474
+trial_2	levamlodipine	195	KG00097814	Atopic Rhinitis	0.02910190261900425
+trial_2	levamlodipine	31	KG00099872	Infarction, Myocardial	0.028716877102851868
+trial_2	levamlodipine	75	KG00100195	Dolens, Phlegmasia Alba	0.028711583465337753
+trial_2	levamlodipine	96	KG00101679	Unattended death NOS	0.028662141412496567
+trial_2	levamlodipine	454	KG00098286	Pain, Neck	0.028015179559588432
+trial_2	levamlodipine	98	KG00097718	Incised wound, NOS	0.027854610234498978
+trial_2	levamlodipine	18	KG00098307	Pain, Chest	0.02773810736835003
+trial_2	levamlodipine	356	KG00112623	Infectious Lung Disorders	0.0276509877294302
+trial_2	levamlodipine	286	KG00101110	Retention, Urinary	0.027606889605522156
+trial_2	levamlodipine	97	KG00104198	LIVER ENZYME ELEVATED	0.027473678812384605
+trial_2	levamlodipine	262	KG00101199	agitation	0.027442041784524918
+trial_2	levamlodipine	152	KG00099402	INCONTINENCE NOS	0.02741113491356373
+trial_2	levamlodipine	36	KG00106434	Vision, Blurring Of	0.027278034016489983
+trial_2	levamlodipine	211	KG00100341	Pruritus NOS	0.026899395510554314
+trial_2	levamlodipine	218	KG00100801	Tinnitus NOS	0.026754116639494896
+trial_2	levamlodipine	204	KG00098849	Esophagitis, Peptic	0.026515435427427292
+trial_2	levamlodipine	118	KG00099011	Gastritis NOS	0.026293495669960976
+trial_2	levamlodipine	456	KG00099420	Influenzae	0.02606283873319626
+trial_2	levamlodipine	132	KG00101045	Gain, Weight	0.025712905451655388
+trial_2	levamlodipine	213	KG00100600	Infectious Skin Diseases	0.02552896738052368
+trial_2	levamlodipine	116	KG00098964	Pain in foot	0.025497134774923325

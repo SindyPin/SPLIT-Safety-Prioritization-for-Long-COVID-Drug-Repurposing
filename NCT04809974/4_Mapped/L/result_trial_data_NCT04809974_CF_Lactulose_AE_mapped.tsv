@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.10122055560350418
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07630721479654312
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06316225975751877
+trial_1	placebo	46	KG00099121	Headache NOS	0.05876299738883972
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.053515151143074036
+trial_1	placebo	68	KG00099901	nauseas	0.05234401300549507
+trial_1	placebo	123	KG00099351	hypokalaemia	0.051232464611530304
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04831584170460701
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04802040755748749
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04689306393265724
+trial_1	placebo	21	KG00098675	dyspnoea	0.040324777364730835
+trial_1	placebo	20	KG00098540	dehydration	0.040063779801130295
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03866579383611679
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.038603171706199646
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03812742605805397
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03755175694823265
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03730202466249466
+trial_1	placebo	228	KG00114657	Weight below normal	0.03370371460914612
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03301756829023361
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03211291506886482
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03172926604747772
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.029470978304743767
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.029338741675019264
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029129359871149063
+trial_1	placebo	126	KG00100076	Pain NOS	0.028556598350405693
+trial_1	placebo	147	KG00098000	atelectases	0.028291145339608192
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027130238711833954
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02704472467303276
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026852745562791824
+trial_1	placebo	114	KG00098933	fevers	0.02621246501803398
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02602461725473404
+trial_1	placebo	82	KG00097697	abdomen distended	0.02594132535159588
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02524176985025406
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0251055546104908
+trial_1	placebo	269	KG00100399	pyaemia	0.025054482743144035
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.024669885635375977
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02414407953619957
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.023056266829371452
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02248644083738327
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.021654341369867325
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02152622863650322
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021136879920959473
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019939390942454338
+trial_1	placebo	85	KG00098474	coughs	0.018774479627609253
+trial_1	placebo	104	KG00097963	arthralgias	0.01836751401424408
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.018196314573287964
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01801432855427265
+trial_1	placebo	121	KG00099190	haemorrhage	0.017819980159401894
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.01781395636498928
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.017571795731782913
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01748904585838318
+trial_1	placebo	86	KG00098565	Depression, Mental	0.017196666449308395
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.017148902639746666
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.016988439485430717
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01566605269908905
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015600576065480709
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.015280159190297127
+trial_1	placebo	239	KG00100128	pareses	0.015136797912418842
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014820408076047897
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014665612019598484
+trial_1	placebo	5	KG00099169	haematuria	0.01435986440628767
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.014325876720249653
+trial_1	placebo	234	KG00098669	dysgeusias	0.013381676748394966
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.013327091932296753
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01324534509330988
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.013159540481865406
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01299656368792057
+trial_1	placebo	164	KG00108827	ileus colon	0.012951177544891834
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.012886019423604012
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.012583817355334759
+trial_1	placebo	116	KG00098964	Pain in foot	0.012405012734234333
+trial_1	placebo	282	KG00099309	hypernatraemia	0.012349207885563374
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012155022472143173
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.012082540430128574
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.011987855657935143
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011476248502731323
+trial_1	placebo	72	KG00103771	myalgias	0.011416654102504253
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.011388800106942654
+trial_1	placebo	25	KG00099134	congestive failures heart	0.011336316354572773
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.011221861466765404
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.011068642139434814
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.011025414802134037
+trial_1	placebo	257	KG00100922	Erythema NOS	0.01101372204720974
+trial_1	placebo	60	KG00099440	Obstruction, Intestinal	0.010849744081497192
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.010726045817136765
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01054365187883377
+trial_1	placebo	24	KG00099015	Hemorrhage, Gastrointestinal	0.010419557802379131
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.010313034988939762
+trial_1	placebo	102	KG00097916	anxieties	0.01030917651951313
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.010302595794200897
+trial_1	placebo	186	KG00101431	creatinine increased	0.010061915963888168
+trial_1	placebo	466	KG00101205	fall	0.009950859472155571
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.009863304905593395
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.009861834347248077
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.009853754192590714
+trial_1	placebo	4	KG00098817	epistaxis	0.009812239557504654
+trial_1	placebo	221	KG00101207	peripheral oedema	0.009794562123715878
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.009706743061542511
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.00956729892641306
+trial_1	placebo	11	KG00097993	Asthma NOS	0.009504782035946846
+trial_2	lactulose	87	KG00098599	diarrhoea	0.10122055560350418
+trial_2	lactulose	78	KG00099326	Hypertensive diseases	0.07630721479654312
+trial_2	lactulose	9	KG00098432	Confusion NOS	0.06316225975751877
+trial_2	lactulose	46	KG00099121	Headache NOS	0.05876299738883972
+trial_2	lactulose	173	KG00098172	Bronchopneumonia NOS	0.053515151143074036
+trial_2	lactulose	68	KG00099901	nauseas	0.05234401300549507
+trial_2	lactulose	123	KG00099351	hypokalaemia	0.051232464611530304
+trial_2	lactulose	49	KG00099902	nausea with vomiting	0.04831584170460701
+trial_2	lactulose	177	KG00099299	hyperglycaemia	0.04802040755748749
+trial_2	lactulose	37	KG00097696	Cramps, Abdominal	0.04689306393265724
+trial_2	lactulose	21	KG00098675	dyspnoea	0.040324777364730835
+trial_2	lactulose	20	KG00098540	dehydration	0.040063779801130295
+trial_2	lactulose	77	KG00098450	Constipation NOS	0.03866579383611679
+trial_2	lactulose	17	KG00097991	Asthenia NOS	0.038603171706199646
+trial_2	lactulose	14	KG00097852	Anemia NOS	0.03812742605805397
+trial_2	lactulose	151	KG00098274	Infarction, Cerebral	0.03755175694823265
+trial_2	lactulose	67	KG00098673	Dyspepsia, NOS	0.03730202466249466
+trial_2	lactulose	228	KG00114657	Weight below normal	0.03370371460914612
+trial_2	lactulose	2	KG00100772	thrombocytopaenia	0.03301756829023361
+trial_2	lactulose	64	KG00097734	Acrodermatitis, NOS	0.03211291506886482
+trial_2	lactulose	61	KG00099501	Chronic Kidney Failure	0.03172926604747772
+trial_2	lactulose	76	KG00100450	Respiratory insufficiency, NOS	0.029470978304743767
+trial_2	lactulose	180	KG00099363	Hypotension NOS	0.029338741675019264
+trial_2	lactulose	30	KG00099500	Acute Kidney Failure	0.029129359871149063
+trial_2	lactulose	126	KG00100076	Pain NOS	0.028556598350405693
+trial_2	lactulose	147	KG00098000	atelectases	0.028291145339608192
+trial_2	lactulose	29	KG00099354	hyponatraemia	0.027130238711833954
+trial_2	lactulose	189	KG00101580	Alanine aminotransferase increase	0.02704472467303276
+trial_2	lactulose	96	KG00101679	Unattended death NOS	0.026852745562791824
+trial_2	lactulose	114	KG00098933	fevers	0.02621246501803398
+trial_2	lactulose	350	KG00106765	decreased platelet count	0.02602461725473404
+trial_2	lactulose	82	KG00097697	abdomen distended	0.02594132535159588
+trial_2	lactulose	31	KG00099872	Infarction, Myocardial	0.02524176985025406
+trial_2	lactulose	79	KG00100317	Insomnia, Primary	0.0251055546104908
+trial_2	lactulose	269	KG00100399	pyaemia	0.025054482743144035
+trial_2	lactulose	188	KG00101579	Aspartate aminotransferase increase	0.024669885635375977
+trial_2	lactulose	253	KG00100232	Pleural effusion NOS (disorder)	0.02414407953619957
+trial_2	lactulose	101	KG00097901	Anorexia NOS	0.023056266829371452
+trial_2	lactulose	18	KG00098307	Pain, Chest	0.02248644083738327
+trial_2	lactulose	200	KG00098539	Disorders, Deglutition	0.021654341369867325
+trial_2	lactulose	28	KG00099347	hypoglycaemia	0.02152622863650322
+trial_2	lactulose	276	KG00099127	Arrest, Cardiac	0.021136879920959473
+trial_2	lactulose	396	KG00100373	Embolism, Pulmonary	0.019939390942454338
+trial_2	lactulose	85	KG00098474	coughs	0.018774479627609253
+trial_2	lactulose	104	KG00097963	arthralgias	0.01836751401424408
+trial_2	lactulose	361	KG00098004	Fibrillation, Atrial	0.018196314573287964
+trial_2	lactulose	131	KG00100948	Urinary tract infection (& [NOS])	0.01801432855427265
+trial_2	lactulose	121	KG00099190	haemorrhage	0.017819980159401894
+trial_2	lactulose	243	KG00100947	Micturition frequency increased	0.01781395636498928
+trial_2	lactulose	27	KG00099303	hyperkalaemia	0.017571795731782913
+trial_2	lactulose	142	KG00100923	Unspecified infectious and parasitic diseases	0.01748904585838318
+trial_2	lactulose	86	KG00098565	Depression, Mental	0.017196666449308395
+trial_2	lactulose	179	KG00099342	hypocalcaemia	0.017148902639746666
+trial_2	lactulose	75	KG00100195	Dolens, Phlegmasia Alba	0.016988439485430717
+trial_2	lactulose	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01566605269908905
+trial_2	lactulose	441	KG00098262	cellulitis nos	0.015600576065480709
+trial_2	lactulose	191	KG00104055	Biliverdin increased	0.015280159190297127
+trial_2	lactulose	239	KG00100128	pareses	0.015136797912418842
+trial_2	lactulose	15	KG00097882	Angina pectoris NOS	0.014820408076047897
+trial_2	lactulose	69	KG00100082	Palpitations NOS	0.014665612019598484
+trial_2	lactulose	5	KG00099169	haematuria	0.01435986440628767
+trial_2	lactulose	211	KG00100341	Pruritus NOS	0.014325876720249653
+trial_2	lactulose	234	KG00098669	dysgeusias	0.013381676748394966
+trial_2	lactulose	249	KG00104430	hypoalbuminaemia	0.013327091932296753
+trial_2	lactulose	288	KG00101223	hypophosphataemia	0.01324534509330988
+trial_2	lactulose	122	KG00099321	Hypersensitivity NOS	0.013159540481865406
+trial_2	lactulose	286	KG00101110	Retention, Urinary	0.01299656368792057
+trial_2	lactulose	164	KG00108827	ileus colon	0.012951177544891834
+trial_2	lactulose	38	KG00098066	Binocular vision disorders	0.012886019423604012
+trial_2	lactulose	194	KG00110727	Neutrophil Count Decreased	0.012583817355334759
+trial_2	lactulose	116	KG00098964	Pain in foot	0.012405012734234333
+trial_2	lactulose	282	KG00099309	hypernatraemia	0.012349207885563374
+trial_2	lactulose	130	KG00100683	Stomatitis NOS	0.012155022472143173
+trial_2	lactulose	268	KG00099557	Heart Failure, Left-Sided	0.012082540430128574
+trial_2	lactulose	138	KG00098796	epidemic vomiting syndrome	0.011987855657935143
+trial_2	lactulose	33	KG00100094	Pancreatitis NOS	0.011476248502731323
+trial_2	lactulose	72	KG00103771	myalgias	0.011416654102504253
+trial_2	lactulose	19	KG00098331	Cholecystitis NOS	0.011388800106942654
+trial_2	lactulose	25	KG00099134	congestive failures heart	0.011336316354572773
+trial_2	lactulose	494	KG00099838	Organ Failure, Multiple	0.011221861466765404
+trial_2	lactulose	356	KG00112623	Infectious Lung Disorders	0.011068642139434814
+trial_2	lactulose	35	KG00101507	hypomagnesaemia	0.011025414802134037
+trial_2	lactulose	257	KG00100922	Erythema NOS	0.01101372204720974
+trial_2	lactulose	60	KG00099440	Obstruction, Intestinal	0.010849744081497192
+trial_2	lactulose	261	KG00101559	raised alkaline phosphatase	0.010726045817136765
+trial_2	lactulose	204	KG00098849	Esophagitis, Peptic	0.01054365187883377
+trial_2	lactulose	24	KG00099015	Hemorrhage, Gastrointestinal	0.010419557802379131
+trial_2	lactulose	163	KG00104050	bowel obstructions small	0.010313034988939762
+trial_2	lactulose	102	KG00097916	anxieties	0.01030917651951313
+trial_2	lactulose	144	KG00099610	Leukopenia NOS	0.010302595794200897
+trial_2	lactulose	186	KG00101431	creatinine increased	0.010061915963888168
+trial_2	lactulose	466	KG00101205	fall	0.009950859472155571
+trial_2	lactulose	1	KG00099959	Neutropenia NOS	0.009863304905593395
+trial_2	lactulose	394	KG00100243	Pneumonia, Aspiration	0.009861834347248077
+trial_2	lactulose	254	KG00100774	Thrombosis NOS	0.009853754192590714
+trial_2	lactulose	4	KG00098817	epistaxis	0.009812239557504654
+trial_2	lactulose	221	KG00101207	peripheral oedema	0.009794562123715878
+trial_2	lactulose	371	KG00098517	Cystitis (NOS)	0.009706743061542511
+trial_2	lactulose	183	KG00100449	Adult Respiratory Distress Syndrome	0.00956729892641306
+trial_2	lactulose	11	KG00097993	Asthma NOS	0.009504782035946846

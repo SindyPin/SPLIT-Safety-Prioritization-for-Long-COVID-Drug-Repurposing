@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12963058054447174
+trial_1	placebo	68	KG00099901	nauseas	0.11624640226364136
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11613891273736954
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10138766467571259
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09686511754989624
+trial_1	placebo	46	KG00099121	Headache NOS	0.09247660636901855
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08801320940256119
+trial_1	placebo	87	KG00098599	diarrhoea	0.08213943988084793
+trial_1	placebo	21	KG00098675	dyspnoea	0.07813849300146103
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0605265311896801
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.05253284052014351
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05218629539012909
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.050636425614356995
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05057162791490555
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04621954634785652
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.045162633061409
+trial_1	placebo	20	KG00098540	dehydration	0.04453016072511673
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04342348873615265
+trial_1	placebo	114	KG00098933	fevers	0.042450353503227234
+trial_1	placebo	66	KG00098642	drowsiness	0.0416472889482975
+trial_1	placebo	123	KG00099351	hypokalaemia	0.040905315428972244
+trial_1	placebo	126	KG00100076	Pain NOS	0.03976555913686752
+trial_1	placebo	85	KG00098474	coughs	0.038946907967329025
+trial_1	placebo	102	KG00097916	anxieties	0.03599060699343681
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03506588190793991
+trial_1	placebo	300	KG00101064	xerostomia	0.034066855907440186
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03229780122637749
+trial_1	placebo	228	KG00114657	Weight below normal	0.031626347452402115
+trial_1	placebo	104	KG00097963	arthralgias	0.031210413202643394
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.030636904761195183
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027744757011532784
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027631763368844986
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02754012867808342
+trial_1	placebo	234	KG00098669	dysgeusias	0.026382965967059135
+trial_1	placebo	116	KG00098964	Pain in foot	0.025920359417796135
+trial_1	placebo	82	KG00097697	abdomen distended	0.02544889971613884
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.025193944573402405
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023963039740920067
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02365664578974247
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023415368050336838
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.022280914708971977
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02166193164885044
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02151378057897091
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021218441426753998
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021125927567481995
+trial_1	placebo	11	KG00097993	Asthma NOS	0.020629893988370895
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02045067586004734
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.020435616374015808
+trial_1	placebo	29	KG00099354	hyponatraemia	0.020289232954382896
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.020267773419618607
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.019930358976125717
+trial_1	placebo	72	KG00103771	myalgias	0.019919905811548233
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.019603203982114792
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.01949499174952507
+trial_1	placebo	262	KG00101199	agitation	0.019241569563746452
+trial_1	placebo	136	KG00101582	Dry;skin	0.019124247133731842
+trial_1	placebo	5	KG00099169	haematuria	0.019081836566329002
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019055122509598732
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01861644722521305
+trial_1	placebo	466	KG00101205	fall	0.01825055293738842
+trial_1	placebo	242	KG00100855	tremors	0.018042627722024918
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01765754446387291
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01764102652668953
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017371024936437607
+trial_1	placebo	239	KG00100128	pareses	0.017317207530140877
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017100337892770767
+trial_1	placebo	132	KG00101045	Gain, Weight	0.01691889390349388
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0168153028935194
+trial_1	placebo	153	KG00099579	lethargy	0.016710719093680382
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01645768992602825
+trial_1	placebo	221	KG00101207	peripheral oedema	0.016143517568707466
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016048811376094818
+trial_1	placebo	454	KG00098286	Pain, Neck	0.015890836715698242
+trial_1	placebo	147	KG00098000	atelectases	0.015825223177671432
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01569015346467495
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.015349781140685081
+trial_1	placebo	524	KG00100611	Sleeping disturbances	0.015204398892819881
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.015117560513317585
+trial_1	placebo	269	KG00100399	pyaemia	0.01479658018797636
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014753968454897404
+trial_1	placebo	4	KG00098817	epistaxis	0.014622732065618038
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.014505795203149319
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.014393879100680351
+trial_1	placebo	456	KG00099420	Influenzae	0.014386358670890331
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01405424065887928
+trial_1	placebo	212	KG00100576	shivers	0.013969392515718937
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.013711855746805668
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.013521675951778889
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.013502506539225578
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.013445372693240643
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.013354859314858913
+trial_1	placebo	345	KG00103926	impairments memory	0.013162662275135517
+trial_1	placebo	508	KG00108565	blood glucose increased	0.013129374012351036
+trial_1	placebo	765	KG00103966	disorders dream	0.013021078892052174
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012930310331285
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012618002481758595
+trial_1	placebo	331	KG00099462	Mood, Irritable	0.012548605911433697
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.0125025799497962
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.012402284890413284
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01230928860604763
+trial_2	lysergic acid diethylamide	9	KG00098432	Confusion NOS	0.12963058054447174
+trial_2	lysergic acid diethylamide	68	KG00099901	nauseas	0.11624640226364136
+trial_2	lysergic acid diethylamide	49	KG00099902	nausea with vomiting	0.11613891273736954
+trial_2	lysergic acid diethylamide	17	KG00097991	Asthenia NOS	0.10138766467571259
+trial_2	lysergic acid diethylamide	79	KG00100317	Insomnia, Primary	0.09686511754989624
+trial_2	lysergic acid diethylamide	46	KG00099121	Headache NOS	0.09247660636901855
+trial_2	lysergic acid diethylamide	77	KG00098450	Constipation NOS	0.08801320940256119
+trial_2	lysergic acid diethylamide	87	KG00098599	diarrhoea	0.08213943988084793
+trial_2	lysergic acid diethylamide	21	KG00098675	dyspnoea	0.07813849300146103
+trial_2	lysergic acid diethylamide	78	KG00099326	Hypertensive diseases	0.0605265311896801
+trial_2	lysergic acid diethylamide	211	KG00100341	Pruritus NOS	0.05253284052014351
+trial_2	lysergic acid diethylamide	101	KG00097901	Anorexia NOS	0.05218629539012909
+trial_2	lysergic acid diethylamide	64	KG00097734	Acrodermatitis, NOS	0.050636425614356995
+trial_2	lysergic acid diethylamide	173	KG00098172	Bronchopneumonia NOS	0.05057162791490555
+trial_2	lysergic acid diethylamide	177	KG00099299	hyperglycaemia	0.04621954634785652
+trial_2	lysergic acid diethylamide	37	KG00097696	Cramps, Abdominal	0.045162633061409
+trial_2	lysergic acid diethylamide	20	KG00098540	dehydration	0.04453016072511673
+trial_2	lysergic acid diethylamide	67	KG00098673	Dyspepsia, NOS	0.04342348873615265
+trial_2	lysergic acid diethylamide	114	KG00098933	fevers	0.042450353503227234
+trial_2	lysergic acid diethylamide	66	KG00098642	drowsiness	0.0416472889482975
+trial_2	lysergic acid diethylamide	123	KG00099351	hypokalaemia	0.040905315428972244
+trial_2	lysergic acid diethylamide	126	KG00100076	Pain NOS	0.03976555913686752
+trial_2	lysergic acid diethylamide	85	KG00098474	coughs	0.038946907967329025
+trial_2	lysergic acid diethylamide	102	KG00097916	anxieties	0.03599060699343681
+trial_2	lysergic acid diethylamide	86	KG00098565	Depression, Mental	0.03506588190793991
+trial_2	lysergic acid diethylamide	300	KG00101064	xerostomia	0.034066855907440186
+trial_2	lysergic acid diethylamide	14	KG00097852	Anemia NOS	0.03229780122637749
+trial_2	lysergic acid diethylamide	228	KG00114657	Weight below normal	0.031626347452402115
+trial_2	lysergic acid diethylamide	104	KG00097963	arthralgias	0.031210413202643394
+trial_2	lysergic acid diethylamide	151	KG00098274	Infarction, Cerebral	0.030636904761195183
+trial_2	lysergic acid diethylamide	18	KG00098307	Pain, Chest	0.027744757011532784
+trial_2	lysergic acid diethylamide	69	KG00100082	Palpitations NOS	0.027631763368844986
+trial_2	lysergic acid diethylamide	180	KG00099363	Hypotension NOS	0.02754012867808342
+trial_2	lysergic acid diethylamide	234	KG00098669	dysgeusias	0.026382965967059135
+trial_2	lysergic acid diethylamide	116	KG00098964	Pain in foot	0.025920359417796135
+trial_2	lysergic acid diethylamide	82	KG00097697	abdomen distended	0.02544889971613884
+trial_2	lysergic acid diethylamide	200	KG00098539	Disorders, Deglutition	0.025193944573402405
+trial_2	lysergic acid diethylamide	139	KG00098855	Sinusitis, Ethmoid	0.023963039740920067
+trial_2	lysergic acid diethylamide	189	KG00101580	Alanine aminotransferase increase	0.02365664578974247
+trial_2	lysergic acid diethylamide	131	KG00100948	Urinary tract infection (& [NOS])	0.023415368050336838
+trial_2	lysergic acid diethylamide	243	KG00100947	Micturition frequency increased	0.022280914708971977
+trial_2	lysergic acid diethylamide	188	KG00101579	Aspartate aminotransferase increase	0.02166193164885044
+trial_2	lysergic acid diethylamide	199	KG00098371	Rhinitis (chronic) NOS	0.02151378057897091
+trial_2	lysergic acid diethylamide	36	KG00106434	Vision, Blurring Of	0.021218441426753998
+trial_2	lysergic acid diethylamide	441	KG00098262	cellulitis nos	0.021125927567481995
+trial_2	lysergic acid diethylamide	11	KG00097993	Asthma NOS	0.020629893988370895
+trial_2	lysergic acid diethylamide	61	KG00099501	Chronic Kidney Failure	0.02045067586004734
+trial_2	lysergic acid diethylamide	76	KG00100450	Respiratory insufficiency, NOS	0.020435616374015808
+trial_2	lysergic acid diethylamide	29	KG00099354	hyponatraemia	0.020289232954382896
+trial_2	lysergic acid diethylamide	396	KG00100373	Embolism, Pulmonary	0.020267773419618607
+trial_2	lysergic acid diethylamide	96	KG00101679	Unattended death NOS	0.019930358976125717
+trial_2	lysergic acid diethylamide	72	KG00103771	myalgias	0.019919905811548233
+trial_2	lysergic acid diethylamide	89	KG00099301	Hyperhidrosis (disorder)	0.019603203982114792
+trial_2	lysergic acid diethylamide	28	KG00099347	hypoglycaemia	0.01949499174952507
+trial_2	lysergic acid diethylamide	262	KG00101199	agitation	0.019241569563746452
+trial_2	lysergic acid diethylamide	136	KG00101582	Dry;skin	0.019124247133731842
+trial_2	lysergic acid diethylamide	5	KG00099169	haematuria	0.019081836566329002
+trial_2	lysergic acid diethylamide	38	KG00098066	Binocular vision disorders	0.019055122509598732
+trial_2	lysergic acid diethylamide	166	KG00099773	menopausal syndrome	0.01861644722521305
+trial_2	lysergic acid diethylamide	466	KG00101205	fall	0.01825055293738842
+trial_2	lysergic acid diethylamide	242	KG00100855	tremors	0.018042627722024918
+trial_2	lysergic acid diethylamide	30	KG00099500	Acute Kidney Failure	0.01765754446387291
+trial_2	lysergic acid diethylamide	2	KG00100772	thrombocytopaenia	0.01764102652668953
+trial_2	lysergic acid diethylamide	130	KG00100683	Stomatitis NOS	0.017371024936437607
+trial_2	lysergic acid diethylamide	239	KG00100128	pareses	0.017317207530140877
+trial_2	lysergic acid diethylamide	122	KG00099321	Hypersensitivity NOS	0.017100337892770767
+trial_2	lysergic acid diethylamide	132	KG00101045	Gain, Weight	0.01691889390349388
+trial_2	lysergic acid diethylamide	350	KG00106765	decreased platelet count	0.0168153028935194
+trial_2	lysergic acid diethylamide	153	KG00099579	lethargy	0.016710719093680382
+trial_2	lysergic acid diethylamide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01645768992602825
+trial_2	lysergic acid diethylamide	221	KG00101207	peripheral oedema	0.016143517568707466
+trial_2	lysergic acid diethylamide	204	KG00098849	Esophagitis, Peptic	0.016048811376094818
+trial_2	lysergic acid diethylamide	454	KG00098286	Pain, Neck	0.015890836715698242
+trial_2	lysergic acid diethylamide	147	KG00098000	atelectases	0.015825223177671432
+trial_2	lysergic acid diethylamide	92	KG00100926	Infections, Upper Respiratory	0.01569015346467495
+trial_2	lysergic acid diethylamide	138	KG00098796	epidemic vomiting syndrome	0.015349781140685081
+trial_2	lysergic acid diethylamide	524	KG00100611	Sleeping disturbances	0.015204398892819881
+trial_2	lysergic acid diethylamide	94	KG00103829	abdominal discomfort	0.015117560513317585
+trial_2	lysergic acid diethylamide	269	KG00100399	pyaemia	0.01479658018797636
+trial_2	lysergic acid diethylamide	75	KG00100195	Dolens, Phlegmasia Alba	0.014753968454897404
+trial_2	lysergic acid diethylamide	4	KG00098817	epistaxis	0.014622732065618038
+trial_2	lysergic acid diethylamide	286	KG00101110	Retention, Urinary	0.014505795203149319
+trial_2	lysergic acid diethylamide	225	KG00104032	Suicidal tendencies	0.014393879100680351
+trial_2	lysergic acid diethylamide	456	KG00099420	Influenzae	0.014386358670890331
+trial_2	lysergic acid diethylamide	15	KG00097882	Angina pectoris NOS	0.01405424065887928
+trial_2	lysergic acid diethylamide	212	KG00100576	shivers	0.013969392515718937
+trial_2	lysergic acid diethylamide	31	KG00099872	Infarction, Myocardial	0.013711855746805668
+trial_2	lysergic acid diethylamide	142	KG00100923	Unspecified infectious and parasitic diseases	0.013521675951778889
+trial_2	lysergic acid diethylamide	191	KG00104055	Biliverdin increased	0.013502506539225578
+trial_2	lysergic acid diethylamide	261	KG00101559	raised alkaline phosphatase	0.013445372693240643
+trial_2	lysergic acid diethylamide	108	KG00098479	Cramp, Limb	0.013354859314858913
+trial_2	lysergic acid diethylamide	345	KG00103926	impairments memory	0.013162662275135517
+trial_2	lysergic acid diethylamide	508	KG00108565	blood glucose increased	0.013129374012351036
+trial_2	lysergic acid diethylamide	765	KG00103966	disorders dream	0.013021078892052174
+trial_2	lysergic acid diethylamide	361	KG00098004	Fibrillation, Atrial	0.012930310331285
+trial_2	lysergic acid diethylamide	371	KG00098517	Cystitis (NOS)	0.012618002481758595
+trial_2	lysergic acid diethylamide	331	KG00099462	Mood, Irritable	0.012548605911433697
+trial_2	lysergic acid diethylamide	98	KG00097718	Incised wound, NOS	0.0125025799497962
+trial_2	lysergic acid diethylamide	235	KG00098682	Dysuria NOS	0.012402284890413284
+trial_2	lysergic acid diethylamide	22	KG00098705	Edema (NOS)	0.01230928860604763

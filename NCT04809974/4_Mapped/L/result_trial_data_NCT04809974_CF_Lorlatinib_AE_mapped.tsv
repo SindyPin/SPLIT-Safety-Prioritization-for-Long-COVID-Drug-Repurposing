@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.29518091678619385
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2935955226421356
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.2804676294326782
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.25743091106414795
+trial_1	placebo	123	KG00099351	hypokalaemia	0.18791383504867554
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1740991175174713
+trial_1	placebo	9	KG00098432	Confusion NOS	0.17206844687461853
+trial_1	placebo	20	KG00098540	dehydration	0.15974926948547363
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1463119089603424
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14602483808994293
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.1449182778596878
+trial_1	placebo	228	KG00114657	Weight below normal	0.14151090383529663
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.13977719843387604
+trial_1	placebo	68	KG00099901	nauseas	0.1338615119457245
+trial_1	placebo	21	KG00098675	dyspnoea	0.13124209642410278
+trial_1	placebo	46	KG00099121	Headache NOS	0.12954263389110565
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12679652869701385
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12622053921222687
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12319326400756836
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.11808463931083679
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.11534509807825089
+trial_1	placebo	350	KG00106765	decreased platelet count	0.11413531750440598
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.11104340851306915
+trial_1	placebo	239	KG00100128	pareses	0.1084003746509552
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.10607317835092545
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10011284798383713
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09994737803936005
+trial_1	placebo	29	KG00099354	hyponatraemia	0.09672564268112183
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.09424404799938202
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.09201470762491226
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09196807444095612
+trial_1	placebo	5	KG00099169	haematuria	0.09182558953762054
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.09134618192911148
+trial_1	placebo	114	KG00098933	fevers	0.08945489674806595
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.08828631043434143
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0859171524643898
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.08285123854875565
+trial_1	placebo	104	KG00097963	arthralgias	0.08121181279420853
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07997962832450867
+trial_1	placebo	116	KG00098964	Pain in foot	0.07980268448591232
+trial_1	placebo	126	KG00100076	Pain NOS	0.07948503643274307
+trial_1	placebo	72	KG00103771	myalgias	0.0794624462723732
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0785326287150383
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07824235409498215
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.07607318460941315
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0750938132405281
+trial_1	placebo	85	KG00098474	coughs	0.07390287518501282
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.07336325198411942
+trial_1	placebo	186	KG00101431	creatinine increased	0.07168914377689362
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0697951465845108
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06978413462638855
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06969743967056274
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.06934718042612076
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.06852763146162033
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06795646995306015
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06771201640367508
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.06729185581207275
+trial_1	placebo	102	KG00097916	anxieties	0.06715839356184006
+trial_1	placebo	82	KG00097697	abdomen distended	0.06609297543764114
+trial_1	placebo	441	KG00098262	cellulitis nos	0.06595148146152496
+trial_1	placebo	454	KG00098286	Pain, Neck	0.06483183801174164
+trial_1	placebo	466	KG00101205	fall	0.0633150264620781
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06329333782196045
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06225379928946495
+trial_1	placebo	147	KG00098000	atelectases	0.0604424886405468
+trial_1	placebo	234	KG00098669	dysgeusias	0.06004391610622406
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.05895781144499779
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.058536700904369354
+trial_1	placebo	18	KG00098307	Pain, Chest	0.058108989149332047
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05636073276400566
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.05597211420536041
+trial_1	placebo	339	KG00100334	proteinurias	0.05444728210568428
+trial_1	placebo	136	KG00101582	Dry;skin	0.05286745727062225
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.051592931151390076
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.05148185417056084
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05111213028430939
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.05097914859652519
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.05088605359196663
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.050639864057302475
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.050585515797138214
+trial_1	placebo	269	KG00100399	pyaemia	0.05011304095387459
+trial_1	placebo	508	KG00108565	blood glucose increased	0.04975399002432823
+trial_1	placebo	382	KG00099200	haemorrhoids	0.04920526593923569
+trial_1	placebo	257	KG00100922	Erythema NOS	0.049156926572322845
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0476192869246006
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0474340058863163
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.046560630202293396
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.04644167423248291
+trial_1	placebo	282	KG00099309	hypernatraemia	0.046059612184762955
+trial_1	placebo	456	KG00099420	Influenzae	0.04603177681565285
+trial_1	placebo	4	KG00098817	epistaxis	0.045390449464321136
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04537823051214218
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.04478100687265396
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.043966200202703476
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.043954163789749146
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.04295680671930313
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.0429474376142025
+trial_1	placebo	535	KG00098309	chest pains wall	0.04292254149913788
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.04201653227210045
+trial_1	placebo	363	KG00098184	burns injury	0.04199627786874771
+trial_2	lorlatinib	87	KG00098599	diarrhoea	0.29518091678619385
+trial_2	lorlatinib	78	KG00099326	Hypertensive diseases	0.2935955226421356
+trial_2	lorlatinib	189	KG00101580	Alanine aminotransferase increase	0.2804676294326782
+trial_2	lorlatinib	188	KG00101579	Aspartate aminotransferase increase	0.25743091106414795
+trial_2	lorlatinib	123	KG00099351	hypokalaemia	0.18791383504867554
+trial_2	lorlatinib	173	KG00098172	Bronchopneumonia NOS	0.1740991175174713
+trial_2	lorlatinib	9	KG00098432	Confusion NOS	0.17206844687461853
+trial_2	lorlatinib	20	KG00098540	dehydration	0.15974926948547363
+trial_2	lorlatinib	67	KG00098673	Dyspepsia, NOS	0.1463119089603424
+trial_2	lorlatinib	17	KG00097991	Asthenia NOS	0.14602483808994293
+trial_2	lorlatinib	37	KG00097696	Cramps, Abdominal	0.1449182778596878
+trial_2	lorlatinib	228	KG00114657	Weight below normal	0.14151090383529663
+trial_2	lorlatinib	64	KG00097734	Acrodermatitis, NOS	0.13977719843387604
+trial_2	lorlatinib	68	KG00099901	nauseas	0.1338615119457245
+trial_2	lorlatinib	21	KG00098675	dyspnoea	0.13124209642410278
+trial_2	lorlatinib	46	KG00099121	Headache NOS	0.12954263389110565
+trial_2	lorlatinib	77	KG00098450	Constipation NOS	0.12679652869701385
+trial_2	lorlatinib	49	KG00099902	nausea with vomiting	0.12622053921222687
+trial_2	lorlatinib	177	KG00099299	hyperglycaemia	0.12319326400756836
+trial_2	lorlatinib	243	KG00100947	Micturition frequency increased	0.11808463931083679
+trial_2	lorlatinib	200	KG00098539	Disorders, Deglutition	0.11534509807825089
+trial_2	lorlatinib	350	KG00106765	decreased platelet count	0.11413531750440598
+trial_2	lorlatinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.11104340851306915
+trial_2	lorlatinib	239	KG00100128	pareses	0.1084003746509552
+trial_2	lorlatinib	261	KG00101559	raised alkaline phosphatase	0.10607317835092545
+trial_2	lorlatinib	79	KG00100317	Insomnia, Primary	0.10011284798383713
+trial_2	lorlatinib	14	KG00097852	Anemia NOS	0.09994737803936005
+trial_2	lorlatinib	29	KG00099354	hyponatraemia	0.09672564268112183
+trial_2	lorlatinib	101	KG00097901	Anorexia NOS	0.09424404799938202
+trial_2	lorlatinib	131	KG00100948	Urinary tract infection (& [NOS])	0.09201470762491226
+trial_2	lorlatinib	2	KG00100772	thrombocytopaenia	0.09196807444095612
+trial_2	lorlatinib	5	KG00099169	haematuria	0.09182558953762054
+trial_2	lorlatinib	341	KG00101472	Gamma-glutamyltransferase increased	0.09134618192911148
+trial_2	lorlatinib	114	KG00098933	fevers	0.08945489674806595
+trial_2	lorlatinib	191	KG00104055	Biliverdin increased	0.08828631043434143
+trial_2	lorlatinib	38	KG00098066	Binocular vision disorders	0.0859171524643898
+trial_2	lorlatinib	422	KG00101429	Creatine phosphokinase increased	0.08285123854875565
+trial_2	lorlatinib	104	KG00097963	arthralgias	0.08121181279420853
+trial_2	lorlatinib	151	KG00098274	Infarction, Cerebral	0.07997962832450867
+trial_2	lorlatinib	116	KG00098964	Pain in foot	0.07980268448591232
+trial_2	lorlatinib	126	KG00100076	Pain NOS	0.07948503643274307
+trial_2	lorlatinib	72	KG00103771	myalgias	0.0794624462723732
+trial_2	lorlatinib	396	KG00100373	Embolism, Pulmonary	0.0785326287150383
+trial_2	lorlatinib	30	KG00099500	Acute Kidney Failure	0.07824235409498215
+trial_2	lorlatinib	204	KG00098849	Esophagitis, Peptic	0.07607318460941315
+trial_2	lorlatinib	179	KG00099342	hypocalcaemia	0.0750938132405281
+trial_2	lorlatinib	85	KG00098474	coughs	0.07390287518501282
+trial_2	lorlatinib	36	KG00106434	Vision, Blurring Of	0.07336325198411942
+trial_2	lorlatinib	186	KG00101431	creatinine increased	0.07168914377689362
+trial_2	lorlatinib	194	KG00110727	Neutrophil Count Decreased	0.0697951465845108
+trial_2	lorlatinib	86	KG00098565	Depression, Mental	0.06978413462638855
+trial_2	lorlatinib	27	KG00099303	hyperkalaemia	0.06969743967056274
+trial_2	lorlatinib	97	KG00104198	LIVER ENZYME ELEVATED	0.06934718042612076
+trial_2	lorlatinib	139	KG00098855	Sinusitis, Ethmoid	0.06852763146162033
+trial_2	lorlatinib	28	KG00099347	hypoglycaemia	0.06795646995306015
+trial_2	lorlatinib	61	KG00099501	Chronic Kidney Failure	0.06771201640367508
+trial_2	lorlatinib	35	KG00101507	hypomagnesaemia	0.06729185581207275
+trial_2	lorlatinib	102	KG00097916	anxieties	0.06715839356184006
+trial_2	lorlatinib	82	KG00097697	abdomen distended	0.06609297543764114
+trial_2	lorlatinib	441	KG00098262	cellulitis nos	0.06595148146152496
+trial_2	lorlatinib	454	KG00098286	Pain, Neck	0.06483183801174164
+trial_2	lorlatinib	466	KG00101205	fall	0.0633150264620781
+trial_2	lorlatinib	355	KG00110857	lymphocyte count decreased	0.06329333782196045
+trial_2	lorlatinib	76	KG00100450	Respiratory insufficiency, NOS	0.06225379928946495
+trial_2	lorlatinib	147	KG00098000	atelectases	0.0604424886405468
+trial_2	lorlatinib	234	KG00098669	dysgeusias	0.06004391610622406
+trial_2	lorlatinib	69	KG00100082	Palpitations NOS	0.05895781144499779
+trial_2	lorlatinib	180	KG00099363	Hypotension NOS	0.058536700904369354
+trial_2	lorlatinib	18	KG00098307	Pain, Chest	0.058108989149332047
+trial_2	lorlatinib	132	KG00101045	Gain, Weight	0.05636073276400566
+trial_2	lorlatinib	130	KG00100683	Stomatitis NOS	0.05597211420536041
+trial_2	lorlatinib	339	KG00100334	proteinurias	0.05444728210568428
+trial_2	lorlatinib	136	KG00101582	Dry;skin	0.05286745727062225
+trial_2	lorlatinib	33	KG00100094	Pancreatitis NOS	0.051592931151390076
+trial_2	lorlatinib	286	KG00101110	Retention, Urinary	0.05148185417056084
+trial_2	lorlatinib	276	KG00099127	Arrest, Cardiac	0.05111213028430939
+trial_2	lorlatinib	297	KG00099294	hypercholesterolaemia	0.05097914859652519
+trial_2	lorlatinib	288	KG00101223	hypophosphataemia	0.05088605359196663
+trial_2	lorlatinib	747	KG00101527	Liver function tests abnormal (finding)	0.050639864057302475
+trial_2	lorlatinib	249	KG00104430	hypoalbuminaemia	0.050585515797138214
+trial_2	lorlatinib	269	KG00100399	pyaemia	0.05011304095387459
+trial_2	lorlatinib	508	KG00108565	blood glucose increased	0.04975399002432823
+trial_2	lorlatinib	382	KG00099200	haemorrhoids	0.04920526593923569
+trial_2	lorlatinib	257	KG00100922	Erythema NOS	0.049156926572322845
+trial_2	lorlatinib	221	KG00101207	peripheral oedema	0.0476192869246006
+trial_2	lorlatinib	92	KG00100926	Infections, Upper Respiratory	0.0474340058863163
+trial_2	lorlatinib	211	KG00100341	Pruritus NOS	0.046560630202293396
+trial_2	lorlatinib	75	KG00100195	Dolens, Phlegmasia Alba	0.04644167423248291
+trial_2	lorlatinib	282	KG00099309	hypernatraemia	0.046059612184762955
+trial_2	lorlatinib	456	KG00099420	Influenzae	0.04603177681565285
+trial_2	lorlatinib	4	KG00098817	epistaxis	0.045390449464321136
+trial_2	lorlatinib	122	KG00099321	Hypersensitivity NOS	0.04537823051214218
+trial_2	lorlatinib	356	KG00112623	Infectious Lung Disorders	0.04478100687265396
+trial_2	lorlatinib	108	KG00098479	Cramp, Limb	0.043966200202703476
+trial_2	lorlatinib	253	KG00100232	Pleural effusion NOS (disorder)	0.043954163789749146
+trial_2	lorlatinib	98	KG00097718	Incised wound, NOS	0.04295680671930313
+trial_2	lorlatinib	218	KG00100801	Tinnitus NOS	0.0429474376142025
+trial_2	lorlatinib	535	KG00098309	chest pains wall	0.04292254149913788
+trial_2	lorlatinib	371	KG00098517	Cystitis (NOS)	0.04201653227210045
+trial_2	lorlatinib	363	KG00098184	burns injury	0.04199627786874771

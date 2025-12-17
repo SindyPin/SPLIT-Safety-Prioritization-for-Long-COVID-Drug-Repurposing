@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.04847102612257004
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04493177682161331
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.039516232907772064
+trial_1	placebo	87	KG00098599	diarrhoea	0.03726450726389885
+trial_1	placebo	20	KG00098540	dehydration	0.02756882645189762
+trial_1	placebo	123	KG00099351	hypokalaemia	0.027280494570732117
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.026721812784671783
+trial_1	placebo	21	KG00098675	dyspnoea	0.02668309584259987
+trial_1	placebo	9	KG00098432	Confusion NOS	0.02530863508582115
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.024850741028785706
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0244270209223032
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.024330517277121544
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.023641925305128098
+trial_1	placebo	14	KG00097852	Anemia NOS	0.023467393592000008
+trial_1	placebo	46	KG00099121	Headache NOS	0.023207683116197586
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.022422106936573982
+trial_1	placebo	126	KG00100076	Pain NOS	0.019932277500629425
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.019876854494214058
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.018931617960333824
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.01890924945473671
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0186311025172472
+trial_1	placebo	114	KG00098933	fevers	0.0181924719363451
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.01799079217016697
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017781414091587067
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.01750381663441658
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.01729614846408367
+trial_1	placebo	85	KG00098474	coughs	0.01713038794696331
+trial_1	placebo	147	KG00098000	atelectases	0.01698300801217556
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0167684368789196
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01666843891143799
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.016063455492258072
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.015665972605347633
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.015201864764094353
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015123667195439339
+trial_1	placebo	5	KG00099169	haematuria	0.015122508630156517
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01510706264525652
+trial_1	placebo	121	KG00099190	haemorrhage	0.014792724512517452
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.014479071833193302
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.014424161985516548
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.014399047940969467
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014279397204518318
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.013649753294885159
+trial_1	placebo	29	KG00099354	hyponatraemia	0.013337729498744011
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012982986867427826
+trial_1	placebo	104	KG00097963	arthralgias	0.012970557436347008
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.012767364270985126
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.012708311900496483
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01266837865114212
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.012433798983693123
+trial_1	placebo	269	KG00100399	pyaemia	0.011844204738736153
+trial_1	placebo	68	KG00099901	nauseas	0.011743648909032345
+trial_1	placebo	239	KG00100128	pareses	0.011627715080976486
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.011518855579197407
+trial_1	placebo	72	KG00103771	myalgias	0.011160988360643387
+trial_1	placebo	221	KG00101207	peripheral oedema	0.011156058870255947
+trial_1	placebo	228	KG00114657	Weight below normal	0.01113186590373516
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.011103515513241291
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.010887610726058483
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01084965094923973
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.010687529109418392
+trial_1	placebo	350	KG00106765	decreased platelet count	0.010611136443912983
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.010499889962375164
+trial_1	placebo	132	KG00101045	Gain, Weight	0.010434120893478394
+trial_1	placebo	116	KG00098964	Pain in foot	0.010357687249779701
+trial_1	placebo	102	KG00097916	anxieties	0.01020753663033247
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.010159789584577084
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.010038541629910469
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.009841480292379856
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.009701034054160118
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.009537676349282265
+trial_1	placebo	234	KG00098669	dysgeusias	0.009435532614588737
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.009381682612001896
+trial_1	placebo	466	KG00101205	fall	0.009317527525126934
+trial_1	placebo	456	KG00099420	Influenzae	0.009298892691731453
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.00929083488881588
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.009278049692511559
+trial_1	placebo	4	KG00098817	epistaxis	0.009262310341000557
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.009232009761035442
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.009061265736818314
+trial_1	placebo	53	KG00101550	Pain in eyes	0.00905629526823759
+trial_1	placebo	164	KG00108827	ileus colon	0.008860900066792965
+trial_1	placebo	508	KG00108565	blood glucose increased	0.00883431825786829
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.008816157467663288
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.008716121315956116
+trial_1	placebo	11	KG00097993	Asthma NOS	0.008670348674058914
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.008612506091594696
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.008507143706083298
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.008473256602883339
+trial_1	placebo	282	KG00099309	hypernatraemia	0.00845846626907587
+trial_1	placebo	136	KG00101582	Dry;skin	0.008441578596830368
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.008309504948556423
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.008228614926338196
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.008129832334816456
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.008076208643615246
+trial_1	placebo	82	KG00097697	abdomen distended	0.008041029796004295
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.008027961477637291
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.00776945985853672
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.007708118297159672
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.00766612496227026
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0075388276018202305
+trial_2	loteprednol etabonate	78	KG00099326	Hypertensive diseases	0.04847102612257004
+trial_2	loteprednol etabonate	177	KG00099299	hyperglycaemia	0.04493177682161331
+trial_2	loteprednol etabonate	173	KG00098172	Bronchopneumonia NOS	0.039516232907772064
+trial_2	loteprednol etabonate	87	KG00098599	diarrhoea	0.03726450726389885
+trial_2	loteprednol etabonate	20	KG00098540	dehydration	0.02756882645189762
+trial_2	loteprednol etabonate	123	KG00099351	hypokalaemia	0.027280494570732117
+trial_2	loteprednol etabonate	17	KG00097991	Asthenia NOS	0.026721812784671783
+trial_2	loteprednol etabonate	21	KG00098675	dyspnoea	0.02668309584259987
+trial_2	loteprednol etabonate	9	KG00098432	Confusion NOS	0.02530863508582115
+trial_2	loteprednol etabonate	37	KG00097696	Cramps, Abdominal	0.024850741028785706
+trial_2	loteprednol etabonate	77	KG00098450	Constipation NOS	0.0244270209223032
+trial_2	loteprednol etabonate	28	KG00099347	hypoglycaemia	0.024330517277121544
+trial_2	loteprednol etabonate	64	KG00097734	Acrodermatitis, NOS	0.023641925305128098
+trial_2	loteprednol etabonate	14	KG00097852	Anemia NOS	0.023467393592000008
+trial_2	loteprednol etabonate	46	KG00099121	Headache NOS	0.023207683116197586
+trial_2	loteprednol etabonate	151	KG00098274	Infarction, Cerebral	0.022422106936573982
+trial_2	loteprednol etabonate	126	KG00100076	Pain NOS	0.019932277500629425
+trial_2	loteprednol etabonate	180	KG00099363	Hypotension NOS	0.019876854494214058
+trial_2	loteprednol etabonate	396	KG00100373	Embolism, Pulmonary	0.018931617960333824
+trial_2	loteprednol etabonate	61	KG00099501	Chronic Kidney Failure	0.01890924945473671
+trial_2	loteprednol etabonate	200	KG00098539	Disorders, Deglutition	0.0186311025172472
+trial_2	loteprednol etabonate	114	KG00098933	fevers	0.0181924719363451
+trial_2	loteprednol etabonate	79	KG00100317	Insomnia, Primary	0.01799079217016697
+trial_2	loteprednol etabonate	122	KG00099321	Hypersensitivity NOS	0.017781414091587067
+trial_2	loteprednol etabonate	96	KG00101679	Unattended death NOS	0.01750381663441658
+trial_2	loteprednol etabonate	67	KG00098673	Dyspepsia, NOS	0.01729614846408367
+trial_2	loteprednol etabonate	85	KG00098474	coughs	0.01713038794696331
+trial_2	loteprednol etabonate	147	KG00098000	atelectases	0.01698300801217556
+trial_2	loteprednol etabonate	86	KG00098565	Depression, Mental	0.0167684368789196
+trial_2	loteprednol etabonate	131	KG00100948	Urinary tract infection (& [NOS])	0.01666843891143799
+trial_2	loteprednol etabonate	36	KG00106434	Vision, Blurring Of	0.016063455492258072
+trial_2	loteprednol etabonate	30	KG00099500	Acute Kidney Failure	0.015665972605347633
+trial_2	loteprednol etabonate	2	KG00100772	thrombocytopaenia	0.015201864764094353
+trial_2	loteprednol etabonate	441	KG00098262	cellulitis nos	0.015123667195439339
+trial_2	loteprednol etabonate	5	KG00099169	haematuria	0.015122508630156517
+trial_2	loteprednol etabonate	139	KG00098855	Sinusitis, Ethmoid	0.01510706264525652
+trial_2	loteprednol etabonate	121	KG00099190	haemorrhage	0.014792724512517452
+trial_2	loteprednol etabonate	76	KG00100450	Respiratory insufficiency, NOS	0.014479071833193302
+trial_2	loteprednol etabonate	49	KG00099902	nausea with vomiting	0.014424161985516548
+trial_2	loteprednol etabonate	38	KG00098066	Binocular vision disorders	0.014399047940969467
+trial_2	loteprednol etabonate	92	KG00100926	Infections, Upper Respiratory	0.014279397204518318
+trial_2	loteprednol etabonate	142	KG00100923	Unspecified infectious and parasitic diseases	0.013649753294885159
+trial_2	loteprednol etabonate	29	KG00099354	hyponatraemia	0.013337729498744011
+trial_2	loteprednol etabonate	138	KG00098796	epidemic vomiting syndrome	0.012982986867427826
+trial_2	loteprednol etabonate	104	KG00097963	arthralgias	0.012970557436347008
+trial_2	loteprednol etabonate	27	KG00099303	hyperkalaemia	0.012767364270985126
+trial_2	loteprednol etabonate	69	KG00100082	Palpitations NOS	0.012708311900496483
+trial_2	loteprednol etabonate	18	KG00098307	Pain, Chest	0.01266837865114212
+trial_2	loteprednol etabonate	75	KG00100195	Dolens, Phlegmasia Alba	0.012433798983693123
+trial_2	loteprednol etabonate	269	KG00100399	pyaemia	0.011844204738736153
+trial_2	loteprednol etabonate	68	KG00099901	nauseas	0.011743648909032345
+trial_2	loteprednol etabonate	239	KG00100128	pareses	0.011627715080976486
+trial_2	loteprednol etabonate	243	KG00100947	Micturition frequency increased	0.011518855579197407
+trial_2	loteprednol etabonate	72	KG00103771	myalgias	0.011160988360643387
+trial_2	loteprednol etabonate	221	KG00101207	peripheral oedema	0.011156058870255947
+trial_2	loteprednol etabonate	228	KG00114657	Weight below normal	0.01113186590373516
+trial_2	loteprednol etabonate	179	KG00099342	hypocalcaemia	0.011103515513241291
+trial_2	loteprednol etabonate	189	KG00101580	Alanine aminotransferase increase	0.010887610726058483
+trial_2	loteprednol etabonate	195	KG00097814	Atopic Rhinitis	0.01084965094923973
+trial_2	loteprednol etabonate	31	KG00099872	Infarction, Myocardial	0.010687529109418392
+trial_2	loteprednol etabonate	350	KG00106765	decreased platelet count	0.010611136443912983
+trial_2	loteprednol etabonate	276	KG00099127	Arrest, Cardiac	0.010499889962375164
+trial_2	loteprednol etabonate	132	KG00101045	Gain, Weight	0.010434120893478394
+trial_2	loteprednol etabonate	116	KG00098964	Pain in foot	0.010357687249779701
+trial_2	loteprednol etabonate	102	KG00097916	anxieties	0.01020753663033247
+trial_2	loteprednol etabonate	163	KG00104050	bowel obstructions small	0.010159789584577084
+trial_2	loteprednol etabonate	130	KG00100683	Stomatitis NOS	0.010038541629910469
+trial_2	loteprednol etabonate	1	KG00099959	Neutropenia NOS	0.009841480292379856
+trial_2	loteprednol etabonate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.009701034054160118
+trial_2	loteprednol etabonate	118	KG00099011	Gastritis NOS	0.009537676349282265
+trial_2	loteprednol etabonate	234	KG00098669	dysgeusias	0.009435532614588737
+trial_2	loteprednol etabonate	249	KG00104430	hypoalbuminaemia	0.009381682612001896
+trial_2	loteprednol etabonate	466	KG00101205	fall	0.009317527525126934
+trial_2	loteprednol etabonate	456	KG00099420	Influenzae	0.009298892691731453
+trial_2	loteprednol etabonate	188	KG00101579	Aspartate aminotransferase increase	0.00929083488881588
+trial_2	loteprednol etabonate	40	KG00098092	Blepharoconjunctivitis NOS	0.009278049692511559
+trial_2	loteprednol etabonate	4	KG00098817	epistaxis	0.009262310341000557
+trial_2	loteprednol etabonate	361	KG00098004	Fibrillation, Atrial	0.009232009761035442
+trial_2	loteprednol etabonate	35	KG00101507	hypomagnesaemia	0.009061265736818314
+trial_2	loteprednol etabonate	53	KG00101550	Pain in eyes	0.00905629526823759
+trial_2	loteprednol etabonate	164	KG00108827	ileus colon	0.008860900066792965
+trial_2	loteprednol etabonate	508	KG00108565	blood glucose increased	0.00883431825786829
+trial_2	loteprednol etabonate	253	KG00100232	Pleural effusion NOS (disorder)	0.008816157467663288
+trial_2	loteprednol etabonate	199	KG00098371	Rhinitis (chronic) NOS	0.008716121315956116
+trial_2	loteprednol etabonate	11	KG00097993	Asthma NOS	0.008670348674058914
+trial_2	loteprednol etabonate	286	KG00101110	Retention, Urinary	0.008612506091594696
+trial_2	loteprednol etabonate	268	KG00099557	Heart Failure, Left-Sided	0.008507143706083298
+trial_2	loteprednol etabonate	204	KG00098849	Esophagitis, Peptic	0.008473256602883339
+trial_2	loteprednol etabonate	282	KG00099309	hypernatraemia	0.00845846626907587
+trial_2	loteprednol etabonate	136	KG00101582	Dry;skin	0.008441578596830368
+trial_2	loteprednol etabonate	254	KG00100774	Thrombosis NOS	0.008309504948556423
+trial_2	loteprednol etabonate	133	KG00101370	neuropathies sensory	0.008228614926338196
+trial_2	loteprednol etabonate	22	KG00098705	Edema (NOS)	0.008129832334816456
+trial_2	loteprednol etabonate	144	KG00099610	Leukopenia NOS	0.008076208643615246
+trial_2	loteprednol etabonate	82	KG00097697	abdomen distended	0.008041029796004295
+trial_2	loteprednol etabonate	160	KG00099291	hypercalcaemia	0.008027961477637291
+trial_2	loteprednol etabonate	288	KG00101223	hypophosphataemia	0.00776945985853672
+trial_2	loteprednol etabonate	371	KG00098517	Cystitis (NOS)	0.007708118297159672
+trial_2	loteprednol etabonate	211	KG00100341	Pruritus NOS	0.00766612496227026
+trial_2	loteprednol etabonate	194	KG00110727	Neutrophil Count Decreased	0.0075388276018202305

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.3307088315486908
+trial_1	placebo	87	KG00098599	diarrhoea	0.29689571261405945
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.21042919158935547
+trial_1	placebo	21	KG00098675	dyspnoea	0.20011752843856812
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1926775872707367
+trial_1	placebo	46	KG00099121	Headache NOS	0.19216199219226837
+trial_1	placebo	77	KG00098450	Constipation NOS	0.19172954559326172
+trial_1	placebo	9	KG00098432	Confusion NOS	0.18979966640472412
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.18825453519821167
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.18510934710502625
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.18267963826656342
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.17893962562084198
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.1726655513048172
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.15750640630722046
+trial_1	placebo	20	KG00098540	dehydration	0.15454207360744476
+trial_1	placebo	68	KG00099901	nauseas	0.1508146971464157
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.14038114249706268
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1386542171239853
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.137691468000412
+trial_1	placebo	14	KG00097852	Anemia NOS	0.13117481768131256
+trial_1	placebo	104	KG00097963	arthralgias	0.12762460112571716
+trial_1	placebo	116	KG00098964	Pain in foot	0.11991532146930695
+trial_1	placebo	114	KG00098933	fevers	0.11970707029104233
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.1182486042380333
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.11762166768312454
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.11677773296833038
+trial_1	placebo	5	KG00099169	haematuria	0.11248482763767242
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.10588502138853073
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.10470914095640182
+trial_1	placebo	350	KG00106765	decreased platelet count	0.10470044612884521
+trial_1	placebo	228	KG00114657	Weight below normal	0.10203124582767487
+trial_1	placebo	85	KG00098474	coughs	0.0997389629483223
+trial_1	placebo	126	KG00100076	Pain NOS	0.09917052090167999
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.09843334555625916
+trial_1	placebo	239	KG00100128	pareses	0.09617175906896591
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.08951225131750107
+trial_1	placebo	82	KG00097697	abdomen distended	0.08825333416461945
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.08724472671747208
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.08584591746330261
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0858386754989624
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08482733368873596
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.08369285613298416
+trial_1	placebo	72	KG00103771	myalgias	0.08330683410167694
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0812239870429039
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08096957951784134
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.08084467798471451
+trial_1	placebo	18	KG00098307	Pain, Chest	0.08064017444849014
+trial_1	placebo	212	KG00100576	shivers	0.08034095168113708
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.07827479392290115
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.07751136273145676
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07704275101423264
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.07682310044765472
+trial_1	placebo	102	KG00097916	anxieties	0.07496243715286255
+trial_1	placebo	454	KG00098286	Pain, Neck	0.0735916867852211
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.07347837090492249
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.07312620431184769
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07271238416433334
+trial_1	placebo	4	KG00098817	epistaxis	0.07239238917827606
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.06888490915298462
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06876049190759659
+trial_1	placebo	257	KG00100922	Erythema NOS	0.06858120113611221
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.06717707961797714
+trial_1	placebo	466	KG00101205	fall	0.06518953293561935
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.06480946391820908
+trial_1	placebo	221	KG00101207	peripheral oedema	0.06439709663391113
+trial_1	placebo	441	KG00098262	cellulitis nos	0.06432061642408371
+trial_1	placebo	269	KG00100399	pyaemia	0.06415532529354095
+trial_1	placebo	147	KG00098000	atelectases	0.0637202113866806
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.06291070580482483
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06207399442791939
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.06166911497712135
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.061619147658348083
+trial_1	placebo	457	KG00099853	Pain, Musculoskeletal	0.06105969846248627
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.060121089220047
+trial_1	placebo	234	KG00098669	dysgeusias	0.059125322848558426
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.05838415399193764
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.05822259560227394
+trial_1	placebo	186	KG00101431	creatinine increased	0.058158088475465775
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.05656926706433296
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.055877890437841415
+trial_1	placebo	339	KG00100334	proteinurias	0.05488397553563118
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.05367014929652214
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.051772285252809525
+trial_1	placebo	282	KG00099309	hypernatraemia	0.05135897174477577
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.051111288368701935
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.049966081976890564
+trial_1	placebo	153	KG00099579	lethargy	0.04941142722964287
+trial_1	placebo	535	KG00098309	chest pains wall	0.04890034347772598
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.04883406311273575
+trial_1	placebo	83	KG00097747	pharyngitis nos acute	0.04880458116531372
+trial_1	placebo	451	KG00101551	injection site pain	0.0487823486328125
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.048617374151945114
+trial_1	placebo	136	KG00101582	Dry;skin	0.048535458743572235
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.04776332154870033
+trial_1	placebo	456	KG00099420	Influenzae	0.04773762822151184
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.04769439250230789
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.04758565500378609
+trial_1	placebo	208	KG00099896	Nasal congestion (finding)	0.04696930572390556
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.04656723514199257
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.04628702998161316
+trial_2	leniolisib	78	KG00099326	Hypertensive diseases	0.3307088315486908
+trial_2	leniolisib	87	KG00098599	diarrhoea	0.29689571261405945
+trial_2	leniolisib	37	KG00097696	Cramps, Abdominal	0.21042919158935547
+trial_2	leniolisib	21	KG00098675	dyspnoea	0.20011752843856812
+trial_2	leniolisib	123	KG00099351	hypokalaemia	0.1926775872707367
+trial_2	leniolisib	46	KG00099121	Headache NOS	0.19216199219226837
+trial_2	leniolisib	77	KG00098450	Constipation NOS	0.19172954559326172
+trial_2	leniolisib	9	KG00098432	Confusion NOS	0.18979966640472412
+trial_2	leniolisib	177	KG00099299	hyperglycaemia	0.18825453519821167
+trial_2	leniolisib	17	KG00097991	Asthenia NOS	0.18510934710502625
+trial_2	leniolisib	189	KG00101580	Alanine aminotransferase increase	0.18267963826656342
+trial_2	leniolisib	173	KG00098172	Bronchopneumonia NOS	0.17893962562084198
+trial_2	leniolisib	188	KG00101579	Aspartate aminotransferase increase	0.1726655513048172
+trial_2	leniolisib	64	KG00097734	Acrodermatitis, NOS	0.15750640630722046
+trial_2	leniolisib	20	KG00098540	dehydration	0.15454207360744476
+trial_2	leniolisib	68	KG00099901	nauseas	0.1508146971464157
+trial_2	leniolisib	79	KG00100317	Insomnia, Primary	0.14038114249706268
+trial_2	leniolisib	67	KG00098673	Dyspepsia, NOS	0.1386542171239853
+trial_2	leniolisib	49	KG00099902	nausea with vomiting	0.137691468000412
+trial_2	leniolisib	14	KG00097852	Anemia NOS	0.13117481768131256
+trial_2	leniolisib	104	KG00097963	arthralgias	0.12762460112571716
+trial_2	leniolisib	116	KG00098964	Pain in foot	0.11991532146930695
+trial_2	leniolisib	114	KG00098933	fevers	0.11970707029104233
+trial_2	leniolisib	200	KG00098539	Disorders, Deglutition	0.1182486042380333
+trial_2	leniolisib	243	KG00100947	Micturition frequency increased	0.11762166768312454
+trial_2	leniolisib	2	KG00100772	thrombocytopaenia	0.11677773296833038
+trial_2	leniolisib	5	KG00099169	haematuria	0.11248482763767242
+trial_2	leniolisib	76	KG00100450	Respiratory insufficiency, NOS	0.10588502138853073
+trial_2	leniolisib	180	KG00099363	Hypotension NOS	0.10470914095640182
+trial_2	leniolisib	350	KG00106765	decreased platelet count	0.10470044612884521
+trial_2	leniolisib	228	KG00114657	Weight below normal	0.10203124582767487
+trial_2	leniolisib	85	KG00098474	coughs	0.0997389629483223
+trial_2	leniolisib	126	KG00100076	Pain NOS	0.09917052090167999
+trial_2	leniolisib	131	KG00100948	Urinary tract infection (& [NOS])	0.09843334555625916
+trial_2	leniolisib	239	KG00100128	pareses	0.09617175906896591
+trial_2	leniolisib	27	KG00099303	hyperkalaemia	0.08951225131750107
+trial_2	leniolisib	82	KG00097697	abdomen distended	0.08825333416461945
+trial_2	leniolisib	179	KG00099342	hypocalcaemia	0.08724472671747208
+trial_2	leniolisib	30	KG00099500	Acute Kidney Failure	0.08584591746330261
+trial_2	leniolisib	101	KG00097901	Anorexia NOS	0.0858386754989624
+trial_2	leniolisib	29	KG00099354	hyponatraemia	0.08482733368873596
+trial_2	leniolisib	204	KG00098849	Esophagitis, Peptic	0.08369285613298416
+trial_2	leniolisib	72	KG00103771	myalgias	0.08330683410167694
+trial_2	leniolisib	28	KG00099347	hypoglycaemia	0.0812239870429039
+trial_2	leniolisib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08096957951784134
+trial_2	leniolisib	69	KG00100082	Palpitations NOS	0.08084467798471451
+trial_2	leniolisib	18	KG00098307	Pain, Chest	0.08064017444849014
+trial_2	leniolisib	212	KG00100576	shivers	0.08034095168113708
+trial_2	leniolisib	253	KG00100232	Pleural effusion NOS (disorder)	0.07827479392290115
+trial_2	leniolisib	98	KG00097718	Incised wound, NOS	0.07751136273145676
+trial_2	leniolisib	86	KG00098565	Depression, Mental	0.07704275101423264
+trial_2	leniolisib	92	KG00100926	Infections, Upper Respiratory	0.07682310044765472
+trial_2	leniolisib	102	KG00097916	anxieties	0.07496243715286255
+trial_2	leniolisib	454	KG00098286	Pain, Neck	0.0735916867852211
+trial_2	leniolisib	139	KG00098855	Sinusitis, Ethmoid	0.07347837090492249
+trial_2	leniolisib	396	KG00100373	Embolism, Pulmonary	0.07312620431184769
+trial_2	leniolisib	61	KG00099501	Chronic Kidney Failure	0.07271238416433334
+trial_2	leniolisib	4	KG00098817	epistaxis	0.07239238917827606
+trial_2	leniolisib	261	KG00101559	raised alkaline phosphatase	0.06888490915298462
+trial_2	leniolisib	355	KG00110857	lymphocyte count decreased	0.06876049190759659
+trial_2	leniolisib	257	KG00100922	Erythema NOS	0.06858120113611221
+trial_2	leniolisib	38	KG00098066	Binocular vision disorders	0.06717707961797714
+trial_2	leniolisib	466	KG00101205	fall	0.06518953293561935
+trial_2	leniolisib	276	KG00099127	Arrest, Cardiac	0.06480946391820908
+trial_2	leniolisib	221	KG00101207	peripheral oedema	0.06439709663391113
+trial_2	leniolisib	441	KG00098262	cellulitis nos	0.06432061642408371
+trial_2	leniolisib	269	KG00100399	pyaemia	0.06415532529354095
+trial_2	leniolisib	147	KG00098000	atelectases	0.0637202113866806
+trial_2	leniolisib	35	KG00101507	hypomagnesaemia	0.06291070580482483
+trial_2	leniolisib	151	KG00098274	Infarction, Cerebral	0.06207399442791939
+trial_2	leniolisib	194	KG00110727	Neutrophil Count Decreased	0.06166911497712135
+trial_2	leniolisib	122	KG00099321	Hypersensitivity NOS	0.061619147658348083
+trial_2	leniolisib	457	KG00099853	Pain, Musculoskeletal	0.06105969846248627
+trial_2	leniolisib	211	KG00100341	Pruritus NOS	0.060121089220047
+trial_2	leniolisib	234	KG00098669	dysgeusias	0.059125322848558426
+trial_2	leniolisib	191	KG00104055	Biliverdin increased	0.05838415399193764
+trial_2	leniolisib	288	KG00101223	hypophosphataemia	0.05822259560227394
+trial_2	leniolisib	186	KG00101431	creatinine increased	0.058158088475465775
+trial_2	leniolisib	36	KG00106434	Vision, Blurring Of	0.05656926706433296
+trial_2	leniolisib	249	KG00104430	hypoalbuminaemia	0.055877890437841415
+trial_2	leniolisib	339	KG00100334	proteinurias	0.05488397553563118
+trial_2	leniolisib	97	KG00104198	LIVER ENZYME ELEVATED	0.05367014929652214
+trial_2	leniolisib	341	KG00101472	Gamma-glutamyltransferase increased	0.051772285252809525
+trial_2	leniolisib	282	KG00099309	hypernatraemia	0.05135897174477577
+trial_2	leniolisib	130	KG00100683	Stomatitis NOS	0.051111288368701935
+trial_2	leniolisib	286	KG00101110	Retention, Urinary	0.049966081976890564
+trial_2	leniolisib	153	KG00099579	lethargy	0.04941142722964287
+trial_2	leniolisib	535	KG00098309	chest pains wall	0.04890034347772598
+trial_2	leniolisib	163	KG00104050	bowel obstructions small	0.04883406311273575
+trial_2	leniolisib	83	KG00097747	pharyngitis nos acute	0.04880458116531372
+trial_2	leniolisib	451	KG00101551	injection site pain	0.0487823486328125
+trial_2	leniolisib	144	KG00099610	Leukopenia NOS	0.048617374151945114
+trial_2	leniolisib	136	KG00101582	Dry;skin	0.048535458743572235
+trial_2	leniolisib	94	KG00103829	abdominal discomfort	0.04776332154870033
+trial_2	leniolisib	456	KG00099420	Influenzae	0.04773762822151184
+trial_2	leniolisib	202	KG00098630	Disturbance of Skin Sensation	0.04769439250230789
+trial_2	leniolisib	108	KG00098479	Cramp, Limb	0.04758565500378609
+trial_2	leniolisib	208	KG00099896	Nasal congestion (finding)	0.04696930572390556
+trial_2	leniolisib	361	KG00098004	Fibrillation, Atrial	0.04656723514199257
+trial_2	leniolisib	33	KG00100094	Pancreatitis NOS	0.04628702998161316

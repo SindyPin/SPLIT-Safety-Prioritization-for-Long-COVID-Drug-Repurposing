@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.26673468947410583
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1772608906030655
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1702370047569275
+trial_1	placebo	20	KG00098540	dehydration	0.13200534880161285
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11756904423236847
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1153596043586731
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11202842742204666
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.11129525303840637
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11111775040626526
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10369499027729034
+trial_1	placebo	46	KG00099121	Headache NOS	0.10316278785467148
+trial_1	placebo	228	KG00114657	Weight below normal	0.09960093349218369
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0959509089589119
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09425181895494461
+trial_1	placebo	21	KG00098675	dyspnoea	0.09378129243850708
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08086051791906357
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07848986983299255
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07420040667057037
+trial_1	placebo	85	KG00098474	coughs	0.068911612033844
+trial_1	placebo	126	KG00100076	Pain NOS	0.068122997879982
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06772556155920029
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0646916925907135
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06459502875804901
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06308901309967041
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06235800310969353
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.062045592814683914
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.061505723744630814
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06062452495098114
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.057851504534482956
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05739010125398636
+trial_1	placebo	121	KG00099190	haemorrhage	0.0563935860991478
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05632179602980614
+trial_1	placebo	68	KG00099901	nauseas	0.055698562413454056
+trial_1	placebo	114	KG00098933	fevers	0.055200353264808655
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.05391806364059448
+trial_1	placebo	77	KG00098450	Constipation NOS	0.053542427718639374
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.053272172808647156
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05220494419336319
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.050374504178762436
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.05009632930159569
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04952150955796242
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04937309771776199
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.048981085419654846
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04685391113162041
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04607214406132698
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.045600634068250656
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04493701830506325
+trial_1	placebo	5	KG00099169	haematuria	0.04481890797615051
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04462900012731552
+trial_1	placebo	269	KG00100399	pyaemia	0.04458792880177498
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.043628234416246414
+trial_1	placebo	186	KG00101431	creatinine increased	0.04287325590848923
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.042852845042943954
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.04230130836367607
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.04138593748211861
+trial_1	placebo	239	KG00100128	pareses	0.04137778654694557
+trial_1	placebo	147	KG00098000	atelectases	0.04116608947515488
+trial_1	placebo	4	KG00098817	epistaxis	0.03982313722372055
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.039714399725198746
+trial_1	placebo	72	KG00103771	myalgias	0.03932683542370796
+trial_1	placebo	18	KG00098307	Pain, Chest	0.039135172963142395
+trial_1	placebo	164	KG00108827	ileus colon	0.03835364058613777
+trial_1	placebo	234	KG00098669	dysgeusias	0.03708565980195999
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03580230847001076
+trial_1	placebo	104	KG00097963	arthralgias	0.035695724189281464
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.035169124603271484
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03504776582121849
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03444240614771843
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03437415882945061
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03435357287526131
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03389241173863411
+trial_1	placebo	382	KG00099200	haemorrhoids	0.033780865371227264
+trial_1	placebo	136	KG00101582	Dry;skin	0.033573251217603683
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03327925503253937
+trial_1	placebo	282	KG00099309	hypernatraemia	0.033003069460392
+trial_1	placebo	102	KG00097916	anxieties	0.03287610411643982
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03230055049061775
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.032296936959028244
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03199237585067749
+trial_1	placebo	339	KG00100334	proteinurias	0.031455688178539276
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03144846856594086
+trial_1	placebo	116	KG00098964	Pain in foot	0.031306762248277664
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.031161252409219742
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.031036408618092537
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03084949031472206
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.03045559860765934
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02986658364534378
+trial_1	placebo	441	KG00098262	cellulitis nos	0.028670545667409897
+trial_1	placebo	82	KG00097697	abdomen distended	0.028659239411354065
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.028414273634552956
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02818603813648224
+trial_1	placebo	262	KG00101199	agitation	0.027972394600510597
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02770477533340454
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.027644438669085503
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02734190598130226
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.027220049872994423
+trial_1	placebo	466	KG00101205	fall	0.026615101844072342
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02624979056417942
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.026132453233003616
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.02501409873366356
+trial_2	lisinopril	87	KG00098599	diarrhoea	0.26673468947410583
+trial_2	lisinopril	78	KG00099326	Hypertensive diseases	0.1772608906030655
+trial_2	lisinopril	123	KG00099351	hypokalaemia	0.1702370047569275
+trial_2	lisinopril	20	KG00098540	dehydration	0.13200534880161285
+trial_2	lisinopril	9	KG00098432	Confusion NOS	0.11756904423236847
+trial_2	lisinopril	177	KG00099299	hyperglycaemia	0.1153596043586731
+trial_2	lisinopril	173	KG00098172	Bronchopneumonia NOS	0.11202842742204666
+trial_2	lisinopril	2	KG00100772	thrombocytopaenia	0.11129525303840637
+trial_2	lisinopril	37	KG00097696	Cramps, Abdominal	0.11111775040626526
+trial_2	lisinopril	17	KG00097991	Asthenia NOS	0.10369499027729034
+trial_2	lisinopril	46	KG00099121	Headache NOS	0.10316278785467148
+trial_2	lisinopril	228	KG00114657	Weight below normal	0.09960093349218369
+trial_2	lisinopril	67	KG00098673	Dyspepsia, NOS	0.0959509089589119
+trial_2	lisinopril	14	KG00097852	Anemia NOS	0.09425181895494461
+trial_2	lisinopril	21	KG00098675	dyspnoea	0.09378129243850708
+trial_2	lisinopril	64	KG00097734	Acrodermatitis, NOS	0.08086051791906357
+trial_2	lisinopril	350	KG00106765	decreased platelet count	0.07848986983299255
+trial_2	lisinopril	200	KG00098539	Disorders, Deglutition	0.07420040667057037
+trial_2	lisinopril	85	KG00098474	coughs	0.068911612033844
+trial_2	lisinopril	126	KG00100076	Pain NOS	0.068122997879982
+trial_2	lisinopril	49	KG00099902	nausea with vomiting	0.06772556155920029
+trial_2	lisinopril	29	KG00099354	hyponatraemia	0.0646916925907135
+trial_2	lisinopril	180	KG00099363	Hypotension NOS	0.06459502875804901
+trial_2	lisinopril	61	KG00099501	Chronic Kidney Failure	0.06308901309967041
+trial_2	lisinopril	101	KG00097901	Anorexia NOS	0.06235800310969353
+trial_2	lisinopril	151	KG00098274	Infarction, Cerebral	0.062045592814683914
+trial_2	lisinopril	189	KG00101580	Alanine aminotransferase increase	0.061505723744630814
+trial_2	lisinopril	188	KG00101579	Aspartate aminotransferase increase	0.06062452495098114
+trial_2	lisinopril	179	KG00099342	hypocalcaemia	0.057851504534482956
+trial_2	lisinopril	76	KG00100450	Respiratory insufficiency, NOS	0.05739010125398636
+trial_2	lisinopril	121	KG00099190	haemorrhage	0.0563935860991478
+trial_2	lisinopril	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05632179602980614
+trial_2	lisinopril	68	KG00099901	nauseas	0.055698562413454056
+trial_2	lisinopril	114	KG00098933	fevers	0.055200353264808655
+trial_2	lisinopril	142	KG00100923	Unspecified infectious and parasitic diseases	0.05391806364059448
+trial_2	lisinopril	77	KG00098450	Constipation NOS	0.053542427718639374
+trial_2	lisinopril	27	KG00099303	hyperkalaemia	0.053272172808647156
+trial_2	lisinopril	96	KG00101679	Unattended death NOS	0.05220494419336319
+trial_2	lisinopril	243	KG00100947	Micturition frequency increased	0.050374504178762436
+trial_2	lisinopril	130	KG00100683	Stomatitis NOS	0.05009632930159569
+trial_2	lisinopril	122	KG00099321	Hypersensitivity NOS	0.04952150955796242
+trial_2	lisinopril	28	KG00099347	hypoglycaemia	0.04937309771776199
+trial_2	lisinopril	276	KG00099127	Arrest, Cardiac	0.048981085419654846
+trial_2	lisinopril	79	KG00100317	Insomnia, Primary	0.04685391113162041
+trial_2	lisinopril	194	KG00110727	Neutrophil Count Decreased	0.04607214406132698
+trial_2	lisinopril	191	KG00104055	Biliverdin increased	0.045600634068250656
+trial_2	lisinopril	86	KG00098565	Depression, Mental	0.04493701830506325
+trial_2	lisinopril	5	KG00099169	haematuria	0.04481890797615051
+trial_2	lisinopril	131	KG00100948	Urinary tract infection (& [NOS])	0.04462900012731552
+trial_2	lisinopril	269	KG00100399	pyaemia	0.04458792880177498
+trial_2	lisinopril	249	KG00104430	hypoalbuminaemia	0.043628234416246414
+trial_2	lisinopril	186	KG00101431	creatinine increased	0.04287325590848923
+trial_2	lisinopril	35	KG00101507	hypomagnesaemia	0.042852845042943954
+trial_2	lisinopril	356	KG00112623	Infectious Lung Disorders	0.04230130836367607
+trial_2	lisinopril	288	KG00101223	hypophosphataemia	0.04138593748211861
+trial_2	lisinopril	239	KG00100128	pareses	0.04137778654694557
+trial_2	lisinopril	147	KG00098000	atelectases	0.04116608947515488
+trial_2	lisinopril	4	KG00098817	epistaxis	0.03982313722372055
+trial_2	lisinopril	144	KG00099610	Leukopenia NOS	0.039714399725198746
+trial_2	lisinopril	72	KG00103771	myalgias	0.03932683542370796
+trial_2	lisinopril	18	KG00098307	Pain, Chest	0.039135172963142395
+trial_2	lisinopril	164	KG00108827	ileus colon	0.03835364058613777
+trial_2	lisinopril	234	KG00098669	dysgeusias	0.03708565980195999
+trial_2	lisinopril	139	KG00098855	Sinusitis, Ethmoid	0.03580230847001076
+trial_2	lisinopril	104	KG00097963	arthralgias	0.035695724189281464
+trial_2	lisinopril	361	KG00098004	Fibrillation, Atrial	0.035169124603271484
+trial_2	lisinopril	261	KG00101559	raised alkaline phosphatase	0.03504776582121849
+trial_2	lisinopril	30	KG00099500	Acute Kidney Failure	0.03444240614771843
+trial_2	lisinopril	154	KG00099686	Lymphopenias	0.03437415882945061
+trial_2	lisinopril	355	KG00110857	lymphocyte count decreased	0.03435357287526131
+trial_2	lisinopril	31	KG00099872	Infarction, Myocardial	0.03389241173863411
+trial_2	lisinopril	382	KG00099200	haemorrhoids	0.033780865371227264
+trial_2	lisinopril	136	KG00101582	Dry;skin	0.033573251217603683
+trial_2	lisinopril	69	KG00100082	Palpitations NOS	0.03327925503253937
+trial_2	lisinopril	282	KG00099309	hypernatraemia	0.033003069460392
+trial_2	lisinopril	102	KG00097916	anxieties	0.03287610411643982
+trial_2	lisinopril	396	KG00100373	Embolism, Pulmonary	0.03230055049061775
+trial_2	lisinopril	1	KG00099959	Neutropenia NOS	0.032296936959028244
+trial_2	lisinopril	253	KG00100232	Pleural effusion NOS (disorder)	0.03199237585067749
+trial_2	lisinopril	339	KG00100334	proteinurias	0.031455688178539276
+trial_2	lisinopril	204	KG00098849	Esophagitis, Peptic	0.03144846856594086
+trial_2	lisinopril	116	KG00098964	Pain in foot	0.031306762248277664
+trial_2	lisinopril	213	KG00100600	Infectious Skin Diseases	0.031161252409219742
+trial_2	lisinopril	38	KG00098066	Binocular vision disorders	0.031036408618092537
+trial_2	lisinopril	75	KG00100195	Dolens, Phlegmasia Alba	0.03084949031472206
+trial_2	lisinopril	22	KG00098705	Edema (NOS)	0.03045559860765934
+trial_2	lisinopril	133	KG00101370	neuropathies sensory	0.02986658364534378
+trial_2	lisinopril	441	KG00098262	cellulitis nos	0.028670545667409897
+trial_2	lisinopril	82	KG00097697	abdomen distended	0.028659239411354065
+trial_2	lisinopril	92	KG00100926	Infections, Upper Respiratory	0.028414273634552956
+trial_2	lisinopril	246	KG00103338	Aspartate Aminotransferase Measurement	0.02818603813648224
+trial_2	lisinopril	262	KG00101199	agitation	0.027972394600510597
+trial_2	lisinopril	33	KG00100094	Pancreatitis NOS	0.02770477533340454
+trial_2	lisinopril	138	KG00098796	epidemic vomiting syndrome	0.027644438669085503
+trial_2	lisinopril	221	KG00101207	peripheral oedema	0.02734190598130226
+trial_2	lisinopril	371	KG00098517	Cystitis (NOS)	0.027220049872994423
+trial_2	lisinopril	466	KG00101205	fall	0.026615101844072342
+trial_2	lisinopril	36	KG00106434	Vision, Blurring Of	0.02624979056417942
+trial_2	lisinopril	256	KG00100738	Tachycardia, Sinus	0.026132453233003616
+trial_2	lisinopril	347	KG00104223	Mucosal ulcers	0.02501409873366356

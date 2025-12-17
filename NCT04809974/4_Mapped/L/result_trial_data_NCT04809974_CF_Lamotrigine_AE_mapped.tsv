@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.21956689655780792
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.19016049802303314
+trial_1	placebo	87	KG00098599	diarrhoea	0.1428501009941101
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11586879938840866
+trial_1	placebo	228	KG00114657	Weight below normal	0.08642488718032837
+trial_1	placebo	132	KG00101045	Gain, Weight	0.08197241276502609
+trial_1	placebo	46	KG00099121	Headache NOS	0.08101288229227066
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07939073443412781
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07557123154401779
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07445734739303589
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07337751239538193
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07269824296236038
+trial_1	placebo	68	KG00099901	nauseas	0.07173766940832138
+trial_1	placebo	66	KG00098642	drowsiness	0.06772411614656448
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06559550017118454
+trial_1	placebo	21	KG00098675	dyspnoea	0.062471549957990646
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.060402099043130875
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05897628888487816
+trial_1	placebo	20	KG00098540	dehydration	0.05829266831278801
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.052678145468235016
+trial_1	placebo	242	KG00100855	tremors	0.04884392023086548
+trial_1	placebo	104	KG00097963	arthralgias	0.04746227338910103
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04492732509970665
+trial_1	placebo	123	KG00099351	hypokalaemia	0.044610340148210526
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.043762411922216415
+trial_1	placebo	300	KG00101064	xerostomia	0.04360086843371391
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04198130592703819
+trial_1	placebo	102	KG00097916	anxieties	0.04124949499964714
+trial_1	placebo	239	KG00100128	pareses	0.04088521748781204
+trial_1	placebo	85	KG00098474	coughs	0.03784748911857605
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.037276193499565125
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.037036407738924026
+trial_1	placebo	466	KG00101205	fall	0.036705292761325836
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03501481935381889
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.034181199967861176
+trial_1	placebo	114	KG00098933	fevers	0.03405136987566948
+trial_1	placebo	126	KG00100076	Pain NOS	0.03385116159915924
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03321465477347374
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03228624537587166
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.031210390850901604
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030002335086464882
+trial_1	placebo	262	KG00101199	agitation	0.029997985810041428
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02982327900826931
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.029676474630832672
+trial_1	placebo	345	KG00103926	impairments memory	0.029544975608587265
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029483992606401443
+trial_1	placebo	116	KG00098964	Pain in foot	0.029473500326275826
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026103109121322632
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.025826778262853622
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02535618655383587
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.025049835443496704
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.024640697985887527
+trial_1	placebo	11	KG00097993	Asthma NOS	0.024531809613108635
+trial_1	placebo	136	KG00101582	Dry;skin	0.02360546588897705
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.023306595161557198
+trial_1	placebo	350	KG00106765	decreased platelet count	0.023051949217915535
+trial_1	placebo	456	KG00099420	Influenzae	0.022817017510533333
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02211967296898365
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02204352244734764
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.022022327408194542
+trial_1	placebo	5	KG00099169	haematuria	0.021571416407823563
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02150721289217472
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02119280770421028
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020776644349098206
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02017764002084732
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02009914256632328
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019423415884375572
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.019396891817450523
+trial_1	placebo	234	KG00098669	dysgeusias	0.01931866817176342
+trial_1	placebo	147	KG00098000	atelectases	0.018944500014185905
+trial_1	placebo	269	KG00100399	pyaemia	0.018881764262914658
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018588634207844734
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01854163035750389
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.018505923449993134
+trial_1	placebo	72	KG00103771	myalgias	0.018341563642024994
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01829763688147068
+trial_1	placebo	82	KG00097697	abdomen distended	0.01814001053571701
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01782967336475849
+trial_1	placebo	203	KG00098661	dysarthrias	0.017816534265875816
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.01768890954554081
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.016752133145928383
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.016744326800107956
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.016588298603892326
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.016418803483247757
+trial_1	placebo	221	KG00101207	peripheral oedema	0.016299229115247726
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.016295520588755608
+trial_1	placebo	339	KG00100334	proteinurias	0.01627151481807232
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01612326316535473
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016044458374381065
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.015838997438549995
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01575709506869316
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.015680890530347824
+trial_1	placebo	333	KG00104019	DOPINESS	0.015624020248651505
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.015540518797934055
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.015225067734718323
+trial_1	placebo	478	KG00103778	antalgic gait	0.01495661586523056
+trial_1	placebo	4	KG00098817	epistaxis	0.01487821340560913
+trial_1	placebo	121	KG00099190	haemorrhage	0.014559190720319748
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.014554599300026894
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.014536897651851177
+trial_2	lamotrigine	9	KG00098432	Confusion NOS	0.21956689655780792
+trial_2	lamotrigine	17	KG00097991	Asthenia NOS	0.19016049802303314
+trial_2	lamotrigine	87	KG00098599	diarrhoea	0.1428501009941101
+trial_2	lamotrigine	78	KG00099326	Hypertensive diseases	0.11586879938840866
+trial_2	lamotrigine	228	KG00114657	Weight below normal	0.08642488718032837
+trial_2	lamotrigine	132	KG00101045	Gain, Weight	0.08197241276502609
+trial_2	lamotrigine	46	KG00099121	Headache NOS	0.08101288229227066
+trial_2	lamotrigine	173	KG00098172	Bronchopneumonia NOS	0.07939073443412781
+trial_2	lamotrigine	64	KG00097734	Acrodermatitis, NOS	0.07557123154401779
+trial_2	lamotrigine	79	KG00100317	Insomnia, Primary	0.07445734739303589
+trial_2	lamotrigine	86	KG00098565	Depression, Mental	0.07337751239538193
+trial_2	lamotrigine	77	KG00098450	Constipation NOS	0.07269824296236038
+trial_2	lamotrigine	68	KG00099901	nauseas	0.07173766940832138
+trial_2	lamotrigine	66	KG00098642	drowsiness	0.06772411614656448
+trial_2	lamotrigine	151	KG00098274	Infarction, Cerebral	0.06559550017118454
+trial_2	lamotrigine	21	KG00098675	dyspnoea	0.062471549957990646
+trial_2	lamotrigine	49	KG00099902	nausea with vomiting	0.060402099043130875
+trial_2	lamotrigine	177	KG00099299	hyperglycaemia	0.05897628888487816
+trial_2	lamotrigine	20	KG00098540	dehydration	0.05829266831278801
+trial_2	lamotrigine	67	KG00098673	Dyspepsia, NOS	0.052678145468235016
+trial_2	lamotrigine	242	KG00100855	tremors	0.04884392023086548
+trial_2	lamotrigine	104	KG00097963	arthralgias	0.04746227338910103
+trial_2	lamotrigine	29	KG00099354	hyponatraemia	0.04492732509970665
+trial_2	lamotrigine	123	KG00099351	hypokalaemia	0.044610340148210526
+trial_2	lamotrigine	101	KG00097901	Anorexia NOS	0.043762411922216415
+trial_2	lamotrigine	300	KG00101064	xerostomia	0.04360086843371391
+trial_2	lamotrigine	37	KG00097696	Cramps, Abdominal	0.04198130592703819
+trial_2	lamotrigine	102	KG00097916	anxieties	0.04124949499964714
+trial_2	lamotrigine	239	KG00100128	pareses	0.04088521748781204
+trial_2	lamotrigine	85	KG00098474	coughs	0.03784748911857605
+trial_2	lamotrigine	36	KG00106434	Vision, Blurring Of	0.037276193499565125
+trial_2	lamotrigine	189	KG00101580	Alanine aminotransferase increase	0.037036407738924026
+trial_2	lamotrigine	466	KG00101205	fall	0.036705292761325836
+trial_2	lamotrigine	30	KG00099500	Acute Kidney Failure	0.03501481935381889
+trial_2	lamotrigine	200	KG00098539	Disorders, Deglutition	0.034181199967861176
+trial_2	lamotrigine	114	KG00098933	fevers	0.03405136987566948
+trial_2	lamotrigine	126	KG00100076	Pain NOS	0.03385116159915924
+trial_2	lamotrigine	180	KG00099363	Hypotension NOS	0.03321465477347374
+trial_2	lamotrigine	76	KG00100450	Respiratory insufficiency, NOS	0.03228624537587166
+trial_2	lamotrigine	131	KG00100948	Urinary tract infection (& [NOS])	0.031210390850901604
+trial_2	lamotrigine	28	KG00099347	hypoglycaemia	0.030002335086464882
+trial_2	lamotrigine	262	KG00101199	agitation	0.029997985810041428
+trial_2	lamotrigine	96	KG00101679	Unattended death NOS	0.02982327900826931
+trial_2	lamotrigine	188	KG00101579	Aspartate aminotransferase increase	0.029676474630832672
+trial_2	lamotrigine	345	KG00103926	impairments memory	0.029544975608587265
+trial_2	lamotrigine	18	KG00098307	Pain, Chest	0.029483992606401443
+trial_2	lamotrigine	116	KG00098964	Pain in foot	0.029473500326275826
+trial_2	lamotrigine	139	KG00098855	Sinusitis, Ethmoid	0.026103109121322632
+trial_2	lamotrigine	61	KG00099501	Chronic Kidney Failure	0.025826778262853622
+trial_2	lamotrigine	14	KG00097852	Anemia NOS	0.02535618655383587
+trial_2	lamotrigine	199	KG00098371	Rhinitis (chronic) NOS	0.025049835443496704
+trial_2	lamotrigine	243	KG00100947	Micturition frequency increased	0.024640697985887527
+trial_2	lamotrigine	11	KG00097993	Asthma NOS	0.024531809613108635
+trial_2	lamotrigine	136	KG00101582	Dry;skin	0.02360546588897705
+trial_2	lamotrigine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.023306595161557198
+trial_2	lamotrigine	350	KG00106765	decreased platelet count	0.023051949217915535
+trial_2	lamotrigine	456	KG00099420	Influenzae	0.022817017510533333
+trial_2	lamotrigine	38	KG00098066	Binocular vision disorders	0.02211967296898365
+trial_2	lamotrigine	396	KG00100373	Embolism, Pulmonary	0.02204352244734764
+trial_2	lamotrigine	15	KG00097882	Angina pectoris NOS	0.022022327408194542
+trial_2	lamotrigine	5	KG00099169	haematuria	0.021571416407823563
+trial_2	lamotrigine	211	KG00100341	Pruritus NOS	0.02150721289217472
+trial_2	lamotrigine	191	KG00104055	Biliverdin increased	0.02119280770421028
+trial_2	lamotrigine	441	KG00098262	cellulitis nos	0.020776644349098206
+trial_2	lamotrigine	92	KG00100926	Infections, Upper Respiratory	0.02017764002084732
+trial_2	lamotrigine	361	KG00098004	Fibrillation, Atrial	0.02009914256632328
+trial_2	lamotrigine	27	KG00099303	hyperkalaemia	0.019423415884375572
+trial_2	lamotrigine	69	KG00100082	Palpitations NOS	0.019396891817450523
+trial_2	lamotrigine	234	KG00098669	dysgeusias	0.01931866817176342
+trial_2	lamotrigine	147	KG00098000	atelectases	0.018944500014185905
+trial_2	lamotrigine	269	KG00100399	pyaemia	0.018881764262914658
+trial_2	lamotrigine	286	KG00101110	Retention, Urinary	0.018588634207844734
+trial_2	lamotrigine	422	KG00101429	Creatine phosphokinase increased	0.01854163035750389
+trial_2	lamotrigine	225	KG00104032	Suicidal tendencies	0.018505923449993134
+trial_2	lamotrigine	72	KG00103771	myalgias	0.018341563642024994
+trial_2	lamotrigine	138	KG00098796	epidemic vomiting syndrome	0.01829763688147068
+trial_2	lamotrigine	82	KG00097697	abdomen distended	0.01814001053571701
+trial_2	lamotrigine	152	KG00099402	INCONTINENCE NOS	0.01782967336475849
+trial_2	lamotrigine	203	KG00098661	dysarthrias	0.017816534265875816
+trial_2	lamotrigine	232	KG00097997	Ataxia NOS	0.01768890954554081
+trial_2	lamotrigine	31	KG00099872	Infarction, Myocardial	0.016752133145928383
+trial_2	lamotrigine	75	KG00100195	Dolens, Phlegmasia Alba	0.016744326800107956
+trial_2	lamotrigine	118	KG00099011	Gastritis NOS	0.016588298603892326
+trial_2	lamotrigine	366	KG00098275	Attack, Transient Ischemic	0.016418803483247757
+trial_2	lamotrigine	221	KG00101207	peripheral oedema	0.016299229115247726
+trial_2	lamotrigine	2	KG00100772	thrombocytopaenia	0.016295520588755608
+trial_2	lamotrigine	339	KG00100334	proteinurias	0.01627151481807232
+trial_2	lamotrigine	98	KG00097718	Incised wound, NOS	0.01612326316535473
+trial_2	lamotrigine	204	KG00098849	Esophagitis, Peptic	0.016044458374381065
+trial_2	lamotrigine	297	KG00099294	hypercholesterolaemia	0.015838997438549995
+trial_2	lamotrigine	166	KG00099773	menopausal syndrome	0.01575709506869316
+trial_2	lamotrigine	122	KG00099321	Hypersensitivity NOS	0.015680890530347824
+trial_2	lamotrigine	333	KG00104019	DOPINESS	0.015624020248651505
+trial_2	lamotrigine	130	KG00100683	Stomatitis NOS	0.015540518797934055
+trial_2	lamotrigine	89	KG00099301	Hyperhidrosis (disorder)	0.015225067734718323
+trial_2	lamotrigine	478	KG00103778	antalgic gait	0.01495661586523056
+trial_2	lamotrigine	4	KG00098817	epistaxis	0.01487821340560913
+trial_2	lamotrigine	121	KG00099190	haemorrhage	0.014559190720319748
+trial_2	lamotrigine	218	KG00100801	Tinnitus NOS	0.014554599300026894
+trial_2	lamotrigine	179	KG00099342	hypocalcaemia	0.014536897651851177

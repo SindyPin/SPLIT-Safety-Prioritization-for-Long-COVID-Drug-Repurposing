@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.19631078839302063
+trial_1	placebo	87	KG00098599	diarrhoea	0.16550402343273163
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15823513269424438
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1439678817987442
+trial_1	placebo	68	KG00099901	nauseas	0.12969465553760529
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12748992443084717
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12252814322710037
+trial_1	placebo	46	KG00099121	Headache NOS	0.11106075346469879
+trial_1	placebo	20	KG00098540	dehydration	0.10673636198043823
+trial_1	placebo	21	KG00098675	dyspnoea	0.10597074031829834
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09946929663419724
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09781615436077118
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09763511270284653
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09643922746181488
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0916401594877243
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08932558447122574
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08624090254306793
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08113221824169159
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07988318055868149
+trial_1	placebo	228	KG00114657	Weight below normal	0.07514426857233047
+trial_1	placebo	239	KG00100128	pareses	0.07138777524232864
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06980929523706436
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06915103644132614
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0680437758564949
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06595278531312943
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0658838227391243
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06178508326411247
+trial_1	placebo	104	KG00097963	arthralgias	0.0600585974752903
+trial_1	placebo	126	KG00100076	Pain NOS	0.05825243517756462
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05802352726459503
+trial_1	placebo	5	KG00099169	haematuria	0.05774829536676407
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05628267675638199
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.05611979216337204
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.056022483855485916
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0543806292116642
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05268405005335808
+trial_1	placebo	102	KG00097916	anxieties	0.05249541252851486
+trial_1	placebo	114	KG00098933	fevers	0.05189448967576027
+trial_1	placebo	72	KG00103771	myalgias	0.05082540959119797
+trial_1	placebo	116	KG00098964	Pain in foot	0.049872975796461105
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04830987751483917
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04783884063363075
+trial_1	placebo	85	KG00098474	coughs	0.04752456769347191
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04747318848967552
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.046738892793655396
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04619942605495453
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04514992609620094
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04445938020944595
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04428610950708389
+trial_1	placebo	234	KG00098669	dysgeusias	0.044061269611120224
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04405243322253227
+trial_1	placebo	147	KG00098000	atelectases	0.04376779869198799
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.043555352836847305
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04322376474738121
+trial_1	placebo	466	KG00101205	fall	0.043077077716588974
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.042762164026498795
+trial_1	placebo	82	KG00097697	abdomen distended	0.04048781096935272
+trial_1	placebo	454	KG00098286	Pain, Neck	0.03991306200623512
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03959029167890549
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03939826413989067
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.039251476526260376
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.039093535393476486
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03828037530183792
+trial_1	placebo	262	KG00101199	agitation	0.037730492651462555
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03726305440068245
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.037039563059806824
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0369408018887043
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.036934491246938705
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03655752167105675
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.036515772342681885
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03638950362801552
+trial_1	placebo	66	KG00098642	drowsiness	0.03603868559002876
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03507102653384209
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03491437807679176
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.0347561277449131
+trial_1	placebo	212	KG00100576	shivers	0.03441833704710007
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03430181369185448
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.03339506685733795
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0331997387111187
+trial_1	placebo	345	KG00103926	impairments memory	0.033076271414756775
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.032941777259111404
+trial_1	placebo	164	KG00108827	ileus colon	0.03293350711464882
+trial_1	placebo	269	KG00100399	pyaemia	0.03280486539006233
+trial_1	placebo	153	KG00099579	lethargy	0.03279205411672592
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03227424994111061
+trial_1	placebo	242	KG00100855	tremors	0.03185759857296944
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03166963905096054
+trial_1	placebo	132	KG00101045	Gain, Weight	0.030687596648931503
+trial_1	placebo	136	KG00101582	Dry;skin	0.029960142448544502
+trial_1	placebo	53	KG00101550	Pain in eyes	0.029659898951649666
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.029342181980609894
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02926209382712841
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.028699394315481186
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028674812987446785
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.028310678899288177
+trial_1	placebo	186	KG00101431	creatinine increased	0.028303075581789017
+trial_1	placebo	382	KG00099200	haemorrhoids	0.028249410912394524
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.028076447546482086
+trial_1	placebo	363	KG00098184	burns injury	0.027727248147130013
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.027659349143505096
+trial_2	lasmiditan	78	KG00099326	Hypertensive diseases	0.19631078839302063
+trial_2	lasmiditan	87	KG00098599	diarrhoea	0.16550402343273163
+trial_2	lasmiditan	9	KG00098432	Confusion NOS	0.15823513269424438
+trial_2	lasmiditan	17	KG00097991	Asthenia NOS	0.1439678817987442
+trial_2	lasmiditan	68	KG00099901	nauseas	0.12969465553760529
+trial_2	lasmiditan	123	KG00099351	hypokalaemia	0.12748992443084717
+trial_2	lasmiditan	49	KG00099902	nausea with vomiting	0.12252814322710037
+trial_2	lasmiditan	46	KG00099121	Headache NOS	0.11106075346469879
+trial_2	lasmiditan	20	KG00098540	dehydration	0.10673636198043823
+trial_2	lasmiditan	21	KG00098675	dyspnoea	0.10597074031829834
+trial_2	lasmiditan	189	KG00101580	Alanine aminotransferase increase	0.09946929663419724
+trial_2	lasmiditan	79	KG00100317	Insomnia, Primary	0.09781615436077118
+trial_2	lasmiditan	188	KG00101579	Aspartate aminotransferase increase	0.09763511270284653
+trial_2	lasmiditan	177	KG00099299	hyperglycaemia	0.09643922746181488
+trial_2	lasmiditan	67	KG00098673	Dyspepsia, NOS	0.0916401594877243
+trial_2	lasmiditan	77	KG00098450	Constipation NOS	0.08932558447122574
+trial_2	lasmiditan	173	KG00098172	Bronchopneumonia NOS	0.08624090254306793
+trial_2	lasmiditan	200	KG00098539	Disorders, Deglutition	0.08113221824169159
+trial_2	lasmiditan	64	KG00097734	Acrodermatitis, NOS	0.07988318055868149
+trial_2	lasmiditan	228	KG00114657	Weight below normal	0.07514426857233047
+trial_2	lasmiditan	239	KG00100128	pareses	0.07138777524232864
+trial_2	lasmiditan	243	KG00100947	Micturition frequency increased	0.06980929523706436
+trial_2	lasmiditan	37	KG00097696	Cramps, Abdominal	0.06915103644132614
+trial_2	lasmiditan	350	KG00106765	decreased platelet count	0.0680437758564949
+trial_2	lasmiditan	29	KG00099354	hyponatraemia	0.06595278531312943
+trial_2	lasmiditan	101	KG00097901	Anorexia NOS	0.0658838227391243
+trial_2	lasmiditan	86	KG00098565	Depression, Mental	0.06178508326411247
+trial_2	lasmiditan	104	KG00097963	arthralgias	0.0600585974752903
+trial_2	lasmiditan	126	KG00100076	Pain NOS	0.05825243517756462
+trial_2	lasmiditan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05802352726459503
+trial_2	lasmiditan	5	KG00099169	haematuria	0.05774829536676407
+trial_2	lasmiditan	14	KG00097852	Anemia NOS	0.05628267675638199
+trial_2	lasmiditan	38	KG00098066	Binocular vision disorders	0.05611979216337204
+trial_2	lasmiditan	36	KG00106434	Vision, Blurring Of	0.056022483855485916
+trial_2	lasmiditan	151	KG00098274	Infarction, Cerebral	0.0543806292116642
+trial_2	lasmiditan	18	KG00098307	Pain, Chest	0.05268405005335808
+trial_2	lasmiditan	102	KG00097916	anxieties	0.05249541252851486
+trial_2	lasmiditan	114	KG00098933	fevers	0.05189448967576027
+trial_2	lasmiditan	72	KG00103771	myalgias	0.05082540959119797
+trial_2	lasmiditan	116	KG00098964	Pain in foot	0.049872975796461105
+trial_2	lasmiditan	180	KG00099363	Hypotension NOS	0.04830987751483917
+trial_2	lasmiditan	2	KG00100772	thrombocytopaenia	0.04783884063363075
+trial_2	lasmiditan	85	KG00098474	coughs	0.04752456769347191
+trial_2	lasmiditan	179	KG00099342	hypocalcaemia	0.04747318848967552
+trial_2	lasmiditan	139	KG00098855	Sinusitis, Ethmoid	0.046738892793655396
+trial_2	lasmiditan	30	KG00099500	Acute Kidney Failure	0.04619942605495453
+trial_2	lasmiditan	131	KG00100948	Urinary tract infection (& [NOS])	0.04514992609620094
+trial_2	lasmiditan	396	KG00100373	Embolism, Pulmonary	0.04445938020944595
+trial_2	lasmiditan	61	KG00099501	Chronic Kidney Failure	0.04428610950708389
+trial_2	lasmiditan	234	KG00098669	dysgeusias	0.044061269611120224
+trial_2	lasmiditan	28	KG00099347	hypoglycaemia	0.04405243322253227
+trial_2	lasmiditan	147	KG00098000	atelectases	0.04376779869198799
+trial_2	lasmiditan	261	KG00101559	raised alkaline phosphatase	0.043555352836847305
+trial_2	lasmiditan	76	KG00100450	Respiratory insufficiency, NOS	0.04322376474738121
+trial_2	lasmiditan	466	KG00101205	fall	0.043077077716588974
+trial_2	lasmiditan	191	KG00104055	Biliverdin increased	0.042762164026498795
+trial_2	lasmiditan	82	KG00097697	abdomen distended	0.04048781096935272
+trial_2	lasmiditan	454	KG00098286	Pain, Neck	0.03991306200623512
+trial_2	lasmiditan	441	KG00098262	cellulitis nos	0.03959029167890549
+trial_2	lasmiditan	286	KG00101110	Retention, Urinary	0.03939826413989067
+trial_2	lasmiditan	69	KG00100082	Palpitations NOS	0.039251476526260376
+trial_2	lasmiditan	27	KG00099303	hyperkalaemia	0.039093535393476486
+trial_2	lasmiditan	341	KG00101472	Gamma-glutamyltransferase increased	0.03828037530183792
+trial_2	lasmiditan	262	KG00101199	agitation	0.037730492651462555
+trial_2	lasmiditan	204	KG00098849	Esophagitis, Peptic	0.03726305440068245
+trial_2	lasmiditan	211	KG00100341	Pruritus NOS	0.037039563059806824
+trial_2	lasmiditan	122	KG00099321	Hypersensitivity NOS	0.0369408018887043
+trial_2	lasmiditan	166	KG00099773	menopausal syndrome	0.036934491246938705
+trial_2	lasmiditan	355	KG00110857	lymphocyte count decreased	0.03655752167105675
+trial_2	lasmiditan	194	KG00110727	Neutrophil Count Decreased	0.036515772342681885
+trial_2	lasmiditan	508	KG00108565	blood glucose increased	0.03638950362801552
+trial_2	lasmiditan	66	KG00098642	drowsiness	0.03603868559002876
+trial_2	lasmiditan	282	KG00099309	hypernatraemia	0.03507102653384209
+trial_2	lasmiditan	422	KG00101429	Creatine phosphokinase increased	0.03491437807679176
+trial_2	lasmiditan	97	KG00104198	LIVER ENZYME ELEVATED	0.0347561277449131
+trial_2	lasmiditan	212	KG00100576	shivers	0.03441833704710007
+trial_2	lasmiditan	35	KG00101507	hypomagnesaemia	0.03430181369185448
+trial_2	lasmiditan	218	KG00100801	Tinnitus NOS	0.03339506685733795
+trial_2	lasmiditan	96	KG00101679	Unattended death NOS	0.0331997387111187
+trial_2	lasmiditan	345	KG00103926	impairments memory	0.033076271414756775
+trial_2	lasmiditan	276	KG00099127	Arrest, Cardiac	0.032941777259111404
+trial_2	lasmiditan	164	KG00108827	ileus colon	0.03293350711464882
+trial_2	lasmiditan	269	KG00100399	pyaemia	0.03280486539006233
+trial_2	lasmiditan	153	KG00099579	lethargy	0.03279205411672592
+trial_2	lasmiditan	75	KG00100195	Dolens, Phlegmasia Alba	0.03227424994111061
+trial_2	lasmiditan	242	KG00100855	tremors	0.03185759857296944
+trial_2	lasmiditan	249	KG00104430	hypoalbuminaemia	0.03166963905096054
+trial_2	lasmiditan	132	KG00101045	Gain, Weight	0.030687596648931503
+trial_2	lasmiditan	136	KG00101582	Dry;skin	0.029960142448544502
+trial_2	lasmiditan	53	KG00101550	Pain in eyes	0.029659898951649666
+trial_2	lasmiditan	98	KG00097718	Incised wound, NOS	0.029342181980609894
+trial_2	lasmiditan	15	KG00097882	Angina pectoris NOS	0.02926209382712841
+trial_2	lasmiditan	371	KG00098517	Cystitis (NOS)	0.028699394315481186
+trial_2	lasmiditan	361	KG00098004	Fibrillation, Atrial	0.028674812987446785
+trial_2	lasmiditan	256	KG00100738	Tachycardia, Sinus	0.028310678899288177
+trial_2	lasmiditan	186	KG00101431	creatinine increased	0.028303075581789017
+trial_2	lasmiditan	382	KG00099200	haemorrhoids	0.028249410912394524
+trial_2	lasmiditan	130	KG00100683	Stomatitis NOS	0.028076447546482086
+trial_2	lasmiditan	363	KG00098184	burns injury	0.027727248147130013
+trial_2	lasmiditan	94	KG00103829	abdominal discomfort	0.027659349143505096

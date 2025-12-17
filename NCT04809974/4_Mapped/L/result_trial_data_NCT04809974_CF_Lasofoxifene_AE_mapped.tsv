@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13607019186019897
+trial_1	placebo	87	KG00098599	diarrhoea	0.1333514302968979
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09142768383026123
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07643634080886841
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07587368786334991
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07423202693462372
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07121245563030243
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07060745358467102
+trial_1	placebo	46	KG00099121	Headache NOS	0.06787760555744171
+trial_1	placebo	21	KG00098675	dyspnoea	0.06710073351860046
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06681639701128006
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0662459060549736
+trial_1	placebo	20	KG00098540	dehydration	0.06553781777620316
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06212892755866051
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.060757458209991455
+trial_1	placebo	68	KG00099901	nauseas	0.06056973710656166
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05227399989962578
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04968305677175522
+trial_1	placebo	126	KG00100076	Pain NOS	0.049337971955537796
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.049086932092905045
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04729565978050232
+trial_1	placebo	228	KG00114657	Weight below normal	0.04630236700177193
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0460757277905941
+trial_1	placebo	104	KG00097963	arthralgias	0.045501746237277985
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.04188979044556618
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.041542910039424896
+trial_1	placebo	239	KG00100128	pareses	0.0393730103969574
+trial_1	placebo	85	KG00098474	coughs	0.037590913474559784
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.035304680466651917
+trial_1	placebo	350	KG00106765	decreased platelet count	0.034388426691293716
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03437718749046326
+trial_1	placebo	114	KG00098933	fevers	0.03404690697789192
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03399120271205902
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03336981683969498
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03322673216462135
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.032878413796424866
+trial_1	placebo	5	KG00099169	haematuria	0.032388895750045776
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03238220140337944
+trial_1	placebo	121	KG00099190	haemorrhage	0.03102467767894268
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030743421986699104
+trial_1	placebo	72	KG00103771	myalgias	0.03073957934975624
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030299387872219086
+trial_1	placebo	102	KG00097916	anxieties	0.03020620346069336
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02950155735015869
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.029232433065772057
+trial_1	placebo	116	KG00098964	Pain in foot	0.029102738946676254
+trial_1	placebo	147	KG00098000	atelectases	0.028274783864617348
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.028198903426527977
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027960192412137985
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02793085388839245
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02722947672009468
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026857346296310425
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.026542996987700462
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.025902457535266876
+trial_1	placebo	82	KG00097697	abdomen distended	0.025832392275333405
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025308212265372276
+trial_1	placebo	454	KG00098286	Pain, Neck	0.025144554674625397
+trial_1	placebo	136	KG00101582	Dry;skin	0.024477381259202957
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02427883818745613
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02400042861700058
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02357933484017849
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.023522749543190002
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02347489260137081
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.023049024865031242
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021985458210110664
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02169147878885269
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021649852395057678
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021642450243234634
+trial_1	placebo	466	KG00101205	fall	0.021630756556987762
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02121342159807682
+trial_1	placebo	382	KG00099200	haemorrhoids	0.021173493936657906
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.020965728908777237
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020920157432556152
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0208481065928936
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020710762590169907
+trial_1	placebo	262	KG00101199	agitation	0.020463407039642334
+trial_1	placebo	203	KG00098661	dysarthrias	0.020347708836197853
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02024749107658863
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02012608014047146
+trial_1	placebo	339	KG00100334	proteinurias	0.020092813298106194
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02008995972573757
+trial_1	placebo	212	KG00100576	shivers	0.01969379559159279
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.019593866541981697
+trial_1	placebo	282	KG00099309	hypernatraemia	0.019364336505532265
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019263772293925285
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01923837885260582
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01920139044523239
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019201278686523438
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01914163865149021
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.019101740792393684
+trial_1	placebo	186	KG00101431	creatinine increased	0.019079530611634254
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019007505849003792
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01879279501736164
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.018721088767051697
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.018596990033984184
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.018124371767044067
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.01804559864103794
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.01782548986375332
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.017796019092202187
+trial_1	placebo	164	KG00108827	ileus colon	0.017745746299624443
+trial_2	lasofoxifene	78	KG00099326	Hypertensive diseases	0.13607019186019897
+trial_2	lasofoxifene	87	KG00098599	diarrhoea	0.1333514302968979
+trial_2	lasofoxifene	17	KG00097991	Asthenia NOS	0.09142768383026123
+trial_2	lasofoxifene	177	KG00099299	hyperglycaemia	0.07643634080886841
+trial_2	lasofoxifene	77	KG00098450	Constipation NOS	0.07587368786334991
+trial_2	lasofoxifene	9	KG00098432	Confusion NOS	0.07423202693462372
+trial_2	lasofoxifene	67	KG00098673	Dyspepsia, NOS	0.07121245563030243
+trial_2	lasofoxifene	79	KG00100317	Insomnia, Primary	0.07060745358467102
+trial_2	lasofoxifene	46	KG00099121	Headache NOS	0.06787760555744171
+trial_2	lasofoxifene	21	KG00098675	dyspnoea	0.06710073351860046
+trial_2	lasofoxifene	173	KG00098172	Bronchopneumonia NOS	0.06681639701128006
+trial_2	lasofoxifene	64	KG00097734	Acrodermatitis, NOS	0.0662459060549736
+trial_2	lasofoxifene	20	KG00098540	dehydration	0.06553781777620316
+trial_2	lasofoxifene	123	KG00099351	hypokalaemia	0.06212892755866051
+trial_2	lasofoxifene	243	KG00100947	Micturition frequency increased	0.060757458209991455
+trial_2	lasofoxifene	68	KG00099901	nauseas	0.06056973710656166
+trial_2	lasofoxifene	49	KG00099902	nausea with vomiting	0.05227399989962578
+trial_2	lasofoxifene	37	KG00097696	Cramps, Abdominal	0.04968305677175522
+trial_2	lasofoxifene	126	KG00100076	Pain NOS	0.049337971955537796
+trial_2	lasofoxifene	200	KG00098539	Disorders, Deglutition	0.049086932092905045
+trial_2	lasofoxifene	189	KG00101580	Alanine aminotransferase increase	0.04729565978050232
+trial_2	lasofoxifene	228	KG00114657	Weight below normal	0.04630236700177193
+trial_2	lasofoxifene	86	KG00098565	Depression, Mental	0.0460757277905941
+trial_2	lasofoxifene	104	KG00097963	arthralgias	0.045501746237277985
+trial_2	lasofoxifene	166	KG00099773	menopausal syndrome	0.04188979044556618
+trial_2	lasofoxifene	188	KG00101579	Aspartate aminotransferase increase	0.041542910039424896
+trial_2	lasofoxifene	239	KG00100128	pareses	0.0393730103969574
+trial_2	lasofoxifene	85	KG00098474	coughs	0.037590913474559784
+trial_2	lasofoxifene	101	KG00097901	Anorexia NOS	0.035304680466651917
+trial_2	lasofoxifene	350	KG00106765	decreased platelet count	0.034388426691293716
+trial_2	lasofoxifene	139	KG00098855	Sinusitis, Ethmoid	0.03437718749046326
+trial_2	lasofoxifene	114	KG00098933	fevers	0.03404690697789192
+trial_2	lasofoxifene	29	KG00099354	hyponatraemia	0.03399120271205902
+trial_2	lasofoxifene	14	KG00097852	Anemia NOS	0.03336981683969498
+trial_2	lasofoxifene	151	KG00098274	Infarction, Cerebral	0.03322673216462135
+trial_2	lasofoxifene	122	KG00099321	Hypersensitivity NOS	0.032878413796424866
+trial_2	lasofoxifene	5	KG00099169	haematuria	0.032388895750045776
+trial_2	lasofoxifene	211	KG00100341	Pruritus NOS	0.03238220140337944
+trial_2	lasofoxifene	121	KG00099190	haemorrhage	0.03102467767894268
+trial_2	lasofoxifene	28	KG00099347	hypoglycaemia	0.030743421986699104
+trial_2	lasofoxifene	72	KG00103771	myalgias	0.03073957934975624
+trial_2	lasofoxifene	179	KG00099342	hypocalcaemia	0.030299387872219086
+trial_2	lasofoxifene	102	KG00097916	anxieties	0.03020620346069336
+trial_2	lasofoxifene	180	KG00099363	Hypotension NOS	0.02950155735015869
+trial_2	lasofoxifene	61	KG00099501	Chronic Kidney Failure	0.029232433065772057
+trial_2	lasofoxifene	116	KG00098964	Pain in foot	0.029102738946676254
+trial_2	lasofoxifene	147	KG00098000	atelectases	0.028274783864617348
+trial_2	lasofoxifene	76	KG00100450	Respiratory insufficiency, NOS	0.028198903426527977
+trial_2	lasofoxifene	131	KG00100948	Urinary tract infection (& [NOS])	0.027960192412137985
+trial_2	lasofoxifene	18	KG00098307	Pain, Chest	0.02793085388839245
+trial_2	lasofoxifene	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02722947672009468
+trial_2	lasofoxifene	132	KG00101045	Gain, Weight	0.026857346296310425
+trial_2	lasofoxifene	2	KG00100772	thrombocytopaenia	0.026542996987700462
+trial_2	lasofoxifene	96	KG00101679	Unattended death NOS	0.025902457535266876
+trial_2	lasofoxifene	82	KG00097697	abdomen distended	0.025832392275333405
+trial_2	lasofoxifene	69	KG00100082	Palpitations NOS	0.025308212265372276
+trial_2	lasofoxifene	454	KG00098286	Pain, Neck	0.025144554674625397
+trial_2	lasofoxifene	136	KG00101582	Dry;skin	0.024477381259202957
+trial_2	lasofoxifene	38	KG00098066	Binocular vision disorders	0.02427883818745613
+trial_2	lasofoxifene	396	KG00100373	Embolism, Pulmonary	0.02400042861700058
+trial_2	lasofoxifene	261	KG00101559	raised alkaline phosphatase	0.02357933484017849
+trial_2	lasofoxifene	297	KG00099294	hypercholesterolaemia	0.023522749543190002
+trial_2	lasofoxifene	27	KG00099303	hyperkalaemia	0.02347489260137081
+trial_2	lasofoxifene	204	KG00098849	Esophagitis, Peptic	0.023049024865031242
+trial_2	lasofoxifene	191	KG00104055	Biliverdin increased	0.021985458210110664
+trial_2	lasofoxifene	118	KG00099011	Gastritis NOS	0.02169147878885269
+trial_2	lasofoxifene	441	KG00098262	cellulitis nos	0.021649852395057678
+trial_2	lasofoxifene	30	KG00099500	Acute Kidney Failure	0.021642450243234634
+trial_2	lasofoxifene	466	KG00101205	fall	0.021630756556987762
+trial_2	lasofoxifene	355	KG00110857	lymphocyte count decreased	0.02121342159807682
+trial_2	lasofoxifene	382	KG00099200	haemorrhoids	0.021173493936657906
+trial_2	lasofoxifene	253	KG00100232	Pleural effusion NOS (disorder)	0.020965728908777237
+trial_2	lasofoxifene	199	KG00098371	Rhinitis (chronic) NOS	0.020920157432556152
+trial_2	lasofoxifene	75	KG00100195	Dolens, Phlegmasia Alba	0.0208481065928936
+trial_2	lasofoxifene	92	KG00100926	Infections, Upper Respiratory	0.020710762590169907
+trial_2	lasofoxifene	262	KG00101199	agitation	0.020463407039642334
+trial_2	lasofoxifene	203	KG00098661	dysarthrias	0.020347708836197853
+trial_2	lasofoxifene	371	KG00098517	Cystitis (NOS)	0.02024749107658863
+trial_2	lasofoxifene	286	KG00101110	Retention, Urinary	0.02012608014047146
+trial_2	lasofoxifene	339	KG00100334	proteinurias	0.020092813298106194
+trial_2	lasofoxifene	249	KG00104430	hypoalbuminaemia	0.02008995972573757
+trial_2	lasofoxifene	212	KG00100576	shivers	0.01969379559159279
+trial_2	lasofoxifene	98	KG00097718	Incised wound, NOS	0.019593866541981697
+trial_2	lasofoxifene	282	KG00099309	hypernatraemia	0.019364336505532265
+trial_2	lasofoxifene	508	KG00108565	blood glucose increased	0.019263772293925285
+trial_2	lasofoxifene	31	KG00099872	Infarction, Myocardial	0.01923837885260582
+trial_2	lasofoxifene	246	KG00103338	Aspartate Aminotransferase Measurement	0.01920139044523239
+trial_2	lasofoxifene	221	KG00101207	peripheral oedema	0.019201278686523438
+trial_2	lasofoxifene	276	KG00099127	Arrest, Cardiac	0.01914163865149021
+trial_2	lasofoxifene	152	KG00099402	INCONTINENCE NOS	0.019101740792393684
+trial_2	lasofoxifene	186	KG00101431	creatinine increased	0.019079530611634254
+trial_2	lasofoxifene	11	KG00097993	Asthma NOS	0.019007505849003792
+trial_2	lasofoxifene	163	KG00104050	bowel obstructions small	0.01879279501736164
+trial_2	lasofoxifene	288	KG00101223	hypophosphataemia	0.018721088767051697
+trial_2	lasofoxifene	195	KG00097814	Atopic Rhinitis	0.018596990033984184
+trial_2	lasofoxifene	33	KG00100094	Pancreatitis NOS	0.018124371767044067
+trial_2	lasofoxifene	99	KG00097728	acne; vulgaris	0.01804559864103794
+trial_2	lasofoxifene	352	KG00107658	NON-CARDIAC CHEST PAIN	0.01782548986375332
+trial_2	lasofoxifene	256	KG00100738	Tachycardia, Sinus	0.017796019092202187
+trial_2	lasofoxifene	164	KG00108827	ileus colon	0.017745746299624443

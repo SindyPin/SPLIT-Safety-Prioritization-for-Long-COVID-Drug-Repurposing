@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.27001503109931946
+trial_1	placebo	68	KG00099901	nauseas	0.18219535052776337
+trial_1	placebo	9	KG00098432	Confusion NOS	0.17510347068309784
+trial_1	placebo	77	KG00098450	Constipation NOS	0.16629543900489807
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.16070683300495148
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14003394544124603
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.13226544857025146
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1201556921005249
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11839289218187332
+trial_1	placebo	46	KG00099121	Headache NOS	0.11440339684486389
+trial_1	placebo	228	KG00114657	Weight below normal	0.11105456948280334
+trial_1	placebo	20	KG00098540	dehydration	0.10757848620414734
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10096913576126099
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09917818009853363
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09649331867694855
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08233216404914856
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07829076051712036
+trial_1	placebo	21	KG00098675	dyspnoea	0.07438409328460693
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07404813915491104
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07119735330343246
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06423940509557724
+trial_1	placebo	300	KG00101064	xerostomia	0.06129826605319977
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.060100656002759933
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05816159024834633
+trial_1	placebo	102	KG00097916	anxieties	0.05769805610179901
+trial_1	placebo	82	KG00097697	abdomen distended	0.05657671019434929
+trial_1	placebo	126	KG00100076	Pain NOS	0.051636286079883575
+trial_1	placebo	132	KG00101045	Gain, Weight	0.050454508513212204
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05035187676548958
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05021781846880913
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04864729940891266
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04688737913966179
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04666520655155182
+trial_1	placebo	239	KG00100128	pareses	0.04635036736726761
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04632918909192085
+trial_1	placebo	104	KG00097963	arthralgias	0.04258258268237114
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04191815108060837
+trial_1	placebo	114	KG00098933	fevers	0.041131746023893356
+trial_1	placebo	85	KG00098474	coughs	0.03989293798804283
+trial_1	placebo	66	KG00098642	drowsiness	0.03868582844734192
+trial_1	placebo	262	KG00101199	agitation	0.038607560098171234
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03859221562743187
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.038366951048374176
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.037560686469078064
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03702429309487343
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03622782975435257
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03528711572289467
+trial_1	placebo	5	KG00099169	haematuria	0.03517237678170204
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03462963551282883
+trial_1	placebo	242	KG00100855	tremors	0.034622058272361755
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03381556645035744
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.033362265676259995
+trial_1	placebo	72	KG00103771	myalgias	0.033344268798828125
+trial_1	placebo	116	KG00098964	Pain in foot	0.033041540533304214
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.0329885259270668
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03275876119732857
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03199141472578049
+trial_1	placebo	234	KG00098669	dysgeusias	0.03190506249666214
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.031490884721279144
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03128793090581894
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.030291296541690826
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.028757644817233086
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028116624802350998
+trial_1	placebo	466	KG00101205	fall	0.02797705866396427
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027972007170319557
+trial_1	placebo	164	KG00108827	ileus colon	0.027826275676488876
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02773641049861908
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.027559148147702217
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027260035276412964
+trial_1	placebo	153	KG00099579	lethargy	0.02703564241528511
+trial_1	placebo	345	KG00103926	impairments memory	0.02702443115413189
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.026974404230713844
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.0269478727132082
+trial_1	placebo	147	KG00098000	atelectases	0.026912273839116096
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026485001668334007
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.025945495814085007
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.025802776217460632
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.025546452030539513
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.025233697146177292
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.025233322754502296
+trial_1	placebo	121	KG00099190	haemorrhage	0.025046786293387413
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02475588768720627
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.024123096838593483
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.023979924619197845
+trial_1	placebo	136	KG00101582	Dry;skin	0.023702289909124374
+trial_1	placebo	382	KG00099200	haemorrhoids	0.023599019274115562
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.023488231003284454
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02346866764128208
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02326488494873047
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022995425388216972
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022950993850827217
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022921429947018623
+trial_1	placebo	339	KG00100334	proteinurias	0.022541267797350883
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.022437043488025665
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022381944581866264
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.022334899753332138
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02213711105287075
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02183282934129238
+trial_1	placebo	456	KG00099420	Influenzae	0.021802136674523354
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021789204329252243
+trial_2	lorcaserin	87	KG00098599	diarrhoea	0.27001503109931946
+trial_2	lorcaserin	68	KG00099901	nauseas	0.18219535052776337
+trial_2	lorcaserin	9	KG00098432	Confusion NOS	0.17510347068309784
+trial_2	lorcaserin	77	KG00098450	Constipation NOS	0.16629543900489807
+trial_2	lorcaserin	101	KG00097901	Anorexia NOS	0.16070683300495148
+trial_2	lorcaserin	17	KG00097991	Asthenia NOS	0.14003394544124603
+trial_2	lorcaserin	49	KG00099902	nausea with vomiting	0.13226544857025146
+trial_2	lorcaserin	78	KG00099326	Hypertensive diseases	0.1201556921005249
+trial_2	lorcaserin	79	KG00100317	Insomnia, Primary	0.11839289218187332
+trial_2	lorcaserin	46	KG00099121	Headache NOS	0.11440339684486389
+trial_2	lorcaserin	228	KG00114657	Weight below normal	0.11105456948280334
+trial_2	lorcaserin	20	KG00098540	dehydration	0.10757848620414734
+trial_2	lorcaserin	37	KG00097696	Cramps, Abdominal	0.10096913576126099
+trial_2	lorcaserin	177	KG00099299	hyperglycaemia	0.09917818009853363
+trial_2	lorcaserin	67	KG00098673	Dyspepsia, NOS	0.09649331867694855
+trial_2	lorcaserin	123	KG00099351	hypokalaemia	0.08233216404914856
+trial_2	lorcaserin	243	KG00100947	Micturition frequency increased	0.07829076051712036
+trial_2	lorcaserin	21	KG00098675	dyspnoea	0.07438409328460693
+trial_2	lorcaserin	64	KG00097734	Acrodermatitis, NOS	0.07404813915491104
+trial_2	lorcaserin	173	KG00098172	Bronchopneumonia NOS	0.07119735330343246
+trial_2	lorcaserin	189	KG00101580	Alanine aminotransferase increase	0.06423940509557724
+trial_2	lorcaserin	300	KG00101064	xerostomia	0.06129826605319977
+trial_2	lorcaserin	200	KG00098539	Disorders, Deglutition	0.060100656002759933
+trial_2	lorcaserin	188	KG00101579	Aspartate aminotransferase increase	0.05816159024834633
+trial_2	lorcaserin	102	KG00097916	anxieties	0.05769805610179901
+trial_2	lorcaserin	82	KG00097697	abdomen distended	0.05657671019434929
+trial_2	lorcaserin	126	KG00100076	Pain NOS	0.051636286079883575
+trial_2	lorcaserin	132	KG00101045	Gain, Weight	0.050454508513212204
+trial_2	lorcaserin	29	KG00099354	hyponatraemia	0.05035187676548958
+trial_2	lorcaserin	86	KG00098565	Depression, Mental	0.05021781846880913
+trial_2	lorcaserin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04864729940891266
+trial_2	lorcaserin	350	KG00106765	decreased platelet count	0.04688737913966179
+trial_2	lorcaserin	151	KG00098274	Infarction, Cerebral	0.04666520655155182
+trial_2	lorcaserin	239	KG00100128	pareses	0.04635036736726761
+trial_2	lorcaserin	180	KG00099363	Hypotension NOS	0.04632918909192085
+trial_2	lorcaserin	104	KG00097963	arthralgias	0.04258258268237114
+trial_2	lorcaserin	28	KG00099347	hypoglycaemia	0.04191815108060837
+trial_2	lorcaserin	114	KG00098933	fevers	0.041131746023893356
+trial_2	lorcaserin	85	KG00098474	coughs	0.03989293798804283
+trial_2	lorcaserin	66	KG00098642	drowsiness	0.03868582844734192
+trial_2	lorcaserin	262	KG00101199	agitation	0.038607560098171234
+trial_2	lorcaserin	122	KG00099321	Hypersensitivity NOS	0.03859221562743187
+trial_2	lorcaserin	76	KG00100450	Respiratory insufficiency, NOS	0.038366951048374176
+trial_2	lorcaserin	89	KG00099301	Hyperhidrosis (disorder)	0.037560686469078064
+trial_2	lorcaserin	14	KG00097852	Anemia NOS	0.03702429309487343
+trial_2	lorcaserin	69	KG00100082	Palpitations NOS	0.03622782975435257
+trial_2	lorcaserin	166	KG00099773	menopausal syndrome	0.03528711572289467
+trial_2	lorcaserin	5	KG00099169	haematuria	0.03517237678170204
+trial_2	lorcaserin	18	KG00098307	Pain, Chest	0.03462963551282883
+trial_2	lorcaserin	242	KG00100855	tremors	0.034622058272361755
+trial_2	lorcaserin	36	KG00106434	Vision, Blurring Of	0.03381556645035744
+trial_2	lorcaserin	38	KG00098066	Binocular vision disorders	0.033362265676259995
+trial_2	lorcaserin	72	KG00103771	myalgias	0.033344268798828125
+trial_2	lorcaserin	116	KG00098964	Pain in foot	0.033041540533304214
+trial_2	lorcaserin	204	KG00098849	Esophagitis, Peptic	0.0329885259270668
+trial_2	lorcaserin	139	KG00098855	Sinusitis, Ethmoid	0.03275876119732857
+trial_2	lorcaserin	211	KG00100341	Pruritus NOS	0.03199141472578049
+trial_2	lorcaserin	234	KG00098669	dysgeusias	0.03190506249666214
+trial_2	lorcaserin	179	KG00099342	hypocalcaemia	0.031490884721279144
+trial_2	lorcaserin	96	KG00101679	Unattended death NOS	0.03128793090581894
+trial_2	lorcaserin	261	KG00101559	raised alkaline phosphatase	0.030291296541690826
+trial_2	lorcaserin	355	KG00110857	lymphocyte count decreased	0.028757644817233086
+trial_2	lorcaserin	27	KG00099303	hyperkalaemia	0.028116624802350998
+trial_2	lorcaserin	466	KG00101205	fall	0.02797705866396427
+trial_2	lorcaserin	131	KG00100948	Urinary tract infection (& [NOS])	0.027972007170319557
+trial_2	lorcaserin	164	KG00108827	ileus colon	0.027826275676488876
+trial_2	lorcaserin	199	KG00098371	Rhinitis (chronic) NOS	0.02773641049861908
+trial_2	lorcaserin	191	KG00104055	Biliverdin increased	0.027559148147702217
+trial_2	lorcaserin	286	KG00101110	Retention, Urinary	0.027260035276412964
+trial_2	lorcaserin	153	KG00099579	lethargy	0.02703564241528511
+trial_2	lorcaserin	345	KG00103926	impairments memory	0.02702443115413189
+trial_2	lorcaserin	194	KG00110727	Neutrophil Count Decreased	0.026974404230713844
+trial_2	lorcaserin	35	KG00101507	hypomagnesaemia	0.0269478727132082
+trial_2	lorcaserin	147	KG00098000	atelectases	0.026912273839116096
+trial_2	lorcaserin	282	KG00099309	hypernatraemia	0.026485001668334007
+trial_2	lorcaserin	2	KG00100772	thrombocytopaenia	0.025945495814085007
+trial_2	lorcaserin	94	KG00103829	abdominal discomfort	0.025802776217460632
+trial_2	lorcaserin	61	KG00099501	Chronic Kidney Failure	0.025546452030539513
+trial_2	lorcaserin	422	KG00101429	Creatine phosphokinase increased	0.025233697146177292
+trial_2	lorcaserin	218	KG00100801	Tinnitus NOS	0.025233322754502296
+trial_2	lorcaserin	121	KG00099190	haemorrhage	0.025046786293387413
+trial_2	lorcaserin	371	KG00098517	Cystitis (NOS)	0.02475588768720627
+trial_2	lorcaserin	152	KG00099402	INCONTINENCE NOS	0.024123096838593483
+trial_2	lorcaserin	138	KG00098796	epidemic vomiting syndrome	0.023979924619197845
+trial_2	lorcaserin	136	KG00101582	Dry;skin	0.023702289909124374
+trial_2	lorcaserin	382	KG00099200	haemorrhoids	0.023599019274115562
+trial_2	lorcaserin	256	KG00100738	Tachycardia, Sinus	0.023488231003284454
+trial_2	lorcaserin	92	KG00100926	Infections, Upper Respiratory	0.02346866764128208
+trial_2	lorcaserin	30	KG00099500	Acute Kidney Failure	0.02326488494873047
+trial_2	lorcaserin	33	KG00100094	Pancreatitis NOS	0.022995425388216972
+trial_2	lorcaserin	249	KG00104430	hypoalbuminaemia	0.022950993850827217
+trial_2	lorcaserin	508	KG00108565	blood glucose increased	0.022921429947018623
+trial_2	lorcaserin	339	KG00100334	proteinurias	0.022541267797350883
+trial_2	lorcaserin	22	KG00098705	Edema (NOS)	0.022437043488025665
+trial_2	lorcaserin	142	KG00100923	Unspecified infectious and parasitic diseases	0.022381944581866264
+trial_2	lorcaserin	232	KG00097997	Ataxia NOS	0.022334899753332138
+trial_2	lorcaserin	276	KG00099127	Arrest, Cardiac	0.02213711105287075
+trial_2	lorcaserin	341	KG00101472	Gamma-glutamyltransferase increased	0.02183282934129238
+trial_2	lorcaserin	456	KG00099420	Influenzae	0.021802136674523354
+trial_2	lorcaserin	98	KG00097718	Incised wound, NOS	0.021789204329252243

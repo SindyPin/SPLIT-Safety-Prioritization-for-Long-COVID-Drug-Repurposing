@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18066126108169556
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1349201202392578
+trial_1	placebo	87	KG00098599	diarrhoea	0.13211514055728912
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12626178562641144
+trial_1	placebo	68	KG00099901	nauseas	0.12548601627349854
+trial_1	placebo	46	KG00099121	Headache NOS	0.11896287649869919
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11480538547039032
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10996585339307785
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10627726465463638
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09835350513458252
+trial_1	placebo	21	KG00098675	dyspnoea	0.08802222460508347
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08093025535345078
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08071094751358032
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07635784149169922
+trial_1	placebo	20	KG00098540	dehydration	0.07308536022901535
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07299742102622986
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06637208163738251
+trial_1	placebo	228	KG00114657	Weight below normal	0.06371823698282242
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06330358982086182
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06194813549518585
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.059666696935892105
+trial_1	placebo	114	KG00098933	fevers	0.05792815610766411
+trial_1	placebo	350	KG00106765	decreased platelet count	0.056016258895397186
+trial_1	placebo	104	KG00097963	arthralgias	0.055074553936719894
+trial_1	placebo	14	KG00097852	Anemia NOS	0.054140616208314896
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.052602123469114304
+trial_1	placebo	126	KG00100076	Pain NOS	0.05217975005507469
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0520637184381485
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05050615221261978
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04964042454957962
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.049176763743162155
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.048123378306627274
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.045946795493364334
+trial_1	placebo	102	KG00097916	anxieties	0.04535328224301338
+trial_1	placebo	86	KG00098565	Depression, Mental	0.044519875198602676
+trial_1	placebo	85	KG00098474	coughs	0.04428693652153015
+trial_1	placebo	239	KG00100128	pareses	0.04371798411011696
+trial_1	placebo	5	KG00099169	haematuria	0.043569281697273254
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.042180534452199936
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04165752977132797
+trial_1	placebo	262	KG00101199	agitation	0.03888504579663277
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.037607453763484955
+trial_1	placebo	72	KG00103771	myalgias	0.037304628640413284
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.036913398653268814
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.035099565982818604
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0348634347319603
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03397396206855774
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03380191698670387
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0331469364464283
+trial_1	placebo	147	KG00098000	atelectases	0.032966066151857376
+trial_1	placebo	116	KG00098964	Pain in foot	0.03286899998784065
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.032530639320611954
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.032475546002388
+trial_1	placebo	82	KG00097697	abdomen distended	0.032374296337366104
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.032159265130758286
+trial_1	placebo	234	KG00098669	dysgeusias	0.03210684657096863
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03157950937747955
+trial_1	placebo	66	KG00098642	drowsiness	0.03145996108651161
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.031064720824360847
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03042912296950817
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03026554360985756
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03022582270205021
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03020283207297325
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030130749568343163
+trial_1	placebo	132	KG00101045	Gain, Weight	0.029090359807014465
+trial_1	placebo	466	KG00101205	fall	0.027944371104240417
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0275530107319355
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02755207195878029
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02701529860496521
+trial_1	placebo	164	KG00108827	ileus colon	0.026881936937570572
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026712417602539062
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.026421723887324333
+trial_1	placebo	153	KG00099579	lethargy	0.026242179796099663
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.025955498218536377
+trial_1	placebo	269	KG00100399	pyaemia	0.025953011587262154
+trial_1	placebo	242	KG00100855	tremors	0.025871241465210915
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025109751150012016
+trial_1	placebo	100	KG00097815	alopecias	0.024881994351744652
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0244144294410944
+trial_1	placebo	121	KG00099190	haemorrhage	0.024398652836680412
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.024344535544514656
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02422192320227623
+trial_1	placebo	339	KG00100334	proteinurias	0.02421836368739605
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.024088658392429352
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.024069778621196747
+trial_1	placebo	300	KG00101064	xerostomia	0.023781651630997658
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02354392223060131
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023215899243950844
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.022977396845817566
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02242518961429596
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02232765406370163
+trial_1	placebo	212	KG00100576	shivers	0.022301465272903442
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022103000432252884
+trial_1	placebo	454	KG00098286	Pain, Neck	0.021890372037887573
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.021881848573684692
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021769419312477112
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021512100473046303
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02127600461244583
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.02117541991174221
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021087341010570526
+trial_2	levallorphan	78	KG00099326	Hypertensive diseases	0.18066126108169556
+trial_2	levallorphan	17	KG00097991	Asthenia NOS	0.1349201202392578
+trial_2	levallorphan	87	KG00098599	diarrhoea	0.13211514055728912
+trial_2	levallorphan	9	KG00098432	Confusion NOS	0.12626178562641144
+trial_2	levallorphan	68	KG00099901	nauseas	0.12548601627349854
+trial_2	levallorphan	46	KG00099121	Headache NOS	0.11896287649869919
+trial_2	levallorphan	77	KG00098450	Constipation NOS	0.11480538547039032
+trial_2	levallorphan	49	KG00099902	nausea with vomiting	0.10996585339307785
+trial_2	levallorphan	177	KG00099299	hyperglycaemia	0.10627726465463638
+trial_2	levallorphan	79	KG00100317	Insomnia, Primary	0.09835350513458252
+trial_2	levallorphan	21	KG00098675	dyspnoea	0.08802222460508347
+trial_2	levallorphan	173	KG00098172	Bronchopneumonia NOS	0.08093025535345078
+trial_2	levallorphan	37	KG00097696	Cramps, Abdominal	0.08071094751358032
+trial_2	levallorphan	123	KG00099351	hypokalaemia	0.07635784149169922
+trial_2	levallorphan	20	KG00098540	dehydration	0.07308536022901535
+trial_2	levallorphan	189	KG00101580	Alanine aminotransferase increase	0.07299742102622986
+trial_2	levallorphan	101	KG00097901	Anorexia NOS	0.06637208163738251
+trial_2	levallorphan	228	KG00114657	Weight below normal	0.06371823698282242
+trial_2	levallorphan	188	KG00101579	Aspartate aminotransferase increase	0.06330358982086182
+trial_2	levallorphan	67	KG00098673	Dyspepsia, NOS	0.06194813549518585
+trial_2	levallorphan	200	KG00098539	Disorders, Deglutition	0.059666696935892105
+trial_2	levallorphan	114	KG00098933	fevers	0.05792815610766411
+trial_2	levallorphan	350	KG00106765	decreased platelet count	0.056016258895397186
+trial_2	levallorphan	104	KG00097963	arthralgias	0.055074553936719894
+trial_2	levallorphan	14	KG00097852	Anemia NOS	0.054140616208314896
+trial_2	levallorphan	64	KG00097734	Acrodermatitis, NOS	0.052602123469114304
+trial_2	levallorphan	126	KG00100076	Pain NOS	0.05217975005507469
+trial_2	levallorphan	180	KG00099363	Hypotension NOS	0.0520637184381485
+trial_2	levallorphan	29	KG00099354	hyponatraemia	0.05050615221261978
+trial_2	levallorphan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04964042454957962
+trial_2	levallorphan	151	KG00098274	Infarction, Cerebral	0.049176763743162155
+trial_2	levallorphan	2	KG00100772	thrombocytopaenia	0.048123378306627274
+trial_2	levallorphan	243	KG00100947	Micturition frequency increased	0.045946795493364334
+trial_2	levallorphan	102	KG00097916	anxieties	0.04535328224301338
+trial_2	levallorphan	86	KG00098565	Depression, Mental	0.044519875198602676
+trial_2	levallorphan	85	KG00098474	coughs	0.04428693652153015
+trial_2	levallorphan	239	KG00100128	pareses	0.04371798411011696
+trial_2	levallorphan	5	KG00099169	haematuria	0.043569281697273254
+trial_2	levallorphan	76	KG00100450	Respiratory insufficiency, NOS	0.042180534452199936
+trial_2	levallorphan	179	KG00099342	hypocalcaemia	0.04165752977132797
+trial_2	levallorphan	262	KG00101199	agitation	0.03888504579663277
+trial_2	levallorphan	194	KG00110727	Neutrophil Count Decreased	0.037607453763484955
+trial_2	levallorphan	72	KG00103771	myalgias	0.037304628640413284
+trial_2	levallorphan	96	KG00101679	Unattended death NOS	0.036913398653268814
+trial_2	levallorphan	28	KG00099347	hypoglycaemia	0.035099565982818604
+trial_2	levallorphan	61	KG00099501	Chronic Kidney Failure	0.0348634347319603
+trial_2	levallorphan	27	KG00099303	hyperkalaemia	0.03397396206855774
+trial_2	levallorphan	122	KG00099321	Hypersensitivity NOS	0.03380191698670387
+trial_2	levallorphan	69	KG00100082	Palpitations NOS	0.0331469364464283
+trial_2	levallorphan	147	KG00098000	atelectases	0.032966066151857376
+trial_2	levallorphan	116	KG00098964	Pain in foot	0.03286899998784065
+trial_2	levallorphan	38	KG00098066	Binocular vision disorders	0.032530639320611954
+trial_2	levallorphan	131	KG00100948	Urinary tract infection (& [NOS])	0.032475546002388
+trial_2	levallorphan	82	KG00097697	abdomen distended	0.032374296337366104
+trial_2	levallorphan	144	KG00099610	Leukopenia NOS	0.032159265130758286
+trial_2	levallorphan	234	KG00098669	dysgeusias	0.03210684657096863
+trial_2	levallorphan	211	KG00100341	Pruritus NOS	0.03157950937747955
+trial_2	levallorphan	66	KG00098642	drowsiness	0.03145996108651161
+trial_2	levallorphan	396	KG00100373	Embolism, Pulmonary	0.031064720824360847
+trial_2	levallorphan	261	KG00101559	raised alkaline phosphatase	0.03042912296950817
+trial_2	levallorphan	355	KG00110857	lymphocyte count decreased	0.03026554360985756
+trial_2	levallorphan	139	KG00098855	Sinusitis, Ethmoid	0.03022582270205021
+trial_2	levallorphan	30	KG00099500	Acute Kidney Failure	0.03020283207297325
+trial_2	levallorphan	18	KG00098307	Pain, Chest	0.030130749568343163
+trial_2	levallorphan	132	KG00101045	Gain, Weight	0.029090359807014465
+trial_2	levallorphan	466	KG00101205	fall	0.027944371104240417
+trial_2	levallorphan	1	KG00099959	Neutropenia NOS	0.0275530107319355
+trial_2	levallorphan	166	KG00099773	menopausal syndrome	0.02755207195878029
+trial_2	levallorphan	142	KG00100923	Unspecified infectious and parasitic diseases	0.02701529860496521
+trial_2	levallorphan	164	KG00108827	ileus colon	0.026881936937570572
+trial_2	levallorphan	282	KG00099309	hypernatraemia	0.026712417602539062
+trial_2	levallorphan	249	KG00104430	hypoalbuminaemia	0.026421723887324333
+trial_2	levallorphan	153	KG00099579	lethargy	0.026242179796099663
+trial_2	levallorphan	130	KG00100683	Stomatitis NOS	0.025955498218536377
+trial_2	levallorphan	269	KG00100399	pyaemia	0.025953011587262154
+trial_2	levallorphan	242	KG00100855	tremors	0.025871241465210915
+trial_2	levallorphan	92	KG00100926	Infections, Upper Respiratory	0.025109751150012016
+trial_2	levallorphan	100	KG00097815	alopecias	0.024881994351744652
+trial_2	levallorphan	286	KG00101110	Retention, Urinary	0.0244144294410944
+trial_2	levallorphan	121	KG00099190	haemorrhage	0.024398652836680412
+trial_2	levallorphan	253	KG00100232	Pleural effusion NOS (disorder)	0.024344535544514656
+trial_2	levallorphan	154	KG00099686	Lymphopenias	0.02422192320227623
+trial_2	levallorphan	339	KG00100334	proteinurias	0.02421836368739605
+trial_2	levallorphan	276	KG00099127	Arrest, Cardiac	0.024088658392429352
+trial_2	levallorphan	191	KG00104055	Biliverdin increased	0.024069778621196747
+trial_2	levallorphan	300	KG00101064	xerostomia	0.023781651630997658
+trial_2	levallorphan	75	KG00100195	Dolens, Phlegmasia Alba	0.02354392223060131
+trial_2	levallorphan	422	KG00101429	Creatine phosphokinase increased	0.023215899243950844
+trial_2	levallorphan	35	KG00101507	hypomagnesaemia	0.022977396845817566
+trial_2	levallorphan	31	KG00099872	Infarction, Myocardial	0.02242518961429596
+trial_2	levallorphan	288	KG00101223	hypophosphataemia	0.02232765406370163
+trial_2	levallorphan	212	KG00100576	shivers	0.022301465272903442
+trial_2	levallorphan	361	KG00098004	Fibrillation, Atrial	0.022103000432252884
+trial_2	levallorphan	454	KG00098286	Pain, Neck	0.021890372037887573
+trial_2	levallorphan	341	KG00101472	Gamma-glutamyltransferase increased	0.021881848573684692
+trial_2	levallorphan	256	KG00100738	Tachycardia, Sinus	0.021769419312477112
+trial_2	levallorphan	204	KG00098849	Esophagitis, Peptic	0.021512100473046303
+trial_2	levallorphan	15	KG00097882	Angina pectoris NOS	0.02127600461244583
+trial_2	levallorphan	89	KG00099301	Hyperhidrosis (disorder)	0.02117541991174221
+trial_2	levallorphan	508	KG00108565	blood glucose increased	0.021087341010570526

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11767943203449249
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1039239913225174
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0898757353425026
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.08104102313518524
+trial_1	placebo	87	KG00098599	diarrhoea	0.08085502684116364
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07690706849098206
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07610734552145004
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07120761275291443
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06651420146226883
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06605444103479385
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06596960872411728
+trial_1	placebo	21	KG00098675	dyspnoea	0.06482206284999847
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06452646851539612
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06382663547992706
+trial_1	placebo	104	KG00097963	arthralgias	0.06258554756641388
+trial_1	placebo	228	KG00114657	Weight below normal	0.06241936981678009
+trial_1	placebo	132	KG00101045	Gain, Weight	0.06193355843424797
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.06100508198142052
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.057657212018966675
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05684371665120125
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05386604368686676
+trial_1	placebo	20	KG00098540	dehydration	0.05339037626981735
+trial_1	placebo	46	KG00099121	Headache NOS	0.051716290414333344
+trial_1	placebo	126	KG00100076	Pain NOS	0.05088820680975914
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04704361781477928
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04576025903224945
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0450005903840065
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04244257137179375
+trial_1	placebo	14	KG00097852	Anemia NOS	0.041796986013650894
+trial_1	placebo	239	KG00100128	pareses	0.04019265994429588
+trial_1	placebo	121	KG00099190	haemorrhage	0.04012812301516533
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03959226980805397
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03897227719426155
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03886500373482704
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03881038352847099
+trial_1	placebo	114	KG00098933	fevers	0.03551020100712776
+trial_1	placebo	466	KG00101205	fall	0.035334229469299316
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03518464416265488
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.034765373915433884
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03428168594837189
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03402167186141014
+trial_1	placebo	85	KG00098474	coughs	0.03384203091263771
+trial_1	placebo	68	KG00099901	nauseas	0.03358982503414154
+trial_1	placebo	5	KG00099169	haematuria	0.032417189329862595
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.03209406137466431
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.031581927090883255
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03129023686051369
+trial_1	placebo	203	KG00098661	dysarthrias	0.03127293288707733
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.031058471649885178
+trial_1	placebo	186	KG00101431	creatinine increased	0.030553610995411873
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0302304495126009
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029303452000021935
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.028525574132800102
+trial_1	placebo	147	KG00098000	atelectases	0.028391893953084946
+trial_1	placebo	136	KG00101582	Dry;skin	0.028027504682540894
+trial_1	placebo	116	KG00098964	Pain in foot	0.027909304946660995
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02754793129861355
+trial_1	placebo	262	KG00101199	agitation	0.027300847694277763
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.027251949533820152
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02674155682325363
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026733960956335068
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02624410018324852
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02600787580013275
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.025996332988142967
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02593429572880268
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.02565796673297882
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02543283812701702
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025424690917134285
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02482069842517376
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02448275126516819
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024244002997875214
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023965265601873398
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.023856183513998985
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.023797491565346718
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.023766273632645607
+trial_1	placebo	23	KG00098974	Multiple Fractures	0.023748120293021202
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023710092529654503
+trial_1	placebo	456	KG00099420	Influenzae	0.02370619587600231
+trial_1	placebo	102	KG00097916	anxieties	0.023575710132718086
+trial_1	placebo	72	KG00103771	myalgias	0.023566940799355507
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02318378910422325
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02309725619852543
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02295980043709278
+trial_1	placebo	382	KG00099200	haemorrhoids	0.022852223366498947
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02283901907503605
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02236163802444935
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02233152650296688
+trial_1	placebo	82	KG00097697	abdomen distended	0.022328486666083336
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02229185402393341
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0222246665507555
+trial_1	placebo	11	KG00097993	Asthma NOS	0.022156458348035812
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021967628970742226
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021384727209806442
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.021298198029398918
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021295836195349693
+trial_1	placebo	164	KG00108827	ileus colon	0.02123519405722618
+trial_1	placebo	174	KG00098731	Embolism NOS	0.02088034525513649
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.020795006304979324
+trial_1	placebo	345	KG00103926	impairments memory	0.02056042104959488
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02055339887738228
+trial_2	letrozole	78	KG00099326	Hypertensive diseases	0.11767943203449249
+trial_2	letrozole	177	KG00099299	hyperglycaemia	0.1039239913225174
+trial_2	letrozole	17	KG00097991	Asthenia NOS	0.0898757353425026
+trial_2	letrozole	166	KG00099773	menopausal syndrome	0.08104102313518524
+trial_2	letrozole	87	KG00098599	diarrhoea	0.08085502684116364
+trial_2	letrozole	173	KG00098172	Bronchopneumonia NOS	0.07690706849098206
+trial_2	letrozole	9	KG00098432	Confusion NOS	0.07610734552145004
+trial_2	letrozole	123	KG00099351	hypokalaemia	0.07120761275291443
+trial_2	letrozole	86	KG00098565	Depression, Mental	0.06651420146226883
+trial_2	letrozole	64	KG00097734	Acrodermatitis, NOS	0.06605444103479385
+trial_2	letrozole	151	KG00098274	Infarction, Cerebral	0.06596960872411728
+trial_2	letrozole	21	KG00098675	dyspnoea	0.06482206284999847
+trial_2	letrozole	243	KG00100947	Micturition frequency increased	0.06452646851539612
+trial_2	letrozole	79	KG00100317	Insomnia, Primary	0.06382663547992706
+trial_2	letrozole	104	KG00097963	arthralgias	0.06258554756641388
+trial_2	letrozole	228	KG00114657	Weight below normal	0.06241936981678009
+trial_2	letrozole	132	KG00101045	Gain, Weight	0.06193355843424797
+trial_2	letrozole	297	KG00099294	hypercholesterolaemia	0.06100508198142052
+trial_2	letrozole	67	KG00098673	Dyspepsia, NOS	0.057657212018966675
+trial_2	letrozole	189	KG00101580	Alanine aminotransferase increase	0.05684371665120125
+trial_2	letrozole	29	KG00099354	hyponatraemia	0.05386604368686676
+trial_2	letrozole	20	KG00098540	dehydration	0.05339037626981735
+trial_2	letrozole	46	KG00099121	Headache NOS	0.051716290414333344
+trial_2	letrozole	126	KG00100076	Pain NOS	0.05088820680975914
+trial_2	letrozole	96	KG00101679	Unattended death NOS	0.04704361781477928
+trial_2	letrozole	200	KG00098539	Disorders, Deglutition	0.04576025903224945
+trial_2	letrozole	28	KG00099347	hypoglycaemia	0.0450005903840065
+trial_2	letrozole	61	KG00099501	Chronic Kidney Failure	0.04244257137179375
+trial_2	letrozole	14	KG00097852	Anemia NOS	0.041796986013650894
+trial_2	letrozole	239	KG00100128	pareses	0.04019265994429588
+trial_2	letrozole	121	KG00099190	haemorrhage	0.04012812301516533
+trial_2	letrozole	188	KG00101579	Aspartate aminotransferase increase	0.03959226980805397
+trial_2	letrozole	37	KG00097696	Cramps, Abdominal	0.03897227719426155
+trial_2	letrozole	350	KG00106765	decreased platelet count	0.03886500373482704
+trial_2	letrozole	77	KG00098450	Constipation NOS	0.03881038352847099
+trial_2	letrozole	114	KG00098933	fevers	0.03551020100712776
+trial_2	letrozole	466	KG00101205	fall	0.035334229469299316
+trial_2	letrozole	139	KG00098855	Sinusitis, Ethmoid	0.03518464416265488
+trial_2	letrozole	2	KG00100772	thrombocytopaenia	0.034765373915433884
+trial_2	letrozole	131	KG00100948	Urinary tract infection (& [NOS])	0.03428168594837189
+trial_2	letrozole	30	KG00099500	Acute Kidney Failure	0.03402167186141014
+trial_2	letrozole	85	KG00098474	coughs	0.03384203091263771
+trial_2	letrozole	68	KG00099901	nauseas	0.03358982503414154
+trial_2	letrozole	5	KG00099169	haematuria	0.032417189329862595
+trial_2	letrozole	152	KG00099402	INCONTINENCE NOS	0.03209406137466431
+trial_2	letrozole	76	KG00100450	Respiratory insufficiency, NOS	0.031581927090883255
+trial_2	letrozole	27	KG00099303	hyperkalaemia	0.03129023686051369
+trial_2	letrozole	203	KG00098661	dysarthrias	0.03127293288707733
+trial_2	letrozole	49	KG00099902	nausea with vomiting	0.031058471649885178
+trial_2	letrozole	186	KG00101431	creatinine increased	0.030553610995411873
+trial_2	letrozole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0302304495126009
+trial_2	letrozole	18	KG00098307	Pain, Chest	0.029303452000021935
+trial_2	letrozole	179	KG00099342	hypocalcaemia	0.028525574132800102
+trial_2	letrozole	147	KG00098000	atelectases	0.028391893953084946
+trial_2	letrozole	136	KG00101582	Dry;skin	0.028027504682540894
+trial_2	letrozole	116	KG00098964	Pain in foot	0.027909304946660995
+trial_2	letrozole	261	KG00101559	raised alkaline phosphatase	0.02754793129861355
+trial_2	letrozole	262	KG00101199	agitation	0.027300847694277763
+trial_2	letrozole	142	KG00100923	Unspecified infectious and parasitic diseases	0.027251949533820152
+trial_2	letrozole	15	KG00097882	Angina pectoris NOS	0.02674155682325363
+trial_2	letrozole	211	KG00100341	Pruritus NOS	0.026733960956335068
+trial_2	letrozole	118	KG00099011	Gastritis NOS	0.02624410018324852
+trial_2	letrozole	396	KG00100373	Embolism, Pulmonary	0.02600787580013275
+trial_2	letrozole	191	KG00104055	Biliverdin increased	0.025996332988142967
+trial_2	letrozole	122	KG00099321	Hypersensitivity NOS	0.02593429572880268
+trial_2	letrozole	105	KG00097964	Arthritis NOS	0.02565796673297882
+trial_2	letrozole	361	KG00098004	Fibrillation, Atrial	0.02543283812701702
+trial_2	letrozole	38	KG00098066	Binocular vision disorders	0.025424690917134285
+trial_2	letrozole	276	KG00099127	Arrest, Cardiac	0.02482069842517376
+trial_2	letrozole	454	KG00098286	Pain, Neck	0.02448275126516819
+trial_2	letrozole	92	KG00100926	Infections, Upper Respiratory	0.024244002997875214
+trial_2	letrozole	286	KG00101110	Retention, Urinary	0.023965265601873398
+trial_2	letrozole	246	KG00103338	Aspartate Aminotransferase Measurement	0.023856183513998985
+trial_2	letrozole	160	KG00099291	hypercalcaemia	0.023797491565346718
+trial_2	letrozole	138	KG00098796	epidemic vomiting syndrome	0.023766273632645607
+trial_2	letrozole	23	KG00098974	Multiple Fractures	0.023748120293021202
+trial_2	letrozole	355	KG00110857	lymphocyte count decreased	0.023710092529654503
+trial_2	letrozole	456	KG00099420	Influenzae	0.02370619587600231
+trial_2	letrozole	102	KG00097916	anxieties	0.023575710132718086
+trial_2	letrozole	72	KG00103771	myalgias	0.023566940799355507
+trial_2	letrozole	154	KG00099686	Lymphopenias	0.02318378910422325
+trial_2	letrozole	31	KG00099872	Infarction, Myocardial	0.02309725619852543
+trial_2	letrozole	249	KG00104430	hypoalbuminaemia	0.02295980043709278
+trial_2	letrozole	382	KG00099200	haemorrhoids	0.022852223366498947
+trial_2	letrozole	101	KG00097901	Anorexia NOS	0.02283901907503605
+trial_2	letrozole	75	KG00100195	Dolens, Phlegmasia Alba	0.02236163802444935
+trial_2	letrozole	356	KG00112623	Infectious Lung Disorders	0.02233152650296688
+trial_2	letrozole	82	KG00097697	abdomen distended	0.022328486666083336
+trial_2	letrozole	288	KG00101223	hypophosphataemia	0.02229185402393341
+trial_2	letrozole	441	KG00098262	cellulitis nos	0.0222246665507555
+trial_2	letrozole	11	KG00097993	Asthma NOS	0.022156458348035812
+trial_2	letrozole	371	KG00098517	Cystitis (NOS)	0.021967628970742226
+trial_2	letrozole	98	KG00097718	Incised wound, NOS	0.021384727209806442
+trial_2	letrozole	263	KG00101519	Ischemia, Myocardial	0.021298198029398918
+trial_2	letrozole	199	KG00098371	Rhinitis (chronic) NOS	0.021295836195349693
+trial_2	letrozole	164	KG00108827	ileus colon	0.02123519405722618
+trial_2	letrozole	174	KG00098731	Embolism NOS	0.02088034525513649
+trial_2	letrozole	180	KG00099363	Hypotension NOS	0.020795006304979324
+trial_2	letrozole	345	KG00103926	impairments memory	0.02056042104959488
+trial_2	letrozole	36	KG00106434	Vision, Blurring Of	0.02055339887738228

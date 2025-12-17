@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.13325989246368408
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12942777574062347
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12541262805461884
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10553643107414246
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10516365617513657
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08111913502216339
+trial_1	placebo	20	KG00098540	dehydration	0.07977306842803955
+trial_1	placebo	21	KG00098675	dyspnoea	0.07790569216012955
+trial_1	placebo	46	KG00099121	Headache NOS	0.07199893891811371
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07095752656459808
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06257929652929306
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06196198612451553
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05760188773274422
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05623987689614296
+trial_1	placebo	68	KG00099901	nauseas	0.05348704755306244
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05207936838269234
+trial_1	placebo	85	KG00098474	coughs	0.04838211089372635
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.048098668456077576
+trial_1	placebo	66	KG00098642	drowsiness	0.04798491299152374
+trial_1	placebo	300	KG00101064	xerostomia	0.04568769782781601
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.045085515826940536
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04478158801794052
+trial_1	placebo	104	KG00097963	arthralgias	0.04274877533316612
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04151146858930588
+trial_1	placebo	242	KG00100855	tremors	0.03984474018216133
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03857772797346115
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03625566139817238
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.035908978432416916
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03586964309215546
+trial_1	placebo	228	KG00114657	Weight below normal	0.03572016581892967
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0351903922855854
+trial_1	placebo	132	KG00101045	Gain, Weight	0.034937821328639984
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03467212989926338
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03426820784807205
+trial_1	placebo	114	KG00098933	fevers	0.03374861925840378
+trial_1	placebo	102	KG00097916	anxieties	0.03272544592618942
+trial_1	placebo	126	KG00100076	Pain NOS	0.031917501240968704
+trial_1	placebo	14	KG00097852	Anemia NOS	0.030922072008252144
+trial_1	placebo	239	KG00100128	pareses	0.03023616038262844
+trial_1	placebo	234	KG00098669	dysgeusias	0.029287947341799736
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02914426103234291
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02907978929579258
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028794892132282257
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.028509508818387985
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02744877338409424
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026674291118979454
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026301110163331032
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.026264730840921402
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025529619306325912
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024658873677253723
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02428082935512066
+trial_1	placebo	262	KG00101199	agitation	0.023698175325989723
+trial_1	placebo	116	KG00098964	Pain in foot	0.023568928241729736
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02306215465068817
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.022500935941934586
+trial_1	placebo	5	KG00099169	haematuria	0.02165832184255123
+trial_1	placebo	4	KG00098817	epistaxis	0.02165522612631321
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021571408957242966
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021558742970228195
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.021463384851813316
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02140241302549839
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.020945845171809196
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.020461706444621086
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.020452281460165977
+trial_1	placebo	466	KG00101205	fall	0.020086664706468582
+trial_1	placebo	82	KG00097697	abdomen distended	0.020035285502672195
+trial_1	placebo	147	KG00098000	atelectases	0.01965699903666973
+trial_1	placebo	269	KG00100399	pyaemia	0.01958751678466797
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.019500821828842163
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019437456503510475
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019302574917674065
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.01864883117377758
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.018289996311068535
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.018281398341059685
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018269121646881104
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01815737411379814
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.0181089099496603
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.017209453508257866
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01712924800813198
+trial_1	placebo	441	KG00098262	cellulitis nos	0.016832638531923294
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016758494079113007
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01675458997488022
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01627313159406185
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.0161342341452837
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015827726572752
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.015807244926691055
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015650251880288124
+trial_1	placebo	121	KG00099190	haemorrhage	0.015511794947087765
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01540057361125946
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01523681078106165
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.014690038748085499
+trial_1	placebo	164	KG00108827	ileus colon	0.014680765569210052
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.014324596151709557
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014169907197356224
+trial_1	placebo	136	KG00101582	Dry;skin	0.014154124073684216
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.013976979069411755
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.013924477621912956
+trial_1	placebo	88	KG00099248	hiccups	0.013698100112378597
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013678304851055145
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.01361551322042942
+trial_2	prochlorperazine	87	KG00098599	diarrhoea	0.13325989246368408
+trial_2	prochlorperazine	9	KG00098432	Confusion NOS	0.12942777574062347
+trial_2	prochlorperazine	17	KG00097991	Asthenia NOS	0.12541262805461884
+trial_2	prochlorperazine	78	KG00099326	Hypertensive diseases	0.10553643107414246
+trial_2	prochlorperazine	77	KG00098450	Constipation NOS	0.10516365617513657
+trial_2	prochlorperazine	177	KG00099299	hyperglycaemia	0.08111913502216339
+trial_2	prochlorperazine	20	KG00098540	dehydration	0.07977306842803955
+trial_2	prochlorperazine	21	KG00098675	dyspnoea	0.07790569216012955
+trial_2	prochlorperazine	46	KG00099121	Headache NOS	0.07199893891811371
+trial_2	prochlorperazine	173	KG00098172	Bronchopneumonia NOS	0.07095752656459808
+trial_2	prochlorperazine	123	KG00099351	hypokalaemia	0.06257929652929306
+trial_2	prochlorperazine	49	KG00099902	nausea with vomiting	0.06196198612451553
+trial_2	prochlorperazine	180	KG00099363	Hypotension NOS	0.05760188773274422
+trial_2	prochlorperazine	79	KG00100317	Insomnia, Primary	0.05623987689614296
+trial_2	prochlorperazine	68	KG00099901	nauseas	0.05348704755306244
+trial_2	prochlorperazine	37	KG00097696	Cramps, Abdominal	0.05207936838269234
+trial_2	prochlorperazine	85	KG00098474	coughs	0.04838211089372635
+trial_2	prochlorperazine	151	KG00098274	Infarction, Cerebral	0.048098668456077576
+trial_2	prochlorperazine	66	KG00098642	drowsiness	0.04798491299152374
+trial_2	prochlorperazine	300	KG00101064	xerostomia	0.04568769782781601
+trial_2	prochlorperazine	67	KG00098673	Dyspepsia, NOS	0.045085515826940536
+trial_2	prochlorperazine	86	KG00098565	Depression, Mental	0.04478158801794052
+trial_2	prochlorperazine	104	KG00097963	arthralgias	0.04274877533316612
+trial_2	prochlorperazine	29	KG00099354	hyponatraemia	0.04151146858930588
+trial_2	prochlorperazine	242	KG00100855	tremors	0.03984474018216133
+trial_2	prochlorperazine	200	KG00098539	Disorders, Deglutition	0.03857772797346115
+trial_2	prochlorperazine	96	KG00101679	Unattended death NOS	0.03625566139817238
+trial_2	prochlorperazine	30	KG00099500	Acute Kidney Failure	0.035908978432416916
+trial_2	prochlorperazine	76	KG00100450	Respiratory insufficiency, NOS	0.03586964309215546
+trial_2	prochlorperazine	228	KG00114657	Weight below normal	0.03572016581892967
+trial_2	prochlorperazine	64	KG00097734	Acrodermatitis, NOS	0.0351903922855854
+trial_2	prochlorperazine	132	KG00101045	Gain, Weight	0.034937821328639984
+trial_2	prochlorperazine	36	KG00106434	Vision, Blurring Of	0.03467212989926338
+trial_2	prochlorperazine	189	KG00101580	Alanine aminotransferase increase	0.03426820784807205
+trial_2	prochlorperazine	114	KG00098933	fevers	0.03374861925840378
+trial_2	prochlorperazine	102	KG00097916	anxieties	0.03272544592618942
+trial_2	prochlorperazine	126	KG00100076	Pain NOS	0.031917501240968704
+trial_2	prochlorperazine	14	KG00097852	Anemia NOS	0.030922072008252144
+trial_2	prochlorperazine	239	KG00100128	pareses	0.03023616038262844
+trial_2	prochlorperazine	234	KG00098669	dysgeusias	0.029287947341799736
+trial_2	prochlorperazine	28	KG00099347	hypoglycaemia	0.02914426103234291
+trial_2	prochlorperazine	188	KG00101579	Aspartate aminotransferase increase	0.02907978929579258
+trial_2	prochlorperazine	18	KG00098307	Pain, Chest	0.028794892132282257
+trial_2	prochlorperazine	61	KG00099501	Chronic Kidney Failure	0.028509508818387985
+trial_2	prochlorperazine	350	KG00106765	decreased platelet count	0.02744877338409424
+trial_2	prochlorperazine	131	KG00100948	Urinary tract infection (& [NOS])	0.026674291118979454
+trial_2	prochlorperazine	396	KG00100373	Embolism, Pulmonary	0.026301110163331032
+trial_2	prochlorperazine	130	KG00100683	Stomatitis NOS	0.026264730840921402
+trial_2	prochlorperazine	69	KG00100082	Palpitations NOS	0.025529619306325912
+trial_2	prochlorperazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024658873677253723
+trial_2	prochlorperazine	101	KG00097901	Anorexia NOS	0.02428082935512066
+trial_2	prochlorperazine	262	KG00101199	agitation	0.023698175325989723
+trial_2	prochlorperazine	116	KG00098964	Pain in foot	0.023568928241729736
+trial_2	prochlorperazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02306215465068817
+trial_2	prochlorperazine	38	KG00098066	Binocular vision disorders	0.022500935941934586
+trial_2	prochlorperazine	5	KG00099169	haematuria	0.02165832184255123
+trial_2	prochlorperazine	4	KG00098817	epistaxis	0.02165522612631321
+trial_2	prochlorperazine	92	KG00100926	Infections, Upper Respiratory	0.021571408957242966
+trial_2	prochlorperazine	199	KG00098371	Rhinitis (chronic) NOS	0.021558742970228195
+trial_2	prochlorperazine	243	KG00100947	Micturition frequency increased	0.021463384851813316
+trial_2	prochlorperazine	122	KG00099321	Hypersensitivity NOS	0.02140241302549839
+trial_2	prochlorperazine	286	KG00101110	Retention, Urinary	0.020945845171809196
+trial_2	prochlorperazine	2	KG00100772	thrombocytopaenia	0.020461706444621086
+trial_2	prochlorperazine	35	KG00101507	hypomagnesaemia	0.020452281460165977
+trial_2	prochlorperazine	466	KG00101205	fall	0.020086664706468582
+trial_2	prochlorperazine	82	KG00097697	abdomen distended	0.020035285502672195
+trial_2	prochlorperazine	147	KG00098000	atelectases	0.01965699903666973
+trial_2	prochlorperazine	269	KG00100399	pyaemia	0.01958751678466797
+trial_2	prochlorperazine	179	KG00099342	hypocalcaemia	0.019500821828842163
+trial_2	prochlorperazine	361	KG00098004	Fibrillation, Atrial	0.019437456503510475
+trial_2	prochlorperazine	221	KG00101207	peripheral oedema	0.019302574917674065
+trial_2	prochlorperazine	170	KG00108926	Neutropenia, Febrile	0.01864883117377758
+trial_2	prochlorperazine	139	KG00098855	Sinusitis, Ethmoid	0.018289996311068535
+trial_2	prochlorperazine	261	KG00101559	raised alkaline phosphatase	0.018281398341059685
+trial_2	prochlorperazine	27	KG00099303	hyperkalaemia	0.018269121646881104
+trial_2	prochlorperazine	194	KG00110727	Neutrophil Count Decreased	0.01815737411379814
+trial_2	prochlorperazine	249	KG00104430	hypoalbuminaemia	0.0181089099496603
+trial_2	prochlorperazine	1	KG00099959	Neutropenia NOS	0.017209453508257866
+trial_2	prochlorperazine	75	KG00100195	Dolens, Phlegmasia Alba	0.01712924800813198
+trial_2	prochlorperazine	441	KG00098262	cellulitis nos	0.016832638531923294
+trial_2	prochlorperazine	204	KG00098849	Esophagitis, Peptic	0.016758494079113007
+trial_2	prochlorperazine	144	KG00099610	Leukopenia NOS	0.01675458997488022
+trial_2	prochlorperazine	138	KG00098796	epidemic vomiting syndrome	0.01627313159406185
+trial_2	prochlorperazine	118	KG00099011	Gastritis NOS	0.0161342341452837
+trial_2	prochlorperazine	15	KG00097882	Angina pectoris NOS	0.015827726572752
+trial_2	prochlorperazine	133	KG00101370	neuropathies sensory	0.015807244926691055
+trial_2	prochlorperazine	11	KG00097993	Asthma NOS	0.015650251880288124
+trial_2	prochlorperazine	121	KG00099190	haemorrhage	0.015511794947087765
+trial_2	prochlorperazine	31	KG00099872	Infarction, Myocardial	0.01540057361125946
+trial_2	prochlorperazine	191	KG00104055	Biliverdin increased	0.01523681078106165
+trial_2	prochlorperazine	163	KG00104050	bowel obstructions small	0.014690038748085499
+trial_2	prochlorperazine	164	KG00108827	ileus colon	0.014680765569210052
+trial_2	prochlorperazine	211	KG00100341	Pruritus NOS	0.014324596151709557
+trial_2	prochlorperazine	254	KG00100774	Thrombosis NOS	0.014169907197356224
+trial_2	prochlorperazine	136	KG00101582	Dry;skin	0.014154124073684216
+trial_2	prochlorperazine	89	KG00099301	Hyperhidrosis (disorder)	0.013976979069411755
+trial_2	prochlorperazine	195	KG00097814	Atopic Rhinitis	0.013924477621912956
+trial_2	prochlorperazine	88	KG00099248	hiccups	0.013698100112378597
+trial_2	prochlorperazine	98	KG00097718	Incised wound, NOS	0.013678304851055145
+trial_2	prochlorperazine	235	KG00098682	Dysuria NOS	0.01361551322042942

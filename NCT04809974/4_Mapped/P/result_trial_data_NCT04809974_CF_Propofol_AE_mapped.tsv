@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.056012943387031555
+trial_1	placebo	87	KG00098599	diarrhoea	0.05525900050997734
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04802994802594185
+trial_1	placebo	68	KG00099901	nauseas	0.045870039612054825
+trial_1	placebo	46	KG00099121	Headache NOS	0.044636763632297516
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.03587699308991432
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03545588254928589
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.034012991935014725
+trial_1	placebo	77	KG00098450	Constipation NOS	0.032078854739665985
+trial_1	placebo	123	KG00099351	hypokalaemia	0.032061617821455
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03155023232102394
+trial_1	placebo	21	KG00098675	dyspnoea	0.030536744743585587
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.026496414095163345
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02578118070960045
+trial_1	placebo	20	KG00098540	dehydration	0.02522149123251438
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0249656792730093
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.023786213248968124
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.022574545815587044
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.021070659160614014
+trial_1	placebo	114	KG00098933	fevers	0.020918697118759155
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.020723747089505196
+trial_1	placebo	126	KG00100076	Pain NOS	0.020416341722011566
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.01924898475408554
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.01889386773109436
+trial_1	placebo	14	KG00097852	Anemia NOS	0.018631668761372566
+trial_1	placebo	228	KG00114657	Weight below normal	0.01737266033887863
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.01704414375126362
+trial_1	placebo	234	KG00098669	dysgeusias	0.016611464321613312
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.016545919701457024
+trial_1	placebo	102	KG00097916	anxieties	0.016544818878173828
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.016340112313628197
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01605333760380745
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.015958409756422043
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015896132215857506
+trial_1	placebo	147	KG00098000	atelectases	0.015637870877981186
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.015025119297206402
+trial_1	placebo	5	KG00099169	haematuria	0.014654073864221573
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.014477056451141834
+trial_1	placebo	85	KG00098474	coughs	0.014322670176625252
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.013940823264420033
+trial_1	placebo	29	KG00099354	hyponatraemia	0.013907144777476788
+trial_1	placebo	18	KG00098307	Pain, Chest	0.013836151920258999
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01348771434277296
+trial_1	placebo	104	KG00097963	arthralgias	0.013459977693855762
+trial_1	placebo	121	KG00099190	haemorrhage	0.01324120070785284
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.013231348246335983
+trial_1	placebo	441	KG00098262	cellulitis nos	0.012474940158426762
+trial_1	placebo	66	KG00098642	drowsiness	0.012327161617577076
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01195326168090105
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.011916936375200748
+trial_1	placebo	269	KG00100399	pyaemia	0.01179099828004837
+trial_1	placebo	300	KG00101064	xerostomia	0.011771229095757008
+trial_1	placebo	72	KG00103771	myalgias	0.01148091908544302
+trial_1	placebo	4	KG00098817	epistaxis	0.01105421967804432
+trial_1	placebo	82	KG00097697	abdomen distended	0.010849072597920895
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.010782390832901001
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.010683129541575909
+trial_1	placebo	262	KG00101199	agitation	0.010499509051442146
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.010492748580873013
+trial_1	placebo	86	KG00098565	Depression, Mental	0.01040999311953783
+trial_1	placebo	221	KG00101207	peripheral oedema	0.010400120168924332
+trial_1	placebo	350	KG00106765	decreased platelet count	0.010387838818132877
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01031546387821436
+trial_1	placebo	466	KG00101205	fall	0.010166279040277004
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.009883289225399494
+trial_1	placebo	239	KG00100128	pareses	0.009560301899909973
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.009349060244858265
+trial_1	placebo	116	KG00098964	Pain in foot	0.0092754065990448
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.009069733321666718
+trial_1	placebo	242	KG00100855	tremors	0.009044722653925419
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.009041796438395977
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.009028876200318336
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.009014147333800793
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.009004960767924786
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.008960504084825516
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.008811213076114655
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.00871795043349266
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.008643650449812412
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.008618257008492947
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.008466185070574284
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.008312845602631569
+trial_1	placebo	11	KG00097993	Asthma NOS	0.008309492841362953
+trial_1	placebo	136	KG00101582	Dry;skin	0.008131232112646103
+trial_1	placebo	257	KG00100922	Erythema NOS	0.008092597126960754
+trial_1	placebo	164	KG00108827	ileus colon	0.00804660003632307
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.008031588047742844
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.007995547726750374
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.007928784005343914
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.007774920202791691
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.00760088674724102
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.007577890530228615
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.007528138812631369
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.007379511836916208
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.007244198117405176
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.0072340755723416805
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.00720711937174201
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.0071199554949998856
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.007103073876351118
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.007073319982737303
+trial_1	placebo	132	KG00101045	Gain, Weight	0.007057984825223684
+trial_2	propofol	9	KG00098432	Confusion NOS	0.056012943387031555
+trial_2	propofol	87	KG00098599	diarrhoea	0.05525900050997734
+trial_2	propofol	49	KG00099902	nausea with vomiting	0.04802994802594185
+trial_2	propofol	68	KG00099901	nauseas	0.045870039612054825
+trial_2	propofol	46	KG00099121	Headache NOS	0.044636763632297516
+trial_2	propofol	78	KG00099326	Hypertensive diseases	0.03587699308991432
+trial_2	propofol	17	KG00097991	Asthenia NOS	0.03545588254928589
+trial_2	propofol	173	KG00098172	Bronchopneumonia NOS	0.034012991935014725
+trial_2	propofol	77	KG00098450	Constipation NOS	0.032078854739665985
+trial_2	propofol	123	KG00099351	hypokalaemia	0.032061617821455
+trial_2	propofol	79	KG00100317	Insomnia, Primary	0.03155023232102394
+trial_2	propofol	21	KG00098675	dyspnoea	0.030536744743585587
+trial_2	propofol	177	KG00099299	hyperglycaemia	0.026496414095163345
+trial_2	propofol	180	KG00099363	Hypotension NOS	0.02578118070960045
+trial_2	propofol	20	KG00098540	dehydration	0.02522149123251438
+trial_2	propofol	64	KG00097734	Acrodermatitis, NOS	0.0249656792730093
+trial_2	propofol	37	KG00097696	Cramps, Abdominal	0.023786213248968124
+trial_2	propofol	101	KG00097901	Anorexia NOS	0.022574545815587044
+trial_2	propofol	67	KG00098673	Dyspepsia, NOS	0.021070659160614014
+trial_2	propofol	114	KG00098933	fevers	0.020918697118759155
+trial_2	propofol	151	KG00098274	Infarction, Cerebral	0.020723747089505196
+trial_2	propofol	126	KG00100076	Pain NOS	0.020416341722011566
+trial_2	propofol	76	KG00100450	Respiratory insufficiency, NOS	0.01924898475408554
+trial_2	propofol	96	KG00101679	Unattended death NOS	0.01889386773109436
+trial_2	propofol	14	KG00097852	Anemia NOS	0.018631668761372566
+trial_2	propofol	228	KG00114657	Weight below normal	0.01737266033887863
+trial_2	propofol	189	KG00101580	Alanine aminotransferase increase	0.01704414375126362
+trial_2	propofol	234	KG00098669	dysgeusias	0.016611464321613312
+trial_2	propofol	61	KG00099501	Chronic Kidney Failure	0.016545919701457024
+trial_2	propofol	102	KG00097916	anxieties	0.016544818878173828
+trial_2	propofol	200	KG00098539	Disorders, Deglutition	0.016340112313628197
+trial_2	propofol	69	KG00100082	Palpitations NOS	0.01605333760380745
+trial_2	propofol	396	KG00100373	Embolism, Pulmonary	0.015958409756422043
+trial_2	propofol	211	KG00100341	Pruritus NOS	0.015896132215857506
+trial_2	propofol	147	KG00098000	atelectases	0.015637870877981186
+trial_2	propofol	30	KG00099500	Acute Kidney Failure	0.015025119297206402
+trial_2	propofol	5	KG00099169	haematuria	0.014654073864221573
+trial_2	propofol	188	KG00101579	Aspartate aminotransferase increase	0.014477056451141834
+trial_2	propofol	85	KG00098474	coughs	0.014322670176625252
+trial_2	propofol	28	KG00099347	hypoglycaemia	0.013940823264420033
+trial_2	propofol	29	KG00099354	hyponatraemia	0.013907144777476788
+trial_2	propofol	18	KG00098307	Pain, Chest	0.013836151920258999
+trial_2	propofol	2	KG00100772	thrombocytopaenia	0.01348771434277296
+trial_2	propofol	104	KG00097963	arthralgias	0.013459977693855762
+trial_2	propofol	121	KG00099190	haemorrhage	0.01324120070785284
+trial_2	propofol	142	KG00100923	Unspecified infectious and parasitic diseases	0.013231348246335983
+trial_2	propofol	441	KG00098262	cellulitis nos	0.012474940158426762
+trial_2	propofol	66	KG00098642	drowsiness	0.012327161617577076
+trial_2	propofol	131	KG00100948	Urinary tract infection (& [NOS])	0.01195326168090105
+trial_2	propofol	361	KG00098004	Fibrillation, Atrial	0.011916936375200748
+trial_2	propofol	269	KG00100399	pyaemia	0.01179099828004837
+trial_2	propofol	300	KG00101064	xerostomia	0.011771229095757008
+trial_2	propofol	72	KG00103771	myalgias	0.01148091908544302
+trial_2	propofol	4	KG00098817	epistaxis	0.01105421967804432
+trial_2	propofol	82	KG00097697	abdomen distended	0.010849072597920895
+trial_2	propofol	38	KG00098066	Binocular vision disorders	0.010782390832901001
+trial_2	propofol	130	KG00100683	Stomatitis NOS	0.010683129541575909
+trial_2	propofol	262	KG00101199	agitation	0.010499509051442146
+trial_2	propofol	31	KG00099872	Infarction, Myocardial	0.010492748580873013
+trial_2	propofol	86	KG00098565	Depression, Mental	0.01040999311953783
+trial_2	propofol	221	KG00101207	peripheral oedema	0.010400120168924332
+trial_2	propofol	350	KG00106765	decreased platelet count	0.010387838818132877
+trial_2	propofol	75	KG00100195	Dolens, Phlegmasia Alba	0.01031546387821436
+trial_2	propofol	466	KG00101205	fall	0.010166279040277004
+trial_2	propofol	179	KG00099342	hypocalcaemia	0.009883289225399494
+trial_2	propofol	239	KG00100128	pareses	0.009560301899909973
+trial_2	propofol	122	KG00099321	Hypersensitivity NOS	0.009349060244858265
+trial_2	propofol	116	KG00098964	Pain in foot	0.0092754065990448
+trial_2	propofol	36	KG00106434	Vision, Blurring Of	0.009069733321666718
+trial_2	propofol	242	KG00100855	tremors	0.009044722653925419
+trial_2	propofol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.009041796438395977
+trial_2	propofol	261	KG00101559	raised alkaline phosphatase	0.009028876200318336
+trial_2	propofol	253	KG00100232	Pleural effusion NOS (disorder)	0.009014147333800793
+trial_2	propofol	286	KG00101110	Retention, Urinary	0.009004960767924786
+trial_2	propofol	191	KG00104055	Biliverdin increased	0.008960504084825516
+trial_2	propofol	276	KG00099127	Arrest, Cardiac	0.008811213076114655
+trial_2	propofol	249	KG00104430	hypoalbuminaemia	0.00871795043349266
+trial_2	propofol	243	KG00100947	Micturition frequency increased	0.008643650449812412
+trial_2	propofol	138	KG00098796	epidemic vomiting syndrome	0.008618257008492947
+trial_2	propofol	271	KG00103813	reflex bradycardia	0.008466185070574284
+trial_2	propofol	92	KG00100926	Infections, Upper Respiratory	0.008312845602631569
+trial_2	propofol	11	KG00097993	Asthma NOS	0.008309492841362953
+trial_2	propofol	136	KG00101582	Dry;skin	0.008131232112646103
+trial_2	propofol	257	KG00100922	Erythema NOS	0.008092597126960754
+trial_2	propofol	164	KG00108827	ileus colon	0.00804660003632307
+trial_2	propofol	15	KG00097882	Angina pectoris NOS	0.008031588047742844
+trial_2	propofol	94	KG00103829	abdominal discomfort	0.007995547726750374
+trial_2	propofol	27	KG00099303	hyperkalaemia	0.007928784005343914
+trial_2	propofol	422	KG00101429	Creatine phosphokinase increased	0.007774920202791691
+trial_2	propofol	199	KG00098371	Rhinitis (chronic) NOS	0.00760088674724102
+trial_2	propofol	22	KG00098705	Edema (NOS)	0.007577890530228615
+trial_2	propofol	139	KG00098855	Sinusitis, Ethmoid	0.007528138812631369
+trial_2	propofol	1	KG00099959	Neutropenia NOS	0.007379511836916208
+trial_2	propofol	35	KG00101507	hypomagnesaemia	0.007244198117405176
+trial_2	propofol	144	KG00099610	Leukopenia NOS	0.0072340755723416805
+trial_2	propofol	118	KG00099011	Gastritis NOS	0.00720711937174201
+trial_2	propofol	98	KG00097718	Incised wound, NOS	0.0071199554949998856
+trial_2	propofol	394	KG00100243	Pneumonia, Aspiration	0.007103073876351118
+trial_2	propofol	204	KG00098849	Esophagitis, Peptic	0.007073319982737303
+trial_2	propofol	132	KG00101045	Gain, Weight	0.007057984825223684

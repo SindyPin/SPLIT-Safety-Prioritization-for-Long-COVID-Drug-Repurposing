@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05502238869667053
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0444246381521225
+trial_1	placebo	87	KG00098599	diarrhoea	0.043779157102108
+trial_1	placebo	46	KG00099121	Headache NOS	0.04003381356596947
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.038147591054439545
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.032193586230278015
+trial_1	placebo	21	KG00098675	dyspnoea	0.031699322164058685
+trial_1	placebo	123	KG00099351	hypokalaemia	0.031612034887075424
+trial_1	placebo	77	KG00098450	Constipation NOS	0.030382297933101654
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03008529171347618
+trial_1	placebo	68	KG00099901	nauseas	0.02948673442006111
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.02683928608894348
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0268208347260952
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.02660827711224556
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02632317878305912
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.02613096684217453
+trial_1	placebo	20	KG00098540	dehydration	0.025436189025640488
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.025247294455766678
+trial_1	placebo	126	KG00100076	Pain NOS	0.021884165704250336
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.021854054182767868
+trial_1	placebo	114	KG00098933	fevers	0.02091996558010578
+trial_1	placebo	14	KG00097852	Anemia NOS	0.019974900409579277
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019534152001142502
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.019436422735452652
+trial_1	placebo	147	KG00098000	atelectases	0.019343571737408638
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.017762944102287292
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0175641980022192
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.016925787553191185
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01668652705848217
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.016378723084926605
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0160847008228302
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01597616821527481
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.015943709760904312
+trial_1	placebo	5	KG00099169	haematuria	0.0155085613951087
+trial_1	placebo	85	KG00098474	coughs	0.015464474447071552
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01543625257909298
+trial_1	placebo	234	KG00098669	dysgeusias	0.014974230900406837
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.014931282959878445
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01486184075474739
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.014836311340332031
+trial_1	placebo	29	KG00099354	hyponatraemia	0.014339354820549488
+trial_1	placebo	228	KG00114657	Weight below normal	0.014113428071141243
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01410160306841135
+trial_1	placebo	4	KG00098817	epistaxis	0.014083998277783394
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01402457244694233
+trial_1	placebo	102	KG00097916	anxieties	0.013952975161373615
+trial_1	placebo	269	KG00100399	pyaemia	0.013910827226936817
+trial_1	placebo	121	KG00099190	haemorrhage	0.013861926272511482
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.013837107457220554
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.013593609444797039
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.013587293215095997
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012758677825331688
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01267808023840189
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.012298544868826866
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.012293638661503792
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.012290379963815212
+trial_1	placebo	72	KG00103771	myalgias	0.012193340808153152
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01208637747913599
+trial_1	placebo	104	KG00097963	arthralgias	0.011875380761921406
+trial_1	placebo	257	KG00100922	Erythema NOS	0.011261277832090855
+trial_1	placebo	221	KG00101207	peripheral oedema	0.011244677938520908
+trial_1	placebo	86	KG00098565	Depression, Mental	0.011179222725331783
+trial_1	placebo	116	KG00098964	Pain in foot	0.011100756004452705
+trial_1	placebo	239	KG00100128	pareses	0.010453926399350166
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.010403251275420189
+trial_1	placebo	350	KG00106765	decreased platelet count	0.010305115021765232
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01006888598203659
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01006111316382885
+trial_1	placebo	136	KG00101582	Dry;skin	0.009771447628736496
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.009726353920996189
+trial_1	placebo	11	KG00097993	Asthma NOS	0.009591525420546532
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.009502640925347805
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.009473328478634357
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.00935546588152647
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.009326683357357979
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.009263518266379833
+trial_1	placebo	82	KG00097697	abdomen distended	0.009249100461602211
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.00911937840282917
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.009073677472770214
+trial_1	placebo	300	KG00101064	xerostomia	0.008772583678364754
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.008767920546233654
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.008560103364288807
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.008415655232965946
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.008389068767428398
+trial_1	placebo	164	KG00108827	ileus colon	0.008381305262446404
+trial_1	placebo	466	KG00101205	fall	0.00835038349032402
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.008299318142235279
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.00829374697059393
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.008291743695735931
+trial_1	placebo	212	KG00100576	shivers	0.008156622759997845
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.008070110343396664
+trial_1	placebo	282	KG00099309	hypernatraemia	0.008047354407608509
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.007988259196281433
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.007983450777828693
+trial_1	placebo	456	KG00099420	Influenzae	0.007796528749167919
+trial_1	placebo	25	KG00099134	congestive failures heart	0.007679111324250698
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.007603256963193417
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.007575369440019131
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.007458250038325787
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.007452413905411959
+trial_2	prilocaine	9	KG00098432	Confusion NOS	0.05502238869667053
+trial_2	prilocaine	78	KG00099326	Hypertensive diseases	0.0444246381521225
+trial_2	prilocaine	87	KG00098599	diarrhoea	0.043779157102108
+trial_2	prilocaine	46	KG00099121	Headache NOS	0.04003381356596947
+trial_2	prilocaine	173	KG00098172	Bronchopneumonia NOS	0.038147591054439545
+trial_2	prilocaine	49	KG00099902	nausea with vomiting	0.032193586230278015
+trial_2	prilocaine	21	KG00098675	dyspnoea	0.031699322164058685
+trial_2	prilocaine	123	KG00099351	hypokalaemia	0.031612034887075424
+trial_2	prilocaine	77	KG00098450	Constipation NOS	0.030382297933101654
+trial_2	prilocaine	17	KG00097991	Asthenia NOS	0.03008529171347618
+trial_2	prilocaine	68	KG00099901	nauseas	0.02948673442006111
+trial_2	prilocaine	64	KG00097734	Acrodermatitis, NOS	0.02683928608894348
+trial_2	prilocaine	180	KG00099363	Hypotension NOS	0.0268208347260952
+trial_2	prilocaine	37	KG00097696	Cramps, Abdominal	0.02660827711224556
+trial_2	prilocaine	79	KG00100317	Insomnia, Primary	0.02632317878305912
+trial_2	prilocaine	177	KG00099299	hyperglycaemia	0.02613096684217453
+trial_2	prilocaine	20	KG00098540	dehydration	0.025436189025640488
+trial_2	prilocaine	151	KG00098274	Infarction, Cerebral	0.025247294455766678
+trial_2	prilocaine	126	KG00100076	Pain NOS	0.021884165704250336
+trial_2	prilocaine	67	KG00098673	Dyspepsia, NOS	0.021854054182767868
+trial_2	prilocaine	114	KG00098933	fevers	0.02091996558010578
+trial_2	prilocaine	14	KG00097852	Anemia NOS	0.019974900409579277
+trial_2	prilocaine	396	KG00100373	Embolism, Pulmonary	0.019534152001142502
+trial_2	prilocaine	76	KG00100450	Respiratory insufficiency, NOS	0.019436422735452652
+trial_2	prilocaine	147	KG00098000	atelectases	0.019343571737408638
+trial_2	prilocaine	61	KG00099501	Chronic Kidney Failure	0.017762944102287292
+trial_2	prilocaine	200	KG00098539	Disorders, Deglutition	0.0175641980022192
+trial_2	prilocaine	189	KG00101580	Alanine aminotransferase increase	0.016925787553191185
+trial_2	prilocaine	69	KG00100082	Palpitations NOS	0.01668652705848217
+trial_2	prilocaine	101	KG00097901	Anorexia NOS	0.016378723084926605
+trial_2	prilocaine	30	KG00099500	Acute Kidney Failure	0.0160847008228302
+trial_2	prilocaine	441	KG00098262	cellulitis nos	0.01597616821527481
+trial_2	prilocaine	96	KG00101679	Unattended death NOS	0.015943709760904312
+trial_2	prilocaine	5	KG00099169	haematuria	0.0155085613951087
+trial_2	prilocaine	85	KG00098474	coughs	0.015464474447071552
+trial_2	prilocaine	2	KG00100772	thrombocytopaenia	0.01543625257909298
+trial_2	prilocaine	234	KG00098669	dysgeusias	0.014974230900406837
+trial_2	prilocaine	211	KG00100341	Pruritus NOS	0.014931282959878445
+trial_2	prilocaine	18	KG00098307	Pain, Chest	0.01486184075474739
+trial_2	prilocaine	188	KG00101579	Aspartate aminotransferase increase	0.014836311340332031
+trial_2	prilocaine	29	KG00099354	hyponatraemia	0.014339354820549488
+trial_2	prilocaine	228	KG00114657	Weight below normal	0.014113428071141243
+trial_2	prilocaine	361	KG00098004	Fibrillation, Atrial	0.01410160306841135
+trial_2	prilocaine	4	KG00098817	epistaxis	0.014083998277783394
+trial_2	prilocaine	122	KG00099321	Hypersensitivity NOS	0.01402457244694233
+trial_2	prilocaine	102	KG00097916	anxieties	0.013952975161373615
+trial_2	prilocaine	269	KG00100399	pyaemia	0.013910827226936817
+trial_2	prilocaine	121	KG00099190	haemorrhage	0.013861926272511482
+trial_2	prilocaine	142	KG00100923	Unspecified infectious and parasitic diseases	0.013837107457220554
+trial_2	prilocaine	131	KG00100948	Urinary tract infection (& [NOS])	0.013593609444797039
+trial_2	prilocaine	31	KG00099872	Infarction, Myocardial	0.013587293215095997
+trial_2	prilocaine	130	KG00100683	Stomatitis NOS	0.012758677825331688
+trial_2	prilocaine	75	KG00100195	Dolens, Phlegmasia Alba	0.01267808023840189
+trial_2	prilocaine	38	KG00098066	Binocular vision disorders	0.012298544868826866
+trial_2	prilocaine	28	KG00099347	hypoglycaemia	0.012293638661503792
+trial_2	prilocaine	276	KG00099127	Arrest, Cardiac	0.012290379963815212
+trial_2	prilocaine	72	KG00103771	myalgias	0.012193340808153152
+trial_2	prilocaine	36	KG00106434	Vision, Blurring Of	0.01208637747913599
+trial_2	prilocaine	104	KG00097963	arthralgias	0.011875380761921406
+trial_2	prilocaine	257	KG00100922	Erythema NOS	0.011261277832090855
+trial_2	prilocaine	221	KG00101207	peripheral oedema	0.011244677938520908
+trial_2	prilocaine	86	KG00098565	Depression, Mental	0.011179222725331783
+trial_2	prilocaine	116	KG00098964	Pain in foot	0.011100756004452705
+trial_2	prilocaine	239	KG00100128	pareses	0.010453926399350166
+trial_2	prilocaine	92	KG00100926	Infections, Upper Respiratory	0.010403251275420189
+trial_2	prilocaine	350	KG00106765	decreased platelet count	0.010305115021765232
+trial_2	prilocaine	179	KG00099342	hypocalcaemia	0.01006888598203659
+trial_2	prilocaine	139	KG00098855	Sinusitis, Ethmoid	0.01006111316382885
+trial_2	prilocaine	136	KG00101582	Dry;skin	0.009771447628736496
+trial_2	prilocaine	15	KG00097882	Angina pectoris NOS	0.009726353920996189
+trial_2	prilocaine	11	KG00097993	Asthma NOS	0.009591525420546532
+trial_2	prilocaine	243	KG00100947	Micturition frequency increased	0.009502640925347805
+trial_2	prilocaine	286	KG00101110	Retention, Urinary	0.009473328478634357
+trial_2	prilocaine	249	KG00104430	hypoalbuminaemia	0.00935546588152647
+trial_2	prilocaine	199	KG00098371	Rhinitis (chronic) NOS	0.009326683357357979
+trial_2	prilocaine	253	KG00100232	Pleural effusion NOS (disorder)	0.009263518266379833
+trial_2	prilocaine	82	KG00097697	abdomen distended	0.009249100461602211
+trial_2	prilocaine	27	KG00099303	hyperkalaemia	0.00911937840282917
+trial_2	prilocaine	271	KG00103813	reflex bradycardia	0.009073677472770214
+trial_2	prilocaine	300	KG00101064	xerostomia	0.008772583678364754
+trial_2	prilocaine	261	KG00101559	raised alkaline phosphatase	0.008767920546233654
+trial_2	prilocaine	202	KG00098630	Disturbance of Skin Sensation	0.008560103364288807
+trial_2	prilocaine	191	KG00104055	Biliverdin increased	0.008415655232965946
+trial_2	prilocaine	138	KG00098796	epidemic vomiting syndrome	0.008389068767428398
+trial_2	prilocaine	164	KG00108827	ileus colon	0.008381305262446404
+trial_2	prilocaine	466	KG00101205	fall	0.00835038349032402
+trial_2	prilocaine	195	KG00097814	Atopic Rhinitis	0.008299318142235279
+trial_2	prilocaine	22	KG00098705	Edema (NOS)	0.00829374697059393
+trial_2	prilocaine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.008291743695735931
+trial_2	prilocaine	212	KG00100576	shivers	0.008156622759997845
+trial_2	prilocaine	98	KG00097718	Incised wound, NOS	0.008070110343396664
+trial_2	prilocaine	282	KG00099309	hypernatraemia	0.008047354407608509
+trial_2	prilocaine	35	KG00101507	hypomagnesaemia	0.007988259196281433
+trial_2	prilocaine	204	KG00098849	Esophagitis, Peptic	0.007983450777828693
+trial_2	prilocaine	456	KG00099420	Influenzae	0.007796528749167919
+trial_2	prilocaine	25	KG00099134	congestive failures heart	0.007679111324250698
+trial_2	prilocaine	218	KG00100801	Tinnitus NOS	0.007603256963193417
+trial_2	prilocaine	94	KG00103829	abdominal discomfort	0.007575369440019131
+trial_2	prilocaine	40	KG00098092	Blepharoconjunctivitis NOS	0.007458250038325787
+trial_2	prilocaine	1	KG00099959	Neutropenia NOS	0.007452413905411959

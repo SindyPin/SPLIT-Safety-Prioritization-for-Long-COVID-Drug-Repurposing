@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13605235517024994
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12496266514062881
+trial_1	placebo	87	KG00098599	diarrhoea	0.1224081814289093
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10874077677726746
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09835035353899002
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08906375616788864
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08446329087018967
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08008825778961182
+trial_1	placebo	21	KG00098675	dyspnoea	0.07805640250444412
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07697447389364243
+trial_1	placebo	20	KG00098540	dehydration	0.06991852074861526
+trial_1	placebo	114	KG00098933	fevers	0.06022971495985985
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.058581557124853134
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05825866386294365
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05825277790427208
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05571388080716133
+trial_1	placebo	46	KG00099121	Headache NOS	0.05399394407868385
+trial_1	placebo	126	KG00100076	Pain NOS	0.051106445491313934
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05060778930783272
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04875371605157852
+trial_1	placebo	68	KG00099901	nauseas	0.04583887383341789
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04579077288508415
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.044274359941482544
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.043956268578767776
+trial_1	placebo	85	KG00098474	coughs	0.042964816093444824
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04260490462183952
+trial_1	placebo	228	KG00114657	Weight below normal	0.04245300590991974
+trial_1	placebo	239	KG00100128	pareses	0.042296990752220154
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04188971221446991
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04110332950949669
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04049327224493027
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03948240354657173
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.039301831275224686
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0391325019299984
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03871304914355278
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03859949856996536
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03852327540516853
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03805017098784447
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03778330236673355
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.0376586988568306
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03686611354351044
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.03658449649810791
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03644414246082306
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.035680271685123444
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.035478319972753525
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03413604944944382
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.033075012266635895
+trial_1	placebo	104	KG00097963	arthralgias	0.032902736216783524
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03264540061354637
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0325598269701004
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03225502744317055
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03218749910593033
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03214860334992409
+trial_1	placebo	5	KG00099169	haematuria	0.03163136914372444
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0313369557261467
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.031012726947665215
+trial_1	placebo	147	KG00098000	atelectases	0.030255069956183434
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.030050357803702354
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029945526272058487
+trial_1	placebo	72	KG00103771	myalgias	0.029665205627679825
+trial_1	placebo	269	KG00100399	pyaemia	0.02957741729915142
+trial_1	placebo	121	KG00099190	haemorrhage	0.02939768321812153
+trial_1	placebo	221	KG00101207	peripheral oedema	0.028586598113179207
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027896402403712273
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.027514109387993813
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027356218546628952
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.027031391859054565
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02692004106938839
+trial_1	placebo	116	KG00098964	Pain in foot	0.026087578386068344
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.025955114513635635
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02455534227192402
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02449776604771614
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02400996722280979
+trial_1	placebo	466	KG00101205	fall	0.023878473788499832
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02386116050183773
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0237650778144598
+trial_1	placebo	102	KG00097916	anxieties	0.023404669016599655
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02329236827790737
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02305472642183304
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0228568185120821
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022432707250118256
+trial_1	placebo	135	KG00101549	bone pain	0.02241232618689537
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021937120705842972
+trial_1	placebo	4	KG00098817	epistaxis	0.021756287664175034
+trial_1	placebo	234	KG00098669	dysgeusias	0.02158886380493641
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02144625037908554
+trial_1	placebo	154	KG00099686	Lymphopenias	0.021395398303866386
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021137529984116554
+trial_1	placebo	100	KG00097815	alopecias	0.020280135795474052
+trial_1	placebo	262	KG00101199	agitation	0.020082511007785797
+trial_1	placebo	82	KG00097697	abdomen distended	0.019661711528897285
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019265303388237953
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01915871910750866
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.019092930480837822
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.019033338874578476
+trial_1	placebo	212	KG00100576	shivers	0.018681636080145836
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018213223665952682
+trial_1	placebo	164	KG00108827	ileus colon	0.01786820776760578
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01784202642738819
+trial_1	placebo	390	KG00100095	pancytopenias	0.01775219663977623
+trial_2	prednisone	177	KG00099299	hyperglycaemia	0.13605235517024994
+trial_2	prednisone	173	KG00098172	Bronchopneumonia NOS	0.12496266514062881
+trial_2	prednisone	87	KG00098599	diarrhoea	0.1224081814289093
+trial_2	prednisone	17	KG00097991	Asthenia NOS	0.10874077677726746
+trial_2	prednisone	78	KG00099326	Hypertensive diseases	0.09835035353899002
+trial_2	prednisone	9	KG00098432	Confusion NOS	0.08906375616788864
+trial_2	prednisone	37	KG00097696	Cramps, Abdominal	0.08446329087018967
+trial_2	prednisone	14	KG00097852	Anemia NOS	0.08008825778961182
+trial_2	prednisone	21	KG00098675	dyspnoea	0.07805640250444412
+trial_2	prednisone	123	KG00099351	hypokalaemia	0.07697447389364243
+trial_2	prednisone	20	KG00098540	dehydration	0.06991852074861526
+trial_2	prednisone	114	KG00098933	fevers	0.06022971495985985
+trial_2	prednisone	64	KG00097734	Acrodermatitis, NOS	0.058581557124853134
+trial_2	prednisone	77	KG00098450	Constipation NOS	0.05825866386294365
+trial_2	prednisone	2	KG00100772	thrombocytopaenia	0.05825277790427208
+trial_2	prednisone	79	KG00100317	Insomnia, Primary	0.05571388080716133
+trial_2	prednisone	46	KG00099121	Headache NOS	0.05399394407868385
+trial_2	prednisone	126	KG00100076	Pain NOS	0.051106445491313934
+trial_2	prednisone	28	KG00099347	hypoglycaemia	0.05060778930783272
+trial_2	prednisone	200	KG00098539	Disorders, Deglutition	0.04875371605157852
+trial_2	prednisone	68	KG00099901	nauseas	0.04583887383341789
+trial_2	prednisone	180	KG00099363	Hypotension NOS	0.04579077288508415
+trial_2	prednisone	67	KG00098673	Dyspepsia, NOS	0.044274359941482544
+trial_2	prednisone	96	KG00101679	Unattended death NOS	0.043956268578767776
+trial_2	prednisone	85	KG00098474	coughs	0.042964816093444824
+trial_2	prednisone	86	KG00098565	Depression, Mental	0.04260490462183952
+trial_2	prednisone	228	KG00114657	Weight below normal	0.04245300590991974
+trial_2	prednisone	239	KG00100128	pareses	0.042296990752220154
+trial_2	prednisone	131	KG00100948	Urinary tract infection (& [NOS])	0.04188971221446991
+trial_2	prednisone	49	KG00099902	nausea with vomiting	0.04110332950949669
+trial_2	prednisone	38	KG00098066	Binocular vision disorders	0.04049327224493027
+trial_2	prednisone	142	KG00100923	Unspecified infectious and parasitic diseases	0.03948240354657173
+trial_2	prednisone	61	KG00099501	Chronic Kidney Failure	0.039301831275224686
+trial_2	prednisone	76	KG00100450	Respiratory insufficiency, NOS	0.0391325019299984
+trial_2	prednisone	179	KG00099342	hypocalcaemia	0.03871304914355278
+trial_2	prednisone	350	KG00106765	decreased platelet count	0.03859949856996536
+trial_2	prednisone	396	KG00100373	Embolism, Pulmonary	0.03852327540516853
+trial_2	prednisone	151	KG00098274	Infarction, Cerebral	0.03805017098784447
+trial_2	prednisone	189	KG00101580	Alanine aminotransferase increase	0.03778330236673355
+trial_2	prednisone	144	KG00099610	Leukopenia NOS	0.0376586988568306
+trial_2	prednisone	441	KG00098262	cellulitis nos	0.03686611354351044
+trial_2	prednisone	170	KG00108926	Neutropenia, Febrile	0.03658449649810791
+trial_2	prednisone	29	KG00099354	hyponatraemia	0.03644414246082306
+trial_2	prednisone	27	KG00099303	hyperkalaemia	0.035680271685123444
+trial_2	prednisone	1	KG00099959	Neutropenia NOS	0.035478319972753525
+trial_2	prednisone	133	KG00101370	neuropathies sensory	0.03413604944944382
+trial_2	prednisone	243	KG00100947	Micturition frequency increased	0.033075012266635895
+trial_2	prednisone	104	KG00097963	arthralgias	0.032902736216783524
+trial_2	prednisone	122	KG00099321	Hypersensitivity NOS	0.03264540061354637
+trial_2	prednisone	75	KG00100195	Dolens, Phlegmasia Alba	0.0325598269701004
+trial_2	prednisone	139	KG00098855	Sinusitis, Ethmoid	0.03225502744317055
+trial_2	prednisone	69	KG00100082	Palpitations NOS	0.03218749910593033
+trial_2	prednisone	101	KG00097901	Anorexia NOS	0.03214860334992409
+trial_2	prednisone	5	KG00099169	haematuria	0.03163136914372444
+trial_2	prednisone	132	KG00101045	Gain, Weight	0.0313369557261467
+trial_2	prednisone	92	KG00100926	Infections, Upper Respiratory	0.031012726947665215
+trial_2	prednisone	147	KG00098000	atelectases	0.030255069956183434
+trial_2	prednisone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.030050357803702354
+trial_2	prednisone	30	KG00099500	Acute Kidney Failure	0.029945526272058487
+trial_2	prednisone	72	KG00103771	myalgias	0.029665205627679825
+trial_2	prednisone	269	KG00100399	pyaemia	0.02957741729915142
+trial_2	prednisone	121	KG00099190	haemorrhage	0.02939768321812153
+trial_2	prednisone	221	KG00101207	peripheral oedema	0.028586598113179207
+trial_2	prednisone	194	KG00110727	Neutrophil Count Decreased	0.027896402403712273
+trial_2	prednisone	138	KG00098796	epidemic vomiting syndrome	0.027514109387993813
+trial_2	prednisone	249	KG00104430	hypoalbuminaemia	0.027356218546628952
+trial_2	prednisone	188	KG00101579	Aspartate aminotransferase increase	0.027031391859054565
+trial_2	prednisone	35	KG00101507	hypomagnesaemia	0.02692004106938839
+trial_2	prednisone	116	KG00098964	Pain in foot	0.026087578386068344
+trial_2	prednisone	288	KG00101223	hypophosphataemia	0.025955114513635635
+trial_2	prednisone	361	KG00098004	Fibrillation, Atrial	0.02455534227192402
+trial_2	prednisone	276	KG00099127	Arrest, Cardiac	0.02449776604771614
+trial_2	prednisone	18	KG00098307	Pain, Chest	0.02400996722280979
+trial_2	prednisone	466	KG00101205	fall	0.023878473788499832
+trial_2	prednisone	253	KG00100232	Pleural effusion NOS (disorder)	0.02386116050183773
+trial_2	prednisone	261	KG00101559	raised alkaline phosphatase	0.0237650778144598
+trial_2	prednisone	102	KG00097916	anxieties	0.023404669016599655
+trial_2	prednisone	356	KG00112623	Infectious Lung Disorders	0.02329236827790737
+trial_2	prednisone	36	KG00106434	Vision, Blurring Of	0.02305472642183304
+trial_2	prednisone	22	KG00098705	Edema (NOS)	0.0228568185120821
+trial_2	prednisone	130	KG00100683	Stomatitis NOS	0.022432707250118256
+trial_2	prednisone	135	KG00101549	bone pain	0.02241232618689537
+trial_2	prednisone	355	KG00110857	lymphocyte count decreased	0.021937120705842972
+trial_2	prednisone	4	KG00098817	epistaxis	0.021756287664175034
+trial_2	prednisone	234	KG00098669	dysgeusias	0.02158886380493641
+trial_2	prednisone	254	KG00100774	Thrombosis NOS	0.02144625037908554
+trial_2	prednisone	154	KG00099686	Lymphopenias	0.021395398303866386
+trial_2	prednisone	204	KG00098849	Esophagitis, Peptic	0.021137529984116554
+trial_2	prednisone	100	KG00097815	alopecias	0.020280135795474052
+trial_2	prednisone	262	KG00101199	agitation	0.020082511007785797
+trial_2	prednisone	82	KG00097697	abdomen distended	0.019661711528897285
+trial_2	prednisone	286	KG00101110	Retention, Urinary	0.019265303388237953
+trial_2	prednisone	11	KG00097993	Asthma NOS	0.01915871910750866
+trial_2	prednisone	268	KG00099557	Heart Failure, Left-Sided	0.019092930480837822
+trial_2	prednisone	166	KG00099773	menopausal syndrome	0.019033338874578476
+trial_2	prednisone	212	KG00100576	shivers	0.018681636080145836
+trial_2	prednisone	118	KG00099011	Gastritis NOS	0.018213223665952682
+trial_2	prednisone	164	KG00108827	ileus colon	0.01786820776760578
+trial_2	prednisone	163	KG00104050	bowel obstructions small	0.01784202642738819
+trial_2	prednisone	390	KG00100095	pancytopenias	0.01775219663977623

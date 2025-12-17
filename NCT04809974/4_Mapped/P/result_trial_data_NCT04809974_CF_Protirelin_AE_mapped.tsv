@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15608666837215424
+trial_1	placebo	87	KG00098599	diarrhoea	0.1336238831281662
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12915003299713135
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10657212883234024
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10569223016500473
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10369361937046051
+trial_1	placebo	46	KG00099121	Headache NOS	0.10180845856666565
+trial_1	placebo	68	KG00099901	nauseas	0.09589949995279312
+trial_1	placebo	21	KG00098675	dyspnoea	0.09156050533056259
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09004547446966171
+trial_1	placebo	20	KG00098540	dehydration	0.0861106663942337
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08311974257230759
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08301100879907608
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08296412229537964
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07484684139490128
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07358291000127792
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07035672664642334
+trial_1	placebo	228	KG00114657	Weight below normal	0.062321607023477554
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06103179231286049
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.060791052877902985
+trial_1	placebo	114	KG00098933	fevers	0.05860177055001259
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.058375343680381775
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05794214457273483
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05750652402639389
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05669223144650459
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05293549969792366
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0529245026409626
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05226526036858559
+trial_1	placebo	126	KG00100076	Pain NOS	0.05146108940243721
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04975105822086334
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04860452935099602
+trial_1	placebo	85	KG00098474	coughs	0.047115508466959
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04702325165271759
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04607574641704559
+trial_1	placebo	147	KG00098000	atelectases	0.04575169458985329
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04478224739432335
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04476121440529823
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04462340846657753
+trial_1	placebo	239	KG00100128	pareses	0.04364485293626785
+trial_1	placebo	86	KG00098565	Depression, Mental	0.043362416326999664
+trial_1	placebo	104	KG00097963	arthralgias	0.04218415915966034
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.042181652039289474
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.041801296174526215
+trial_1	placebo	5	KG00099169	haematuria	0.04176471009850502
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0408732146024704
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.040569692850112915
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04048192873597145
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04004202410578728
+trial_1	placebo	102	KG00097916	anxieties	0.03793254867196083
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03744819015264511
+trial_1	placebo	82	KG00097697	abdomen distended	0.03691026195883751
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03664901480078697
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03639819100499153
+trial_1	placebo	164	KG00108827	ileus colon	0.036250390112400055
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03611886873841286
+trial_1	placebo	72	KG00103771	myalgias	0.034917183220386505
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0344364158809185
+trial_1	placebo	234	KG00098669	dysgeusias	0.034336887300014496
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03409088775515556
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03356902673840523
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.033061716705560684
+trial_1	placebo	269	KG00100399	pyaemia	0.03287338837981224
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03271275386214256
+trial_1	placebo	262	KG00101199	agitation	0.03267933055758476
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.032336968928575516
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.032007891684770584
+trial_1	placebo	116	KG00098964	Pain in foot	0.03163311630487442
+trial_1	placebo	121	KG00099190	haemorrhage	0.03026471845805645
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.030132533982396126
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02967425063252449
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.028833169490098953
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02870260551571846
+trial_1	placebo	212	KG00100576	shivers	0.028276998549699783
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02796073444187641
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027746036648750305
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.027738679200410843
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02753598429262638
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.027454718947410583
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.026524873450398445
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025987297296524048
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.025628812611103058
+trial_1	placebo	466	KG00101205	fall	0.025237275287508965
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02513836696743965
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02462483011186123
+trial_1	placebo	186	KG00101431	creatinine increased	0.0244063138961792
+trial_1	placebo	132	KG00101045	Gain, Weight	0.024376019835472107
+trial_1	placebo	153	KG00099579	lethargy	0.024274364113807678
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02418264001607895
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02406788058578968
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.023901382461190224
+trial_1	placebo	454	KG00098286	Pain, Neck	0.0235967468470335
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02358424663543701
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.023565487936139107
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.023420942947268486
+trial_1	placebo	11	KG00097993	Asthma NOS	0.023407313972711563
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.023289982229471207
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0231829434633255
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.023150969296693802
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.023097800090909004
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02265830896794796
+trial_2	protirelin	78	KG00099326	Hypertensive diseases	0.15608666837215424
+trial_2	protirelin	87	KG00098599	diarrhoea	0.1336238831281662
+trial_2	protirelin	177	KG00099299	hyperglycaemia	0.12915003299713135
+trial_2	protirelin	17	KG00097991	Asthenia NOS	0.10657212883234024
+trial_2	protirelin	123	KG00099351	hypokalaemia	0.10569223016500473
+trial_2	protirelin	9	KG00098432	Confusion NOS	0.10369361937046051
+trial_2	protirelin	46	KG00099121	Headache NOS	0.10180845856666565
+trial_2	protirelin	68	KG00099901	nauseas	0.09589949995279312
+trial_2	protirelin	21	KG00098675	dyspnoea	0.09156050533056259
+trial_2	protirelin	37	KG00097696	Cramps, Abdominal	0.09004547446966171
+trial_2	protirelin	20	KG00098540	dehydration	0.0861106663942337
+trial_2	protirelin	173	KG00098172	Bronchopneumonia NOS	0.08311974257230759
+trial_2	protirelin	77	KG00098450	Constipation NOS	0.08301100879907608
+trial_2	protirelin	79	KG00100317	Insomnia, Primary	0.08296412229537964
+trial_2	protirelin	14	KG00097852	Anemia NOS	0.07484684139490128
+trial_2	protirelin	49	KG00099902	nausea with vomiting	0.07358291000127792
+trial_2	protirelin	200	KG00098539	Disorders, Deglutition	0.07035672664642334
+trial_2	protirelin	228	KG00114657	Weight below normal	0.062321607023477554
+trial_2	protirelin	67	KG00098673	Dyspepsia, NOS	0.06103179231286049
+trial_2	protirelin	2	KG00100772	thrombocytopaenia	0.060791052877902985
+trial_2	protirelin	114	KG00098933	fevers	0.05860177055001259
+trial_2	protirelin	180	KG00099363	Hypotension NOS	0.058375343680381775
+trial_2	protirelin	29	KG00099354	hyponatraemia	0.05794214457273483
+trial_2	protirelin	101	KG00097901	Anorexia NOS	0.05750652402639389
+trial_2	protirelin	350	KG00106765	decreased platelet count	0.05669223144650459
+trial_2	protirelin	243	KG00100947	Micturition frequency increased	0.05293549969792366
+trial_2	protirelin	76	KG00100450	Respiratory insufficiency, NOS	0.0529245026409626
+trial_2	protirelin	64	KG00097734	Acrodermatitis, NOS	0.05226526036858559
+trial_2	protirelin	126	KG00100076	Pain NOS	0.05146108940243721
+trial_2	protirelin	28	KG00099347	hypoglycaemia	0.04975105822086334
+trial_2	protirelin	189	KG00101580	Alanine aminotransferase increase	0.04860452935099602
+trial_2	protirelin	85	KG00098474	coughs	0.047115508466959
+trial_2	protirelin	61	KG00099501	Chronic Kidney Failure	0.04702325165271759
+trial_2	protirelin	179	KG00099342	hypocalcaemia	0.04607574641704559
+trial_2	protirelin	147	KG00098000	atelectases	0.04575169458985329
+trial_2	protirelin	188	KG00101579	Aspartate aminotransferase increase	0.04478224739432335
+trial_2	protirelin	122	KG00099321	Hypersensitivity NOS	0.04476121440529823
+trial_2	protirelin	27	KG00099303	hyperkalaemia	0.04462340846657753
+trial_2	protirelin	239	KG00100128	pareses	0.04364485293626785
+trial_2	protirelin	86	KG00098565	Depression, Mental	0.043362416326999664
+trial_2	protirelin	104	KG00097963	arthralgias	0.04218415915966034
+trial_2	protirelin	276	KG00099127	Arrest, Cardiac	0.042181652039289474
+trial_2	protirelin	151	KG00098274	Infarction, Cerebral	0.041801296174526215
+trial_2	protirelin	5	KG00099169	haematuria	0.04176471009850502
+trial_2	protirelin	131	KG00100948	Urinary tract infection (& [NOS])	0.0408732146024704
+trial_2	protirelin	69	KG00100082	Palpitations NOS	0.040569692850112915
+trial_2	protirelin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04048192873597145
+trial_2	protirelin	96	KG00101679	Unattended death NOS	0.04004202410578728
+trial_2	protirelin	102	KG00097916	anxieties	0.03793254867196083
+trial_2	protirelin	30	KG00099500	Acute Kidney Failure	0.03744819015264511
+trial_2	protirelin	82	KG00097697	abdomen distended	0.03691026195883751
+trial_2	protirelin	139	KG00098855	Sinusitis, Ethmoid	0.03664901480078697
+trial_2	protirelin	166	KG00099773	menopausal syndrome	0.03639819100499153
+trial_2	protirelin	164	KG00108827	ileus colon	0.036250390112400055
+trial_2	protirelin	18	KG00098307	Pain, Chest	0.03611886873841286
+trial_2	protirelin	72	KG00103771	myalgias	0.034917183220386505
+trial_2	protirelin	38	KG00098066	Binocular vision disorders	0.0344364158809185
+trial_2	protirelin	234	KG00098669	dysgeusias	0.034336887300014496
+trial_2	protirelin	282	KG00099309	hypernatraemia	0.03409088775515556
+trial_2	protirelin	194	KG00110727	Neutrophil Count Decreased	0.03356902673840523
+trial_2	protirelin	144	KG00099610	Leukopenia NOS	0.033061716705560684
+trial_2	protirelin	269	KG00100399	pyaemia	0.03287338837981224
+trial_2	protirelin	396	KG00100373	Embolism, Pulmonary	0.03271275386214256
+trial_2	protirelin	262	KG00101199	agitation	0.03267933055758476
+trial_2	protirelin	142	KG00100923	Unspecified infectious and parasitic diseases	0.032336968928575516
+trial_2	protirelin	355	KG00110857	lymphocyte count decreased	0.032007891684770584
+trial_2	protirelin	116	KG00098964	Pain in foot	0.03163311630487442
+trial_2	protirelin	121	KG00099190	haemorrhage	0.03026471845805645
+trial_2	protirelin	249	KG00104430	hypoalbuminaemia	0.030132533982396126
+trial_2	protirelin	92	KG00100926	Infections, Upper Respiratory	0.02967425063252449
+trial_2	protirelin	35	KG00101507	hypomagnesaemia	0.028833169490098953
+trial_2	protirelin	75	KG00100195	Dolens, Phlegmasia Alba	0.02870260551571846
+trial_2	protirelin	212	KG00100576	shivers	0.028276998549699783
+trial_2	protirelin	253	KG00100232	Pleural effusion NOS (disorder)	0.02796073444187641
+trial_2	protirelin	441	KG00098262	cellulitis nos	0.027746036648750305
+trial_2	protirelin	31	KG00099872	Infarction, Myocardial	0.027738679200410843
+trial_2	protirelin	361	KG00098004	Fibrillation, Atrial	0.02753598429262638
+trial_2	protirelin	261	KG00101559	raised alkaline phosphatase	0.027454718947410583
+trial_2	protirelin	288	KG00101223	hypophosphataemia	0.026524873450398445
+trial_2	protirelin	1	KG00099959	Neutropenia NOS	0.025987297296524048
+trial_2	protirelin	211	KG00100341	Pruritus NOS	0.025628812611103058
+trial_2	protirelin	466	KG00101205	fall	0.025237275287508965
+trial_2	protirelin	36	KG00106434	Vision, Blurring Of	0.02513836696743965
+trial_2	protirelin	130	KG00100683	Stomatitis NOS	0.02462483011186123
+trial_2	protirelin	186	KG00101431	creatinine increased	0.0244063138961792
+trial_2	protirelin	132	KG00101045	Gain, Weight	0.024376019835472107
+trial_2	protirelin	153	KG00099579	lethargy	0.024274364113807678
+trial_2	protirelin	508	KG00108565	blood glucose increased	0.02418264001607895
+trial_2	protirelin	286	KG00101110	Retention, Urinary	0.02406788058578968
+trial_2	protirelin	256	KG00100738	Tachycardia, Sinus	0.023901382461190224
+trial_2	protirelin	454	KG00098286	Pain, Neck	0.0235967468470335
+trial_2	protirelin	133	KG00101370	neuropathies sensory	0.02358424663543701
+trial_2	protirelin	204	KG00098849	Esophagitis, Peptic	0.023565487936139107
+trial_2	protirelin	22	KG00098705	Edema (NOS)	0.023420942947268486
+trial_2	protirelin	11	KG00097993	Asthma NOS	0.023407313972711563
+trial_2	protirelin	89	KG00099301	Hyperhidrosis (disorder)	0.023289982229471207
+trial_2	protirelin	154	KG00099686	Lymphopenias	0.0231829434633255
+trial_2	protirelin	163	KG00104050	bowel obstructions small	0.023150969296693802
+trial_2	protirelin	254	KG00100774	Thrombosis NOS	0.023097800090909004
+trial_2	protirelin	268	KG00099557	Heart Failure, Left-Sided	0.02265830896794796

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1382162719964981
+trial_1	placebo	87	KG00098599	diarrhoea	0.12370908260345459
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10882431268692017
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09809879213571548
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09344937652349472
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08901892602443695
+trial_1	placebo	20	KG00098540	dehydration	0.0860590785741806
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08021239191293716
+trial_1	placebo	21	KG00098675	dyspnoea	0.07466533035039902
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07342679053544998
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07119427621364594
+trial_1	placebo	68	KG00099901	nauseas	0.0710076317191124
+trial_1	placebo	46	KG00099121	Headache NOS	0.07060135900974274
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06922010332345963
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06592217087745667
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05797898769378662
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05399248003959656
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05293300747871399
+trial_1	placebo	86	KG00098565	Depression, Mental	0.052823424339294434
+trial_1	placebo	85	KG00098474	coughs	0.05250644311308861
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05093834549188614
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04974472522735596
+trial_1	placebo	228	KG00114657	Weight below normal	0.04961145296692848
+trial_1	placebo	29	KG00099354	hyponatraemia	0.049105096608400345
+trial_1	placebo	104	KG00097963	arthralgias	0.048411961644887924
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04799657687544823
+trial_1	placebo	114	KG00098933	fevers	0.045931559056043625
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04505843296647072
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0448279082775116
+trial_1	placebo	126	KG00100076	Pain NOS	0.04207450523972511
+trial_1	placebo	239	KG00100128	pareses	0.04119173064827919
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.039407432079315186
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03919229656457901
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03865524008870125
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03825082257390022
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03763579949736595
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0372060127556324
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03681456670165062
+trial_1	placebo	102	KG00097916	anxieties	0.0362561009824276
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03599587827920914
+trial_1	placebo	5	KG00099169	haematuria	0.035564124584198
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03393034264445305
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03382277488708496
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03313104063272476
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.033016350120306015
+trial_1	placebo	262	KG00101199	agitation	0.032437440007925034
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0323372446000576
+trial_1	placebo	300	KG00101064	xerostomia	0.03221036493778229
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03193186596035957
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0311498511582613
+trial_1	placebo	466	KG00101205	fall	0.0306380782276392
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0304041039198637
+trial_1	placebo	66	KG00098642	drowsiness	0.030378418043255806
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.030179712921380997
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029625611379742622
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.028911182656884193
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028111614286899567
+trial_1	placebo	147	KG00098000	atelectases	0.027726072818040848
+trial_1	placebo	164	KG00108827	ileus colon	0.027693700045347214
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02753644436597824
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.026717081665992737
+trial_1	placebo	116	KG00098964	Pain in foot	0.02657942846417427
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026523752138018608
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02597746253013611
+trial_1	placebo	242	KG00100855	tremors	0.025839727371931076
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025665370747447014
+trial_1	placebo	72	KG00103771	myalgias	0.02534966729581356
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.025295279920101166
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.024920931085944176
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.024726754054427147
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.023982953280210495
+trial_1	placebo	269	KG00100399	pyaemia	0.02381979674100876
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023559296503663063
+trial_1	placebo	82	KG00097697	abdomen distended	0.023400846868753433
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022948862984776497
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022647488862276077
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02254680171608925
+trial_1	placebo	456	KG00099420	Influenzae	0.02236131578683853
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022039446979761124
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02183852158486843
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02173924632370472
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02173909731209278
+trial_1	placebo	153	KG00099579	lethargy	0.02152906358242035
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02142184227705002
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021416684612631798
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02121579274535179
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021152561530470848
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02110394835472107
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02038981020450592
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020369919016957283
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.020342053845524788
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020337816327810287
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020306473597884178
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02014339528977871
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01995272934436798
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.019860588014125824
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01984803006052971
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019839033484458923
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01966954953968525
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01963420771062374
+trial_2	procyclidine	78	KG00099326	Hypertensive diseases	0.1382162719964981
+trial_2	procyclidine	87	KG00098599	diarrhoea	0.12370908260345459
+trial_2	procyclidine	17	KG00097991	Asthenia NOS	0.10882431268692017
+trial_2	procyclidine	9	KG00098432	Confusion NOS	0.09809879213571548
+trial_2	procyclidine	177	KG00099299	hyperglycaemia	0.09344937652349472
+trial_2	procyclidine	173	KG00098172	Bronchopneumonia NOS	0.08901892602443695
+trial_2	procyclidine	20	KG00098540	dehydration	0.0860590785741806
+trial_2	procyclidine	77	KG00098450	Constipation NOS	0.08021239191293716
+trial_2	procyclidine	21	KG00098675	dyspnoea	0.07466533035039902
+trial_2	procyclidine	123	KG00099351	hypokalaemia	0.07342679053544998
+trial_2	procyclidine	49	KG00099902	nausea with vomiting	0.07119427621364594
+trial_2	procyclidine	68	KG00099901	nauseas	0.0710076317191124
+trial_2	procyclidine	46	KG00099121	Headache NOS	0.07060135900974274
+trial_2	procyclidine	79	KG00100317	Insomnia, Primary	0.06922010332345963
+trial_2	procyclidine	189	KG00101580	Alanine aminotransferase increase	0.06592217087745667
+trial_2	procyclidine	188	KG00101579	Aspartate aminotransferase increase	0.05797898769378662
+trial_2	procyclidine	200	KG00098539	Disorders, Deglutition	0.05399248003959656
+trial_2	procyclidine	37	KG00097696	Cramps, Abdominal	0.05293300747871399
+trial_2	procyclidine	86	KG00098565	Depression, Mental	0.052823424339294434
+trial_2	procyclidine	85	KG00098474	coughs	0.05250644311308861
+trial_2	procyclidine	67	KG00098673	Dyspepsia, NOS	0.05093834549188614
+trial_2	procyclidine	151	KG00098274	Infarction, Cerebral	0.04974472522735596
+trial_2	procyclidine	228	KG00114657	Weight below normal	0.04961145296692848
+trial_2	procyclidine	29	KG00099354	hyponatraemia	0.049105096608400345
+trial_2	procyclidine	104	KG00097963	arthralgias	0.048411961644887924
+trial_2	procyclidine	64	KG00097734	Acrodermatitis, NOS	0.04799657687544823
+trial_2	procyclidine	114	KG00098933	fevers	0.045931559056043625
+trial_2	procyclidine	14	KG00097852	Anemia NOS	0.04505843296647072
+trial_2	procyclidine	180	KG00099363	Hypotension NOS	0.0448279082775116
+trial_2	procyclidine	126	KG00100076	Pain NOS	0.04207450523972511
+trial_2	procyclidine	239	KG00100128	pareses	0.04119173064827919
+trial_2	procyclidine	30	KG00099500	Acute Kidney Failure	0.039407432079315186
+trial_2	procyclidine	350	KG00106765	decreased platelet count	0.03919229656457901
+trial_2	procyclidine	132	KG00101045	Gain, Weight	0.03865524008870125
+trial_2	procyclidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03825082257390022
+trial_2	procyclidine	61	KG00099501	Chronic Kidney Failure	0.03763579949736595
+trial_2	procyclidine	76	KG00100450	Respiratory insufficiency, NOS	0.0372060127556324
+trial_2	procyclidine	96	KG00101679	Unattended death NOS	0.03681456670165062
+trial_2	procyclidine	102	KG00097916	anxieties	0.0362561009824276
+trial_2	procyclidine	131	KG00100948	Urinary tract infection (& [NOS])	0.03599587827920914
+trial_2	procyclidine	5	KG00099169	haematuria	0.035564124584198
+trial_2	procyclidine	122	KG00099321	Hypersensitivity NOS	0.03393034264445305
+trial_2	procyclidine	243	KG00100947	Micturition frequency increased	0.03382277488708496
+trial_2	procyclidine	2	KG00100772	thrombocytopaenia	0.03313104063272476
+trial_2	procyclidine	28	KG00099347	hypoglycaemia	0.033016350120306015
+trial_2	procyclidine	262	KG00101199	agitation	0.032437440007925034
+trial_2	procyclidine	101	KG00097901	Anorexia NOS	0.0323372446000576
+trial_2	procyclidine	300	KG00101064	xerostomia	0.03221036493778229
+trial_2	procyclidine	396	KG00100373	Embolism, Pulmonary	0.03193186596035957
+trial_2	procyclidine	38	KG00098066	Binocular vision disorders	0.0311498511582613
+trial_2	procyclidine	466	KG00101205	fall	0.0306380782276392
+trial_2	procyclidine	179	KG00099342	hypocalcaemia	0.0304041039198637
+trial_2	procyclidine	66	KG00098642	drowsiness	0.030378418043255806
+trial_2	procyclidine	261	KG00101559	raised alkaline phosphatase	0.030179712921380997
+trial_2	procyclidine	18	KG00098307	Pain, Chest	0.029625611379742622
+trial_2	procyclidine	139	KG00098855	Sinusitis, Ethmoid	0.028911182656884193
+trial_2	procyclidine	27	KG00099303	hyperkalaemia	0.028111614286899567
+trial_2	procyclidine	147	KG00098000	atelectases	0.027726072818040848
+trial_2	procyclidine	164	KG00108827	ileus colon	0.027693700045347214
+trial_2	procyclidine	36	KG00106434	Vision, Blurring Of	0.02753644436597824
+trial_2	procyclidine	422	KG00101429	Creatine phosphokinase increased	0.026717081665992737
+trial_2	procyclidine	116	KG00098964	Pain in foot	0.02657942846417427
+trial_2	procyclidine	276	KG00099127	Arrest, Cardiac	0.026523752138018608
+trial_2	procyclidine	341	KG00101472	Gamma-glutamyltransferase increased	0.02597746253013611
+trial_2	procyclidine	242	KG00100855	tremors	0.025839727371931076
+trial_2	procyclidine	92	KG00100926	Infections, Upper Respiratory	0.025665370747447014
+trial_2	procyclidine	72	KG00103771	myalgias	0.02534966729581356
+trial_2	procyclidine	199	KG00098371	Rhinitis (chronic) NOS	0.025295279920101166
+trial_2	procyclidine	194	KG00110727	Neutrophil Count Decreased	0.024920931085944176
+trial_2	procyclidine	286	KG00101110	Retention, Urinary	0.024726754054427147
+trial_2	procyclidine	394	KG00100243	Pneumonia, Aspiration	0.023982953280210495
+trial_2	procyclidine	269	KG00100399	pyaemia	0.02381979674100876
+trial_2	procyclidine	69	KG00100082	Palpitations NOS	0.023559296503663063
+trial_2	procyclidine	82	KG00097697	abdomen distended	0.023400846868753433
+trial_2	procyclidine	142	KG00100923	Unspecified infectious and parasitic diseases	0.022948862984776497
+trial_2	procyclidine	508	KG00108565	blood glucose increased	0.022647488862276077
+trial_2	procyclidine	75	KG00100195	Dolens, Phlegmasia Alba	0.02254680171608925
+trial_2	procyclidine	456	KG00099420	Influenzae	0.02236131578683853
+trial_2	procyclidine	211	KG00100341	Pruritus NOS	0.022039446979761124
+trial_2	procyclidine	191	KG00104055	Biliverdin increased	0.02183852158486843
+trial_2	procyclidine	11	KG00097993	Asthma NOS	0.02173924632370472
+trial_2	procyclidine	118	KG00099011	Gastritis NOS	0.02173909731209278
+trial_2	procyclidine	153	KG00099579	lethargy	0.02152906358242035
+trial_2	procyclidine	15	KG00097882	Angina pectoris NOS	0.02142184227705002
+trial_2	procyclidine	253	KG00100232	Pleural effusion NOS (disorder)	0.021416684612631798
+trial_2	procyclidine	371	KG00098517	Cystitis (NOS)	0.02121579274535179
+trial_2	procyclidine	31	KG00099872	Infarction, Myocardial	0.021152561530470848
+trial_2	procyclidine	297	KG00099294	hypercholesterolaemia	0.02110394835472107
+trial_2	procyclidine	221	KG00101207	peripheral oedema	0.02038981020450592
+trial_2	procyclidine	204	KG00098849	Esophagitis, Peptic	0.020369919016957283
+trial_2	procyclidine	33	KG00100094	Pancreatitis NOS	0.020342053845524788
+trial_2	procyclidine	144	KG00099610	Leukopenia NOS	0.020337816327810287
+trial_2	procyclidine	361	KG00098004	Fibrillation, Atrial	0.020306473597884178
+trial_2	procyclidine	282	KG00099309	hypernatraemia	0.02014339528977871
+trial_2	procyclidine	355	KG00110857	lymphocyte count decreased	0.01995272934436798
+trial_2	procyclidine	97	KG00104198	LIVER ENZYME ELEVATED	0.019860588014125824
+trial_2	procyclidine	163	KG00104050	bowel obstructions small	0.01984803006052971
+trial_2	procyclidine	441	KG00098262	cellulitis nos	0.019839033484458923
+trial_2	procyclidine	35	KG00101507	hypomagnesaemia	0.01966954953968525
+trial_2	procyclidine	256	KG00100738	Tachycardia, Sinus	0.01963420771062374

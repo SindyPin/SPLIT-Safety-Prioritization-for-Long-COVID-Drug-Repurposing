@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.22646529972553253
+trial_1	placebo	68	KG00099901	nauseas	0.16865681111812592
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.15665070712566376
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12705259025096893
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12671872973442078
+trial_1	placebo	77	KG00098450	Constipation NOS	0.1138261929154396
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11190047860145569
+trial_1	placebo	20	KG00098540	dehydration	0.10256945341825485
+trial_1	placebo	46	KG00099121	Headache NOS	0.09949669986963272
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08895774185657501
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0867961123585701
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08345948159694672
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08047866821289062
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07770614326000214
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07444550096988678
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07423119246959686
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06818563491106033
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06524132937192917
+trial_1	placebo	21	KG00098675	dyspnoea	0.06460438668727875
+trial_1	placebo	228	KG00114657	Weight below normal	0.058205995708703995
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04915538430213928
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0488213375210762
+trial_1	placebo	82	KG00097697	abdomen distended	0.04848837852478027
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.048397306352853775
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.046676017343997955
+trial_1	placebo	126	KG00100076	Pain NOS	0.04655183479189873
+trial_1	placebo	239	KG00100128	pareses	0.045684393495321274
+trial_1	placebo	29	KG00099354	hyponatraemia	0.044492848217487335
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04330531880259514
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04233299195766449
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04226513206958771
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04214305430650711
+trial_1	placebo	114	KG00098933	fevers	0.04194320738315582
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.041222527623176575
+trial_1	placebo	104	KG00097963	arthralgias	0.0408349372446537
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04049721360206604
+trial_1	placebo	86	KG00098565	Depression, Mental	0.040430136024951935
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03894949331879616
+trial_1	placebo	102	KG00097916	anxieties	0.0388089157640934
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037875495851039886
+trial_1	placebo	5	KG00099169	haematuria	0.03666302561759949
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03643568977713585
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.036083973944187164
+trial_1	placebo	147	KG00098000	atelectases	0.034877266734838486
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.034329574555158615
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.033297814428806305
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.033026810735464096
+trial_1	placebo	164	KG00108827	ileus colon	0.0328034982085228
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03233383968472481
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03163566440343857
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03142764791846275
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.031124716624617577
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030352206900715828
+trial_1	placebo	116	KG00098964	Pain in foot	0.030256319791078568
+trial_1	placebo	85	KG00098474	coughs	0.030152229592204094
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03011268563568592
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029089808464050293
+trial_1	placebo	269	KG00100399	pyaemia	0.028876233845949173
+trial_1	placebo	72	KG00103771	myalgias	0.028811946511268616
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.028605343773961067
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028359921649098396
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028315216302871704
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028002645820379257
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027872871607542038
+trial_1	placebo	466	KG00101205	fall	0.02763715758919716
+trial_1	placebo	66	KG00098642	drowsiness	0.027599593624472618
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02750462293624878
+trial_1	placebo	234	KG00098669	dysgeusias	0.026999490335583687
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02692108415067196
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.026694051921367645
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02662396989762783
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02626298926770687
+trial_1	placebo	300	KG00101064	xerostomia	0.026199407875537872
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.025586264207959175
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.024676483124494553
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02450384572148323
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02450021542608738
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.024466607719659805
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.024426788091659546
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02386711910367012
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.023725278675556183
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023624133318662643
+trial_1	placebo	282	KG00099309	hypernatraemia	0.023420391604304314
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.022755438461899757
+trial_1	placebo	242	KG00100855	tremors	0.022596808150410652
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.022434815764427185
+trial_1	placebo	153	KG00099579	lethargy	0.02232956513762474
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.022128848358988762
+trial_1	placebo	454	KG00098286	Pain, Neck	0.022088389843702316
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.022001324221491814
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021906130015850067
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021334826946258545
+trial_1	placebo	262	KG00101199	agitation	0.021163662895560265
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02105059288442135
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021045807749032974
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020672617480158806
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.020493747666478157
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020245330408215523
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.019982364028692245
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01995064504444599
+trial_2	prucalopride	87	KG00098599	diarrhoea	0.22646529972553253
+trial_2	prucalopride	68	KG00099901	nauseas	0.16865681111812592
+trial_2	prucalopride	49	KG00099902	nausea with vomiting	0.15665070712566376
+trial_2	prucalopride	9	KG00098432	Confusion NOS	0.12705259025096893
+trial_2	prucalopride	78	KG00099326	Hypertensive diseases	0.12671872973442078
+trial_2	prucalopride	77	KG00098450	Constipation NOS	0.1138261929154396
+trial_2	prucalopride	17	KG00097991	Asthenia NOS	0.11190047860145569
+trial_2	prucalopride	20	KG00098540	dehydration	0.10256945341825485
+trial_2	prucalopride	46	KG00099121	Headache NOS	0.09949669986963272
+trial_2	prucalopride	123	KG00099351	hypokalaemia	0.08895774185657501
+trial_2	prucalopride	67	KG00098673	Dyspepsia, NOS	0.0867961123585701
+trial_2	prucalopride	189	KG00101580	Alanine aminotransferase increase	0.08345948159694672
+trial_2	prucalopride	37	KG00097696	Cramps, Abdominal	0.08047866821289062
+trial_2	prucalopride	177	KG00099299	hyperglycaemia	0.07770614326000214
+trial_2	prucalopride	173	KG00098172	Bronchopneumonia NOS	0.07444550096988678
+trial_2	prucalopride	188	KG00101579	Aspartate aminotransferase increase	0.07423119246959686
+trial_2	prucalopride	79	KG00100317	Insomnia, Primary	0.06818563491106033
+trial_2	prucalopride	101	KG00097901	Anorexia NOS	0.06524132937192917
+trial_2	prucalopride	21	KG00098675	dyspnoea	0.06460438668727875
+trial_2	prucalopride	228	KG00114657	Weight below normal	0.058205995708703995
+trial_2	prucalopride	200	KG00098539	Disorders, Deglutition	0.04915538430213928
+trial_2	prucalopride	350	KG00106765	decreased platelet count	0.0488213375210762
+trial_2	prucalopride	82	KG00097697	abdomen distended	0.04848837852478027
+trial_2	prucalopride	64	KG00097734	Acrodermatitis, NOS	0.048397306352853775
+trial_2	prucalopride	243	KG00100947	Micturition frequency increased	0.046676017343997955
+trial_2	prucalopride	126	KG00100076	Pain NOS	0.04655183479189873
+trial_2	prucalopride	239	KG00100128	pareses	0.045684393495321274
+trial_2	prucalopride	29	KG00099354	hyponatraemia	0.044492848217487335
+trial_2	prucalopride	151	KG00098274	Infarction, Cerebral	0.04330531880259514
+trial_2	prucalopride	14	KG00097852	Anemia NOS	0.04233299195766449
+trial_2	prucalopride	38	KG00098066	Binocular vision disorders	0.04226513206958771
+trial_2	prucalopride	180	KG00099363	Hypotension NOS	0.04214305430650711
+trial_2	prucalopride	114	KG00098933	fevers	0.04194320738315582
+trial_2	prucalopride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.041222527623176575
+trial_2	prucalopride	104	KG00097963	arthralgias	0.0408349372446537
+trial_2	prucalopride	30	KG00099500	Acute Kidney Failure	0.04049721360206604
+trial_2	prucalopride	86	KG00098565	Depression, Mental	0.040430136024951935
+trial_2	prucalopride	76	KG00100450	Respiratory insufficiency, NOS	0.03894949331879616
+trial_2	prucalopride	102	KG00097916	anxieties	0.0388089157640934
+trial_2	prucalopride	61	KG00099501	Chronic Kidney Failure	0.037875495851039886
+trial_2	prucalopride	5	KG00099169	haematuria	0.03666302561759949
+trial_2	prucalopride	2	KG00100772	thrombocytopaenia	0.03643568977713585
+trial_2	prucalopride	396	KG00100373	Embolism, Pulmonary	0.036083973944187164
+trial_2	prucalopride	147	KG00098000	atelectases	0.034877266734838486
+trial_2	prucalopride	28	KG00099347	hypoglycaemia	0.034329574555158615
+trial_2	prucalopride	179	KG00099342	hypocalcaemia	0.033297814428806305
+trial_2	prucalopride	131	KG00100948	Urinary tract infection (& [NOS])	0.033026810735464096
+trial_2	prucalopride	164	KG00108827	ileus colon	0.0328034982085228
+trial_2	prucalopride	261	KG00101559	raised alkaline phosphatase	0.03233383968472481
+trial_2	prucalopride	211	KG00100341	Pruritus NOS	0.03163566440343857
+trial_2	prucalopride	286	KG00101110	Retention, Urinary	0.03142764791846275
+trial_2	prucalopride	27	KG00099303	hyperkalaemia	0.031124716624617577
+trial_2	prucalopride	18	KG00098307	Pain, Chest	0.030352206900715828
+trial_2	prucalopride	116	KG00098964	Pain in foot	0.030256319791078568
+trial_2	prucalopride	85	KG00098474	coughs	0.030152229592204094
+trial_2	prucalopride	191	KG00104055	Biliverdin increased	0.03011268563568592
+trial_2	prucalopride	69	KG00100082	Palpitations NOS	0.029089808464050293
+trial_2	prucalopride	269	KG00100399	pyaemia	0.028876233845949173
+trial_2	prucalopride	72	KG00103771	myalgias	0.028811946511268616
+trial_2	prucalopride	204	KG00098849	Esophagitis, Peptic	0.028605343773961067
+trial_2	prucalopride	75	KG00100195	Dolens, Phlegmasia Alba	0.028359921649098396
+trial_2	prucalopride	276	KG00099127	Arrest, Cardiac	0.028315216302871704
+trial_2	prucalopride	96	KG00101679	Unattended death NOS	0.028002645820379257
+trial_2	prucalopride	441	KG00098262	cellulitis nos	0.027872871607542038
+trial_2	prucalopride	466	KG00101205	fall	0.02763715758919716
+trial_2	prucalopride	66	KG00098642	drowsiness	0.027599593624472618
+trial_2	prucalopride	35	KG00101507	hypomagnesaemia	0.02750462293624878
+trial_2	prucalopride	234	KG00098669	dysgeusias	0.026999490335583687
+trial_2	prucalopride	253	KG00100232	Pleural effusion NOS (disorder)	0.02692108415067196
+trial_2	prucalopride	341	KG00101472	Gamma-glutamyltransferase increased	0.026694051921367645
+trial_2	prucalopride	122	KG00099321	Hypersensitivity NOS	0.02662396989762783
+trial_2	prucalopride	194	KG00110727	Neutrophil Count Decreased	0.02626298926770687
+trial_2	prucalopride	300	KG00101064	xerostomia	0.026199407875537872
+trial_2	prucalopride	422	KG00101429	Creatine phosphokinase increased	0.025586264207959175
+trial_2	prucalopride	31	KG00099872	Infarction, Myocardial	0.024676483124494553
+trial_2	prucalopride	139	KG00098855	Sinusitis, Ethmoid	0.02450384572148323
+trial_2	prucalopride	166	KG00099773	menopausal syndrome	0.02450021542608738
+trial_2	prucalopride	163	KG00104050	bowel obstructions small	0.024466607719659805
+trial_2	prucalopride	33	KG00100094	Pancreatitis NOS	0.024426788091659546
+trial_2	prucalopride	97	KG00104198	LIVER ENZYME ELEVATED	0.02386711910367012
+trial_2	prucalopride	256	KG00100738	Tachycardia, Sinus	0.023725278675556183
+trial_2	prucalopride	36	KG00106434	Vision, Blurring Of	0.023624133318662643
+trial_2	prucalopride	282	KG00099309	hypernatraemia	0.023420391604304314
+trial_2	prucalopride	89	KG00099301	Hyperhidrosis (disorder)	0.022755438461899757
+trial_2	prucalopride	242	KG00100855	tremors	0.022596808150410652
+trial_2	prucalopride	371	KG00098517	Cystitis (NOS)	0.022434815764427185
+trial_2	prucalopride	153	KG00099579	lethargy	0.02232956513762474
+trial_2	prucalopride	394	KG00100243	Pneumonia, Aspiration	0.022128848358988762
+trial_2	prucalopride	454	KG00098286	Pain, Neck	0.022088389843702316
+trial_2	prucalopride	15	KG00097882	Angina pectoris NOS	0.022001324221491814
+trial_2	prucalopride	361	KG00098004	Fibrillation, Atrial	0.021906130015850067
+trial_2	prucalopride	130	KG00100683	Stomatitis NOS	0.021334826946258545
+trial_2	prucalopride	262	KG00101199	agitation	0.021163662895560265
+trial_2	prucalopride	249	KG00104430	hypoalbuminaemia	0.02105059288442135
+trial_2	prucalopride	355	KG00110857	lymphocyte count decreased	0.021045807749032974
+trial_2	prucalopride	142	KG00100923	Unspecified infectious and parasitic diseases	0.020672617480158806
+trial_2	prucalopride	94	KG00103829	abdominal discomfort	0.020493747666478157
+trial_2	prucalopride	508	KG00108565	blood glucose increased	0.020245330408215523
+trial_2	prucalopride	288	KG00101223	hypophosphataemia	0.019982364028692245
+trial_2	prucalopride	221	KG00101207	peripheral oedema	0.01995064504444599

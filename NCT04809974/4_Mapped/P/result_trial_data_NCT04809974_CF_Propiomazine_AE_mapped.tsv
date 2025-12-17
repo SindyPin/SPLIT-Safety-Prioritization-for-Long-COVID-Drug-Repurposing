@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12994979321956635
+trial_1	placebo	87	KG00098599	diarrhoea	0.12408575415611267
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12136995792388916
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10540475696325302
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09931591153144836
+trial_1	placebo	21	KG00098675	dyspnoea	0.09398341923952103
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09332124143838882
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07942184805870056
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07760003209114075
+trial_1	placebo	20	KG00098540	dehydration	0.07723826169967651
+trial_1	placebo	46	KG00099121	Headache NOS	0.07312765717506409
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06898457556962967
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06493942439556122
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.062222834676504135
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06166863813996315
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05902255326509476
+trial_1	placebo	85	KG00098474	coughs	0.05783683434128761
+trial_1	placebo	68	KG00099901	nauseas	0.05674132704734802
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05666443333029747
+trial_1	placebo	104	KG00097963	arthralgias	0.05535484477877617
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05512185022234917
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05456880107522011
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05235641077160835
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05071781948208809
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.050109557807445526
+trial_1	placebo	228	KG00114657	Weight below normal	0.05009899660944939
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05002085492014885
+trial_1	placebo	114	KG00098933	fevers	0.047586165368556976
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0471377857029438
+trial_1	placebo	66	KG00098642	drowsiness	0.04631010442972183
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04421036317944527
+trial_1	placebo	126	KG00100076	Pain NOS	0.04414563998579979
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.044090017676353455
+trial_1	placebo	239	KG00100128	pareses	0.043917931616306305
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04367818310856819
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0405605174601078
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04024360701441765
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.039899807423353195
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03952454775571823
+trial_1	placebo	102	KG00097916	anxieties	0.039513181895017624
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.038596801459789276
+trial_1	placebo	262	KG00101199	agitation	0.03769798204302788
+trial_1	placebo	466	KG00101205	fall	0.03444060683250427
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03441375494003296
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03422471880912781
+trial_1	placebo	300	KG00101064	xerostomia	0.03405123949050903
+trial_1	placebo	242	KG00100855	tremors	0.03366579860448837
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03236778825521469
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03212623670697212
+trial_1	placebo	5	KG00099169	haematuria	0.03203859180212021
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03168097138404846
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030661415308713913
+trial_1	placebo	116	KG00098964	Pain in foot	0.030312666669487953
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030170800164341927
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02949592098593712
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02919953316450119
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02874598652124405
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.028713814914226532
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028056129813194275
+trial_1	placebo	72	KG00103771	myalgias	0.02742091752588749
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02741774544119835
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.027412736788392067
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027105022221803665
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02709248848259449
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02624012902379036
+trial_1	placebo	147	KG00098000	atelectases	0.026149235665798187
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025489814579486847
+trial_1	placebo	269	KG00100399	pyaemia	0.025451235473155975
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02476288564503193
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.024701766669750214
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024393580853939056
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.024347150698304176
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02370104193687439
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.023674238473176956
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02349398471415043
+trial_1	placebo	456	KG00099420	Influenzae	0.02329139970242977
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023115532472729683
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0227915421128273
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02276528626680374
+trial_1	placebo	164	KG00108827	ileus colon	0.022750763222575188
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02271425910294056
+trial_1	placebo	82	KG00097697	abdomen distended	0.022689741104841232
+trial_1	placebo	234	KG00098669	dysgeusias	0.022494429722428322
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0223348680883646
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0218657199293375
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02168348617851734
+trial_1	placebo	153	KG00099579	lethargy	0.02166466973721981
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021640103310346603
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021333059296011925
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021179819479584694
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02103731781244278
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020716223865747452
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.020342666655778885
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02026171237230301
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020219983533024788
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019933264702558517
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019837040454149246
+trial_1	placebo	186	KG00101431	creatinine increased	0.019735639914870262
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.019729025661945343
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01898914948105812
+trial_2	propiomazine	78	KG00099326	Hypertensive diseases	0.12994979321956635
+trial_2	propiomazine	87	KG00098599	diarrhoea	0.12408575415611267
+trial_2	propiomazine	17	KG00097991	Asthenia NOS	0.12136995792388916
+trial_2	propiomazine	9	KG00098432	Confusion NOS	0.10540475696325302
+trial_2	propiomazine	173	KG00098172	Bronchopneumonia NOS	0.09931591153144836
+trial_2	propiomazine	21	KG00098675	dyspnoea	0.09398341923952103
+trial_2	propiomazine	177	KG00099299	hyperglycaemia	0.09332124143838882
+trial_2	propiomazine	77	KG00098450	Constipation NOS	0.07942184805870056
+trial_2	propiomazine	79	KG00100317	Insomnia, Primary	0.07760003209114075
+trial_2	propiomazine	20	KG00098540	dehydration	0.07723826169967651
+trial_2	propiomazine	46	KG00099121	Headache NOS	0.07312765717506409
+trial_2	propiomazine	123	KG00099351	hypokalaemia	0.06898457556962967
+trial_2	propiomazine	49	KG00099902	nausea with vomiting	0.06493942439556122
+trial_2	propiomazine	189	KG00101580	Alanine aminotransferase increase	0.062222834676504135
+trial_2	propiomazine	86	KG00098565	Depression, Mental	0.06166863813996315
+trial_2	propiomazine	67	KG00098673	Dyspepsia, NOS	0.05902255326509476
+trial_2	propiomazine	85	KG00098474	coughs	0.05783683434128761
+trial_2	propiomazine	68	KG00099901	nauseas	0.05674132704734802
+trial_2	propiomazine	132	KG00101045	Gain, Weight	0.05666443333029747
+trial_2	propiomazine	104	KG00097963	arthralgias	0.05535484477877617
+trial_2	propiomazine	188	KG00101579	Aspartate aminotransferase increase	0.05512185022234917
+trial_2	propiomazine	37	KG00097696	Cramps, Abdominal	0.05456880107522011
+trial_2	propiomazine	64	KG00097734	Acrodermatitis, NOS	0.05235641077160835
+trial_2	propiomazine	14	KG00097852	Anemia NOS	0.05071781948208809
+trial_2	propiomazine	200	KG00098539	Disorders, Deglutition	0.050109557807445526
+trial_2	propiomazine	228	KG00114657	Weight below normal	0.05009899660944939
+trial_2	propiomazine	29	KG00099354	hyponatraemia	0.05002085492014885
+trial_2	propiomazine	114	KG00098933	fevers	0.047586165368556976
+trial_2	propiomazine	151	KG00098274	Infarction, Cerebral	0.0471377857029438
+trial_2	propiomazine	66	KG00098642	drowsiness	0.04631010442972183
+trial_2	propiomazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04421036317944527
+trial_2	propiomazine	126	KG00100076	Pain NOS	0.04414563998579979
+trial_2	propiomazine	180	KG00099363	Hypotension NOS	0.044090017676353455
+trial_2	propiomazine	239	KG00100128	pareses	0.043917931616306305
+trial_2	propiomazine	76	KG00100450	Respiratory insufficiency, NOS	0.04367818310856819
+trial_2	propiomazine	350	KG00106765	decreased platelet count	0.0405605174601078
+trial_2	propiomazine	96	KG00101679	Unattended death NOS	0.04024360701441765
+trial_2	propiomazine	30	KG00099500	Acute Kidney Failure	0.039899807423353195
+trial_2	propiomazine	61	KG00099501	Chronic Kidney Failure	0.03952454775571823
+trial_2	propiomazine	102	KG00097916	anxieties	0.039513181895017624
+trial_2	propiomazine	2	KG00100772	thrombocytopaenia	0.038596801459789276
+trial_2	propiomazine	262	KG00101199	agitation	0.03769798204302788
+trial_2	propiomazine	466	KG00101205	fall	0.03444060683250427
+trial_2	propiomazine	243	KG00100947	Micturition frequency increased	0.03441375494003296
+trial_2	propiomazine	28	KG00099347	hypoglycaemia	0.03422471880912781
+trial_2	propiomazine	300	KG00101064	xerostomia	0.03405123949050903
+trial_2	propiomazine	242	KG00100855	tremors	0.03366579860448837
+trial_2	propiomazine	131	KG00100948	Urinary tract infection (& [NOS])	0.03236778825521469
+trial_2	propiomazine	101	KG00097901	Anorexia NOS	0.03212623670697212
+trial_2	propiomazine	5	KG00099169	haematuria	0.03203859180212021
+trial_2	propiomazine	122	KG00099321	Hypersensitivity NOS	0.03168097138404846
+trial_2	propiomazine	18	KG00098307	Pain, Chest	0.030661415308713913
+trial_2	propiomazine	116	KG00098964	Pain in foot	0.030312666669487953
+trial_2	propiomazine	36	KG00106434	Vision, Blurring Of	0.030170800164341927
+trial_2	propiomazine	179	KG00099342	hypocalcaemia	0.02949592098593712
+trial_2	propiomazine	139	KG00098855	Sinusitis, Ethmoid	0.02919953316450119
+trial_2	propiomazine	396	KG00100373	Embolism, Pulmonary	0.02874598652124405
+trial_2	propiomazine	422	KG00101429	Creatine phosphokinase increased	0.028713814914226532
+trial_2	propiomazine	27	KG00099303	hyperkalaemia	0.028056129813194275
+trial_2	propiomazine	72	KG00103771	myalgias	0.02742091752588749
+trial_2	propiomazine	69	KG00100082	Palpitations NOS	0.02741774544119835
+trial_2	propiomazine	199	KG00098371	Rhinitis (chronic) NOS	0.027412736788392067
+trial_2	propiomazine	194	KG00110727	Neutrophil Count Decreased	0.027105022221803665
+trial_2	propiomazine	92	KG00100926	Infections, Upper Respiratory	0.02709248848259449
+trial_2	propiomazine	261	KG00101559	raised alkaline phosphatase	0.02624012902379036
+trial_2	propiomazine	147	KG00098000	atelectases	0.026149235665798187
+trial_2	propiomazine	38	KG00098066	Binocular vision disorders	0.025489814579486847
+trial_2	propiomazine	269	KG00100399	pyaemia	0.025451235473155975
+trial_2	propiomazine	11	KG00097993	Asthma NOS	0.02476288564503193
+trial_2	propiomazine	191	KG00104055	Biliverdin increased	0.024701766669750214
+trial_2	propiomazine	144	KG00099610	Leukopenia NOS	0.024393580853939056
+trial_2	propiomazine	1	KG00099959	Neutropenia NOS	0.024347150698304176
+trial_2	propiomazine	508	KG00108565	blood glucose increased	0.02370104193687439
+trial_2	propiomazine	341	KG00101472	Gamma-glutamyltransferase increased	0.023674238473176956
+trial_2	propiomazine	221	KG00101207	peripheral oedema	0.02349398471415043
+trial_2	propiomazine	456	KG00099420	Influenzae	0.02329139970242977
+trial_2	propiomazine	276	KG00099127	Arrest, Cardiac	0.023115532472729683
+trial_2	propiomazine	130	KG00100683	Stomatitis NOS	0.0227915421128273
+trial_2	propiomazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02276528626680374
+trial_2	propiomazine	164	KG00108827	ileus colon	0.022750763222575188
+trial_2	propiomazine	118	KG00099011	Gastritis NOS	0.02271425910294056
+trial_2	propiomazine	82	KG00097697	abdomen distended	0.022689741104841232
+trial_2	propiomazine	234	KG00098669	dysgeusias	0.022494429722428322
+trial_2	propiomazine	253	KG00100232	Pleural effusion NOS (disorder)	0.0223348680883646
+trial_2	propiomazine	394	KG00100243	Pneumonia, Aspiration	0.0218657199293375
+trial_2	propiomazine	286	KG00101110	Retention, Urinary	0.02168348617851734
+trial_2	propiomazine	153	KG00099579	lethargy	0.02166466973721981
+trial_2	propiomazine	256	KG00100738	Tachycardia, Sinus	0.021640103310346603
+trial_2	propiomazine	22	KG00098705	Edema (NOS)	0.021333059296011925
+trial_2	propiomazine	297	KG00099294	hypercholesterolaemia	0.021179819479584694
+trial_2	propiomazine	355	KG00110857	lymphocyte count decreased	0.02103731781244278
+trial_2	propiomazine	211	KG00100341	Pruritus NOS	0.020716223865747452
+trial_2	propiomazine	35	KG00101507	hypomagnesaemia	0.020342666655778885
+trial_2	propiomazine	152	KG00099402	INCONTINENCE NOS	0.02026171237230301
+trial_2	propiomazine	154	KG00099686	Lymphopenias	0.020219983533024788
+trial_2	propiomazine	441	KG00098262	cellulitis nos	0.019933264702558517
+trial_2	propiomazine	75	KG00100195	Dolens, Phlegmasia Alba	0.019837040454149246
+trial_2	propiomazine	186	KG00101431	creatinine increased	0.019735639914870262
+trial_2	propiomazine	204	KG00098849	Esophagitis, Peptic	0.019729025661945343
+trial_2	propiomazine	15	KG00097882	Angina pectoris NOS	0.01898914948105812

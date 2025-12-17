@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09028920531272888
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.086806520819664
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08352097868919373
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06636462360620499
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05852575600147247
+trial_1	placebo	21	KG00098675	dyspnoea	0.05496719107031822
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05142674595117569
+trial_1	placebo	20	KG00098540	dehydration	0.050442688167095184
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04949452728033066
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04831612482666969
+trial_1	placebo	46	KG00099121	Headache NOS	0.047658905386924744
+trial_1	placebo	123	KG00099351	hypokalaemia	0.045384474098682404
+trial_1	placebo	68	KG00099901	nauseas	0.04436358064413071
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04069462791085243
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0363006591796875
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03393222391605377
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.033657949417829514
+trial_1	placebo	85	KG00098474	coughs	0.03354065865278244
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.031855788081884384
+trial_1	placebo	228	KG00114657	Weight below normal	0.03128044679760933
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02997107245028019
+trial_1	placebo	114	KG00098933	fevers	0.02960839308798313
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02885601855814457
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028633611276745796
+trial_1	placebo	300	KG00101064	xerostomia	0.027958683669567108
+trial_1	placebo	126	KG00100076	Pain NOS	0.02718864008784294
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.027148984372615814
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027098560705780983
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02708679437637329
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02618890069425106
+trial_1	placebo	66	KG00098642	drowsiness	0.025115473195910454
+trial_1	placebo	102	KG00097916	anxieties	0.02502446249127388
+trial_1	placebo	14	KG00097852	Anemia NOS	0.024259397760033607
+trial_1	placebo	104	KG00097963	arthralgias	0.022727780044078827
+trial_1	placebo	234	KG00098669	dysgeusias	0.021941130980849266
+trial_1	placebo	242	KG00100855	tremors	0.021862497553229332
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021729817613959312
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021359557285904884
+trial_1	placebo	350	KG00106765	decreased platelet count	0.021224938333034515
+trial_1	placebo	132	KG00101045	Gain, Weight	0.021067466586828232
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.020627431571483612
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02030429244041443
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.019569434225559235
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01955966092646122
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01927224174141884
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019189657643437386
+trial_1	placebo	239	KG00100128	pareses	0.019042465835809708
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018999923020601273
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.018470847979187965
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0182808730751276
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018004747107625008
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.017915625125169754
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017611483111977577
+trial_1	placebo	262	KG00101199	agitation	0.0172220878303051
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0165408942848444
+trial_1	placebo	5	KG00099169	haematuria	0.016130950301885605
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016002343967556953
+trial_1	placebo	121	KG00099190	haemorrhage	0.015998415648937225
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.015697769820690155
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.015554990619421005
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.015551581978797913
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.015219428576529026
+trial_1	placebo	147	KG00098000	atelectases	0.014971123076975346
+trial_1	placebo	4	KG00098817	epistaxis	0.014798312447965145
+trial_1	placebo	466	KG00101205	fall	0.014700677245855331
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014630545862019062
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014508391730487347
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.014405396766960621
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.014074546284973621
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.014033060520887375
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01386229321360588
+trial_1	placebo	269	KG00100399	pyaemia	0.013752774335443974
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.013722655363380909
+trial_1	placebo	116	KG00098964	Pain in foot	0.013690314255654812
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.013450970873236656
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01326520275324583
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01315419189631939
+trial_1	placebo	72	KG00103771	myalgias	0.013034352101385593
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.012868598103523254
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.012607758864760399
+trial_1	placebo	441	KG00098262	cellulitis nos	0.012555243447422981
+trial_1	placebo	221	KG00101207	peripheral oedema	0.012432475574314594
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.012306557968258858
+trial_1	placebo	82	KG00097697	abdomen distended	0.012236910872161388
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.012113850563764572
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012033416889607906
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011738895438611507
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.011458205990493298
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.011412198655307293
+trial_1	placebo	11	KG00097993	Asthma NOS	0.011387860402464867
+trial_1	placebo	136	KG00101582	Dry;skin	0.011195510625839233
+trial_1	placebo	154	KG00099686	Lymphopenias	0.011026703752577305
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.010970943607389927
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.010885300114750862
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.010857176035642624
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.010837243869900703
+trial_1	placebo	186	KG00101431	creatinine increased	0.010831402614712715
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.010389995761215687
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.010384418070316315
+trial_1	placebo	164	KG00108827	ileus colon	0.01032810378819704
+trial_2	promethazine	87	KG00098599	diarrhoea	0.09028920531272888
+trial_2	promethazine	17	KG00097991	Asthenia NOS	0.086806520819664
+trial_2	promethazine	9	KG00098432	Confusion NOS	0.08352097868919373
+trial_2	promethazine	77	KG00098450	Constipation NOS	0.06636462360620499
+trial_2	promethazine	78	KG00099326	Hypertensive diseases	0.05852575600147247
+trial_2	promethazine	21	KG00098675	dyspnoea	0.05496719107031822
+trial_2	promethazine	177	KG00099299	hyperglycaemia	0.05142674595117569
+trial_2	promethazine	20	KG00098540	dehydration	0.050442688167095184
+trial_2	promethazine	173	KG00098172	Bronchopneumonia NOS	0.04949452728033066
+trial_2	promethazine	49	KG00099902	nausea with vomiting	0.04831612482666969
+trial_2	promethazine	46	KG00099121	Headache NOS	0.047658905386924744
+trial_2	promethazine	123	KG00099351	hypokalaemia	0.045384474098682404
+trial_2	promethazine	68	KG00099901	nauseas	0.04436358064413071
+trial_2	promethazine	79	KG00100317	Insomnia, Primary	0.04069462791085243
+trial_2	promethazine	37	KG00097696	Cramps, Abdominal	0.0363006591796875
+trial_2	promethazine	64	KG00097734	Acrodermatitis, NOS	0.03393222391605377
+trial_2	promethazine	67	KG00098673	Dyspepsia, NOS	0.033657949417829514
+trial_2	promethazine	85	KG00098474	coughs	0.03354065865278244
+trial_2	promethazine	151	KG00098274	Infarction, Cerebral	0.031855788081884384
+trial_2	promethazine	228	KG00114657	Weight below normal	0.03128044679760933
+trial_2	promethazine	86	KG00098565	Depression, Mental	0.02997107245028019
+trial_2	promethazine	114	KG00098933	fevers	0.02960839308798313
+trial_2	promethazine	180	KG00099363	Hypotension NOS	0.02885601855814457
+trial_2	promethazine	96	KG00101679	Unattended death NOS	0.028633611276745796
+trial_2	promethazine	300	KG00101064	xerostomia	0.027958683669567108
+trial_2	promethazine	126	KG00100076	Pain NOS	0.02718864008784294
+trial_2	promethazine	200	KG00098539	Disorders, Deglutition	0.027148984372615814
+trial_2	promethazine	29	KG00099354	hyponatraemia	0.027098560705780983
+trial_2	promethazine	189	KG00101580	Alanine aminotransferase increase	0.02708679437637329
+trial_2	promethazine	101	KG00097901	Anorexia NOS	0.02618890069425106
+trial_2	promethazine	66	KG00098642	drowsiness	0.025115473195910454
+trial_2	promethazine	102	KG00097916	anxieties	0.02502446249127388
+trial_2	promethazine	14	KG00097852	Anemia NOS	0.024259397760033607
+trial_2	promethazine	104	KG00097963	arthralgias	0.022727780044078827
+trial_2	promethazine	234	KG00098669	dysgeusias	0.021941130980849266
+trial_2	promethazine	242	KG00100855	tremors	0.021862497553229332
+trial_2	promethazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021729817613959312
+trial_2	promethazine	36	KG00106434	Vision, Blurring Of	0.021359557285904884
+trial_2	promethazine	350	KG00106765	decreased platelet count	0.021224938333034515
+trial_2	promethazine	132	KG00101045	Gain, Weight	0.021067466586828232
+trial_2	promethazine	76	KG00100450	Respiratory insufficiency, NOS	0.020627431571483612
+trial_2	promethazine	188	KG00101579	Aspartate aminotransferase increase	0.02030429244041443
+trial_2	promethazine	28	KG00099347	hypoglycaemia	0.019569434225559235
+trial_2	promethazine	69	KG00100082	Palpitations NOS	0.01955966092646122
+trial_2	promethazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.01927224174141884
+trial_2	promethazine	18	KG00098307	Pain, Chest	0.019189657643437386
+trial_2	promethazine	239	KG00100128	pareses	0.019042465835809708
+trial_2	promethazine	30	KG00099500	Acute Kidney Failure	0.018999923020601273
+trial_2	promethazine	2	KG00100772	thrombocytopaenia	0.018470847979187965
+trial_2	promethazine	61	KG00099501	Chronic Kidney Failure	0.0182808730751276
+trial_2	promethazine	130	KG00100683	Stomatitis NOS	0.018004747107625008
+trial_2	promethazine	396	KG00100373	Embolism, Pulmonary	0.017915625125169754
+trial_2	promethazine	122	KG00099321	Hypersensitivity NOS	0.017611483111977577
+trial_2	promethazine	262	KG00101199	agitation	0.0172220878303051
+trial_2	promethazine	38	KG00098066	Binocular vision disorders	0.0165408942848444
+trial_2	promethazine	5	KG00099169	haematuria	0.016130950301885605
+trial_2	promethazine	194	KG00110727	Neutrophil Count Decreased	0.016002343967556953
+trial_2	promethazine	121	KG00099190	haemorrhage	0.015998415648937225
+trial_2	promethazine	131	KG00100948	Urinary tract infection (& [NOS])	0.015697769820690155
+trial_2	promethazine	179	KG00099342	hypocalcaemia	0.015554990619421005
+trial_2	promethazine	1	KG00099959	Neutropenia NOS	0.015551581978797913
+trial_2	promethazine	243	KG00100947	Micturition frequency increased	0.015219428576529026
+trial_2	promethazine	147	KG00098000	atelectases	0.014971123076975346
+trial_2	promethazine	4	KG00098817	epistaxis	0.014798312447965145
+trial_2	promethazine	466	KG00101205	fall	0.014700677245855331
+trial_2	promethazine	92	KG00100926	Infections, Upper Respiratory	0.014630545862019062
+trial_2	promethazine	261	KG00101559	raised alkaline phosphatase	0.014508391730487347
+trial_2	promethazine	199	KG00098371	Rhinitis (chronic) NOS	0.014405396766960621
+trial_2	promethazine	191	KG00104055	Biliverdin increased	0.014074546284973621
+trial_2	promethazine	139	KG00098855	Sinusitis, Ethmoid	0.014033060520887375
+trial_2	promethazine	249	KG00104430	hypoalbuminaemia	0.01386229321360588
+trial_2	promethazine	269	KG00100399	pyaemia	0.013752774335443974
+trial_2	promethazine	170	KG00108926	Neutropenia, Febrile	0.013722655363380909
+trial_2	promethazine	116	KG00098964	Pain in foot	0.013690314255654812
+trial_2	promethazine	144	KG00099610	Leukopenia NOS	0.013450970873236656
+trial_2	promethazine	27	KG00099303	hyperkalaemia	0.01326520275324583
+trial_2	promethazine	361	KG00098004	Fibrillation, Atrial	0.01315419189631939
+trial_2	promethazine	72	KG00103771	myalgias	0.013034352101385593
+trial_2	promethazine	211	KG00100341	Pruritus NOS	0.012868598103523254
+trial_2	promethazine	35	KG00101507	hypomagnesaemia	0.012607758864760399
+trial_2	promethazine	441	KG00098262	cellulitis nos	0.012555243447422981
+trial_2	promethazine	221	KG00101207	peripheral oedema	0.012432475574314594
+trial_2	promethazine	75	KG00100195	Dolens, Phlegmasia Alba	0.012306557968258858
+trial_2	promethazine	82	KG00097697	abdomen distended	0.012236910872161388
+trial_2	promethazine	133	KG00101370	neuropathies sensory	0.012113850563764572
+trial_2	promethazine	286	KG00101110	Retention, Urinary	0.012033416889607906
+trial_2	promethazine	118	KG00099011	Gastritis NOS	0.011738895438611507
+trial_2	promethazine	138	KG00098796	epidemic vomiting syndrome	0.011458205990493298
+trial_2	promethazine	195	KG00097814	Atopic Rhinitis	0.011412198655307293
+trial_2	promethazine	11	KG00097993	Asthma NOS	0.011387860402464867
+trial_2	promethazine	136	KG00101582	Dry;skin	0.011195510625839233
+trial_2	promethazine	154	KG00099686	Lymphopenias	0.011026703752577305
+trial_2	promethazine	356	KG00112623	Infectious Lung Disorders	0.010970943607389927
+trial_2	promethazine	22	KG00098705	Edema (NOS)	0.010885300114750862
+trial_2	promethazine	218	KG00100801	Tinnitus NOS	0.010857176035642624
+trial_2	promethazine	89	KG00099301	Hyperhidrosis (disorder)	0.010837243869900703
+trial_2	promethazine	186	KG00101431	creatinine increased	0.010831402614712715
+trial_2	promethazine	204	KG00098849	Esophagitis, Peptic	0.010389995761215687
+trial_2	promethazine	254	KG00100774	Thrombosis NOS	0.010384418070316315
+trial_2	promethazine	164	KG00108827	ileus colon	0.01032810378819704

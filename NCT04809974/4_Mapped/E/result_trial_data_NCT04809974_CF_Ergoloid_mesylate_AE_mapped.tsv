@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1299283504486084
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11419416218996048
+trial_1	placebo	87	KG00098599	diarrhoea	0.11253601312637329
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09456393867731094
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08175577968358994
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08152686059474945
+trial_1	placebo	68	KG00099901	nauseas	0.08032359182834625
+trial_1	placebo	46	KG00099121	Headache NOS	0.08030513674020767
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0790080800652504
+trial_1	placebo	20	KG00098540	dehydration	0.07453510165214539
+trial_1	placebo	21	KG00098675	dyspnoea	0.07152140885591507
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06831596791744232
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06770561635494232
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05721186101436615
+trial_1	placebo	77	KG00098450	Constipation NOS	0.054045796394348145
+trial_1	placebo	86	KG00098565	Depression, Mental	0.052821580320596695
+trial_1	placebo	228	KG00114657	Weight below normal	0.048051897436380386
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.046931762248277664
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.046664759516716
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04627639055252075
+trial_1	placebo	104	KG00097963	arthralgias	0.04585426673293114
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0458301343023777
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.045690931379795074
+trial_1	placebo	126	KG00100076	Pain NOS	0.04473584517836571
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.043822064995765686
+trial_1	placebo	239	KG00100128	pareses	0.041899893432855606
+trial_1	placebo	114	KG00098933	fevers	0.04027650132775307
+trial_1	placebo	85	KG00098474	coughs	0.039523474872112274
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03775603324174881
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03756910562515259
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03755564987659454
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0372961163520813
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.036975424736738205
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03669516369700432
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03645665571093559
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03614749386906624
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03527316823601723
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03423856198787689
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.033969007432460785
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03394893929362297
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0336347259581089
+trial_1	placebo	102	KG00097916	anxieties	0.03279583528637886
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03276008367538452
+trial_1	placebo	72	KG00103771	myalgias	0.03168841823935509
+trial_1	placebo	5	KG00099169	haematuria	0.031678974628448486
+trial_1	placebo	132	KG00101045	Gain, Weight	0.030937202274799347
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.030824486166238785
+trial_1	placebo	147	KG00098000	atelectases	0.030475258827209473
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03032723069190979
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.028234295547008514
+trial_1	placebo	262	KG00101199	agitation	0.028195105493068695
+trial_1	placebo	466	KG00101205	fall	0.027716735377907753
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02674749866127968
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026494532823562622
+trial_1	placebo	116	KG00098964	Pain in foot	0.026448756456375122
+trial_1	placebo	121	KG00099190	haemorrhage	0.02624380588531494
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025490110740065575
+trial_1	placebo	18	KG00098307	Pain, Chest	0.025137199088931084
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02495129033923149
+trial_1	placebo	269	KG00100399	pyaemia	0.02493559755384922
+trial_1	placebo	282	KG00099309	hypernatraemia	0.023935779929161072
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02372494898736477
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023635469377040863
+trial_1	placebo	164	KG00108827	ileus colon	0.0231506135314703
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022733435034751892
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021880725398659706
+trial_1	placebo	66	KG00098642	drowsiness	0.021558480337262154
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02121969498693943
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02117363177239895
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021120719611644745
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02062416635453701
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020514624193310738
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020429175347089767
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02028859406709671
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01997794397175312
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019931942224502563
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.019902197644114494
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019837837666273117
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01938428170979023
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.019370760768651962
+trial_1	placebo	456	KG00099420	Influenzae	0.019182344898581505
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019033892080187798
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019018245860934258
+trial_1	placebo	82	KG00097697	abdomen distended	0.018970368430018425
+trial_1	placebo	242	KG00100855	tremors	0.01888326182961464
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01882866770029068
+trial_1	placebo	100	KG00097815	alopecias	0.018593432381749153
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01838703639805317
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.018282875418663025
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018239004537463188
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018207797780632973
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018153103068470955
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.018048260360956192
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01785314455628395
+trial_1	placebo	11	KG00097993	Asthma NOS	0.017843088135123253
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.017811361700296402
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01770878955721855
+trial_1	placebo	234	KG00098669	dysgeusias	0.017641644924879074
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.017591826617717743
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.017346590757369995
+trial_2	ergoloid mesylate	78	KG00099326	Hypertensive diseases	0.1299283504486084
+trial_2	ergoloid mesylate	17	KG00097991	Asthenia NOS	0.11419416218996048
+trial_2	ergoloid mesylate	87	KG00098599	diarrhoea	0.11253601312637329
+trial_2	ergoloid mesylate	177	KG00099299	hyperglycaemia	0.09456393867731094
+trial_2	ergoloid mesylate	9	KG00098432	Confusion NOS	0.08175577968358994
+trial_2	ergoloid mesylate	173	KG00098172	Bronchopneumonia NOS	0.08152686059474945
+trial_2	ergoloid mesylate	68	KG00099901	nauseas	0.08032359182834625
+trial_2	ergoloid mesylate	46	KG00099121	Headache NOS	0.08030513674020767
+trial_2	ergoloid mesylate	49	KG00099902	nausea with vomiting	0.0790080800652504
+trial_2	ergoloid mesylate	20	KG00098540	dehydration	0.07453510165214539
+trial_2	ergoloid mesylate	21	KG00098675	dyspnoea	0.07152140885591507
+trial_2	ergoloid mesylate	123	KG00099351	hypokalaemia	0.06831596791744232
+trial_2	ergoloid mesylate	79	KG00100317	Insomnia, Primary	0.06770561635494232
+trial_2	ergoloid mesylate	67	KG00098673	Dyspepsia, NOS	0.05721186101436615
+trial_2	ergoloid mesylate	77	KG00098450	Constipation NOS	0.054045796394348145
+trial_2	ergoloid mesylate	86	KG00098565	Depression, Mental	0.052821580320596695
+trial_2	ergoloid mesylate	228	KG00114657	Weight below normal	0.048051897436380386
+trial_2	ergoloid mesylate	64	KG00097734	Acrodermatitis, NOS	0.046931762248277664
+trial_2	ergoloid mesylate	200	KG00098539	Disorders, Deglutition	0.046664759516716
+trial_2	ergoloid mesylate	29	KG00099354	hyponatraemia	0.04627639055252075
+trial_2	ergoloid mesylate	104	KG00097963	arthralgias	0.04585426673293114
+trial_2	ergoloid mesylate	189	KG00101580	Alanine aminotransferase increase	0.0458301343023777
+trial_2	ergoloid mesylate	37	KG00097696	Cramps, Abdominal	0.045690931379795074
+trial_2	ergoloid mesylate	126	KG00100076	Pain NOS	0.04473584517836571
+trial_2	ergoloid mesylate	151	KG00098274	Infarction, Cerebral	0.043822064995765686
+trial_2	ergoloid mesylate	239	KG00100128	pareses	0.041899893432855606
+trial_2	ergoloid mesylate	114	KG00098933	fevers	0.04027650132775307
+trial_2	ergoloid mesylate	85	KG00098474	coughs	0.039523474872112274
+trial_2	ergoloid mesylate	101	KG00097901	Anorexia NOS	0.03775603324174881
+trial_2	ergoloid mesylate	14	KG00097852	Anemia NOS	0.03756910562515259
+trial_2	ergoloid mesylate	96	KG00101679	Unattended death NOS	0.03755564987659454
+trial_2	ergoloid mesylate	188	KG00101579	Aspartate aminotransferase increase	0.0372961163520813
+trial_2	ergoloid mesylate	122	KG00099321	Hypersensitivity NOS	0.036975424736738205
+trial_2	ergoloid mesylate	350	KG00106765	decreased platelet count	0.03669516369700432
+trial_2	ergoloid mesylate	76	KG00100450	Respiratory insufficiency, NOS	0.03645665571093559
+trial_2	ergoloid mesylate	180	KG00099363	Hypotension NOS	0.03614749386906624
+trial_2	ergoloid mesylate	28	KG00099347	hypoglycaemia	0.03527316823601723
+trial_2	ergoloid mesylate	139	KG00098855	Sinusitis, Ethmoid	0.03423856198787689
+trial_2	ergoloid mesylate	179	KG00099342	hypocalcaemia	0.033969007432460785
+trial_2	ergoloid mesylate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03394893929362297
+trial_2	ergoloid mesylate	38	KG00098066	Binocular vision disorders	0.0336347259581089
+trial_2	ergoloid mesylate	102	KG00097916	anxieties	0.03279583528637886
+trial_2	ergoloid mesylate	61	KG00099501	Chronic Kidney Failure	0.03276008367538452
+trial_2	ergoloid mesylate	72	KG00103771	myalgias	0.03168841823935509
+trial_2	ergoloid mesylate	5	KG00099169	haematuria	0.031678974628448486
+trial_2	ergoloid mesylate	132	KG00101045	Gain, Weight	0.030937202274799347
+trial_2	ergoloid mesylate	27	KG00099303	hyperkalaemia	0.030824486166238785
+trial_2	ergoloid mesylate	147	KG00098000	atelectases	0.030475258827209473
+trial_2	ergoloid mesylate	2	KG00100772	thrombocytopaenia	0.03032723069190979
+trial_2	ergoloid mesylate	243	KG00100947	Micturition frequency increased	0.028234295547008514
+trial_2	ergoloid mesylate	262	KG00101199	agitation	0.028195105493068695
+trial_2	ergoloid mesylate	466	KG00101205	fall	0.027716735377907753
+trial_2	ergoloid mesylate	30	KG00099500	Acute Kidney Failure	0.02674749866127968
+trial_2	ergoloid mesylate	396	KG00100373	Embolism, Pulmonary	0.026494532823562622
+trial_2	ergoloid mesylate	116	KG00098964	Pain in foot	0.026448756456375122
+trial_2	ergoloid mesylate	121	KG00099190	haemorrhage	0.02624380588531494
+trial_2	ergoloid mesylate	142	KG00100923	Unspecified infectious and parasitic diseases	0.025490110740065575
+trial_2	ergoloid mesylate	18	KG00098307	Pain, Chest	0.025137199088931084
+trial_2	ergoloid mesylate	131	KG00100948	Urinary tract infection (& [NOS])	0.02495129033923149
+trial_2	ergoloid mesylate	269	KG00100399	pyaemia	0.02493559755384922
+trial_2	ergoloid mesylate	282	KG00099309	hypernatraemia	0.023935779929161072
+trial_2	ergoloid mesylate	194	KG00110727	Neutrophil Count Decreased	0.02372494898736477
+trial_2	ergoloid mesylate	276	KG00099127	Arrest, Cardiac	0.023635469377040863
+trial_2	ergoloid mesylate	164	KG00108827	ileus colon	0.0231506135314703
+trial_2	ergoloid mesylate	441	KG00098262	cellulitis nos	0.022733435034751892
+trial_2	ergoloid mesylate	36	KG00106434	Vision, Blurring Of	0.021880725398659706
+trial_2	ergoloid mesylate	66	KG00098642	drowsiness	0.021558480337262154
+trial_2	ergoloid mesylate	31	KG00099872	Infarction, Myocardial	0.02121969498693943
+trial_2	ergoloid mesylate	361	KG00098004	Fibrillation, Atrial	0.02117363177239895
+trial_2	ergoloid mesylate	75	KG00100195	Dolens, Phlegmasia Alba	0.021120719611644745
+trial_2	ergoloid mesylate	154	KG00099686	Lymphopenias	0.02062416635453701
+trial_2	ergoloid mesylate	69	KG00100082	Palpitations NOS	0.020514624193310738
+trial_2	ergoloid mesylate	92	KG00100926	Infections, Upper Respiratory	0.020429175347089767
+trial_2	ergoloid mesylate	355	KG00110857	lymphocyte count decreased	0.02028859406709671
+trial_2	ergoloid mesylate	144	KG00099610	Leukopenia NOS	0.01997794397175312
+trial_2	ergoloid mesylate	15	KG00097882	Angina pectoris NOS	0.019931942224502563
+trial_2	ergoloid mesylate	254	KG00100774	Thrombosis NOS	0.019902197644114494
+trial_2	ergoloid mesylate	261	KG00101559	raised alkaline phosphatase	0.019837837666273117
+trial_2	ergoloid mesylate	33	KG00100094	Pancreatitis NOS	0.01938428170979023
+trial_2	ergoloid mesylate	394	KG00100243	Pneumonia, Aspiration	0.019370760768651962
+trial_2	ergoloid mesylate	456	KG00099420	Influenzae	0.019182344898581505
+trial_2	ergoloid mesylate	508	KG00108565	blood glucose increased	0.019033892080187798
+trial_2	ergoloid mesylate	249	KG00104430	hypoalbuminaemia	0.019018245860934258
+trial_2	ergoloid mesylate	82	KG00097697	abdomen distended	0.018970368430018425
+trial_2	ergoloid mesylate	242	KG00100855	tremors	0.01888326182961464
+trial_2	ergoloid mesylate	204	KG00098849	Esophagitis, Peptic	0.01882866770029068
+trial_2	ergoloid mesylate	100	KG00097815	alopecias	0.018593432381749153
+trial_2	ergoloid mesylate	286	KG00101110	Retention, Urinary	0.01838703639805317
+trial_2	ergoloid mesylate	22	KG00098705	Edema (NOS)	0.018282875418663025
+trial_2	ergoloid mesylate	118	KG00099011	Gastritis NOS	0.018239004537463188
+trial_2	ergoloid mesylate	253	KG00100232	Pleural effusion NOS (disorder)	0.018207797780632973
+trial_2	ergoloid mesylate	211	KG00100341	Pruritus NOS	0.018153103068470955
+trial_2	ergoloid mesylate	256	KG00100738	Tachycardia, Sinus	0.018048260360956192
+trial_2	ergoloid mesylate	199	KG00098371	Rhinitis (chronic) NOS	0.01785314455628395
+trial_2	ergoloid mesylate	11	KG00097993	Asthma NOS	0.017843088135123253
+trial_2	ergoloid mesylate	166	KG00099773	menopausal syndrome	0.017811361700296402
+trial_2	ergoloid mesylate	1	KG00099959	Neutropenia NOS	0.01770878955721855
+trial_2	ergoloid mesylate	234	KG00098669	dysgeusias	0.017641644924879074
+trial_2	ergoloid mesylate	191	KG00104055	Biliverdin increased	0.017591826617717743
+trial_2	ergoloid mesylate	341	KG00101472	Gamma-glutamyltransferase increased	0.017346590757369995

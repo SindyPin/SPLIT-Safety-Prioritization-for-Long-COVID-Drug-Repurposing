@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.3240926265716553
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.23168005049228668
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1993897557258606
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1855762004852295
+trial_1	placebo	68	KG00099901	nauseas	0.17628538608551025
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.16880612075328827
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.16739796102046967
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.16315722465515137
+trial_1	placebo	20	KG00098540	dehydration	0.1596645563840866
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.15047793090343475
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.14226609468460083
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13583068549633026
+trial_1	placebo	46	KG00099121	Headache NOS	0.13525885343551636
+trial_1	placebo	21	KG00098675	dyspnoea	0.1338130235671997
+trial_1	placebo	228	KG00114657	Weight below normal	0.1326322853565216
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.129668191075325
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.1288597285747528
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12856876850128174
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1254771649837494
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10558042675256729
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.1014024168252945
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0937429815530777
+trial_1	placebo	350	KG00106765	decreased platelet count	0.09154678136110306
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08849930018186569
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08668390661478043
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0850832387804985
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.08333522081375122
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07834958285093307
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07660575211048126
+trial_1	placebo	239	KG00100128	pareses	0.07571713626384735
+trial_1	placebo	126	KG00100076	Pain NOS	0.07399621605873108
+trial_1	placebo	104	KG00097963	arthralgias	0.0737694576382637
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.07307487726211548
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.07214357703924179
+trial_1	placebo	82	KG00097697	abdomen distended	0.06810945272445679
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.06755347549915314
+trial_1	placebo	5	KG00099169	haematuria	0.06573447585105896
+trial_1	placebo	72	KG00103771	myalgias	0.06421561539173126
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0635141059756279
+trial_1	placebo	114	KG00098933	fevers	0.06235094368457794
+trial_1	placebo	85	KG00098474	coughs	0.06090636923909187
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.06069299578666687
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.06052536144852638
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05792924016714096
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05743193253874779
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05735430866479874
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0567350909113884
+trial_1	placebo	116	KG00098964	Pain in foot	0.0562259703874588
+trial_1	placebo	136	KG00101582	Dry;skin	0.055802639573812485
+trial_1	placebo	147	KG00098000	atelectases	0.055719044059515
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05548034608364105
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05359813943505287
+trial_1	placebo	257	KG00100922	Erythema NOS	0.05328020080924034
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.05315361171960831
+trial_1	placebo	234	KG00098669	dysgeusias	0.05304626375436783
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.051588382571935654
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.051452070474624634
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.05058986693620682
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.05012539401650429
+trial_1	placebo	86	KG00098565	Depression, Mental	0.049939367920160294
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04976606369018555
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04973985254764557
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04871233180165291
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04836015775799751
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04831584170460701
+trial_1	placebo	441	KG00098262	cellulitis nos	0.047514498233795166
+trial_1	placebo	186	KG00101431	creatinine increased	0.04744250699877739
+trial_1	placebo	212	KG00100576	shivers	0.047074850648641586
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.04705853387713432
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04688499867916107
+trial_1	placebo	102	KG00097916	anxieties	0.046123094856739044
+trial_1	placebo	454	KG00098286	Pain, Neck	0.04591920226812363
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.045372333377599716
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.04502873122692108
+trial_1	placebo	269	KG00100399	pyaemia	0.04309205710887909
+trial_1	placebo	382	KG00099200	haemorrhoids	0.04203818738460541
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.04133553430438042
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.04128071665763855
+trial_1	placebo	282	KG00099309	hypernatraemia	0.041190337389707565
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03985796868801117
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03951656073331833
+trial_1	placebo	164	KG00108827	ileus colon	0.039413679391145706
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.038373786956071854
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03805975243449211
+trial_1	placebo	343	KG00102674	Eruptions, Acneiform	0.0377427414059639
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03717958182096481
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.036963362246751785
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03632863238453865
+trial_1	placebo	100	KG00097815	alopecias	0.03585607558488846
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.035533636808395386
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.03520193696022034
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.03516837954521179
+trial_1	placebo	121	KG00099190	haemorrhage	0.03461603447794914
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.034543875604867935
+trial_1	placebo	339	KG00100334	proteinurias	0.03429220989346504
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03422434255480766
+trial_1	placebo	466	KG00101205	fall	0.033968400210142136
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03343025594949722
+trial_1	placebo	4	KG00098817	epistaxis	0.03343009203672409
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03266790509223938
+trial_2	erdafitinib	87	KG00098599	diarrhoea	0.3240926265716553
+trial_2	erdafitinib	78	KG00099326	Hypertensive diseases	0.23168005049228668
+trial_2	erdafitinib	123	KG00099351	hypokalaemia	0.1993897557258606
+trial_2	erdafitinib	189	KG00101580	Alanine aminotransferase increase	0.1855762004852295
+trial_2	erdafitinib	68	KG00099901	nauseas	0.17628538608551025
+trial_2	erdafitinib	188	KG00101579	Aspartate aminotransferase increase	0.16880612075328827
+trial_2	erdafitinib	67	KG00098673	Dyspepsia, NOS	0.16739796102046967
+trial_2	erdafitinib	17	KG00097991	Asthenia NOS	0.16315722465515137
+trial_2	erdafitinib	20	KG00098540	dehydration	0.1596645563840866
+trial_2	erdafitinib	49	KG00099902	nausea with vomiting	0.15047793090343475
+trial_2	erdafitinib	37	KG00097696	Cramps, Abdominal	0.14226609468460083
+trial_2	erdafitinib	9	KG00098432	Confusion NOS	0.13583068549633026
+trial_2	erdafitinib	46	KG00099121	Headache NOS	0.13525885343551636
+trial_2	erdafitinib	21	KG00098675	dyspnoea	0.1338130235671997
+trial_2	erdafitinib	228	KG00114657	Weight below normal	0.1326322853565216
+trial_2	erdafitinib	101	KG00097901	Anorexia NOS	0.129668191075325
+trial_2	erdafitinib	64	KG00097734	Acrodermatitis, NOS	0.1288597285747528
+trial_2	erdafitinib	77	KG00098450	Constipation NOS	0.12856876850128174
+trial_2	erdafitinib	177	KG00099299	hyperglycaemia	0.1254771649837494
+trial_2	erdafitinib	173	KG00098172	Bronchopneumonia NOS	0.10558042675256729
+trial_2	erdafitinib	200	KG00098539	Disorders, Deglutition	0.1014024168252945
+trial_2	erdafitinib	243	KG00100947	Micturition frequency increased	0.0937429815530777
+trial_2	erdafitinib	350	KG00106765	decreased platelet count	0.09154678136110306
+trial_2	erdafitinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08849930018186569
+trial_2	erdafitinib	29	KG00099354	hyponatraemia	0.08668390661478043
+trial_2	erdafitinib	14	KG00097852	Anemia NOS	0.0850832387804985
+trial_2	erdafitinib	261	KG00101559	raised alkaline phosphatase	0.08333522081375122
+trial_2	erdafitinib	79	KG00100317	Insomnia, Primary	0.07834958285093307
+trial_2	erdafitinib	2	KG00100772	thrombocytopaenia	0.07660575211048126
+trial_2	erdafitinib	239	KG00100128	pareses	0.07571713626384735
+trial_2	erdafitinib	126	KG00100076	Pain NOS	0.07399621605873108
+trial_2	erdafitinib	104	KG00097963	arthralgias	0.0737694576382637
+trial_2	erdafitinib	38	KG00098066	Binocular vision disorders	0.07307487726211548
+trial_2	erdafitinib	191	KG00104055	Biliverdin increased	0.07214357703924179
+trial_2	erdafitinib	82	KG00097697	abdomen distended	0.06810945272445679
+trial_2	erdafitinib	396	KG00100373	Embolism, Pulmonary	0.06755347549915314
+trial_2	erdafitinib	5	KG00099169	haematuria	0.06573447585105896
+trial_2	erdafitinib	72	KG00103771	myalgias	0.06421561539173126
+trial_2	erdafitinib	179	KG00099342	hypocalcaemia	0.0635141059756279
+trial_2	erdafitinib	114	KG00098933	fevers	0.06235094368457794
+trial_2	erdafitinib	85	KG00098474	coughs	0.06090636923909187
+trial_2	erdafitinib	204	KG00098849	Esophagitis, Peptic	0.06069299578666687
+trial_2	erdafitinib	131	KG00100948	Urinary tract infection (& [NOS])	0.06052536144852638
+trial_2	erdafitinib	122	KG00099321	Hypersensitivity NOS	0.05792924016714096
+trial_2	erdafitinib	18	KG00098307	Pain, Chest	0.05743193253874779
+trial_2	erdafitinib	194	KG00110727	Neutrophil Count Decreased	0.05735430866479874
+trial_2	erdafitinib	27	KG00099303	hyperkalaemia	0.0567350909113884
+trial_2	erdafitinib	116	KG00098964	Pain in foot	0.0562259703874588
+trial_2	erdafitinib	136	KG00101582	Dry;skin	0.055802639573812485
+trial_2	erdafitinib	147	KG00098000	atelectases	0.055719044059515
+trial_2	erdafitinib	30	KG00099500	Acute Kidney Failure	0.05548034608364105
+trial_2	erdafitinib	76	KG00100450	Respiratory insufficiency, NOS	0.05359813943505287
+trial_2	erdafitinib	257	KG00100922	Erythema NOS	0.05328020080924034
+trial_2	erdafitinib	130	KG00100683	Stomatitis NOS	0.05315361171960831
+trial_2	erdafitinib	234	KG00098669	dysgeusias	0.05304626375436783
+trial_2	erdafitinib	61	KG00099501	Chronic Kidney Failure	0.051588382571935654
+trial_2	erdafitinib	341	KG00101472	Gamma-glutamyltransferase increased	0.051452070474624634
+trial_2	erdafitinib	249	KG00104430	hypoalbuminaemia	0.05058986693620682
+trial_2	erdafitinib	36	KG00106434	Vision, Blurring Of	0.05012539401650429
+trial_2	erdafitinib	86	KG00098565	Depression, Mental	0.049939367920160294
+trial_2	erdafitinib	151	KG00098274	Infarction, Cerebral	0.04976606369018555
+trial_2	erdafitinib	180	KG00099363	Hypotension NOS	0.04973985254764557
+trial_2	erdafitinib	28	KG00099347	hypoglycaemia	0.04871233180165291
+trial_2	erdafitinib	35	KG00101507	hypomagnesaemia	0.04836015775799751
+trial_2	erdafitinib	355	KG00110857	lymphocyte count decreased	0.04831584170460701
+trial_2	erdafitinib	441	KG00098262	cellulitis nos	0.047514498233795166
+trial_2	erdafitinib	186	KG00101431	creatinine increased	0.04744250699877739
+trial_2	erdafitinib	212	KG00100576	shivers	0.047074850648641586
+trial_2	erdafitinib	33	KG00100094	Pancreatitis NOS	0.04705853387713432
+trial_2	erdafitinib	69	KG00100082	Palpitations NOS	0.04688499867916107
+trial_2	erdafitinib	102	KG00097916	anxieties	0.046123094856739044
+trial_2	erdafitinib	454	KG00098286	Pain, Neck	0.04591920226812363
+trial_2	erdafitinib	139	KG00098855	Sinusitis, Ethmoid	0.045372333377599716
+trial_2	erdafitinib	253	KG00100232	Pleural effusion NOS (disorder)	0.04502873122692108
+trial_2	erdafitinib	269	KG00100399	pyaemia	0.04309205710887909
+trial_2	erdafitinib	382	KG00099200	haemorrhoids	0.04203818738460541
+trial_2	erdafitinib	286	KG00101110	Retention, Urinary	0.04133553430438042
+trial_2	erdafitinib	211	KG00100341	Pruritus NOS	0.04128071665763855
+trial_2	erdafitinib	282	KG00099309	hypernatraemia	0.041190337389707565
+trial_2	erdafitinib	371	KG00098517	Cystitis (NOS)	0.03985796868801117
+trial_2	erdafitinib	276	KG00099127	Arrest, Cardiac	0.03951656073331833
+trial_2	erdafitinib	164	KG00108827	ileus colon	0.039413679391145706
+trial_2	erdafitinib	97	KG00104198	LIVER ENZYME ELEVATED	0.038373786956071854
+trial_2	erdafitinib	96	KG00101679	Unattended death NOS	0.03805975243449211
+trial_2	erdafitinib	343	KG00102674	Eruptions, Acneiform	0.0377427414059639
+trial_2	erdafitinib	144	KG00099610	Leukopenia NOS	0.03717958182096481
+trial_2	erdafitinib	288	KG00101223	hypophosphataemia	0.036963362246751785
+trial_2	erdafitinib	75	KG00100195	Dolens, Phlegmasia Alba	0.03632863238453865
+trial_2	erdafitinib	100	KG00097815	alopecias	0.03585607558488846
+trial_2	erdafitinib	98	KG00097718	Incised wound, NOS	0.035533636808395386
+trial_2	erdafitinib	218	KG00100801	Tinnitus NOS	0.03520193696022034
+trial_2	erdafitinib	163	KG00104050	bowel obstructions small	0.03516837954521179
+trial_2	erdafitinib	121	KG00099190	haemorrhage	0.03461603447794914
+trial_2	erdafitinib	361	KG00098004	Fibrillation, Atrial	0.034543875604867935
+trial_2	erdafitinib	339	KG00100334	proteinurias	0.03429220989346504
+trial_2	erdafitinib	142	KG00100923	Unspecified infectious and parasitic diseases	0.03422434255480766
+trial_2	erdafitinib	466	KG00101205	fall	0.033968400210142136
+trial_2	erdafitinib	31	KG00099872	Infarction, Myocardial	0.03343025594949722
+trial_2	erdafitinib	4	KG00098817	epistaxis	0.03343009203672409
+trial_2	erdafitinib	422	KG00101429	Creatine phosphokinase increased	0.03266790509223938

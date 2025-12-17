@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.35337910056114197
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.26443594694137573
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.21145984530448914
+trial_1	placebo	123	KG00099351	hypokalaemia	0.2014501392841339
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.18443970382213593
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.18019573390483856
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.1783219426870346
+trial_1	placebo	21	KG00098675	dyspnoea	0.17085430026054382
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.16632559895515442
+trial_1	placebo	46	KG00099121	Headache NOS	0.16525137424468994
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.16459880769252777
+trial_1	placebo	20	KG00098540	dehydration	0.16361181437969208
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.16060501337051392
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15584295988082886
+trial_1	placebo	228	KG00114657	Weight below normal	0.14610084891319275
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1444072723388672
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1343664675951004
+trial_1	placebo	68	KG00099901	nauseas	0.13297881186008453
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12853564321994781
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1273554116487503
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.12725968658924103
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.12030646950006485
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.11864346265792847
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.11679733544588089
+trial_1	placebo	350	KG00106765	decreased platelet count	0.11097639799118042
+trial_1	placebo	114	KG00098933	fevers	0.10951311141252518
+trial_1	placebo	104	KG00097963	arthralgias	0.10339407622814178
+trial_1	placebo	126	KG00100076	Pain NOS	0.10257059335708618
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.10029570758342743
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.1001257672905922
+trial_1	placebo	85	KG00098474	coughs	0.09527681022882462
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.09382486343383789
+trial_1	placebo	29	KG00099354	hyponatraemia	0.09320181608200073
+trial_1	placebo	72	KG00103771	myalgias	0.09173302352428436
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.08885367959737778
+trial_1	placebo	116	KG00098964	Pain in foot	0.08274032175540924
+trial_1	placebo	239	KG00100128	pareses	0.08209430426359177
+trial_1	placebo	257	KG00100922	Erythema NOS	0.08123250305652618
+trial_1	placebo	82	KG00097697	abdomen distended	0.07997994869947433
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.07946411520242691
+trial_1	placebo	5	KG00099169	haematuria	0.07906468957662582
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07835328578948975
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.07745184004306793
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.07532291859388351
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0738031417131424
+trial_1	placebo	18	KG00098307	Pain, Chest	0.07354914397001266
+trial_1	placebo	136	KG00101582	Dry;skin	0.07293380051851273
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.07286369055509567
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.07215173542499542
+trial_1	placebo	212	KG00100576	shivers	0.07172812521457672
+trial_1	placebo	234	KG00098669	dysgeusias	0.07058320939540863
+trial_1	placebo	4	KG00098817	epistaxis	0.06921705603599548
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.06902170181274414
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06798867136240005
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.06763850152492523
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06585425138473511
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.06508529186248779
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06413650512695312
+trial_1	placebo	454	KG00098286	Pain, Neck	0.06351857632398605
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.06226253882050514
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06222810968756676
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.06106631085276604
+trial_1	placebo	100	KG00097815	alopecias	0.06053338572382927
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.060531582683324814
+trial_1	placebo	102	KG00097916	anxieties	0.060442328453063965
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.059647224843502045
+trial_1	placebo	147	KG00098000	atelectases	0.059439774602651596
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.058917053043842316
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.05821670964360237
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.05715888738632202
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.05700981989502907
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05684685707092285
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.05678190663456917
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.05663729086518288
+trial_1	placebo	441	KG00098262	cellulitis nos	0.056382615119218826
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05616932734847069
+trial_1	placebo	269	KG00100399	pyaemia	0.05590476095676422
+trial_1	placebo	221	KG00101207	peripheral oedema	0.05532192811369896
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.05411794036626816
+trial_1	placebo	466	KG00101205	fall	0.053662143647670746
+trial_1	placebo	339	KG00100334	proteinurias	0.0531306192278862
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.052576351910829544
+trial_1	placebo	282	KG00099309	hypernatraemia	0.05169062688946724
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.05097560957074165
+trial_1	placebo	186	KG00101431	creatinine increased	0.05080066993832588
+trial_1	placebo	382	KG00099200	haemorrhoids	0.050628483295440674
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04938549920916557
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04832904413342476
+trial_1	placebo	153	KG00099579	lethargy	0.046889591962099075
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.04674366116523743
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.04450838640332222
+trial_1	placebo	508	KG00108565	blood glucose increased	0.04401816800236702
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.04353813827037811
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.04249341040849686
+trial_1	placebo	132	KG00101045	Gain, Weight	0.042070113122463226
+trial_1	placebo	457	KG00099853	Pain, Musculoskeletal	0.04190199077129364
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.04080159589648247
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.04003042355179787
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.039796408265829086
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.039607059210538864
+trial_2	epalrestat	87	KG00098599	diarrhoea	0.35337910056114197
+trial_2	epalrestat	78	KG00099326	Hypertensive diseases	0.26443594694137573
+trial_2	epalrestat	17	KG00097991	Asthenia NOS	0.21145984530448914
+trial_2	epalrestat	123	KG00099351	hypokalaemia	0.2014501392841339
+trial_2	epalrestat	189	KG00101580	Alanine aminotransferase increase	0.18443970382213593
+trial_2	epalrestat	177	KG00099299	hyperglycaemia	0.18019573390483856
+trial_2	epalrestat	37	KG00097696	Cramps, Abdominal	0.1783219426870346
+trial_2	epalrestat	21	KG00098675	dyspnoea	0.17085430026054382
+trial_2	epalrestat	64	KG00097734	Acrodermatitis, NOS	0.16632559895515442
+trial_2	epalrestat	46	KG00099121	Headache NOS	0.16525137424468994
+trial_2	epalrestat	67	KG00098673	Dyspepsia, NOS	0.16459880769252777
+trial_2	epalrestat	20	KG00098540	dehydration	0.16361181437969208
+trial_2	epalrestat	188	KG00101579	Aspartate aminotransferase increase	0.16060501337051392
+trial_2	epalrestat	9	KG00098432	Confusion NOS	0.15584295988082886
+trial_2	epalrestat	228	KG00114657	Weight below normal	0.14610084891319275
+trial_2	epalrestat	173	KG00098172	Bronchopneumonia NOS	0.1444072723388672
+trial_2	epalrestat	14	KG00097852	Anemia NOS	0.1343664675951004
+trial_2	epalrestat	68	KG00099901	nauseas	0.13297881186008453
+trial_2	epalrestat	77	KG00098450	Constipation NOS	0.12853564321994781
+trial_2	epalrestat	49	KG00099902	nausea with vomiting	0.1273554116487503
+trial_2	epalrestat	2	KG00100772	thrombocytopaenia	0.12725968658924103
+trial_2	epalrestat	79	KG00100317	Insomnia, Primary	0.12030646950006485
+trial_2	epalrestat	200	KG00098539	Disorders, Deglutition	0.11864346265792847
+trial_2	epalrestat	243	KG00100947	Micturition frequency increased	0.11679733544588089
+trial_2	epalrestat	350	KG00106765	decreased platelet count	0.11097639799118042
+trial_2	epalrestat	114	KG00098933	fevers	0.10951311141252518
+trial_2	epalrestat	104	KG00097963	arthralgias	0.10339407622814178
+trial_2	epalrestat	126	KG00100076	Pain NOS	0.10257059335708618
+trial_2	epalrestat	101	KG00097901	Anorexia NOS	0.10029570758342743
+trial_2	epalrestat	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.1001257672905922
+trial_2	epalrestat	85	KG00098474	coughs	0.09527681022882462
+trial_2	epalrestat	179	KG00099342	hypocalcaemia	0.09382486343383789
+trial_2	epalrestat	29	KG00099354	hyponatraemia	0.09320181608200073
+trial_2	epalrestat	72	KG00103771	myalgias	0.09173302352428436
+trial_2	epalrestat	28	KG00099347	hypoglycaemia	0.08885367959737778
+trial_2	epalrestat	116	KG00098964	Pain in foot	0.08274032175540924
+trial_2	epalrestat	239	KG00100128	pareses	0.08209430426359177
+trial_2	epalrestat	257	KG00100922	Erythema NOS	0.08123250305652618
+trial_2	epalrestat	82	KG00097697	abdomen distended	0.07997994869947433
+trial_2	epalrestat	261	KG00101559	raised alkaline phosphatase	0.07946411520242691
+trial_2	epalrestat	5	KG00099169	haematuria	0.07906468957662582
+trial_2	epalrestat	86	KG00098565	Depression, Mental	0.07835328578948975
+trial_2	epalrestat	131	KG00100948	Urinary tract infection (& [NOS])	0.07745184004306793
+trial_2	epalrestat	76	KG00100450	Respiratory insufficiency, NOS	0.07532291859388351
+trial_2	epalrestat	191	KG00104055	Biliverdin increased	0.0738031417131424
+trial_2	epalrestat	18	KG00098307	Pain, Chest	0.07354914397001266
+trial_2	epalrestat	136	KG00101582	Dry;skin	0.07293380051851273
+trial_2	epalrestat	27	KG00099303	hyperkalaemia	0.07286369055509567
+trial_2	epalrestat	194	KG00110727	Neutrophil Count Decreased	0.07215173542499542
+trial_2	epalrestat	212	KG00100576	shivers	0.07172812521457672
+trial_2	epalrestat	234	KG00098669	dysgeusias	0.07058320939540863
+trial_2	epalrestat	4	KG00098817	epistaxis	0.06921705603599548
+trial_2	epalrestat	122	KG00099321	Hypersensitivity NOS	0.06902170181274414
+trial_2	epalrestat	180	KG00099363	Hypotension NOS	0.06798867136240005
+trial_2	epalrestat	204	KG00098849	Esophagitis, Peptic	0.06763850152492523
+trial_2	epalrestat	355	KG00110857	lymphocyte count decreased	0.06585425138473511
+trial_2	epalrestat	36	KG00106434	Vision, Blurring Of	0.06508529186248779
+trial_2	epalrestat	30	KG00099500	Acute Kidney Failure	0.06413650512695312
+trial_2	epalrestat	454	KG00098286	Pain, Neck	0.06351857632398605
+trial_2	epalrestat	69	KG00100082	Palpitations NOS	0.06226253882050514
+trial_2	epalrestat	61	KG00099501	Chronic Kidney Failure	0.06222810968756676
+trial_2	epalrestat	130	KG00100683	Stomatitis NOS	0.06106631085276604
+trial_2	epalrestat	100	KG00097815	alopecias	0.06053338572382927
+trial_2	epalrestat	396	KG00100373	Embolism, Pulmonary	0.060531582683324814
+trial_2	epalrestat	102	KG00097916	anxieties	0.060442328453063965
+trial_2	epalrestat	253	KG00100232	Pleural effusion NOS (disorder)	0.059647224843502045
+trial_2	epalrestat	147	KG00098000	atelectases	0.059439774602651596
+trial_2	epalrestat	139	KG00098855	Sinusitis, Ethmoid	0.058917053043842316
+trial_2	epalrestat	38	KG00098066	Binocular vision disorders	0.05821670964360237
+trial_2	epalrestat	211	KG00100341	Pruritus NOS	0.05715888738632202
+trial_2	epalrestat	249	KG00104430	hypoalbuminaemia	0.05700981989502907
+trial_2	epalrestat	144	KG00099610	Leukopenia NOS	0.05684685707092285
+trial_2	epalrestat	35	KG00101507	hypomagnesaemia	0.05678190663456917
+trial_2	epalrestat	98	KG00097718	Incised wound, NOS	0.05663729086518288
+trial_2	epalrestat	441	KG00098262	cellulitis nos	0.056382615119218826
+trial_2	epalrestat	151	KG00098274	Infarction, Cerebral	0.05616932734847069
+trial_2	epalrestat	269	KG00100399	pyaemia	0.05590476095676422
+trial_2	epalrestat	221	KG00101207	peripheral oedema	0.05532192811369896
+trial_2	epalrestat	341	KG00101472	Gamma-glutamyltransferase increased	0.05411794036626816
+trial_2	epalrestat	466	KG00101205	fall	0.053662143647670746
+trial_2	epalrestat	339	KG00100334	proteinurias	0.0531306192278862
+trial_2	epalrestat	92	KG00100926	Infections, Upper Respiratory	0.052576351910829544
+trial_2	epalrestat	282	KG00099309	hypernatraemia	0.05169062688946724
+trial_2	epalrestat	288	KG00101223	hypophosphataemia	0.05097560957074165
+trial_2	epalrestat	186	KG00101431	creatinine increased	0.05080066993832588
+trial_2	epalrestat	382	KG00099200	haemorrhoids	0.050628483295440674
+trial_2	epalrestat	276	KG00099127	Arrest, Cardiac	0.04938549920916557
+trial_2	epalrestat	1	KG00099959	Neutropenia NOS	0.04832904413342476
+trial_2	epalrestat	153	KG00099579	lethargy	0.046889591962099075
+trial_2	epalrestat	371	KG00098517	Cystitis (NOS)	0.04674366116523743
+trial_2	epalrestat	33	KG00100094	Pancreatitis NOS	0.04450838640332222
+trial_2	epalrestat	508	KG00108565	blood glucose increased	0.04401816800236702
+trial_2	epalrestat	163	KG00104050	bowel obstructions small	0.04353813827037811
+trial_2	epalrestat	97	KG00104198	LIVER ENZYME ELEVATED	0.04249341040849686
+trial_2	epalrestat	132	KG00101045	Gain, Weight	0.042070113122463226
+trial_2	epalrestat	457	KG00099853	Pain, Musculoskeletal	0.04190199077129364
+trial_2	epalrestat	108	KG00098479	Cramp, Limb	0.04080159589648247
+trial_2	epalrestat	256	KG00100738	Tachycardia, Sinus	0.04003042355179787
+trial_2	epalrestat	400	KG00100925	Upper gastrointestinal haemorrhage	0.039796408265829086
+trial_2	epalrestat	286	KG00101110	Retention, Urinary	0.039607059210538864

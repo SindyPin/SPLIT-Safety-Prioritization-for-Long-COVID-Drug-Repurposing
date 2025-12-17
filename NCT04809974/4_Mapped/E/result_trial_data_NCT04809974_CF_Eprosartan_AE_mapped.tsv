@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.19548165798187256
+trial_1	placebo	87	KG00098599	diarrhoea	0.1488325446844101
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12766310572624207
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11471932381391525
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11215666681528091
+trial_1	placebo	20	KG00098540	dehydration	0.10051079094409943
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09830718487501144
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09709390252828598
+trial_1	placebo	46	KG00099121	Headache NOS	0.0957605391740799
+trial_1	placebo	21	KG00098675	dyspnoea	0.07531747221946716
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07220545411109924
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0706145241856575
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07020192593336105
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06815683841705322
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0675918310880661
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06565872579813004
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0656517818570137
+trial_1	placebo	85	KG00098474	coughs	0.06402098387479782
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06372837722301483
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06356686353683472
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06292743235826492
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06046595796942711
+trial_1	placebo	228	KG00114657	Weight below normal	0.057952169328927994
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.057654768228530884
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05739488825201988
+trial_1	placebo	126	KG00100076	Pain NOS	0.05655834078788757
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05417907238006592
+trial_1	placebo	114	KG00098933	fevers	0.053838152438402176
+trial_1	placebo	104	KG00097963	arthralgias	0.053422167897224426
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.052898623049259186
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05074705183506012
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04994861036539078
+trial_1	placebo	121	KG00099190	haemorrhage	0.04977021366357803
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04836681857705116
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04671633616089821
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.045912109315395355
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.045522671192884445
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04480615258216858
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04438215121626854
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.043822284787893295
+trial_1	placebo	86	KG00098565	Depression, Mental	0.042621880769729614
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04184093698859215
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04168406501412392
+trial_1	placebo	5	KG00099169	haematuria	0.04164484143257141
+trial_1	placebo	164	KG00108827	ileus colon	0.040880028158426285
+trial_1	placebo	68	KG00099901	nauseas	0.04016182944178581
+trial_1	placebo	239	KG00100128	pareses	0.03962705284357071
+trial_1	placebo	77	KG00098450	Constipation NOS	0.039334736764431
+trial_1	placebo	269	KG00100399	pyaemia	0.03893226385116577
+trial_1	placebo	147	KG00098000	atelectases	0.03885973244905472
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03803528472781181
+trial_1	placebo	72	KG00103771	myalgias	0.0366249643266201
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03503313288092613
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03463092818856239
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03358308970928192
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03340901434421539
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0330827459692955
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03276212885975838
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03192807734012604
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03168078139424324
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03158295154571533
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03148351237177849
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03140048682689667
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.031347841024398804
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.030204592272639275
+trial_1	placebo	186	KG00101431	creatinine increased	0.030154410749673843
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02965921349823475
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02942468225955963
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.029096879065036774
+trial_1	placebo	116	KG00098964	Pain in foot	0.028885455802083015
+trial_1	placebo	339	KG00100334	proteinurias	0.02885138802230358
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.028427133336663246
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.028292987495660782
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02791898138821125
+trial_1	placebo	466	KG00101205	fall	0.027107033878564835
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.0266940388828516
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.026378635317087173
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026214560493826866
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02609080821275711
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.026053255423903465
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025850489735603333
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.025814861059188843
+trial_1	placebo	102	KG00097916	anxieties	0.025692375376820564
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.025300072506070137
+trial_1	placebo	262	KG00101199	agitation	0.02512218803167343
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02477377839386463
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.024763111025094986
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02471870183944702
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.024662520736455917
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.02448640577495098
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.024469174444675446
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02404624968767166
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.024007171392440796
+trial_1	placebo	456	KG00099420	Influenzae	0.023809636011719704
+trial_1	placebo	382	KG00099200	haemorrhoids	0.023751016706228256
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.023587124422192574
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023458654060959816
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023431915789842606
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02337307296693325
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02330058626830578
+trial_2	eprosartan	78	KG00099326	Hypertensive diseases	0.19548165798187256
+trial_2	eprosartan	87	KG00098599	diarrhoea	0.1488325446844101
+trial_2	eprosartan	123	KG00099351	hypokalaemia	0.12766310572624207
+trial_2	eprosartan	9	KG00098432	Confusion NOS	0.11471932381391525
+trial_2	eprosartan	173	KG00098172	Bronchopneumonia NOS	0.11215666681528091
+trial_2	eprosartan	20	KG00098540	dehydration	0.10051079094409943
+trial_2	eprosartan	177	KG00099299	hyperglycaemia	0.09830718487501144
+trial_2	eprosartan	17	KG00097991	Asthenia NOS	0.09709390252828598
+trial_2	eprosartan	46	KG00099121	Headache NOS	0.0957605391740799
+trial_2	eprosartan	21	KG00098675	dyspnoea	0.07531747221946716
+trial_2	eprosartan	37	KG00097696	Cramps, Abdominal	0.07220545411109924
+trial_2	eprosartan	189	KG00101580	Alanine aminotransferase increase	0.0706145241856575
+trial_2	eprosartan	2	KG00100772	thrombocytopaenia	0.07020192593336105
+trial_2	eprosartan	180	KG00099363	Hypotension NOS	0.06815683841705322
+trial_2	eprosartan	151	KG00098274	Infarction, Cerebral	0.0675918310880661
+trial_2	eprosartan	67	KG00098673	Dyspepsia, NOS	0.06565872579813004
+trial_2	eprosartan	14	KG00097852	Anemia NOS	0.0656517818570137
+trial_2	eprosartan	85	KG00098474	coughs	0.06402098387479782
+trial_2	eprosartan	188	KG00101579	Aspartate aminotransferase increase	0.06372837722301483
+trial_2	eprosartan	29	KG00099354	hyponatraemia	0.06356686353683472
+trial_2	eprosartan	350	KG00106765	decreased platelet count	0.06292743235826492
+trial_2	eprosartan	76	KG00100450	Respiratory insufficiency, NOS	0.06046595796942711
+trial_2	eprosartan	228	KG00114657	Weight below normal	0.057952169328927994
+trial_2	eprosartan	61	KG00099501	Chronic Kidney Failure	0.057654768228530884
+trial_2	eprosartan	200	KG00098539	Disorders, Deglutition	0.05739488825201988
+trial_2	eprosartan	126	KG00100076	Pain NOS	0.05655834078788757
+trial_2	eprosartan	49	KG00099902	nausea with vomiting	0.05417907238006592
+trial_2	eprosartan	114	KG00098933	fevers	0.053838152438402176
+trial_2	eprosartan	104	KG00097963	arthralgias	0.053422167897224426
+trial_2	eprosartan	27	KG00099303	hyperkalaemia	0.052898623049259186
+trial_2	eprosartan	64	KG00097734	Acrodermatitis, NOS	0.05074705183506012
+trial_2	eprosartan	96	KG00101679	Unattended death NOS	0.04994861036539078
+trial_2	eprosartan	121	KG00099190	haemorrhage	0.04977021366357803
+trial_2	eprosartan	243	KG00100947	Micturition frequency increased	0.04836681857705116
+trial_2	eprosartan	276	KG00099127	Arrest, Cardiac	0.04671633616089821
+trial_2	eprosartan	179	KG00099342	hypocalcaemia	0.045912109315395355
+trial_2	eprosartan	79	KG00100317	Insomnia, Primary	0.045522671192884445
+trial_2	eprosartan	28	KG00099347	hypoglycaemia	0.04480615258216858
+trial_2	eprosartan	122	KG00099321	Hypersensitivity NOS	0.04438215121626854
+trial_2	eprosartan	30	KG00099500	Acute Kidney Failure	0.043822284787893295
+trial_2	eprosartan	86	KG00098565	Depression, Mental	0.042621880769729614
+trial_2	eprosartan	142	KG00100923	Unspecified infectious and parasitic diseases	0.04184093698859215
+trial_2	eprosartan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04168406501412392
+trial_2	eprosartan	5	KG00099169	haematuria	0.04164484143257141
+trial_2	eprosartan	164	KG00108827	ileus colon	0.040880028158426285
+trial_2	eprosartan	68	KG00099901	nauseas	0.04016182944178581
+trial_2	eprosartan	239	KG00100128	pareses	0.03962705284357071
+trial_2	eprosartan	77	KG00098450	Constipation NOS	0.039334736764431
+trial_2	eprosartan	269	KG00100399	pyaemia	0.03893226385116577
+trial_2	eprosartan	147	KG00098000	atelectases	0.03885973244905472
+trial_2	eprosartan	18	KG00098307	Pain, Chest	0.03803528472781181
+trial_2	eprosartan	72	KG00103771	myalgias	0.0366249643266201
+trial_2	eprosartan	194	KG00110727	Neutrophil Count Decreased	0.03503313288092613
+trial_2	eprosartan	131	KG00100948	Urinary tract infection (& [NOS])	0.03463092818856239
+trial_2	eprosartan	282	KG00099309	hypernatraemia	0.03358308970928192
+trial_2	eprosartan	31	KG00099872	Infarction, Myocardial	0.03340901434421539
+trial_2	eprosartan	191	KG00104055	Biliverdin increased	0.0330827459692955
+trial_2	eprosartan	132	KG00101045	Gain, Weight	0.03276212885975838
+trial_2	eprosartan	35	KG00101507	hypomagnesaemia	0.03192807734012604
+trial_2	eprosartan	139	KG00098855	Sinusitis, Ethmoid	0.03168078139424324
+trial_2	eprosartan	130	KG00100683	Stomatitis NOS	0.03158295154571533
+trial_2	eprosartan	249	KG00104430	hypoalbuminaemia	0.03148351237177849
+trial_2	eprosartan	253	KG00100232	Pleural effusion NOS (disorder)	0.03140048682689667
+trial_2	eprosartan	361	KG00098004	Fibrillation, Atrial	0.031347841024398804
+trial_2	eprosartan	144	KG00099610	Leukopenia NOS	0.030204592272639275
+trial_2	eprosartan	186	KG00101431	creatinine increased	0.030154410749673843
+trial_2	eprosartan	396	KG00100373	Embolism, Pulmonary	0.02965921349823475
+trial_2	eprosartan	355	KG00110857	lymphocyte count decreased	0.02942468225955963
+trial_2	eprosartan	356	KG00112623	Infectious Lung Disorders	0.029096879065036774
+trial_2	eprosartan	116	KG00098964	Pain in foot	0.028885455802083015
+trial_2	eprosartan	339	KG00100334	proteinurias	0.02885138802230358
+trial_2	eprosartan	22	KG00098705	Edema (NOS)	0.028427133336663246
+trial_2	eprosartan	288	KG00101223	hypophosphataemia	0.028292987495660782
+trial_2	eprosartan	138	KG00098796	epidemic vomiting syndrome	0.02791898138821125
+trial_2	eprosartan	466	KG00101205	fall	0.027107033878564835
+trial_2	eprosartan	15	KG00097882	Angina pectoris NOS	0.0266940388828516
+trial_2	eprosartan	256	KG00100738	Tachycardia, Sinus	0.026378635317087173
+trial_2	eprosartan	75	KG00100195	Dolens, Phlegmasia Alba	0.026214560493826866
+trial_2	eprosartan	154	KG00099686	Lymphopenias	0.02609080821275711
+trial_2	eprosartan	394	KG00100243	Pneumonia, Aspiration	0.026053255423903465
+trial_2	eprosartan	261	KG00101559	raised alkaline phosphatase	0.025850489735603333
+trial_2	eprosartan	101	KG00097901	Anorexia NOS	0.025814861059188843
+trial_2	eprosartan	102	KG00097916	anxieties	0.025692375376820564
+trial_2	eprosartan	371	KG00098517	Cystitis (NOS)	0.025300072506070137
+trial_2	eprosartan	262	KG00101199	agitation	0.02512218803167343
+trial_2	eprosartan	92	KG00100926	Infections, Upper Respiratory	0.02477377839386463
+trial_2	eprosartan	69	KG00100082	Palpitations NOS	0.024763111025094986
+trial_2	eprosartan	11	KG00097993	Asthma NOS	0.02471870183944702
+trial_2	eprosartan	422	KG00101429	Creatine phosphokinase increased	0.024662520736455917
+trial_2	eprosartan	183	KG00100449	Adult Respiratory Distress Syndrome	0.02448640577495098
+trial_2	eprosartan	246	KG00103338	Aspartate Aminotransferase Measurement	0.024469174444675446
+trial_2	eprosartan	152	KG00099402	INCONTINENCE NOS	0.02404624968767166
+trial_2	eprosartan	33	KG00100094	Pancreatitis NOS	0.024007171392440796
+trial_2	eprosartan	456	KG00099420	Influenzae	0.023809636011719704
+trial_2	eprosartan	382	KG00099200	haemorrhoids	0.023751016706228256
+trial_2	eprosartan	38	KG00098066	Binocular vision disorders	0.023587124422192574
+trial_2	eprosartan	118	KG00099011	Gastritis NOS	0.023458654060959816
+trial_2	eprosartan	286	KG00101110	Retention, Urinary	0.023431915789842606
+trial_2	eprosartan	221	KG00101207	peripheral oedema	0.02337307296693325
+trial_2	eprosartan	268	KG00099557	Heart Failure, Left-Sided	0.02330058626830578

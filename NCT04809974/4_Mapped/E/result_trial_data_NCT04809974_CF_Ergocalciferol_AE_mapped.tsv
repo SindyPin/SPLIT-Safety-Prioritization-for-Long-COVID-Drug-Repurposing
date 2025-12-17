@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.08452159911394119
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07477745413780212
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07117363065481186
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05277122184634209
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04663188010454178
+trial_1	placebo	20	KG00098540	dehydration	0.04568309336900711
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04332171753048897
+trial_1	placebo	126	KG00100076	Pain NOS	0.041607435792684555
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03886178880929947
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03882549703121185
+trial_1	placebo	46	KG00099121	Headache NOS	0.03814542293548584
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03771066293120384
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03708574175834656
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03644651547074318
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03600055351853371
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03530578687787056
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03381909802556038
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03377766162157059
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03206075355410576
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03081013821065426
+trial_1	placebo	21	KG00098675	dyspnoea	0.02955576404929161
+trial_1	placebo	29	KG00099354	hyponatraemia	0.028813321143388748
+trial_1	placebo	121	KG00099190	haemorrhage	0.028624586760997772
+trial_1	placebo	239	KG00100128	pareses	0.027631226927042007
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.027149934321641922
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02707502245903015
+trial_1	placebo	147	KG00098000	atelectases	0.026860540732741356
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.026320558041334152
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.025942273437976837
+trial_1	placebo	228	KG00114657	Weight below normal	0.025922628119587898
+trial_1	placebo	5	KG00099169	haematuria	0.024409083649516106
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.024167954921722412
+trial_1	placebo	14	KG00097852	Anemia NOS	0.023914743214845657
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.023836299777030945
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.023547178134322166
+trial_1	placebo	466	KG00101205	fall	0.02253945730626583
+trial_1	placebo	104	KG00097963	arthralgias	0.021807515993714333
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021741827949881554
+trial_1	placebo	68	KG00099901	nauseas	0.02167583629488945
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02072998695075512
+trial_1	placebo	85	KG00098474	coughs	0.02018263190984726
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02003517374396324
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.020018965005874634
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.019173266366124153
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019169291481375694
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019033802673220634
+trial_1	placebo	114	KG00098933	fevers	0.01885407231748104
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.018729444593191147
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.018408169969916344
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01819671504199505
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018147552385926247
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.018088839948177338
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018057115375995636
+trial_1	placebo	132	KG00101045	Gain, Weight	0.017247973009943962
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.017242049798369408
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.01714264415204525
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017128702253103256
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01669962890446186
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.016628915444016457
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01661735586822033
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.0163562074303627
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.016329310834407806
+trial_1	placebo	116	KG00098964	Pain in foot	0.016218749806284904
+trial_1	placebo	282	KG00099309	hypernatraemia	0.016005361452698708
+trial_1	placebo	102	KG00097916	anxieties	0.015947841107845306
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.015818621963262558
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01556465309113264
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015390150249004364
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.015221279114484787
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.015213840641081333
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.015152345411479473
+trial_1	placebo	72	KG00103771	myalgias	0.014992063865065575
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014981906861066818
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01454019732773304
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.014442204497754574
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.014274967834353447
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.014187137596309185
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.013943714089691639
+trial_1	placebo	18	KG00098307	Pain, Chest	0.013769995421171188
+trial_1	placebo	248	KG00103361	measurement of creatinine	0.013552181422710419
+trial_1	placebo	186	KG00101431	creatinine increased	0.013384755700826645
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013311048969626427
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.013103839010000229
+trial_1	placebo	269	KG00100399	pyaemia	0.012867442332208157
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.012850052677094936
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012774988077580929
+trial_1	placebo	456	KG00099420	Influenzae	0.012751753441989422
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.0126271303743124
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.012584717944264412
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012527454644441605
+trial_1	placebo	262	KG00101199	agitation	0.012373967096209526
+trial_1	placebo	82	KG00097697	abdomen distended	0.01234903372824192
+trial_1	placebo	454	KG00098286	Pain, Neck	0.012266179546713829
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012196688912808895
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01200099941343069
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.011907171458005905
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011822236701846123
+trial_1	placebo	508	KG00108565	blood glucose increased	0.011814333498477936
+trial_1	placebo	135	KG00101549	bone pain	0.011622017249464989
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.011615331284701824
+trial_2	ergocalciferol	87	KG00098599	diarrhoea	0.08452159911394119
+trial_2	ergocalciferol	78	KG00099326	Hypertensive diseases	0.07477745413780212
+trial_2	ergocalciferol	177	KG00099299	hyperglycaemia	0.07117363065481186
+trial_2	ergocalciferol	173	KG00098172	Bronchopneumonia NOS	0.05277122184634209
+trial_2	ergocalciferol	123	KG00099351	hypokalaemia	0.04663188010454178
+trial_2	ergocalciferol	20	KG00098540	dehydration	0.04568309336900711
+trial_2	ergocalciferol	17	KG00097991	Asthenia NOS	0.04332171753048897
+trial_2	ergocalciferol	126	KG00100076	Pain NOS	0.041607435792684555
+trial_2	ergocalciferol	9	KG00098432	Confusion NOS	0.03886178880929947
+trial_2	ergocalciferol	77	KG00098450	Constipation NOS	0.03882549703121185
+trial_2	ergocalciferol	46	KG00099121	Headache NOS	0.03814542293548584
+trial_2	ergocalciferol	179	KG00099342	hypocalcaemia	0.03771066293120384
+trial_2	ergocalciferol	67	KG00098673	Dyspepsia, NOS	0.03708574175834656
+trial_2	ergocalciferol	28	KG00099347	hypoglycaemia	0.03644651547074318
+trial_2	ergocalciferol	37	KG00097696	Cramps, Abdominal	0.03600055351853371
+trial_2	ergocalciferol	200	KG00098539	Disorders, Deglutition	0.03530578687787056
+trial_2	ergocalciferol	151	KG00098274	Infarction, Cerebral	0.03381909802556038
+trial_2	ergocalciferol	86	KG00098565	Depression, Mental	0.03377766162157059
+trial_2	ergocalciferol	64	KG00097734	Acrodermatitis, NOS	0.03206075355410576
+trial_2	ergocalciferol	96	KG00101679	Unattended death NOS	0.03081013821065426
+trial_2	ergocalciferol	21	KG00098675	dyspnoea	0.02955576404929161
+trial_2	ergocalciferol	29	KG00099354	hyponatraemia	0.028813321143388748
+trial_2	ergocalciferol	121	KG00099190	haemorrhage	0.028624586760997772
+trial_2	ergocalciferol	239	KG00100128	pareses	0.027631226927042007
+trial_2	ergocalciferol	243	KG00100947	Micturition frequency increased	0.027149934321641922
+trial_2	ergocalciferol	350	KG00106765	decreased platelet count	0.02707502245903015
+trial_2	ergocalciferol	147	KG00098000	atelectases	0.026860540732741356
+trial_2	ergocalciferol	160	KG00099291	hypercalcaemia	0.026320558041334152
+trial_2	ergocalciferol	61	KG00099501	Chronic Kidney Failure	0.025942273437976837
+trial_2	ergocalciferol	228	KG00114657	Weight below normal	0.025922628119587898
+trial_2	ergocalciferol	5	KG00099169	haematuria	0.024409083649516106
+trial_2	ergocalciferol	180	KG00099363	Hypotension NOS	0.024167954921722412
+trial_2	ergocalciferol	14	KG00097852	Anemia NOS	0.023914743214845657
+trial_2	ergocalciferol	76	KG00100450	Respiratory insufficiency, NOS	0.023836299777030945
+trial_2	ergocalciferol	27	KG00099303	hyperkalaemia	0.023547178134322166
+trial_2	ergocalciferol	466	KG00101205	fall	0.02253945730626583
+trial_2	ergocalciferol	104	KG00097963	arthralgias	0.021807515993714333
+trial_2	ergocalciferol	122	KG00099321	Hypersensitivity NOS	0.021741827949881554
+trial_2	ergocalciferol	68	KG00099901	nauseas	0.02167583629488945
+trial_2	ergocalciferol	92	KG00100926	Infections, Upper Respiratory	0.02072998695075512
+trial_2	ergocalciferol	85	KG00098474	coughs	0.02018263190984726
+trial_2	ergocalciferol	131	KG00100948	Urinary tract infection (& [NOS])	0.02003517374396324
+trial_2	ergocalciferol	79	KG00100317	Insomnia, Primary	0.020018965005874634
+trial_2	ergocalciferol	139	KG00098855	Sinusitis, Ethmoid	0.019173266366124153
+trial_2	ergocalciferol	249	KG00104430	hypoalbuminaemia	0.019169291481375694
+trial_2	ergocalciferol	38	KG00098066	Binocular vision disorders	0.019033802673220634
+trial_2	ergocalciferol	114	KG00098933	fevers	0.01885407231748104
+trial_2	ergocalciferol	2	KG00100772	thrombocytopaenia	0.018729444593191147
+trial_2	ergocalciferol	49	KG00099902	nausea with vomiting	0.018408169969916344
+trial_2	ergocalciferol	441	KG00098262	cellulitis nos	0.01819671504199505
+trial_2	ergocalciferol	30	KG00099500	Acute Kidney Failure	0.018147552385926247
+trial_2	ergocalciferol	195	KG00097814	Atopic Rhinitis	0.018088839948177338
+trial_2	ergocalciferol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018057115375995636
+trial_2	ergocalciferol	132	KG00101045	Gain, Weight	0.017247973009943962
+trial_2	ergocalciferol	288	KG00101223	hypophosphataemia	0.017242049798369408
+trial_2	ergocalciferol	189	KG00101580	Alanine aminotransferase increase	0.01714264415204525
+trial_2	ergocalciferol	69	KG00100082	Palpitations NOS	0.017128702253103256
+trial_2	ergocalciferol	204	KG00098849	Esophagitis, Peptic	0.01669962890446186
+trial_2	ergocalciferol	75	KG00100195	Dolens, Phlegmasia Alba	0.016628915444016457
+trial_2	ergocalciferol	276	KG00099127	Arrest, Cardiac	0.01661735586822033
+trial_2	ergocalciferol	35	KG00101507	hypomagnesaemia	0.0163562074303627
+trial_2	ergocalciferol	118	KG00099011	Gastritis NOS	0.016329310834407806
+trial_2	ergocalciferol	116	KG00098964	Pain in foot	0.016218749806284904
+trial_2	ergocalciferol	282	KG00099309	hypernatraemia	0.016005361452698708
+trial_2	ergocalciferol	102	KG00097916	anxieties	0.015947841107845306
+trial_2	ergocalciferol	194	KG00110727	Neutrophil Count Decreased	0.015818621963262558
+trial_2	ergocalciferol	142	KG00100923	Unspecified infectious and parasitic diseases	0.01556465309113264
+trial_2	ergocalciferol	199	KG00098371	Rhinitis (chronic) NOS	0.015390150249004364
+trial_2	ergocalciferol	396	KG00100373	Embolism, Pulmonary	0.015221279114484787
+trial_2	ergocalciferol	253	KG00100232	Pleural effusion NOS (disorder)	0.015213840641081333
+trial_2	ergocalciferol	254	KG00100774	Thrombosis NOS	0.015152345411479473
+trial_2	ergocalciferol	72	KG00103771	myalgias	0.014992063865065575
+trial_2	ergocalciferol	371	KG00098517	Cystitis (NOS)	0.014981906861066818
+trial_2	ergocalciferol	133	KG00101370	neuropathies sensory	0.01454019732773304
+trial_2	ergocalciferol	188	KG00101579	Aspartate aminotransferase increase	0.014442204497754574
+trial_2	ergocalciferol	163	KG00104050	bowel obstructions small	0.014274967834353447
+trial_2	ergocalciferol	138	KG00098796	epidemic vomiting syndrome	0.014187137596309185
+trial_2	ergocalciferol	355	KG00110857	lymphocyte count decreased	0.013943714089691639
+trial_2	ergocalciferol	18	KG00098307	Pain, Chest	0.013769995421171188
+trial_2	ergocalciferol	248	KG00103361	measurement of creatinine	0.013552181422710419
+trial_2	ergocalciferol	186	KG00101431	creatinine increased	0.013384755700826645
+trial_2	ergocalciferol	98	KG00097718	Incised wound, NOS	0.013311048969626427
+trial_2	ergocalciferol	356	KG00112623	Infectious Lung Disorders	0.013103839010000229
+trial_2	ergocalciferol	269	KG00100399	pyaemia	0.012867442332208157
+trial_2	ergocalciferol	246	KG00103338	Aspartate Aminotransferase Measurement	0.012850052677094936
+trial_2	ergocalciferol	286	KG00101110	Retention, Urinary	0.012774988077580929
+trial_2	ergocalciferol	456	KG00099420	Influenzae	0.012751753441989422
+trial_2	ergocalciferol	256	KG00100738	Tachycardia, Sinus	0.0126271303743124
+trial_2	ergocalciferol	101	KG00097901	Anorexia NOS	0.012584717944264412
+trial_2	ergocalciferol	31	KG00099872	Infarction, Myocardial	0.012527454644441605
+trial_2	ergocalciferol	262	KG00101199	agitation	0.012373967096209526
+trial_2	ergocalciferol	82	KG00097697	abdomen distended	0.01234903372824192
+trial_2	ergocalciferol	454	KG00098286	Pain, Neck	0.012266179546713829
+trial_2	ergocalciferol	361	KG00098004	Fibrillation, Atrial	0.012196688912808895
+trial_2	ergocalciferol	221	KG00101207	peripheral oedema	0.01200099941343069
+trial_2	ergocalciferol	211	KG00100341	Pruritus NOS	0.011907171458005905
+trial_2	ergocalciferol	191	KG00104055	Biliverdin increased	0.011822236701846123
+trial_2	ergocalciferol	508	KG00108565	blood glucose increased	0.011814333498477936
+trial_2	ergocalciferol	135	KG00101549	bone pain	0.011622017249464989
+trial_2	ergocalciferol	366	KG00098275	Attack, Transient Ischemic	0.011615331284701824

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15981744229793549
+trial_1	placebo	87	KG00098599	diarrhoea	0.10756303369998932
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10459404438734055
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10403302311897278
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09575334936380386
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08065468072891235
+trial_1	placebo	20	KG00098540	dehydration	0.07430095225572586
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07102992385625839
+trial_1	placebo	21	KG00098675	dyspnoea	0.06499619781970978
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06490258872509003
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06307663768529892
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06198117882013321
+trial_1	placebo	46	KG00099121	Headache NOS	0.059961576014757156
+trial_1	placebo	228	KG00114657	Weight below normal	0.05948362872004509
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05884518474340439
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.057748448103666306
+trial_1	placebo	114	KG00098933	fevers	0.05749044939875603
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05475302040576935
+trial_1	placebo	68	KG00099901	nauseas	0.0533423013985157
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.053175803273916245
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05267447233200073
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05189931392669678
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05175862833857536
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05045554041862488
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04912180081009865
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04848119989037514
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04754699766635895
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0471351332962513
+trial_1	placebo	126	KG00100076	Pain NOS	0.04710227623581886
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.046763163059949875
+trial_1	placebo	239	KG00100128	pareses	0.0463683158159256
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.045640766620635986
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.043911393731832504
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04389665275812149
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.043461982160806656
+trial_1	placebo	104	KG00097963	arthralgias	0.04245251417160034
+trial_1	placebo	72	KG00103771	myalgias	0.04193853214383125
+trial_1	placebo	85	KG00098474	coughs	0.04148627445101738
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04006389155983925
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03667618706822395
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0358889177441597
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03563366457819939
+trial_1	placebo	5	KG00099169	haematuria	0.03489939495921135
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03486301004886627
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0342298187315464
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03402398154139519
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03374897688627243
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.033440809696912766
+trial_1	placebo	102	KG00097916	anxieties	0.03241192549467087
+trial_1	placebo	121	KG00099190	haemorrhage	0.03187653794884682
+trial_1	placebo	147	KG00098000	atelectases	0.030663631856441498
+trial_1	placebo	262	KG00101199	agitation	0.030482232570648193
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030436884611845016
+trial_1	placebo	100	KG00097815	alopecias	0.030341383069753647
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03001820109784603
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.029835954308509827
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.029755745083093643
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02870502881705761
+trial_1	placebo	116	KG00098964	Pain in foot	0.02861524187028408
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.028502926230430603
+trial_1	placebo	466	KG00101205	fall	0.028262831270694733
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027929214760661125
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027197660878300667
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026870939880609512
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02645653858780861
+trial_1	placebo	508	KG00108565	blood glucose increased	0.026230216026306152
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026148440316319466
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.026096345856785774
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02596430853009224
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.025831211358308792
+trial_1	placebo	441	KG00098262	cellulitis nos	0.025757310912013054
+trial_1	placebo	164	KG00108827	ileus colon	0.02537907101213932
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025352930650115013
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02532806247472763
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.025104347616434097
+trial_1	placebo	339	KG00100334	proteinurias	0.024922965094447136
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02481391653418541
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02408676967024803
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023401636630296707
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02337135747075081
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023229263722896576
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.022600173950195312
+trial_1	placebo	269	KG00100399	pyaemia	0.022335050627589226
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02232699654996395
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02223655954003334
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.022079365327954292
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021789584308862686
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02175741456449032
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.021401019766926765
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.021378424018621445
+trial_1	placebo	456	KG00099420	Influenzae	0.02121887169778347
+trial_1	placebo	363	KG00098184	burns injury	0.021132154390215874
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020989295095205307
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02096252515912056
+trial_1	placebo	11	KG00097993	Asthma NOS	0.020931284874677658
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.020923864096403122
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02091517671942711
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02090228721499443
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.020614223554730415
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02052011527121067
+trial_2	estradiol cypionate	78	KG00099326	Hypertensive diseases	0.15981744229793549
+trial_2	estradiol cypionate	87	KG00098599	diarrhoea	0.10756303369998932
+trial_2	estradiol cypionate	173	KG00098172	Bronchopneumonia NOS	0.10459404438734055
+trial_2	estradiol cypionate	177	KG00099299	hyperglycaemia	0.10403302311897278
+trial_2	estradiol cypionate	17	KG00097991	Asthenia NOS	0.09575334936380386
+trial_2	estradiol cypionate	79	KG00100317	Insomnia, Primary	0.08065468072891235
+trial_2	estradiol cypionate	20	KG00098540	dehydration	0.07430095225572586
+trial_2	estradiol cypionate	9	KG00098432	Confusion NOS	0.07102992385625839
+trial_2	estradiol cypionate	21	KG00098675	dyspnoea	0.06499619781970978
+trial_2	estradiol cypionate	123	KG00099351	hypokalaemia	0.06490258872509003
+trial_2	estradiol cypionate	37	KG00097696	Cramps, Abdominal	0.06307663768529892
+trial_2	estradiol cypionate	86	KG00098565	Depression, Mental	0.06198117882013321
+trial_2	estradiol cypionate	46	KG00099121	Headache NOS	0.059961576014757156
+trial_2	estradiol cypionate	228	KG00114657	Weight below normal	0.05948362872004509
+trial_2	estradiol cypionate	77	KG00098450	Constipation NOS	0.05884518474340439
+trial_2	estradiol cypionate	189	KG00101580	Alanine aminotransferase increase	0.057748448103666306
+trial_2	estradiol cypionate	114	KG00098933	fevers	0.05749044939875603
+trial_2	estradiol cypionate	132	KG00101045	Gain, Weight	0.05475302040576935
+trial_2	estradiol cypionate	68	KG00099901	nauseas	0.0533423013985157
+trial_2	estradiol cypionate	200	KG00098539	Disorders, Deglutition	0.053175803273916245
+trial_2	estradiol cypionate	67	KG00098673	Dyspepsia, NOS	0.05267447233200073
+trial_2	estradiol cypionate	49	KG00099902	nausea with vomiting	0.05189931392669678
+trial_2	estradiol cypionate	14	KG00097852	Anemia NOS	0.05175862833857536
+trial_2	estradiol cypionate	350	KG00106765	decreased platelet count	0.05045554041862488
+trial_2	estradiol cypionate	64	KG00097734	Acrodermatitis, NOS	0.04912180081009865
+trial_2	estradiol cypionate	151	KG00098274	Infarction, Cerebral	0.04848119989037514
+trial_2	estradiol cypionate	188	KG00101579	Aspartate aminotransferase increase	0.04754699766635895
+trial_2	estradiol cypionate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0471351332962513
+trial_2	estradiol cypionate	126	KG00100076	Pain NOS	0.04710227623581886
+trial_2	estradiol cypionate	139	KG00098855	Sinusitis, Ethmoid	0.046763163059949875
+trial_2	estradiol cypionate	239	KG00100128	pareses	0.0463683158159256
+trial_2	estradiol cypionate	28	KG00099347	hypoglycaemia	0.045640766620635986
+trial_2	estradiol cypionate	2	KG00100772	thrombocytopaenia	0.043911393731832504
+trial_2	estradiol cypionate	122	KG00099321	Hypersensitivity NOS	0.04389665275812149
+trial_2	estradiol cypionate	243	KG00100947	Micturition frequency increased	0.043461982160806656
+trial_2	estradiol cypionate	104	KG00097963	arthralgias	0.04245251417160034
+trial_2	estradiol cypionate	72	KG00103771	myalgias	0.04193853214383125
+trial_2	estradiol cypionate	85	KG00098474	coughs	0.04148627445101738
+trial_2	estradiol cypionate	29	KG00099354	hyponatraemia	0.04006389155983925
+trial_2	estradiol cypionate	179	KG00099342	hypocalcaemia	0.03667618706822395
+trial_2	estradiol cypionate	96	KG00101679	Unattended death NOS	0.0358889177441597
+trial_2	estradiol cypionate	180	KG00099363	Hypotension NOS	0.03563366457819939
+trial_2	estradiol cypionate	5	KG00099169	haematuria	0.03489939495921135
+trial_2	estradiol cypionate	38	KG00098066	Binocular vision disorders	0.03486301004886627
+trial_2	estradiol cypionate	27	KG00099303	hyperkalaemia	0.0342298187315464
+trial_2	estradiol cypionate	101	KG00097901	Anorexia NOS	0.03402398154139519
+trial_2	estradiol cypionate	194	KG00110727	Neutrophil Count Decreased	0.03374897688627243
+trial_2	estradiol cypionate	61	KG00099501	Chronic Kidney Failure	0.033440809696912766
+trial_2	estradiol cypionate	102	KG00097916	anxieties	0.03241192549467087
+trial_2	estradiol cypionate	121	KG00099190	haemorrhage	0.03187653794884682
+trial_2	estradiol cypionate	147	KG00098000	atelectases	0.030663631856441498
+trial_2	estradiol cypionate	262	KG00101199	agitation	0.030482232570648193
+trial_2	estradiol cypionate	131	KG00100948	Urinary tract infection (& [NOS])	0.030436884611845016
+trial_2	estradiol cypionate	100	KG00097815	alopecias	0.030341383069753647
+trial_2	estradiol cypionate	142	KG00100923	Unspecified infectious and parasitic diseases	0.03001820109784603
+trial_2	estradiol cypionate	76	KG00100450	Respiratory insufficiency, NOS	0.029835954308509827
+trial_2	estradiol cypionate	92	KG00100926	Infections, Upper Respiratory	0.029755745083093643
+trial_2	estradiol cypionate	144	KG00099610	Leukopenia NOS	0.02870502881705761
+trial_2	estradiol cypionate	116	KG00098964	Pain in foot	0.02861524187028408
+trial_2	estradiol cypionate	1	KG00099959	Neutropenia NOS	0.028502926230430603
+trial_2	estradiol cypionate	466	KG00101205	fall	0.028262831270694733
+trial_2	estradiol cypionate	396	KG00100373	Embolism, Pulmonary	0.027929214760661125
+trial_2	estradiol cypionate	69	KG00100082	Palpitations NOS	0.027197660878300667
+trial_2	estradiol cypionate	75	KG00100195	Dolens, Phlegmasia Alba	0.026870939880609512
+trial_2	estradiol cypionate	18	KG00098307	Pain, Chest	0.02645653858780861
+trial_2	estradiol cypionate	508	KG00108565	blood glucose increased	0.026230216026306152
+trial_2	estradiol cypionate	261	KG00101559	raised alkaline phosphatase	0.026148440316319466
+trial_2	estradiol cypionate	297	KG00099294	hypercholesterolaemia	0.026096345856785774
+trial_2	estradiol cypionate	30	KG00099500	Acute Kidney Failure	0.02596430853009224
+trial_2	estradiol cypionate	133	KG00101370	neuropathies sensory	0.025831211358308792
+trial_2	estradiol cypionate	441	KG00098262	cellulitis nos	0.025757310912013054
+trial_2	estradiol cypionate	164	KG00108827	ileus colon	0.02537907101213932
+trial_2	estradiol cypionate	282	KG00099309	hypernatraemia	0.025352930650115013
+trial_2	estradiol cypionate	154	KG00099686	Lymphopenias	0.02532806247472763
+trial_2	estradiol cypionate	166	KG00099773	menopausal syndrome	0.025104347616434097
+trial_2	estradiol cypionate	339	KG00100334	proteinurias	0.024922965094447136
+trial_2	estradiol cypionate	276	KG00099127	Arrest, Cardiac	0.02481391653418541
+trial_2	estradiol cypionate	22	KG00098705	Edema (NOS)	0.02408676967024803
+trial_2	estradiol cypionate	355	KG00110857	lymphocyte count decreased	0.023401636630296707
+trial_2	estradiol cypionate	36	KG00106434	Vision, Blurring Of	0.02337135747075081
+trial_2	estradiol cypionate	221	KG00101207	peripheral oedema	0.023229263722896576
+trial_2	estradiol cypionate	138	KG00098796	epidemic vomiting syndrome	0.022600173950195312
+trial_2	estradiol cypionate	269	KG00100399	pyaemia	0.022335050627589226
+trial_2	estradiol cypionate	33	KG00100094	Pancreatitis NOS	0.02232699654996395
+trial_2	estradiol cypionate	246	KG00103338	Aspartate Aminotransferase Measurement	0.02223655954003334
+trial_2	estradiol cypionate	118	KG00099011	Gastritis NOS	0.022079365327954292
+trial_2	estradiol cypionate	249	KG00104430	hypoalbuminaemia	0.021789584308862686
+trial_2	estradiol cypionate	254	KG00100774	Thrombosis NOS	0.02175741456449032
+trial_2	estradiol cypionate	288	KG00101223	hypophosphataemia	0.021401019766926765
+trial_2	estradiol cypionate	97	KG00104198	LIVER ENZYME ELEVATED	0.021378424018621445
+trial_2	estradiol cypionate	456	KG00099420	Influenzae	0.02121887169778347
+trial_2	estradiol cypionate	363	KG00098184	burns injury	0.021132154390215874
+trial_2	estradiol cypionate	204	KG00098849	Esophagitis, Peptic	0.020989295095205307
+trial_2	estradiol cypionate	130	KG00100683	Stomatitis NOS	0.02096252515912056
+trial_2	estradiol cypionate	11	KG00097993	Asthma NOS	0.020931284874677658
+trial_2	estradiol cypionate	152	KG00099402	INCONTINENCE NOS	0.020923864096403122
+trial_2	estradiol cypionate	35	KG00101507	hypomagnesaemia	0.02091517671942711
+trial_2	estradiol cypionate	253	KG00100232	Pleural effusion NOS (disorder)	0.02090228721499443
+trial_2	estradiol cypionate	286	KG00101110	Retention, Urinary	0.020614223554730415
+trial_2	estradiol cypionate	356	KG00112623	Infectious Lung Disorders	0.02052011527121067

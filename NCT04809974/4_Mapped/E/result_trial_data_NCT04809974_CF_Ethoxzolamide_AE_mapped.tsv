@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19003474712371826
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1601841300725937
+trial_1	placebo	46	KG00099121	Headache NOS	0.09561952203512192
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0919097363948822
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09175444394350052
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.091234490275383
+trial_1	placebo	21	KG00098675	dyspnoea	0.07962621003389359
+trial_1	placebo	20	KG00098540	dehydration	0.07289773970842361
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07085099071264267
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07014834880828857
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06876317411661148
+trial_1	placebo	228	KG00114657	Weight below normal	0.06603445112705231
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06188194826245308
+trial_1	placebo	85	KG00098474	coughs	0.06026294827461243
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05940594524145126
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05759964883327484
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0573006197810173
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05532308667898178
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.054540544748306274
+trial_1	placebo	114	KG00098933	fevers	0.0535932295024395
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.052670832723379135
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05266783386468887
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05220979452133179
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05053972080349922
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.050011757761240005
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04969855025410652
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04900139197707176
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04717084392905235
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.045888327062129974
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04411841556429863
+trial_1	placebo	126	KG00100076	Pain NOS	0.04382413253188133
+trial_1	placebo	104	KG00097963	arthralgias	0.04371057078242302
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.042774081230163574
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04199166223406792
+trial_1	placebo	77	KG00098450	Constipation NOS	0.041653264313936234
+trial_1	placebo	68	KG00099901	nauseas	0.04085404798388481
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03998756781220436
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03998730331659317
+trial_1	placebo	269	KG00100399	pyaemia	0.03964249789714813
+trial_1	placebo	147	KG00098000	atelectases	0.0376279354095459
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.036931540817022324
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0366218276321888
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0360373817384243
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0356752872467041
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03559550642967224
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03435869514942169
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03374362736940384
+trial_1	placebo	121	KG00099190	haemorrhage	0.03341725468635559
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03239450603723526
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.032232943922281265
+trial_1	placebo	239	KG00100128	pareses	0.032150331884622574
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030003506690263748
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029871178790926933
+trial_1	placebo	5	KG00099169	haematuria	0.02892974205315113
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02805342525243759
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.027476856485009193
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.027029169723391533
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02685115858912468
+trial_1	placebo	116	KG00098964	Pain in foot	0.02598082274198532
+trial_1	placebo	164	KG00108827	ileus colon	0.025714363902807236
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.025585344061255455
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.025447741150856018
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025375191122293472
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02536012977361679
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.025061089545488358
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024824153631925583
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.024698607623577118
+trial_1	placebo	102	KG00097916	anxieties	0.02436203882098198
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.023707587271928787
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02362360619008541
+trial_1	placebo	339	KG00100334	proteinurias	0.0231642909348011
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02284231223165989
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0227572750300169
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022748541086912155
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0225757397711277
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022507674992084503
+trial_1	placebo	4	KG00098817	epistaxis	0.022500673308968544
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022379491478204727
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02221592329442501
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.021948177367448807
+trial_1	placebo	136	KG00101582	Dry;skin	0.021628279238939285
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02124664932489395
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021237939596176147
+trial_1	placebo	262	KG00101199	agitation	0.021229926496744156
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02122274972498417
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020765552297234535
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.020522750914096832
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02039349637925625
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020341625437140465
+trial_1	placebo	456	KG00099420	Influenzae	0.020301654934883118
+trial_1	placebo	186	KG00101431	creatinine increased	0.020154433324933052
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019926194101572037
+trial_1	placebo	466	KG00101205	fall	0.019780488684773445
+trial_1	placebo	132	KG00101045	Gain, Weight	0.019537650048732758
+trial_1	placebo	382	KG00099200	haemorrhoids	0.019419874995946884
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01932429149746895
+trial_1	placebo	72	KG00103771	myalgias	0.019185412675142288
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01913604885339737
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.018941788002848625
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018673788756132126
+trial_2	ethoxzolamide	87	KG00098599	diarrhoea	0.19003474712371826
+trial_2	ethoxzolamide	78	KG00099326	Hypertensive diseases	0.1601841300725937
+trial_2	ethoxzolamide	46	KG00099121	Headache NOS	0.09561952203512192
+trial_2	ethoxzolamide	173	KG00098172	Bronchopneumonia NOS	0.0919097363948822
+trial_2	ethoxzolamide	123	KG00099351	hypokalaemia	0.09175444394350052
+trial_2	ethoxzolamide	177	KG00099299	hyperglycaemia	0.091234490275383
+trial_2	ethoxzolamide	21	KG00098675	dyspnoea	0.07962621003389359
+trial_2	ethoxzolamide	20	KG00098540	dehydration	0.07289773970842361
+trial_2	ethoxzolamide	9	KG00098432	Confusion NOS	0.07085099071264267
+trial_2	ethoxzolamide	37	KG00097696	Cramps, Abdominal	0.07014834880828857
+trial_2	ethoxzolamide	17	KG00097991	Asthenia NOS	0.06876317411661148
+trial_2	ethoxzolamide	228	KG00114657	Weight below normal	0.06603445112705231
+trial_2	ethoxzolamide	189	KG00101580	Alanine aminotransferase increase	0.06188194826245308
+trial_2	ethoxzolamide	85	KG00098474	coughs	0.06026294827461243
+trial_2	ethoxzolamide	64	KG00097734	Acrodermatitis, NOS	0.05940594524145126
+trial_2	ethoxzolamide	29	KG00099354	hyponatraemia	0.05759964883327484
+trial_2	ethoxzolamide	14	KG00097852	Anemia NOS	0.0573006197810173
+trial_2	ethoxzolamide	151	KG00098274	Infarction, Cerebral	0.05532308667898178
+trial_2	ethoxzolamide	200	KG00098539	Disorders, Deglutition	0.054540544748306274
+trial_2	ethoxzolamide	114	KG00098933	fevers	0.0535932295024395
+trial_2	ethoxzolamide	188	KG00101579	Aspartate aminotransferase increase	0.052670832723379135
+trial_2	ethoxzolamide	79	KG00100317	Insomnia, Primary	0.05266783386468887
+trial_2	ethoxzolamide	49	KG00099902	nausea with vomiting	0.05220979452133179
+trial_2	ethoxzolamide	76	KG00100450	Respiratory insufficiency, NOS	0.05053972080349922
+trial_2	ethoxzolamide	67	KG00098673	Dyspepsia, NOS	0.050011757761240005
+trial_2	ethoxzolamide	2	KG00100772	thrombocytopaenia	0.04969855025410652
+trial_2	ethoxzolamide	96	KG00101679	Unattended death NOS	0.04900139197707176
+trial_2	ethoxzolamide	350	KG00106765	decreased platelet count	0.04717084392905235
+trial_2	ethoxzolamide	61	KG00099501	Chronic Kidney Failure	0.045888327062129974
+trial_2	ethoxzolamide	180	KG00099363	Hypotension NOS	0.04411841556429863
+trial_2	ethoxzolamide	126	KG00100076	Pain NOS	0.04382413253188133
+trial_2	ethoxzolamide	104	KG00097963	arthralgias	0.04371057078242302
+trial_2	ethoxzolamide	30	KG00099500	Acute Kidney Failure	0.042774081230163574
+trial_2	ethoxzolamide	142	KG00100923	Unspecified infectious and parasitic diseases	0.04199166223406792
+trial_2	ethoxzolamide	77	KG00098450	Constipation NOS	0.041653264313936234
+trial_2	ethoxzolamide	68	KG00099901	nauseas	0.04085404798388481
+trial_2	ethoxzolamide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03998756781220436
+trial_2	ethoxzolamide	86	KG00098565	Depression, Mental	0.03998730331659317
+trial_2	ethoxzolamide	269	KG00100399	pyaemia	0.03964249789714813
+trial_2	ethoxzolamide	147	KG00098000	atelectases	0.0376279354095459
+trial_2	ethoxzolamide	276	KG00099127	Arrest, Cardiac	0.036931540817022324
+trial_2	ethoxzolamide	28	KG00099347	hypoglycaemia	0.0366218276321888
+trial_2	ethoxzolamide	27	KG00099303	hyperkalaemia	0.0360373817384243
+trial_2	ethoxzolamide	122	KG00099321	Hypersensitivity NOS	0.0356752872467041
+trial_2	ethoxzolamide	131	KG00100948	Urinary tract infection (& [NOS])	0.03559550642967224
+trial_2	ethoxzolamide	396	KG00100373	Embolism, Pulmonary	0.03435869514942169
+trial_2	ethoxzolamide	101	KG00097901	Anorexia NOS	0.03374362736940384
+trial_2	ethoxzolamide	121	KG00099190	haemorrhage	0.03341725468635559
+trial_2	ethoxzolamide	139	KG00098855	Sinusitis, Ethmoid	0.03239450603723526
+trial_2	ethoxzolamide	179	KG00099342	hypocalcaemia	0.032232943922281265
+trial_2	ethoxzolamide	239	KG00100128	pareses	0.032150331884622574
+trial_2	ethoxzolamide	18	KG00098307	Pain, Chest	0.030003506690263748
+trial_2	ethoxzolamide	194	KG00110727	Neutrophil Count Decreased	0.029871178790926933
+trial_2	ethoxzolamide	5	KG00099169	haematuria	0.02892974205315113
+trial_2	ethoxzolamide	282	KG00099309	hypernatraemia	0.02805342525243759
+trial_2	ethoxzolamide	191	KG00104055	Biliverdin increased	0.027476856485009193
+trial_2	ethoxzolamide	356	KG00112623	Infectious Lung Disorders	0.027029169723391533
+trial_2	ethoxzolamide	92	KG00100926	Infections, Upper Respiratory	0.02685115858912468
+trial_2	ethoxzolamide	116	KG00098964	Pain in foot	0.02598082274198532
+trial_2	ethoxzolamide	164	KG00108827	ileus colon	0.025714363902807236
+trial_2	ethoxzolamide	138	KG00098796	epidemic vomiting syndrome	0.025585344061255455
+trial_2	ethoxzolamide	130	KG00100683	Stomatitis NOS	0.025447741150856018
+trial_2	ethoxzolamide	261	KG00101559	raised alkaline phosphatase	0.025375191122293472
+trial_2	ethoxzolamide	38	KG00098066	Binocular vision disorders	0.02536012977361679
+trial_2	ethoxzolamide	253	KG00100232	Pleural effusion NOS (disorder)	0.025061089545488358
+trial_2	ethoxzolamide	249	KG00104430	hypoalbuminaemia	0.024824153631925583
+trial_2	ethoxzolamide	243	KG00100947	Micturition frequency increased	0.024698607623577118
+trial_2	ethoxzolamide	102	KG00097916	anxieties	0.02436203882098198
+trial_2	ethoxzolamide	199	KG00098371	Rhinitis (chronic) NOS	0.023707587271928787
+trial_2	ethoxzolamide	75	KG00100195	Dolens, Phlegmasia Alba	0.02362360619008541
+trial_2	ethoxzolamide	339	KG00100334	proteinurias	0.0231642909348011
+trial_2	ethoxzolamide	361	KG00098004	Fibrillation, Atrial	0.02284231223165989
+trial_2	ethoxzolamide	11	KG00097993	Asthma NOS	0.0227572750300169
+trial_2	ethoxzolamide	441	KG00098262	cellulitis nos	0.022748541086912155
+trial_2	ethoxzolamide	394	KG00100243	Pneumonia, Aspiration	0.0225757397711277
+trial_2	ethoxzolamide	33	KG00100094	Pancreatitis NOS	0.022507674992084503
+trial_2	ethoxzolamide	4	KG00098817	epistaxis	0.022500673308968544
+trial_2	ethoxzolamide	31	KG00099872	Infarction, Myocardial	0.022379491478204727
+trial_2	ethoxzolamide	35	KG00101507	hypomagnesaemia	0.02221592329442501
+trial_2	ethoxzolamide	268	KG00099557	Heart Failure, Left-Sided	0.021948177367448807
+trial_2	ethoxzolamide	136	KG00101582	Dry;skin	0.021628279238939285
+trial_2	ethoxzolamide	288	KG00101223	hypophosphataemia	0.02124664932489395
+trial_2	ethoxzolamide	36	KG00106434	Vision, Blurring Of	0.021237939596176147
+trial_2	ethoxzolamide	262	KG00101199	agitation	0.021229926496744156
+trial_2	ethoxzolamide	144	KG00099610	Leukopenia NOS	0.02122274972498417
+trial_2	ethoxzolamide	69	KG00100082	Palpitations NOS	0.020765552297234535
+trial_2	ethoxzolamide	355	KG00110857	lymphocyte count decreased	0.020522750914096832
+trial_2	ethoxzolamide	1	KG00099959	Neutropenia NOS	0.02039349637925625
+trial_2	ethoxzolamide	204	KG00098849	Esophagitis, Peptic	0.020341625437140465
+trial_2	ethoxzolamide	456	KG00099420	Influenzae	0.020301654934883118
+trial_2	ethoxzolamide	186	KG00101431	creatinine increased	0.020154433324933052
+trial_2	ethoxzolamide	15	KG00097882	Angina pectoris NOS	0.019926194101572037
+trial_2	ethoxzolamide	466	KG00101205	fall	0.019780488684773445
+trial_2	ethoxzolamide	132	KG00101045	Gain, Weight	0.019537650048732758
+trial_2	ethoxzolamide	382	KG00099200	haemorrhoids	0.019419874995946884
+trial_2	ethoxzolamide	98	KG00097718	Incised wound, NOS	0.01932429149746895
+trial_2	ethoxzolamide	72	KG00103771	myalgias	0.019185412675142288
+trial_2	ethoxzolamide	118	KG00099011	Gastritis NOS	0.01913604885339737
+trial_2	ethoxzolamide	254	KG00100774	Thrombosis NOS	0.018941788002848625
+trial_2	ethoxzolamide	286	KG00101110	Retention, Urinary	0.018673788756132126

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15916715562343597
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1400780826807022
+trial_1	placebo	46	KG00099121	Headache NOS	0.08686666190624237
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08576606959104538
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08293379843235016
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07565853744745255
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0751783549785614
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07387325167655945
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07342629134654999
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0684986263513565
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06382883340120316
+trial_1	placebo	20	KG00098540	dehydration	0.06370176374912262
+trial_1	placebo	228	KG00114657	Weight below normal	0.061951927840709686
+trial_1	placebo	68	KG00099901	nauseas	0.061338987201452255
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05887928605079651
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.058833613991737366
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0584472231566906
+trial_1	placebo	21	KG00098675	dyspnoea	0.05788327381014824
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05738195404410362
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05698994919657707
+trial_1	placebo	77	KG00098450	Constipation NOS	0.055009376257658005
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05111709609627724
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04919923469424248
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04582449421286583
+trial_1	placebo	114	KG00098933	fevers	0.04507670924067497
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04390578716993332
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.042148392647504807
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04081004858016968
+trial_1	placebo	85	KG00098474	coughs	0.040690936148166656
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.039838969707489014
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.039231278002262115
+trial_1	placebo	126	KG00100076	Pain NOS	0.03906836360692978
+trial_1	placebo	5	KG00099169	haematuria	0.03878351300954819
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03738466650247574
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03699692338705063
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03539223223924637
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0351678766310215
+trial_1	placebo	147	KG00098000	atelectases	0.0346660315990448
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03392383083701134
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03348920866847038
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03239470347762108
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03229780122637749
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03194957971572876
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03141477704048157
+trial_1	placebo	239	KG00100128	pareses	0.031159795820713043
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.031147312372922897
+trial_1	placebo	102	KG00097916	anxieties	0.030698398128151894
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030132651329040527
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0300458837300539
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.029204336926341057
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.029075391590595245
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02903062291443348
+trial_1	placebo	72	KG00103771	myalgias	0.028629466891288757
+trial_1	placebo	262	KG00101199	agitation	0.028574088588356972
+trial_1	placebo	82	KG00097697	abdomen distended	0.02841428481042385
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.027840951457619667
+trial_1	placebo	234	KG00098669	dysgeusias	0.027608146890997887
+trial_1	placebo	104	KG00097963	arthralgias	0.02721967175602913
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.026814712211489677
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.026667701080441475
+trial_1	placebo	269	KG00100399	pyaemia	0.026462137699127197
+trial_1	placebo	4	KG00098817	epistaxis	0.02620832808315754
+trial_1	placebo	18	KG00098307	Pain, Chest	0.025969790294766426
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025745436549186707
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.025662250816822052
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.025111375376582146
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024749094620347023
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.024636106565594673
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024537961930036545
+trial_1	placebo	116	KG00098964	Pain in foot	0.02435215935111046
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024116305634379387
+trial_1	placebo	121	KG00099190	haemorrhage	0.023981453850865364
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02395590953528881
+trial_1	placebo	339	KG00100334	proteinurias	0.023580029606819153
+trial_1	placebo	164	KG00108827	ileus colon	0.023406414315104485
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.023284630849957466
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022868013009428978
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0224775318056345
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02228044718503952
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022041238844394684
+trial_1	placebo	136	KG00101582	Dry;skin	0.021548761054873466
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02148107811808586
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02118341252207756
+trial_1	placebo	186	KG00101431	creatinine increased	0.021154699847102165
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.021097304299473763
+trial_1	placebo	466	KG00101205	fall	0.021078022196888924
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020709998905658722
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020666150376200676
+trial_1	placebo	382	KG00099200	haemorrhoids	0.0205399002879858
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02046681009232998
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02045460045337677
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020390262827277184
+trial_1	placebo	153	KG00099579	lethargy	0.020385630428791046
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02037915214896202
+trial_1	placebo	454	KG00098286	Pain, Neck	0.020207403227686882
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.020152850076556206
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01959903910756111
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.019443897530436516
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.019368378445506096
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019199546426534653
+trial_2	enalaprilat	87	KG00098599	diarrhoea	0.15916715562343597
+trial_2	enalaprilat	78	KG00099326	Hypertensive diseases	0.1400780826807022
+trial_2	enalaprilat	46	KG00099121	Headache NOS	0.08686666190624237
+trial_2	enalaprilat	9	KG00098432	Confusion NOS	0.08576606959104538
+trial_2	enalaprilat	123	KG00099351	hypokalaemia	0.08293379843235016
+trial_2	enalaprilat	37	KG00097696	Cramps, Abdominal	0.07565853744745255
+trial_2	enalaprilat	17	KG00097991	Asthenia NOS	0.0751783549785614
+trial_2	enalaprilat	177	KG00099299	hyperglycaemia	0.07387325167655945
+trial_2	enalaprilat	173	KG00098172	Bronchopneumonia NOS	0.07342629134654999
+trial_2	enalaprilat	67	KG00098673	Dyspepsia, NOS	0.0684986263513565
+trial_2	enalaprilat	49	KG00099902	nausea with vomiting	0.06382883340120316
+trial_2	enalaprilat	20	KG00098540	dehydration	0.06370176374912262
+trial_2	enalaprilat	228	KG00114657	Weight below normal	0.061951927840709686
+trial_2	enalaprilat	68	KG00099901	nauseas	0.061338987201452255
+trial_2	enalaprilat	64	KG00097734	Acrodermatitis, NOS	0.05887928605079651
+trial_2	enalaprilat	79	KG00100317	Insomnia, Primary	0.058833613991737366
+trial_2	enalaprilat	189	KG00101580	Alanine aminotransferase increase	0.0584472231566906
+trial_2	enalaprilat	21	KG00098675	dyspnoea	0.05788327381014824
+trial_2	enalaprilat	188	KG00101579	Aspartate aminotransferase increase	0.05738195404410362
+trial_2	enalaprilat	2	KG00100772	thrombocytopaenia	0.05698994919657707
+trial_2	enalaprilat	77	KG00098450	Constipation NOS	0.055009376257658005
+trial_2	enalaprilat	200	KG00098539	Disorders, Deglutition	0.05111709609627724
+trial_2	enalaprilat	350	KG00106765	decreased platelet count	0.04919923469424248
+trial_2	enalaprilat	14	KG00097852	Anemia NOS	0.04582449421286583
+trial_2	enalaprilat	114	KG00098933	fevers	0.04507670924067497
+trial_2	enalaprilat	101	KG00097901	Anorexia NOS	0.04390578716993332
+trial_2	enalaprilat	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.042148392647504807
+trial_2	enalaprilat	29	KG00099354	hyponatraemia	0.04081004858016968
+trial_2	enalaprilat	85	KG00098474	coughs	0.040690936148166656
+trial_2	enalaprilat	76	KG00100450	Respiratory insufficiency, NOS	0.039838969707489014
+trial_2	enalaprilat	243	KG00100947	Micturition frequency increased	0.039231278002262115
+trial_2	enalaprilat	126	KG00100076	Pain NOS	0.03906836360692978
+trial_2	enalaprilat	5	KG00099169	haematuria	0.03878351300954819
+trial_2	enalaprilat	151	KG00098274	Infarction, Cerebral	0.03738466650247574
+trial_2	enalaprilat	61	KG00099501	Chronic Kidney Failure	0.03699692338705063
+trial_2	enalaprilat	180	KG00099363	Hypotension NOS	0.03539223223924637
+trial_2	enalaprilat	86	KG00098565	Depression, Mental	0.0351678766310215
+trial_2	enalaprilat	147	KG00098000	atelectases	0.0346660315990448
+trial_2	enalaprilat	179	KG00099342	hypocalcaemia	0.03392383083701134
+trial_2	enalaprilat	122	KG00099321	Hypersensitivity NOS	0.03348920866847038
+trial_2	enalaprilat	276	KG00099127	Arrest, Cardiac	0.03239470347762108
+trial_2	enalaprilat	194	KG00110727	Neutrophil Count Decreased	0.03229780122637749
+trial_2	enalaprilat	131	KG00100948	Urinary tract infection (& [NOS])	0.03194957971572876
+trial_2	enalaprilat	69	KG00100082	Palpitations NOS	0.03141477704048157
+trial_2	enalaprilat	239	KG00100128	pareses	0.031159795820713043
+trial_2	enalaprilat	28	KG00099347	hypoglycaemia	0.031147312372922897
+trial_2	enalaprilat	102	KG00097916	anxieties	0.030698398128151894
+trial_2	enalaprilat	30	KG00099500	Acute Kidney Failure	0.030132651329040527
+trial_2	enalaprilat	191	KG00104055	Biliverdin increased	0.0300458837300539
+trial_2	enalaprilat	96	KG00101679	Unattended death NOS	0.029204336926341057
+trial_2	enalaprilat	27	KG00099303	hyperkalaemia	0.029075391590595245
+trial_2	enalaprilat	282	KG00099309	hypernatraemia	0.02903062291443348
+trial_2	enalaprilat	72	KG00103771	myalgias	0.028629466891288757
+trial_2	enalaprilat	262	KG00101199	agitation	0.028574088588356972
+trial_2	enalaprilat	82	KG00097697	abdomen distended	0.02841428481042385
+trial_2	enalaprilat	139	KG00098855	Sinusitis, Ethmoid	0.027840951457619667
+trial_2	enalaprilat	234	KG00098669	dysgeusias	0.027608146890997887
+trial_2	enalaprilat	104	KG00097963	arthralgias	0.02721967175602913
+trial_2	enalaprilat	355	KG00110857	lymphocyte count decreased	0.026814712211489677
+trial_2	enalaprilat	130	KG00100683	Stomatitis NOS	0.026667701080441475
+trial_2	enalaprilat	269	KG00100399	pyaemia	0.026462137699127197
+trial_2	enalaprilat	4	KG00098817	epistaxis	0.02620832808315754
+trial_2	enalaprilat	18	KG00098307	Pain, Chest	0.025969790294766426
+trial_2	enalaprilat	92	KG00100926	Infections, Upper Respiratory	0.025745436549186707
+trial_2	enalaprilat	144	KG00099610	Leukopenia NOS	0.025662250816822052
+trial_2	enalaprilat	211	KG00100341	Pruritus NOS	0.025111375376582146
+trial_2	enalaprilat	142	KG00100923	Unspecified infectious and parasitic diseases	0.024749094620347023
+trial_2	enalaprilat	261	KG00101559	raised alkaline phosphatase	0.024636106565594673
+trial_2	enalaprilat	38	KG00098066	Binocular vision disorders	0.024537961930036545
+trial_2	enalaprilat	116	KG00098964	Pain in foot	0.02435215935111046
+trial_2	enalaprilat	396	KG00100373	Embolism, Pulmonary	0.024116305634379387
+trial_2	enalaprilat	121	KG00099190	haemorrhage	0.023981453850865364
+trial_2	enalaprilat	422	KG00101429	Creatine phosphokinase increased	0.02395590953528881
+trial_2	enalaprilat	339	KG00100334	proteinurias	0.023580029606819153
+trial_2	enalaprilat	164	KG00108827	ileus colon	0.023406414315104485
+trial_2	enalaprilat	31	KG00099872	Infarction, Myocardial	0.023284630849957466
+trial_2	enalaprilat	288	KG00101223	hypophosphataemia	0.022868013009428978
+trial_2	enalaprilat	75	KG00100195	Dolens, Phlegmasia Alba	0.0224775318056345
+trial_2	enalaprilat	35	KG00101507	hypomagnesaemia	0.02228044718503952
+trial_2	enalaprilat	249	KG00104430	hypoalbuminaemia	0.022041238844394684
+trial_2	enalaprilat	136	KG00101582	Dry;skin	0.021548761054873466
+trial_2	enalaprilat	132	KG00101045	Gain, Weight	0.02148107811808586
+trial_2	enalaprilat	253	KG00100232	Pleural effusion NOS (disorder)	0.02118341252207756
+trial_2	enalaprilat	186	KG00101431	creatinine increased	0.021154699847102165
+trial_2	enalaprilat	97	KG00104198	LIVER ENZYME ELEVATED	0.021097304299473763
+trial_2	enalaprilat	466	KG00101205	fall	0.021078022196888924
+trial_2	enalaprilat	441	KG00098262	cellulitis nos	0.020709998905658722
+trial_2	enalaprilat	199	KG00098371	Rhinitis (chronic) NOS	0.020666150376200676
+trial_2	enalaprilat	382	KG00099200	haemorrhoids	0.0205399002879858
+trial_2	enalaprilat	11	KG00097993	Asthma NOS	0.02046681009232998
+trial_2	enalaprilat	1	KG00099959	Neutropenia NOS	0.02045460045337677
+trial_2	enalaprilat	154	KG00099686	Lymphopenias	0.020390262827277184
+trial_2	enalaprilat	153	KG00099579	lethargy	0.020385630428791046
+trial_2	enalaprilat	204	KG00098849	Esophagitis, Peptic	0.02037915214896202
+trial_2	enalaprilat	454	KG00098286	Pain, Neck	0.020207403227686882
+trial_2	enalaprilat	36	KG00106434	Vision, Blurring Of	0.020152850076556206
+trial_2	enalaprilat	361	KG00098004	Fibrillation, Atrial	0.01959903910756111
+trial_2	enalaprilat	371	KG00098517	Cystitis (NOS)	0.019443897530436516
+trial_2	enalaprilat	256	KG00100738	Tachycardia, Sinus	0.019368378445506096
+trial_2	enalaprilat	508	KG00108565	blood glucose increased	0.019199546426534653

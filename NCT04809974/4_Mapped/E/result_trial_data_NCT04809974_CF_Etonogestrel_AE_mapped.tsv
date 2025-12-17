@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10301358252763748
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08939040452241898
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08828457444906235
+trial_1	placebo	87	KG00098599	diarrhoea	0.07398325204849243
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0673309713602066
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06619817763566971
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.058033790439367294
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05760468915104866
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05262341350317001
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0522710457444191
+trial_1	placebo	21	KG00098675	dyspnoea	0.051761895418167114
+trial_1	placebo	46	KG00099121	Headache NOS	0.051521383225917816
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04884129390120506
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04843318834900856
+trial_1	placebo	20	KG00098540	dehydration	0.046271126717329025
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.04611483961343765
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04372597858309746
+trial_1	placebo	126	KG00100076	Pain NOS	0.04281393066048622
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04089989513158798
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04073026403784752
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03839026764035225
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03799585625529289
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03739071637392044
+trial_1	placebo	68	KG00099901	nauseas	0.037210214883089066
+trial_1	placebo	104	KG00097963	arthralgias	0.03393421694636345
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0334160141646862
+trial_1	placebo	14	KG00097852	Anemia NOS	0.032074589282274246
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.032050721347332
+trial_1	placebo	239	KG00100128	pareses	0.03144804760813713
+trial_1	placebo	114	KG00098933	fevers	0.029974034056067467
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02985215000808239
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02977878972887993
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.029673350974917412
+trial_1	placebo	228	KG00114657	Weight below normal	0.02912883646786213
+trial_1	placebo	85	KG00098474	coughs	0.028584487736225128
+trial_1	placebo	121	KG00099190	haemorrhage	0.02857358008623123
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.028155386447906494
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028012758120894432
+trial_1	placebo	116	KG00098964	Pain in foot	0.028007807210087776
+trial_1	placebo	147	KG00098000	atelectases	0.027840951457619667
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027700820937752724
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02693498320877552
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026191361248493195
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026154877617955208
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025667861104011536
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.025406047701835632
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02522202394902706
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02499561943113804
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023851364850997925
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02377386949956417
+trial_1	placebo	5	KG00099169	haematuria	0.023722292855381966
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.023427963256835938
+trial_1	placebo	72	KG00103771	myalgias	0.023123301565647125
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022671591490507126
+trial_1	placebo	466	KG00101205	fall	0.021982969716191292
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.021609216928482056
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02148381993174553
+trial_1	placebo	102	KG00097916	anxieties	0.021257231011986732
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02119295671582222
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021143905818462372
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020788948982954025
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.020698504522442818
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020459335297346115
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.020006278529763222
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019692428410053253
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019366994500160217
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019105538725852966
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.019056759774684906
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01890837401151657
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01839919202029705
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018285447731614113
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018084723502397537
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01783207803964615
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01779427006840706
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017765922471880913
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01710089109838009
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.016953349113464355
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01681389845907688
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.016767265275120735
+trial_1	placebo	456	KG00099420	Influenzae	0.016761017963290215
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01655275747179985
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016176851466298103
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01608414202928543
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015882382169365883
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01587897725403309
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01566779613494873
+trial_1	placebo	262	KG00101199	agitation	0.015586412511765957
+trial_1	placebo	203	KG00098661	dysarthrias	0.015459219925105572
+trial_1	placebo	363	KG00098184	burns injury	0.015380015596747398
+trial_1	placebo	82	KG00097697	abdomen distended	0.01527518779039383
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.015110078267753124
+trial_1	placebo	454	KG00098286	Pain, Neck	0.015014621429145336
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014989770017564297
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.014867727644741535
+trial_1	placebo	136	KG00101582	Dry;skin	0.014814143069088459
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.014726594090461731
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01447824016213417
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.014352859929203987
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014246358536183834
+trial_1	placebo	269	KG00100399	pyaemia	0.01423712819814682
+trial_2	etonogestrel	78	KG00099326	Hypertensive diseases	0.10301358252763748
+trial_2	etonogestrel	173	KG00098172	Bronchopneumonia NOS	0.08939040452241898
+trial_2	etonogestrel	177	KG00099299	hyperglycaemia	0.08828457444906235
+trial_2	etonogestrel	87	KG00098599	diarrhoea	0.07398325204849243
+trial_2	etonogestrel	9	KG00098432	Confusion NOS	0.0673309713602066
+trial_2	etonogestrel	17	KG00097991	Asthenia NOS	0.06619817763566971
+trial_2	etonogestrel	79	KG00100317	Insomnia, Primary	0.058033790439367294
+trial_2	etonogestrel	77	KG00098450	Constipation NOS	0.05760468915104866
+trial_2	etonogestrel	243	KG00100947	Micturition frequency increased	0.05262341350317001
+trial_2	etonogestrel	123	KG00099351	hypokalaemia	0.0522710457444191
+trial_2	etonogestrel	21	KG00098675	dyspnoea	0.051761895418167114
+trial_2	etonogestrel	46	KG00099121	Headache NOS	0.051521383225917816
+trial_2	etonogestrel	151	KG00098274	Infarction, Cerebral	0.04884129390120506
+trial_2	etonogestrel	86	KG00098565	Depression, Mental	0.04843318834900856
+trial_2	etonogestrel	20	KG00098540	dehydration	0.046271126717329025
+trial_2	etonogestrel	166	KG00099773	menopausal syndrome	0.04611483961343765
+trial_2	etonogestrel	64	KG00097734	Acrodermatitis, NOS	0.04372597858309746
+trial_2	etonogestrel	126	KG00100076	Pain NOS	0.04281393066048622
+trial_2	etonogestrel	67	KG00098673	Dyspepsia, NOS	0.04089989513158798
+trial_2	etonogestrel	37	KG00097696	Cramps, Abdominal	0.04073026403784752
+trial_2	etonogestrel	139	KG00098855	Sinusitis, Ethmoid	0.03839026764035225
+trial_2	etonogestrel	200	KG00098539	Disorders, Deglutition	0.03799585625529289
+trial_2	etonogestrel	132	KG00101045	Gain, Weight	0.03739071637392044
+trial_2	etonogestrel	68	KG00099901	nauseas	0.037210214883089066
+trial_2	etonogestrel	104	KG00097963	arthralgias	0.03393421694636345
+trial_2	etonogestrel	122	KG00099321	Hypersensitivity NOS	0.0334160141646862
+trial_2	etonogestrel	14	KG00097852	Anemia NOS	0.032074589282274246
+trial_2	etonogestrel	49	KG00099902	nausea with vomiting	0.032050721347332
+trial_2	etonogestrel	239	KG00100128	pareses	0.03144804760813713
+trial_2	etonogestrel	114	KG00098933	fevers	0.029974034056067467
+trial_2	etonogestrel	96	KG00101679	Unattended death NOS	0.02985215000808239
+trial_2	etonogestrel	189	KG00101580	Alanine aminotransferase increase	0.02977878972887993
+trial_2	etonogestrel	28	KG00099347	hypoglycaemia	0.029673350974917412
+trial_2	etonogestrel	228	KG00114657	Weight below normal	0.02912883646786213
+trial_2	etonogestrel	85	KG00098474	coughs	0.028584487736225128
+trial_2	etonogestrel	121	KG00099190	haemorrhage	0.02857358008623123
+trial_2	etonogestrel	180	KG00099363	Hypotension NOS	0.028155386447906494
+trial_2	etonogestrel	350	KG00106765	decreased platelet count	0.028012758120894432
+trial_2	etonogestrel	116	KG00098964	Pain in foot	0.028007807210087776
+trial_2	etonogestrel	147	KG00098000	atelectases	0.027840951457619667
+trial_2	etonogestrel	29	KG00099354	hyponatraemia	0.027700820937752724
+trial_2	etonogestrel	76	KG00100450	Respiratory insufficiency, NOS	0.02693498320877552
+trial_2	etonogestrel	441	KG00098262	cellulitis nos	0.026191361248493195
+trial_2	etonogestrel	69	KG00100082	Palpitations NOS	0.026154877617955208
+trial_2	etonogestrel	38	KG00098066	Binocular vision disorders	0.025667861104011536
+trial_2	etonogestrel	396	KG00100373	Embolism, Pulmonary	0.025406047701835632
+trial_2	etonogestrel	131	KG00100948	Urinary tract infection (& [NOS])	0.02522202394902706
+trial_2	etonogestrel	61	KG00099501	Chronic Kidney Failure	0.02499561943113804
+trial_2	etonogestrel	30	KG00099500	Acute Kidney Failure	0.023851364850997925
+trial_2	etonogestrel	2	KG00100772	thrombocytopaenia	0.02377386949956417
+trial_2	etonogestrel	5	KG00099169	haematuria	0.023722292855381966
+trial_2	etonogestrel	188	KG00101579	Aspartate aminotransferase increase	0.023427963256835938
+trial_2	etonogestrel	72	KG00103771	myalgias	0.023123301565647125
+trial_2	etonogestrel	18	KG00098307	Pain, Chest	0.022671591490507126
+trial_2	etonogestrel	466	KG00101205	fall	0.021982969716191292
+trial_2	etonogestrel	27	KG00099303	hyperkalaemia	0.021609216928482056
+trial_2	etonogestrel	179	KG00099342	hypocalcaemia	0.02148381993174553
+trial_2	etonogestrel	102	KG00097916	anxieties	0.021257231011986732
+trial_2	etonogestrel	75	KG00100195	Dolens, Phlegmasia Alba	0.02119295671582222
+trial_2	etonogestrel	92	KG00100926	Infections, Upper Respiratory	0.021143905818462372
+trial_2	etonogestrel	142	KG00100923	Unspecified infectious and parasitic diseases	0.020788948982954025
+trial_2	etonogestrel	297	KG00099294	hypercholesterolaemia	0.020698504522442818
+trial_2	etonogestrel	276	KG00099127	Arrest, Cardiac	0.020459335297346115
+trial_2	etonogestrel	133	KG00101370	neuropathies sensory	0.020006278529763222
+trial_2	etonogestrel	361	KG00098004	Fibrillation, Atrial	0.019692428410053253
+trial_2	etonogestrel	249	KG00104430	hypoalbuminaemia	0.019366994500160217
+trial_2	etonogestrel	286	KG00101110	Retention, Urinary	0.019105538725852966
+trial_2	etonogestrel	195	KG00097814	Atopic Rhinitis	0.019056759774684906
+trial_2	etonogestrel	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01890837401151657
+trial_2	etonogestrel	211	KG00100341	Pruritus NOS	0.01839919202029705
+trial_2	etonogestrel	118	KG00099011	Gastritis NOS	0.018285447731614113
+trial_2	etonogestrel	204	KG00098849	Esophagitis, Peptic	0.018084723502397537
+trial_2	etonogestrel	11	KG00097993	Asthma NOS	0.01783207803964615
+trial_2	etonogestrel	152	KG00099402	INCONTINENCE NOS	0.01779427006840706
+trial_2	etonogestrel	31	KG00099872	Infarction, Myocardial	0.017765922471880913
+trial_2	etonogestrel	101	KG00097901	Anorexia NOS	0.01710089109838009
+trial_2	etonogestrel	199	KG00098371	Rhinitis (chronic) NOS	0.016953349113464355
+trial_2	etonogestrel	508	KG00108565	blood glucose increased	0.01681389845907688
+trial_2	etonogestrel	35	KG00101507	hypomagnesaemia	0.016767265275120735
+trial_2	etonogestrel	456	KG00099420	Influenzae	0.016761017963290215
+trial_2	etonogestrel	282	KG00099309	hypernatraemia	0.01655275747179985
+trial_2	etonogestrel	138	KG00098796	epidemic vomiting syndrome	0.016176851466298103
+trial_2	etonogestrel	221	KG00101207	peripheral oedema	0.01608414202928543
+trial_2	etonogestrel	355	KG00110857	lymphocyte count decreased	0.015882382169365883
+trial_2	etonogestrel	15	KG00097882	Angina pectoris NOS	0.01587897725403309
+trial_2	etonogestrel	22	KG00098705	Edema (NOS)	0.01566779613494873
+trial_2	etonogestrel	262	KG00101199	agitation	0.015586412511765957
+trial_2	etonogestrel	203	KG00098661	dysarthrias	0.015459219925105572
+trial_2	etonogestrel	363	KG00098184	burns injury	0.015380015596747398
+trial_2	etonogestrel	82	KG00097697	abdomen distended	0.01527518779039383
+trial_2	etonogestrel	36	KG00106434	Vision, Blurring Of	0.015110078267753124
+trial_2	etonogestrel	454	KG00098286	Pain, Neck	0.015014621429145336
+trial_2	etonogestrel	254	KG00100774	Thrombosis NOS	0.014989770017564297
+trial_2	etonogestrel	246	KG00103338	Aspartate Aminotransferase Measurement	0.014867727644741535
+trial_2	etonogestrel	136	KG00101582	Dry;skin	0.014814143069088459
+trial_2	etonogestrel	194	KG00110727	Neutrophil Count Decreased	0.014726594090461731
+trial_2	etonogestrel	288	KG00101223	hypophosphataemia	0.01447824016213417
+trial_2	etonogestrel	98	KG00097718	Incised wound, NOS	0.014352859929203987
+trial_2	etonogestrel	261	KG00101559	raised alkaline phosphatase	0.014246358536183834
+trial_2	etonogestrel	269	KG00100399	pyaemia	0.01423712819814682

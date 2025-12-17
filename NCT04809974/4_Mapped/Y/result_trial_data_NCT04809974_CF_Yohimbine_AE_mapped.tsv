@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.08421599119901657
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0694258064031601
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06892930716276169
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06585374474525452
+trial_1	placebo	68	KG00099901	nauseas	0.06171219050884247
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06123792380094528
+trial_1	placebo	46	KG00099121	Headache NOS	0.06083841621875763
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05866972729563713
+trial_1	placebo	77	KG00098450	Constipation NOS	0.057641398161649704
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.057544514536857605
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05400856211781502
+trial_1	placebo	21	KG00098675	dyspnoea	0.05211498588323593
+trial_1	placebo	20	KG00098540	dehydration	0.04811672866344452
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04781557247042656
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04507136344909668
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0397367961704731
+trial_1	placebo	114	KG00098933	fevers	0.03753341734409332
+trial_1	placebo	85	KG00098474	coughs	0.034624550491571426
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03234686329960823
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03214699402451515
+trial_1	placebo	126	KG00100076	Pain NOS	0.03179304674267769
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0313628688454628
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03052615188062191
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02907278947532177
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.028878862038254738
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.027268050238490105
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.027140170335769653
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027055760845541954
+trial_1	placebo	228	KG00114657	Weight below normal	0.02678593434393406
+trial_1	placebo	104	KG00097963	arthralgias	0.026750100776553154
+trial_1	placebo	86	KG00098565	Depression, Mental	0.026627931743860245
+trial_1	placebo	102	KG00097916	anxieties	0.02644999884068966
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0263730026781559
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.025394143536686897
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025388548150658607
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02403653785586357
+trial_1	placebo	300	KG00101064	xerostomia	0.023596161976456642
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.023584170266985893
+trial_1	placebo	29	KG00099354	hyponatraemia	0.023579932749271393
+trial_1	placebo	350	KG00106765	decreased platelet count	0.023354843258857727
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02333780564367771
+trial_1	placebo	5	KG00099169	haematuria	0.02180267497897148
+trial_1	placebo	262	KG00101199	agitation	0.021785281598567963
+trial_1	placebo	72	KG00103771	myalgias	0.02168525569140911
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02130347304046154
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02090703509747982
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.020700721070170403
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.019489683210849762
+trial_1	placebo	239	KG00100128	pareses	0.01931414194405079
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.019228529185056686
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01876099221408367
+trial_1	placebo	234	KG00098669	dysgeusias	0.018451882526278496
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.018274622038006783
+trial_1	placebo	66	KG00098642	drowsiness	0.01819443702697754
+trial_1	placebo	82	KG00097697	abdomen distended	0.01772250607609749
+trial_1	placebo	132	KG00101045	Gain, Weight	0.01765359751880169
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017579756677150726
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.017405014485120773
+trial_1	placebo	466	KG00101205	fall	0.017127417027950287
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.016849882900714874
+trial_1	placebo	116	KG00098964	Pain in foot	0.016796117648482323
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01677848771214485
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01675865240395069
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.016702119261026382
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01659342646598816
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01648004911839962
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.016348499804735184
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.016116047278046608
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015941398218274117
+trial_1	placebo	147	KG00098000	atelectases	0.015916531905531883
+trial_1	placebo	121	KG00099190	haemorrhage	0.015858402475714684
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01563343033194542
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.015437303110957146
+trial_1	placebo	164	KG00108827	ileus colon	0.015374044887721539
+trial_1	placebo	221	KG00101207	peripheral oedema	0.015234250575304031
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.015138696879148483
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.015096992254257202
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01484720129519701
+trial_1	placebo	508	KG00108565	blood glucose increased	0.014797651208937168
+trial_1	placebo	154	KG00099686	Lymphopenias	0.014588904567062855
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014372382313013077
+trial_1	placebo	153	KG00099579	lethargy	0.01432509534060955
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01418917067348957
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014170181937515736
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014123721979558468
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.013990740291774273
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.013825733214616776
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.013589275069534779
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01351993903517723
+trial_1	placebo	242	KG00100855	tremors	0.013476159423589706
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01340638380497694
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.013399308547377586
+trial_1	placebo	282	KG00099309	hypernatraemia	0.013368229381740093
+trial_1	placebo	186	KG00101431	creatinine increased	0.013167803175747395
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.013140877708792686
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.013092707842588425
+trial_1	placebo	269	KG00100399	pyaemia	0.012942713685333729
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012927967123687267
+trial_1	placebo	4	KG00098817	epistaxis	0.01290363259613514
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012802301906049252
+trial_2	yohimbine	87	KG00098599	diarrhoea	0.08421599119901657
+trial_2	yohimbine	9	KG00098432	Confusion NOS	0.0694258064031601
+trial_2	yohimbine	17	KG00097991	Asthenia NOS	0.06892930716276169
+trial_2	yohimbine	78	KG00099326	Hypertensive diseases	0.06585374474525452
+trial_2	yohimbine	68	KG00099901	nauseas	0.06171219050884247
+trial_2	yohimbine	49	KG00099902	nausea with vomiting	0.06123792380094528
+trial_2	yohimbine	46	KG00099121	Headache NOS	0.06083841621875763
+trial_2	yohimbine	79	KG00100317	Insomnia, Primary	0.05866972729563713
+trial_2	yohimbine	77	KG00098450	Constipation NOS	0.057641398161649704
+trial_2	yohimbine	177	KG00099299	hyperglycaemia	0.057544514536857605
+trial_2	yohimbine	173	KG00098172	Bronchopneumonia NOS	0.05400856211781502
+trial_2	yohimbine	21	KG00098675	dyspnoea	0.05211498588323593
+trial_2	yohimbine	20	KG00098540	dehydration	0.04811672866344452
+trial_2	yohimbine	123	KG00099351	hypokalaemia	0.04781557247042656
+trial_2	yohimbine	37	KG00097696	Cramps, Abdominal	0.04507136344909668
+trial_2	yohimbine	67	KG00098673	Dyspepsia, NOS	0.0397367961704731
+trial_2	yohimbine	114	KG00098933	fevers	0.03753341734409332
+trial_2	yohimbine	85	KG00098474	coughs	0.034624550491571426
+trial_2	yohimbine	64	KG00097734	Acrodermatitis, NOS	0.03234686329960823
+trial_2	yohimbine	189	KG00101580	Alanine aminotransferase increase	0.03214699402451515
+trial_2	yohimbine	126	KG00100076	Pain NOS	0.03179304674267769
+trial_2	yohimbine	200	KG00098539	Disorders, Deglutition	0.0313628688454628
+trial_2	yohimbine	14	KG00097852	Anemia NOS	0.03052615188062191
+trial_2	yohimbine	101	KG00097901	Anorexia NOS	0.02907278947532177
+trial_2	yohimbine	180	KG00099363	Hypotension NOS	0.028878862038254738
+trial_2	yohimbine	243	KG00100947	Micturition frequency increased	0.027268050238490105
+trial_2	yohimbine	188	KG00101579	Aspartate aminotransferase increase	0.027140170335769653
+trial_2	yohimbine	96	KG00101679	Unattended death NOS	0.027055760845541954
+trial_2	yohimbine	228	KG00114657	Weight below normal	0.02678593434393406
+trial_2	yohimbine	104	KG00097963	arthralgias	0.026750100776553154
+trial_2	yohimbine	86	KG00098565	Depression, Mental	0.026627931743860245
+trial_2	yohimbine	102	KG00097916	anxieties	0.02644999884068966
+trial_2	yohimbine	151	KG00098274	Infarction, Cerebral	0.0263730026781559
+trial_2	yohimbine	122	KG00099321	Hypersensitivity NOS	0.025394143536686897
+trial_2	yohimbine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025388548150658607
+trial_2	yohimbine	76	KG00100450	Respiratory insufficiency, NOS	0.02403653785586357
+trial_2	yohimbine	300	KG00101064	xerostomia	0.023596161976456642
+trial_2	yohimbine	2	KG00100772	thrombocytopaenia	0.023584170266985893
+trial_2	yohimbine	29	KG00099354	hyponatraemia	0.023579932749271393
+trial_2	yohimbine	350	KG00106765	decreased platelet count	0.023354843258857727
+trial_2	yohimbine	69	KG00100082	Palpitations NOS	0.02333780564367771
+trial_2	yohimbine	5	KG00099169	haematuria	0.02180267497897148
+trial_2	yohimbine	262	KG00101199	agitation	0.021785281598567963
+trial_2	yohimbine	72	KG00103771	myalgias	0.02168525569140911
+trial_2	yohimbine	211	KG00100341	Pruritus NOS	0.02130347304046154
+trial_2	yohimbine	18	KG00098307	Pain, Chest	0.02090703509747982
+trial_2	yohimbine	61	KG00099501	Chronic Kidney Failure	0.020700721070170403
+trial_2	yohimbine	131	KG00100948	Urinary tract infection (& [NOS])	0.019489683210849762
+trial_2	yohimbine	239	KG00100128	pareses	0.01931414194405079
+trial_2	yohimbine	28	KG00099347	hypoglycaemia	0.019228529185056686
+trial_2	yohimbine	142	KG00100923	Unspecified infectious and parasitic diseases	0.01876099221408367
+trial_2	yohimbine	234	KG00098669	dysgeusias	0.018451882526278496
+trial_2	yohimbine	194	KG00110727	Neutrophil Count Decreased	0.018274622038006783
+trial_2	yohimbine	66	KG00098642	drowsiness	0.01819443702697754
+trial_2	yohimbine	82	KG00097697	abdomen distended	0.01772250607609749
+trial_2	yohimbine	132	KG00101045	Gain, Weight	0.01765359751880169
+trial_2	yohimbine	139	KG00098855	Sinusitis, Ethmoid	0.017579756677150726
+trial_2	yohimbine	144	KG00099610	Leukopenia NOS	0.017405014485120773
+trial_2	yohimbine	466	KG00101205	fall	0.017127417027950287
+trial_2	yohimbine	166	KG00099773	menopausal syndrome	0.016849882900714874
+trial_2	yohimbine	116	KG00098964	Pain in foot	0.016796117648482323
+trial_2	yohimbine	261	KG00101559	raised alkaline phosphatase	0.01677848771214485
+trial_2	yohimbine	179	KG00099342	hypocalcaemia	0.01675865240395069
+trial_2	yohimbine	199	KG00098371	Rhinitis (chronic) NOS	0.016702119261026382
+trial_2	yohimbine	30	KG00099500	Acute Kidney Failure	0.01659342646598816
+trial_2	yohimbine	38	KG00098066	Binocular vision disorders	0.01648004911839962
+trial_2	yohimbine	396	KG00100373	Embolism, Pulmonary	0.016348499804735184
+trial_2	yohimbine	92	KG00100926	Infections, Upper Respiratory	0.016116047278046608
+trial_2	yohimbine	355	KG00110857	lymphocyte count decreased	0.015941398218274117
+trial_2	yohimbine	147	KG00098000	atelectases	0.015916531905531883
+trial_2	yohimbine	121	KG00099190	haemorrhage	0.015858402475714684
+trial_2	yohimbine	36	KG00106434	Vision, Blurring Of	0.01563343033194542
+trial_2	yohimbine	27	KG00099303	hyperkalaemia	0.015437303110957146
+trial_2	yohimbine	164	KG00108827	ileus colon	0.015374044887721539
+trial_2	yohimbine	221	KG00101207	peripheral oedema	0.015234250575304031
+trial_2	yohimbine	130	KG00100683	Stomatitis NOS	0.015138696879148483
+trial_2	yohimbine	422	KG00101429	Creatine phosphokinase increased	0.015096992254257202
+trial_2	yohimbine	1	KG00099959	Neutropenia NOS	0.01484720129519701
+trial_2	yohimbine	508	KG00108565	blood glucose increased	0.014797651208937168
+trial_2	yohimbine	154	KG00099686	Lymphopenias	0.014588904567062855
+trial_2	yohimbine	361	KG00098004	Fibrillation, Atrial	0.014372382313013077
+trial_2	yohimbine	153	KG00099579	lethargy	0.01432509534060955
+trial_2	yohimbine	276	KG00099127	Arrest, Cardiac	0.01418917067348957
+trial_2	yohimbine	11	KG00097993	Asthma NOS	0.014170181937515736
+trial_2	yohimbine	75	KG00100195	Dolens, Phlegmasia Alba	0.014123721979558468
+trial_2	yohimbine	191	KG00104055	Biliverdin increased	0.013990740291774273
+trial_2	yohimbine	31	KG00099872	Infarction, Myocardial	0.013825733214616776
+trial_2	yohimbine	22	KG00098705	Edema (NOS)	0.013589275069534779
+trial_2	yohimbine	441	KG00098262	cellulitis nos	0.01351993903517723
+trial_2	yohimbine	242	KG00100855	tremors	0.013476159423589706
+trial_2	yohimbine	341	KG00101472	Gamma-glutamyltransferase increased	0.01340638380497694
+trial_2	yohimbine	286	KG00101110	Retention, Urinary	0.013399308547377586
+trial_2	yohimbine	282	KG00099309	hypernatraemia	0.013368229381740093
+trial_2	yohimbine	186	KG00101431	creatinine increased	0.013167803175747395
+trial_2	yohimbine	297	KG00099294	hypercholesterolaemia	0.013140877708792686
+trial_2	yohimbine	89	KG00099301	Hyperhidrosis (disorder)	0.013092707842588425
+trial_2	yohimbine	269	KG00100399	pyaemia	0.012942713685333729
+trial_2	yohimbine	204	KG00098849	Esophagitis, Peptic	0.012927967123687267
+trial_2	yohimbine	4	KG00098817	epistaxis	0.01290363259613514
+trial_2	yohimbine	371	KG00098517	Cystitis (NOS)	0.012802301906049252

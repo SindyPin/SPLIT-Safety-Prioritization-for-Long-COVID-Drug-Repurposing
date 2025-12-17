@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.20848293602466583
+trial_1	placebo	87	KG00098599	diarrhoea	0.19971458613872528
+trial_1	placebo	68	KG00099901	nauseas	0.15780039131641388
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1483166515827179
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14238977432250977
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13948993384838104
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13382232189178467
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12620671093463898
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12566176056861877
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.11804892867803574
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.11261143535375595
+trial_1	placebo	46	KG00099121	Headache NOS	0.11224709451198578
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11041175574064255
+trial_1	placebo	20	KG00098540	dehydration	0.109182208776474
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.10781147330999374
+trial_1	placebo	228	KG00114657	Weight below normal	0.1077544242143631
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.10661444813013077
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10650236904621124
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.10058839619159698
+trial_1	placebo	21	KG00098675	dyspnoea	0.10008607804775238
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.10006629675626755
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.09919905662536621
+trial_1	placebo	350	KG00106765	decreased platelet count	0.09557399153709412
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0886559933423996
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08806823194026947
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08567836135625839
+trial_1	placebo	126	KG00100076	Pain NOS	0.08337216824293137
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07799681276082993
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0778755247592926
+trial_1	placebo	239	KG00100128	pareses	0.07757069915533066
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07705607265233994
+trial_1	placebo	114	KG00098933	fevers	0.07182462513446808
+trial_1	placebo	212	KG00100576	shivers	0.06896552443504333
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.06855480372905731
+trial_1	placebo	5	KG00099169	haematuria	0.06695669144392014
+trial_1	placebo	102	KG00097916	anxieties	0.06559916585683823
+trial_1	placebo	72	KG00103771	myalgias	0.06492029875516891
+trial_1	placebo	282	KG00099309	hypernatraemia	0.06321223825216293
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06217639148235321
+trial_1	placebo	147	KG00098000	atelectases	0.06181151792407036
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.061251215636730194
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0603296160697937
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.05923408642411232
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05897882953286171
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.057283878326416016
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05683957412838936
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05576791614294052
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05373623967170715
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.053678177297115326
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05195702612400055
+trial_1	placebo	82	KG00097697	abdomen distended	0.05184444412589073
+trial_1	placebo	18	KG00098307	Pain, Chest	0.051075782626867294
+trial_1	placebo	234	KG00098669	dysgeusias	0.050974395126104355
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.05074866861104965
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0496385432779789
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04936559870839119
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.048883698880672455
+trial_1	placebo	116	KG00098964	Pain in foot	0.04830121994018555
+trial_1	placebo	85	KG00098474	coughs	0.04816501587629318
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.04611470550298691
+trial_1	placebo	154	KG00099686	Lymphopenias	0.04515964165329933
+trial_1	placebo	104	KG00097963	arthralgias	0.04460722580552101
+trial_1	placebo	121	KG00099190	haemorrhage	0.04440322145819664
+trial_1	placebo	100	KG00097815	alopecias	0.04339037463068962
+trial_1	placebo	186	KG00101431	creatinine increased	0.04312191531062126
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04297174513339996
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.04228596389293671
+trial_1	placebo	257	KG00100922	Erythema NOS	0.04193885996937752
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.04190685227513313
+trial_1	placebo	262	KG00101199	agitation	0.041656434535980225
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.04102730005979538
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04101913794875145
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.04088267311453819
+trial_1	placebo	454	KG00098286	Pain, Neck	0.04046017304062843
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0402999110519886
+trial_1	placebo	508	KG00108565	blood glucose increased	0.04021347314119339
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.03904225677251816
+trial_1	placebo	153	KG00099579	lethargy	0.03885369747877121
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03867387771606445
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.037866055965423584
+trial_1	placebo	466	KG00101205	fall	0.037640009075403214
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.037408240139484406
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03739027678966522
+trial_1	placebo	164	KG00108827	ileus colon	0.037157755345106125
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03712717816233635
+trial_1	placebo	503	KG00102612	low haemoglobin	0.03706181049346924
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.03695342317223549
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.036192674189805984
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.035921987146139145
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03590261563658714
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03568210452795029
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03526477888226509
+trial_1	placebo	382	KG00099200	haemorrhoids	0.034849438816308975
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.034400518983602524
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03405526280403137
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03351487219333649
+trial_1	placebo	269	KG00100399	pyaemia	0.03321323171257973
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03319532424211502
+trial_1	placebo	136	KG00101582	Dry;skin	0.033036261796951294
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.03267132490873337
+trial_2	triethylenetetramine	78	KG00099326	Hypertensive diseases	0.20848293602466583
+trial_2	triethylenetetramine	87	KG00098599	diarrhoea	0.19971458613872528
+trial_2	triethylenetetramine	68	KG00099901	nauseas	0.15780039131641388
+trial_2	triethylenetetramine	123	KG00099351	hypokalaemia	0.1483166515827179
+trial_2	triethylenetetramine	9	KG00098432	Confusion NOS	0.14238977432250977
+trial_2	triethylenetetramine	177	KG00099299	hyperglycaemia	0.13948993384838104
+trial_2	triethylenetetramine	17	KG00097991	Asthenia NOS	0.13382232189178467
+trial_2	triethylenetetramine	189	KG00101580	Alanine aminotransferase increase	0.12620671093463898
+trial_2	triethylenetetramine	49	KG00099902	nausea with vomiting	0.12566176056861877
+trial_2	triethylenetetramine	188	KG00101579	Aspartate aminotransferase increase	0.11804892867803574
+trial_2	triethylenetetramine	101	KG00097901	Anorexia NOS	0.11261143535375595
+trial_2	triethylenetetramine	46	KG00099121	Headache NOS	0.11224709451198578
+trial_2	triethylenetetramine	77	KG00098450	Constipation NOS	0.11041175574064255
+trial_2	triethylenetetramine	20	KG00098540	dehydration	0.109182208776474
+trial_2	triethylenetetramine	67	KG00098673	Dyspepsia, NOS	0.10781147330999374
+trial_2	triethylenetetramine	228	KG00114657	Weight below normal	0.1077544242143631
+trial_2	triethylenetetramine	200	KG00098539	Disorders, Deglutition	0.10661444813013077
+trial_2	triethylenetetramine	37	KG00097696	Cramps, Abdominal	0.10650236904621124
+trial_2	triethylenetetramine	243	KG00100947	Micturition frequency increased	0.10058839619159698
+trial_2	triethylenetetramine	21	KG00098675	dyspnoea	0.10008607804775238
+trial_2	triethylenetetramine	2	KG00100772	thrombocytopaenia	0.10006629675626755
+trial_2	triethylenetetramine	179	KG00099342	hypocalcaemia	0.09919905662536621
+trial_2	triethylenetetramine	350	KG00106765	decreased platelet count	0.09557399153709412
+trial_2	triethylenetetramine	64	KG00097734	Acrodermatitis, NOS	0.0886559933423996
+trial_2	triethylenetetramine	173	KG00098172	Bronchopneumonia NOS	0.08806823194026947
+trial_2	triethylenetetramine	79	KG00100317	Insomnia, Primary	0.08567836135625839
+trial_2	triethylenetetramine	126	KG00100076	Pain NOS	0.08337216824293137
+trial_2	triethylenetetramine	14	KG00097852	Anemia NOS	0.07799681276082993
+trial_2	triethylenetetramine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0778755247592926
+trial_2	triethylenetetramine	239	KG00100128	pareses	0.07757069915533066
+trial_2	triethylenetetramine	29	KG00099354	hyponatraemia	0.07705607265233994
+trial_2	triethylenetetramine	114	KG00098933	fevers	0.07182462513446808
+trial_2	triethylenetetramine	212	KG00100576	shivers	0.06896552443504333
+trial_2	triethylenetetramine	194	KG00110727	Neutrophil Count Decreased	0.06855480372905731
+trial_2	triethylenetetramine	5	KG00099169	haematuria	0.06695669144392014
+trial_2	triethylenetetramine	102	KG00097916	anxieties	0.06559916585683823
+trial_2	triethylenetetramine	72	KG00103771	myalgias	0.06492029875516891
+trial_2	triethylenetetramine	282	KG00099309	hypernatraemia	0.06321223825216293
+trial_2	triethylenetetramine	355	KG00110857	lymphocyte count decreased	0.06217639148235321
+trial_2	triethylenetetramine	147	KG00098000	atelectases	0.06181151792407036
+trial_2	triethylenetetramine	27	KG00099303	hyperkalaemia	0.061251215636730194
+trial_2	triethylenetetramine	122	KG00099321	Hypersensitivity NOS	0.0603296160697937
+trial_2	triethylenetetramine	69	KG00100082	Palpitations NOS	0.05923408642411232
+trial_2	triethylenetetramine	261	KG00101559	raised alkaline phosphatase	0.05897882953286171
+trial_2	triethylenetetramine	28	KG00099347	hypoglycaemia	0.057283878326416016
+trial_2	triethylenetetramine	76	KG00100450	Respiratory insufficiency, NOS	0.05683957412838936
+trial_2	triethylenetetramine	180	KG00099363	Hypotension NOS	0.05576791614294052
+trial_2	triethylenetetramine	86	KG00098565	Depression, Mental	0.05373623967170715
+trial_2	triethylenetetramine	191	KG00104055	Biliverdin increased	0.053678177297115326
+trial_2	triethylenetetramine	61	KG00099501	Chronic Kidney Failure	0.05195702612400055
+trial_2	triethylenetetramine	82	KG00097697	abdomen distended	0.05184444412589073
+trial_2	triethylenetetramine	18	KG00098307	Pain, Chest	0.051075782626867294
+trial_2	triethylenetetramine	234	KG00098669	dysgeusias	0.050974395126104355
+trial_2	triethylenetetramine	35	KG00101507	hypomagnesaemia	0.05074866861104965
+trial_2	triethylenetetramine	38	KG00098066	Binocular vision disorders	0.0496385432779789
+trial_2	triethylenetetramine	144	KG00099610	Leukopenia NOS	0.04936559870839119
+trial_2	triethylenetetramine	249	KG00104430	hypoalbuminaemia	0.048883698880672455
+trial_2	triethylenetetramine	116	KG00098964	Pain in foot	0.04830121994018555
+trial_2	triethylenetetramine	85	KG00098474	coughs	0.04816501587629318
+trial_2	triethylenetetramine	218	KG00100801	Tinnitus NOS	0.04611470550298691
+trial_2	triethylenetetramine	154	KG00099686	Lymphopenias	0.04515964165329933
+trial_2	triethylenetetramine	104	KG00097963	arthralgias	0.04460722580552101
+trial_2	triethylenetetramine	121	KG00099190	haemorrhage	0.04440322145819664
+trial_2	triethylenetetramine	100	KG00097815	alopecias	0.04339037463068962
+trial_2	triethylenetetramine	186	KG00101431	creatinine increased	0.04312191531062126
+trial_2	triethylenetetramine	36	KG00106434	Vision, Blurring Of	0.04297174513339996
+trial_2	triethylenetetramine	253	KG00100232	Pleural effusion NOS (disorder)	0.04228596389293671
+trial_2	triethylenetetramine	257	KG00100922	Erythema NOS	0.04193885996937752
+trial_2	triethylenetetramine	211	KG00100341	Pruritus NOS	0.04190685227513313
+trial_2	triethylenetetramine	262	KG00101199	agitation	0.041656434535980225
+trial_2	triethylenetetramine	288	KG00101223	hypophosphataemia	0.04102730005979538
+trial_2	triethylenetetramine	151	KG00098274	Infarction, Cerebral	0.04101913794875145
+trial_2	triethylenetetramine	204	KG00098849	Esophagitis, Peptic	0.04088267311453819
+trial_2	triethylenetetramine	454	KG00098286	Pain, Neck	0.04046017304062843
+trial_2	triethylenetetramine	441	KG00098262	cellulitis nos	0.0402999110519886
+trial_2	triethylenetetramine	508	KG00108565	blood glucose increased	0.04021347314119339
+trial_2	triethylenetetramine	89	KG00099301	Hyperhidrosis (disorder)	0.03904225677251816
+trial_2	triethylenetetramine	153	KG00099579	lethargy	0.03885369747877121
+trial_2	triethylenetetramine	139	KG00098855	Sinusitis, Ethmoid	0.03867387771606445
+trial_2	triethylenetetramine	131	KG00100948	Urinary tract infection (& [NOS])	0.037866055965423584
+trial_2	triethylenetetramine	466	KG00101205	fall	0.037640009075403214
+trial_2	triethylenetetramine	166	KG00099773	menopausal syndrome	0.037408240139484406
+trial_2	triethylenetetramine	256	KG00100738	Tachycardia, Sinus	0.03739027678966522
+trial_2	triethylenetetramine	164	KG00108827	ileus colon	0.037157755345106125
+trial_2	triethylenetetramine	142	KG00100923	Unspecified infectious and parasitic diseases	0.03712717816233635
+trial_2	triethylenetetramine	503	KG00102612	low haemoglobin	0.03706181049346924
+trial_2	triethylenetetramine	98	KG00097718	Incised wound, NOS	0.03695342317223549
+trial_2	triethylenetetramine	371	KG00098517	Cystitis (NOS)	0.036192674189805984
+trial_2	triethylenetetramine	286	KG00101110	Retention, Urinary	0.035921987146139145
+trial_2	triethylenetetramine	276	KG00099127	Arrest, Cardiac	0.03590261563658714
+trial_2	triethylenetetramine	341	KG00101472	Gamma-glutamyltransferase increased	0.03568210452795029
+trial_2	triethylenetetramine	30	KG00099500	Acute Kidney Failure	0.03526477888226509
+trial_2	triethylenetetramine	382	KG00099200	haemorrhoids	0.034849438816308975
+trial_2	triethylenetetramine	195	KG00097814	Atopic Rhinitis	0.034400518983602524
+trial_2	triethylenetetramine	97	KG00104198	LIVER ENZYME ELEVATED	0.03405526280403137
+trial_2	triethylenetetramine	96	KG00101679	Unattended death NOS	0.03351487219333649
+trial_2	triethylenetetramine	269	KG00100399	pyaemia	0.03321323171257973
+trial_2	triethylenetetramine	130	KG00100683	Stomatitis NOS	0.03319532424211502
+trial_2	triethylenetetramine	136	KG00101582	Dry;skin	0.033036261796951294
+trial_2	triethylenetetramine	94	KG00103829	abdominal discomfort	0.03267132490873337

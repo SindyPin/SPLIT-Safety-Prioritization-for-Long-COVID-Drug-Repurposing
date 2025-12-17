@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.10116758942604065
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09073103964328766
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07812314480543137
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0753883346915245
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07116826623678207
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06895842403173447
+trial_1	placebo	21	KG00098675	dyspnoea	0.06569924205541611
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0618833489716053
+trial_1	placebo	126	KG00100076	Pain NOS	0.059531908482313156
+trial_1	placebo	46	KG00099121	Headache NOS	0.058697428554296494
+trial_1	placebo	20	KG00098540	dehydration	0.05601077154278755
+trial_1	placebo	9	KG00098432	Confusion NOS	0.04944105073809624
+trial_1	placebo	68	KG00099901	nauseas	0.04851135239005089
+trial_1	placebo	121	KG00099190	haemorrhage	0.04532911255955696
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04419943690299988
+trial_1	placebo	14	KG00097852	Anemia NOS	0.042608678340911865
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04228230193257332
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04018725827336311
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0382932685315609
+trial_1	placebo	77	KG00098450	Constipation NOS	0.037966325879096985
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03791223093867302
+trial_1	placebo	114	KG00098933	fevers	0.037812236696481705
+trial_1	placebo	228	KG00114657	Weight below normal	0.03722807765007019
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03560654819011688
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03515610098838806
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03507033362984657
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.034712281078100204
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03423282131552696
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03416603431105614
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.033908285200595856
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03373509272933006
+trial_1	placebo	147	KG00098000	atelectases	0.033427610993385315
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.032589759677648544
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03186311945319176
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03168465197086334
+trial_1	placebo	104	KG00097963	arthralgias	0.03162527084350586
+trial_1	placebo	72	KG00103771	myalgias	0.03158688172698021
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03076654113829136
+trial_1	placebo	85	KG00098474	coughs	0.030761374160647392
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.029833104461431503
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028479011729359627
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.027441183105111122
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026783939450979233
+trial_1	placebo	136	KG00101582	Dry;skin	0.02625780738890171
+trial_1	placebo	239	KG00100128	pareses	0.026070041581988335
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.025681544095277786
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.024753490462899208
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02465922385454178
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.024125145748257637
+trial_1	placebo	5	KG00099169	haematuria	0.02400190196931362
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02393910475075245
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02385217510163784
+trial_1	placebo	100	KG00097815	alopecias	0.023477602750062943
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023253409191966057
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022963538765907288
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02231641113758087
+trial_1	placebo	269	KG00100399	pyaemia	0.02206534706056118
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.021697495132684708
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021600382402539253
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02134937234222889
+trial_1	placebo	18	KG00098307	Pain, Chest	0.021074624732136726
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.021074283868074417
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020518284291028976
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.020298335701227188
+trial_1	placebo	102	KG00097916	anxieties	0.020070236176252365
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019773423671722412
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01971646025776863
+trial_1	placebo	212	KG00100576	shivers	0.019676275551319122
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.019645201042294502
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.019333306699991226
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018849419429898262
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.018735263496637344
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01871366612613201
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.018200213089585304
+trial_1	placebo	255	KG00099909	Necrotic debris, NOS	0.018047811463475227
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.017906591296195984
+trial_1	placebo	116	KG00098964	Pain in foot	0.017858153209090233
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.017751358449459076
+trial_1	placebo	248	KG00103361	measurement of creatinine	0.017573317512869835
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01722327433526516
+trial_1	placebo	234	KG00098669	dysgeusias	0.016703803092241287
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.016565771773457527
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01642291620373726
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01620129868388176
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.015761561691761017
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.015507383272051811
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.015353672206401825
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.015292626805603504
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.015012836083769798
+trial_1	placebo	82	KG00097697	abdomen distended	0.014729375950992107
+trial_1	placebo	245	KG00101513	Reaction, Injection Site	0.01461732480674982
+trial_1	placebo	135	KG00101549	bone pain	0.014556434005498886
+trial_1	placebo	466	KG00101205	fall	0.014116710983216763
+trial_1	placebo	155	KG00099960	Neutrophile	0.01410080585628748
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014025230892002583
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014015396125614643
+trial_1	placebo	455	KG00099290	hyperbilirubinemias	0.013676575385034084
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01357298530638218
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01355023868381977
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013307086192071438
+trial_2	tretinoin	87	KG00098599	diarrhoea	0.10116758942604065
+trial_2	tretinoin	177	KG00099299	hyperglycaemia	0.09073103964328766
+trial_2	tretinoin	64	KG00097734	Acrodermatitis, NOS	0.07812314480543137
+trial_2	tretinoin	17	KG00097991	Asthenia NOS	0.0753883346915245
+trial_2	tretinoin	123	KG00099351	hypokalaemia	0.07116826623678207
+trial_2	tretinoin	78	KG00099326	Hypertensive diseases	0.06895842403173447
+trial_2	tretinoin	21	KG00098675	dyspnoea	0.06569924205541611
+trial_2	tretinoin	173	KG00098172	Bronchopneumonia NOS	0.0618833489716053
+trial_2	tretinoin	126	KG00100076	Pain NOS	0.059531908482313156
+trial_2	tretinoin	46	KG00099121	Headache NOS	0.058697428554296494
+trial_2	tretinoin	20	KG00098540	dehydration	0.05601077154278755
+trial_2	tretinoin	9	KG00098432	Confusion NOS	0.04944105073809624
+trial_2	tretinoin	68	KG00099901	nauseas	0.04851135239005089
+trial_2	tretinoin	121	KG00099190	haemorrhage	0.04532911255955696
+trial_2	tretinoin	49	KG00099902	nausea with vomiting	0.04419943690299988
+trial_2	tretinoin	14	KG00097852	Anemia NOS	0.042608678340911865
+trial_2	tretinoin	96	KG00101679	Unattended death NOS	0.04228230193257332
+trial_2	tretinoin	200	KG00098539	Disorders, Deglutition	0.04018725827336311
+trial_2	tretinoin	37	KG00097696	Cramps, Abdominal	0.0382932685315609
+trial_2	tretinoin	77	KG00098450	Constipation NOS	0.037966325879096985
+trial_2	tretinoin	67	KG00098673	Dyspepsia, NOS	0.03791223093867302
+trial_2	tretinoin	114	KG00098933	fevers	0.037812236696481705
+trial_2	tretinoin	228	KG00114657	Weight below normal	0.03722807765007019
+trial_2	tretinoin	2	KG00100772	thrombocytopaenia	0.03560654819011688
+trial_2	tretinoin	142	KG00100923	Unspecified infectious and parasitic diseases	0.03515610098838806
+trial_2	tretinoin	76	KG00100450	Respiratory insufficiency, NOS	0.03507033362984657
+trial_2	tretinoin	79	KG00100317	Insomnia, Primary	0.034712281078100204
+trial_2	tretinoin	151	KG00098274	Infarction, Cerebral	0.03423282131552696
+trial_2	tretinoin	29	KG00099354	hyponatraemia	0.03416603431105614
+trial_2	tretinoin	122	KG00099321	Hypersensitivity NOS	0.033908285200595856
+trial_2	tretinoin	179	KG00099342	hypocalcaemia	0.03373509272933006
+trial_2	tretinoin	147	KG00098000	atelectases	0.033427610993385315
+trial_2	tretinoin	180	KG00099363	Hypotension NOS	0.032589759677648544
+trial_2	tretinoin	27	KG00099303	hyperkalaemia	0.03186311945319176
+trial_2	tretinoin	86	KG00098565	Depression, Mental	0.03168465197086334
+trial_2	tretinoin	104	KG00097963	arthralgias	0.03162527084350586
+trial_2	tretinoin	72	KG00103771	myalgias	0.03158688172698021
+trial_2	tretinoin	61	KG00099501	Chronic Kidney Failure	0.03076654113829136
+trial_2	tretinoin	85	KG00098474	coughs	0.030761374160647392
+trial_2	tretinoin	249	KG00104430	hypoalbuminaemia	0.029833104461431503
+trial_2	tretinoin	350	KG00106765	decreased platelet count	0.028479011729359627
+trial_2	tretinoin	211	KG00100341	Pruritus NOS	0.027441183105111122
+trial_2	tretinoin	282	KG00099309	hypernatraemia	0.026783939450979233
+trial_2	tretinoin	136	KG00101582	Dry;skin	0.02625780738890171
+trial_2	tretinoin	239	KG00100128	pareses	0.026070041581988335
+trial_2	tretinoin	396	KG00100373	Embolism, Pulmonary	0.025681544095277786
+trial_2	tretinoin	189	KG00101580	Alanine aminotransferase increase	0.024753490462899208
+trial_2	tretinoin	154	KG00099686	Lymphopenias	0.02465922385454178
+trial_2	tretinoin	243	KG00100947	Micturition frequency increased	0.024125145748257637
+trial_2	tretinoin	5	KG00099169	haematuria	0.02400190196931362
+trial_2	tretinoin	28	KG00099347	hypoglycaemia	0.02393910475075245
+trial_2	tretinoin	139	KG00098855	Sinusitis, Ethmoid	0.02385217510163784
+trial_2	tretinoin	100	KG00097815	alopecias	0.023477602750062943
+trial_2	tretinoin	194	KG00110727	Neutrophil Count Decreased	0.023253409191966057
+trial_2	tretinoin	441	KG00098262	cellulitis nos	0.022963538765907288
+trial_2	tretinoin	101	KG00097901	Anorexia NOS	0.02231641113758087
+trial_2	tretinoin	269	KG00100399	pyaemia	0.02206534706056118
+trial_2	tretinoin	170	KG00108926	Neutropenia, Febrile	0.021697495132684708
+trial_2	tretinoin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021600382402539253
+trial_2	tretinoin	246	KG00103338	Aspartate Aminotransferase Measurement	0.02134937234222889
+trial_2	tretinoin	18	KG00098307	Pain, Chest	0.021074624732136726
+trial_2	tretinoin	131	KG00100948	Urinary tract infection (& [NOS])	0.021074283868074417
+trial_2	tretinoin	191	KG00104055	Biliverdin increased	0.020518284291028976
+trial_2	tretinoin	355	KG00110857	lymphocyte count decreased	0.020298335701227188
+trial_2	tretinoin	102	KG00097916	anxieties	0.020070236176252365
+trial_2	tretinoin	38	KG00098066	Binocular vision disorders	0.019773423671722412
+trial_2	tretinoin	1	KG00099959	Neutropenia NOS	0.01971646025776863
+trial_2	tretinoin	212	KG00100576	shivers	0.019676275551319122
+trial_2	tretinoin	133	KG00101370	neuropathies sensory	0.019645201042294502
+trial_2	tretinoin	188	KG00101579	Aspartate aminotransferase increase	0.019333306699991226
+trial_2	tretinoin	253	KG00100232	Pleural effusion NOS (disorder)	0.018849419429898262
+trial_2	tretinoin	276	KG00099127	Arrest, Cardiac	0.018735263496637344
+trial_2	tretinoin	30	KG00099500	Acute Kidney Failure	0.01871366612613201
+trial_2	tretinoin	361	KG00098004	Fibrillation, Atrial	0.018200213089585304
+trial_2	tretinoin	255	KG00099909	Necrotic debris, NOS	0.018047811463475227
+trial_2	tretinoin	288	KG00101223	hypophosphataemia	0.017906591296195984
+trial_2	tretinoin	116	KG00098964	Pain in foot	0.017858153209090233
+trial_2	tretinoin	254	KG00100774	Thrombosis NOS	0.017751358449459076
+trial_2	tretinoin	248	KG00103361	measurement of creatinine	0.017573317512869835
+trial_2	tretinoin	31	KG00099872	Infarction, Myocardial	0.01722327433526516
+trial_2	tretinoin	234	KG00098669	dysgeusias	0.016703803092241287
+trial_2	tretinoin	35	KG00101507	hypomagnesaemia	0.016565771773457527
+trial_2	tretinoin	195	KG00097814	Atopic Rhinitis	0.01642291620373726
+trial_2	tretinoin	144	KG00099610	Leukopenia NOS	0.01620129868388176
+trial_2	tretinoin	75	KG00100195	Dolens, Phlegmasia Alba	0.015761561691761017
+trial_2	tretinoin	130	KG00100683	Stomatitis NOS	0.015507383272051811
+trial_2	tretinoin	213	KG00100600	Infectious Skin Diseases	0.015353672206401825
+trial_2	tretinoin	261	KG00101559	raised alkaline phosphatase	0.015292626805603504
+trial_2	tretinoin	347	KG00104223	Mucosal ulcers	0.015012836083769798
+trial_2	tretinoin	82	KG00097697	abdomen distended	0.014729375950992107
+trial_2	tretinoin	245	KG00101513	Reaction, Injection Site	0.01461732480674982
+trial_2	tretinoin	135	KG00101549	bone pain	0.014556434005498886
+trial_2	tretinoin	466	KG00101205	fall	0.014116710983216763
+trial_2	tretinoin	155	KG00099960	Neutrophile	0.01410080585628748
+trial_2	tretinoin	22	KG00098705	Edema (NOS)	0.014025230892002583
+trial_2	tretinoin	69	KG00100082	Palpitations NOS	0.014015396125614643
+trial_2	tretinoin	455	KG00099290	hyperbilirubinemias	0.013676575385034084
+trial_2	tretinoin	221	KG00101207	peripheral oedema	0.01357298530638218
+trial_2	tretinoin	356	KG00112623	Infectious Lung Disorders	0.01355023868381977
+trial_2	tretinoin	15	KG00097882	Angina pectoris NOS	0.013307086192071438

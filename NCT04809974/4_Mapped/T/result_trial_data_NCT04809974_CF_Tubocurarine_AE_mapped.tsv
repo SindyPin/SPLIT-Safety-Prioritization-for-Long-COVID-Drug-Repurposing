@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.13706807792186737
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11128458380699158
+trial_1	placebo	68	KG00099901	nauseas	0.09003697335720062
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08929688483476639
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08895153552293777
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08794154971837997
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08313413709402084
+trial_1	placebo	20	KG00098540	dehydration	0.08012066781520844
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07746615260839462
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0758550763130188
+trial_1	placebo	46	KG00099121	Headache NOS	0.07152359187602997
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06761287152767181
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.062423739582300186
+trial_1	placebo	21	KG00098675	dyspnoea	0.060610558837652206
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05852559953927994
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05462735518813133
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05414390563964844
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04810139909386635
+trial_1	placebo	228	KG00114657	Weight below normal	0.04766140505671501
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.047527581453323364
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04712281748652458
+trial_1	placebo	114	KG00098933	fevers	0.04692528024315834
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.044454872608184814
+trial_1	placebo	14	KG00097852	Anemia NOS	0.043950486928224564
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.043352458626031876
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04305798560380936
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.043046336621046066
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04147428646683693
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.040825918316841125
+trial_1	placebo	126	KG00100076	Pain NOS	0.04049627482891083
+trial_1	placebo	86	KG00098565	Depression, Mental	0.039837270975112915
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03930587321519852
+trial_1	placebo	104	KG00097963	arthralgias	0.03806917369365692
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03712701424956322
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03542860969901085
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03378366678953171
+trial_1	placebo	85	KG00098474	coughs	0.033701155334711075
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.033266931772232056
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.032988183200359344
+trial_1	placebo	239	KG00100128	pareses	0.032363977283239365
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0315820537507534
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03136270120739937
+trial_1	placebo	102	KG00097916	anxieties	0.03105388768017292
+trial_1	placebo	72	KG00103771	myalgias	0.030877508223056793
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.030669571831822395
+trial_1	placebo	147	KG00098000	atelectases	0.030441416427493095
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.030056746676564217
+trial_1	placebo	5	KG00099169	haematuria	0.029326098039746284
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02928527072072029
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0292050763964653
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027121109887957573
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02667057327926159
+trial_1	placebo	164	KG00108827	ileus colon	0.026393575593829155
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02592354267835617
+trial_1	placebo	262	KG00101199	agitation	0.0252897460013628
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02482209913432598
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024779850617051125
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.024555891752243042
+trial_1	placebo	269	KG00100399	pyaemia	0.024538535624742508
+trial_1	placebo	121	KG00099190	haemorrhage	0.024418143555521965
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02419641613960266
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023918991908431053
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02303578518331051
+trial_1	placebo	82	KG00097697	abdomen distended	0.022701498121023178
+trial_1	placebo	132	KG00101045	Gain, Weight	0.022651121020317078
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02206568978726864
+trial_1	placebo	466	KG00101205	fall	0.02198372781276703
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02194245532155037
+trial_1	placebo	116	KG00098964	Pain in foot	0.021744413301348686
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021216515451669693
+trial_1	placebo	100	KG00097815	alopecias	0.0210784450173378
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021012775599956512
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020809050649404526
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02080683596432209
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02079162746667862
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020671874284744263
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.020392345264554024
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02033918909728527
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020209534093737602
+trial_1	placebo	234	KG00098669	dysgeusias	0.02010893076658249
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01989099383354187
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.019360532984137535
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.019193453714251518
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01898335851728916
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018880998715758324
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.018839087337255478
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.018813833594322205
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.018575355410575867
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01857077144086361
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.018175553530454636
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.017938928678631783
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01789560168981552
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.017817912623286247
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.017749587073922157
+trial_1	placebo	66	KG00098642	drowsiness	0.01761823147535324
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01747693121433258
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01727345958352089
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01697244867682457
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016660507768392563
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.016630934551358223
+trial_2	tubocurarine	87	KG00098599	diarrhoea	0.13706807792186737
+trial_2	tubocurarine	78	KG00099326	Hypertensive diseases	0.11128458380699158
+trial_2	tubocurarine	68	KG00099901	nauseas	0.09003697335720062
+trial_2	tubocurarine	177	KG00099299	hyperglycaemia	0.08929688483476639
+trial_2	tubocurarine	49	KG00099902	nausea with vomiting	0.08895153552293777
+trial_2	tubocurarine	17	KG00097991	Asthenia NOS	0.08794154971837997
+trial_2	tubocurarine	9	KG00098432	Confusion NOS	0.08313413709402084
+trial_2	tubocurarine	20	KG00098540	dehydration	0.08012066781520844
+trial_2	tubocurarine	173	KG00098172	Bronchopneumonia NOS	0.07746615260839462
+trial_2	tubocurarine	123	KG00099351	hypokalaemia	0.0758550763130188
+trial_2	tubocurarine	46	KG00099121	Headache NOS	0.07152359187602997
+trial_2	tubocurarine	77	KG00098450	Constipation NOS	0.06761287152767181
+trial_2	tubocurarine	79	KG00100317	Insomnia, Primary	0.062423739582300186
+trial_2	tubocurarine	21	KG00098675	dyspnoea	0.060610558837652206
+trial_2	tubocurarine	37	KG00097696	Cramps, Abdominal	0.05852559953927994
+trial_2	tubocurarine	189	KG00101580	Alanine aminotransferase increase	0.05462735518813133
+trial_2	tubocurarine	67	KG00098673	Dyspepsia, NOS	0.05414390563964844
+trial_2	tubocurarine	200	KG00098539	Disorders, Deglutition	0.04810139909386635
+trial_2	tubocurarine	228	KG00114657	Weight below normal	0.04766140505671501
+trial_2	tubocurarine	101	KG00097901	Anorexia NOS	0.047527581453323364
+trial_2	tubocurarine	151	KG00098274	Infarction, Cerebral	0.04712281748652458
+trial_2	tubocurarine	114	KG00098933	fevers	0.04692528024315834
+trial_2	tubocurarine	188	KG00101579	Aspartate aminotransferase increase	0.044454872608184814
+trial_2	tubocurarine	14	KG00097852	Anemia NOS	0.043950486928224564
+trial_2	tubocurarine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.043352458626031876
+trial_2	tubocurarine	29	KG00099354	hyponatraemia	0.04305798560380936
+trial_2	tubocurarine	64	KG00097734	Acrodermatitis, NOS	0.043046336621046066
+trial_2	tubocurarine	350	KG00106765	decreased platelet count	0.04147428646683693
+trial_2	tubocurarine	2	KG00100772	thrombocytopaenia	0.040825918316841125
+trial_2	tubocurarine	126	KG00100076	Pain NOS	0.04049627482891083
+trial_2	tubocurarine	86	KG00098565	Depression, Mental	0.039837270975112915
+trial_2	tubocurarine	96	KG00101679	Unattended death NOS	0.03930587321519852
+trial_2	tubocurarine	104	KG00097963	arthralgias	0.03806917369365692
+trial_2	tubocurarine	180	KG00099363	Hypotension NOS	0.03712701424956322
+trial_2	tubocurarine	76	KG00100450	Respiratory insufficiency, NOS	0.03542860969901085
+trial_2	tubocurarine	122	KG00099321	Hypersensitivity NOS	0.03378366678953171
+trial_2	tubocurarine	85	KG00098474	coughs	0.033701155334711075
+trial_2	tubocurarine	61	KG00099501	Chronic Kidney Failure	0.033266931772232056
+trial_2	tubocurarine	27	KG00099303	hyperkalaemia	0.032988183200359344
+trial_2	tubocurarine	239	KG00100128	pareses	0.032363977283239365
+trial_2	tubocurarine	28	KG00099347	hypoglycaemia	0.0315820537507534
+trial_2	tubocurarine	179	KG00099342	hypocalcaemia	0.03136270120739937
+trial_2	tubocurarine	102	KG00097916	anxieties	0.03105388768017292
+trial_2	tubocurarine	72	KG00103771	myalgias	0.030877508223056793
+trial_2	tubocurarine	194	KG00110727	Neutrophil Count Decreased	0.030669571831822395
+trial_2	tubocurarine	147	KG00098000	atelectases	0.030441416427493095
+trial_2	tubocurarine	142	KG00100923	Unspecified infectious and parasitic diseases	0.030056746676564217
+trial_2	tubocurarine	5	KG00099169	haematuria	0.029326098039746284
+trial_2	tubocurarine	243	KG00100947	Micturition frequency increased	0.02928527072072029
+trial_2	tubocurarine	38	KG00098066	Binocular vision disorders	0.0292050763964653
+trial_2	tubocurarine	396	KG00100373	Embolism, Pulmonary	0.027121109887957573
+trial_2	tubocurarine	30	KG00099500	Acute Kidney Failure	0.02667057327926159
+trial_2	tubocurarine	164	KG00108827	ileus colon	0.026393575593829155
+trial_2	tubocurarine	282	KG00099309	hypernatraemia	0.02592354267835617
+trial_2	tubocurarine	262	KG00101199	agitation	0.0252897460013628
+trial_2	tubocurarine	18	KG00098307	Pain, Chest	0.02482209913432598
+trial_2	tubocurarine	144	KG00099610	Leukopenia NOS	0.024779850617051125
+trial_2	tubocurarine	276	KG00099127	Arrest, Cardiac	0.024555891752243042
+trial_2	tubocurarine	269	KG00100399	pyaemia	0.024538535624742508
+trial_2	tubocurarine	121	KG00099190	haemorrhage	0.024418143555521965
+trial_2	tubocurarine	139	KG00098855	Sinusitis, Ethmoid	0.02419641613960266
+trial_2	tubocurarine	261	KG00101559	raised alkaline phosphatase	0.023918991908431053
+trial_2	tubocurarine	1	KG00099959	Neutropenia NOS	0.02303578518331051
+trial_2	tubocurarine	82	KG00097697	abdomen distended	0.022701498121023178
+trial_2	tubocurarine	132	KG00101045	Gain, Weight	0.022651121020317078
+trial_2	tubocurarine	154	KG00099686	Lymphopenias	0.02206568978726864
+trial_2	tubocurarine	466	KG00101205	fall	0.02198372781276703
+trial_2	tubocurarine	131	KG00100948	Urinary tract infection (& [NOS])	0.02194245532155037
+trial_2	tubocurarine	116	KG00098964	Pain in foot	0.021744413301348686
+trial_2	tubocurarine	355	KG00110857	lymphocyte count decreased	0.021216515451669693
+trial_2	tubocurarine	100	KG00097815	alopecias	0.0210784450173378
+trial_2	tubocurarine	31	KG00099872	Infarction, Myocardial	0.021012775599956512
+trial_2	tubocurarine	191	KG00104055	Biliverdin increased	0.020809050649404526
+trial_2	tubocurarine	33	KG00100094	Pancreatitis NOS	0.02080683596432209
+trial_2	tubocurarine	69	KG00100082	Palpitations NOS	0.02079162746667862
+trial_2	tubocurarine	75	KG00100195	Dolens, Phlegmasia Alba	0.020671874284744263
+trial_2	tubocurarine	253	KG00100232	Pleural effusion NOS (disorder)	0.020392345264554024
+trial_2	tubocurarine	249	KG00104430	hypoalbuminaemia	0.02033918909728527
+trial_2	tubocurarine	361	KG00098004	Fibrillation, Atrial	0.020209534093737602
+trial_2	tubocurarine	234	KG00098669	dysgeusias	0.02010893076658249
+trial_2	tubocurarine	286	KG00101110	Retention, Urinary	0.01989099383354187
+trial_2	tubocurarine	36	KG00106434	Vision, Blurring Of	0.019360532984137535
+trial_2	tubocurarine	254	KG00100774	Thrombosis NOS	0.019193453714251518
+trial_2	tubocurarine	341	KG00101472	Gamma-glutamyltransferase increased	0.01898335851728916
+trial_2	tubocurarine	211	KG00100341	Pruritus NOS	0.018880998715758324
+trial_2	tubocurarine	394	KG00100243	Pneumonia, Aspiration	0.018839087337255478
+trial_2	tubocurarine	422	KG00101429	Creatine phosphokinase increased	0.018813833594322205
+trial_2	tubocurarine	35	KG00101507	hypomagnesaemia	0.018575355410575867
+trial_2	tubocurarine	118	KG00099011	Gastritis NOS	0.01857077144086361
+trial_2	tubocurarine	22	KG00098705	Edema (NOS)	0.018175553530454636
+trial_2	tubocurarine	15	KG00097882	Angina pectoris NOS	0.017938928678631783
+trial_2	tubocurarine	441	KG00098262	cellulitis nos	0.01789560168981552
+trial_2	tubocurarine	288	KG00101223	hypophosphataemia	0.017817912623286247
+trial_2	tubocurarine	256	KG00100738	Tachycardia, Sinus	0.017749587073922157
+trial_2	tubocurarine	66	KG00098642	drowsiness	0.01761823147535324
+trial_2	tubocurarine	204	KG00098849	Esophagitis, Peptic	0.01747693121433258
+trial_2	tubocurarine	508	KG00108565	blood glucose increased	0.01727345958352089
+trial_2	tubocurarine	92	KG00100926	Infections, Upper Respiratory	0.01697244867682457
+trial_2	tubocurarine	138	KG00098796	epidemic vomiting syndrome	0.016660507768392563
+trial_2	tubocurarine	130	KG00100683	Stomatitis NOS	0.016630934551358223

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2268136888742447
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1331866979598999
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13300997018814087
+trial_1	placebo	20	KG00098540	dehydration	0.11076801270246506
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10253219306468964
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08722826838493347
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08568646758794785
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08432047069072723
+trial_1	placebo	68	KG00099901	nauseas	0.08320263773202896
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08315396308898926
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07937564700841904
+trial_1	placebo	228	KG00114657	Weight below normal	0.07717089354991913
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07655038684606552
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07598143815994263
+trial_1	placebo	21	KG00098675	dyspnoea	0.07533220201730728
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07399406284093857
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06790603697299957
+trial_1	placebo	46	KG00099121	Headache NOS	0.06559761613607407
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06418951600790024
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06006550416350365
+trial_1	placebo	114	KG00098933	fevers	0.05623073875904083
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0561346709728241
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05436764657497406
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.051718030124902725
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05154798924922943
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04922035336494446
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04786650836467743
+trial_1	placebo	147	KG00098000	atelectases	0.047660842537879944
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04727816581726074
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.046697769314050674
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04569985345005989
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04560473561286926
+trial_1	placebo	126	KG00100076	Pain NOS	0.04515739157795906
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04444499686360359
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04320899397134781
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04267057031393051
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.042288076132535934
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04167526587843895
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04069356992840767
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04060957580804825
+trial_1	placebo	85	KG00098474	coughs	0.04033586010336876
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.039671700447797775
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03822833299636841
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03785409405827522
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.037852708250284195
+trial_1	placebo	121	KG00099190	haemorrhage	0.03726528584957123
+trial_1	placebo	269	KG00100399	pyaemia	0.03712468966841698
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03689613565802574
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03657319024205208
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03531966730952263
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03465809300541878
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03451023995876312
+trial_1	placebo	239	KG00100128	pareses	0.03393306955695152
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03261365741491318
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03226996585726738
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03225015848875046
+trial_1	placebo	5	KG00099169	haematuria	0.03180726617574692
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03136402741074562
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03105936199426651
+trial_1	placebo	441	KG00098262	cellulitis nos	0.030976468697190285
+trial_1	placebo	186	KG00101431	creatinine increased	0.029686231166124344
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029230747371912003
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028620081022381783
+trial_1	placebo	104	KG00097963	arthralgias	0.0279826782643795
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.027306687086820602
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.026790209114551544
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026781588792800903
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.026229869574308395
+trial_1	placebo	164	KG00108827	ileus colon	0.02584235556423664
+trial_1	placebo	257	KG00100922	Erythema NOS	0.025436826050281525
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02535061351954937
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025135572999715805
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.024959905073046684
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02465675212442875
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0236765556037426
+trial_1	placebo	4	KG00098817	epistaxis	0.02359701506793499
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.023158738389611244
+trial_1	placebo	136	KG00101582	Dry;skin	0.02287815511226654
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022488432005047798
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02205933816730976
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.0219661183655262
+trial_1	placebo	82	KG00097697	abdomen distended	0.021630071103572845
+trial_1	placebo	116	KG00098964	Pain in foot	0.021504424512386322
+trial_1	placebo	503	KG00102612	low haemoglobin	0.0210147425532341
+trial_1	placebo	234	KG00098669	dysgeusias	0.020877709612250328
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020862873643636703
+trial_1	placebo	212	KG00100576	shivers	0.020751047879457474
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020435478538274765
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.020343264564871788
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020101968199014664
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.019478915259242058
+trial_1	placebo	72	KG00103771	myalgias	0.01947842352092266
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019323188811540604
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.01931537315249443
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.019294651225209236
+trial_1	placebo	102	KG00097916	anxieties	0.019207434728741646
+trial_1	placebo	155	KG00099960	Neutrophile	0.01913326419889927
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01901949942111969
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01891712099313736
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01881786249577999
+trial_2	trifluridine	87	KG00098599	diarrhoea	0.2268136888742447
+trial_2	trifluridine	123	KG00099351	hypokalaemia	0.1331866979598999
+trial_2	trifluridine	78	KG00099326	Hypertensive diseases	0.13300997018814087
+trial_2	trifluridine	20	KG00098540	dehydration	0.11076801270246506
+trial_2	trifluridine	177	KG00099299	hyperglycaemia	0.10253219306468964
+trial_2	trifluridine	189	KG00101580	Alanine aminotransferase increase	0.08722826838493347
+trial_2	trifluridine	64	KG00097734	Acrodermatitis, NOS	0.08568646758794785
+trial_2	trifluridine	173	KG00098172	Bronchopneumonia NOS	0.08432047069072723
+trial_2	trifluridine	68	KG00099901	nauseas	0.08320263773202896
+trial_2	trifluridine	17	KG00097991	Asthenia NOS	0.08315396308898926
+trial_2	trifluridine	37	KG00097696	Cramps, Abdominal	0.07937564700841904
+trial_2	trifluridine	228	KG00114657	Weight below normal	0.07717089354991913
+trial_2	trifluridine	49	KG00099902	nausea with vomiting	0.07655038684606552
+trial_2	trifluridine	2	KG00100772	thrombocytopaenia	0.07598143815994263
+trial_2	trifluridine	21	KG00098675	dyspnoea	0.07533220201730728
+trial_2	trifluridine	9	KG00098432	Confusion NOS	0.07399406284093857
+trial_2	trifluridine	14	KG00097852	Anemia NOS	0.06790603697299957
+trial_2	trifluridine	46	KG00099121	Headache NOS	0.06559761613607407
+trial_2	trifluridine	29	KG00099354	hyponatraemia	0.06418951600790024
+trial_2	trifluridine	188	KG00101579	Aspartate aminotransferase increase	0.06006550416350365
+trial_2	trifluridine	114	KG00098933	fevers	0.05623073875904083
+trial_2	trifluridine	200	KG00098539	Disorders, Deglutition	0.0561346709728241
+trial_2	trifluridine	67	KG00098673	Dyspepsia, NOS	0.05436764657497406
+trial_2	trifluridine	61	KG00099501	Chronic Kidney Failure	0.051718030124902725
+trial_2	trifluridine	77	KG00098450	Constipation NOS	0.05154798924922943
+trial_2	trifluridine	101	KG00097901	Anorexia NOS	0.04922035336494446
+trial_2	trifluridine	151	KG00098274	Infarction, Cerebral	0.04786650836467743
+trial_2	trifluridine	147	KG00098000	atelectases	0.047660842537879944
+trial_2	trifluridine	350	KG00106765	decreased platelet count	0.04727816581726074
+trial_2	trifluridine	96	KG00101679	Unattended death NOS	0.046697769314050674
+trial_2	trifluridine	179	KG00099342	hypocalcaemia	0.04569985345005989
+trial_2	trifluridine	142	KG00100923	Unspecified infectious and parasitic diseases	0.04560473561286926
+trial_2	trifluridine	126	KG00100076	Pain NOS	0.04515739157795906
+trial_2	trifluridine	396	KG00100373	Embolism, Pulmonary	0.04444499686360359
+trial_2	trifluridine	38	KG00098066	Binocular vision disorders	0.04320899397134781
+trial_2	trifluridine	79	KG00100317	Insomnia, Primary	0.04267057031393051
+trial_2	trifluridine	180	KG00099363	Hypotension NOS	0.042288076132535934
+trial_2	trifluridine	122	KG00099321	Hypersensitivity NOS	0.04167526587843895
+trial_2	trifluridine	30	KG00099500	Acute Kidney Failure	0.04069356992840767
+trial_2	trifluridine	76	KG00100450	Respiratory insufficiency, NOS	0.04060957580804825
+trial_2	trifluridine	85	KG00098474	coughs	0.04033586010336876
+trial_2	trifluridine	27	KG00099303	hyperkalaemia	0.039671700447797775
+trial_2	trifluridine	276	KG00099127	Arrest, Cardiac	0.03822833299636841
+trial_2	trifluridine	86	KG00098565	Depression, Mental	0.03785409405827522
+trial_2	trifluridine	194	KG00110727	Neutrophil Count Decreased	0.037852708250284195
+trial_2	trifluridine	121	KG00099190	haemorrhage	0.03726528584957123
+trial_2	trifluridine	269	KG00100399	pyaemia	0.03712468966841698
+trial_2	trifluridine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03689613565802574
+trial_2	trifluridine	191	KG00104055	Biliverdin increased	0.03657319024205208
+trial_2	trifluridine	131	KG00100948	Urinary tract infection (& [NOS])	0.03531966730952263
+trial_2	trifluridine	28	KG00099347	hypoglycaemia	0.03465809300541878
+trial_2	trifluridine	261	KG00101559	raised alkaline phosphatase	0.03451023995876312
+trial_2	trifluridine	239	KG00100128	pareses	0.03393306955695152
+trial_2	trifluridine	1	KG00099959	Neutropenia NOS	0.03261365741491318
+trial_2	trifluridine	75	KG00100195	Dolens, Phlegmasia Alba	0.03226996585726738
+trial_2	trifluridine	144	KG00099610	Leukopenia NOS	0.03225015848875046
+trial_2	trifluridine	5	KG00099169	haematuria	0.03180726617574692
+trial_2	trifluridine	282	KG00099309	hypernatraemia	0.03136402741074562
+trial_2	trifluridine	249	KG00104430	hypoalbuminaemia	0.03105936199426651
+trial_2	trifluridine	441	KG00098262	cellulitis nos	0.030976468697190285
+trial_2	trifluridine	186	KG00101431	creatinine increased	0.029686231166124344
+trial_2	trifluridine	18	KG00098307	Pain, Chest	0.029230747371912003
+trial_2	trifluridine	253	KG00100232	Pleural effusion NOS (disorder)	0.028620081022381783
+trial_2	trifluridine	104	KG00097963	arthralgias	0.0279826782643795
+trial_2	trifluridine	130	KG00100683	Stomatitis NOS	0.027306687086820602
+trial_2	trifluridine	243	KG00100947	Micturition frequency increased	0.026790209114551544
+trial_2	trifluridine	139	KG00098855	Sinusitis, Ethmoid	0.026781588792800903
+trial_2	trifluridine	35	KG00101507	hypomagnesaemia	0.026229869574308395
+trial_2	trifluridine	164	KG00108827	ileus colon	0.02584235556423664
+trial_2	trifluridine	257	KG00100922	Erythema NOS	0.025436826050281525
+trial_2	trifluridine	288	KG00101223	hypophosphataemia	0.02535061351954937
+trial_2	trifluridine	31	KG00099872	Infarction, Myocardial	0.025135572999715805
+trial_2	trifluridine	138	KG00098796	epidemic vomiting syndrome	0.024959905073046684
+trial_2	trifluridine	356	KG00112623	Infectious Lung Disorders	0.02465675212442875
+trial_2	trifluridine	361	KG00098004	Fibrillation, Atrial	0.0236765556037426
+trial_2	trifluridine	4	KG00098817	epistaxis	0.02359701506793499
+trial_2	trifluridine	33	KG00100094	Pancreatitis NOS	0.023158738389611244
+trial_2	trifluridine	136	KG00101582	Dry;skin	0.02287815511226654
+trial_2	trifluridine	154	KG00099686	Lymphopenias	0.022488432005047798
+trial_2	trifluridine	254	KG00100774	Thrombosis NOS	0.02205933816730976
+trial_2	trifluridine	213	KG00100600	Infectious Skin Diseases	0.0219661183655262
+trial_2	trifluridine	82	KG00097697	abdomen distended	0.021630071103572845
+trial_2	trifluridine	116	KG00098964	Pain in foot	0.021504424512386322
+trial_2	trifluridine	503	KG00102612	low haemoglobin	0.0210147425532341
+trial_2	trifluridine	234	KG00098669	dysgeusias	0.020877709612250328
+trial_2	trifluridine	92	KG00100926	Infections, Upper Respiratory	0.020862873643636703
+trial_2	trifluridine	212	KG00100576	shivers	0.020751047879457474
+trial_2	trifluridine	69	KG00100082	Palpitations NOS	0.020435478538274765
+trial_2	trifluridine	355	KG00110857	lymphocyte count decreased	0.020343264564871788
+trial_2	trifluridine	204	KG00098849	Esophagitis, Peptic	0.020101968199014664
+trial_2	trifluridine	268	KG00099557	Heart Failure, Left-Sided	0.019478915259242058
+trial_2	trifluridine	72	KG00103771	myalgias	0.01947842352092266
+trial_2	trifluridine	211	KG00100341	Pruritus NOS	0.019323188811540604
+trial_2	trifluridine	347	KG00104223	Mucosal ulcers	0.01931537315249443
+trial_2	trifluridine	36	KG00106434	Vision, Blurring Of	0.019294651225209236
+trial_2	trifluridine	102	KG00097916	anxieties	0.019207434728741646
+trial_2	trifluridine	155	KG00099960	Neutrophile	0.01913326419889927
+trial_2	trifluridine	286	KG00101110	Retention, Urinary	0.01901949942111969
+trial_2	trifluridine	133	KG00101370	neuropathies sensory	0.01891712099313736
+trial_2	trifluridine	246	KG00103338	Aspartate Aminotransferase Measurement	0.01881786249577999

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.19049793481826782
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1868675947189331
+trial_1	placebo	87	KG00098599	diarrhoea	0.14297296106815338
+trial_1	placebo	77	KG00098450	Constipation NOS	0.13346810638904572
+trial_1	placebo	68	KG00099901	nauseas	0.1324215680360794
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10988830775022507
+trial_1	placebo	46	KG00099121	Headache NOS	0.10839295387268066
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10349749773740768
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08971462398767471
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07430960983037949
+trial_1	placebo	21	KG00098675	dyspnoea	0.06824000924825668
+trial_1	placebo	66	KG00098642	drowsiness	0.06541915982961655
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06448015570640564
+trial_1	placebo	20	KG00098540	dehydration	0.06059794872999191
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06033801659941673
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0565033033490181
+trial_1	placebo	228	KG00114657	Weight below normal	0.05633953586220741
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05571815371513367
+trial_1	placebo	300	KG00101064	xerostomia	0.055669404566287994
+trial_1	placebo	104	KG00097963	arthralgias	0.05139308422803879
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05115118622779846
+trial_1	placebo	85	KG00098474	coughs	0.05060264840722084
+trial_1	placebo	102	KG00097916	anxieties	0.046031296253204346
+trial_1	placebo	126	KG00100076	Pain NOS	0.04542270302772522
+trial_1	placebo	123	KG00099351	hypokalaemia	0.045020923018455505
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04449057579040527
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.043113671243190765
+trial_1	placebo	114	KG00098933	fevers	0.04228702560067177
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.039156947284936905
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0377628430724144
+trial_1	placebo	239	KG00100128	pareses	0.037613529711961746
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03710862994194031
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03655516356229782
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.036282069981098175
+trial_1	placebo	29	KG00099354	hyponatraemia	0.035280849784612656
+trial_1	placebo	242	KG00100855	tremors	0.03283343464136124
+trial_1	placebo	14	KG00097852	Anemia NOS	0.031992893666028976
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029918065294623375
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029913470149040222
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029105979949235916
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02879142574965954
+trial_1	placebo	262	KG00101199	agitation	0.02857101708650589
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.028398171067237854
+trial_1	placebo	116	KG00098964	Pain in foot	0.028169894590973854
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027675464749336243
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02712506242096424
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026515288278460503
+trial_1	placebo	82	KG00097697	abdomen distended	0.025947146117687225
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02585248276591301
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02563944272696972
+trial_1	placebo	234	KG00098669	dysgeusias	0.024742133915424347
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02462168037891388
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02455444075167179
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02439061924815178
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024386227130889893
+trial_1	placebo	466	KG00101205	fall	0.024254515767097473
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023138541728258133
+trial_1	placebo	72	KG00103771	myalgias	0.023042839020490646
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02303546667098999
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022746969014406204
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0223847609013319
+trial_1	placebo	5	KG00099169	haematuria	0.02208740822970867
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02140103094279766
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.021128805354237556
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021023264154791832
+trial_1	placebo	345	KG00103926	impairments memory	0.020127175375819206
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.019967760890722275
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019881507381796837
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01973264105618
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019442465156316757
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01936975121498108
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018971800804138184
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01880546100437641
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018658660352230072
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01858498901128769
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018255174160003662
+trial_1	placebo	456	KG00099420	Influenzae	0.01822338066995144
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018215807154774666
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01819162257015705
+trial_1	placebo	269	KG00100399	pyaemia	0.01740136928856373
+trial_1	placebo	147	KG00098000	atelectases	0.017261484637856483
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01725195161998272
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017174214124679565
+trial_1	placebo	153	KG00099579	lethargy	0.017099672928452492
+trial_1	placebo	136	KG00101582	Dry;skin	0.017083492130041122
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.016904370859265327
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01684565655887127
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.016700254753232002
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.016425689682364464
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.016384756192564964
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.016372917219996452
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.016326040029525757
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.016170524060726166
+trial_1	placebo	164	KG00108827	ileus colon	0.015955086797475815
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015644537284970284
+trial_1	placebo	382	KG00099200	haemorrhoids	0.015580435283482075
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015572926960885525
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015369446948170662
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.015198367647826672
+trial_1	placebo	121	KG00099190	haemorrhage	0.015186231583356857
+trial_2	trimipramine	9	KG00098432	Confusion NOS	0.19049793481826782
+trial_2	trimipramine	17	KG00097991	Asthenia NOS	0.1868675947189331
+trial_2	trimipramine	87	KG00098599	diarrhoea	0.14297296106815338
+trial_2	trimipramine	77	KG00098450	Constipation NOS	0.13346810638904572
+trial_2	trimipramine	68	KG00099901	nauseas	0.1324215680360794
+trial_2	trimipramine	49	KG00099902	nausea with vomiting	0.10988830775022507
+trial_2	trimipramine	46	KG00099121	Headache NOS	0.10839295387268066
+trial_2	trimipramine	78	KG00099326	Hypertensive diseases	0.10349749773740768
+trial_2	trimipramine	79	KG00100317	Insomnia, Primary	0.08971462398767471
+trial_2	trimipramine	177	KG00099299	hyperglycaemia	0.07430960983037949
+trial_2	trimipramine	21	KG00098675	dyspnoea	0.06824000924825668
+trial_2	trimipramine	66	KG00098642	drowsiness	0.06541915982961655
+trial_2	trimipramine	101	KG00097901	Anorexia NOS	0.06448015570640564
+trial_2	trimipramine	20	KG00098540	dehydration	0.06059794872999191
+trial_2	trimipramine	173	KG00098172	Bronchopneumonia NOS	0.06033801659941673
+trial_2	trimipramine	37	KG00097696	Cramps, Abdominal	0.0565033033490181
+trial_2	trimipramine	228	KG00114657	Weight below normal	0.05633953586220741
+trial_2	trimipramine	67	KG00098673	Dyspepsia, NOS	0.05571815371513367
+trial_2	trimipramine	300	KG00101064	xerostomia	0.055669404566287994
+trial_2	trimipramine	104	KG00097963	arthralgias	0.05139308422803879
+trial_2	trimipramine	86	KG00098565	Depression, Mental	0.05115118622779846
+trial_2	trimipramine	85	KG00098474	coughs	0.05060264840722084
+trial_2	trimipramine	102	KG00097916	anxieties	0.046031296253204346
+trial_2	trimipramine	126	KG00100076	Pain NOS	0.04542270302772522
+trial_2	trimipramine	123	KG00099351	hypokalaemia	0.045020923018455505
+trial_2	trimipramine	64	KG00097734	Acrodermatitis, NOS	0.04449057579040527
+trial_2	trimipramine	151	KG00098274	Infarction, Cerebral	0.043113671243190765
+trial_2	trimipramine	114	KG00098933	fevers	0.04228702560067177
+trial_2	trimipramine	189	KG00101580	Alanine aminotransferase increase	0.039156947284936905
+trial_2	trimipramine	188	KG00101579	Aspartate aminotransferase increase	0.0377628430724144
+trial_2	trimipramine	239	KG00100128	pareses	0.037613529711961746
+trial_2	trimipramine	132	KG00101045	Gain, Weight	0.03710862994194031
+trial_2	trimipramine	200	KG00098539	Disorders, Deglutition	0.03655516356229782
+trial_2	trimipramine	180	KG00099363	Hypotension NOS	0.036282069981098175
+trial_2	trimipramine	29	KG00099354	hyponatraemia	0.035280849784612656
+trial_2	trimipramine	242	KG00100855	tremors	0.03283343464136124
+trial_2	trimipramine	14	KG00097852	Anemia NOS	0.031992893666028976
+trial_2	trimipramine	18	KG00098307	Pain, Chest	0.029918065294623375
+trial_2	trimipramine	243	KG00100947	Micturition frequency increased	0.029913470149040222
+trial_2	trimipramine	139	KG00098855	Sinusitis, Ethmoid	0.029105979949235916
+trial_2	trimipramine	350	KG00106765	decreased platelet count	0.02879142574965954
+trial_2	trimipramine	262	KG00101199	agitation	0.02857101708650589
+trial_2	trimipramine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.028398171067237854
+trial_2	trimipramine	116	KG00098964	Pain in foot	0.028169894590973854
+trial_2	trimipramine	131	KG00100948	Urinary tract infection (& [NOS])	0.027675464749336243
+trial_2	trimipramine	96	KG00101679	Unattended death NOS	0.02712506242096424
+trial_2	trimipramine	36	KG00106434	Vision, Blurring Of	0.026515288278460503
+trial_2	trimipramine	82	KG00097697	abdomen distended	0.025947146117687225
+trial_2	trimipramine	76	KG00100450	Respiratory insufficiency, NOS	0.02585248276591301
+trial_2	trimipramine	211	KG00100341	Pruritus NOS	0.02563944272696972
+trial_2	trimipramine	234	KG00098669	dysgeusias	0.024742133915424347
+trial_2	trimipramine	61	KG00099501	Chronic Kidney Failure	0.02462168037891388
+trial_2	trimipramine	199	KG00098371	Rhinitis (chronic) NOS	0.02455444075167179
+trial_2	trimipramine	28	KG00099347	hypoglycaemia	0.02439061924815178
+trial_2	trimipramine	38	KG00098066	Binocular vision disorders	0.024386227130889893
+trial_2	trimipramine	466	KG00101205	fall	0.024254515767097473
+trial_2	trimipramine	30	KG00099500	Acute Kidney Failure	0.023138541728258133
+trial_2	trimipramine	72	KG00103771	myalgias	0.023042839020490646
+trial_2	trimipramine	122	KG00099321	Hypersensitivity NOS	0.02303546667098999
+trial_2	trimipramine	166	KG00099773	menopausal syndrome	0.022746969014406204
+trial_2	trimipramine	92	KG00100926	Infections, Upper Respiratory	0.0223847609013319
+trial_2	trimipramine	5	KG00099169	haematuria	0.02208740822970867
+trial_2	trimipramine	179	KG00099342	hypocalcaemia	0.02140103094279766
+trial_2	trimipramine	2	KG00100772	thrombocytopaenia	0.021128805354237556
+trial_2	trimipramine	69	KG00100082	Palpitations NOS	0.021023264154791832
+trial_2	trimipramine	345	KG00103926	impairments memory	0.020127175375819206
+trial_2	trimipramine	89	KG00099301	Hyperhidrosis (disorder)	0.019967760890722275
+trial_2	trimipramine	261	KG00101559	raised alkaline phosphatase	0.019881507381796837
+trial_2	trimipramine	396	KG00100373	Embolism, Pulmonary	0.01973264105618
+trial_2	trimipramine	11	KG00097993	Asthma NOS	0.019442465156316757
+trial_2	trimipramine	15	KG00097882	Angina pectoris NOS	0.01936975121498108
+trial_2	trimipramine	286	KG00101110	Retention, Urinary	0.018971800804138184
+trial_2	trimipramine	130	KG00100683	Stomatitis NOS	0.01880546100437641
+trial_2	trimipramine	142	KG00100923	Unspecified infectious and parasitic diseases	0.018658660352230072
+trial_2	trimipramine	27	KG00099303	hyperkalaemia	0.01858498901128769
+trial_2	trimipramine	138	KG00098796	epidemic vomiting syndrome	0.018255174160003662
+trial_2	trimipramine	456	KG00099420	Influenzae	0.01822338066995144
+trial_2	trimipramine	204	KG00098849	Esophagitis, Peptic	0.018215807154774666
+trial_2	trimipramine	221	KG00101207	peripheral oedema	0.01819162257015705
+trial_2	trimipramine	269	KG00100399	pyaemia	0.01740136928856373
+trial_2	trimipramine	147	KG00098000	atelectases	0.017261484637856483
+trial_2	trimipramine	22	KG00098705	Edema (NOS)	0.01725195161998272
+trial_2	trimipramine	194	KG00110727	Neutrophil Count Decreased	0.017174214124679565
+trial_2	trimipramine	153	KG00099579	lethargy	0.017099672928452492
+trial_2	trimipramine	136	KG00101582	Dry;skin	0.017083492130041122
+trial_2	trimipramine	371	KG00098517	Cystitis (NOS)	0.016904370859265327
+trial_2	trimipramine	154	KG00099686	Lymphopenias	0.01684565655887127
+trial_2	trimipramine	118	KG00099011	Gastritis NOS	0.016700254753232002
+trial_2	trimipramine	232	KG00097997	Ataxia NOS	0.016425689682364464
+trial_2	trimipramine	218	KG00100801	Tinnitus NOS	0.016384756192564964
+trial_2	trimipramine	191	KG00104055	Biliverdin increased	0.016372917219996452
+trial_2	trimipramine	75	KG00100195	Dolens, Phlegmasia Alba	0.016326040029525757
+trial_2	trimipramine	355	KG00110857	lymphocyte count decreased	0.016170524060726166
+trial_2	trimipramine	164	KG00108827	ileus colon	0.015955086797475815
+trial_2	trimipramine	144	KG00099610	Leukopenia NOS	0.015644537284970284
+trial_2	trimipramine	382	KG00099200	haemorrhoids	0.015580435283482075
+trial_2	trimipramine	361	KG00098004	Fibrillation, Atrial	0.015572926960885525
+trial_2	trimipramine	441	KG00098262	cellulitis nos	0.015369446948170662
+trial_2	trimipramine	256	KG00100738	Tachycardia, Sinus	0.015198367647826672
+trial_2	trimipramine	121	KG00099190	haemorrhage	0.015186231583356857

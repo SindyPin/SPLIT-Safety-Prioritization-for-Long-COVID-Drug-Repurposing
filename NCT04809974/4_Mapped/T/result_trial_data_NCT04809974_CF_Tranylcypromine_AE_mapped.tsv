@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1619844138622284
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11516287922859192
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11120976507663727
+trial_1	placebo	68	KG00099901	nauseas	0.1026209220290184
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09152011573314667
+trial_1	placebo	46	KG00099121	Headache NOS	0.08477466553449631
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08224183320999146
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07883521169424057
+trial_1	placebo	21	KG00098675	dyspnoea	0.07454343885183334
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07042388617992401
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06969982385635376
+trial_1	placebo	228	KG00114657	Weight below normal	0.06909985840320587
+trial_1	placebo	20	KG00098540	dehydration	0.06785772740840912
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06783518940210342
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06768734753131866
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06512676179409027
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05321867763996124
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.050928737968206406
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.046154722571372986
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04163452982902527
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03984229639172554
+trial_1	placebo	114	KG00098933	fevers	0.03953121230006218
+trial_1	placebo	85	KG00098474	coughs	0.038873206824064255
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03881409391760826
+trial_1	placebo	126	KG00100076	Pain NOS	0.03798225522041321
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03723942115902901
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03599578142166138
+trial_1	placebo	14	KG00097852	Anemia NOS	0.035825807601213455
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.035603053867816925
+trial_1	placebo	300	KG00101064	xerostomia	0.03557577729225159
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03528938814997673
+trial_1	placebo	102	KG00097916	anxieties	0.03475794196128845
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03166726976633072
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03061559423804283
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029713261872529984
+trial_1	placebo	104	KG00097963	arthralgias	0.029464446008205414
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028616104274988174
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02806139551103115
+trial_1	placebo	262	KG00101199	agitation	0.027256840839982033
+trial_1	placebo	239	KG00100128	pareses	0.026920484378933907
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0266143586486578
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026219751685857773
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02492399513721466
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02464606799185276
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02437855862081051
+trial_1	placebo	66	KG00098642	drowsiness	0.024096909910440445
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02336551435291767
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023315967991948128
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.022401677444577217
+trial_1	placebo	121	KG00099190	haemorrhage	0.02171502821147442
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02160528115928173
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02144455537199974
+trial_1	placebo	234	KG00098669	dysgeusias	0.020963506773114204
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02091144770383835
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020695213228464127
+trial_1	placebo	5	KG00099169	haematuria	0.020658964291214943
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02058499865233898
+trial_1	placebo	82	KG00097697	abdomen distended	0.02040051855146885
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.020300744101405144
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02008615806698799
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019939342513680458
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019709493964910507
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01970200426876545
+trial_1	placebo	466	KG00101205	fall	0.019553614780306816
+trial_1	placebo	147	KG00098000	atelectases	0.019512930884957314
+trial_1	placebo	269	KG00100399	pyaemia	0.01944688893854618
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019389351829886436
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018909193575382233
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01851579360663891
+trial_1	placebo	242	KG00100855	tremors	0.018490567803382874
+trial_1	placebo	72	KG00103771	myalgias	0.018072009086608887
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017289170995354652
+trial_1	placebo	116	KG00098964	Pain in foot	0.017238382250070572
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.017220765352249146
+trial_1	placebo	186	KG00101431	creatinine increased	0.016538340598344803
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016502216458320618
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01636887900531292
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.016353491693735123
+trial_1	placebo	221	KG00101207	peripheral oedema	0.016332518309354782
+trial_1	placebo	136	KG00101582	Dry;skin	0.016250811517238617
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016209812834858894
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015954868867993355
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015627451241016388
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015552626922726631
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015531336888670921
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.015318196266889572
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015150779858231544
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.014725008979439735
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.014679936692118645
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.014606298878788948
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.014555552043020725
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01449953205883503
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014056838117539883
+trial_1	placebo	164	KG00108827	ileus colon	0.014037455432116985
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01401691883802414
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.013987846672534943
+trial_1	placebo	282	KG00099309	hypernatraemia	0.013820408843457699
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.013792737387120724
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.013314982876181602
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.013122555799782276
+trial_2	tranylcypromine	87	KG00098599	diarrhoea	0.1619844138622284
+trial_2	tranylcypromine	9	KG00098432	Confusion NOS	0.11516287922859192
+trial_2	tranylcypromine	17	KG00097991	Asthenia NOS	0.11120976507663727
+trial_2	tranylcypromine	68	KG00099901	nauseas	0.1026209220290184
+trial_2	tranylcypromine	49	KG00099902	nausea with vomiting	0.09152011573314667
+trial_2	tranylcypromine	46	KG00099121	Headache NOS	0.08477466553449631
+trial_2	tranylcypromine	78	KG00099326	Hypertensive diseases	0.08224183320999146
+trial_2	tranylcypromine	101	KG00097901	Anorexia NOS	0.07883521169424057
+trial_2	tranylcypromine	21	KG00098675	dyspnoea	0.07454343885183334
+trial_2	tranylcypromine	79	KG00100317	Insomnia, Primary	0.07042388617992401
+trial_2	tranylcypromine	173	KG00098172	Bronchopneumonia NOS	0.06969982385635376
+trial_2	tranylcypromine	228	KG00114657	Weight below normal	0.06909985840320587
+trial_2	tranylcypromine	20	KG00098540	dehydration	0.06785772740840912
+trial_2	tranylcypromine	177	KG00099299	hyperglycaemia	0.06783518940210342
+trial_2	tranylcypromine	123	KG00099351	hypokalaemia	0.06768734753131866
+trial_2	tranylcypromine	77	KG00098450	Constipation NOS	0.06512676179409027
+trial_2	tranylcypromine	37	KG00097696	Cramps, Abdominal	0.05321867763996124
+trial_2	tranylcypromine	64	KG00097734	Acrodermatitis, NOS	0.050928737968206406
+trial_2	tranylcypromine	67	KG00098673	Dyspepsia, NOS	0.046154722571372986
+trial_2	tranylcypromine	189	KG00101580	Alanine aminotransferase increase	0.04163452982902527
+trial_2	tranylcypromine	29	KG00099354	hyponatraemia	0.03984229639172554
+trial_2	tranylcypromine	114	KG00098933	fevers	0.03953121230006218
+trial_2	tranylcypromine	85	KG00098474	coughs	0.038873206824064255
+trial_2	tranylcypromine	86	KG00098565	Depression, Mental	0.03881409391760826
+trial_2	tranylcypromine	126	KG00100076	Pain NOS	0.03798225522041321
+trial_2	tranylcypromine	96	KG00101679	Unattended death NOS	0.03723942115902901
+trial_2	tranylcypromine	200	KG00098539	Disorders, Deglutition	0.03599578142166138
+trial_2	tranylcypromine	14	KG00097852	Anemia NOS	0.035825807601213455
+trial_2	tranylcypromine	151	KG00098274	Infarction, Cerebral	0.035603053867816925
+trial_2	tranylcypromine	300	KG00101064	xerostomia	0.03557577729225159
+trial_2	tranylcypromine	180	KG00099363	Hypotension NOS	0.03528938814997673
+trial_2	tranylcypromine	102	KG00097916	anxieties	0.03475794196128845
+trial_2	tranylcypromine	188	KG00101579	Aspartate aminotransferase increase	0.03166726976633072
+trial_2	tranylcypromine	76	KG00100450	Respiratory insufficiency, NOS	0.03061559423804283
+trial_2	tranylcypromine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029713261872529984
+trial_2	tranylcypromine	104	KG00097963	arthralgias	0.029464446008205414
+trial_2	tranylcypromine	350	KG00106765	decreased platelet count	0.028616104274988174
+trial_2	tranylcypromine	61	KG00099501	Chronic Kidney Failure	0.02806139551103115
+trial_2	tranylcypromine	262	KG00101199	agitation	0.027256840839982033
+trial_2	tranylcypromine	239	KG00100128	pareses	0.026920484378933907
+trial_2	tranylcypromine	2	KG00100772	thrombocytopaenia	0.0266143586486578
+trial_2	tranylcypromine	132	KG00101045	Gain, Weight	0.026219751685857773
+trial_2	tranylcypromine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02492399513721466
+trial_2	tranylcypromine	18	KG00098307	Pain, Chest	0.02464606799185276
+trial_2	tranylcypromine	243	KG00100947	Micturition frequency increased	0.02437855862081051
+trial_2	tranylcypromine	66	KG00098642	drowsiness	0.024096909910440445
+trial_2	tranylcypromine	69	KG00100082	Palpitations NOS	0.02336551435291767
+trial_2	tranylcypromine	261	KG00101559	raised alkaline phosphatase	0.023315967991948128
+trial_2	tranylcypromine	131	KG00100948	Urinary tract infection (& [NOS])	0.022401677444577217
+trial_2	tranylcypromine	121	KG00099190	haemorrhage	0.02171502821147442
+trial_2	tranylcypromine	191	KG00104055	Biliverdin increased	0.02160528115928173
+trial_2	tranylcypromine	28	KG00099347	hypoglycaemia	0.02144455537199974
+trial_2	tranylcypromine	234	KG00098669	dysgeusias	0.020963506773114204
+trial_2	tranylcypromine	179	KG00099342	hypocalcaemia	0.02091144770383835
+trial_2	tranylcypromine	122	KG00099321	Hypersensitivity NOS	0.020695213228464127
+trial_2	tranylcypromine	5	KG00099169	haematuria	0.020658964291214943
+trial_2	tranylcypromine	30	KG00099500	Acute Kidney Failure	0.02058499865233898
+trial_2	tranylcypromine	82	KG00097697	abdomen distended	0.02040051855146885
+trial_2	tranylcypromine	36	KG00106434	Vision, Blurring Of	0.020300744101405144
+trial_2	tranylcypromine	211	KG00100341	Pruritus NOS	0.02008615806698799
+trial_2	tranylcypromine	361	KG00098004	Fibrillation, Atrial	0.019939342513680458
+trial_2	tranylcypromine	38	KG00098066	Binocular vision disorders	0.019709493964910507
+trial_2	tranylcypromine	194	KG00110727	Neutrophil Count Decreased	0.01970200426876545
+trial_2	tranylcypromine	466	KG00101205	fall	0.019553614780306816
+trial_2	tranylcypromine	147	KG00098000	atelectases	0.019512930884957314
+trial_2	tranylcypromine	269	KG00100399	pyaemia	0.01944688893854618
+trial_2	tranylcypromine	396	KG00100373	Embolism, Pulmonary	0.019389351829886436
+trial_2	tranylcypromine	249	KG00104430	hypoalbuminaemia	0.018909193575382233
+trial_2	tranylcypromine	27	KG00099303	hyperkalaemia	0.01851579360663891
+trial_2	tranylcypromine	242	KG00100855	tremors	0.018490567803382874
+trial_2	tranylcypromine	72	KG00103771	myalgias	0.018072009086608887
+trial_2	tranylcypromine	75	KG00100195	Dolens, Phlegmasia Alba	0.017289170995354652
+trial_2	tranylcypromine	116	KG00098964	Pain in foot	0.017238382250070572
+trial_2	tranylcypromine	89	KG00099301	Hyperhidrosis (disorder)	0.017220765352249146
+trial_2	tranylcypromine	186	KG00101431	creatinine increased	0.016538340598344803
+trial_2	tranylcypromine	22	KG00098705	Edema (NOS)	0.016502216458320618
+trial_2	tranylcypromine	139	KG00098855	Sinusitis, Ethmoid	0.01636887900531292
+trial_2	tranylcypromine	130	KG00100683	Stomatitis NOS	0.016353491693735123
+trial_2	tranylcypromine	221	KG00101207	peripheral oedema	0.016332518309354782
+trial_2	tranylcypromine	136	KG00101582	Dry;skin	0.016250811517238617
+trial_2	tranylcypromine	286	KG00101110	Retention, Urinary	0.016209812834858894
+trial_2	tranylcypromine	441	KG00098262	cellulitis nos	0.015954868867993355
+trial_2	tranylcypromine	154	KG00099686	Lymphopenias	0.015627451241016388
+trial_2	tranylcypromine	31	KG00099872	Infarction, Myocardial	0.015552626922726631
+trial_2	tranylcypromine	144	KG00099610	Leukopenia NOS	0.015531336888670921
+trial_2	tranylcypromine	253	KG00100232	Pleural effusion NOS (disorder)	0.015318196266889572
+trial_2	tranylcypromine	199	KG00098371	Rhinitis (chronic) NOS	0.015150779858231544
+trial_2	tranylcypromine	133	KG00101370	neuropathies sensory	0.014725008979439735
+trial_2	tranylcypromine	276	KG00099127	Arrest, Cardiac	0.014679936692118645
+trial_2	tranylcypromine	355	KG00110857	lymphocyte count decreased	0.014606298878788948
+trial_2	tranylcypromine	1	KG00099959	Neutropenia NOS	0.014555552043020725
+trial_2	tranylcypromine	35	KG00101507	hypomagnesaemia	0.01449953205883503
+trial_2	tranylcypromine	92	KG00100926	Infections, Upper Respiratory	0.014056838117539883
+trial_2	tranylcypromine	164	KG00108827	ileus colon	0.014037455432116985
+trial_2	tranylcypromine	11	KG00097993	Asthma NOS	0.01401691883802414
+trial_2	tranylcypromine	288	KG00101223	hypophosphataemia	0.013987846672534943
+trial_2	tranylcypromine	282	KG00099309	hypernatraemia	0.013820408843457699
+trial_2	tranylcypromine	356	KG00112623	Infectious Lung Disorders	0.013792737387120724
+trial_2	tranylcypromine	218	KG00100801	Tinnitus NOS	0.013314982876181602
+trial_2	tranylcypromine	118	KG00099011	Gastritis NOS	0.013122555799782276

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18609561026096344
+trial_1	placebo	87	KG00098599	diarrhoea	0.15858757495880127
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1412855088710785
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13545802235603333
+trial_1	placebo	20	KG00098540	dehydration	0.1229618638753891
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11631260067224503
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11618843674659729
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1079457476735115
+trial_1	placebo	21	KG00098675	dyspnoea	0.10399507731199265
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10360195487737656
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09008599817752838
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08108443766832352
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07745730876922607
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07714376598596573
+trial_1	placebo	46	KG00099121	Headache NOS	0.07692768424749374
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07301978021860123
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07252079248428345
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07094383239746094
+trial_1	placebo	228	KG00114657	Weight below normal	0.07025761157274246
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0701950266957283
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06984329968690872
+trial_1	placebo	68	KG00099901	nauseas	0.06869988143444061
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06838217377662659
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06777135282754898
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06459047645330429
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0643099918961525
+trial_1	placebo	239	KG00100128	pareses	0.060598623007535934
+trial_1	placebo	85	KG00098474	coughs	0.059953175485134125
+trial_1	placebo	114	KG00098933	fevers	0.059360746294260025
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05924178287386894
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05799698457121849
+trial_1	placebo	126	KG00100076	Pain NOS	0.05729706212878227
+trial_1	placebo	104	KG00097963	arthralgias	0.05629619210958481
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05621635541319847
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05340464040637016
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.052763331681489944
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.050469715148210526
+trial_1	placebo	5	KG00099169	haematuria	0.050300441682338715
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05018211156129837
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.049846820533275604
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04947502538561821
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04945605993270874
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04913664981722832
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04829997941851616
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04786033555865288
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04682200774550438
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04672442749142647
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04667011648416519
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04393690451979637
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04099525883793831
+trial_1	placebo	102	KG00097916	anxieties	0.04037937521934509
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.039855267852544785
+trial_1	placebo	262	KG00101199	agitation	0.039555441588163376
+trial_1	placebo	466	KG00101205	fall	0.03926811367273331
+trial_1	placebo	147	KG00098000	atelectases	0.03905630111694336
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03880772367119789
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.038778066635131836
+trial_1	placebo	72	KG00103771	myalgias	0.03830135613679886
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.037741102278232574
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03762974962592125
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.037140246480703354
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03651851415634155
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03638432174921036
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03637281432747841
+trial_1	placebo	164	KG00108827	ileus colon	0.03567683324217796
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03459490090608597
+trial_1	placebo	269	KG00100399	pyaemia	0.03450770676136017
+trial_1	placebo	116	KG00098964	Pain in foot	0.034458670765161514
+trial_1	placebo	186	KG00101431	creatinine increased	0.03427307680249214
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.03396390751004219
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0339088961482048
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.033497437834739685
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03266159072518349
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.032364554703235626
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03089643269777298
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.030740145593881607
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03042607195675373
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03041205368936062
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.030160902068018913
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03015054017305374
+trial_1	placebo	82	KG00097697	abdomen distended	0.03009062260389328
+trial_1	placebo	300	KG00101064	xerostomia	0.029788199812173843
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02977639250457287
+trial_1	placebo	66	KG00098642	drowsiness	0.029328161850571632
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02916068397462368
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.029123982414603233
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029070211574435234
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02898644655942917
+trial_1	placebo	242	KG00100855	tremors	0.028884921222925186
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02882917784154415
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.028102699667215347
+trial_1	placebo	456	KG00099420	Influenzae	0.02795231342315674
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02791006863117218
+trial_1	placebo	234	KG00098669	dysgeusias	0.027727166190743446
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027372216805815697
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02729094959795475
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02724277973175049
+trial_1	placebo	221	KG00101207	peripheral oedema	0.027159150689840317
+trial_1	placebo	121	KG00099190	haemorrhage	0.02697519212961197
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.026955924928188324
+trial_2	tripelennamine	78	KG00099326	Hypertensive diseases	0.18609561026096344
+trial_2	tripelennamine	87	KG00098599	diarrhoea	0.15858757495880127
+trial_2	tripelennamine	17	KG00097991	Asthenia NOS	0.1412855088710785
+trial_2	tripelennamine	177	KG00099299	hyperglycaemia	0.13545802235603333
+trial_2	tripelennamine	20	KG00098540	dehydration	0.1229618638753891
+trial_2	tripelennamine	123	KG00099351	hypokalaemia	0.11631260067224503
+trial_2	tripelennamine	173	KG00098172	Bronchopneumonia NOS	0.11618843674659729
+trial_2	tripelennamine	9	KG00098432	Confusion NOS	0.1079457476735115
+trial_2	tripelennamine	21	KG00098675	dyspnoea	0.10399507731199265
+trial_2	tripelennamine	189	KG00101580	Alanine aminotransferase increase	0.10360195487737656
+trial_2	tripelennamine	188	KG00101579	Aspartate aminotransferase increase	0.09008599817752838
+trial_2	tripelennamine	77	KG00098450	Constipation NOS	0.08108443766832352
+trial_2	tripelennamine	37	KG00097696	Cramps, Abdominal	0.07745730876922607
+trial_2	tripelennamine	200	KG00098539	Disorders, Deglutition	0.07714376598596573
+trial_2	tripelennamine	46	KG00099121	Headache NOS	0.07692768424749374
+trial_2	tripelennamine	29	KG00099354	hyponatraemia	0.07301978021860123
+trial_2	tripelennamine	67	KG00098673	Dyspepsia, NOS	0.07252079248428345
+trial_2	tripelennamine	79	KG00100317	Insomnia, Primary	0.07094383239746094
+trial_2	tripelennamine	228	KG00114657	Weight below normal	0.07025761157274246
+trial_2	tripelennamine	64	KG00097734	Acrodermatitis, NOS	0.0701950266957283
+trial_2	tripelennamine	49	KG00099902	nausea with vomiting	0.06984329968690872
+trial_2	tripelennamine	68	KG00099901	nauseas	0.06869988143444061
+trial_2	tripelennamine	86	KG00098565	Depression, Mental	0.06838217377662659
+trial_2	tripelennamine	14	KG00097852	Anemia NOS	0.06777135282754898
+trial_2	tripelennamine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06459047645330429
+trial_2	tripelennamine	350	KG00106765	decreased platelet count	0.0643099918961525
+trial_2	tripelennamine	239	KG00100128	pareses	0.060598623007535934
+trial_2	tripelennamine	85	KG00098474	coughs	0.059953175485134125
+trial_2	tripelennamine	114	KG00098933	fevers	0.059360746294260025
+trial_2	tripelennamine	151	KG00098274	Infarction, Cerebral	0.05924178287386894
+trial_2	tripelennamine	2	KG00100772	thrombocytopaenia	0.05799698457121849
+trial_2	tripelennamine	126	KG00100076	Pain NOS	0.05729706212878227
+trial_2	tripelennamine	104	KG00097963	arthralgias	0.05629619210958481
+trial_2	tripelennamine	132	KG00101045	Gain, Weight	0.05621635541319847
+trial_2	tripelennamine	96	KG00101679	Unattended death NOS	0.05340464040637016
+trial_2	tripelennamine	76	KG00100450	Respiratory insufficiency, NOS	0.052763331681489944
+trial_2	tripelennamine	61	KG00099501	Chronic Kidney Failure	0.050469715148210526
+trial_2	tripelennamine	5	KG00099169	haematuria	0.050300441682338715
+trial_2	tripelennamine	30	KG00099500	Acute Kidney Failure	0.05018211156129837
+trial_2	tripelennamine	27	KG00099303	hyperkalaemia	0.049846820533275604
+trial_2	tripelennamine	243	KG00100947	Micturition frequency increased	0.04947502538561821
+trial_2	tripelennamine	180	KG00099363	Hypotension NOS	0.04945605993270874
+trial_2	tripelennamine	179	KG00099342	hypocalcaemia	0.04913664981722832
+trial_2	tripelennamine	28	KG00099347	hypoglycaemia	0.04829997941851616
+trial_2	tripelennamine	194	KG00110727	Neutrophil Count Decreased	0.04786033555865288
+trial_2	tripelennamine	261	KG00101559	raised alkaline phosphatase	0.04682200774550438
+trial_2	tripelennamine	122	KG00099321	Hypersensitivity NOS	0.04672442749142647
+trial_2	tripelennamine	131	KG00100948	Urinary tract infection (& [NOS])	0.04667011648416519
+trial_2	tripelennamine	38	KG00098066	Binocular vision disorders	0.04393690451979637
+trial_2	tripelennamine	396	KG00100373	Embolism, Pulmonary	0.04099525883793831
+trial_2	tripelennamine	102	KG00097916	anxieties	0.04037937521934509
+trial_2	tripelennamine	139	KG00098855	Sinusitis, Ethmoid	0.039855267852544785
+trial_2	tripelennamine	262	KG00101199	agitation	0.039555441588163376
+trial_2	tripelennamine	466	KG00101205	fall	0.03926811367273331
+trial_2	tripelennamine	147	KG00098000	atelectases	0.03905630111694336
+trial_2	tripelennamine	18	KG00098307	Pain, Chest	0.03880772367119789
+trial_2	tripelennamine	101	KG00097901	Anorexia NOS	0.038778066635131836
+trial_2	tripelennamine	72	KG00103771	myalgias	0.03830135613679886
+trial_2	tripelennamine	276	KG00099127	Arrest, Cardiac	0.037741102278232574
+trial_2	tripelennamine	144	KG00099610	Leukopenia NOS	0.03762974962592125
+trial_2	tripelennamine	355	KG00110857	lymphocyte count decreased	0.037140246480703354
+trial_2	tripelennamine	36	KG00106434	Vision, Blurring Of	0.03651851415634155
+trial_2	tripelennamine	191	KG00104055	Biliverdin increased	0.03638432174921036
+trial_2	tripelennamine	341	KG00101472	Gamma-glutamyltransferase increased	0.03637281432747841
+trial_2	tripelennamine	164	KG00108827	ileus colon	0.03567683324217796
+trial_2	tripelennamine	142	KG00100923	Unspecified infectious and parasitic diseases	0.03459490090608597
+trial_2	tripelennamine	269	KG00100399	pyaemia	0.03450770676136017
+trial_2	tripelennamine	116	KG00098964	Pain in foot	0.034458670765161514
+trial_2	tripelennamine	186	KG00101431	creatinine increased	0.03427307680249214
+trial_2	tripelennamine	297	KG00099294	hypercholesterolaemia	0.03396390751004219
+trial_2	tripelennamine	92	KG00100926	Infections, Upper Respiratory	0.0339088961482048
+trial_2	tripelennamine	97	KG00104198	LIVER ENZYME ELEVATED	0.033497437834739685
+trial_2	tripelennamine	508	KG00108565	blood glucose increased	0.03266159072518349
+trial_2	tripelennamine	35	KG00101507	hypomagnesaemia	0.032364554703235626
+trial_2	tripelennamine	282	KG00099309	hypernatraemia	0.03089643269777298
+trial_2	tripelennamine	422	KG00101429	Creatine phosphokinase increased	0.030740145593881607
+trial_2	tripelennamine	154	KG00099686	Lymphopenias	0.03042607195675373
+trial_2	tripelennamine	1	KG00099959	Neutropenia NOS	0.03041205368936062
+trial_2	tripelennamine	249	KG00104430	hypoalbuminaemia	0.030160902068018913
+trial_2	tripelennamine	253	KG00100232	Pleural effusion NOS (disorder)	0.03015054017305374
+trial_2	tripelennamine	82	KG00097697	abdomen distended	0.03009062260389328
+trial_2	tripelennamine	300	KG00101064	xerostomia	0.029788199812173843
+trial_2	tripelennamine	204	KG00098849	Esophagitis, Peptic	0.02977639250457287
+trial_2	tripelennamine	66	KG00098642	drowsiness	0.029328161850571632
+trial_2	tripelennamine	33	KG00100094	Pancreatitis NOS	0.02916068397462368
+trial_2	tripelennamine	286	KG00101110	Retention, Urinary	0.029123982414603233
+trial_2	tripelennamine	441	KG00098262	cellulitis nos	0.029070211574435234
+trial_2	tripelennamine	256	KG00100738	Tachycardia, Sinus	0.02898644655942917
+trial_2	tripelennamine	242	KG00100855	tremors	0.028884921222925186
+trial_2	tripelennamine	75	KG00100195	Dolens, Phlegmasia Alba	0.02882917784154415
+trial_2	tripelennamine	130	KG00100683	Stomatitis NOS	0.028102699667215347
+trial_2	tripelennamine	456	KG00099420	Influenzae	0.02795231342315674
+trial_2	tripelennamine	69	KG00100082	Palpitations NOS	0.02791006863117218
+trial_2	tripelennamine	234	KG00098669	dysgeusias	0.027727166190743446
+trial_2	tripelennamine	361	KG00098004	Fibrillation, Atrial	0.027372216805815697
+trial_2	tripelennamine	371	KG00098517	Cystitis (NOS)	0.02729094959795475
+trial_2	tripelennamine	118	KG00099011	Gastritis NOS	0.02724277973175049
+trial_2	tripelennamine	221	KG00101207	peripheral oedema	0.027159150689840317
+trial_2	tripelennamine	121	KG00099190	haemorrhage	0.02697519212961197
+trial_2	tripelennamine	288	KG00101223	hypophosphataemia	0.026955924928188324

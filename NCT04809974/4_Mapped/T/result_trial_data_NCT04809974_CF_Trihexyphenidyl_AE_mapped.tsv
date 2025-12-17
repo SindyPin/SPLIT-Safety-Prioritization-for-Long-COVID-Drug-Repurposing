@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11887867748737335
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10411367565393448
+trial_1	placebo	87	KG00098599	diarrhoea	0.09852788597345352
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08803244680166245
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07304349541664124
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07298529893159866
+trial_1	placebo	46	KG00099121	Headache NOS	0.06582638621330261
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06399930268526077
+trial_1	placebo	21	KG00098675	dyspnoea	0.06387673318386078
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06342628598213196
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.062203582376241684
+trial_1	placebo	20	KG00098540	dehydration	0.060760948807001114
+trial_1	placebo	68	KG00099901	nauseas	0.0517016276717186
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05100756511092186
+trial_1	placebo	66	KG00098642	drowsiness	0.04736848548054695
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04655973240733147
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04510385915637016
+trial_1	placebo	300	KG00101064	xerostomia	0.045067667961120605
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04187769815325737
+trial_1	placebo	85	KG00098474	coughs	0.041233129799366
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0401846207678318
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.039393097162246704
+trial_1	placebo	228	KG00114657	Weight below normal	0.03881372883915901
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03805225342512131
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03793181851506233
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037077706307172775
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03612292930483818
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03551343083381653
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0354970246553421
+trial_1	placebo	102	KG00097916	anxieties	0.03338024765253067
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03281654790043831
+trial_1	placebo	466	KG00101205	fall	0.032716549932956696
+trial_1	placebo	126	KG00100076	Pain NOS	0.032707203179597855
+trial_1	placebo	104	KG00097963	arthralgias	0.03234991431236267
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03193226084113121
+trial_1	placebo	114	KG00098933	fevers	0.031760361045598984
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030810624361038208
+trial_1	placebo	262	KG00101199	agitation	0.030518632382154465
+trial_1	placebo	242	KG00100855	tremors	0.029474232345819473
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02887125313282013
+trial_1	placebo	239	KG00100128	pareses	0.02877235785126686
+trial_1	placebo	14	KG00097852	Anemia NOS	0.027674036100506783
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027168551459908485
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02633972465991974
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02620522491633892
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.025587251409888268
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024791430681943893
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.024727916345000267
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02403789758682251
+trial_1	placebo	5	KG00099169	haematuria	0.023399172350764275
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02250451035797596
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.022239364683628082
+trial_1	placebo	116	KG00098964	Pain in foot	0.02219235897064209
+trial_1	placebo	269	KG00100399	pyaemia	0.021683886647224426
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021530797705054283
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021460145711898804
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02089090645313263
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02080972120165825
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020729804411530495
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02040915936231613
+trial_1	placebo	147	KG00098000	atelectases	0.020313171669840813
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.019827190786600113
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01948564313352108
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019378453493118286
+trial_1	placebo	164	KG00108827	ileus colon	0.01927325129508972
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01917262189090252
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.018909918144345284
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018856776878237724
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.018672721460461617
+trial_1	placebo	456	KG00099420	Influenzae	0.018232325091958046
+trial_1	placebo	350	KG00106765	decreased platelet count	0.018069161102175713
+trial_1	placebo	441	KG00098262	cellulitis nos	0.018027571961283684
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017681719735264778
+trial_1	placebo	221	KG00101207	peripheral oedema	0.017304513603448868
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.017068006098270416
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016961799934506416
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.016754260286688805
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016513440757989883
+trial_1	placebo	153	KG00099579	lethargy	0.016262365505099297
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.016162272542715073
+trial_1	placebo	203	KG00098661	dysarthrias	0.016137201339006424
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.016005992889404297
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.015915462747216225
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01581059955060482
+trial_1	placebo	121	KG00099190	haemorrhage	0.015732871368527412
+trial_1	placebo	25	KG00099134	congestive failures heart	0.015727702528238297
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01560507994145155
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.015585937537252903
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.015341026708483696
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014853758737444878
+trial_1	placebo	333	KG00104019	DOPINESS	0.014831481501460075
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.014697086997330189
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01460437010973692
+trial_1	placebo	82	KG00097697	abdomen distended	0.014370092190802097
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.014218728989362717
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014094755984842777
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.013993325643241405
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.013909976929426193
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01381599623709917
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013701948337256908
+trial_2	trihexyphenidyl	78	KG00099326	Hypertensive diseases	0.11887867748737335
+trial_2	trihexyphenidyl	9	KG00098432	Confusion NOS	0.10411367565393448
+trial_2	trihexyphenidyl	87	KG00098599	diarrhoea	0.09852788597345352
+trial_2	trihexyphenidyl	17	KG00097991	Asthenia NOS	0.08803244680166245
+trial_2	trihexyphenidyl	77	KG00098450	Constipation NOS	0.07304349541664124
+trial_2	trihexyphenidyl	173	KG00098172	Bronchopneumonia NOS	0.07298529893159866
+trial_2	trihexyphenidyl	46	KG00099121	Headache NOS	0.06582638621330261
+trial_2	trihexyphenidyl	49	KG00099902	nausea with vomiting	0.06399930268526077
+trial_2	trihexyphenidyl	21	KG00098675	dyspnoea	0.06387673318386078
+trial_2	trihexyphenidyl	79	KG00100317	Insomnia, Primary	0.06342628598213196
+trial_2	trihexyphenidyl	177	KG00099299	hyperglycaemia	0.062203582376241684
+trial_2	trihexyphenidyl	20	KG00098540	dehydration	0.060760948807001114
+trial_2	trihexyphenidyl	68	KG00099901	nauseas	0.0517016276717186
+trial_2	trihexyphenidyl	86	KG00098565	Depression, Mental	0.05100756511092186
+trial_2	trihexyphenidyl	66	KG00098642	drowsiness	0.04736848548054695
+trial_2	trihexyphenidyl	151	KG00098274	Infarction, Cerebral	0.04655973240733147
+trial_2	trihexyphenidyl	123	KG00099351	hypokalaemia	0.04510385915637016
+trial_2	trihexyphenidyl	300	KG00101064	xerostomia	0.045067667961120605
+trial_2	trihexyphenidyl	180	KG00099363	Hypotension NOS	0.04187769815325737
+trial_2	trihexyphenidyl	85	KG00098474	coughs	0.041233129799366
+trial_2	trihexyphenidyl	200	KG00098539	Disorders, Deglutition	0.0401846207678318
+trial_2	trihexyphenidyl	30	KG00099500	Acute Kidney Failure	0.039393097162246704
+trial_2	trihexyphenidyl	228	KG00114657	Weight below normal	0.03881372883915901
+trial_2	trihexyphenidyl	132	KG00101045	Gain, Weight	0.03805225342512131
+trial_2	trihexyphenidyl	64	KG00097734	Acrodermatitis, NOS	0.03793181851506233
+trial_2	trihexyphenidyl	61	KG00099501	Chronic Kidney Failure	0.037077706307172775
+trial_2	trihexyphenidyl	96	KG00101679	Unattended death NOS	0.03612292930483818
+trial_2	trihexyphenidyl	37	KG00097696	Cramps, Abdominal	0.03551343083381653
+trial_2	trihexyphenidyl	67	KG00098673	Dyspepsia, NOS	0.0354970246553421
+trial_2	trihexyphenidyl	102	KG00097916	anxieties	0.03338024765253067
+trial_2	trihexyphenidyl	29	KG00099354	hyponatraemia	0.03281654790043831
+trial_2	trihexyphenidyl	466	KG00101205	fall	0.032716549932956696
+trial_2	trihexyphenidyl	126	KG00100076	Pain NOS	0.032707203179597855
+trial_2	trihexyphenidyl	104	KG00097963	arthralgias	0.03234991431236267
+trial_2	trihexyphenidyl	76	KG00100450	Respiratory insufficiency, NOS	0.03193226084113121
+trial_2	trihexyphenidyl	114	KG00098933	fevers	0.031760361045598984
+trial_2	trihexyphenidyl	131	KG00100948	Urinary tract infection (& [NOS])	0.030810624361038208
+trial_2	trihexyphenidyl	262	KG00101199	agitation	0.030518632382154465
+trial_2	trihexyphenidyl	242	KG00100855	tremors	0.029474232345819473
+trial_2	trihexyphenidyl	28	KG00099347	hypoglycaemia	0.02887125313282013
+trial_2	trihexyphenidyl	239	KG00100128	pareses	0.02877235785126686
+trial_2	trihexyphenidyl	14	KG00097852	Anemia NOS	0.027674036100506783
+trial_2	trihexyphenidyl	18	KG00098307	Pain, Chest	0.027168551459908485
+trial_2	trihexyphenidyl	101	KG00097901	Anorexia NOS	0.02633972465991974
+trial_2	trihexyphenidyl	396	KG00100373	Embolism, Pulmonary	0.02620522491633892
+trial_2	trihexyphenidyl	199	KG00098371	Rhinitis (chronic) NOS	0.025587251409888268
+trial_2	trihexyphenidyl	36	KG00106434	Vision, Blurring Of	0.024791430681943893
+trial_2	trihexyphenidyl	189	KG00101580	Alanine aminotransferase increase	0.024727916345000267
+trial_2	trihexyphenidyl	286	KG00101110	Retention, Urinary	0.02403789758682251
+trial_2	trihexyphenidyl	5	KG00099169	haematuria	0.023399172350764275
+trial_2	trihexyphenidyl	394	KG00100243	Pneumonia, Aspiration	0.02250451035797596
+trial_2	trihexyphenidyl	188	KG00101579	Aspartate aminotransferase increase	0.022239364683628082
+trial_2	trihexyphenidyl	116	KG00098964	Pain in foot	0.02219235897064209
+trial_2	trihexyphenidyl	269	KG00100399	pyaemia	0.021683886647224426
+trial_2	trihexyphenidyl	92	KG00100926	Infections, Upper Respiratory	0.021530797705054283
+trial_2	trihexyphenidyl	38	KG00098066	Binocular vision disorders	0.021460145711898804
+trial_2	trihexyphenidyl	142	KG00100923	Unspecified infectious and parasitic diseases	0.02089090645313263
+trial_2	trihexyphenidyl	11	KG00097993	Asthma NOS	0.02080972120165825
+trial_2	trihexyphenidyl	75	KG00100195	Dolens, Phlegmasia Alba	0.020729804411530495
+trial_2	trihexyphenidyl	69	KG00100082	Palpitations NOS	0.02040915936231613
+trial_2	trihexyphenidyl	147	KG00098000	atelectases	0.020313171669840813
+trial_2	trihexyphenidyl	31	KG00099872	Infarction, Myocardial	0.019827190786600113
+trial_2	trihexyphenidyl	118	KG00099011	Gastritis NOS	0.01948564313352108
+trial_2	trihexyphenidyl	15	KG00097882	Angina pectoris NOS	0.019378453493118286
+trial_2	trihexyphenidyl	164	KG00108827	ileus colon	0.01927325129508972
+trial_2	trihexyphenidyl	276	KG00099127	Arrest, Cardiac	0.01917262189090252
+trial_2	trihexyphenidyl	122	KG00099321	Hypersensitivity NOS	0.018909918144345284
+trial_2	trihexyphenidyl	211	KG00100341	Pruritus NOS	0.018856776878237724
+trial_2	trihexyphenidyl	139	KG00098855	Sinusitis, Ethmoid	0.018672721460461617
+trial_2	trihexyphenidyl	456	KG00099420	Influenzae	0.018232325091958046
+trial_2	trihexyphenidyl	350	KG00106765	decreased platelet count	0.018069161102175713
+trial_2	trihexyphenidyl	441	KG00098262	cellulitis nos	0.018027571961283684
+trial_2	trihexyphenidyl	361	KG00098004	Fibrillation, Atrial	0.017681719735264778
+trial_2	trihexyphenidyl	221	KG00101207	peripheral oedema	0.017304513603448868
+trial_2	trihexyphenidyl	243	KG00100947	Micturition frequency increased	0.017068006098270416
+trial_2	trihexyphenidyl	138	KG00098796	epidemic vomiting syndrome	0.016961799934506416
+trial_2	trihexyphenidyl	2	KG00100772	thrombocytopaenia	0.016754260286688805
+trial_2	trihexyphenidyl	22	KG00098705	Edema (NOS)	0.016513440757989883
+trial_2	trihexyphenidyl	153	KG00099579	lethargy	0.016262365505099297
+trial_2	trihexyphenidyl	152	KG00099402	INCONTINENCE NOS	0.016162272542715073
+trial_2	trihexyphenidyl	203	KG00098661	dysarthrias	0.016137201339006424
+trial_2	trihexyphenidyl	27	KG00099303	hyperkalaemia	0.016005992889404297
+trial_2	trihexyphenidyl	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.015915462747216225
+trial_2	trihexyphenidyl	422	KG00101429	Creatine phosphokinase increased	0.01581059955060482
+trial_2	trihexyphenidyl	121	KG00099190	haemorrhage	0.015732871368527412
+trial_2	trihexyphenidyl	25	KG00099134	congestive failures heart	0.015727702528238297
+trial_2	trihexyphenidyl	253	KG00100232	Pleural effusion NOS (disorder)	0.01560507994145155
+trial_2	trihexyphenidyl	163	KG00104050	bowel obstructions small	0.015585937537252903
+trial_2	trihexyphenidyl	182	KG00100366	Disorders, Psychotic	0.015341026708483696
+trial_2	trihexyphenidyl	204	KG00098849	Esophagitis, Peptic	0.014853758737444878
+trial_2	trihexyphenidyl	333	KG00104019	DOPINESS	0.014831481501460075
+trial_2	trihexyphenidyl	366	KG00098275	Attack, Transient Ischemic	0.014697086997330189
+trial_2	trihexyphenidyl	261	KG00101559	raised alkaline phosphatase	0.01460437010973692
+trial_2	trihexyphenidyl	82	KG00097697	abdomen distended	0.014370092190802097
+trial_2	trihexyphenidyl	179	KG00099342	hypocalcaemia	0.014218728989362717
+trial_2	trihexyphenidyl	371	KG00098517	Cystitis (NOS)	0.014094755984842777
+trial_2	trihexyphenidyl	254	KG00100774	Thrombosis NOS	0.013993325643241405
+trial_2	trihexyphenidyl	235	KG00098682	Dysuria NOS	0.013909976929426193
+trial_2	trihexyphenidyl	508	KG00108565	blood glucose increased	0.01381599623709917
+trial_2	trihexyphenidyl	98	KG00097718	Incised wound, NOS	0.013701948337256908

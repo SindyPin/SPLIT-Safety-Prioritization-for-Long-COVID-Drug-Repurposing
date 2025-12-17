@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15901942551136017
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11921800673007965
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10631164908409119
+trial_1	placebo	68	KG00099901	nauseas	0.10374253243207932
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0934523269534111
+trial_1	placebo	87	KG00098599	diarrhoea	0.0754002034664154
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07013370841741562
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05392118915915489
+trial_1	placebo	46	KG00099121	Headache NOS	0.05324269458651543
+trial_1	placebo	21	KG00098675	dyspnoea	0.05323005095124245
+trial_1	placebo	66	KG00098642	drowsiness	0.048335880041122437
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04597771167755127
+trial_1	placebo	300	KG00101064	xerostomia	0.042361561208963394
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04099653288722038
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04077722877264023
+trial_1	placebo	20	KG00098540	dehydration	0.039752256125211716
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0378483310341835
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.036009687930345535
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.034688882529735565
+trial_1	placebo	126	KG00100076	Pain NOS	0.03320809453725815
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03271801397204399
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03214205428957939
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.031390730291604996
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03020492009818554
+trial_1	placebo	102	KG00097916	anxieties	0.02909131534397602
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0289289727807045
+trial_1	placebo	104	KG00097963	arthralgias	0.02809939719736576
+trial_1	placebo	114	KG00098933	fevers	0.026090402156114578
+trial_1	placebo	228	KG00114657	Weight below normal	0.025204656645655632
+trial_1	placebo	86	KG00098565	Depression, Mental	0.024482648819684982
+trial_1	placebo	85	KG00098474	coughs	0.023663392290472984
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02326483651995659
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.022720757871866226
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02252892218530178
+trial_1	placebo	234	KG00098669	dysgeusias	0.022278238087892532
+trial_1	placebo	242	KG00100855	tremors	0.022021494805812836
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0211674552410841
+trial_1	placebo	132	KG00101045	Gain, Weight	0.021106887608766556
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.021102692931890488
+trial_1	placebo	239	KG00100128	pareses	0.021055273711681366
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020530717447400093
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02045823074877262
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0203570406883955
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.020333949476480484
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019201679155230522
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.018991416320204735
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018869731575250626
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018829921260476112
+trial_1	placebo	18	KG00098307	Pain, Chest	0.018537739291787148
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.018384674564003944
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01781943067908287
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.017591141164302826
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01750183291733265
+trial_1	placebo	5	KG00099169	haematuria	0.017356721684336662
+trial_1	placebo	350	KG00106765	decreased platelet count	0.017003383487462997
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.016858858987689018
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.016808098182082176
+trial_1	placebo	441	KG00098262	cellulitis nos	0.016725463792681694
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01671571098268032
+trial_1	placebo	262	KG00101199	agitation	0.01650131866335869
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016496405005455017
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.015900220721960068
+trial_1	placebo	466	KG00101205	fall	0.0157674141228199
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015489171259105206
+trial_1	placebo	116	KG00098964	Pain in foot	0.015485302545130253
+trial_1	placebo	147	KG00098000	atelectases	0.015402878634631634
+trial_1	placebo	82	KG00097697	abdomen distended	0.015092291869223118
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.014756291173398495
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.014644823037087917
+trial_1	placebo	72	KG00103771	myalgias	0.014451723545789719
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014356396161019802
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.014219076372683048
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.013794462196528912
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.013319306075572968
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.013212249614298344
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.013173865154385567
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.013127780519425869
+trial_1	placebo	11	KG00097993	Asthma NOS	0.012987888418138027
+trial_1	placebo	121	KG00099190	haemorrhage	0.012960946187376976
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012918449006974697
+trial_1	placebo	269	KG00100399	pyaemia	0.012835978530347347
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012695705518126488
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.012546840123832226
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012479018419981003
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.012247227132320404
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.012232871726155281
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012036648578941822
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.011882763355970383
+trial_1	placebo	136	KG00101582	Dry;skin	0.011497694998979568
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.011397355236113071
+trial_1	placebo	164	KG00108827	ileus colon	0.011327245272696018
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.011155379936099052
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.011122023686766624
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01109953224658966
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.011003546416759491
+trial_1	placebo	333	KG00104019	DOPINESS	0.010936270467936993
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.010779105126857758
+trial_1	placebo	4	KG00098817	epistaxis	0.010610475204885006
+trial_1	placebo	186	KG00101431	creatinine increased	0.010576276108622551
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.010358366183936596
+trial_2	tramadol	9	KG00098432	Confusion NOS	0.15901942551136017
+trial_2	tramadol	77	KG00098450	Constipation NOS	0.11921800673007965
+trial_2	tramadol	17	KG00097991	Asthenia NOS	0.10631164908409119
+trial_2	tramadol	68	KG00099901	nauseas	0.10374253243207932
+trial_2	tramadol	49	KG00099902	nausea with vomiting	0.0934523269534111
+trial_2	tramadol	87	KG00098599	diarrhoea	0.0754002034664154
+trial_2	tramadol	78	KG00099326	Hypertensive diseases	0.07013370841741562
+trial_2	tramadol	79	KG00100317	Insomnia, Primary	0.05392118915915489
+trial_2	tramadol	46	KG00099121	Headache NOS	0.05324269458651543
+trial_2	tramadol	21	KG00098675	dyspnoea	0.05323005095124245
+trial_2	tramadol	66	KG00098642	drowsiness	0.048335880041122437
+trial_2	tramadol	173	KG00098172	Bronchopneumonia NOS	0.04597771167755127
+trial_2	tramadol	300	KG00101064	xerostomia	0.042361561208963394
+trial_2	tramadol	123	KG00099351	hypokalaemia	0.04099653288722038
+trial_2	tramadol	101	KG00097901	Anorexia NOS	0.04077722877264023
+trial_2	tramadol	20	KG00098540	dehydration	0.039752256125211716
+trial_2	tramadol	177	KG00099299	hyperglycaemia	0.0378483310341835
+trial_2	tramadol	37	KG00097696	Cramps, Abdominal	0.036009687930345535
+trial_2	tramadol	67	KG00098673	Dyspepsia, NOS	0.034688882529735565
+trial_2	tramadol	126	KG00100076	Pain NOS	0.03320809453725815
+trial_2	tramadol	211	KG00100341	Pruritus NOS	0.03271801397204399
+trial_2	tramadol	64	KG00097734	Acrodermatitis, NOS	0.03214205428957939
+trial_2	tramadol	151	KG00098274	Infarction, Cerebral	0.031390730291604996
+trial_2	tramadol	189	KG00101580	Alanine aminotransferase increase	0.03020492009818554
+trial_2	tramadol	102	KG00097916	anxieties	0.02909131534397602
+trial_2	tramadol	180	KG00099363	Hypotension NOS	0.0289289727807045
+trial_2	tramadol	104	KG00097963	arthralgias	0.02809939719736576
+trial_2	tramadol	114	KG00098933	fevers	0.026090402156114578
+trial_2	tramadol	228	KG00114657	Weight below normal	0.025204656645655632
+trial_2	tramadol	86	KG00098565	Depression, Mental	0.024482648819684982
+trial_2	tramadol	85	KG00098474	coughs	0.023663392290472984
+trial_2	tramadol	188	KG00101579	Aspartate aminotransferase increase	0.02326483651995659
+trial_2	tramadol	89	KG00099301	Hyperhidrosis (disorder)	0.022720757871866226
+trial_2	tramadol	14	KG00097852	Anemia NOS	0.02252892218530178
+trial_2	tramadol	234	KG00098669	dysgeusias	0.022278238087892532
+trial_2	tramadol	242	KG00100855	tremors	0.022021494805812836
+trial_2	tramadol	29	KG00099354	hyponatraemia	0.0211674552410841
+trial_2	tramadol	132	KG00101045	Gain, Weight	0.021106887608766556
+trial_2	tramadol	76	KG00100450	Respiratory insufficiency, NOS	0.021102692931890488
+trial_2	tramadol	239	KG00100128	pareses	0.021055273711681366
+trial_2	tramadol	69	KG00100082	Palpitations NOS	0.020530717447400093
+trial_2	tramadol	396	KG00100373	Embolism, Pulmonary	0.02045823074877262
+trial_2	tramadol	200	KG00098539	Disorders, Deglutition	0.0203570406883955
+trial_2	tramadol	243	KG00100947	Micturition frequency increased	0.020333949476480484
+trial_2	tramadol	130	KG00100683	Stomatitis NOS	0.019201679155230522
+trial_2	tramadol	96	KG00101679	Unattended death NOS	0.018991416320204735
+trial_2	tramadol	30	KG00099500	Acute Kidney Failure	0.018869731575250626
+trial_2	tramadol	28	KG00099347	hypoglycaemia	0.018829921260476112
+trial_2	tramadol	18	KG00098307	Pain, Chest	0.018537739291787148
+trial_2	tramadol	61	KG00099501	Chronic Kidney Failure	0.018384674564003944
+trial_2	tramadol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01781943067908287
+trial_2	tramadol	38	KG00098066	Binocular vision disorders	0.017591141164302826
+trial_2	tramadol	221	KG00101207	peripheral oedema	0.01750183291733265
+trial_2	tramadol	5	KG00099169	haematuria	0.017356721684336662
+trial_2	tramadol	350	KG00106765	decreased platelet count	0.017003383487462997
+trial_2	tramadol	36	KG00106434	Vision, Blurring Of	0.016858858987689018
+trial_2	tramadol	131	KG00100948	Urinary tract infection (& [NOS])	0.016808098182082176
+trial_2	tramadol	441	KG00098262	cellulitis nos	0.016725463792681694
+trial_2	tramadol	261	KG00101559	raised alkaline phosphatase	0.01671571098268032
+trial_2	tramadol	262	KG00101199	agitation	0.01650131866335869
+trial_2	tramadol	286	KG00101110	Retention, Urinary	0.016496405005455017
+trial_2	tramadol	166	KG00099773	menopausal syndrome	0.015900220721960068
+trial_2	tramadol	466	KG00101205	fall	0.0157674141228199
+trial_2	tramadol	361	KG00098004	Fibrillation, Atrial	0.015489171259105206
+trial_2	tramadol	116	KG00098964	Pain in foot	0.015485302545130253
+trial_2	tramadol	147	KG00098000	atelectases	0.015402878634631634
+trial_2	tramadol	82	KG00097697	abdomen distended	0.015092291869223118
+trial_2	tramadol	199	KG00098371	Rhinitis (chronic) NOS	0.014756291173398495
+trial_2	tramadol	2	KG00100772	thrombocytopaenia	0.014644823037087917
+trial_2	tramadol	72	KG00103771	myalgias	0.014451723545789719
+trial_2	tramadol	15	KG00097882	Angina pectoris NOS	0.014356396161019802
+trial_2	tramadol	179	KG00099342	hypocalcaemia	0.014219076372683048
+trial_2	tramadol	22	KG00098705	Edema (NOS)	0.013794462196528912
+trial_2	tramadol	139	KG00098855	Sinusitis, Ethmoid	0.013319306075572968
+trial_2	tramadol	75	KG00100195	Dolens, Phlegmasia Alba	0.013212249614298344
+trial_2	tramadol	218	KG00100801	Tinnitus NOS	0.013173865154385567
+trial_2	tramadol	249	KG00104430	hypoalbuminaemia	0.013127780519425869
+trial_2	tramadol	11	KG00097993	Asthma NOS	0.012987888418138027
+trial_2	tramadol	121	KG00099190	haemorrhage	0.012960946187376976
+trial_2	tramadol	118	KG00099011	Gastritis NOS	0.012918449006974697
+trial_2	tramadol	269	KG00100399	pyaemia	0.012835978530347347
+trial_2	tramadol	191	KG00104055	Biliverdin increased	0.012695705518126488
+trial_2	tramadol	122	KG00099321	Hypersensitivity NOS	0.012546840123832226
+trial_2	tramadol	138	KG00098796	epidemic vomiting syndrome	0.012479018419981003
+trial_2	tramadol	92	KG00100926	Infections, Upper Respiratory	0.012247227132320404
+trial_2	tramadol	142	KG00100923	Unspecified infectious and parasitic diseases	0.012232871726155281
+trial_2	tramadol	371	KG00098517	Cystitis (NOS)	0.012036648578941822
+trial_2	tramadol	31	KG00099872	Infarction, Myocardial	0.011882763355970383
+trial_2	tramadol	136	KG00101582	Dry;skin	0.011497694998979568
+trial_2	tramadol	144	KG00099610	Leukopenia NOS	0.011397355236113071
+trial_2	tramadol	164	KG00108827	ileus colon	0.011327245272696018
+trial_2	tramadol	194	KG00110727	Neutrophil Count Decreased	0.011155379936099052
+trial_2	tramadol	422	KG00101429	Creatine phosphokinase increased	0.011122023686766624
+trial_2	tramadol	204	KG00098849	Esophagitis, Peptic	0.01109953224658966
+trial_2	tramadol	133	KG00101370	neuropathies sensory	0.011003546416759491
+trial_2	tramadol	333	KG00104019	DOPINESS	0.010936270467936993
+trial_2	tramadol	35	KG00101507	hypomagnesaemia	0.010779105126857758
+trial_2	tramadol	4	KG00098817	epistaxis	0.010610475204885006
+trial_2	tramadol	186	KG00101431	creatinine increased	0.010576276108622551
+trial_2	tramadol	253	KG00100232	Pleural effusion NOS (disorder)	0.010358366183936596

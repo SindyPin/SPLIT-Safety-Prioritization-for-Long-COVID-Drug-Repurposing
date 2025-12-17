@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08763062953948975
+trial_1	placebo	87	KG00098599	diarrhoea	0.0656866580247879
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05810314044356346
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04395029693841934
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.03773809224367142
+trial_1	placebo	21	KG00098675	dyspnoea	0.03585266321897507
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03535588085651398
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03451329097151756
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03369435295462608
+trial_1	placebo	46	KG00099121	Headache NOS	0.032142288982868195
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030475780367851257
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02958397939801216
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.028646433725953102
+trial_1	placebo	14	KG00097852	Anemia NOS	0.028524840250611305
+trial_1	placebo	20	KG00098540	dehydration	0.02852068468928337
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0277871061116457
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.026597823947668076
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.026594385504722595
+trial_1	placebo	147	KG00098000	atelectases	0.026048729196190834
+trial_1	placebo	269	KG00100399	pyaemia	0.0259254090487957
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.025274192914366722
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02499990165233612
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024721061810851097
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.024267423897981644
+trial_1	placebo	29	KG00099354	hyponatraemia	0.022405320778489113
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.021639583632349968
+trial_1	placebo	85	KG00098474	coughs	0.021556343883275986
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.021394260227680206
+trial_1	placebo	86	KG00098565	Depression, Mental	0.021167268976569176
+trial_1	placebo	104	KG00097963	arthralgias	0.020913267508149147
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020484641194343567
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02041785605251789
+trial_1	placebo	114	KG00098933	fevers	0.020284192636609077
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.01957928203046322
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.019258245825767517
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01913783885538578
+trial_1	placebo	126	KG00100076	Pain NOS	0.018880954012274742
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01876988634467125
+trial_1	placebo	77	KG00098450	Constipation NOS	0.018359573557972908
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.018298333510756493
+trial_1	placebo	441	KG00098262	cellulitis nos	0.018298102542757988
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.01784825325012207
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01772855781018734
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01707698404788971
+trial_1	placebo	228	KG00114657	Weight below normal	0.017071157693862915
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01663605123758316
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01623392105102539
+trial_1	placebo	121	KG00099190	haemorrhage	0.016102692112326622
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015590598806738853
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.015536484308540821
+trial_1	placebo	5	KG00099169	haematuria	0.015477649867534637
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.015308769419789314
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.015178930945694447
+trial_1	placebo	68	KG00099901	nauseas	0.014517237432301044
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.014508010819554329
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.014421890489757061
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01406288705766201
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.013680833391845226
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.013334706425666809
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.013218697160482407
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013013946823775768
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.012503504753112793
+trial_1	placebo	239	KG00100128	pareses	0.01236926019191742
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012272356078028679
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012029935605823994
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.0120199890807271
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011841107159852982
+trial_1	placebo	4	KG00098817	epistaxis	0.011699060909450054
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.011480323038995266
+trial_1	placebo	116	KG00098964	Pain in foot	0.011350044049322605
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01127866841852665
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.011109632439911366
+trial_1	placebo	164	KG00108827	ileus colon	0.011084750294685364
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.01104849111288786
+trial_1	placebo	456	KG00099420	Influenzae	0.010791860520839691
+trial_1	placebo	466	KG00101205	fall	0.010714844800531864
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01064897421747446
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.010404380969703197
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.010335071012377739
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.010292453691363335
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.010242238640785217
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.010213897563517094
+trial_1	placebo	102	KG00097916	anxieties	0.010088472627103329
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.010039962828159332
+trial_1	placebo	132	KG00101045	Gain, Weight	0.009847591631114483
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.009709127247333527
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.009708159603178501
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.009390190243721008
+trial_1	placebo	282	KG00099309	hypernatraemia	0.009290330111980438
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.009159239940345287
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.009064300917088985
+trial_1	placebo	186	KG00101431	creatinine increased	0.009026662446558475
+trial_1	placebo	339	KG00100334	proteinurias	0.008943642489612103
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.008896992541849613
+trial_1	placebo	310	KG00097940	Appendicitis NOS	0.00879222247749567
+trial_1	placebo	262	KG00101199	agitation	0.008778453804552555
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.008773019537329674
+trial_1	placebo	234	KG00098669	dysgeusias	0.008751827292144299
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.008643982000648975
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.008643855340778828
+trial_2	sulfacetamide	78	KG00099326	Hypertensive diseases	0.08763062953948975
+trial_2	sulfacetamide	87	KG00098599	diarrhoea	0.0656866580247879
+trial_2	sulfacetamide	173	KG00098172	Bronchopneumonia NOS	0.05810314044356346
+trial_2	sulfacetamide	151	KG00098274	Infarction, Cerebral	0.04395029693841934
+trial_2	sulfacetamide	177	KG00099299	hyperglycaemia	0.03773809224367142
+trial_2	sulfacetamide	21	KG00098675	dyspnoea	0.03585266321897507
+trial_2	sulfacetamide	61	KG00099501	Chronic Kidney Failure	0.03535588085651398
+trial_2	sulfacetamide	123	KG00099351	hypokalaemia	0.03451329097151756
+trial_2	sulfacetamide	9	KG00098432	Confusion NOS	0.03369435295462608
+trial_2	sulfacetamide	46	KG00099121	Headache NOS	0.032142288982868195
+trial_2	sulfacetamide	30	KG00099500	Acute Kidney Failure	0.030475780367851257
+trial_2	sulfacetamide	76	KG00100450	Respiratory insufficiency, NOS	0.02958397939801216
+trial_2	sulfacetamide	37	KG00097696	Cramps, Abdominal	0.028646433725953102
+trial_2	sulfacetamide	14	KG00097852	Anemia NOS	0.028524840250611305
+trial_2	sulfacetamide	20	KG00098540	dehydration	0.02852068468928337
+trial_2	sulfacetamide	96	KG00101679	Unattended death NOS	0.0277871061116457
+trial_2	sulfacetamide	189	KG00101580	Alanine aminotransferase increase	0.026597823947668076
+trial_2	sulfacetamide	17	KG00097991	Asthenia NOS	0.026594385504722595
+trial_2	sulfacetamide	147	KG00098000	atelectases	0.026048729196190834
+trial_2	sulfacetamide	269	KG00100399	pyaemia	0.0259254090487957
+trial_2	sulfacetamide	180	KG00099363	Hypotension NOS	0.025274192914366722
+trial_2	sulfacetamide	276	KG00099127	Arrest, Cardiac	0.02499990165233612
+trial_2	sulfacetamide	396	KG00100373	Embolism, Pulmonary	0.024721061810851097
+trial_2	sulfacetamide	64	KG00097734	Acrodermatitis, NOS	0.024267423897981644
+trial_2	sulfacetamide	29	KG00099354	hyponatraemia	0.022405320778489113
+trial_2	sulfacetamide	67	KG00098673	Dyspepsia, NOS	0.021639583632349968
+trial_2	sulfacetamide	85	KG00098474	coughs	0.021556343883275986
+trial_2	sulfacetamide	188	KG00101579	Aspartate aminotransferase increase	0.021394260227680206
+trial_2	sulfacetamide	86	KG00098565	Depression, Mental	0.021167268976569176
+trial_2	sulfacetamide	104	KG00097963	arthralgias	0.020913267508149147
+trial_2	sulfacetamide	142	KG00100923	Unspecified infectious and parasitic diseases	0.020484641194343567
+trial_2	sulfacetamide	2	KG00100772	thrombocytopaenia	0.02041785605251789
+trial_2	sulfacetamide	114	KG00098933	fevers	0.020284192636609077
+trial_2	sulfacetamide	200	KG00098539	Disorders, Deglutition	0.01957928203046322
+trial_2	sulfacetamide	79	KG00100317	Insomnia, Primary	0.019258245825767517
+trial_2	sulfacetamide	361	KG00098004	Fibrillation, Atrial	0.01913783885538578
+trial_2	sulfacetamide	126	KG00100076	Pain NOS	0.018880954012274742
+trial_2	sulfacetamide	31	KG00099872	Infarction, Myocardial	0.01876988634467125
+trial_2	sulfacetamide	77	KG00098450	Constipation NOS	0.018359573557972908
+trial_2	sulfacetamide	49	KG00099902	nausea with vomiting	0.018298333510756493
+trial_2	sulfacetamide	441	KG00098262	cellulitis nos	0.018298102542757988
+trial_2	sulfacetamide	28	KG00099347	hypoglycaemia	0.01784825325012207
+trial_2	sulfacetamide	131	KG00100948	Urinary tract infection (& [NOS])	0.01772855781018734
+trial_2	sulfacetamide	75	KG00100195	Dolens, Phlegmasia Alba	0.01707698404788971
+trial_2	sulfacetamide	228	KG00114657	Weight below normal	0.017071157693862915
+trial_2	sulfacetamide	350	KG00106765	decreased platelet count	0.01663605123758316
+trial_2	sulfacetamide	15	KG00097882	Angina pectoris NOS	0.01623392105102539
+trial_2	sulfacetamide	121	KG00099190	haemorrhage	0.016102692112326622
+trial_2	sulfacetamide	11	KG00097993	Asthma NOS	0.015590598806738853
+trial_2	sulfacetamide	139	KG00098855	Sinusitis, Ethmoid	0.015536484308540821
+trial_2	sulfacetamide	5	KG00099169	haematuria	0.015477649867534637
+trial_2	sulfacetamide	92	KG00100926	Infections, Upper Respiratory	0.015308769419789314
+trial_2	sulfacetamide	27	KG00099303	hyperkalaemia	0.015178930945694447
+trial_2	sulfacetamide	68	KG00099901	nauseas	0.014517237432301044
+trial_2	sulfacetamide	122	KG00099321	Hypersensitivity NOS	0.014508010819554329
+trial_2	sulfacetamide	138	KG00098796	epidemic vomiting syndrome	0.014421890489757061
+trial_2	sulfacetamide	18	KG00098307	Pain, Chest	0.01406288705766201
+trial_2	sulfacetamide	199	KG00098371	Rhinitis (chronic) NOS	0.013680833391845226
+trial_2	sulfacetamide	253	KG00100232	Pleural effusion NOS (disorder)	0.013334706425666809
+trial_2	sulfacetamide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.013218697160482407
+trial_2	sulfacetamide	25	KG00099134	congestive failures heart	0.013013946823775768
+trial_2	sulfacetamide	38	KG00098066	Binocular vision disorders	0.012503504753112793
+trial_2	sulfacetamide	239	KG00100128	pareses	0.01236926019191742
+trial_2	sulfacetamide	118	KG00099011	Gastritis NOS	0.012272356078028679
+trial_2	sulfacetamide	130	KG00100683	Stomatitis NOS	0.012029935605823994
+trial_2	sulfacetamide	268	KG00099557	Heart Failure, Left-Sided	0.0120199890807271
+trial_2	sulfacetamide	33	KG00100094	Pancreatitis NOS	0.011841107159852982
+trial_2	sulfacetamide	4	KG00098817	epistaxis	0.011699060909450054
+trial_2	sulfacetamide	394	KG00100243	Pneumonia, Aspiration	0.011480323038995266
+trial_2	sulfacetamide	116	KG00098964	Pain in foot	0.011350044049322605
+trial_2	sulfacetamide	179	KG00099342	hypocalcaemia	0.01127866841852665
+trial_2	sulfacetamide	163	KG00104050	bowel obstructions small	0.011109632439911366
+trial_2	sulfacetamide	164	KG00108827	ileus colon	0.011084750294685364
+trial_2	sulfacetamide	366	KG00098275	Attack, Transient Ischemic	0.01104849111288786
+trial_2	sulfacetamide	456	KG00099420	Influenzae	0.010791860520839691
+trial_2	sulfacetamide	466	KG00101205	fall	0.010714844800531864
+trial_2	sulfacetamide	194	KG00110727	Neutrophil Count Decreased	0.01064897421747446
+trial_2	sulfacetamide	69	KG00100082	Palpitations NOS	0.010404380969703197
+trial_2	sulfacetamide	191	KG00104055	Biliverdin increased	0.010335071012377739
+trial_2	sulfacetamide	19	KG00098331	Cholecystitis NOS	0.010292453691363335
+trial_2	sulfacetamide	356	KG00112623	Infectious Lung Disorders	0.010242238640785217
+trial_2	sulfacetamide	98	KG00097718	Incised wound, NOS	0.010213897563517094
+trial_2	sulfacetamide	102	KG00097916	anxieties	0.010088472627103329
+trial_2	sulfacetamide	204	KG00098849	Esophagitis, Peptic	0.010039962828159332
+trial_2	sulfacetamide	132	KG00101045	Gain, Weight	0.009847591631114483
+trial_2	sulfacetamide	286	KG00101110	Retention, Urinary	0.009709127247333527
+trial_2	sulfacetamide	1	KG00099959	Neutropenia NOS	0.009708159603178501
+trial_2	sulfacetamide	249	KG00104430	hypoalbuminaemia	0.009390190243721008
+trial_2	sulfacetamide	282	KG00099309	hypernatraemia	0.009290330111980438
+trial_2	sulfacetamide	494	KG00099838	Organ Failure, Multiple	0.009159239940345287
+trial_2	sulfacetamide	144	KG00099610	Leukopenia NOS	0.009064300917088985
+trial_2	sulfacetamide	186	KG00101431	creatinine increased	0.009026662446558475
+trial_2	sulfacetamide	339	KG00100334	proteinurias	0.008943642489612103
+trial_2	sulfacetamide	183	KG00100449	Adult Respiratory Distress Syndrome	0.008896992541849613
+trial_2	sulfacetamide	310	KG00097940	Appendicitis NOS	0.00879222247749567
+trial_2	sulfacetamide	262	KG00101199	agitation	0.008778453804552555
+trial_2	sulfacetamide	261	KG00101559	raised alkaline phosphatase	0.008773019537329674
+trial_2	sulfacetamide	234	KG00098669	dysgeusias	0.008751827292144299
+trial_2	sulfacetamide	97	KG00104198	LIVER ENZYME ELEVATED	0.008643982000648975
+trial_2	sulfacetamide	263	KG00101519	Ischemia, Myocardial	0.008643855340778828

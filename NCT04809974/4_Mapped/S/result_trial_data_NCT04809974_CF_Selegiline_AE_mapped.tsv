@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.13784880936145782
+trial_1	placebo	68	KG00099901	nauseas	0.10445472598075867
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09847094863653183
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09711246937513351
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0923851877450943
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08244993537664413
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08036969602108002
+trial_1	placebo	46	KG00099121	Headache NOS	0.07850145548582077
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06880059093236923
+trial_1	placebo	21	KG00098675	dyspnoea	0.059509340673685074
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05743707716464996
+trial_1	placebo	20	KG00098540	dehydration	0.056300077587366104
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05550693720579147
+trial_1	placebo	228	KG00114657	Weight below normal	0.05524677783250809
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.046705540269613266
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.044979527592659
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04347051680088043
+trial_1	placebo	123	KG00099351	hypokalaemia	0.042830031365156174
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04221377894282341
+trial_1	placebo	126	KG00100076	Pain NOS	0.039528604596853256
+trial_1	placebo	86	KG00098565	Depression, Mental	0.039340510964393616
+trial_1	placebo	102	KG00097916	anxieties	0.036587730050086975
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035778481513261795
+trial_1	placebo	300	KG00101064	xerostomia	0.03420901671051979
+trial_1	placebo	85	KG00098474	coughs	0.03194208815693855
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.030309855937957764
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.029397228732705116
+trial_1	placebo	114	KG00098933	fevers	0.02925744652748108
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027831990271806717
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02681875042617321
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02538485638797283
+trial_1	placebo	262	KG00101199	agitation	0.025162003934383392
+trial_1	placebo	104	KG00097963	arthralgias	0.024863865226507187
+trial_1	placebo	18	KG00098307	Pain, Chest	0.024665934965014458
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02459227852523327
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.023721326142549515
+trial_1	placebo	466	KG00101205	fall	0.023578861728310585
+trial_1	placebo	239	KG00100128	pareses	0.023420920595526695
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.023239798843860626
+trial_1	placebo	66	KG00098642	drowsiness	0.02291962504386902
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022495664656162262
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.022431552410125732
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022292498499155045
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.022291095927357674
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02127884142100811
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020739395171403885
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020629219710826874
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.020385749638080597
+trial_1	placebo	132	KG00101045	Gain, Weight	0.019515298306941986
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.019419020041823387
+trial_1	placebo	121	KG00099190	haemorrhage	0.019249875098466873
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.019086072221398354
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.018818311393260956
+trial_1	placebo	116	KG00098964	Pain in foot	0.018785599619150162
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.01855548471212387
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.018124600872397423
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01762891560792923
+trial_1	placebo	5	KG00099169	haematuria	0.017401499673724174
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01727396249771118
+trial_1	placebo	242	KG00100855	tremors	0.016988152638077736
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01684216596186161
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01671355590224266
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.016589784994721413
+trial_1	placebo	82	KG00097697	abdomen distended	0.016509398818016052
+trial_1	placebo	350	KG00106765	decreased platelet count	0.016463780775666237
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.016079984605312347
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01582619547843933
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.015381271950900555
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.015271300449967384
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.015182922594249249
+trial_1	placebo	221	KG00101207	peripheral oedema	0.014972908422350883
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01488486211746931
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014832770451903343
+trial_1	placebo	147	KG00098000	atelectases	0.014543682336807251
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01450327318161726
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.014478683471679688
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014376138336956501
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014192592352628708
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014096147380769253
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014027322642505169
+trial_1	placebo	164	KG00108827	ileus colon	0.014008354395627975
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014004976488649845
+trial_1	placebo	456	KG00099420	Influenzae	0.013621400110423565
+trial_1	placebo	234	KG00098669	dysgeusias	0.013620380312204361
+trial_1	placebo	269	KG00100399	pyaemia	0.01350353378802538
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.013398369774222374
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013345626182854176
+trial_1	placebo	136	KG00101582	Dry;skin	0.013280077837407589
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.013068274594843388
+trial_1	placebo	382	KG00099200	haemorrhoids	0.012994379736483097
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.012693213298916817
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.012692072428762913
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.012633678503334522
+trial_1	placebo	454	KG00098286	Pain, Neck	0.012393586337566376
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0123197166249156
+trial_1	placebo	72	KG00103771	myalgias	0.012189441360533237
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.012118702754378319
+trial_1	placebo	153	KG00099579	lethargy	0.011968900449573994
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.011901590041816235
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.011838552542030811
+trial_2	selegiline	87	KG00098599	diarrhoea	0.13784880936145782
+trial_2	selegiline	68	KG00099901	nauseas	0.10445472598075867
+trial_2	selegiline	9	KG00098432	Confusion NOS	0.09847094863653183
+trial_2	selegiline	49	KG00099902	nausea with vomiting	0.09711246937513351
+trial_2	selegiline	17	KG00097991	Asthenia NOS	0.0923851877450943
+trial_2	selegiline	79	KG00100317	Insomnia, Primary	0.08244993537664413
+trial_2	selegiline	78	KG00099326	Hypertensive diseases	0.08036969602108002
+trial_2	selegiline	46	KG00099121	Headache NOS	0.07850145548582077
+trial_2	selegiline	101	KG00097901	Anorexia NOS	0.06880059093236923
+trial_2	selegiline	21	KG00098675	dyspnoea	0.059509340673685074
+trial_2	selegiline	77	KG00098450	Constipation NOS	0.05743707716464996
+trial_2	selegiline	20	KG00098540	dehydration	0.056300077587366104
+trial_2	selegiline	173	KG00098172	Bronchopneumonia NOS	0.05550693720579147
+trial_2	selegiline	228	KG00114657	Weight below normal	0.05524677783250809
+trial_2	selegiline	177	KG00099299	hyperglycaemia	0.046705540269613266
+trial_2	selegiline	64	KG00097734	Acrodermatitis, NOS	0.044979527592659
+trial_2	selegiline	67	KG00098673	Dyspepsia, NOS	0.04347051680088043
+trial_2	selegiline	123	KG00099351	hypokalaemia	0.042830031365156174
+trial_2	selegiline	37	KG00097696	Cramps, Abdominal	0.04221377894282341
+trial_2	selegiline	126	KG00100076	Pain NOS	0.039528604596853256
+trial_2	selegiline	86	KG00098565	Depression, Mental	0.039340510964393616
+trial_2	selegiline	102	KG00097916	anxieties	0.036587730050086975
+trial_2	selegiline	200	KG00098539	Disorders, Deglutition	0.035778481513261795
+trial_2	selegiline	300	KG00101064	xerostomia	0.03420901671051979
+trial_2	selegiline	85	KG00098474	coughs	0.03194208815693855
+trial_2	selegiline	151	KG00098274	Infarction, Cerebral	0.030309855937957764
+trial_2	selegiline	96	KG00101679	Unattended death NOS	0.029397228732705116
+trial_2	selegiline	114	KG00098933	fevers	0.02925744652748108
+trial_2	selegiline	29	KG00099354	hyponatraemia	0.027831990271806717
+trial_2	selegiline	180	KG00099363	Hypotension NOS	0.02681875042617321
+trial_2	selegiline	14	KG00097852	Anemia NOS	0.02538485638797283
+trial_2	selegiline	262	KG00101199	agitation	0.025162003934383392
+trial_2	selegiline	104	KG00097963	arthralgias	0.024863865226507187
+trial_2	selegiline	18	KG00098307	Pain, Chest	0.024665934965014458
+trial_2	selegiline	189	KG00101580	Alanine aminotransferase increase	0.02459227852523327
+trial_2	selegiline	61	KG00099501	Chronic Kidney Failure	0.023721326142549515
+trial_2	selegiline	466	KG00101205	fall	0.023578861728310585
+trial_2	selegiline	239	KG00100128	pareses	0.023420920595526695
+trial_2	selegiline	211	KG00100341	Pruritus NOS	0.023239798843860626
+trial_2	selegiline	66	KG00098642	drowsiness	0.02291962504386902
+trial_2	selegiline	69	KG00100082	Palpitations NOS	0.022495664656162262
+trial_2	selegiline	38	KG00098066	Binocular vision disorders	0.022431552410125732
+trial_2	selegiline	142	KG00100923	Unspecified infectious and parasitic diseases	0.022292498499155045
+trial_2	selegiline	243	KG00100947	Micturition frequency increased	0.022291095927357674
+trial_2	selegiline	28	KG00099347	hypoglycaemia	0.02127884142100811
+trial_2	selegiline	139	KG00098855	Sinusitis, Ethmoid	0.020739395171403885
+trial_2	selegiline	122	KG00099321	Hypersensitivity NOS	0.020629219710826874
+trial_2	selegiline	76	KG00100450	Respiratory insufficiency, NOS	0.020385749638080597
+trial_2	selegiline	132	KG00101045	Gain, Weight	0.019515298306941986
+trial_2	selegiline	131	KG00100948	Urinary tract infection (& [NOS])	0.019419020041823387
+trial_2	selegiline	121	KG00099190	haemorrhage	0.019249875098466873
+trial_2	selegiline	36	KG00106434	Vision, Blurring Of	0.019086072221398354
+trial_2	selegiline	199	KG00098371	Rhinitis (chronic) NOS	0.018818311393260956
+trial_2	selegiline	116	KG00098964	Pain in foot	0.018785599619150162
+trial_2	selegiline	188	KG00101579	Aspartate aminotransferase increase	0.01855548471212387
+trial_2	selegiline	361	KG00098004	Fibrillation, Atrial	0.018124600872397423
+trial_2	selegiline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01762891560792923
+trial_2	selegiline	5	KG00099169	haematuria	0.017401499673724174
+trial_2	selegiline	75	KG00100195	Dolens, Phlegmasia Alba	0.01727396249771118
+trial_2	selegiline	242	KG00100855	tremors	0.016988152638077736
+trial_2	selegiline	441	KG00098262	cellulitis nos	0.01684216596186161
+trial_2	selegiline	286	KG00101110	Retention, Urinary	0.01671355590224266
+trial_2	selegiline	396	KG00100373	Embolism, Pulmonary	0.016589784994721413
+trial_2	selegiline	82	KG00097697	abdomen distended	0.016509398818016052
+trial_2	selegiline	350	KG00106765	decreased platelet count	0.016463780775666237
+trial_2	selegiline	89	KG00099301	Hyperhidrosis (disorder)	0.016079984605312347
+trial_2	selegiline	118	KG00099011	Gastritis NOS	0.01582619547843933
+trial_2	selegiline	166	KG00099773	menopausal syndrome	0.015381271950900555
+trial_2	selegiline	261	KG00101559	raised alkaline phosphatase	0.015271300449967384
+trial_2	selegiline	2	KG00100772	thrombocytopaenia	0.015182922594249249
+trial_2	selegiline	221	KG00101207	peripheral oedema	0.014972908422350883
+trial_2	selegiline	30	KG00099500	Acute Kidney Failure	0.01488486211746931
+trial_2	selegiline	15	KG00097882	Angina pectoris NOS	0.014832770451903343
+trial_2	selegiline	147	KG00098000	atelectases	0.014543682336807251
+trial_2	selegiline	191	KG00104055	Biliverdin increased	0.01450327318161726
+trial_2	selegiline	31	KG00099872	Infarction, Myocardial	0.014478683471679688
+trial_2	selegiline	92	KG00100926	Infections, Upper Respiratory	0.014376138336956501
+trial_2	selegiline	22	KG00098705	Edema (NOS)	0.014192592352628708
+trial_2	selegiline	204	KG00098849	Esophagitis, Peptic	0.014096147380769253
+trial_2	selegiline	371	KG00098517	Cystitis (NOS)	0.014027322642505169
+trial_2	selegiline	164	KG00108827	ileus colon	0.014008354395627975
+trial_2	selegiline	11	KG00097993	Asthma NOS	0.014004976488649845
+trial_2	selegiline	456	KG00099420	Influenzae	0.013621400110423565
+trial_2	selegiline	234	KG00098669	dysgeusias	0.013620380312204361
+trial_2	selegiline	269	KG00100399	pyaemia	0.01350353378802538
+trial_2	selegiline	152	KG00099402	INCONTINENCE NOS	0.013398369774222374
+trial_2	selegiline	138	KG00098796	epidemic vomiting syndrome	0.013345626182854176
+trial_2	selegiline	136	KG00101582	Dry;skin	0.013280077837407589
+trial_2	selegiline	254	KG00100774	Thrombosis NOS	0.013068274594843388
+trial_2	selegiline	382	KG00099200	haemorrhoids	0.012994379736483097
+trial_2	selegiline	98	KG00097718	Incised wound, NOS	0.012693213298916817
+trial_2	selegiline	179	KG00099342	hypocalcaemia	0.012692072428762913
+trial_2	selegiline	33	KG00100094	Pancreatitis NOS	0.012633678503334522
+trial_2	selegiline	454	KG00098286	Pain, Neck	0.012393586337566376
+trial_2	selegiline	27	KG00099303	hyperkalaemia	0.0123197166249156
+trial_2	selegiline	72	KG00103771	myalgias	0.012189441360533237
+trial_2	selegiline	194	KG00110727	Neutrophil Count Decreased	0.012118702754378319
+trial_2	selegiline	153	KG00099579	lethargy	0.011968900449573994
+trial_2	selegiline	276	KG00099127	Arrest, Cardiac	0.011901590041816235
+trial_2	selegiline	218	KG00100801	Tinnitus NOS	0.011838552542030811

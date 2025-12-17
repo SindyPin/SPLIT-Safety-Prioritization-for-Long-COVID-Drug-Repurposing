@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1328200250864029
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09788872301578522
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09291966259479523
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07788432389497757
+trial_1	placebo	87	KG00098599	diarrhoea	0.07435838878154755
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07245681434869766
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06645818054676056
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.060806754976511
+trial_1	placebo	20	KG00098540	dehydration	0.05971280857920647
+trial_1	placebo	21	KG00098675	dyspnoea	0.05833578109741211
+trial_1	placebo	121	KG00099190	haemorrhage	0.053250107914209366
+trial_1	placebo	46	KG00099121	Headache NOS	0.05268196761608124
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05182866007089615
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.051724355667829514
+trial_1	placebo	126	KG00100076	Pain NOS	0.04991457611322403
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04968002066016197
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04856002703309059
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04778415709733963
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.047725941985845566
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04733417555689812
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.045395199209451675
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.043848007917404175
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04355673864483833
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04354146495461464
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04318744316697121
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04309816285967827
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04243244603276253
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04236019775271416
+trial_1	placebo	228	KG00114657	Weight below normal	0.04194390028715134
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04011077806353569
+trial_1	placebo	85	KG00098474	coughs	0.03892536088824272
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03852813318371773
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.038327544927597046
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0380745567381382
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.036415211856365204
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.034814219921827316
+trial_1	placebo	114	KG00098933	fevers	0.03424685448408127
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03214200958609581
+trial_1	placebo	72	KG00103771	myalgias	0.031996652483940125
+trial_1	placebo	104	KG00097963	arthralgias	0.0319787934422493
+trial_1	placebo	239	KG00100128	pareses	0.03134273737668991
+trial_1	placebo	147	KG00098000	atelectases	0.029976464807987213
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02973441407084465
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.029277388006448746
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.029035629704594612
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.028864631429314613
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02821187488734722
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.027975255623459816
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02741714008152485
+trial_1	placebo	5	KG00099169	haematuria	0.027362177148461342
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026982372626662254
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026710545644164085
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02607664279639721
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02594521827995777
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.025883009657263756
+trial_1	placebo	466	KG00101205	fall	0.025697238743305206
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02564128115773201
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.025309782475233078
+trial_1	placebo	441	KG00098262	cellulitis nos	0.025248246267437935
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025163419544696808
+trial_1	placebo	116	KG00098964	Pain in foot	0.025053586810827255
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.0242999866604805
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023929698392748833
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02390064112842083
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.023374434560537338
+trial_1	placebo	102	KG00097916	anxieties	0.023218056187033653
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.023195816203951836
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.022965935990214348
+trial_1	placebo	262	KG00101199	agitation	0.022614924237132072
+trial_1	placebo	269	KG00100399	pyaemia	0.022593708708882332
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022269515320658684
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02196529321372509
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02183305285871029
+trial_1	placebo	68	KG00099901	nauseas	0.02160365879535675
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.021302225068211555
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0211460143327713
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021094152703881264
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021089689806103706
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021058756858110428
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02104329876601696
+trial_1	placebo	339	KG00100334	proteinurias	0.02101924456655979
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021013878285884857
+trial_1	placebo	164	KG00108827	ileus colon	0.020758287981152534
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02029372751712799
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.020288120955228806
+trial_1	placebo	248	KG00103361	measurement of creatinine	0.019996277987957
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019993050023913383
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.019853444769978523
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019794872030615807
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01976088434457779
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019707180559635162
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.019676832482218742
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01937077008187771
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019235167652368546
+trial_1	placebo	242	KG00100855	tremors	0.018857160583138466
+trial_1	placebo	136	KG00101582	Dry;skin	0.018819870427250862
+trial_1	placebo	4	KG00098817	epistaxis	0.018679214641451836
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01858353614807129
+trial_1	placebo	186	KG00101431	creatinine increased	0.018281245604157448
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018212102353572845
+trial_2	spironolactone	78	KG00099326	Hypertensive diseases	0.1328200250864029
+trial_2	spironolactone	177	KG00099299	hyperglycaemia	0.09788872301578522
+trial_2	spironolactone	173	KG00098172	Bronchopneumonia NOS	0.09291966259479523
+trial_2	spironolactone	9	KG00098432	Confusion NOS	0.07788432389497757
+trial_2	spironolactone	87	KG00098599	diarrhoea	0.07435838878154755
+trial_2	spironolactone	123	KG00099351	hypokalaemia	0.07245681434869766
+trial_2	spironolactone	17	KG00097991	Asthenia NOS	0.06645818054676056
+trial_2	spironolactone	151	KG00098274	Infarction, Cerebral	0.060806754976511
+trial_2	spironolactone	20	KG00098540	dehydration	0.05971280857920647
+trial_2	spironolactone	21	KG00098675	dyspnoea	0.05833578109741211
+trial_2	spironolactone	121	KG00099190	haemorrhage	0.053250107914209366
+trial_2	spironolactone	46	KG00099121	Headache NOS	0.05268196761608124
+trial_2	spironolactone	14	KG00097852	Anemia NOS	0.05182866007089615
+trial_2	spironolactone	243	KG00100947	Micturition frequency increased	0.051724355667829514
+trial_2	spironolactone	126	KG00100076	Pain NOS	0.04991457611322403
+trial_2	spironolactone	350	KG00106765	decreased platelet count	0.04968002066016197
+trial_2	spironolactone	28	KG00099347	hypoglycaemia	0.04856002703309059
+trial_2	spironolactone	67	KG00098673	Dyspepsia, NOS	0.04778415709733963
+trial_2	spironolactone	200	KG00098539	Disorders, Deglutition	0.047725941985845566
+trial_2	spironolactone	132	KG00101045	Gain, Weight	0.04733417555689812
+trial_2	spironolactone	180	KG00099363	Hypotension NOS	0.045395199209451675
+trial_2	spironolactone	96	KG00101679	Unattended death NOS	0.043848007917404175
+trial_2	spironolactone	29	KG00099354	hyponatraemia	0.04355673864483833
+trial_2	spironolactone	86	KG00098565	Depression, Mental	0.04354146495461464
+trial_2	spironolactone	37	KG00097696	Cramps, Abdominal	0.04318744316697121
+trial_2	spironolactone	77	KG00098450	Constipation NOS	0.04309816285967827
+trial_2	spironolactone	79	KG00100317	Insomnia, Primary	0.04243244603276253
+trial_2	spironolactone	27	KG00099303	hyperkalaemia	0.04236019775271416
+trial_2	spironolactone	228	KG00114657	Weight below normal	0.04194390028715134
+trial_2	spironolactone	76	KG00100450	Respiratory insufficiency, NOS	0.04011077806353569
+trial_2	spironolactone	85	KG00098474	coughs	0.03892536088824272
+trial_2	spironolactone	64	KG00097734	Acrodermatitis, NOS	0.03852813318371773
+trial_2	spironolactone	179	KG00099342	hypocalcaemia	0.038327544927597046
+trial_2	spironolactone	61	KG00099501	Chronic Kidney Failure	0.0380745567381382
+trial_2	spironolactone	2	KG00100772	thrombocytopaenia	0.036415211856365204
+trial_2	spironolactone	189	KG00101580	Alanine aminotransferase increase	0.034814219921827316
+trial_2	spironolactone	114	KG00098933	fevers	0.03424685448408127
+trial_2	spironolactone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03214200958609581
+trial_2	spironolactone	72	KG00103771	myalgias	0.031996652483940125
+trial_2	spironolactone	104	KG00097963	arthralgias	0.0319787934422493
+trial_2	spironolactone	239	KG00100128	pareses	0.03134273737668991
+trial_2	spironolactone	147	KG00098000	atelectases	0.029976464807987213
+trial_2	spironolactone	122	KG00099321	Hypersensitivity NOS	0.02973441407084465
+trial_2	spironolactone	22	KG00098705	Edema (NOS)	0.029277388006448746
+trial_2	spironolactone	142	KG00100923	Unspecified infectious and parasitic diseases	0.029035629704594612
+trial_2	spironolactone	249	KG00104430	hypoalbuminaemia	0.028864631429314613
+trial_2	spironolactone	35	KG00101507	hypomagnesaemia	0.02821187488734722
+trial_2	spironolactone	188	KG00101579	Aspartate aminotransferase increase	0.027975255623459816
+trial_2	spironolactone	18	KG00098307	Pain, Chest	0.02741714008152485
+trial_2	spironolactone	5	KG00099169	haematuria	0.027362177148461342
+trial_2	spironolactone	139	KG00098855	Sinusitis, Ethmoid	0.026982372626662254
+trial_2	spironolactone	276	KG00099127	Arrest, Cardiac	0.026710545644164085
+trial_2	spironolactone	133	KG00101370	neuropathies sensory	0.02607664279639721
+trial_2	spironolactone	69	KG00100082	Palpitations NOS	0.02594521827995777
+trial_2	spironolactone	288	KG00101223	hypophosphataemia	0.025883009657263756
+trial_2	spironolactone	466	KG00101205	fall	0.025697238743305206
+trial_2	spironolactone	131	KG00100948	Urinary tract infection (& [NOS])	0.02564128115773201
+trial_2	spironolactone	30	KG00099500	Acute Kidney Failure	0.025309782475233078
+trial_2	spironolactone	441	KG00098262	cellulitis nos	0.025248246267437935
+trial_2	spironolactone	221	KG00101207	peripheral oedema	0.025163419544696808
+trial_2	spironolactone	116	KG00098964	Pain in foot	0.025053586810827255
+trial_2	spironolactone	246	KG00103338	Aspartate Aminotransferase Measurement	0.0242999866604805
+trial_2	spironolactone	194	KG00110727	Neutrophil Count Decreased	0.023929698392748833
+trial_2	spironolactone	166	KG00099773	menopausal syndrome	0.02390064112842083
+trial_2	spironolactone	31	KG00099872	Infarction, Myocardial	0.023374434560537338
+trial_2	spironolactone	102	KG00097916	anxieties	0.023218056187033653
+trial_2	spironolactone	152	KG00099402	INCONTINENCE NOS	0.023195816203951836
+trial_2	spironolactone	356	KG00112623	Infectious Lung Disorders	0.022965935990214348
+trial_2	spironolactone	262	KG00101199	agitation	0.022614924237132072
+trial_2	spironolactone	269	KG00100399	pyaemia	0.022593708708882332
+trial_2	spironolactone	282	KG00099309	hypernatraemia	0.022269515320658684
+trial_2	spironolactone	508	KG00108565	blood glucose increased	0.02196529321372509
+trial_2	spironolactone	286	KG00101110	Retention, Urinary	0.02183305285871029
+trial_2	spironolactone	68	KG00099901	nauseas	0.02160365879535675
+trial_2	spironolactone	355	KG00110857	lymphocyte count decreased	0.021302225068211555
+trial_2	spironolactone	36	KG00106434	Vision, Blurring Of	0.0211460143327713
+trial_2	spironolactone	253	KG00100232	Pleural effusion NOS (disorder)	0.021094152703881264
+trial_2	spironolactone	297	KG00099294	hypercholesterolaemia	0.021089689806103706
+trial_2	spironolactone	256	KG00100738	Tachycardia, Sinus	0.021058756858110428
+trial_2	spironolactone	361	KG00098004	Fibrillation, Atrial	0.02104329876601696
+trial_2	spironolactone	339	KG00100334	proteinurias	0.02101924456655979
+trial_2	spironolactone	38	KG00098066	Binocular vision disorders	0.021013878285884857
+trial_2	spironolactone	164	KG00108827	ileus colon	0.020758287981152534
+trial_2	spironolactone	49	KG00099902	nausea with vomiting	0.02029372751712799
+trial_2	spironolactone	396	KG00100373	Embolism, Pulmonary	0.020288120955228806
+trial_2	spironolactone	248	KG00103361	measurement of creatinine	0.019996277987957
+trial_2	spironolactone	191	KG00104055	Biliverdin increased	0.019993050023913383
+trial_2	spironolactone	118	KG00099011	Gastritis NOS	0.019853444769978523
+trial_2	spironolactone	92	KG00100926	Infections, Upper Respiratory	0.019794872030615807
+trial_2	spironolactone	130	KG00100683	Stomatitis NOS	0.01976088434457779
+trial_2	spironolactone	75	KG00100195	Dolens, Phlegmasia Alba	0.019707180559635162
+trial_2	spironolactone	254	KG00100774	Thrombosis NOS	0.019676832482218742
+trial_2	spironolactone	11	KG00097993	Asthma NOS	0.01937077008187771
+trial_2	spironolactone	15	KG00097882	Angina pectoris NOS	0.019235167652368546
+trial_2	spironolactone	242	KG00100855	tremors	0.018857160583138466
+trial_2	spironolactone	136	KG00101582	Dry;skin	0.018819870427250862
+trial_2	spironolactone	4	KG00098817	epistaxis	0.018679214641451836
+trial_2	spironolactone	138	KG00098796	epidemic vomiting syndrome	0.01858353614807129
+trial_2	spironolactone	186	KG00101431	creatinine increased	0.018281245604157448
+trial_2	spironolactone	204	KG00098849	Esophagitis, Peptic	0.018212102353572845

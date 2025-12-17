@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14259661734104156
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13128384947776794
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12408185005187988
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12106428295373917
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10693488270044327
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09166129678487778
+trial_1	placebo	20	KG00098540	dehydration	0.08896417170763016
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08893825858831406
+trial_1	placebo	21	KG00098675	dyspnoea	0.08309369534254074
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08305361121892929
+trial_1	placebo	46	KG00099121	Headache NOS	0.07790491729974747
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07421012222766876
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07420177012681961
+trial_1	placebo	68	KG00099901	nauseas	0.0740390196442604
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07243967056274414
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06988216936588287
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06835130602121353
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06739070266485214
+trial_1	placebo	228	KG00114657	Weight below normal	0.06442905962467194
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0629197433590889
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06002352759242058
+trial_1	placebo	114	KG00098933	fevers	0.05907363072037697
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.058525096625089645
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05780046805739403
+trial_1	placebo	72	KG00103771	myalgias	0.05653062090277672
+trial_1	placebo	239	KG00100128	pareses	0.05275862663984299
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.051933448761701584
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0511336475610733
+trial_1	placebo	126	KG00100076	Pain NOS	0.050343453884124756
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04954720288515091
+trial_1	placebo	85	KG00098474	coughs	0.049149200320243835
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.048700619488954544
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04796585440635681
+trial_1	placebo	104	KG00097963	arthralgias	0.04781680554151535
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.046032436192035675
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04570629820227623
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.044811561703681946
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04394599050283432
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.043684326112270355
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04207191988825798
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04184579476714134
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04095831513404846
+trial_1	placebo	5	KG00099169	haematuria	0.040619369596242905
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04017923027276993
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03980664908885956
+trial_1	placebo	102	KG00097916	anxieties	0.0391572006046772
+trial_1	placebo	116	KG00098964	Pain in foot	0.03911295533180237
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03786269947886467
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03641555458307266
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03591248020529747
+trial_1	placebo	18	KG00098307	Pain, Chest	0.035887137055397034
+trial_1	placebo	147	KG00098000	atelectases	0.0352761410176754
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0351264588534832
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03370082005858421
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03301077336072922
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03298771753907204
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0328359492123127
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.031697630882263184
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.031551849097013474
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030994443222880363
+trial_1	placebo	100	KG00097815	alopecias	0.030503029003739357
+trial_1	placebo	466	KG00101205	fall	0.030434012413024902
+trial_1	placebo	262	KG00101199	agitation	0.030175264924764633
+trial_1	placebo	441	KG00098262	cellulitis nos	0.030020346865057945
+trial_1	placebo	282	KG00099309	hypernatraemia	0.029907623305916786
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.028877612203359604
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028622345998883247
+trial_1	placebo	154	KG00099686	Lymphopenias	0.028568364679813385
+trial_1	placebo	121	KG00099190	haemorrhage	0.028067918494343758
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02789253741502762
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.027869300916790962
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02749527618288994
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.027013080194592476
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026995664462447166
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026949917897582054
+trial_1	placebo	234	KG00098669	dysgeusias	0.02673412673175335
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.026250571012496948
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.026234516873955727
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02597746253013611
+trial_1	placebo	269	KG00100399	pyaemia	0.025558646768331528
+trial_1	placebo	82	KG00097697	abdomen distended	0.024561919271945953
+trial_1	placebo	456	KG00099420	Influenzae	0.024364305660128593
+trial_1	placebo	212	KG00100576	shivers	0.024312453344464302
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.024233907461166382
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024114852771162987
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02410265803337097
+trial_1	placebo	164	KG00108827	ileus colon	0.02377776987850666
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023628924041986465
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023232806473970413
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.023103130981326103
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022957580164074898
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.022802885621786118
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.022721366956830025
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02267928048968315
+trial_1	placebo	186	KG00101431	creatinine increased	0.022387953475117683
+trial_1	placebo	11	KG00097993	Asthma NOS	0.022376418113708496
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02233084850013256
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022127069532871246
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02195134572684765
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021730342879891396
+trial_2	stanozolol	87	KG00098599	diarrhoea	0.14259661734104156
+trial_2	stanozolol	78	KG00099326	Hypertensive diseases	0.13128384947776794
+trial_2	stanozolol	177	KG00099299	hyperglycaemia	0.12408185005187988
+trial_2	stanozolol	17	KG00097991	Asthenia NOS	0.12106428295373917
+trial_2	stanozolol	173	KG00098172	Bronchopneumonia NOS	0.10693488270044327
+trial_2	stanozolol	123	KG00099351	hypokalaemia	0.09166129678487778
+trial_2	stanozolol	20	KG00098540	dehydration	0.08896417170763016
+trial_2	stanozolol	79	KG00100317	Insomnia, Primary	0.08893825858831406
+trial_2	stanozolol	21	KG00098675	dyspnoea	0.08309369534254074
+trial_2	stanozolol	9	KG00098432	Confusion NOS	0.08305361121892929
+trial_2	stanozolol	46	KG00099121	Headache NOS	0.07790491729974747
+trial_2	stanozolol	67	KG00098673	Dyspepsia, NOS	0.07421012222766876
+trial_2	stanozolol	37	KG00097696	Cramps, Abdominal	0.07420177012681961
+trial_2	stanozolol	68	KG00099901	nauseas	0.0740390196442604
+trial_2	stanozolol	64	KG00097734	Acrodermatitis, NOS	0.07243967056274414
+trial_2	stanozolol	14	KG00097852	Anemia NOS	0.06988216936588287
+trial_2	stanozolol	200	KG00098539	Disorders, Deglutition	0.06835130602121353
+trial_2	stanozolol	77	KG00098450	Constipation NOS	0.06739070266485214
+trial_2	stanozolol	228	KG00114657	Weight below normal	0.06442905962467194
+trial_2	stanozolol	189	KG00101580	Alanine aminotransferase increase	0.0629197433590889
+trial_2	stanozolol	86	KG00098565	Depression, Mental	0.06002352759242058
+trial_2	stanozolol	114	KG00098933	fevers	0.05907363072037697
+trial_2	stanozolol	49	KG00099902	nausea with vomiting	0.058525096625089645
+trial_2	stanozolol	243	KG00100947	Micturition frequency increased	0.05780046805739403
+trial_2	stanozolol	72	KG00103771	myalgias	0.05653062090277672
+trial_2	stanozolol	239	KG00100128	pareses	0.05275862663984299
+trial_2	stanozolol	139	KG00098855	Sinusitis, Ethmoid	0.051933448761701584
+trial_2	stanozolol	188	KG00101579	Aspartate aminotransferase increase	0.0511336475610733
+trial_2	stanozolol	126	KG00100076	Pain NOS	0.050343453884124756
+trial_2	stanozolol	122	KG00099321	Hypersensitivity NOS	0.04954720288515091
+trial_2	stanozolol	85	KG00098474	coughs	0.049149200320243835
+trial_2	stanozolol	28	KG00099347	hypoglycaemia	0.048700619488954544
+trial_2	stanozolol	350	KG00106765	decreased platelet count	0.04796585440635681
+trial_2	stanozolol	104	KG00097963	arthralgias	0.04781680554151535
+trial_2	stanozolol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.046032436192035675
+trial_2	stanozolol	29	KG00099354	hyponatraemia	0.04570629820227623
+trial_2	stanozolol	101	KG00097901	Anorexia NOS	0.044811561703681946
+trial_2	stanozolol	2	KG00100772	thrombocytopaenia	0.04394599050283432
+trial_2	stanozolol	151	KG00098274	Infarction, Cerebral	0.043684326112270355
+trial_2	stanozolol	27	KG00099303	hyperkalaemia	0.04207191988825798
+trial_2	stanozolol	180	KG00099363	Hypotension NOS	0.04184579476714134
+trial_2	stanozolol	76	KG00100450	Respiratory insufficiency, NOS	0.04095831513404846
+trial_2	stanozolol	5	KG00099169	haematuria	0.040619369596242905
+trial_2	stanozolol	132	KG00101045	Gain, Weight	0.04017923027276993
+trial_2	stanozolol	179	KG00099342	hypocalcaemia	0.03980664908885956
+trial_2	stanozolol	102	KG00097916	anxieties	0.0391572006046772
+trial_2	stanozolol	116	KG00098964	Pain in foot	0.03911295533180237
+trial_2	stanozolol	38	KG00098066	Binocular vision disorders	0.03786269947886467
+trial_2	stanozolol	61	KG00099501	Chronic Kidney Failure	0.03641555458307266
+trial_2	stanozolol	96	KG00101679	Unattended death NOS	0.03591248020529747
+trial_2	stanozolol	18	KG00098307	Pain, Chest	0.035887137055397034
+trial_2	stanozolol	147	KG00098000	atelectases	0.0352761410176754
+trial_2	stanozolol	355	KG00110857	lymphocyte count decreased	0.0351264588534832
+trial_2	stanozolol	69	KG00100082	Palpitations NOS	0.03370082005858421
+trial_2	stanozolol	131	KG00100948	Urinary tract infection (& [NOS])	0.03301077336072922
+trial_2	stanozolol	92	KG00100926	Infections, Upper Respiratory	0.03298771753907204
+trial_2	stanozolol	194	KG00110727	Neutrophil Count Decreased	0.0328359492123127
+trial_2	stanozolol	396	KG00100373	Embolism, Pulmonary	0.031697630882263184
+trial_2	stanozolol	36	KG00106434	Vision, Blurring Of	0.031551849097013474
+trial_2	stanozolol	508	KG00108565	blood glucose increased	0.030994443222880363
+trial_2	stanozolol	100	KG00097815	alopecias	0.030503029003739357
+trial_2	stanozolol	466	KG00101205	fall	0.030434012413024902
+trial_2	stanozolol	262	KG00101199	agitation	0.030175264924764633
+trial_2	stanozolol	441	KG00098262	cellulitis nos	0.030020346865057945
+trial_2	stanozolol	282	KG00099309	hypernatraemia	0.029907623305916786
+trial_2	stanozolol	204	KG00098849	Esophagitis, Peptic	0.028877612203359604
+trial_2	stanozolol	276	KG00099127	Arrest, Cardiac	0.028622345998883247
+trial_2	stanozolol	154	KG00099686	Lymphopenias	0.028568364679813385
+trial_2	stanozolol	121	KG00099190	haemorrhage	0.028067918494343758
+trial_2	stanozolol	75	KG00100195	Dolens, Phlegmasia Alba	0.02789253741502762
+trial_2	stanozolol	261	KG00101559	raised alkaline phosphatase	0.027869300916790962
+trial_2	stanozolol	30	KG00099500	Acute Kidney Failure	0.02749527618288994
+trial_2	stanozolol	144	KG00099610	Leukopenia NOS	0.027013080194592476
+trial_2	stanozolol	221	KG00101207	peripheral oedema	0.026995664462447166
+trial_2	stanozolol	142	KG00100923	Unspecified infectious and parasitic diseases	0.026949917897582054
+trial_2	stanozolol	234	KG00098669	dysgeusias	0.02673412673175335
+trial_2	stanozolol	1	KG00099959	Neutropenia NOS	0.026250571012496948
+trial_2	stanozolol	33	KG00100094	Pancreatitis NOS	0.026234516873955727
+trial_2	stanozolol	297	KG00099294	hypercholesterolaemia	0.02597746253013611
+trial_2	stanozolol	269	KG00100399	pyaemia	0.025558646768331528
+trial_2	stanozolol	82	KG00097697	abdomen distended	0.024561919271945953
+trial_2	stanozolol	456	KG00099420	Influenzae	0.024364305660128593
+trial_2	stanozolol	212	KG00100576	shivers	0.024312453344464302
+trial_2	stanozolol	35	KG00101507	hypomagnesaemia	0.024233907461166382
+trial_2	stanozolol	249	KG00104430	hypoalbuminaemia	0.024114852771162987
+trial_2	stanozolol	166	KG00099773	menopausal syndrome	0.02410265803337097
+trial_2	stanozolol	164	KG00108827	ileus colon	0.02377776987850666
+trial_2	stanozolol	118	KG00099011	Gastritis NOS	0.023628924041986465
+trial_2	stanozolol	191	KG00104055	Biliverdin increased	0.023232806473970413
+trial_2	stanozolol	22	KG00098705	Edema (NOS)	0.023103130981326103
+trial_2	stanozolol	288	KG00101223	hypophosphataemia	0.022957580164074898
+trial_2	stanozolol	256	KG00100738	Tachycardia, Sinus	0.022802885621786118
+trial_2	stanozolol	195	KG00097814	Atopic Rhinitis	0.022721366956830025
+trial_2	stanozolol	253	KG00100232	Pleural effusion NOS (disorder)	0.02267928048968315
+trial_2	stanozolol	186	KG00101431	creatinine increased	0.022387953475117683
+trial_2	stanozolol	11	KG00097993	Asthma NOS	0.022376418113708496
+trial_2	stanozolol	97	KG00104198	LIVER ENZYME ELEVATED	0.02233084850013256
+trial_2	stanozolol	361	KG00098004	Fibrillation, Atrial	0.022127069532871246
+trial_2	stanozolol	138	KG00098796	epidemic vomiting syndrome	0.02195134572684765
+trial_2	stanozolol	371	KG00098517	Cystitis (NOS)	0.021730342879891396

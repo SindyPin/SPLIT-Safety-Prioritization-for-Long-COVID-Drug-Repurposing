@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05649389699101448
+trial_1	placebo	87	KG00098599	diarrhoea	0.049764979630708694
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.049615517258644104
+trial_1	placebo	68	KG00099901	nauseas	0.04876374453306198
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.046863630414009094
+trial_1	placebo	46	KG00099121	Headache NOS	0.04633931443095207
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.03889703378081322
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.038273509591817856
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03734970837831497
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03525518253445625
+trial_1	placebo	77	KG00098450	Constipation NOS	0.034947339445352554
+trial_1	placebo	21	KG00098675	dyspnoea	0.03259633854031563
+trial_1	placebo	20	KG00098540	dehydration	0.03086198680102825
+trial_1	placebo	123	KG00099351	hypokalaemia	0.030688537284731865
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.026817090809345245
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.026452085003256798
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.025035016238689423
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.024677211418747902
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02337734028697014
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.02176797389984131
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02169455960392952
+trial_1	placebo	126	KG00100076	Pain NOS	0.021344564855098724
+trial_1	placebo	14	KG00097852	Anemia NOS	0.020815327763557434
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02019527181982994
+trial_1	placebo	147	KG00098000	atelectases	0.019296012818813324
+trial_1	placebo	114	KG00098933	fevers	0.019121618941426277
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.019100047647953033
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.01897880807518959
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.01794646680355072
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.017146065831184387
+trial_1	placebo	18	KG00098307	Pain, Chest	0.016907192766666412
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.016536982730031013
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01642216183245182
+trial_1	placebo	85	KG00098474	coughs	0.016148440539836884
+trial_1	placebo	29	KG00099354	hyponatraemia	0.016090240329504013
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01577698439359665
+trial_1	placebo	269	KG00100399	pyaemia	0.015642570331692696
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0150434710085392
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014976405538618565
+trial_1	placebo	104	KG00097963	arthralgias	0.01483054831624031
+trial_1	placebo	5	KG00099169	haematuria	0.014302846044301987
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01411448884755373
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.013974943198263645
+trial_1	placebo	86	KG00098565	Depression, Mental	0.013676279224455357
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01343842875212431
+trial_1	placebo	102	KG00097916	anxieties	0.013017035089433193
+trial_1	placebo	221	KG00101207	peripheral oedema	0.012682992964982986
+trial_1	placebo	121	KG00099190	haemorrhage	0.012657647021114826
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01265529915690422
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012559127993881702
+trial_1	placebo	228	KG00114657	Weight below normal	0.011849714443087578
+trial_1	placebo	466	KG00101205	fall	0.011711583472788334
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.011696971952915192
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.011689560487866402
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.011659025214612484
+trial_1	placebo	66	KG00098642	drowsiness	0.01138325035572052
+trial_1	placebo	239	KG00100128	pareses	0.011249328032135963
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.011145826429128647
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.011119779199361801
+trial_1	placebo	116	KG00098964	Pain in foot	0.010760826990008354
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.010597902350127697
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.010400768369436264
+trial_1	placebo	11	KG00097993	Asthma NOS	0.010357754305005074
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.010113555938005447
+trial_1	placebo	262	KG00101199	agitation	0.010021467693150043
+trial_1	placebo	25	KG00099134	congestive failures heart	0.010020866990089417
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.009989693760871887
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.009989510290324688
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.009702147915959358
+trial_1	placebo	164	KG00108827	ileus colon	0.009689327329397202
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.00939879845827818
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.00936505664139986
+trial_1	placebo	82	KG00097697	abdomen distended	0.009199277497828007
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0091541213914752
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.008976368233561516
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.00897191558033228
+trial_1	placebo	4	KG00098817	epistaxis	0.008869008161127567
+trial_1	placebo	350	KG00106765	decreased platelet count	0.008682324551045895
+trial_1	placebo	234	KG00098669	dysgeusias	0.008642707020044327
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.008501490578055382
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.008460774086415768
+trial_1	placebo	713	KG00107657	distressed respiratory	0.008322426117956638
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.008280443027615547
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.008260027505457401
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.008234984241425991
+trial_1	placebo	300	KG00101064	xerostomia	0.008201990276575089
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.008159802295267582
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.00807909294962883
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.007868282496929169
+trial_1	placebo	242	KG00100855	tremors	0.007865985855460167
+trial_1	placebo	72	KG00103771	myalgias	0.0074854400008916855
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.00726234121248126
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.007234431803226471
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.007188106421381235
+trial_1	placebo	282	KG00099309	hypernatraemia	0.007101543713361025
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.007052472792565823
+trial_1	placebo	132	KG00101045	Gain, Weight	0.006960469298064709
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.006793148349970579
+trial_1	placebo	60	KG00099440	Obstruction, Intestinal	0.0067504956386983395
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.006676545366644859
+trial_2	succinylcholine	9	KG00098432	Confusion NOS	0.05649389699101448
+trial_2	succinylcholine	87	KG00098599	diarrhoea	0.049764979630708694
+trial_2	succinylcholine	49	KG00099902	nausea with vomiting	0.049615517258644104
+trial_2	succinylcholine	68	KG00099901	nauseas	0.04876374453306198
+trial_2	succinylcholine	78	KG00099326	Hypertensive diseases	0.046863630414009094
+trial_2	succinylcholine	46	KG00099121	Headache NOS	0.04633931443095207
+trial_2	succinylcholine	173	KG00098172	Bronchopneumonia NOS	0.03889703378081322
+trial_2	succinylcholine	177	KG00099299	hyperglycaemia	0.038273509591817856
+trial_2	succinylcholine	180	KG00099363	Hypotension NOS	0.03734970837831497
+trial_2	succinylcholine	17	KG00097991	Asthenia NOS	0.03525518253445625
+trial_2	succinylcholine	77	KG00098450	Constipation NOS	0.034947339445352554
+trial_2	succinylcholine	21	KG00098675	dyspnoea	0.03259633854031563
+trial_2	succinylcholine	20	KG00098540	dehydration	0.03086198680102825
+trial_2	succinylcholine	123	KG00099351	hypokalaemia	0.030688537284731865
+trial_2	succinylcholine	151	KG00098274	Infarction, Cerebral	0.026817090809345245
+trial_2	succinylcholine	79	KG00100317	Insomnia, Primary	0.026452085003256798
+trial_2	succinylcholine	61	KG00099501	Chronic Kidney Failure	0.025035016238689423
+trial_2	succinylcholine	76	KG00100450	Respiratory insufficiency, NOS	0.024677211418747902
+trial_2	succinylcholine	96	KG00101679	Unattended death NOS	0.02337734028697014
+trial_2	succinylcholine	37	KG00097696	Cramps, Abdominal	0.02176797389984131
+trial_2	succinylcholine	30	KG00099500	Acute Kidney Failure	0.02169455960392952
+trial_2	succinylcholine	126	KG00100076	Pain NOS	0.021344564855098724
+trial_2	succinylcholine	14	KG00097852	Anemia NOS	0.020815327763557434
+trial_2	succinylcholine	396	KG00100373	Embolism, Pulmonary	0.02019527181982994
+trial_2	succinylcholine	147	KG00098000	atelectases	0.019296012818813324
+trial_2	succinylcholine	114	KG00098933	fevers	0.019121618941426277
+trial_2	succinylcholine	67	KG00098673	Dyspepsia, NOS	0.019100047647953033
+trial_2	succinylcholine	200	KG00098539	Disorders, Deglutition	0.01897880807518959
+trial_2	succinylcholine	28	KG00099347	hypoglycaemia	0.01794646680355072
+trial_2	succinylcholine	131	KG00100948	Urinary tract infection (& [NOS])	0.017146065831184387
+trial_2	succinylcholine	18	KG00098307	Pain, Chest	0.016907192766666412
+trial_2	succinylcholine	64	KG00097734	Acrodermatitis, NOS	0.016536982730031013
+trial_2	succinylcholine	31	KG00099872	Infarction, Myocardial	0.01642216183245182
+trial_2	succinylcholine	85	KG00098474	coughs	0.016148440539836884
+trial_2	succinylcholine	29	KG00099354	hyponatraemia	0.016090240329504013
+trial_2	succinylcholine	75	KG00100195	Dolens, Phlegmasia Alba	0.01577698439359665
+trial_2	succinylcholine	269	KG00100399	pyaemia	0.015642570331692696
+trial_2	succinylcholine	361	KG00098004	Fibrillation, Atrial	0.0150434710085392
+trial_2	succinylcholine	441	KG00098262	cellulitis nos	0.014976405538618565
+trial_2	succinylcholine	104	KG00097963	arthralgias	0.01483054831624031
+trial_2	succinylcholine	5	KG00099169	haematuria	0.014302846044301987
+trial_2	succinylcholine	142	KG00100923	Unspecified infectious and parasitic diseases	0.01411448884755373
+trial_2	succinylcholine	69	KG00100082	Palpitations NOS	0.013974943198263645
+trial_2	succinylcholine	86	KG00098565	Depression, Mental	0.013676279224455357
+trial_2	succinylcholine	276	KG00099127	Arrest, Cardiac	0.01343842875212431
+trial_2	succinylcholine	102	KG00097916	anxieties	0.013017035089433193
+trial_2	succinylcholine	221	KG00101207	peripheral oedema	0.012682992964982986
+trial_2	succinylcholine	121	KG00099190	haemorrhage	0.012657647021114826
+trial_2	succinylcholine	211	KG00100341	Pruritus NOS	0.01265529915690422
+trial_2	succinylcholine	286	KG00101110	Retention, Urinary	0.012559127993881702
+trial_2	succinylcholine	228	KG00114657	Weight below normal	0.011849714443087578
+trial_2	succinylcholine	466	KG00101205	fall	0.011711583472788334
+trial_2	succinylcholine	38	KG00098066	Binocular vision disorders	0.011696971952915192
+trial_2	succinylcholine	15	KG00097882	Angina pectoris NOS	0.011689560487866402
+trial_2	succinylcholine	101	KG00097901	Anorexia NOS	0.011659025214612484
+trial_2	succinylcholine	66	KG00098642	drowsiness	0.01138325035572052
+trial_2	succinylcholine	239	KG00100128	pareses	0.011249328032135963
+trial_2	succinylcholine	268	KG00099557	Heart Failure, Left-Sided	0.011145826429128647
+trial_2	succinylcholine	253	KG00100232	Pleural effusion NOS (disorder)	0.011119779199361801
+trial_2	succinylcholine	116	KG00098964	Pain in foot	0.010760826990008354
+trial_2	succinylcholine	2	KG00100772	thrombocytopaenia	0.010597902350127697
+trial_2	succinylcholine	189	KG00101580	Alanine aminotransferase increase	0.010400768369436264
+trial_2	succinylcholine	11	KG00097993	Asthma NOS	0.010357754305005074
+trial_2	succinylcholine	271	KG00103813	reflex bradycardia	0.010113555938005447
+trial_2	succinylcholine	262	KG00101199	agitation	0.010021467693150043
+trial_2	succinylcholine	25	KG00099134	congestive failures heart	0.010020866990089417
+trial_2	succinylcholine	122	KG00099321	Hypersensitivity NOS	0.009989693760871887
+trial_2	succinylcholine	27	KG00099303	hyperkalaemia	0.009989510290324688
+trial_2	succinylcholine	394	KG00100243	Pneumonia, Aspiration	0.009702147915959358
+trial_2	succinylcholine	164	KG00108827	ileus colon	0.009689327329397202
+trial_2	succinylcholine	92	KG00100926	Infections, Upper Respiratory	0.00939879845827818
+trial_2	succinylcholine	188	KG00101579	Aspartate aminotransferase increase	0.00936505664139986
+trial_2	succinylcholine	82	KG00097697	abdomen distended	0.009199277497828007
+trial_2	succinylcholine	138	KG00098796	epidemic vomiting syndrome	0.0091541213914752
+trial_2	succinylcholine	163	KG00104050	bowel obstructions small	0.008976368233561516
+trial_2	succinylcholine	36	KG00106434	Vision, Blurring Of	0.00897191558033228
+trial_2	succinylcholine	4	KG00098817	epistaxis	0.008869008161127567
+trial_2	succinylcholine	350	KG00106765	decreased platelet count	0.008682324551045895
+trial_2	succinylcholine	234	KG00098669	dysgeusias	0.008642707020044327
+trial_2	succinylcholine	22	KG00098705	Edema (NOS)	0.008501490578055382
+trial_2	succinylcholine	139	KG00098855	Sinusitis, Ethmoid	0.008460774086415768
+trial_2	succinylcholine	713	KG00107657	distressed respiratory	0.008322426117956638
+trial_2	succinylcholine	199	KG00098371	Rhinitis (chronic) NOS	0.008280443027615547
+trial_2	succinylcholine	366	KG00098275	Attack, Transient Ischemic	0.008260027505457401
+trial_2	succinylcholine	179	KG00099342	hypocalcaemia	0.008234984241425991
+trial_2	succinylcholine	300	KG00101064	xerostomia	0.008201990276575089
+trial_2	succinylcholine	204	KG00098849	Esophagitis, Peptic	0.008159802295267582
+trial_2	succinylcholine	118	KG00099011	Gastritis NOS	0.00807909294962883
+trial_2	succinylcholine	98	KG00097718	Incised wound, NOS	0.007868282496929169
+trial_2	succinylcholine	242	KG00100855	tremors	0.007865985855460167
+trial_2	succinylcholine	72	KG00103771	myalgias	0.0074854400008916855
+trial_2	succinylcholine	249	KG00104430	hypoalbuminaemia	0.00726234121248126
+trial_2	succinylcholine	130	KG00100683	Stomatitis NOS	0.007234431803226471
+trial_2	succinylcholine	254	KG00100774	Thrombosis NOS	0.007188106421381235
+trial_2	succinylcholine	282	KG00099309	hypernatraemia	0.007101543713361025
+trial_2	succinylcholine	33	KG00100094	Pancreatitis NOS	0.007052472792565823
+trial_2	succinylcholine	132	KG00101045	Gain, Weight	0.006960469298064709
+trial_2	succinylcholine	261	KG00101559	raised alkaline phosphatase	0.006793148349970579
+trial_2	succinylcholine	60	KG00099440	Obstruction, Intestinal	0.0067504956386983395
+trial_2	succinylcholine	35	KG00101507	hypomagnesaemia	0.006676545366644859

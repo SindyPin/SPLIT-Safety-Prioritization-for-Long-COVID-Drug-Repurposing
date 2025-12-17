@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2004736065864563
+trial_1	placebo	87	KG00098599	diarrhoea	0.1631649285554886
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.15988700091838837
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13860540091991425
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12830974161624908
+trial_1	placebo	20	KG00098540	dehydration	0.12045009434223175
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11357177048921585
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.11199377477169037
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10523289442062378
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09711004048585892
+trial_1	placebo	46	KG00099121	Headache NOS	0.09109901636838913
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08847237378358841
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08303187787532806
+trial_1	placebo	228	KG00114657	Weight below normal	0.0830274298787117
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08099385350942612
+trial_1	placebo	21	KG00098675	dyspnoea	0.08001066744327545
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07552800327539444
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0754740983247757
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07495592534542084
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07393793761730194
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0737210139632225
+trial_1	placebo	114	KG00098933	fevers	0.07302683591842651
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07277293503284454
+trial_1	placebo	68	KG00099901	nauseas	0.07123444229364395
+trial_1	placebo	104	KG00097963	arthralgias	0.07076369225978851
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0697537362575531
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0675206258893013
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06702377647161484
+trial_1	placebo	85	KG00098474	coughs	0.06685105711221695
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0658375695347786
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.06208810582756996
+trial_1	placebo	29	KG00099354	hyponatraemia	0.062022313475608826
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06125021353363991
+trial_1	placebo	239	KG00100128	pareses	0.06072211638092995
+trial_1	placebo	126	KG00100076	Pain NOS	0.05840729549527168
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.056008946150541306
+trial_1	placebo	72	KG00103771	myalgias	0.05532426759600639
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05451656132936478
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05266103893518448
+trial_1	placebo	5	KG00099169	haematuria	0.05136921629309654
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.051287949085235596
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.050184980034828186
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.048018068075180054
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04598934203386307
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04586700350046158
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04586466774344444
+trial_1	placebo	116	KG00098964	Pain in foot	0.04553420841693878
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.045448336750268936
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04349266737699509
+trial_1	placebo	466	KG00101205	fall	0.042485903948545456
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04217267408967018
+trial_1	placebo	262	KG00101199	agitation	0.04196620360016823
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04191690310835838
+trial_1	placebo	102	KG00097916	anxieties	0.041576772928237915
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.041343074291944504
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03921301290392876
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03912897780537605
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03893902897834778
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.038388941437006
+trial_1	placebo	147	KG00098000	atelectases	0.03745626285672188
+trial_1	placebo	18	KG00098307	Pain, Chest	0.037182848900556564
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03687608987092972
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.036706943064928055
+trial_1	placebo	456	KG00099420	Influenzae	0.036680642515420914
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0364629365503788
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.03634265810251236
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03386637941002846
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03383628651499748
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.033732667565345764
+trial_1	placebo	269	KG00100399	pyaemia	0.03357204049825668
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.0333326980471611
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03312408924102783
+trial_1	placebo	164	KG00108827	ileus colon	0.03301648795604706
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03292081132531166
+trial_1	placebo	508	KG00108565	blood glucose increased	0.032872941344976425
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03264183923602104
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03249738737940788
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0324353389441967
+trial_1	placebo	339	KG00100334	proteinurias	0.03239888697862625
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.030427638441324234
+trial_1	placebo	82	KG00097697	abdomen distended	0.029928985983133316
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.029919197782874107
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02975686639547348
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.029747245833277702
+trial_1	placebo	242	KG00100855	tremors	0.029685387387871742
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0295038390904665
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02944445051252842
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02935132198035717
+trial_1	placebo	100	KG00097815	alopecias	0.02870762348175049
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.028676394373178482
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.028316868469119072
+trial_1	placebo	441	KG00098262	cellulitis nos	0.028057625517249107
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027983717620372772
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.027865100651979446
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.027550186961889267
+trial_1	placebo	153	KG00099579	lethargy	0.027240928262472153
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.027213769033551216
+trial_1	placebo	186	KG00101431	creatinine increased	0.026810823008418083
+trial_1	placebo	66	KG00098642	drowsiness	0.026749851182103157
+trial_1	placebo	203	KG00098661	dysarthrias	0.026730163022875786
+trial_2	seratrodast	78	KG00099326	Hypertensive diseases	0.2004736065864563
+trial_2	seratrodast	87	KG00098599	diarrhoea	0.1631649285554886
+trial_2	seratrodast	173	KG00098172	Bronchopneumonia NOS	0.15988700091838837
+trial_2	seratrodast	17	KG00097991	Asthenia NOS	0.13860540091991425
+trial_2	seratrodast	177	KG00099299	hyperglycaemia	0.12830974161624908
+trial_2	seratrodast	20	KG00098540	dehydration	0.12045009434223175
+trial_2	seratrodast	9	KG00098432	Confusion NOS	0.11357177048921585
+trial_2	seratrodast	189	KG00101580	Alanine aminotransferase increase	0.11199377477169037
+trial_2	seratrodast	123	KG00099351	hypokalaemia	0.10523289442062378
+trial_2	seratrodast	188	KG00101579	Aspartate aminotransferase increase	0.09711004048585892
+trial_2	seratrodast	46	KG00099121	Headache NOS	0.09109901636838913
+trial_2	seratrodast	79	KG00100317	Insomnia, Primary	0.08847237378358841
+trial_2	seratrodast	49	KG00099902	nausea with vomiting	0.08303187787532806
+trial_2	seratrodast	228	KG00114657	Weight below normal	0.0830274298787117
+trial_2	seratrodast	37	KG00097696	Cramps, Abdominal	0.08099385350942612
+trial_2	seratrodast	21	KG00098675	dyspnoea	0.08001066744327545
+trial_2	seratrodast	86	KG00098565	Depression, Mental	0.07552800327539444
+trial_2	seratrodast	14	KG00097852	Anemia NOS	0.0754740983247757
+trial_2	seratrodast	77	KG00098450	Constipation NOS	0.07495592534542084
+trial_2	seratrodast	350	KG00106765	decreased platelet count	0.07393793761730194
+trial_2	seratrodast	67	KG00098673	Dyspepsia, NOS	0.0737210139632225
+trial_2	seratrodast	114	KG00098933	fevers	0.07302683591842651
+trial_2	seratrodast	200	KG00098539	Disorders, Deglutition	0.07277293503284454
+trial_2	seratrodast	68	KG00099901	nauseas	0.07123444229364395
+trial_2	seratrodast	104	KG00097963	arthralgias	0.07076369225978851
+trial_2	seratrodast	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0697537362575531
+trial_2	seratrodast	132	KG00101045	Gain, Weight	0.0675206258893013
+trial_2	seratrodast	151	KG00098274	Infarction, Cerebral	0.06702377647161484
+trial_2	seratrodast	85	KG00098474	coughs	0.06685105711221695
+trial_2	seratrodast	64	KG00097734	Acrodermatitis, NOS	0.0658375695347786
+trial_2	seratrodast	139	KG00098855	Sinusitis, Ethmoid	0.06208810582756996
+trial_2	seratrodast	29	KG00099354	hyponatraemia	0.062022313475608826
+trial_2	seratrodast	2	KG00100772	thrombocytopaenia	0.06125021353363991
+trial_2	seratrodast	239	KG00100128	pareses	0.06072211638092995
+trial_2	seratrodast	126	KG00100076	Pain NOS	0.05840729549527168
+trial_2	seratrodast	76	KG00100450	Respiratory insufficiency, NOS	0.056008946150541306
+trial_2	seratrodast	72	KG00103771	myalgias	0.05532426759600639
+trial_2	seratrodast	243	KG00100947	Micturition frequency increased	0.05451656132936478
+trial_2	seratrodast	28	KG00099347	hypoglycaemia	0.05266103893518448
+trial_2	seratrodast	5	KG00099169	haematuria	0.05136921629309654
+trial_2	seratrodast	194	KG00110727	Neutrophil Count Decreased	0.051287949085235596
+trial_2	seratrodast	131	KG00100948	Urinary tract infection (& [NOS])	0.050184980034828186
+trial_2	seratrodast	180	KG00099363	Hypotension NOS	0.048018068075180054
+trial_2	seratrodast	27	KG00099303	hyperkalaemia	0.04598934203386307
+trial_2	seratrodast	30	KG00099500	Acute Kidney Failure	0.04586700350046158
+trial_2	seratrodast	122	KG00099321	Hypersensitivity NOS	0.04586466774344444
+trial_2	seratrodast	116	KG00098964	Pain in foot	0.04553420841693878
+trial_2	seratrodast	61	KG00099501	Chronic Kidney Failure	0.045448336750268936
+trial_2	seratrodast	101	KG00097901	Anorexia NOS	0.04349266737699509
+trial_2	seratrodast	466	KG00101205	fall	0.042485903948545456
+trial_2	seratrodast	179	KG00099342	hypocalcaemia	0.04217267408967018
+trial_2	seratrodast	262	KG00101199	agitation	0.04196620360016823
+trial_2	seratrodast	92	KG00100926	Infections, Upper Respiratory	0.04191690310835838
+trial_2	seratrodast	102	KG00097916	anxieties	0.041576772928237915
+trial_2	seratrodast	96	KG00101679	Unattended death NOS	0.041343074291944504
+trial_2	seratrodast	38	KG00098066	Binocular vision disorders	0.03921301290392876
+trial_2	seratrodast	355	KG00110857	lymphocyte count decreased	0.03912897780537605
+trial_2	seratrodast	341	KG00101472	Gamma-glutamyltransferase increased	0.03893902897834778
+trial_2	seratrodast	261	KG00101559	raised alkaline phosphatase	0.038388941437006
+trial_2	seratrodast	147	KG00098000	atelectases	0.03745626285672188
+trial_2	seratrodast	18	KG00098307	Pain, Chest	0.037182848900556564
+trial_2	seratrodast	422	KG00101429	Creatine phosphokinase increased	0.03687608987092972
+trial_2	seratrodast	144	KG00099610	Leukopenia NOS	0.036706943064928055
+trial_2	seratrodast	456	KG00099420	Influenzae	0.036680642515420914
+trial_2	seratrodast	396	KG00100373	Embolism, Pulmonary	0.0364629365503788
+trial_2	seratrodast	297	KG00099294	hypercholesterolaemia	0.03634265810251236
+trial_2	seratrodast	36	KG00106434	Vision, Blurring Of	0.03386637941002846
+trial_2	seratrodast	1	KG00099959	Neutropenia NOS	0.03383628651499748
+trial_2	seratrodast	276	KG00099127	Arrest, Cardiac	0.033732667565345764
+trial_2	seratrodast	269	KG00100399	pyaemia	0.03357204049825668
+trial_2	seratrodast	97	KG00104198	LIVER ENZYME ELEVATED	0.0333326980471611
+trial_2	seratrodast	282	KG00099309	hypernatraemia	0.03312408924102783
+trial_2	seratrodast	164	KG00108827	ileus colon	0.03301648795604706
+trial_2	seratrodast	154	KG00099686	Lymphopenias	0.03292081132531166
+trial_2	seratrodast	508	KG00108565	blood glucose increased	0.032872941344976425
+trial_2	seratrodast	138	KG00098796	epidemic vomiting syndrome	0.03264183923602104
+trial_2	seratrodast	191	KG00104055	Biliverdin increased	0.03249738737940788
+trial_2	seratrodast	11	KG00097993	Asthma NOS	0.0324353389441967
+trial_2	seratrodast	339	KG00100334	proteinurias	0.03239888697862625
+trial_2	seratrodast	204	KG00098849	Esophagitis, Peptic	0.030427638441324234
+trial_2	seratrodast	82	KG00097697	abdomen distended	0.029928985983133316
+trial_2	seratrodast	130	KG00100683	Stomatitis NOS	0.029919197782874107
+trial_2	seratrodast	75	KG00100195	Dolens, Phlegmasia Alba	0.02975686639547348
+trial_2	seratrodast	142	KG00100923	Unspecified infectious and parasitic diseases	0.029747245833277702
+trial_2	seratrodast	242	KG00100855	tremors	0.029685387387871742
+trial_2	seratrodast	221	KG00101207	peripheral oedema	0.0295038390904665
+trial_2	seratrodast	199	KG00098371	Rhinitis (chronic) NOS	0.02944445051252842
+trial_2	seratrodast	394	KG00100243	Pneumonia, Aspiration	0.02935132198035717
+trial_2	seratrodast	100	KG00097815	alopecias	0.02870762348175049
+trial_2	seratrodast	35	KG00101507	hypomagnesaemia	0.028676394373178482
+trial_2	seratrodast	152	KG00099402	INCONTINENCE NOS	0.028316868469119072
+trial_2	seratrodast	441	KG00098262	cellulitis nos	0.028057625517249107
+trial_2	seratrodast	69	KG00100082	Palpitations NOS	0.027983717620372772
+trial_2	seratrodast	371	KG00098517	Cystitis (NOS)	0.027865100651979446
+trial_2	seratrodast	118	KG00099011	Gastritis NOS	0.027550186961889267
+trial_2	seratrodast	153	KG00099579	lethargy	0.027240928262472153
+trial_2	seratrodast	253	KG00100232	Pleural effusion NOS (disorder)	0.027213769033551216
+trial_2	seratrodast	186	KG00101431	creatinine increased	0.026810823008418083
+trial_2	seratrodast	66	KG00098642	drowsiness	0.026749851182103157
+trial_2	seratrodast	203	KG00098661	dysarthrias	0.026730163022875786

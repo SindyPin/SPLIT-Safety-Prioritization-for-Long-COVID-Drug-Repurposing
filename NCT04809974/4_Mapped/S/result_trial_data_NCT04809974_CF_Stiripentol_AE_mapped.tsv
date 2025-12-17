@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19358675181865692
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15598535537719727
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15503659844398499
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13262413442134857
+trial_1	placebo	46	KG00099121	Headache NOS	0.12054780125617981
+trial_1	placebo	68	KG00099901	nauseas	0.08964838832616806
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0882750153541565
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08703277260065079
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08533430844545364
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08387767523527145
+trial_1	placebo	228	KG00114657	Weight below normal	0.08264270424842834
+trial_1	placebo	20	KG00098540	dehydration	0.0820283517241478
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07858522236347198
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07684236764907837
+trial_1	placebo	21	KG00098675	dyspnoea	0.07494446635246277
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07471814006567001
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06678251177072525
+trial_1	placebo	85	KG00098474	coughs	0.06150951236486435
+trial_1	placebo	77	KG00098450	Constipation NOS	0.059783730655908585
+trial_1	placebo	114	KG00098933	fevers	0.05455140024423599
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.054199155420064926
+trial_1	placebo	104	KG00097963	arthralgias	0.053608011454343796
+trial_1	placebo	14	KG00097852	Anemia NOS	0.053294435143470764
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.053072426468133926
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05151327699422836
+trial_1	placebo	126	KG00100076	Pain NOS	0.05136552453041077
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05056547373533249
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04902553930878639
+trial_1	placebo	72	KG00103771	myalgias	0.0473637618124485
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04630398005247116
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04585838317871094
+trial_1	placebo	239	KG00100128	pareses	0.043824292719364166
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0433206781744957
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04228028655052185
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04170198738574982
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04110122472047806
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03662431612610817
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0364832878112793
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03624964877963066
+trial_1	placebo	234	KG00098669	dysgeusias	0.0357523187994957
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.035639211535453796
+trial_1	placebo	102	KG00097916	anxieties	0.03532848134636879
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.033659353852272034
+trial_1	placebo	18	KG00098307	Pain, Chest	0.033338114619255066
+trial_1	placebo	5	KG00099169	haematuria	0.033120885491371155
+trial_1	placebo	116	KG00098964	Pain in foot	0.031175633892416954
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.030961090698838234
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0309554822742939
+trial_1	placebo	82	KG00097697	abdomen distended	0.030590442940592766
+trial_1	placebo	136	KG00101582	Dry;skin	0.03050248883664608
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02994582988321781
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02979630045592785
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029539965093135834
+trial_1	placebo	132	KG00101045	Gain, Weight	0.028606435284018517
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027962161228060722
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02700209617614746
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02694557048380375
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.026891980320215225
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.026871899142861366
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026801275089383125
+trial_1	placebo	147	KG00098000	atelectases	0.02674011141061783
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.025958731770515442
+trial_1	placebo	262	KG00101199	agitation	0.025665346533060074
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02545163780450821
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02524377964437008
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025143811479210854
+trial_1	placebo	66	KG00098642	drowsiness	0.024823898449540138
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024636320769786835
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024425674229860306
+trial_1	placebo	300	KG00101064	xerostomia	0.02402224764227867
+trial_1	placebo	345	KG00103926	impairments memory	0.02400190196931362
+trial_1	placebo	466	KG00101205	fall	0.02321838214993477
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02310136705636978
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02269870415329933
+trial_1	placebo	269	KG00100399	pyaemia	0.022682350128889084
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.022537006065249443
+trial_1	placebo	121	KG00099190	haemorrhage	0.022509105503559113
+trial_1	placebo	100	KG00097815	alopecias	0.02245458774268627
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02242661640048027
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022161923348903656
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021933702751994133
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021740879863500595
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.021426187828183174
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02140004187822342
+trial_1	placebo	339	KG00100334	proteinurias	0.021101251244544983
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02107073739171028
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020993759855628014
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02089165709912777
+trial_1	placebo	242	KG00100855	tremors	0.020862942561507225
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.020623458549380302
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020488088950514793
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02018895372748375
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020133094862103462
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.019680824130773544
+trial_1	placebo	186	KG00101431	creatinine increased	0.019581958651542664
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019444061443209648
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.019302010536193848
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019203681498765945
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.018992815166711807
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018987061455845833
+trial_2	stiripentol	87	KG00098599	diarrhoea	0.19358675181865692
+trial_2	stiripentol	9	KG00098432	Confusion NOS	0.15598535537719727
+trial_2	stiripentol	17	KG00097991	Asthenia NOS	0.15503659844398499
+trial_2	stiripentol	78	KG00099326	Hypertensive diseases	0.13262413442134857
+trial_2	stiripentol	46	KG00099121	Headache NOS	0.12054780125617981
+trial_2	stiripentol	68	KG00099901	nauseas	0.08964838832616806
+trial_2	stiripentol	173	KG00098172	Bronchopneumonia NOS	0.0882750153541565
+trial_2	stiripentol	177	KG00099299	hyperglycaemia	0.08703277260065079
+trial_2	stiripentol	64	KG00097734	Acrodermatitis, NOS	0.08533430844545364
+trial_2	stiripentol	79	KG00100317	Insomnia, Primary	0.08387767523527145
+trial_2	stiripentol	228	KG00114657	Weight below normal	0.08264270424842834
+trial_2	stiripentol	20	KG00098540	dehydration	0.0820283517241478
+trial_2	stiripentol	49	KG00099902	nausea with vomiting	0.07858522236347198
+trial_2	stiripentol	123	KG00099351	hypokalaemia	0.07684236764907837
+trial_2	stiripentol	21	KG00098675	dyspnoea	0.07494446635246277
+trial_2	stiripentol	67	KG00098673	Dyspepsia, NOS	0.07471814006567001
+trial_2	stiripentol	37	KG00097696	Cramps, Abdominal	0.06678251177072525
+trial_2	stiripentol	85	KG00098474	coughs	0.06150951236486435
+trial_2	stiripentol	77	KG00098450	Constipation NOS	0.059783730655908585
+trial_2	stiripentol	114	KG00098933	fevers	0.05455140024423599
+trial_2	stiripentol	101	KG00097901	Anorexia NOS	0.054199155420064926
+trial_2	stiripentol	104	KG00097963	arthralgias	0.053608011454343796
+trial_2	stiripentol	14	KG00097852	Anemia NOS	0.053294435143470764
+trial_2	stiripentol	189	KG00101580	Alanine aminotransferase increase	0.053072426468133926
+trial_2	stiripentol	200	KG00098539	Disorders, Deglutition	0.05151327699422836
+trial_2	stiripentol	126	KG00100076	Pain NOS	0.05136552453041077
+trial_2	stiripentol	86	KG00098565	Depression, Mental	0.05056547373533249
+trial_2	stiripentol	29	KG00099354	hyponatraemia	0.04902553930878639
+trial_2	stiripentol	72	KG00103771	myalgias	0.0473637618124485
+trial_2	stiripentol	188	KG00101579	Aspartate aminotransferase increase	0.04630398005247116
+trial_2	stiripentol	151	KG00098274	Infarction, Cerebral	0.04585838317871094
+trial_2	stiripentol	239	KG00100128	pareses	0.043824292719364166
+trial_2	stiripentol	350	KG00106765	decreased platelet count	0.0433206781744957
+trial_2	stiripentol	243	KG00100947	Micturition frequency increased	0.04228028655052185
+trial_2	stiripentol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04170198738574982
+trial_2	stiripentol	2	KG00100772	thrombocytopaenia	0.04110122472047806
+trial_2	stiripentol	180	KG00099363	Hypotension NOS	0.03662431612610817
+trial_2	stiripentol	76	KG00100450	Respiratory insufficiency, NOS	0.0364832878112793
+trial_2	stiripentol	131	KG00100948	Urinary tract infection (& [NOS])	0.03624964877963066
+trial_2	stiripentol	234	KG00098669	dysgeusias	0.0357523187994957
+trial_2	stiripentol	139	KG00098855	Sinusitis, Ethmoid	0.035639211535453796
+trial_2	stiripentol	102	KG00097916	anxieties	0.03532848134636879
+trial_2	stiripentol	28	KG00099347	hypoglycaemia	0.033659353852272034
+trial_2	stiripentol	18	KG00098307	Pain, Chest	0.033338114619255066
+trial_2	stiripentol	5	KG00099169	haematuria	0.033120885491371155
+trial_2	stiripentol	116	KG00098964	Pain in foot	0.031175633892416954
+trial_2	stiripentol	96	KG00101679	Unattended death NOS	0.030961090698838234
+trial_2	stiripentol	36	KG00106434	Vision, Blurring Of	0.0309554822742939
+trial_2	stiripentol	82	KG00097697	abdomen distended	0.030590442940592766
+trial_2	stiripentol	136	KG00101582	Dry;skin	0.03050248883664608
+trial_2	stiripentol	61	KG00099501	Chronic Kidney Failure	0.02994582988321781
+trial_2	stiripentol	154	KG00099686	Lymphopenias	0.02979630045592785
+trial_2	stiripentol	211	KG00100341	Pruritus NOS	0.029539965093135834
+trial_2	stiripentol	132	KG00101045	Gain, Weight	0.028606435284018517
+trial_2	stiripentol	355	KG00110857	lymphocyte count decreased	0.027962161228060722
+trial_2	stiripentol	194	KG00110727	Neutrophil Count Decreased	0.02700209617614746
+trial_2	stiripentol	122	KG00099321	Hypersensitivity NOS	0.02694557048380375
+trial_2	stiripentol	191	KG00104055	Biliverdin increased	0.026891980320215225
+trial_2	stiripentol	179	KG00099342	hypocalcaemia	0.026871899142861366
+trial_2	stiripentol	27	KG00099303	hyperkalaemia	0.026801275089383125
+trial_2	stiripentol	147	KG00098000	atelectases	0.02674011141061783
+trial_2	stiripentol	30	KG00099500	Acute Kidney Failure	0.025958731770515442
+trial_2	stiripentol	262	KG00101199	agitation	0.025665346533060074
+trial_2	stiripentol	130	KG00100683	Stomatitis NOS	0.02545163780450821
+trial_2	stiripentol	249	KG00104430	hypoalbuminaemia	0.02524377964437008
+trial_2	stiripentol	38	KG00098066	Binocular vision disorders	0.025143811479210854
+trial_2	stiripentol	66	KG00098642	drowsiness	0.024823898449540138
+trial_2	stiripentol	396	KG00100373	Embolism, Pulmonary	0.024636320769786835
+trial_2	stiripentol	142	KG00100923	Unspecified infectious and parasitic diseases	0.024425674229860306
+trial_2	stiripentol	300	KG00101064	xerostomia	0.02402224764227867
+trial_2	stiripentol	345	KG00103926	impairments memory	0.02400190196931362
+trial_2	stiripentol	466	KG00101205	fall	0.02321838214993477
+trial_2	stiripentol	261	KG00101559	raised alkaline phosphatase	0.02310136705636978
+trial_2	stiripentol	166	KG00099773	menopausal syndrome	0.02269870415329933
+trial_2	stiripentol	269	KG00100399	pyaemia	0.022682350128889084
+trial_2	stiripentol	1	KG00099959	Neutropenia NOS	0.022537006065249443
+trial_2	stiripentol	121	KG00099190	haemorrhage	0.022509105503559113
+trial_2	stiripentol	100	KG00097815	alopecias	0.02245458774268627
+trial_2	stiripentol	92	KG00100926	Infections, Upper Respiratory	0.02242661640048027
+trial_2	stiripentol	69	KG00100082	Palpitations NOS	0.022161923348903656
+trial_2	stiripentol	221	KG00101207	peripheral oedema	0.021933702751994133
+trial_2	stiripentol	75	KG00100195	Dolens, Phlegmasia Alba	0.021740879863500595
+trial_2	stiripentol	144	KG00099610	Leukopenia NOS	0.021426187828183174
+trial_2	stiripentol	35	KG00101507	hypomagnesaemia	0.02140004187822342
+trial_2	stiripentol	339	KG00100334	proteinurias	0.021101251244544983
+trial_2	stiripentol	282	KG00099309	hypernatraemia	0.02107073739171028
+trial_2	stiripentol	276	KG00099127	Arrest, Cardiac	0.020993759855628014
+trial_2	stiripentol	288	KG00101223	hypophosphataemia	0.02089165709912777
+trial_2	stiripentol	242	KG00100855	tremors	0.020862942561507225
+trial_2	stiripentol	297	KG00099294	hypercholesterolaemia	0.020623458549380302
+trial_2	stiripentol	199	KG00098371	Rhinitis (chronic) NOS	0.020488088950514793
+trial_2	stiripentol	204	KG00098849	Esophagitis, Peptic	0.02018895372748375
+trial_2	stiripentol	441	KG00098262	cellulitis nos	0.020133094862103462
+trial_2	stiripentol	218	KG00100801	Tinnitus NOS	0.019680824130773544
+trial_2	stiripentol	186	KG00101431	creatinine increased	0.019581958651542664
+trial_2	stiripentol	361	KG00098004	Fibrillation, Atrial	0.019444061443209648
+trial_2	stiripentol	133	KG00101370	neuropathies sensory	0.019302010536193848
+trial_2	stiripentol	286	KG00101110	Retention, Urinary	0.019203681498765945
+trial_2	stiripentol	422	KG00101429	Creatine phosphokinase increased	0.018992815166711807
+trial_2	stiripentol	11	KG00097993	Asthma NOS	0.018987061455845833

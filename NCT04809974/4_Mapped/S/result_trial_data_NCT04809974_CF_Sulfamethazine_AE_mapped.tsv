@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.16474096477031708
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12098946422338486
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10673411190509796
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10004480183124542
+trial_1	placebo	123	KG00099351	hypokalaemia	0.089981809258461
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08883165568113327
+trial_1	placebo	21	KG00098675	dyspnoea	0.08820070326328278
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08600403368473053
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08468174189329147
+trial_1	placebo	46	KG00099121	Headache NOS	0.08138895034790039
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0760028213262558
+trial_1	placebo	68	KG00099901	nauseas	0.07576001435518265
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07017982751131058
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0691504254937172
+trial_1	placebo	228	KG00114657	Weight below normal	0.06557955592870712
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06466694176197052
+trial_1	placebo	20	KG00098540	dehydration	0.06397942453622818
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06330166757106781
+trial_1	placebo	114	KG00098933	fevers	0.05843230336904526
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05750158429145813
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05593571811914444
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.054741520434617996
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05321258306503296
+trial_1	placebo	126	KG00100076	Pain NOS	0.05266290903091431
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.052143849432468414
+trial_1	placebo	85	KG00098474	coughs	0.05150694027543068
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05114799365401268
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05026992782950401
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.047698743641376495
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04404061660170555
+trial_1	placebo	104	KG00097963	arthralgias	0.04377569258213043
+trial_1	placebo	350	KG00106765	decreased platelet count	0.043247390538454056
+trial_1	placebo	269	KG00100399	pyaemia	0.042129818350076675
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04040835052728653
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04009239003062248
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03924764692783356
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03842700645327568
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.038048312067985535
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03723913058638573
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03560296446084976
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0353684239089489
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.033741265535354614
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.032538075000047684
+trial_1	placebo	147	KG00098000	atelectases	0.03245905786752701
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03195483610033989
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03109907917678356
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03049919568002224
+trial_1	placebo	239	KG00100128	pareses	0.02972467616200447
+trial_1	placebo	72	KG00103771	myalgias	0.029539911076426506
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028983285650610924
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02792702242732048
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027301430702209473
+trial_1	placebo	5	KG00099169	haematuria	0.026549503207206726
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02639435976743698
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025759031996130943
+trial_1	placebo	132	KG00101045	Gain, Weight	0.025271961465477943
+trial_1	placebo	186	KG00101431	creatinine increased	0.02523033134639263
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02468195930123329
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024516364559531212
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024452948942780495
+trial_1	placebo	116	KG00098964	Pain in foot	0.024292808026075363
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024018900468945503
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.024013500660657883
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023896966129541397
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02365683764219284
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022843366488814354
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02232731506228447
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02209647186100483
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02180224284529686
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021750647574663162
+trial_1	placebo	234	KG00098669	dysgeusias	0.021685373038053513
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021444223821163177
+trial_1	placebo	121	KG00099190	haemorrhage	0.021288156509399414
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.020665286108851433
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0206458643078804
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02058342471718788
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0204557366669178
+trial_1	placebo	82	KG00097697	abdomen distended	0.01996210217475891
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019867654889822006
+trial_1	placebo	102	KG00097916	anxieties	0.019786065444350243
+trial_1	placebo	262	KG00101199	agitation	0.01971648819744587
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019362665712833405
+trial_1	placebo	466	KG00101205	fall	0.01934550702571869
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.01926610618829727
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018924595788121223
+trial_1	placebo	282	KG00099309	hypernatraemia	0.018705105409026146
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018149927258491516
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01801750436425209
+trial_1	placebo	164	KG00108827	ileus colon	0.01797584444284439
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01792290061712265
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01723223552107811
+trial_1	placebo	154	KG00099686	Lymphopenias	0.017225954681634903
+trial_1	placebo	4	KG00098817	epistaxis	0.017154039815068245
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01663619838654995
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.016588611528277397
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.015919676050543785
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015765978023409843
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.015583962202072144
+trial_1	placebo	242	KG00100855	tremors	0.0154539430513978
+trial_1	placebo	136	KG00101582	Dry;skin	0.015426158905029297
+trial_2	sulfamethazine	87	KG00098599	diarrhoea	0.16474096477031708
+trial_2	sulfamethazine	9	KG00098432	Confusion NOS	0.12098946422338486
+trial_2	sulfamethazine	17	KG00097991	Asthenia NOS	0.10673411190509796
+trial_2	sulfamethazine	78	KG00099326	Hypertensive diseases	0.10004480183124542
+trial_2	sulfamethazine	123	KG00099351	hypokalaemia	0.089981809258461
+trial_2	sulfamethazine	173	KG00098172	Bronchopneumonia NOS	0.08883165568113327
+trial_2	sulfamethazine	21	KG00098675	dyspnoea	0.08820070326328278
+trial_2	sulfamethazine	177	KG00099299	hyperglycaemia	0.08600403368473053
+trial_2	sulfamethazine	14	KG00097852	Anemia NOS	0.08468174189329147
+trial_2	sulfamethazine	46	KG00099121	Headache NOS	0.08138895034790039
+trial_2	sulfamethazine	189	KG00101580	Alanine aminotransferase increase	0.0760028213262558
+trial_2	sulfamethazine	68	KG00099901	nauseas	0.07576001435518265
+trial_2	sulfamethazine	49	KG00099902	nausea with vomiting	0.07017982751131058
+trial_2	sulfamethazine	64	KG00097734	Acrodermatitis, NOS	0.0691504254937172
+trial_2	sulfamethazine	228	KG00114657	Weight below normal	0.06557955592870712
+trial_2	sulfamethazine	188	KG00101579	Aspartate aminotransferase increase	0.06466694176197052
+trial_2	sulfamethazine	20	KG00098540	dehydration	0.06397942453622818
+trial_2	sulfamethazine	37	KG00097696	Cramps, Abdominal	0.06330166757106781
+trial_2	sulfamethazine	114	KG00098933	fevers	0.05843230336904526
+trial_2	sulfamethazine	29	KG00099354	hyponatraemia	0.05750158429145813
+trial_2	sulfamethazine	67	KG00098673	Dyspepsia, NOS	0.05593571811914444
+trial_2	sulfamethazine	61	KG00099501	Chronic Kidney Failure	0.054741520434617996
+trial_2	sulfamethazine	2	KG00100772	thrombocytopaenia	0.05321258306503296
+trial_2	sulfamethazine	126	KG00100076	Pain NOS	0.05266290903091431
+trial_2	sulfamethazine	76	KG00100450	Respiratory insufficiency, NOS	0.052143849432468414
+trial_2	sulfamethazine	85	KG00098474	coughs	0.05150694027543068
+trial_2	sulfamethazine	30	KG00099500	Acute Kidney Failure	0.05114799365401268
+trial_2	sulfamethazine	79	KG00100317	Insomnia, Primary	0.05026992782950401
+trial_2	sulfamethazine	151	KG00098274	Infarction, Cerebral	0.047698743641376495
+trial_2	sulfamethazine	96	KG00101679	Unattended death NOS	0.04404061660170555
+trial_2	sulfamethazine	104	KG00097963	arthralgias	0.04377569258213043
+trial_2	sulfamethazine	350	KG00106765	decreased platelet count	0.043247390538454056
+trial_2	sulfamethazine	269	KG00100399	pyaemia	0.042129818350076675
+trial_2	sulfamethazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04040835052728653
+trial_2	sulfamethazine	86	KG00098565	Depression, Mental	0.04009239003062248
+trial_2	sulfamethazine	180	KG00099363	Hypotension NOS	0.03924764692783356
+trial_2	sulfamethazine	77	KG00098450	Constipation NOS	0.03842700645327568
+trial_2	sulfamethazine	200	KG00098539	Disorders, Deglutition	0.038048312067985535
+trial_2	sulfamethazine	396	KG00100373	Embolism, Pulmonary	0.03723913058638573
+trial_2	sulfamethazine	131	KG00100948	Urinary tract infection (& [NOS])	0.03560296446084976
+trial_2	sulfamethazine	28	KG00099347	hypoglycaemia	0.0353684239089489
+trial_2	sulfamethazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.033741265535354614
+trial_2	sulfamethazine	101	KG00097901	Anorexia NOS	0.032538075000047684
+trial_2	sulfamethazine	147	KG00098000	atelectases	0.03245905786752701
+trial_2	sulfamethazine	191	KG00104055	Biliverdin increased	0.03195483610033989
+trial_2	sulfamethazine	276	KG00099127	Arrest, Cardiac	0.03109907917678356
+trial_2	sulfamethazine	27	KG00099303	hyperkalaemia	0.03049919568002224
+trial_2	sulfamethazine	239	KG00100128	pareses	0.02972467616200447
+trial_2	sulfamethazine	72	KG00103771	myalgias	0.029539911076426506
+trial_2	sulfamethazine	18	KG00098307	Pain, Chest	0.028983285650610924
+trial_2	sulfamethazine	1	KG00099959	Neutropenia NOS	0.02792702242732048
+trial_2	sulfamethazine	194	KG00110727	Neutrophil Count Decreased	0.027301430702209473
+trial_2	sulfamethazine	5	KG00099169	haematuria	0.026549503207206726
+trial_2	sulfamethazine	441	KG00098262	cellulitis nos	0.02639435976743698
+trial_2	sulfamethazine	261	KG00101559	raised alkaline phosphatase	0.025759031996130943
+trial_2	sulfamethazine	132	KG00101045	Gain, Weight	0.025271961465477943
+trial_2	sulfamethazine	186	KG00101431	creatinine increased	0.02523033134639263
+trial_2	sulfamethazine	361	KG00098004	Fibrillation, Atrial	0.02468195930123329
+trial_2	sulfamethazine	249	KG00104430	hypoalbuminaemia	0.024516364559531212
+trial_2	sulfamethazine	144	KG00099610	Leukopenia NOS	0.024452948942780495
+trial_2	sulfamethazine	116	KG00098964	Pain in foot	0.024292808026075363
+trial_2	sulfamethazine	75	KG00100195	Dolens, Phlegmasia Alba	0.024018900468945503
+trial_2	sulfamethazine	179	KG00099342	hypocalcaemia	0.024013500660657883
+trial_2	sulfamethazine	139	KG00098855	Sinusitis, Ethmoid	0.023896966129541397
+trial_2	sulfamethazine	253	KG00100232	Pleural effusion NOS (disorder)	0.02365683764219284
+trial_2	sulfamethazine	69	KG00100082	Palpitations NOS	0.022843366488814354
+trial_2	sulfamethazine	243	KG00100947	Micturition frequency increased	0.02232731506228447
+trial_2	sulfamethazine	130	KG00100683	Stomatitis NOS	0.02209647186100483
+trial_2	sulfamethazine	11	KG00097993	Asthma NOS	0.02180224284529686
+trial_2	sulfamethazine	35	KG00101507	hypomagnesaemia	0.021750647574663162
+trial_2	sulfamethazine	234	KG00098669	dysgeusias	0.021685373038053513
+trial_2	sulfamethazine	356	KG00112623	Infectious Lung Disorders	0.021444223821163177
+trial_2	sulfamethazine	121	KG00099190	haemorrhage	0.021288156509399414
+trial_2	sulfamethazine	36	KG00106434	Vision, Blurring Of	0.020665286108851433
+trial_2	sulfamethazine	122	KG00099321	Hypersensitivity NOS	0.0206458643078804
+trial_2	sulfamethazine	38	KG00098066	Binocular vision disorders	0.02058342471718788
+trial_2	sulfamethazine	138	KG00098796	epidemic vomiting syndrome	0.0204557366669178
+trial_2	sulfamethazine	82	KG00097697	abdomen distended	0.01996210217475891
+trial_2	sulfamethazine	92	KG00100926	Infections, Upper Respiratory	0.019867654889822006
+trial_2	sulfamethazine	102	KG00097916	anxieties	0.019786065444350243
+trial_2	sulfamethazine	262	KG00101199	agitation	0.01971648819744587
+trial_2	sulfamethazine	15	KG00097882	Angina pectoris NOS	0.019362665712833405
+trial_2	sulfamethazine	466	KG00101205	fall	0.01934550702571869
+trial_2	sulfamethazine	268	KG00099557	Heart Failure, Left-Sided	0.01926610618829727
+trial_2	sulfamethazine	221	KG00101207	peripheral oedema	0.018924595788121223
+trial_2	sulfamethazine	282	KG00099309	hypernatraemia	0.018705105409026146
+trial_2	sulfamethazine	31	KG00099872	Infarction, Myocardial	0.018149927258491516
+trial_2	sulfamethazine	211	KG00100341	Pruritus NOS	0.01801750436425209
+trial_2	sulfamethazine	164	KG00108827	ileus colon	0.01797584444284439
+trial_2	sulfamethazine	25	KG00099134	congestive failures heart	0.01792290061712265
+trial_2	sulfamethazine	204	KG00098849	Esophagitis, Peptic	0.01723223552107811
+trial_2	sulfamethazine	154	KG00099686	Lymphopenias	0.017225954681634903
+trial_2	sulfamethazine	4	KG00098817	epistaxis	0.017154039815068245
+trial_2	sulfamethazine	355	KG00110857	lymphocyte count decreased	0.01663619838654995
+trial_2	sulfamethazine	170	KG00108926	Neutropenia, Febrile	0.016588611528277397
+trial_2	sulfamethazine	494	KG00099838	Organ Failure, Multiple	0.015919676050543785
+trial_2	sulfamethazine	286	KG00101110	Retention, Urinary	0.015765978023409843
+trial_2	sulfamethazine	288	KG00101223	hypophosphataemia	0.015583962202072144
+trial_2	sulfamethazine	242	KG00100855	tremors	0.0154539430513978
+trial_2	sulfamethazine	136	KG00101582	Dry;skin	0.015426158905029297

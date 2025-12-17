@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1686866581439972
+trial_1	placebo	87	KG00098599	diarrhoea	0.15988416969776154
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13242968916893005
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11039970070123672
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10908957570791245
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10459453612565994
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10187678039073944
+trial_1	placebo	20	KG00098540	dehydration	0.09501930326223373
+trial_1	placebo	46	KG00099121	Headache NOS	0.0900762677192688
+trial_1	placebo	21	KG00098675	dyspnoea	0.08951359987258911
+trial_1	placebo	228	KG00114657	Weight below normal	0.07513086497783661
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07475234568119049
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07231941819190979
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07222042232751846
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07162480056285858
+trial_1	placebo	68	KG00099901	nauseas	0.06928593665361404
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06762932986021042
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06653019040822983
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06595386564731598
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06161355599761009
+trial_1	placebo	29	KG00099354	hyponatraemia	0.061412516981363297
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05995739996433258
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.059436339884996414
+trial_1	placebo	114	KG00098933	fevers	0.05869608744978905
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05844631418585777
+trial_1	placebo	85	KG00098474	coughs	0.057251375168561935
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0569101944565773
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.056783948093652725
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05454864352941513
+trial_1	placebo	126	KG00100076	Pain NOS	0.05308888107538223
+trial_1	placebo	104	KG00097963	arthralgias	0.052279163151979446
+trial_1	placebo	86	KG00098565	Depression, Mental	0.052111804485321045
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05164439231157303
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.048678599298000336
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.048322562128305435
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.047735944390296936
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04711113125085831
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.045429300516843796
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.045340824872255325
+trial_1	placebo	147	KG00098000	atelectases	0.04430549219250679
+trial_1	placebo	239	KG00100128	pareses	0.04374999180436134
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04015730693936348
+trial_1	placebo	72	KG00103771	myalgias	0.03964170813560486
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03873828426003456
+trial_1	placebo	5	KG00099169	haematuria	0.038594309240579605
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.037796542048454285
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03732120990753174
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.037116773426532745
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03532332926988602
+trial_1	placebo	121	KG00099190	haemorrhage	0.035274017602205276
+trial_1	placebo	282	KG00099309	hypernatraemia	0.035225044935941696
+trial_1	placebo	102	KG00097916	anxieties	0.034774165600538254
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03430579975247383
+trial_1	placebo	269	KG00100399	pyaemia	0.03324346989393234
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03268226981163025
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03249945491552353
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.031315214931964874
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.031008455902338028
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03063327446579933
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03059995174407959
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030479805544018745
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02993890829384327
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02953462302684784
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02946067415177822
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028470158576965332
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.028434984385967255
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02842716872692108
+trial_1	placebo	132	KG00101045	Gain, Weight	0.027832912281155586
+trial_1	placebo	116	KG00098964	Pain in foot	0.02781549282371998
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02770615741610527
+trial_1	placebo	262	KG00101199	agitation	0.02723163738846779
+trial_1	placebo	164	KG00108827	ileus colon	0.026318613439798355
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.026079488918185234
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02602740377187729
+trial_1	placebo	82	KG00097697	abdomen distended	0.025970296934247017
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024973919615149498
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02488052472472191
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024707596749067307
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02401517704129219
+trial_1	placebo	212	KG00100576	shivers	0.023990780115127563
+trial_1	placebo	234	KG00098669	dysgeusias	0.023895123973488808
+trial_1	placebo	186	KG00101431	creatinine increased	0.023719333112239838
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022825704887509346
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022693520411849022
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022548330947756767
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.022506771609187126
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021949375048279762
+trial_1	placebo	339	KG00100334	proteinurias	0.021907659247517586
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021693861111998558
+trial_1	placebo	100	KG00097815	alopecias	0.021614057943224907
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.020589791238307953
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02047611027956009
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019930535927414894
+trial_1	placebo	4	KG00098817	epistaxis	0.019734341651201248
+trial_1	placebo	466	KG00101205	fall	0.019700774922966957
+trial_1	placebo	136	KG00101582	Dry;skin	0.019527001306414604
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01947150006890297
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01928853429853916
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.019228484481573105
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.01878184638917446
+trial_2	spectinomycin	78	KG00099326	Hypertensive diseases	0.1686866581439972
+trial_2	spectinomycin	87	KG00098599	diarrhoea	0.15988416969776154
+trial_2	spectinomycin	177	KG00099299	hyperglycaemia	0.13242968916893005
+trial_2	spectinomycin	173	KG00098172	Bronchopneumonia NOS	0.11039970070123672
+trial_2	spectinomycin	17	KG00097991	Asthenia NOS	0.10908957570791245
+trial_2	spectinomycin	123	KG00099351	hypokalaemia	0.10459453612565994
+trial_2	spectinomycin	9	KG00098432	Confusion NOS	0.10187678039073944
+trial_2	spectinomycin	20	KG00098540	dehydration	0.09501930326223373
+trial_2	spectinomycin	46	KG00099121	Headache NOS	0.0900762677192688
+trial_2	spectinomycin	21	KG00098675	dyspnoea	0.08951359987258911
+trial_2	spectinomycin	228	KG00114657	Weight below normal	0.07513086497783661
+trial_2	spectinomycin	37	KG00097696	Cramps, Abdominal	0.07475234568119049
+trial_2	spectinomycin	79	KG00100317	Insomnia, Primary	0.07231941819190979
+trial_2	spectinomycin	189	KG00101580	Alanine aminotransferase increase	0.07222042232751846
+trial_2	spectinomycin	64	KG00097734	Acrodermatitis, NOS	0.07162480056285858
+trial_2	spectinomycin	68	KG00099901	nauseas	0.06928593665361404
+trial_2	spectinomycin	14	KG00097852	Anemia NOS	0.06762932986021042
+trial_2	spectinomycin	77	KG00098450	Constipation NOS	0.06653019040822983
+trial_2	spectinomycin	49	KG00099902	nausea with vomiting	0.06595386564731598
+trial_2	spectinomycin	350	KG00106765	decreased platelet count	0.06161355599761009
+trial_2	spectinomycin	29	KG00099354	hyponatraemia	0.061412516981363297
+trial_2	spectinomycin	180	KG00099363	Hypotension NOS	0.05995739996433258
+trial_2	spectinomycin	188	KG00101579	Aspartate aminotransferase increase	0.059436339884996414
+trial_2	spectinomycin	114	KG00098933	fevers	0.05869608744978905
+trial_2	spectinomycin	2	KG00100772	thrombocytopaenia	0.05844631418585777
+trial_2	spectinomycin	85	KG00098474	coughs	0.057251375168561935
+trial_2	spectinomycin	200	KG00098539	Disorders, Deglutition	0.0569101944565773
+trial_2	spectinomycin	76	KG00100450	Respiratory insufficiency, NOS	0.056783948093652725
+trial_2	spectinomycin	243	KG00100947	Micturition frequency increased	0.05454864352941513
+trial_2	spectinomycin	126	KG00100076	Pain NOS	0.05308888107538223
+trial_2	spectinomycin	104	KG00097963	arthralgias	0.052279163151979446
+trial_2	spectinomycin	86	KG00098565	Depression, Mental	0.052111804485321045
+trial_2	spectinomycin	67	KG00098673	Dyspepsia, NOS	0.05164439231157303
+trial_2	spectinomycin	179	KG00099342	hypocalcaemia	0.048678599298000336
+trial_2	spectinomycin	61	KG00099501	Chronic Kidney Failure	0.048322562128305435
+trial_2	spectinomycin	27	KG00099303	hyperkalaemia	0.047735944390296936
+trial_2	spectinomycin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04711113125085831
+trial_2	spectinomycin	151	KG00098274	Infarction, Cerebral	0.045429300516843796
+trial_2	spectinomycin	101	KG00097901	Anorexia NOS	0.045340824872255325
+trial_2	spectinomycin	147	KG00098000	atelectases	0.04430549219250679
+trial_2	spectinomycin	239	KG00100128	pareses	0.04374999180436134
+trial_2	spectinomycin	122	KG00099321	Hypersensitivity NOS	0.04015730693936348
+trial_2	spectinomycin	72	KG00103771	myalgias	0.03964170813560486
+trial_2	spectinomycin	30	KG00099500	Acute Kidney Failure	0.03873828426003456
+trial_2	spectinomycin	5	KG00099169	haematuria	0.038594309240579605
+trial_2	spectinomycin	249	KG00104430	hypoalbuminaemia	0.037796542048454285
+trial_2	spectinomycin	96	KG00101679	Unattended death NOS	0.03732120990753174
+trial_2	spectinomycin	28	KG00099347	hypoglycaemia	0.037116773426532745
+trial_2	spectinomycin	194	KG00110727	Neutrophil Count Decreased	0.03532332926988602
+trial_2	spectinomycin	121	KG00099190	haemorrhage	0.035274017602205276
+trial_2	spectinomycin	282	KG00099309	hypernatraemia	0.035225044935941696
+trial_2	spectinomycin	102	KG00097916	anxieties	0.034774165600538254
+trial_2	spectinomycin	35	KG00101507	hypomagnesaemia	0.03430579975247383
+trial_2	spectinomycin	269	KG00100399	pyaemia	0.03324346989393234
+trial_2	spectinomycin	276	KG00099127	Arrest, Cardiac	0.03268226981163025
+trial_2	spectinomycin	253	KG00100232	Pleural effusion NOS (disorder)	0.03249945491552353
+trial_2	spectinomycin	261	KG00101559	raised alkaline phosphatase	0.031315214931964874
+trial_2	spectinomycin	69	KG00100082	Palpitations NOS	0.031008455902338028
+trial_2	spectinomycin	131	KG00100948	Urinary tract infection (& [NOS])	0.03063327446579933
+trial_2	spectinomycin	142	KG00100923	Unspecified infectious and parasitic diseases	0.03059995174407959
+trial_2	spectinomycin	396	KG00100373	Embolism, Pulmonary	0.030479805544018745
+trial_2	spectinomycin	288	KG00101223	hypophosphataemia	0.02993890829384327
+trial_2	spectinomycin	355	KG00110857	lymphocyte count decreased	0.02953462302684784
+trial_2	spectinomycin	191	KG00104055	Biliverdin increased	0.02946067415177822
+trial_2	spectinomycin	18	KG00098307	Pain, Chest	0.028470158576965332
+trial_2	spectinomycin	130	KG00100683	Stomatitis NOS	0.028434984385967255
+trial_2	spectinomycin	144	KG00099610	Leukopenia NOS	0.02842716872692108
+trial_2	spectinomycin	132	KG00101045	Gain, Weight	0.027832912281155586
+trial_2	spectinomycin	116	KG00098964	Pain in foot	0.02781549282371998
+trial_2	spectinomycin	139	KG00098855	Sinusitis, Ethmoid	0.02770615741610527
+trial_2	spectinomycin	262	KG00101199	agitation	0.02723163738846779
+trial_2	spectinomycin	164	KG00108827	ileus colon	0.026318613439798355
+trial_2	spectinomycin	1	KG00099959	Neutropenia NOS	0.026079488918185234
+trial_2	spectinomycin	38	KG00098066	Binocular vision disorders	0.02602740377187729
+trial_2	spectinomycin	82	KG00097697	abdomen distended	0.025970296934247017
+trial_2	spectinomycin	154	KG00099686	Lymphopenias	0.024973919615149498
+trial_2	spectinomycin	31	KG00099872	Infarction, Myocardial	0.02488052472472191
+trial_2	spectinomycin	92	KG00100926	Infections, Upper Respiratory	0.024707596749067307
+trial_2	spectinomycin	75	KG00100195	Dolens, Phlegmasia Alba	0.02401517704129219
+trial_2	spectinomycin	212	KG00100576	shivers	0.023990780115127563
+trial_2	spectinomycin	234	KG00098669	dysgeusias	0.023895123973488808
+trial_2	spectinomycin	186	KG00101431	creatinine increased	0.023719333112239838
+trial_2	spectinomycin	211	KG00100341	Pruritus NOS	0.022825704887509346
+trial_2	spectinomycin	286	KG00101110	Retention, Urinary	0.022693520411849022
+trial_2	spectinomycin	361	KG00098004	Fibrillation, Atrial	0.022548330947756767
+trial_2	spectinomycin	133	KG00101370	neuropathies sensory	0.022506771609187126
+trial_2	spectinomycin	221	KG00101207	peripheral oedema	0.021949375048279762
+trial_2	spectinomycin	339	KG00100334	proteinurias	0.021907659247517586
+trial_2	spectinomycin	36	KG00106434	Vision, Blurring Of	0.021693861111998558
+trial_2	spectinomycin	100	KG00097815	alopecias	0.021614057943224907
+trial_2	spectinomycin	256	KG00100738	Tachycardia, Sinus	0.020589791238307953
+trial_2	spectinomycin	441	KG00098262	cellulitis nos	0.02047611027956009
+trial_2	spectinomycin	199	KG00098371	Rhinitis (chronic) NOS	0.019930535927414894
+trial_2	spectinomycin	4	KG00098817	epistaxis	0.019734341651201248
+trial_2	spectinomycin	466	KG00101205	fall	0.019700774922966957
+trial_2	spectinomycin	136	KG00101582	Dry;skin	0.019527001306414604
+trial_2	spectinomycin	356	KG00112623	Infectious Lung Disorders	0.01947150006890297
+trial_2	spectinomycin	166	KG00099773	menopausal syndrome	0.01928853429853916
+trial_2	spectinomycin	22	KG00098705	Edema (NOS)	0.019228484481573105
+trial_2	spectinomycin	183	KG00100449	Adult Respiratory Distress Syndrome	0.01878184638917446

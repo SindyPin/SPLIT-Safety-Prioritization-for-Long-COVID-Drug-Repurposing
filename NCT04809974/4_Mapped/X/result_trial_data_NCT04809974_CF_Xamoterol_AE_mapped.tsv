@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.22930334508419037
+trial_1	placebo	87	KG00098599	diarrhoea	0.21922184526920319
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1368250697851181
+trial_1	placebo	46	KG00099121	Headache NOS	0.12151280045509338
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11741739511489868
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11435306817293167
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11103889346122742
+trial_1	placebo	68	KG00099901	nauseas	0.10880005359649658
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.1052599847316742
+trial_1	placebo	20	KG00098540	dehydration	0.10124661028385162
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09263662248849869
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09162402153015137
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08732495456933975
+trial_1	placebo	21	KG00098675	dyspnoea	0.0871448963880539
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08508022874593735
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08272816240787506
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08214480429887772
+trial_1	placebo	228	KG00114657	Weight below normal	0.08175532519817352
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07647950947284698
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07028870284557343
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06805308908224106
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06772312521934509
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06734340637922287
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0671219602227211
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06263601034879684
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06229440122842789
+trial_1	placebo	104	KG00097963	arthralgias	0.059811897575855255
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05702468752861023
+trial_1	placebo	126	KG00100076	Pain NOS	0.056860703974962234
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05611654371023178
+trial_1	placebo	85	KG00098474	coughs	0.055906448513269424
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05513918772339821
+trial_1	placebo	114	KG00098933	fevers	0.05509401857852936
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0544840432703495
+trial_1	placebo	5	KG00099169	haematuria	0.0528341606259346
+trial_1	placebo	239	KG00100128	pareses	0.05207943171262741
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05094683915376663
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.050267092883586884
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.048764418810606
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.047480951994657516
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04537992179393768
+trial_1	placebo	72	KG00103771	myalgias	0.04533164203166962
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04300154373049736
+trial_1	placebo	102	KG00097916	anxieties	0.0429915115237236
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04141053184866905
+trial_1	placebo	147	KG00098000	atelectases	0.0412132665514946
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04026925191283226
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04023946076631546
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.039336107671260834
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03905531391501427
+trial_1	placebo	82	KG00097697	abdomen distended	0.03897951915860176
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03755117952823639
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.037182942032814026
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.036858994513750076
+trial_1	placebo	234	KG00098669	dysgeusias	0.03685655817389488
+trial_1	placebo	262	KG00101199	agitation	0.036548513919115067
+trial_1	placebo	339	KG00100334	proteinurias	0.03650873154401779
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03641696274280548
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.0359685942530632
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.035894785076379776
+trial_1	placebo	164	KG00108827	ileus colon	0.03583841770887375
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03528730943799019
+trial_1	placebo	121	KG00099190	haemorrhage	0.03521750867366791
+trial_1	placebo	116	KG00098964	Pain in foot	0.03500201925635338
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03444378823041916
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.033728960901498795
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03288485109806061
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.032785315066576004
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03237688168883324
+trial_1	placebo	132	KG00101045	Gain, Weight	0.032182060182094574
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03134102374315262
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03109702467918396
+trial_1	placebo	466	KG00101205	fall	0.03096958063542843
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.030520955100655556
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.030453771352767944
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030274201184511185
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029768720269203186
+trial_1	placebo	186	KG00101431	creatinine increased	0.02902112528681755
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028268389403820038
+trial_1	placebo	269	KG00100399	pyaemia	0.028255708515644073
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02822917513549328
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027965886518359184
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02722080796957016
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02718401327729225
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.026908868923783302
+trial_1	placebo	382	KG00099200	haemorrhoids	0.026708725839853287
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026703322306275368
+trial_1	placebo	4	KG00098817	epistaxis	0.026073729619383812
+trial_1	placebo	212	KG00100576	shivers	0.026043927296996117
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025925789028406143
+trial_1	placebo	153	KG00099579	lethargy	0.02591531351208687
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02587260492146015
+trial_1	placebo	508	KG00108565	blood glucose increased	0.025776762515306473
+trial_1	placebo	136	KG00101582	Dry;skin	0.025708379223942757
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.025348907336592674
+trial_1	placebo	100	KG00097815	alopecias	0.025260504335165024
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02495432458817959
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02490786276757717
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02485954761505127
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.024823293089866638
+trial_2	xamoterol	78	KG00099326	Hypertensive diseases	0.22930334508419037
+trial_2	xamoterol	87	KG00098599	diarrhoea	0.21922184526920319
+trial_2	xamoterol	17	KG00097991	Asthenia NOS	0.1368250697851181
+trial_2	xamoterol	46	KG00099121	Headache NOS	0.12151280045509338
+trial_2	xamoterol	177	KG00099299	hyperglycaemia	0.11741739511489868
+trial_2	xamoterol	123	KG00099351	hypokalaemia	0.11435306817293167
+trial_2	xamoterol	9	KG00098432	Confusion NOS	0.11103889346122742
+trial_2	xamoterol	68	KG00099901	nauseas	0.10880005359649658
+trial_2	xamoterol	79	KG00100317	Insomnia, Primary	0.1052599847316742
+trial_2	xamoterol	20	KG00098540	dehydration	0.10124661028385162
+trial_2	xamoterol	77	KG00098450	Constipation NOS	0.09263662248849869
+trial_2	xamoterol	173	KG00098172	Bronchopneumonia NOS	0.09162402153015137
+trial_2	xamoterol	49	KG00099902	nausea with vomiting	0.08732495456933975
+trial_2	xamoterol	21	KG00098675	dyspnoea	0.0871448963880539
+trial_2	xamoterol	67	KG00098673	Dyspepsia, NOS	0.08508022874593735
+trial_2	xamoterol	37	KG00097696	Cramps, Abdominal	0.08272816240787506
+trial_2	xamoterol	200	KG00098539	Disorders, Deglutition	0.08214480429887772
+trial_2	xamoterol	228	KG00114657	Weight below normal	0.08175532519817352
+trial_2	xamoterol	189	KG00101580	Alanine aminotransferase increase	0.07647950947284698
+trial_2	xamoterol	350	KG00106765	decreased platelet count	0.07028870284557343
+trial_2	xamoterol	101	KG00097901	Anorexia NOS	0.06805308908224106
+trial_2	xamoterol	243	KG00100947	Micturition frequency increased	0.06772312521934509
+trial_2	xamoterol	64	KG00097734	Acrodermatitis, NOS	0.06734340637922287
+trial_2	xamoterol	188	KG00101579	Aspartate aminotransferase increase	0.0671219602227211
+trial_2	xamoterol	14	KG00097852	Anemia NOS	0.06263601034879684
+trial_2	xamoterol	29	KG00099354	hyponatraemia	0.06229440122842789
+trial_2	xamoterol	104	KG00097963	arthralgias	0.059811897575855255
+trial_2	xamoterol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05702468752861023
+trial_2	xamoterol	126	KG00100076	Pain NOS	0.056860703974962234
+trial_2	xamoterol	2	KG00100772	thrombocytopaenia	0.05611654371023178
+trial_2	xamoterol	85	KG00098474	coughs	0.055906448513269424
+trial_2	xamoterol	86	KG00098565	Depression, Mental	0.05513918772339821
+trial_2	xamoterol	114	KG00098933	fevers	0.05509401857852936
+trial_2	xamoterol	180	KG00099363	Hypotension NOS	0.0544840432703495
+trial_2	xamoterol	5	KG00099169	haematuria	0.0528341606259346
+trial_2	xamoterol	239	KG00100128	pareses	0.05207943171262741
+trial_2	xamoterol	179	KG00099342	hypocalcaemia	0.05094683915376663
+trial_2	xamoterol	76	KG00100450	Respiratory insufficiency, NOS	0.050267092883586884
+trial_2	xamoterol	28	KG00099347	hypoglycaemia	0.048764418810606
+trial_2	xamoterol	27	KG00099303	hyperkalaemia	0.047480951994657516
+trial_2	xamoterol	61	KG00099501	Chronic Kidney Failure	0.04537992179393768
+trial_2	xamoterol	72	KG00103771	myalgias	0.04533164203166962
+trial_2	xamoterol	122	KG00099321	Hypersensitivity NOS	0.04300154373049736
+trial_2	xamoterol	102	KG00097916	anxieties	0.0429915115237236
+trial_2	xamoterol	151	KG00098274	Infarction, Cerebral	0.04141053184866905
+trial_2	xamoterol	147	KG00098000	atelectases	0.0412132665514946
+trial_2	xamoterol	355	KG00110857	lymphocyte count decreased	0.04026925191283226
+trial_2	xamoterol	139	KG00098855	Sinusitis, Ethmoid	0.04023946076631546
+trial_2	xamoterol	194	KG00110727	Neutrophil Count Decreased	0.039336107671260834
+trial_2	xamoterol	69	KG00100082	Palpitations NOS	0.03905531391501427
+trial_2	xamoterol	82	KG00097697	abdomen distended	0.03897951915860176
+trial_2	xamoterol	18	KG00098307	Pain, Chest	0.03755117952823639
+trial_2	xamoterol	96	KG00101679	Unattended death NOS	0.037182942032814026
+trial_2	xamoterol	30	KG00099500	Acute Kidney Failure	0.036858994513750076
+trial_2	xamoterol	234	KG00098669	dysgeusias	0.03685655817389488
+trial_2	xamoterol	262	KG00101199	agitation	0.036548513919115067
+trial_2	xamoterol	339	KG00100334	proteinurias	0.03650873154401779
+trial_2	xamoterol	131	KG00100948	Urinary tract infection (& [NOS])	0.03641696274280548
+trial_2	xamoterol	35	KG00101507	hypomagnesaemia	0.0359685942530632
+trial_2	xamoterol	276	KG00099127	Arrest, Cardiac	0.035894785076379776
+trial_2	xamoterol	164	KG00108827	ileus colon	0.03583841770887375
+trial_2	xamoterol	261	KG00101559	raised alkaline phosphatase	0.03528730943799019
+trial_2	xamoterol	121	KG00099190	haemorrhage	0.03521750867366791
+trial_2	xamoterol	116	KG00098964	Pain in foot	0.03500201925635338
+trial_2	xamoterol	282	KG00099309	hypernatraemia	0.03444378823041916
+trial_2	xamoterol	249	KG00104430	hypoalbuminaemia	0.033728960901498795
+trial_2	xamoterol	191	KG00104055	Biliverdin increased	0.03288485109806061
+trial_2	xamoterol	288	KG00101223	hypophosphataemia	0.032785315066576004
+trial_2	xamoterol	38	KG00098066	Binocular vision disorders	0.03237688168883324
+trial_2	xamoterol	132	KG00101045	Gain, Weight	0.032182060182094574
+trial_2	xamoterol	92	KG00100926	Infections, Upper Respiratory	0.03134102374315262
+trial_2	xamoterol	130	KG00100683	Stomatitis NOS	0.03109702467918396
+trial_2	xamoterol	466	KG00101205	fall	0.03096958063542843
+trial_2	xamoterol	144	KG00099610	Leukopenia NOS	0.030520955100655556
+trial_2	xamoterol	166	KG00099773	menopausal syndrome	0.030453771352767944
+trial_2	xamoterol	396	KG00100373	Embolism, Pulmonary	0.030274201184511185
+trial_2	xamoterol	204	KG00098849	Esophagitis, Peptic	0.029768720269203186
+trial_2	xamoterol	186	KG00101431	creatinine increased	0.02902112528681755
+trial_2	xamoterol	253	KG00100232	Pleural effusion NOS (disorder)	0.028268389403820038
+trial_2	xamoterol	269	KG00100399	pyaemia	0.028255708515644073
+trial_2	xamoterol	142	KG00100923	Unspecified infectious and parasitic diseases	0.02822917513549328
+trial_2	xamoterol	286	KG00101110	Retention, Urinary	0.027965886518359184
+trial_2	xamoterol	154	KG00099686	Lymphopenias	0.02722080796957016
+trial_2	xamoterol	256	KG00100738	Tachycardia, Sinus	0.02718401327729225
+trial_2	xamoterol	297	KG00099294	hypercholesterolaemia	0.026908868923783302
+trial_2	xamoterol	382	KG00099200	haemorrhoids	0.026708725839853287
+trial_2	xamoterol	211	KG00100341	Pruritus NOS	0.026703322306275368
+trial_2	xamoterol	4	KG00098817	epistaxis	0.026073729619383812
+trial_2	xamoterol	212	KG00100576	shivers	0.026043927296996117
+trial_2	xamoterol	31	KG00099872	Infarction, Myocardial	0.025925789028406143
+trial_2	xamoterol	153	KG00099579	lethargy	0.02591531351208687
+trial_2	xamoterol	454	KG00098286	Pain, Neck	0.02587260492146015
+trial_2	xamoterol	508	KG00108565	blood glucose increased	0.025776762515306473
+trial_2	xamoterol	136	KG00101582	Dry;skin	0.025708379223942757
+trial_2	xamoterol	75	KG00100195	Dolens, Phlegmasia Alba	0.025348907336592674
+trial_2	xamoterol	100	KG00097815	alopecias	0.025260504335165024
+trial_2	xamoterol	199	KG00098371	Rhinitis (chronic) NOS	0.02495432458817959
+trial_2	xamoterol	441	KG00098262	cellulitis nos	0.02490786276757717
+trial_2	xamoterol	422	KG00101429	Creatine phosphokinase increased	0.02485954761505127
+trial_2	xamoterol	371	KG00098517	Cystitis (NOS)	0.024823293089866638

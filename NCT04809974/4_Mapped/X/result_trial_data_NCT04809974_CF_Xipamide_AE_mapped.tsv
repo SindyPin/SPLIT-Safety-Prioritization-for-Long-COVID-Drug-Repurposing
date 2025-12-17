@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1907029002904892
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16786248981952667
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12736862897872925
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11879654228687286
+trial_1	placebo	46	KG00099121	Headache NOS	0.10817199945449829
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10319866240024567
+trial_1	placebo	68	KG00099901	nauseas	0.10287971794605255
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10152646899223328
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10087628662586212
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09944482147693634
+trial_1	placebo	20	KG00098540	dehydration	0.09696124494075775
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09377839416265488
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09157603234052658
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09139709174633026
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.090415358543396
+trial_1	placebo	21	KG00098675	dyspnoea	0.08585282415151596
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0844038650393486
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07914121448993683
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07600495964288712
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07389290630817413
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07186856865882874
+trial_1	placebo	228	KG00114657	Weight below normal	0.07016856223344803
+trial_1	placebo	114	KG00098933	fevers	0.06759484857320786
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06605079025030136
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06515606492757797
+trial_1	placebo	29	KG00099354	hyponatraemia	0.059935055673122406
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.057514894753694534
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05585518106818199
+trial_1	placebo	72	KG00103771	myalgias	0.055505115538835526
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05368831008672714
+trial_1	placebo	5	KG00099169	haematuria	0.051021892577409744
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05082960054278374
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05070679634809494
+trial_1	placebo	104	KG00097963	arthralgias	0.05055554583668709
+trial_1	placebo	126	KG00100076	Pain NOS	0.04983821511268616
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04805735871195793
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04786388576030731
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04778146371245384
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.047419097274541855
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04698467627167702
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04546971246600151
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.045436739921569824
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04438810795545578
+trial_1	placebo	239	KG00100128	pareses	0.04428735747933388
+trial_1	placebo	86	KG00098565	Depression, Mental	0.044287268072366714
+trial_1	placebo	85	KG00098474	coughs	0.04376409947872162
+trial_1	placebo	147	KG00098000	atelectases	0.04344033822417259
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.043104033917188644
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.042009737342596054
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04014355689287186
+trial_1	placebo	269	KG00100399	pyaemia	0.03977150470018387
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03945710510015488
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03934769332408905
+trial_1	placebo	82	KG00097697	abdomen distended	0.039142705500125885
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03873876854777336
+trial_1	placebo	234	KG00098669	dysgeusias	0.038654472678899765
+trial_1	placebo	164	KG00108827	ileus colon	0.038534361869096756
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.038370952010154724
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03812714293599129
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.038111232221126556
+trial_1	placebo	102	KG00097916	anxieties	0.037820689380168915
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03686558082699776
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03620188310742378
+trial_1	placebo	116	KG00098964	Pain in foot	0.03599957004189491
+trial_1	placebo	282	KG00099309	hypernatraemia	0.035918258130550385
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0357775017619133
+trial_1	placebo	100	KG00097815	alopecias	0.03449106961488724
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.034464526921510696
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.033446215093135834
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03306753933429718
+trial_1	placebo	154	KG00099686	Lymphopenias	0.032401517033576965
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03209677338600159
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03184303268790245
+trial_1	placebo	262	KG00101199	agitation	0.031826913356781006
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03168113902211189
+trial_1	placebo	466	KG00101205	fall	0.03131479397416115
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03112228401005268
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.030251502990722656
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.029756540432572365
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02926420047879219
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.029101701453328133
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.028950244188308716
+trial_1	placebo	186	KG00101431	creatinine increased	0.028903648257255554
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.028737148270010948
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02833019569516182
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02767750807106495
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02756245993077755
+trial_1	placebo	508	KG00108565	blood glucose increased	0.026707211509346962
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02541901357471943
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.025382928550243378
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025265101343393326
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.0249519981443882
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02442956529557705
+trial_1	placebo	153	KG00099579	lethargy	0.02435128018260002
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.024125145748257637
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02355438657104969
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.023355228826403618
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.023009516298770905
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.022969389334321022
+trial_1	placebo	212	KG00100576	shivers	0.02294534631073475
+trial_2	xipamide	87	KG00098599	diarrhoea	0.1907029002904892
+trial_2	xipamide	78	KG00099326	Hypertensive diseases	0.16786248981952667
+trial_2	xipamide	123	KG00099351	hypokalaemia	0.12736862897872925
+trial_2	xipamide	177	KG00099299	hyperglycaemia	0.11879654228687286
+trial_2	xipamide	46	KG00099121	Headache NOS	0.10817199945449829
+trial_2	xipamide	173	KG00098172	Bronchopneumonia NOS	0.10319866240024567
+trial_2	xipamide	68	KG00099901	nauseas	0.10287971794605255
+trial_2	xipamide	17	KG00097991	Asthenia NOS	0.10152646899223328
+trial_2	xipamide	189	KG00101580	Alanine aminotransferase increase	0.10087628662586212
+trial_2	xipamide	49	KG00099902	nausea with vomiting	0.09944482147693634
+trial_2	xipamide	20	KG00098540	dehydration	0.09696124494075775
+trial_2	xipamide	37	KG00097696	Cramps, Abdominal	0.09377839416265488
+trial_2	xipamide	9	KG00098432	Confusion NOS	0.09157603234052658
+trial_2	xipamide	14	KG00097852	Anemia NOS	0.09139709174633026
+trial_2	xipamide	188	KG00101579	Aspartate aminotransferase increase	0.090415358543396
+trial_2	xipamide	21	KG00098675	dyspnoea	0.08585282415151596
+trial_2	xipamide	67	KG00098673	Dyspepsia, NOS	0.0844038650393486
+trial_2	xipamide	2	KG00100772	thrombocytopaenia	0.07914121448993683
+trial_2	xipamide	79	KG00100317	Insomnia, Primary	0.07600495964288712
+trial_2	xipamide	350	KG00106765	decreased platelet count	0.07389290630817413
+trial_2	xipamide	200	KG00098539	Disorders, Deglutition	0.07186856865882874
+trial_2	xipamide	228	KG00114657	Weight below normal	0.07016856223344803
+trial_2	xipamide	114	KG00098933	fevers	0.06759484857320786
+trial_2	xipamide	77	KG00098450	Constipation NOS	0.06605079025030136
+trial_2	xipamide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06515606492757797
+trial_2	xipamide	29	KG00099354	hyponatraemia	0.059935055673122406
+trial_2	xipamide	64	KG00097734	Acrodermatitis, NOS	0.057514894753694534
+trial_2	xipamide	101	KG00097901	Anorexia NOS	0.05585518106818199
+trial_2	xipamide	72	KG00103771	myalgias	0.055505115538835526
+trial_2	xipamide	180	KG00099363	Hypotension NOS	0.05368831008672714
+trial_2	xipamide	5	KG00099169	haematuria	0.051021892577409744
+trial_2	xipamide	76	KG00100450	Respiratory insufficiency, NOS	0.05082960054278374
+trial_2	xipamide	194	KG00110727	Neutrophil Count Decreased	0.05070679634809494
+trial_2	xipamide	104	KG00097963	arthralgias	0.05055554583668709
+trial_2	xipamide	126	KG00100076	Pain NOS	0.04983821511268616
+trial_2	xipamide	27	KG00099303	hyperkalaemia	0.04805735871195793
+trial_2	xipamide	179	KG00099342	hypocalcaemia	0.04786388576030731
+trial_2	xipamide	61	KG00099501	Chronic Kidney Failure	0.04778146371245384
+trial_2	xipamide	151	KG00098274	Infarction, Cerebral	0.047419097274541855
+trial_2	xipamide	144	KG00099610	Leukopenia NOS	0.04698467627167702
+trial_2	xipamide	243	KG00100947	Micturition frequency increased	0.04546971246600151
+trial_2	xipamide	28	KG00099347	hypoglycaemia	0.045436739921569824
+trial_2	xipamide	1	KG00099959	Neutropenia NOS	0.04438810795545578
+trial_2	xipamide	239	KG00100128	pareses	0.04428735747933388
+trial_2	xipamide	86	KG00098565	Depression, Mental	0.044287268072366714
+trial_2	xipamide	85	KG00098474	coughs	0.04376409947872162
+trial_2	xipamide	147	KG00098000	atelectases	0.04344033822417259
+trial_2	xipamide	276	KG00099127	Arrest, Cardiac	0.043104033917188644
+trial_2	xipamide	30	KG00099500	Acute Kidney Failure	0.042009737342596054
+trial_2	xipamide	38	KG00098066	Binocular vision disorders	0.04014355689287186
+trial_2	xipamide	269	KG00100399	pyaemia	0.03977150470018387
+trial_2	xipamide	122	KG00099321	Hypersensitivity NOS	0.03945710510015488
+trial_2	xipamide	139	KG00098855	Sinusitis, Ethmoid	0.03934769332408905
+trial_2	xipamide	82	KG00097697	abdomen distended	0.039142705500125885
+trial_2	xipamide	96	KG00101679	Unattended death NOS	0.03873876854777336
+trial_2	xipamide	234	KG00098669	dysgeusias	0.038654472678899765
+trial_2	xipamide	164	KG00108827	ileus colon	0.038534361869096756
+trial_2	xipamide	131	KG00100948	Urinary tract infection (& [NOS])	0.038370952010154724
+trial_2	xipamide	261	KG00101559	raised alkaline phosphatase	0.03812714293599129
+trial_2	xipamide	396	KG00100373	Embolism, Pulmonary	0.038111232221126556
+trial_2	xipamide	102	KG00097916	anxieties	0.037820689380168915
+trial_2	xipamide	355	KG00110857	lymphocyte count decreased	0.03686558082699776
+trial_2	xipamide	142	KG00100923	Unspecified infectious and parasitic diseases	0.03620188310742378
+trial_2	xipamide	116	KG00098964	Pain in foot	0.03599957004189491
+trial_2	xipamide	282	KG00099309	hypernatraemia	0.035918258130550385
+trial_2	xipamide	18	KG00098307	Pain, Chest	0.0357775017619133
+trial_2	xipamide	100	KG00097815	alopecias	0.03449106961488724
+trial_2	xipamide	341	KG00101472	Gamma-glutamyltransferase increased	0.034464526921510696
+trial_2	xipamide	191	KG00104055	Biliverdin increased	0.033446215093135834
+trial_2	xipamide	69	KG00100082	Palpitations NOS	0.03306753933429718
+trial_2	xipamide	154	KG00099686	Lymphopenias	0.032401517033576965
+trial_2	xipamide	441	KG00098262	cellulitis nos	0.03209677338600159
+trial_2	xipamide	253	KG00100232	Pleural effusion NOS (disorder)	0.03184303268790245
+trial_2	xipamide	262	KG00101199	agitation	0.031826913356781006
+trial_2	xipamide	75	KG00100195	Dolens, Phlegmasia Alba	0.03168113902211189
+trial_2	xipamide	466	KG00101205	fall	0.03131479397416115
+trial_2	xipamide	35	KG00101507	hypomagnesaemia	0.03112228401005268
+trial_2	xipamide	249	KG00104430	hypoalbuminaemia	0.030251502990722656
+trial_2	xipamide	97	KG00104198	LIVER ENZYME ELEVATED	0.029756540432572365
+trial_2	xipamide	204	KG00098849	Esophagitis, Peptic	0.02926420047879219
+trial_2	xipamide	92	KG00100926	Infections, Upper Respiratory	0.029101701453328133
+trial_2	xipamide	33	KG00100094	Pancreatitis NOS	0.028950244188308716
+trial_2	xipamide	186	KG00101431	creatinine increased	0.028903648257255554
+trial_2	xipamide	130	KG00100683	Stomatitis NOS	0.028737148270010948
+trial_2	xipamide	361	KG00098004	Fibrillation, Atrial	0.02833019569516182
+trial_2	xipamide	288	KG00101223	hypophosphataemia	0.02767750807106495
+trial_2	xipamide	31	KG00099872	Infarction, Myocardial	0.02756245993077755
+trial_2	xipamide	508	KG00108565	blood glucose increased	0.026707211509346962
+trial_2	xipamide	132	KG00101045	Gain, Weight	0.02541901357471943
+trial_2	xipamide	422	KG00101429	Creatine phosphokinase increased	0.025382928550243378
+trial_2	xipamide	286	KG00101110	Retention, Urinary	0.025265101343393326
+trial_2	xipamide	268	KG00099557	Heart Failure, Left-Sided	0.0249519981443882
+trial_2	xipamide	36	KG00106434	Vision, Blurring Of	0.02442956529557705
+trial_2	xipamide	153	KG00099579	lethargy	0.02435128018260002
+trial_2	xipamide	494	KG00099838	Organ Failure, Multiple	0.024125145748257637
+trial_2	xipamide	256	KG00100738	Tachycardia, Sinus	0.02355438657104969
+trial_2	xipamide	394	KG00100243	Pneumonia, Aspiration	0.023355228826403618
+trial_2	xipamide	15	KG00097882	Angina pectoris NOS	0.023009516298770905
+trial_2	xipamide	163	KG00104050	bowel obstructions small	0.022969389334321022
+trial_2	xipamide	212	KG00100576	shivers	0.02294534631073475

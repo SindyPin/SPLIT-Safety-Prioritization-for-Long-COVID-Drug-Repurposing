@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19731247425079346
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16570091247558594
+trial_1	placebo	123	KG00099351	hypokalaemia	0.13330654799938202
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1318448781967163
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.13181687891483307
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12867429852485657
+trial_1	placebo	20	KG00098540	dehydration	0.12363078445196152
+trial_1	placebo	68	KG00099901	nauseas	0.12146211415529251
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1186695247888565
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11827900260686874
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11368714272975922
+trial_1	placebo	21	KG00098675	dyspnoea	0.11335256695747375
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10843854397535324
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10481517016887665
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.10076291859149933
+trial_1	placebo	46	KG00099121	Headache NOS	0.10019238293170929
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10007793456315994
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09871097654104233
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.09661456942558289
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09424784034490585
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08833461254835129
+trial_1	placebo	239	KG00100128	pareses	0.08269760012626648
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08168967068195343
+trial_1	placebo	228	KG00114657	Weight below normal	0.07845478504896164
+trial_1	placebo	126	KG00100076	Pain NOS	0.07647189497947693
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.07626739144325256
+trial_1	placebo	5	KG00099169	haematuria	0.07590370625257492
+trial_1	placebo	104	KG00097963	arthralgias	0.074834443628788
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07380209863185883
+trial_1	placebo	116	KG00098964	Pain in foot	0.07268727570772171
+trial_1	placebo	114	KG00098933	fevers	0.07252687215805054
+trial_1	placebo	72	KG00103771	myalgias	0.0703449547290802
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.06891381740570068
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06803563237190247
+trial_1	placebo	85	KG00098474	coughs	0.06711382418870926
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.06685779243707657
+trial_1	placebo	147	KG00098000	atelectases	0.06562598794698715
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.06560779362916946
+trial_1	placebo	102	KG00097916	anxieties	0.06342940032482147
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.06336583197116852
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06259407848119736
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.060781948268413544
+trial_1	placebo	350	KG00106765	decreased platelet count	0.059875909239053726
+trial_1	placebo	86	KG00098565	Depression, Mental	0.058047205209732056
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05785377696156502
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05663899704813957
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0547550693154335
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.05393335223197937
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.053537897765636444
+trial_1	placebo	18	KG00098307	Pain, Chest	0.053439654409885406
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.05299017205834389
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.052243299782276154
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.050940800458192825
+trial_1	placebo	282	KG00099309	hypernatraemia	0.050835948437452316
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.050315286964178085
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04993953928351402
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04943304508924484
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0484112948179245
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.048281777650117874
+trial_1	placebo	466	KG00101205	fall	0.04813485965132713
+trial_1	placebo	454	KG00098286	Pain, Neck	0.04756820946931839
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04746541753411293
+trial_1	placebo	212	KG00100576	shivers	0.04734911024570465
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04644598811864853
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04595309868454933
+trial_1	placebo	508	KG00108565	blood glucose increased	0.04455772414803505
+trial_1	placebo	82	KG00097697	abdomen distended	0.044126126915216446
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.041918594390153885
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.04148883372545242
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.040725402534008026
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04059465602040291
+trial_1	placebo	84	KG00098393	Headache, Cluster	0.03975522145628929
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03972811624407768
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03968243673443794
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.03904447332024574
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03900626674294472
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03898676857352257
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03883123770356178
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.038693588227033615
+trial_1	placebo	164	KG00108827	ileus colon	0.03859269246459007
+trial_1	placebo	456	KG00099420	Influenzae	0.03829200565814972
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03820390626788139
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03705952689051628
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.0368010438978672
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03661881759762764
+trial_1	placebo	153	KG00099579	lethargy	0.03600640222430229
+trial_1	placebo	269	KG00100399	pyaemia	0.03584142401814461
+trial_1	placebo	262	KG00101199	agitation	0.035548679530620575
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03382815048098564
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.03323160856962204
+trial_1	placebo	221	KG00101207	peripheral oedema	0.033091653138399124
+trial_1	placebo	535	KG00098309	chest pains wall	0.03306308016180992
+trial_1	placebo	11	KG00097993	Asthma NOS	0.032820574939250946
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.03255751356482506
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.032398536801338196
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.032321229577064514
+trial_1	placebo	382	KG00099200	haemorrhoids	0.03178340196609497
+trial_1	placebo	71	KG00100958	urticarias	0.03159930184483528
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.031424492597579956
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.03100154735147953
+trial_2	migalastat	87	KG00098599	diarrhoea	0.19731247425079346
+trial_2	migalastat	78	KG00099326	Hypertensive diseases	0.16570091247558594
+trial_2	migalastat	123	KG00099351	hypokalaemia	0.13330654799938202
+trial_2	migalastat	177	KG00099299	hyperglycaemia	0.1318448781967163
+trial_2	migalastat	173	KG00098172	Bronchopneumonia NOS	0.13181687891483307
+trial_2	migalastat	77	KG00098450	Constipation NOS	0.12867429852485657
+trial_2	migalastat	20	KG00098540	dehydration	0.12363078445196152
+trial_2	migalastat	68	KG00099901	nauseas	0.12146211415529251
+trial_2	migalastat	17	KG00097991	Asthenia NOS	0.1186695247888565
+trial_2	migalastat	9	KG00098432	Confusion NOS	0.11827900260686874
+trial_2	migalastat	37	KG00097696	Cramps, Abdominal	0.11368714272975922
+trial_2	migalastat	21	KG00098675	dyspnoea	0.11335256695747375
+trial_2	migalastat	188	KG00101579	Aspartate aminotransferase increase	0.10843854397535324
+trial_2	migalastat	189	KG00101580	Alanine aminotransferase increase	0.10481517016887665
+trial_2	migalastat	243	KG00100947	Micturition frequency increased	0.10076291859149933
+trial_2	migalastat	46	KG00099121	Headache NOS	0.10019238293170929
+trial_2	migalastat	49	KG00099902	nausea with vomiting	0.10007793456315994
+trial_2	migalastat	64	KG00097734	Acrodermatitis, NOS	0.09871097654104233
+trial_2	migalastat	200	KG00098539	Disorders, Deglutition	0.09661456942558289
+trial_2	migalastat	67	KG00098673	Dyspepsia, NOS	0.09424784034490585
+trial_2	migalastat	79	KG00100317	Insomnia, Primary	0.08833461254835129
+trial_2	migalastat	239	KG00100128	pareses	0.08269760012626648
+trial_2	migalastat	14	KG00097852	Anemia NOS	0.08168967068195343
+trial_2	migalastat	228	KG00114657	Weight below normal	0.07845478504896164
+trial_2	migalastat	126	KG00100076	Pain NOS	0.07647189497947693
+trial_2	migalastat	139	KG00098855	Sinusitis, Ethmoid	0.07626739144325256
+trial_2	migalastat	5	KG00099169	haematuria	0.07590370625257492
+trial_2	migalastat	104	KG00097963	arthralgias	0.074834443628788
+trial_2	migalastat	101	KG00097901	Anorexia NOS	0.07380209863185883
+trial_2	migalastat	116	KG00098964	Pain in foot	0.07268727570772171
+trial_2	migalastat	114	KG00098933	fevers	0.07252687215805054
+trial_2	migalastat	72	KG00103771	myalgias	0.0703449547290802
+trial_2	migalastat	122	KG00099321	Hypersensitivity NOS	0.06891381740570068
+trial_2	migalastat	76	KG00100450	Respiratory insufficiency, NOS	0.06803563237190247
+trial_2	migalastat	85	KG00098474	coughs	0.06711382418870926
+trial_2	migalastat	69	KG00100082	Palpitations NOS	0.06685779243707657
+trial_2	migalastat	147	KG00098000	atelectases	0.06562598794698715
+trial_2	migalastat	131	KG00100948	Urinary tract infection (& [NOS])	0.06560779362916946
+trial_2	migalastat	102	KG00097916	anxieties	0.06342940032482147
+trial_2	migalastat	38	KG00098066	Binocular vision disorders	0.06336583197116852
+trial_2	migalastat	28	KG00099347	hypoglycaemia	0.06259407848119736
+trial_2	migalastat	179	KG00099342	hypocalcaemia	0.060781948268413544
+trial_2	migalastat	350	KG00106765	decreased platelet count	0.059875909239053726
+trial_2	migalastat	86	KG00098565	Depression, Mental	0.058047205209732056
+trial_2	migalastat	180	KG00099363	Hypotension NOS	0.05785377696156502
+trial_2	migalastat	29	KG00099354	hyponatraemia	0.05663899704813957
+trial_2	migalastat	441	KG00098262	cellulitis nos	0.0547550693154335
+trial_2	migalastat	355	KG00110857	lymphocyte count decreased	0.05393335223197937
+trial_2	migalastat	27	KG00099303	hyperkalaemia	0.053537897765636444
+trial_2	migalastat	18	KG00098307	Pain, Chest	0.053439654409885406
+trial_2	migalastat	97	KG00104198	LIVER ENZYME ELEVATED	0.05299017205834389
+trial_2	migalastat	396	KG00100373	Embolism, Pulmonary	0.052243299782276154
+trial_2	migalastat	2	KG00100772	thrombocytopaenia	0.050940800458192825
+trial_2	migalastat	282	KG00099309	hypernatraemia	0.050835948437452316
+trial_2	migalastat	204	KG00098849	Esophagitis, Peptic	0.050315286964178085
+trial_2	migalastat	151	KG00098274	Infarction, Cerebral	0.04993953928351402
+trial_2	migalastat	30	KG00099500	Acute Kidney Failure	0.04943304508924484
+trial_2	migalastat	36	KG00106434	Vision, Blurring Of	0.0484112948179245
+trial_2	migalastat	92	KG00100926	Infections, Upper Respiratory	0.048281777650117874
+trial_2	migalastat	466	KG00101205	fall	0.04813485965132713
+trial_2	migalastat	454	KG00098286	Pain, Neck	0.04756820946931839
+trial_2	migalastat	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04746541753411293
+trial_2	migalastat	212	KG00100576	shivers	0.04734911024570465
+trial_2	migalastat	61	KG00099501	Chronic Kidney Failure	0.04644598811864853
+trial_2	migalastat	276	KG00099127	Arrest, Cardiac	0.04595309868454933
+trial_2	migalastat	508	KG00108565	blood glucose increased	0.04455772414803505
+trial_2	migalastat	82	KG00097697	abdomen distended	0.044126126915216446
+trial_2	migalastat	35	KG00101507	hypomagnesaemia	0.041918594390153885
+trial_2	migalastat	98	KG00097718	Incised wound, NOS	0.04148883372545242
+trial_2	migalastat	138	KG00098796	epidemic vomiting syndrome	0.040725402534008026
+trial_2	migalastat	261	KG00101559	raised alkaline phosphatase	0.04059465602040291
+trial_2	migalastat	84	KG00098393	Headache, Cluster	0.03975522145628929
+trial_2	migalastat	75	KG00100195	Dolens, Phlegmasia Alba	0.03972811624407768
+trial_2	migalastat	194	KG00110727	Neutrophil Count Decreased	0.03968243673443794
+trial_2	migalastat	195	KG00097814	Atopic Rhinitis	0.03904447332024574
+trial_2	migalastat	256	KG00100738	Tachycardia, Sinus	0.03900626674294472
+trial_2	migalastat	341	KG00101472	Gamma-glutamyltransferase increased	0.03898676857352257
+trial_2	migalastat	96	KG00101679	Unattended death NOS	0.03883123770356178
+trial_2	migalastat	253	KG00100232	Pleural effusion NOS (disorder)	0.038693588227033615
+trial_2	migalastat	164	KG00108827	ileus colon	0.03859269246459007
+trial_2	migalastat	456	KG00099420	Influenzae	0.03829200565814972
+trial_2	migalastat	33	KG00100094	Pancreatitis NOS	0.03820390626788139
+trial_2	migalastat	371	KG00098517	Cystitis (NOS)	0.03705952689051628
+trial_2	migalastat	211	KG00100341	Pruritus NOS	0.0368010438978672
+trial_2	migalastat	286	KG00101110	Retention, Urinary	0.03661881759762764
+trial_2	migalastat	153	KG00099579	lethargy	0.03600640222430229
+trial_2	migalastat	269	KG00100399	pyaemia	0.03584142401814461
+trial_2	migalastat	262	KG00101199	agitation	0.035548679530620575
+trial_2	migalastat	361	KG00098004	Fibrillation, Atrial	0.03382815048098564
+trial_2	migalastat	118	KG00099011	Gastritis NOS	0.03323160856962204
+trial_2	migalastat	221	KG00101207	peripheral oedema	0.033091653138399124
+trial_2	migalastat	535	KG00098309	chest pains wall	0.03306308016180992
+trial_2	migalastat	11	KG00097993	Asthma NOS	0.032820574939250946
+trial_2	migalastat	747	KG00101527	Liver function tests abnormal (finding)	0.03255751356482506
+trial_2	migalastat	249	KG00104430	hypoalbuminaemia	0.032398536801338196
+trial_2	migalastat	105	KG00097964	Arthritis NOS	0.032321229577064514
+trial_2	migalastat	382	KG00099200	haemorrhoids	0.03178340196609497
+trial_2	migalastat	71	KG00100958	urticarias	0.03159930184483528
+trial_2	migalastat	166	KG00099773	menopausal syndrome	0.031424492597579956
+trial_2	migalastat	268	KG00099557	Heart Failure, Left-Sided	0.03100154735147953

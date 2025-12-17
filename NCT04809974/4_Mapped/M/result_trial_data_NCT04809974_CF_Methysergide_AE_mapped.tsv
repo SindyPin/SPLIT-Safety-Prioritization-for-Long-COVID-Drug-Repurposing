@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.20801489055156708
+trial_1	placebo	9	KG00098432	Confusion NOS	0.18320244550704956
+trial_1	placebo	46	KG00099121	Headache NOS	0.15915217995643616
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1510661244392395
+trial_1	placebo	68	KG00099901	nauseas	0.14480406045913696
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.14002390205860138
+trial_1	placebo	87	KG00098599	diarrhoea	0.12981820106506348
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12517835199832916
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12298958748579025
+trial_1	placebo	21	KG00098675	dyspnoea	0.12019062787294388
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11508805304765701
+trial_1	placebo	20	KG00098540	dehydration	0.09767904132604599
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08880934864282608
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07736559957265854
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07680932432413101
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07435183972120285
+trial_1	placebo	85	KG00098474	coughs	0.07292720675468445
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07094451040029526
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06548942625522614
+trial_1	placebo	104	KG00097963	arthralgias	0.06444274634122849
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0625646784901619
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06209496036171913
+trial_1	placebo	126	KG00100076	Pain NOS	0.0605694018304348
+trial_1	placebo	228	KG00114657	Weight below normal	0.05837574228644371
+trial_1	placebo	114	KG00098933	fevers	0.05438564345240593
+trial_1	placebo	18	KG00098307	Pain, Chest	0.053940411657094955
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05292261019349098
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.051671549677848816
+trial_1	placebo	102	KG00097916	anxieties	0.05064351111650467
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04971986636519432
+trial_1	placebo	116	KG00098964	Pain in foot	0.04614770784974098
+trial_1	placebo	29	KG00099354	hyponatraemia	0.044813111424446106
+trial_1	placebo	239	KG00100128	pareses	0.04431270807981491
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0424080491065979
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.039527472108602524
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03944976255297661
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03929513320326805
+trial_1	placebo	72	KG00103771	myalgias	0.03908951207995415
+trial_1	placebo	66	KG00098642	drowsiness	0.03678300604224205
+trial_1	placebo	5	KG00099169	haematuria	0.03658342361450195
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03575107827782631
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03573630005121231
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03569774329662323
+trial_1	placebo	82	KG00097697	abdomen distended	0.03538769111037254
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03514114394783974
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.035026777535676956
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03499448299407959
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.034801699221134186
+trial_1	placebo	221	KG00101207	peripheral oedema	0.034049514681100845
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03208587318658829
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03199927881360054
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031623587012290955
+trial_1	placebo	234	KG00098669	dysgeusias	0.030885064974427223
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.030659938231110573
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02975328639149666
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.029685992747545242
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029494185000658035
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.028812145814299583
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02878984808921814
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.028414910659193993
+trial_1	placebo	262	KG00101199	agitation	0.028310289606451988
+trial_1	placebo	466	KG00101205	fall	0.027853157371282578
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.027430495247244835
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.027216503396630287
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02690395712852478
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0264639500528574
+trial_1	placebo	300	KG00101064	xerostomia	0.026264799758791924
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02611648477613926
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02604447863996029
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02580077014863491
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02577344886958599
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.025540150701999664
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.025390243157744408
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02529354766011238
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025194019079208374
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.025084219872951508
+trial_1	placebo	456	KG00099420	Influenzae	0.024604320526123047
+trial_1	placebo	121	KG00099190	haemorrhage	0.024371176958084106
+trial_1	placebo	242	KG00100855	tremors	0.024126369506120682
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.023841576650738716
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023496221750974655
+trial_1	placebo	269	KG00100399	pyaemia	0.022989090532064438
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022726966068148613
+trial_1	placebo	164	KG00108827	ileus colon	0.022559015080332756
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.02244647778570652
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022352727130055428
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02212447114288807
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021887855604290962
+trial_1	placebo	147	KG00098000	atelectases	0.021487804129719734
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021320883184671402
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02098182588815689
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02067871205508709
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.020606163889169693
+trial_1	placebo	203	KG00098661	dysarthrias	0.020538048818707466
+trial_1	placebo	186	KG00101431	creatinine increased	0.020481541752815247
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.020412705838680267
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020167304202914238
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020074550062417984
+trial_1	placebo	153	KG00099579	lethargy	0.019938616082072258
+trial_1	placebo	4	KG00098817	epistaxis	0.019868936389684677
+trial_2	methysergide	17	KG00097991	Asthenia NOS	0.20801489055156708
+trial_2	methysergide	9	KG00098432	Confusion NOS	0.18320244550704956
+trial_2	methysergide	46	KG00099121	Headache NOS	0.15915217995643616
+trial_2	methysergide	78	KG00099326	Hypertensive diseases	0.1510661244392395
+trial_2	methysergide	68	KG00099901	nauseas	0.14480406045913696
+trial_2	methysergide	79	KG00100317	Insomnia, Primary	0.14002390205860138
+trial_2	methysergide	87	KG00098599	diarrhoea	0.12981820106506348
+trial_2	methysergide	177	KG00099299	hyperglycaemia	0.12517835199832916
+trial_2	methysergide	49	KG00099902	nausea with vomiting	0.12298958748579025
+trial_2	methysergide	21	KG00098675	dyspnoea	0.12019062787294388
+trial_2	methysergide	77	KG00098450	Constipation NOS	0.11508805304765701
+trial_2	methysergide	20	KG00098540	dehydration	0.09767904132604599
+trial_2	methysergide	173	KG00098172	Bronchopneumonia NOS	0.08880934864282608
+trial_2	methysergide	123	KG00099351	hypokalaemia	0.07736559957265854
+trial_2	methysergide	37	KG00097696	Cramps, Abdominal	0.07680932432413101
+trial_2	methysergide	67	KG00098673	Dyspepsia, NOS	0.07435183972120285
+trial_2	methysergide	85	KG00098474	coughs	0.07292720675468445
+trial_2	methysergide	86	KG00098565	Depression, Mental	0.07094451040029526
+trial_2	methysergide	180	KG00099363	Hypotension NOS	0.06548942625522614
+trial_2	methysergide	104	KG00097963	arthralgias	0.06444274634122849
+trial_2	methysergide	14	KG00097852	Anemia NOS	0.0625646784901619
+trial_2	methysergide	101	KG00097901	Anorexia NOS	0.06209496036171913
+trial_2	methysergide	126	KG00100076	Pain NOS	0.0605694018304348
+trial_2	methysergide	228	KG00114657	Weight below normal	0.05837574228644371
+trial_2	methysergide	114	KG00098933	fevers	0.05438564345240593
+trial_2	methysergide	18	KG00098307	Pain, Chest	0.053940411657094955
+trial_2	methysergide	200	KG00098539	Disorders, Deglutition	0.05292261019349098
+trial_2	methysergide	151	KG00098274	Infarction, Cerebral	0.051671549677848816
+trial_2	methysergide	102	KG00097916	anxieties	0.05064351111650467
+trial_2	methysergide	139	KG00098855	Sinusitis, Ethmoid	0.04971986636519432
+trial_2	methysergide	116	KG00098964	Pain in foot	0.04614770784974098
+trial_2	methysergide	29	KG00099354	hyponatraemia	0.044813111424446106
+trial_2	methysergide	239	KG00100128	pareses	0.04431270807981491
+trial_2	methysergide	350	KG00106765	decreased platelet count	0.0424080491065979
+trial_2	methysergide	64	KG00097734	Acrodermatitis, NOS	0.039527472108602524
+trial_2	methysergide	166	KG00099773	menopausal syndrome	0.03944976255297661
+trial_2	methysergide	76	KG00100450	Respiratory insufficiency, NOS	0.03929513320326805
+trial_2	methysergide	72	KG00103771	myalgias	0.03908951207995415
+trial_2	methysergide	66	KG00098642	drowsiness	0.03678300604224205
+trial_2	methysergide	5	KG00099169	haematuria	0.03658342361450195
+trial_2	methysergide	132	KG00101045	Gain, Weight	0.03575107827782631
+trial_2	methysergide	61	KG00099501	Chronic Kidney Failure	0.03573630005121231
+trial_2	methysergide	96	KG00101679	Unattended death NOS	0.03569774329662323
+trial_2	methysergide	82	KG00097697	abdomen distended	0.03538769111037254
+trial_2	methysergide	28	KG00099347	hypoglycaemia	0.03514114394783974
+trial_2	methysergide	243	KG00100947	Micturition frequency increased	0.035026777535676956
+trial_2	methysergide	131	KG00100948	Urinary tract infection (& [NOS])	0.03499448299407959
+trial_2	methysergide	2	KG00100772	thrombocytopaenia	0.034801699221134186
+trial_2	methysergide	221	KG00101207	peripheral oedema	0.034049514681100845
+trial_2	methysergide	38	KG00098066	Binocular vision disorders	0.03208587318658829
+trial_2	methysergide	122	KG00099321	Hypersensitivity NOS	0.03199927881360054
+trial_2	methysergide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031623587012290955
+trial_2	methysergide	234	KG00098669	dysgeusias	0.030885064974427223
+trial_2	methysergide	27	KG00099303	hyperkalaemia	0.030659938231110573
+trial_2	methysergide	36	KG00106434	Vision, Blurring Of	0.02975328639149666
+trial_2	methysergide	142	KG00100923	Unspecified infectious and parasitic diseases	0.029685992747545242
+trial_2	methysergide	204	KG00098849	Esophagitis, Peptic	0.029494185000658035
+trial_2	methysergide	22	KG00098705	Edema (NOS)	0.028812145814299583
+trial_2	methysergide	69	KG00100082	Palpitations NOS	0.02878984808921814
+trial_2	methysergide	189	KG00101580	Alanine aminotransferase increase	0.028414910659193993
+trial_2	methysergide	262	KG00101199	agitation	0.028310289606451988
+trial_2	methysergide	466	KG00101205	fall	0.027853157371282578
+trial_2	methysergide	188	KG00101579	Aspartate aminotransferase increase	0.027430495247244835
+trial_2	methysergide	199	KG00098371	Rhinitis (chronic) NOS	0.027216503396630287
+trial_2	methysergide	11	KG00097993	Asthma NOS	0.02690395712852478
+trial_2	methysergide	361	KG00098004	Fibrillation, Atrial	0.0264639500528574
+trial_2	methysergide	300	KG00101064	xerostomia	0.026264799758791924
+trial_2	methysergide	396	KG00100373	Embolism, Pulmonary	0.02611648477613926
+trial_2	methysergide	15	KG00097882	Angina pectoris NOS	0.02604447863996029
+trial_2	methysergide	286	KG00101110	Retention, Urinary	0.02580077014863491
+trial_2	methysergide	254	KG00100774	Thrombosis NOS	0.02577344886958599
+trial_2	methysergide	30	KG00099500	Acute Kidney Failure	0.025540150701999664
+trial_2	methysergide	75	KG00100195	Dolens, Phlegmasia Alba	0.025390243157744408
+trial_2	methysergide	179	KG00099342	hypocalcaemia	0.02529354766011238
+trial_2	methysergide	92	KG00100926	Infections, Upper Respiratory	0.025194019079208374
+trial_2	methysergide	211	KG00100341	Pruritus NOS	0.025084219872951508
+trial_2	methysergide	456	KG00099420	Influenzae	0.024604320526123047
+trial_2	methysergide	121	KG00099190	haemorrhage	0.024371176958084106
+trial_2	methysergide	242	KG00100855	tremors	0.024126369506120682
+trial_2	methysergide	89	KG00099301	Hyperhidrosis (disorder)	0.023841576650738716
+trial_2	methysergide	276	KG00099127	Arrest, Cardiac	0.023496221750974655
+trial_2	methysergide	269	KG00100399	pyaemia	0.022989090532064438
+trial_2	methysergide	130	KG00100683	Stomatitis NOS	0.022726966068148613
+trial_2	methysergide	164	KG00108827	ileus colon	0.022559015080332756
+trial_2	methysergide	170	KG00108926	Neutropenia, Febrile	0.02244647778570652
+trial_2	methysergide	441	KG00098262	cellulitis nos	0.022352727130055428
+trial_2	methysergide	382	KG00099200	haemorrhoids	0.02212447114288807
+trial_2	methysergide	508	KG00108565	blood glucose increased	0.021887855604290962
+trial_2	methysergide	147	KG00098000	atelectases	0.021487804129719734
+trial_2	methysergide	133	KG00101370	neuropathies sensory	0.021320883184671402
+trial_2	methysergide	194	KG00110727	Neutrophil Count Decreased	0.02098182588815689
+trial_2	methysergide	154	KG00099686	Lymphopenias	0.02067871205508709
+trial_2	methysergide	1	KG00099959	Neutropenia NOS	0.020606163889169693
+trial_2	methysergide	203	KG00098661	dysarthrias	0.020538048818707466
+trial_2	methysergide	186	KG00101431	creatinine increased	0.020481541752815247
+trial_2	methysergide	249	KG00104430	hypoalbuminaemia	0.020412705838680267
+trial_2	methysergide	144	KG00099610	Leukopenia NOS	0.020167304202914238
+trial_2	methysergide	31	KG00099872	Infarction, Myocardial	0.020074550062417984
+trial_2	methysergide	153	KG00099579	lethargy	0.019938616082072258
+trial_2	methysergide	4	KG00098817	epistaxis	0.019868936389684677

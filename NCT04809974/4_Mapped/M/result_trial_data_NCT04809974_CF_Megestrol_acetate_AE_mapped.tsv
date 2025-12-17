@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14160336554050446
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12105806171894073
+trial_1	placebo	87	KG00098599	diarrhoea	0.10818186402320862
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10006978362798691
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09798868745565414
+trial_1	placebo	20	KG00098540	dehydration	0.07631067931652069
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07140308618545532
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07017847895622253
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07015287131071091
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06431276351213455
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0636272206902504
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0632651299238205
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06273932009935379
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.062277212738990784
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06095452234148979
+trial_1	placebo	21	KG00098675	dyspnoea	0.059858351945877075
+trial_1	placebo	46	KG00099121	Headache NOS	0.05730949342250824
+trial_1	placebo	228	KG00114657	Weight below normal	0.05423259362578392
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0535697266459465
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05149078741669655
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04996907338500023
+trial_1	placebo	126	KG00100076	Pain NOS	0.048195730894804
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04762372002005577
+trial_1	placebo	14	KG00097852	Anemia NOS	0.047182176262140274
+trial_1	placebo	239	KG00100128	pareses	0.046793047338724136
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04668169096112251
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0466352216899395
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04619352146983147
+trial_1	placebo	114	KG00098933	fevers	0.04544888436794281
+trial_1	placebo	72	KG00103771	myalgias	0.04461674019694328
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04320367053151131
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.042658280581235886
+trial_1	placebo	104	KG00097963	arthralgias	0.042384665459394455
+trial_1	placebo	68	KG00099901	nauseas	0.0414758063852787
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.04135981947183609
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04095916822552681
+trial_1	placebo	29	KG00099354	hyponatraemia	0.040924325585365295
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03982437774538994
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03869165480136871
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03777311369776726
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03743434697389603
+trial_1	placebo	85	KG00098474	coughs	0.03671902045607567
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.035393569618463516
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.034818314015865326
+trial_1	placebo	102	KG00097916	anxieties	0.033541567623615265
+trial_1	placebo	5	KG00099169	haematuria	0.032232627272605896
+trial_1	placebo	116	KG00098964	Pain in foot	0.031989578157663345
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.031710051000118256
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.031690988689661026
+trial_1	placebo	121	KG00099190	haemorrhage	0.030962791293859482
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.030814753845334053
+trial_1	placebo	147	KG00098000	atelectases	0.02984888292849064
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02973168157041073
+trial_1	placebo	508	KG00108565	blood glucose increased	0.029185567051172256
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029073867946863174
+trial_1	placebo	262	KG00101199	agitation	0.028592200949788094
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02833133190870285
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027664707973599434
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02739967778325081
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02719210274517536
+trial_1	placebo	466	KG00101205	fall	0.026687785983085632
+trial_1	placebo	100	KG00097815	alopecias	0.026475923135876656
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02627408690750599
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02603824809193611
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02590031549334526
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025770409032702446
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025615820661187172
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.025491228327155113
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025357743725180626
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02528482675552368
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02485780045390129
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024845581501722336
+trial_1	placebo	82	KG00097697	abdomen distended	0.024513741955161095
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02439764142036438
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.024335255846381187
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024312378838658333
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.023937111720442772
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.023706676438450813
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023531343787908554
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023166658356785774
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.0226364154368639
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022584401071071625
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022485055029392242
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022446608170866966
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022433005273342133
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.022251281887292862
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.021340228617191315
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021258674561977386
+trial_1	placebo	242	KG00100855	tremors	0.02095167525112629
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02075286954641342
+trial_1	placebo	164	KG00108827	ileus colon	0.020672563463449478
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.020650632679462433
+trial_1	placebo	339	KG00100334	proteinurias	0.02037007175385952
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01989763043820858
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.019844157621264458
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01956230401992798
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.019561825320124626
+trial_1	placebo	382	KG00099200	haemorrhoids	0.019507693126797676
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019390258938074112
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019196664914488792
+trial_2	megestrol acetate	78	KG00099326	Hypertensive diseases	0.14160336554050446
+trial_2	megestrol acetate	177	KG00099299	hyperglycaemia	0.12105806171894073
+trial_2	megestrol acetate	87	KG00098599	diarrhoea	0.10818186402320862
+trial_2	megestrol acetate	173	KG00098172	Bronchopneumonia NOS	0.10006978362798691
+trial_2	megestrol acetate	17	KG00097991	Asthenia NOS	0.09798868745565414
+trial_2	megestrol acetate	20	KG00098540	dehydration	0.07631067931652069
+trial_2	megestrol acetate	79	KG00100317	Insomnia, Primary	0.07140308618545532
+trial_2	megestrol acetate	9	KG00098432	Confusion NOS	0.07017847895622253
+trial_2	megestrol acetate	77	KG00098450	Constipation NOS	0.07015287131071091
+trial_2	megestrol acetate	123	KG00099351	hypokalaemia	0.06431276351213455
+trial_2	megestrol acetate	132	KG00101045	Gain, Weight	0.0636272206902504
+trial_2	megestrol acetate	243	KG00100947	Micturition frequency increased	0.0632651299238205
+trial_2	megestrol acetate	37	KG00097696	Cramps, Abdominal	0.06273932009935379
+trial_2	megestrol acetate	67	KG00098673	Dyspepsia, NOS	0.062277212738990784
+trial_2	megestrol acetate	86	KG00098565	Depression, Mental	0.06095452234148979
+trial_2	megestrol acetate	21	KG00098675	dyspnoea	0.059858351945877075
+trial_2	megestrol acetate	46	KG00099121	Headache NOS	0.05730949342250824
+trial_2	megestrol acetate	228	KG00114657	Weight below normal	0.05423259362578392
+trial_2	megestrol acetate	200	KG00098539	Disorders, Deglutition	0.0535697266459465
+trial_2	megestrol acetate	189	KG00101580	Alanine aminotransferase increase	0.05149078741669655
+trial_2	megestrol acetate	64	KG00097734	Acrodermatitis, NOS	0.04996907338500023
+trial_2	megestrol acetate	126	KG00100076	Pain NOS	0.048195730894804
+trial_2	megestrol acetate	122	KG00099321	Hypersensitivity NOS	0.04762372002005577
+trial_2	megestrol acetate	14	KG00097852	Anemia NOS	0.047182176262140274
+trial_2	megestrol acetate	239	KG00100128	pareses	0.046793047338724136
+trial_2	megestrol acetate	350	KG00106765	decreased platelet count	0.04668169096112251
+trial_2	megestrol acetate	151	KG00098274	Infarction, Cerebral	0.0466352216899395
+trial_2	megestrol acetate	28	KG00099347	hypoglycaemia	0.04619352146983147
+trial_2	megestrol acetate	114	KG00098933	fevers	0.04544888436794281
+trial_2	megestrol acetate	72	KG00103771	myalgias	0.04461674019694328
+trial_2	megestrol acetate	188	KG00101579	Aspartate aminotransferase increase	0.04320367053151131
+trial_2	megestrol acetate	49	KG00099902	nausea with vomiting	0.042658280581235886
+trial_2	megestrol acetate	104	KG00097963	arthralgias	0.042384665459394455
+trial_2	megestrol acetate	68	KG00099901	nauseas	0.0414758063852787
+trial_2	megestrol acetate	166	KG00099773	menopausal syndrome	0.04135981947183609
+trial_2	megestrol acetate	139	KG00098855	Sinusitis, Ethmoid	0.04095916822552681
+trial_2	megestrol acetate	29	KG00099354	hyponatraemia	0.040924325585365295
+trial_2	megestrol acetate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03982437774538994
+trial_2	megestrol acetate	2	KG00100772	thrombocytopaenia	0.03869165480136871
+trial_2	megestrol acetate	180	KG00099363	Hypotension NOS	0.03777311369776726
+trial_2	megestrol acetate	179	KG00099342	hypocalcaemia	0.03743434697389603
+trial_2	megestrol acetate	85	KG00098474	coughs	0.03671902045607567
+trial_2	megestrol acetate	76	KG00100450	Respiratory insufficiency, NOS	0.035393569618463516
+trial_2	megestrol acetate	27	KG00099303	hyperkalaemia	0.034818314015865326
+trial_2	megestrol acetate	102	KG00097916	anxieties	0.033541567623615265
+trial_2	megestrol acetate	5	KG00099169	haematuria	0.032232627272605896
+trial_2	megestrol acetate	116	KG00098964	Pain in foot	0.031989578157663345
+trial_2	megestrol acetate	38	KG00098066	Binocular vision disorders	0.031710051000118256
+trial_2	megestrol acetate	96	KG00101679	Unattended death NOS	0.031690988689661026
+trial_2	megestrol acetate	121	KG00099190	haemorrhage	0.030962791293859482
+trial_2	megestrol acetate	61	KG00099501	Chronic Kidney Failure	0.030814753845334053
+trial_2	megestrol acetate	147	KG00098000	atelectases	0.02984888292849064
+trial_2	megestrol acetate	18	KG00098307	Pain, Chest	0.02973168157041073
+trial_2	megestrol acetate	508	KG00108565	blood glucose increased	0.029185567051172256
+trial_2	megestrol acetate	131	KG00100948	Urinary tract infection (& [NOS])	0.029073867946863174
+trial_2	megestrol acetate	262	KG00101199	agitation	0.028592200949788094
+trial_2	megestrol acetate	194	KG00110727	Neutrophil Count Decreased	0.02833133190870285
+trial_2	megestrol acetate	69	KG00100082	Palpitations NOS	0.027664707973599434
+trial_2	megestrol acetate	221	KG00101207	peripheral oedema	0.02739967778325081
+trial_2	megestrol acetate	152	KG00099402	INCONTINENCE NOS	0.02719210274517536
+trial_2	megestrol acetate	466	KG00101205	fall	0.026687785983085632
+trial_2	megestrol acetate	100	KG00097815	alopecias	0.026475923135876656
+trial_2	megestrol acetate	101	KG00097901	Anorexia NOS	0.02627408690750599
+trial_2	megestrol acetate	396	KG00100373	Embolism, Pulmonary	0.02603824809193611
+trial_2	megestrol acetate	441	KG00098262	cellulitis nos	0.02590031549334526
+trial_2	megestrol acetate	92	KG00100926	Infections, Upper Respiratory	0.025770409032702446
+trial_2	megestrol acetate	282	KG00099309	hypernatraemia	0.025615820661187172
+trial_2	megestrol acetate	355	KG00110857	lymphocyte count decreased	0.025491228327155113
+trial_2	megestrol acetate	142	KG00100923	Unspecified infectious and parasitic diseases	0.025357743725180626
+trial_2	megestrol acetate	297	KG00099294	hypercholesterolaemia	0.02528482675552368
+trial_2	megestrol acetate	36	KG00106434	Vision, Blurring Of	0.02485780045390129
+trial_2	megestrol acetate	249	KG00104430	hypoalbuminaemia	0.024845581501722336
+trial_2	megestrol acetate	82	KG00097697	abdomen distended	0.024513741955161095
+trial_2	megestrol acetate	22	KG00098705	Edema (NOS)	0.02439764142036438
+trial_2	megestrol acetate	30	KG00099500	Acute Kidney Failure	0.024335255846381187
+trial_2	megestrol acetate	75	KG00100195	Dolens, Phlegmasia Alba	0.024312378838658333
+trial_2	megestrol acetate	35	KG00101507	hypomagnesaemia	0.023937111720442772
+trial_2	megestrol acetate	133	KG00101370	neuropathies sensory	0.023706676438450813
+trial_2	megestrol acetate	261	KG00101559	raised alkaline phosphatase	0.023531343787908554
+trial_2	megestrol acetate	286	KG00101110	Retention, Urinary	0.023166658356785774
+trial_2	megestrol acetate	204	KG00098849	Esophagitis, Peptic	0.0226364154368639
+trial_2	megestrol acetate	288	KG00101223	hypophosphataemia	0.022584401071071625
+trial_2	megestrol acetate	144	KG00099610	Leukopenia NOS	0.022485055029392242
+trial_2	megestrol acetate	276	KG00099127	Arrest, Cardiac	0.022446608170866966
+trial_2	megestrol acetate	154	KG00099686	Lymphopenias	0.022433005273342133
+trial_2	megestrol acetate	1	KG00099959	Neutropenia NOS	0.022251281887292862
+trial_2	megestrol acetate	118	KG00099011	Gastritis NOS	0.021340228617191315
+trial_2	megestrol acetate	256	KG00100738	Tachycardia, Sinus	0.021258674561977386
+trial_2	megestrol acetate	242	KG00100855	tremors	0.02095167525112629
+trial_2	megestrol acetate	195	KG00097814	Atopic Rhinitis	0.02075286954641342
+trial_2	megestrol acetate	164	KG00108827	ileus colon	0.020672563463449478
+trial_2	megestrol acetate	254	KG00100774	Thrombosis NOS	0.020650632679462433
+trial_2	megestrol acetate	339	KG00100334	proteinurias	0.02037007175385952
+trial_2	megestrol acetate	130	KG00100683	Stomatitis NOS	0.01989763043820858
+trial_2	megestrol acetate	246	KG00103338	Aspartate Aminotransferase Measurement	0.019844157621264458
+trial_2	megestrol acetate	371	KG00098517	Cystitis (NOS)	0.01956230401992798
+trial_2	megestrol acetate	33	KG00100094	Pancreatitis NOS	0.019561825320124626
+trial_2	megestrol acetate	382	KG00099200	haemorrhoids	0.019507693126797676
+trial_2	megestrol acetate	253	KG00100232	Pleural effusion NOS (disorder)	0.019390258938074112
+trial_2	megestrol acetate	361	KG00098004	Fibrillation, Atrial	0.019196664914488792

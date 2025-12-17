@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18551504611968994
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12165016680955887
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10654672980308533
+trial_1	placebo	20	KG00098540	dehydration	0.10088992863893509
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09610357880592346
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09378641098737717
+trial_1	placebo	21	KG00098675	dyspnoea	0.09268473088741302
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0924333930015564
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08986976742744446
+trial_1	placebo	68	KG00099901	nauseas	0.08772265911102295
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08744343370199203
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0865546241402626
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.08638320118188858
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08635733276605606
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08582739531993866
+trial_1	placebo	114	KG00098933	fevers	0.0835263803601265
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07202738523483276
+trial_1	placebo	46	KG00099121	Headache NOS	0.06916598975658417
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06525784730911255
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06034539267420769
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06023683026432991
+trial_1	placebo	126	KG00100076	Pain NOS	0.05789640173316002
+trial_1	placebo	228	KG00114657	Weight below normal	0.057858407497406006
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05747394263744354
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05357290804386139
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05041314661502838
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04949748143553734
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04939805716276169
+trial_1	placebo	29	KG00099354	hyponatraemia	0.048608168959617615
+trial_1	placebo	85	KG00098474	coughs	0.04808700084686279
+trial_1	placebo	72	KG00103771	myalgias	0.04805893078446388
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.046056073158979416
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04358555004000664
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.043401461094617844
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04308115318417549
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04253629967570305
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04165865108370781
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04100484028458595
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04091998189687729
+trial_1	placebo	5	KG00099169	haematuria	0.040553703904151917
+trial_1	placebo	147	KG00098000	atelectases	0.04053431376814842
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04048142582178116
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04042264446616173
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.040289003401994705
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03960825502872467
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03909812867641449
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03810664638876915
+trial_1	placebo	104	KG00097963	arthralgias	0.03802800923585892
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.036357246339321136
+trial_1	placebo	269	KG00100399	pyaemia	0.035892169922590256
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03580362722277641
+trial_1	placebo	100	KG00097815	alopecias	0.03425493836402893
+trial_1	placebo	239	KG00100128	pareses	0.03407925367355347
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.033856168389320374
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03384115919470787
+trial_1	placebo	186	KG00101431	creatinine increased	0.033837754279375076
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03367798402905464
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03258047252893448
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.032396622002124786
+trial_1	placebo	154	KG00099686	Lymphopenias	0.032041750848293304
+trial_1	placebo	234	KG00098669	dysgeusias	0.032010145485401154
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03192070499062538
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03096882812678814
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03078552708029747
+trial_1	placebo	86	KG00098565	Depression, Mental	0.029654158279299736
+trial_1	placebo	82	KG00097697	abdomen distended	0.0294119194149971
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02922683022916317
+trial_1	placebo	282	KG00099309	hypernatraemia	0.028863560408353806
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028837261721491814
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028470588847994804
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02806968241930008
+trial_1	placebo	212	KG00100576	shivers	0.027921561151742935
+trial_1	placebo	121	KG00099190	haemorrhage	0.027083296328783035
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02700342983007431
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026896709576249123
+trial_1	placebo	164	KG00108827	ileus colon	0.02586016245186329
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02583904191851616
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.02570752426981926
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02534450590610504
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025251377373933792
+trial_1	placebo	136	KG00101582	Dry;skin	0.02398904412984848
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.023592675104737282
+trial_1	placebo	102	KG00097916	anxieties	0.02294338494539261
+trial_1	placebo	116	KG00098964	Pain in foot	0.022804366424679756
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.022113099694252014
+trial_1	placebo	257	KG00100922	Erythema NOS	0.021757349371910095
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02174997702240944
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021726127713918686
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021643849089741707
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021400591358542442
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.01940002292394638
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.019121408462524414
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019104618579149246
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01868012361228466
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018491122871637344
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018309593200683594
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.018258683383464813
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.018122222274541855
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017972782254219055
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01767447404563427
+trial_2	methoxsalen	87	KG00098599	diarrhoea	0.18551504611968994
+trial_2	methoxsalen	123	KG00099351	hypokalaemia	0.12165016680955887
+trial_2	methoxsalen	177	KG00099299	hyperglycaemia	0.10654672980308533
+trial_2	methoxsalen	20	KG00098540	dehydration	0.10088992863893509
+trial_2	methoxsalen	173	KG00098172	Bronchopneumonia NOS	0.09610357880592346
+trial_2	methoxsalen	78	KG00099326	Hypertensive diseases	0.09378641098737717
+trial_2	methoxsalen	21	KG00098675	dyspnoea	0.09268473088741302
+trial_2	methoxsalen	14	KG00097852	Anemia NOS	0.0924333930015564
+trial_2	methoxsalen	64	KG00097734	Acrodermatitis, NOS	0.08986976742744446
+trial_2	methoxsalen	68	KG00099901	nauseas	0.08772265911102295
+trial_2	methoxsalen	17	KG00097991	Asthenia NOS	0.08744343370199203
+trial_2	methoxsalen	49	KG00099902	nausea with vomiting	0.0865546241402626
+trial_2	methoxsalen	2	KG00100772	thrombocytopaenia	0.08638320118188858
+trial_2	methoxsalen	189	KG00101580	Alanine aminotransferase increase	0.08635733276605606
+trial_2	methoxsalen	37	KG00097696	Cramps, Abdominal	0.08582739531993866
+trial_2	methoxsalen	114	KG00098933	fevers	0.0835263803601265
+trial_2	methoxsalen	188	KG00101579	Aspartate aminotransferase increase	0.07202738523483276
+trial_2	methoxsalen	46	KG00099121	Headache NOS	0.06916598975658417
+trial_2	methoxsalen	9	KG00098432	Confusion NOS	0.06525784730911255
+trial_2	methoxsalen	67	KG00098673	Dyspepsia, NOS	0.06034539267420769
+trial_2	methoxsalen	77	KG00098450	Constipation NOS	0.06023683026432991
+trial_2	methoxsalen	126	KG00100076	Pain NOS	0.05789640173316002
+trial_2	methoxsalen	228	KG00114657	Weight below normal	0.057858407497406006
+trial_2	methoxsalen	200	KG00098539	Disorders, Deglutition	0.05747394263744354
+trial_2	methoxsalen	350	KG00106765	decreased platelet count	0.05357290804386139
+trial_2	methoxsalen	101	KG00097901	Anorexia NOS	0.05041314661502838
+trial_2	methoxsalen	1	KG00099959	Neutropenia NOS	0.04949748143553734
+trial_2	methoxsalen	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04939805716276169
+trial_2	methoxsalen	29	KG00099354	hyponatraemia	0.048608168959617615
+trial_2	methoxsalen	85	KG00098474	coughs	0.04808700084686279
+trial_2	methoxsalen	72	KG00103771	myalgias	0.04805893078446388
+trial_2	methoxsalen	194	KG00110727	Neutrophil Count Decreased	0.046056073158979416
+trial_2	methoxsalen	61	KG00099501	Chronic Kidney Failure	0.04358555004000664
+trial_2	methoxsalen	179	KG00099342	hypocalcaemia	0.043401461094617844
+trial_2	methoxsalen	144	KG00099610	Leukopenia NOS	0.04308115318417549
+trial_2	methoxsalen	76	KG00100450	Respiratory insufficiency, NOS	0.04253629967570305
+trial_2	methoxsalen	261	KG00101559	raised alkaline phosphatase	0.04165865108370781
+trial_2	methoxsalen	122	KG00099321	Hypersensitivity NOS	0.04100484028458595
+trial_2	methoxsalen	396	KG00100373	Embolism, Pulmonary	0.04091998189687729
+trial_2	methoxsalen	5	KG00099169	haematuria	0.040553703904151917
+trial_2	methoxsalen	147	KG00098000	atelectases	0.04053431376814842
+trial_2	methoxsalen	79	KG00100317	Insomnia, Primary	0.04048142582178116
+trial_2	methoxsalen	27	KG00099303	hyperkalaemia	0.04042264446616173
+trial_2	methoxsalen	96	KG00101679	Unattended death NOS	0.040289003401994705
+trial_2	methoxsalen	142	KG00100923	Unspecified infectious and parasitic diseases	0.03960825502872467
+trial_2	methoxsalen	180	KG00099363	Hypotension NOS	0.03909812867641449
+trial_2	methoxsalen	131	KG00100948	Urinary tract infection (& [NOS])	0.03810664638876915
+trial_2	methoxsalen	104	KG00097963	arthralgias	0.03802800923585892
+trial_2	methoxsalen	243	KG00100947	Micturition frequency increased	0.036357246339321136
+trial_2	methoxsalen	269	KG00100399	pyaemia	0.035892169922590256
+trial_2	methoxsalen	28	KG00099347	hypoglycaemia	0.03580362722277641
+trial_2	methoxsalen	100	KG00097815	alopecias	0.03425493836402893
+trial_2	methoxsalen	239	KG00100128	pareses	0.03407925367355347
+trial_2	methoxsalen	30	KG00099500	Acute Kidney Failure	0.033856168389320374
+trial_2	methoxsalen	249	KG00104430	hypoalbuminaemia	0.03384115919470787
+trial_2	methoxsalen	186	KG00101431	creatinine increased	0.033837754279375076
+trial_2	methoxsalen	191	KG00104055	Biliverdin increased	0.03367798402905464
+trial_2	methoxsalen	253	KG00100232	Pleural effusion NOS (disorder)	0.03258047252893448
+trial_2	methoxsalen	151	KG00098274	Infarction, Cerebral	0.032396622002124786
+trial_2	methoxsalen	154	KG00099686	Lymphopenias	0.032041750848293304
+trial_2	methoxsalen	234	KG00098669	dysgeusias	0.032010145485401154
+trial_2	methoxsalen	355	KG00110857	lymphocyte count decreased	0.03192070499062538
+trial_2	methoxsalen	130	KG00100683	Stomatitis NOS	0.03096882812678814
+trial_2	methoxsalen	38	KG00098066	Binocular vision disorders	0.03078552708029747
+trial_2	methoxsalen	86	KG00098565	Depression, Mental	0.029654158279299736
+trial_2	methoxsalen	82	KG00097697	abdomen distended	0.0294119194149971
+trial_2	methoxsalen	75	KG00100195	Dolens, Phlegmasia Alba	0.02922683022916317
+trial_2	methoxsalen	282	KG00099309	hypernatraemia	0.028863560408353806
+trial_2	methoxsalen	18	KG00098307	Pain, Chest	0.028837261721491814
+trial_2	methoxsalen	276	KG00099127	Arrest, Cardiac	0.028470588847994804
+trial_2	methoxsalen	211	KG00100341	Pruritus NOS	0.02806968241930008
+trial_2	methoxsalen	212	KG00100576	shivers	0.027921561151742935
+trial_2	methoxsalen	121	KG00099190	haemorrhage	0.027083296328783035
+trial_2	methoxsalen	35	KG00101507	hypomagnesaemia	0.02700342983007431
+trial_2	methoxsalen	441	KG00098262	cellulitis nos	0.026896709576249123
+trial_2	methoxsalen	164	KG00108827	ileus colon	0.02586016245186329
+trial_2	methoxsalen	139	KG00098855	Sinusitis, Ethmoid	0.02583904191851616
+trial_2	methoxsalen	170	KG00108926	Neutropenia, Febrile	0.02570752426981926
+trial_2	methoxsalen	341	KG00101472	Gamma-glutamyltransferase increased	0.02534450590610504
+trial_2	methoxsalen	69	KG00100082	Palpitations NOS	0.025251377373933792
+trial_2	methoxsalen	136	KG00101582	Dry;skin	0.02398904412984848
+trial_2	methoxsalen	288	KG00101223	hypophosphataemia	0.023592675104737282
+trial_2	methoxsalen	102	KG00097916	anxieties	0.02294338494539261
+trial_2	methoxsalen	116	KG00098964	Pain in foot	0.022804366424679756
+trial_2	methoxsalen	356	KG00112623	Infectious Lung Disorders	0.022113099694252014
+trial_2	methoxsalen	257	KG00100922	Erythema NOS	0.021757349371910095
+trial_2	methoxsalen	361	KG00098004	Fibrillation, Atrial	0.02174997702240944
+trial_2	methoxsalen	33	KG00100094	Pancreatitis NOS	0.021726127713918686
+trial_2	methoxsalen	221	KG00101207	peripheral oedema	0.021643849089741707
+trial_2	methoxsalen	31	KG00099872	Infarction, Myocardial	0.021400591358542442
+trial_2	methoxsalen	213	KG00100600	Infectious Skin Diseases	0.01940002292394638
+trial_2	methoxsalen	97	KG00104198	LIVER ENZYME ELEVATED	0.019121408462524414
+trial_2	methoxsalen	92	KG00100926	Infections, Upper Respiratory	0.019104618579149246
+trial_2	methoxsalen	36	KG00106434	Vision, Blurring Of	0.01868012361228466
+trial_2	methoxsalen	138	KG00098796	epidemic vomiting syndrome	0.018491122871637344
+trial_2	methoxsalen	286	KG00101110	Retention, Urinary	0.018309593200683594
+trial_2	methoxsalen	494	KG00099838	Organ Failure, Multiple	0.018258683383464813
+trial_2	methoxsalen	133	KG00101370	neuropathies sensory	0.018122222274541855
+trial_2	methoxsalen	204	KG00098849	Esophagitis, Peptic	0.017972782254219055
+trial_2	methoxsalen	371	KG00098517	Cystitis (NOS)	0.01767447404563427

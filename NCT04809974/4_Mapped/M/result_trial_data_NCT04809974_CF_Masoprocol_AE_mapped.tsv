@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2114400416612625
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14790768921375275
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11491816490888596
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1102040708065033
+trial_1	placebo	68	KG00099901	nauseas	0.10900209099054337
+trial_1	placebo	46	KG00099121	Headache NOS	0.10313128679990768
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09856340289115906
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09414002299308777
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09184931218624115
+trial_1	placebo	20	KG00098540	dehydration	0.0887119323015213
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08596329391002655
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08465251326560974
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0830821543931961
+trial_1	placebo	21	KG00098675	dyspnoea	0.08109435439109802
+trial_1	placebo	228	KG00114657	Weight below normal	0.08029624819755554
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0784243494272232
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07809272408485413
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0761542022228241
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07221092283725739
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06937193125486374
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0674399584531784
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0636032372713089
+trial_1	placebo	126	KG00100076	Pain NOS	0.0578121580183506
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05593153461813927
+trial_1	placebo	14	KG00097852	Anemia NOS	0.055151376873254776
+trial_1	placebo	72	KG00103771	myalgias	0.05409521982073784
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05285332351922989
+trial_1	placebo	114	KG00098933	fevers	0.05258340388536453
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05236509442329407
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05216391757130623
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05212348699569702
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05176352337002754
+trial_1	placebo	104	KG00097963	arthralgias	0.049796998500823975
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0492870919406414
+trial_1	placebo	5	KG00099169	haematuria	0.048735473304986954
+trial_1	placebo	85	KG00098474	coughs	0.048193562775850296
+trial_1	placebo	239	KG00100128	pareses	0.04603897035121918
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04537274315953255
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04268907755613327
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.041933368891477585
+trial_1	placebo	102	KG00097916	anxieties	0.03867466747760773
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03807847946882248
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03775973245501518
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03767441213130951
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03668137639760971
+trial_1	placebo	147	KG00098000	atelectases	0.03641277924180031
+trial_1	placebo	116	KG00098964	Pain in foot	0.035434938967227936
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.035085294395685196
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.035026613622903824
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.034993018954992294
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.034685131162405014
+trial_1	placebo	262	KG00101199	agitation	0.033929262310266495
+trial_1	placebo	121	KG00099190	haemorrhage	0.033845026046037674
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03376550227403641
+trial_1	placebo	82	KG00097697	abdomen distended	0.03335442394018173
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03316335380077362
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03302261605858803
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.033012066036462784
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03184855356812477
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.031213773414492607
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.029644958674907684
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.029546713456511497
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02934066206216812
+trial_1	placebo	234	KG00098669	dysgeusias	0.029161060228943825
+trial_1	placebo	466	KG00101205	fall	0.028878629207611084
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.028144197538495064
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02789672650396824
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02780873514711857
+trial_1	placebo	508	KG00108565	blood glucose increased	0.027783138677477837
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.027568906545639038
+trial_1	placebo	136	KG00101582	Dry;skin	0.027491411194205284
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02742674946784973
+trial_1	placebo	100	KG00097815	alopecias	0.0274198055267334
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02733559161424637
+trial_1	placebo	212	KG00100576	shivers	0.02666478604078293
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.026578916236758232
+trial_1	placebo	454	KG00098286	Pain, Neck	0.026436133310198784
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026304228231310844
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.025919904932379723
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.025833701714873314
+trial_1	placebo	164	KG00108827	ileus colon	0.025720391422510147
+trial_1	placebo	153	KG00099579	lethargy	0.025232519954442978
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0249798484146595
+trial_1	placebo	441	KG00098262	cellulitis nos	0.024908598512411118
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024866443127393723
+trial_1	placebo	382	KG00099200	haemorrhoids	0.024838760495185852
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.024838067591190338
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024491414427757263
+trial_1	placebo	186	KG00101431	creatinine increased	0.024095306172966957
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.024038752540946007
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023985376581549644
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.0235512163490057
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023330802097916603
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02310515008866787
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.022685624659061432
+trial_1	placebo	363	KG00098184	burns injury	0.022539405152201653
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02251277305185795
+trial_1	placebo	456	KG00099420	Influenzae	0.022279012948274612
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.022227976471185684
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02214067056775093
+trial_2	masoprocol	87	KG00098599	diarrhoea	0.2114400416612625
+trial_2	masoprocol	78	KG00099326	Hypertensive diseases	0.14790768921375275
+trial_2	masoprocol	17	KG00097991	Asthenia NOS	0.11491816490888596
+trial_2	masoprocol	67	KG00098673	Dyspepsia, NOS	0.1102040708065033
+trial_2	masoprocol	68	KG00099901	nauseas	0.10900209099054337
+trial_2	masoprocol	46	KG00099121	Headache NOS	0.10313128679990768
+trial_2	masoprocol	177	KG00099299	hyperglycaemia	0.09856340289115906
+trial_2	masoprocol	49	KG00099902	nausea with vomiting	0.09414002299308777
+trial_2	masoprocol	123	KG00099351	hypokalaemia	0.09184931218624115
+trial_2	masoprocol	20	KG00098540	dehydration	0.0887119323015213
+trial_2	masoprocol	37	KG00097696	Cramps, Abdominal	0.08596329391002655
+trial_2	masoprocol	173	KG00098172	Bronchopneumonia NOS	0.08465251326560974
+trial_2	masoprocol	9	KG00098432	Confusion NOS	0.0830821543931961
+trial_2	masoprocol	21	KG00098675	dyspnoea	0.08109435439109802
+trial_2	masoprocol	228	KG00114657	Weight below normal	0.08029624819755554
+trial_2	masoprocol	79	KG00100317	Insomnia, Primary	0.0784243494272232
+trial_2	masoprocol	101	KG00097901	Anorexia NOS	0.07809272408485413
+trial_2	masoprocol	200	KG00098539	Disorders, Deglutition	0.0761542022228241
+trial_2	masoprocol	64	KG00097734	Acrodermatitis, NOS	0.07221092283725739
+trial_2	masoprocol	243	KG00100947	Micturition frequency increased	0.06937193125486374
+trial_2	masoprocol	189	KG00101580	Alanine aminotransferase increase	0.0674399584531784
+trial_2	masoprocol	77	KG00098450	Constipation NOS	0.0636032372713089
+trial_2	masoprocol	126	KG00100076	Pain NOS	0.0578121580183506
+trial_2	masoprocol	350	KG00106765	decreased platelet count	0.05593153461813927
+trial_2	masoprocol	14	KG00097852	Anemia NOS	0.055151376873254776
+trial_2	masoprocol	72	KG00103771	myalgias	0.05409521982073784
+trial_2	masoprocol	86	KG00098565	Depression, Mental	0.05285332351922989
+trial_2	masoprocol	114	KG00098933	fevers	0.05258340388536453
+trial_2	masoprocol	188	KG00101579	Aspartate aminotransferase increase	0.05236509442329407
+trial_2	masoprocol	139	KG00098855	Sinusitis, Ethmoid	0.05216391757130623
+trial_2	masoprocol	122	KG00099321	Hypersensitivity NOS	0.05212348699569702
+trial_2	masoprocol	2	KG00100772	thrombocytopaenia	0.05176352337002754
+trial_2	masoprocol	104	KG00097963	arthralgias	0.049796998500823975
+trial_2	masoprocol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0492870919406414
+trial_2	masoprocol	5	KG00099169	haematuria	0.048735473304986954
+trial_2	masoprocol	85	KG00098474	coughs	0.048193562775850296
+trial_2	masoprocol	239	KG00100128	pareses	0.04603897035121918
+trial_2	masoprocol	29	KG00099354	hyponatraemia	0.04537274315953255
+trial_2	masoprocol	355	KG00110857	lymphocyte count decreased	0.04268907755613327
+trial_2	masoprocol	194	KG00110727	Neutrophil Count Decreased	0.041933368891477585
+trial_2	masoprocol	102	KG00097916	anxieties	0.03867466747760773
+trial_2	masoprocol	38	KG00098066	Binocular vision disorders	0.03807847946882248
+trial_2	masoprocol	18	KG00098307	Pain, Chest	0.03775973245501518
+trial_2	masoprocol	179	KG00099342	hypocalcaemia	0.03767441213130951
+trial_2	masoprocol	154	KG00099686	Lymphopenias	0.03668137639760971
+trial_2	masoprocol	147	KG00098000	atelectases	0.03641277924180031
+trial_2	masoprocol	116	KG00098964	Pain in foot	0.035434938967227936
+trial_2	masoprocol	151	KG00098274	Infarction, Cerebral	0.035085294395685196
+trial_2	masoprocol	28	KG00099347	hypoglycaemia	0.035026613622903824
+trial_2	masoprocol	76	KG00100450	Respiratory insufficiency, NOS	0.034993018954992294
+trial_2	masoprocol	96	KG00101679	Unattended death NOS	0.034685131162405014
+trial_2	masoprocol	262	KG00101199	agitation	0.033929262310266495
+trial_2	masoprocol	121	KG00099190	haemorrhage	0.033845026046037674
+trial_2	masoprocol	282	KG00099309	hypernatraemia	0.03376550227403641
+trial_2	masoprocol	82	KG00097697	abdomen distended	0.03335442394018173
+trial_2	masoprocol	142	KG00100923	Unspecified infectious and parasitic diseases	0.03316335380077362
+trial_2	masoprocol	27	KG00099303	hyperkalaemia	0.03302261605858803
+trial_2	masoprocol	131	KG00100948	Urinary tract infection (& [NOS])	0.033012066036462784
+trial_2	masoprocol	61	KG00099501	Chronic Kidney Failure	0.03184855356812477
+trial_2	masoprocol	204	KG00098849	Esophagitis, Peptic	0.031213773414492607
+trial_2	masoprocol	166	KG00099773	menopausal syndrome	0.029644958674907684
+trial_2	masoprocol	261	KG00101559	raised alkaline phosphatase	0.029546713456511497
+trial_2	masoprocol	69	KG00100082	Palpitations NOS	0.02934066206216812
+trial_2	masoprocol	234	KG00098669	dysgeusias	0.029161060228943825
+trial_2	masoprocol	466	KG00101205	fall	0.028878629207611084
+trial_2	masoprocol	180	KG00099363	Hypotension NOS	0.028144197538495064
+trial_2	masoprocol	396	KG00100373	Embolism, Pulmonary	0.02789672650396824
+trial_2	masoprocol	191	KG00104055	Biliverdin increased	0.02780873514711857
+trial_2	masoprocol	508	KG00108565	blood glucose increased	0.027783138677477837
+trial_2	masoprocol	371	KG00098517	Cystitis (NOS)	0.027568906545639038
+trial_2	masoprocol	136	KG00101582	Dry;skin	0.027491411194205284
+trial_2	masoprocol	144	KG00099610	Leukopenia NOS	0.02742674946784973
+trial_2	masoprocol	100	KG00097815	alopecias	0.0274198055267334
+trial_2	masoprocol	276	KG00099127	Arrest, Cardiac	0.02733559161424637
+trial_2	masoprocol	212	KG00100576	shivers	0.02666478604078293
+trial_2	masoprocol	195	KG00097814	Atopic Rhinitis	0.026578916236758232
+trial_2	masoprocol	454	KG00098286	Pain, Neck	0.026436133310198784
+trial_2	masoprocol	211	KG00100341	Pruritus NOS	0.026304228231310844
+trial_2	masoprocol	218	KG00100801	Tinnitus NOS	0.025919904932379723
+trial_2	masoprocol	98	KG00097718	Incised wound, NOS	0.025833701714873314
+trial_2	masoprocol	164	KG00108827	ileus colon	0.025720391422510147
+trial_2	masoprocol	153	KG00099579	lethargy	0.025232519954442978
+trial_2	masoprocol	33	KG00100094	Pancreatitis NOS	0.0249798484146595
+trial_2	masoprocol	441	KG00098262	cellulitis nos	0.024908598512411118
+trial_2	masoprocol	92	KG00100926	Infections, Upper Respiratory	0.024866443127393723
+trial_2	masoprocol	382	KG00099200	haemorrhoids	0.024838760495185852
+trial_2	masoprocol	246	KG00103338	Aspartate Aminotransferase Measurement	0.024838067591190338
+trial_2	masoprocol	249	KG00104430	hypoalbuminaemia	0.024491414427757263
+trial_2	masoprocol	186	KG00101431	creatinine increased	0.024095306172966957
+trial_2	masoprocol	361	KG00098004	Fibrillation, Atrial	0.024038752540946007
+trial_2	masoprocol	36	KG00106434	Vision, Blurring Of	0.023985376581549644
+trial_2	masoprocol	297	KG00099294	hypercholesterolaemia	0.0235512163490057
+trial_2	masoprocol	75	KG00100195	Dolens, Phlegmasia Alba	0.023330802097916603
+trial_2	masoprocol	286	KG00101110	Retention, Urinary	0.02310515008866787
+trial_2	masoprocol	97	KG00104198	LIVER ENZYME ELEVATED	0.022685624659061432
+trial_2	masoprocol	363	KG00098184	burns injury	0.022539405152201653
+trial_2	masoprocol	341	KG00101472	Gamma-glutamyltransferase increased	0.02251277305185795
+trial_2	masoprocol	456	KG00099420	Influenzae	0.022279012948274612
+trial_2	masoprocol	30	KG00099500	Acute Kidney Failure	0.022227976471185684
+trial_2	masoprocol	1	KG00099959	Neutropenia NOS	0.02214067056775093

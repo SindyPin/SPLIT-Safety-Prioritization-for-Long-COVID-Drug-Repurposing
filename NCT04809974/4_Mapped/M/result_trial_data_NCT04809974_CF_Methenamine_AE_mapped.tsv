@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08972722291946411
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08811530470848083
+trial_1	placebo	87	KG00098599	diarrhoea	0.07046467065811157
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05691642686724663
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05407537519931793
+trial_1	placebo	77	KG00098450	Constipation NOS	0.052305933088064194
+trial_1	placebo	21	KG00098675	dyspnoea	0.05073027312755585
+trial_1	placebo	123	KG00099351	hypokalaemia	0.049179740250110626
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04878104105591774
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04755515977740288
+trial_1	placebo	46	KG00099121	Headache NOS	0.04456429183483124
+trial_1	placebo	20	KG00098540	dehydration	0.04437151551246643
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04406721517443657
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04303776100277901
+trial_1	placebo	68	KG00099901	nauseas	0.04220864921808243
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04129857197403908
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0389869399368763
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03867043927311897
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03666922077536583
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.036108214408159256
+trial_1	placebo	126	KG00100076	Pain NOS	0.0334600955247879
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03329727053642273
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.033032361418008804
+trial_1	placebo	29	KG00099354	hyponatraemia	0.032203610986471176
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03208582103252411
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.031479254364967346
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030713504180312157
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0293029323220253
+trial_1	placebo	228	KG00114657	Weight below normal	0.02888682670891285
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028122181072831154
+trial_1	placebo	114	KG00098933	fevers	0.027484023943543434
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.027172761037945747
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02663026936352253
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026360295712947845
+trial_1	placebo	85	KG00098474	coughs	0.026102982461452484
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025050826370716095
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.024766117334365845
+trial_1	placebo	147	KG00098000	atelectases	0.024304695427417755
+trial_1	placebo	269	KG00100399	pyaemia	0.024199822917580605
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.023634502664208412
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02323250286281109
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02322344295680523
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02161526307463646
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.021244432777166367
+trial_1	placebo	121	KG00099190	haemorrhage	0.021215682849287987
+trial_1	placebo	18	KG00098307	Pain, Chest	0.021144911646842957
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021045951172709465
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.020431064069271088
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02009674720466137
+trial_1	placebo	164	KG00108827	ileus colon	0.019621096551418304
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019367434084415436
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019042225554585457
+trial_1	placebo	239	KG00100128	pareses	0.018926477059721947
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.018815748393535614
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.018794618546962738
+trial_1	placebo	104	KG00097963	arthralgias	0.018627217039465904
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0181116946041584
+trial_1	placebo	441	KG00098262	cellulitis nos	0.018061604350805283
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01790435239672661
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017898986116051674
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017572956159710884
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01745898276567459
+trial_1	placebo	234	KG00098669	dysgeusias	0.01743117719888687
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.017429912462830544
+trial_1	placebo	5	KG00099169	haematuria	0.017260262742638588
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016732892021536827
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0161698330193758
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.015365542843937874
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.015337714925408363
+trial_1	placebo	25	KG00099134	congestive failures heart	0.015311392955482006
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.015287945978343487
+trial_1	placebo	82	KG00097697	abdomen distended	0.014791208319365978
+trial_1	placebo	102	KG00097916	anxieties	0.014554203487932682
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01413497980684042
+trial_1	placebo	262	KG00101199	agitation	0.014050574973225594
+trial_1	placebo	72	KG00103771	myalgias	0.013889395631849766
+trial_1	placebo	186	KG00101431	creatinine increased	0.013723223470151424
+trial_1	placebo	466	KG00101205	fall	0.013404106721282005
+trial_1	placebo	116	KG00098964	Pain in foot	0.01334838941693306
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.013326595537364483
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.013135041110217571
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013064486905932426
+trial_1	placebo	11	KG00097993	Asthma NOS	0.013035591691732407
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.012880724854767323
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.012844066135585308
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.012821377255022526
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.012731844559311867
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012652648612856865
+trial_1	placebo	282	KG00099309	hypernatraemia	0.012584937736392021
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.012199637480080128
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012189303524792194
+trial_1	placebo	132	KG00101045	Gain, Weight	0.012177275493741035
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.012098521925508976
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.012037141248583794
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.011931818909943104
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011538407765328884
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.011350804008543491
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.011342721059918404
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.011280105449259281
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011218396946787834
+trial_2	methenamine	78	KG00099326	Hypertensive diseases	0.08972722291946411
+trial_2	methenamine	9	KG00098432	Confusion NOS	0.08811530470848083
+trial_2	methenamine	87	KG00098599	diarrhoea	0.07046467065811157
+trial_2	methenamine	177	KG00099299	hyperglycaemia	0.05691642686724663
+trial_2	methenamine	173	KG00098172	Bronchopneumonia NOS	0.05407537519931793
+trial_2	methenamine	77	KG00098450	Constipation NOS	0.052305933088064194
+trial_2	methenamine	21	KG00098675	dyspnoea	0.05073027312755585
+trial_2	methenamine	123	KG00099351	hypokalaemia	0.049179740250110626
+trial_2	methenamine	14	KG00097852	Anemia NOS	0.04878104105591774
+trial_2	methenamine	17	KG00097991	Asthenia NOS	0.04755515977740288
+trial_2	methenamine	46	KG00099121	Headache NOS	0.04456429183483124
+trial_2	methenamine	20	KG00098540	dehydration	0.04437151551246643
+trial_2	methenamine	151	KG00098274	Infarction, Cerebral	0.04406721517443657
+trial_2	methenamine	2	KG00100772	thrombocytopaenia	0.04303776100277901
+trial_2	methenamine	68	KG00099901	nauseas	0.04220864921808243
+trial_2	methenamine	37	KG00097696	Cramps, Abdominal	0.04129857197403908
+trial_2	methenamine	61	KG00099501	Chronic Kidney Failure	0.0389869399368763
+trial_2	methenamine	180	KG00099363	Hypotension NOS	0.03867043927311897
+trial_2	methenamine	200	KG00098539	Disorders, Deglutition	0.03666922077536583
+trial_2	methenamine	49	KG00099902	nausea with vomiting	0.036108214408159256
+trial_2	methenamine	126	KG00100076	Pain NOS	0.0334600955247879
+trial_2	methenamine	79	KG00100317	Insomnia, Primary	0.03329727053642273
+trial_2	methenamine	67	KG00098673	Dyspepsia, NOS	0.033032361418008804
+trial_2	methenamine	29	KG00099354	hyponatraemia	0.032203610986471176
+trial_2	methenamine	76	KG00100450	Respiratory insufficiency, NOS	0.03208582103252411
+trial_2	methenamine	96	KG00101679	Unattended death NOS	0.031479254364967346
+trial_2	methenamine	30	KG00099500	Acute Kidney Failure	0.030713504180312157
+trial_2	methenamine	350	KG00106765	decreased platelet count	0.0293029323220253
+trial_2	methenamine	228	KG00114657	Weight below normal	0.02888682670891285
+trial_2	methenamine	361	KG00098004	Fibrillation, Atrial	0.028122181072831154
+trial_2	methenamine	114	KG00098933	fevers	0.027484023943543434
+trial_2	methenamine	189	KG00101580	Alanine aminotransferase increase	0.027172761037945747
+trial_2	methenamine	396	KG00100373	Embolism, Pulmonary	0.02663026936352253
+trial_2	methenamine	142	KG00100923	Unspecified infectious and parasitic diseases	0.026360295712947845
+trial_2	methenamine	85	KG00098474	coughs	0.026102982461452484
+trial_2	methenamine	276	KG00099127	Arrest, Cardiac	0.025050826370716095
+trial_2	methenamine	188	KG00101579	Aspartate aminotransferase increase	0.024766117334365845
+trial_2	methenamine	147	KG00098000	atelectases	0.024304695427417755
+trial_2	methenamine	269	KG00100399	pyaemia	0.024199822917580605
+trial_2	methenamine	31	KG00099872	Infarction, Myocardial	0.023634502664208412
+trial_2	methenamine	15	KG00097882	Angina pectoris NOS	0.02323250286281109
+trial_2	methenamine	86	KG00098565	Depression, Mental	0.02322344295680523
+trial_2	methenamine	75	KG00100195	Dolens, Phlegmasia Alba	0.02161526307463646
+trial_2	methenamine	64	KG00097734	Acrodermatitis, NOS	0.021244432777166367
+trial_2	methenamine	121	KG00099190	haemorrhage	0.021215682849287987
+trial_2	methenamine	18	KG00098307	Pain, Chest	0.021144911646842957
+trial_2	methenamine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.021045951172709465
+trial_2	methenamine	28	KG00099347	hypoglycaemia	0.020431064069271088
+trial_2	methenamine	131	KG00100948	Urinary tract infection (& [NOS])	0.02009674720466137
+trial_2	methenamine	164	KG00108827	ileus colon	0.019621096551418304
+trial_2	methenamine	144	KG00099610	Leukopenia NOS	0.019367434084415436
+trial_2	methenamine	27	KG00099303	hyperkalaemia	0.019042225554585457
+trial_2	methenamine	239	KG00100128	pareses	0.018926477059721947
+trial_2	methenamine	243	KG00100947	Micturition frequency increased	0.018815748393535614
+trial_2	methenamine	179	KG00099342	hypocalcaemia	0.018794618546962738
+trial_2	methenamine	104	KG00097963	arthralgias	0.018627217039465904
+trial_2	methenamine	253	KG00100232	Pleural effusion NOS (disorder)	0.0181116946041584
+trial_2	methenamine	441	KG00098262	cellulitis nos	0.018061604350805283
+trial_2	methenamine	69	KG00100082	Palpitations NOS	0.01790435239672661
+trial_2	methenamine	194	KG00110727	Neutrophil Count Decreased	0.017898986116051674
+trial_2	methenamine	122	KG00099321	Hypersensitivity NOS	0.017572956159710884
+trial_2	methenamine	1	KG00099959	Neutropenia NOS	0.01745898276567459
+trial_2	methenamine	234	KG00098669	dysgeusias	0.01743117719888687
+trial_2	methenamine	101	KG00097901	Anorexia NOS	0.017429912462830544
+trial_2	methenamine	5	KG00099169	haematuria	0.017260262742638588
+trial_2	methenamine	286	KG00101110	Retention, Urinary	0.016732892021536827
+trial_2	methenamine	38	KG00098066	Binocular vision disorders	0.0161698330193758
+trial_2	methenamine	133	KG00101370	neuropathies sensory	0.015365542843937874
+trial_2	methenamine	261	KG00101559	raised alkaline phosphatase	0.015337714925408363
+trial_2	methenamine	25	KG00099134	congestive failures heart	0.015311392955482006
+trial_2	methenamine	249	KG00104430	hypoalbuminaemia	0.015287945978343487
+trial_2	methenamine	82	KG00097697	abdomen distended	0.014791208319365978
+trial_2	methenamine	102	KG00097916	anxieties	0.014554203487932682
+trial_2	methenamine	166	KG00099773	menopausal syndrome	0.01413497980684042
+trial_2	methenamine	262	KG00101199	agitation	0.014050574973225594
+trial_2	methenamine	72	KG00103771	myalgias	0.013889395631849766
+trial_2	methenamine	186	KG00101431	creatinine increased	0.013723223470151424
+trial_2	methenamine	466	KG00101205	fall	0.013404106721282005
+trial_2	methenamine	116	KG00098964	Pain in foot	0.01334838941693306
+trial_2	methenamine	268	KG00099557	Heart Failure, Left-Sided	0.013326595537364483
+trial_2	methenamine	118	KG00099011	Gastritis NOS	0.013135041110217571
+trial_2	methenamine	221	KG00101207	peripheral oedema	0.013064486905932426
+trial_2	methenamine	11	KG00097993	Asthma NOS	0.013035591691732407
+trial_2	methenamine	35	KG00101507	hypomagnesaemia	0.012880724854767323
+trial_2	methenamine	22	KG00098705	Edema (NOS)	0.012844066135585308
+trial_2	methenamine	170	KG00108926	Neutropenia, Febrile	0.012821377255022526
+trial_2	methenamine	254	KG00100774	Thrombosis NOS	0.012731844559311867
+trial_2	methenamine	130	KG00100683	Stomatitis NOS	0.012652648612856865
+trial_2	methenamine	282	KG00099309	hypernatraemia	0.012584937736392021
+trial_2	methenamine	204	KG00098849	Esophagitis, Peptic	0.012199637480080128
+trial_2	methenamine	138	KG00098796	epidemic vomiting syndrome	0.012189303524792194
+trial_2	methenamine	132	KG00101045	Gain, Weight	0.012177275493741035
+trial_2	methenamine	92	KG00100926	Infections, Upper Respiratory	0.012098521925508976
+trial_2	methenamine	163	KG00104050	bowel obstructions small	0.012037141248583794
+trial_2	methenamine	218	KG00100801	Tinnitus NOS	0.011931818909943104
+trial_2	methenamine	191	KG00104055	Biliverdin increased	0.011538407765328884
+trial_2	methenamine	356	KG00112623	Infectious Lung Disorders	0.011350804008543491
+trial_2	methenamine	139	KG00098855	Sinusitis, Ethmoid	0.011342721059918404
+trial_2	methenamine	394	KG00100243	Pneumonia, Aspiration	0.011280105449259281
+trial_2	methenamine	33	KG00100094	Pancreatitis NOS	0.011218396946787834

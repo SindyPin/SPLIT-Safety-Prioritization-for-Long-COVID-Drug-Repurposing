@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10780637711286545
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06280798465013504
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.060293521732091904
+trial_1	placebo	68	KG00099901	nauseas	0.05886240303516388
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05791819468140602
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.057672061026096344
+trial_1	placebo	87	KG00098599	diarrhoea	0.05421523004770279
+trial_1	placebo	46	KG00099121	Headache NOS	0.04698215425014496
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04160859435796738
+trial_1	placebo	21	KG00098675	dyspnoea	0.04004095494747162
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0366680771112442
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03607820346951485
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03411637246608734
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.03273670747876167
+trial_1	placebo	66	KG00098642	drowsiness	0.03099612519145012
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.030642258003354073
+trial_1	placebo	20	KG00098540	dehydration	0.030501065775752068
+trial_1	placebo	126	KG00100076	Pain NOS	0.029566805809736252
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.028289373964071274
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.027977900579571724
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.026506150141358376
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.025691848248243332
+trial_1	placebo	114	KG00098933	fevers	0.025401674211025238
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.025327621027827263
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0228992011398077
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02253722958266735
+trial_1	placebo	228	KG00114657	Weight below normal	0.021811040118336678
+trial_1	placebo	300	KG00101064	xerostomia	0.02159702777862549
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.021466970443725586
+trial_1	placebo	102	KG00097916	anxieties	0.021299196407198906
+trial_1	placebo	85	KG00098474	coughs	0.02063843607902527
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.020359298214316368
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02033604308962822
+trial_1	placebo	14	KG00097852	Anemia NOS	0.01995224878191948
+trial_1	placebo	104	KG00097963	arthralgias	0.019241929054260254
+trial_1	placebo	147	KG00098000	atelectases	0.019197210669517517
+trial_1	placebo	29	KG00099354	hyponatraemia	0.01913812942802906
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.018417134881019592
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018407413735985756
+trial_1	placebo	86	KG00098565	Depression, Mental	0.018231799826025963
+trial_1	placebo	121	KG00099190	haemorrhage	0.01767420955002308
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.017656782642006874
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.017512772232294083
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01750156842172146
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.017327914014458656
+trial_1	placebo	239	KG00100128	pareses	0.01655396819114685
+trial_1	placebo	5	KG00099169	haematuria	0.016235992312431335
+trial_1	placebo	262	KG00101199	agitation	0.015724144876003265
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01554055605083704
+trial_1	placebo	234	KG00098669	dysgeusias	0.014946185983717442
+trial_1	placebo	242	KG00100855	tremors	0.014800933189690113
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01454662811011076
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01453365944325924
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014509196393191814
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.014427462592720985
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.014347100630402565
+trial_1	placebo	132	KG00101045	Gain, Weight	0.01427283976227045
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.014238151721656322
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.013865996152162552
+trial_1	placebo	269	KG00100399	pyaemia	0.01380367111414671
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.013549244031310081
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.013445492833852768
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01303134672343731
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.013029500842094421
+trial_1	placebo	221	KG00101207	peripheral oedema	0.012858050875365734
+trial_1	placebo	466	KG00101205	fall	0.01260937936604023
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012440781109035015
+trial_1	placebo	116	KG00098964	Pain in foot	0.012401718646287918
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01226084865629673
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012129507958889008
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.012003753334283829
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.011947964318096638
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011926249600946903
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.011884672567248344
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.011876454576849937
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01173936016857624
+trial_1	placebo	82	KG00097697	abdomen distended	0.011701085604727268
+trial_1	placebo	136	KG00101582	Dry;skin	0.011469381861388683
+trial_1	placebo	164	KG00108827	ileus colon	0.011459081433713436
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.011367205530405045
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01133932638913393
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011207700707018375
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.011057904921472073
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.010969815775752068
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.010967896319925785
+trial_1	placebo	11	KG00097993	Asthma NOS	0.010923471301794052
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.010893846862018108
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.010887030512094498
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.010400827042758465
+trial_1	placebo	72	KG00103771	myalgias	0.010118173435330391
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.010088806040585041
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.010056573897600174
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.009981676004827023
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.009917054325342178
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.009903415106236935
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.009790211915969849
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.009354489855468273
+trial_1	placebo	153	KG00099579	lethargy	0.009302100166678429
+trial_1	placebo	333	KG00104019	DOPINESS	0.00923789944499731
+trial_1	placebo	282	KG00099309	hypernatraemia	0.008913999423384666
+trial_2	meperidine	9	KG00098432	Confusion NOS	0.10780637711286545
+trial_2	meperidine	77	KG00098450	Constipation NOS	0.06280798465013504
+trial_2	meperidine	78	KG00099326	Hypertensive diseases	0.060293521732091904
+trial_2	meperidine	68	KG00099901	nauseas	0.05886240303516388
+trial_2	meperidine	17	KG00097991	Asthenia NOS	0.05791819468140602
+trial_2	meperidine	49	KG00099902	nausea with vomiting	0.057672061026096344
+trial_2	meperidine	87	KG00098599	diarrhoea	0.05421523004770279
+trial_2	meperidine	46	KG00099121	Headache NOS	0.04698215425014496
+trial_2	meperidine	79	KG00100317	Insomnia, Primary	0.04160859435796738
+trial_2	meperidine	21	KG00098675	dyspnoea	0.04004095494747162
+trial_2	meperidine	173	KG00098172	Bronchopneumonia NOS	0.0366680771112442
+trial_2	meperidine	64	KG00097734	Acrodermatitis, NOS	0.03607820346951485
+trial_2	meperidine	123	KG00099351	hypokalaemia	0.03411637246608734
+trial_2	meperidine	177	KG00099299	hyperglycaemia	0.03273670747876167
+trial_2	meperidine	66	KG00098642	drowsiness	0.03099612519145012
+trial_2	meperidine	211	KG00100341	Pruritus NOS	0.030642258003354073
+trial_2	meperidine	20	KG00098540	dehydration	0.030501065775752068
+trial_2	meperidine	126	KG00100076	Pain NOS	0.029566805809736252
+trial_2	meperidine	101	KG00097901	Anorexia NOS	0.028289373964071274
+trial_2	meperidine	151	KG00098274	Infarction, Cerebral	0.027977900579571724
+trial_2	meperidine	180	KG00099363	Hypotension NOS	0.026506150141358376
+trial_2	meperidine	37	KG00097696	Cramps, Abdominal	0.025691848248243332
+trial_2	meperidine	114	KG00098933	fevers	0.025401674211025238
+trial_2	meperidine	67	KG00098673	Dyspepsia, NOS	0.025327621027827263
+trial_2	meperidine	61	KG00099501	Chronic Kidney Failure	0.0228992011398077
+trial_2	meperidine	200	KG00098539	Disorders, Deglutition	0.02253722958266735
+trial_2	meperidine	228	KG00114657	Weight below normal	0.021811040118336678
+trial_2	meperidine	300	KG00101064	xerostomia	0.02159702777862549
+trial_2	meperidine	76	KG00100450	Respiratory insufficiency, NOS	0.021466970443725586
+trial_2	meperidine	102	KG00097916	anxieties	0.021299196407198906
+trial_2	meperidine	85	KG00098474	coughs	0.02063843607902527
+trial_2	meperidine	96	KG00101679	Unattended death NOS	0.020359298214316368
+trial_2	meperidine	189	KG00101580	Alanine aminotransferase increase	0.02033604308962822
+trial_2	meperidine	14	KG00097852	Anemia NOS	0.01995224878191948
+trial_2	meperidine	104	KG00097963	arthralgias	0.019241929054260254
+trial_2	meperidine	147	KG00098000	atelectases	0.019197210669517517
+trial_2	meperidine	29	KG00099354	hyponatraemia	0.01913812942802906
+trial_2	meperidine	188	KG00101579	Aspartate aminotransferase increase	0.018417134881019592
+trial_2	meperidine	69	KG00100082	Palpitations NOS	0.018407413735985756
+trial_2	meperidine	86	KG00098565	Depression, Mental	0.018231799826025963
+trial_2	meperidine	121	KG00099190	haemorrhage	0.01767420955002308
+trial_2	meperidine	30	KG00099500	Acute Kidney Failure	0.017656782642006874
+trial_2	meperidine	396	KG00100373	Embolism, Pulmonary	0.017512772232294083
+trial_2	meperidine	18	KG00098307	Pain, Chest	0.01750156842172146
+trial_2	meperidine	28	KG00099347	hypoglycaemia	0.017327914014458656
+trial_2	meperidine	239	KG00100128	pareses	0.01655396819114685
+trial_2	meperidine	5	KG00099169	haematuria	0.016235992312431335
+trial_2	meperidine	262	KG00101199	agitation	0.015724144876003265
+trial_2	meperidine	142	KG00100923	Unspecified infectious and parasitic diseases	0.01554055605083704
+trial_2	meperidine	234	KG00098669	dysgeusias	0.014946185983717442
+trial_2	meperidine	242	KG00100855	tremors	0.014800933189690113
+trial_2	meperidine	441	KG00098262	cellulitis nos	0.01454662811011076
+trial_2	meperidine	131	KG00100948	Urinary tract infection (& [NOS])	0.01453365944325924
+trial_2	meperidine	22	KG00098705	Edema (NOS)	0.014509196393191814
+trial_2	meperidine	38	KG00098066	Binocular vision disorders	0.014427462592720985
+trial_2	meperidine	243	KG00100947	Micturition frequency increased	0.014347100630402565
+trial_2	meperidine	132	KG00101045	Gain, Weight	0.01427283976227045
+trial_2	meperidine	179	KG00099342	hypocalcaemia	0.014238151721656322
+trial_2	meperidine	2	KG00100772	thrombocytopaenia	0.013865996152162552
+trial_2	meperidine	269	KG00100399	pyaemia	0.01380367111414671
+trial_2	meperidine	286	KG00101110	Retention, Urinary	0.013549244031310081
+trial_2	meperidine	130	KG00100683	Stomatitis NOS	0.013445492833852768
+trial_2	meperidine	350	KG00106765	decreased platelet count	0.01303134672343731
+trial_2	meperidine	75	KG00100195	Dolens, Phlegmasia Alba	0.013029500842094421
+trial_2	meperidine	221	KG00101207	peripheral oedema	0.012858050875365734
+trial_2	meperidine	466	KG00101205	fall	0.01260937936604023
+trial_2	meperidine	361	KG00098004	Fibrillation, Atrial	0.012440781109035015
+trial_2	meperidine	116	KG00098964	Pain in foot	0.012401718646287918
+trial_2	meperidine	15	KG00097882	Angina pectoris NOS	0.01226084865629673
+trial_2	meperidine	31	KG00099872	Infarction, Myocardial	0.012129507958889008
+trial_2	meperidine	36	KG00106434	Vision, Blurring Of	0.012003753334283829
+trial_2	meperidine	199	KG00098371	Rhinitis (chronic) NOS	0.011947964318096638
+trial_2	meperidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011926249600946903
+trial_2	meperidine	122	KG00099321	Hypersensitivity NOS	0.011884672567248344
+trial_2	meperidine	253	KG00100232	Pleural effusion NOS (disorder)	0.011876454576849937
+trial_2	meperidine	261	KG00101559	raised alkaline phosphatase	0.01173936016857624
+trial_2	meperidine	82	KG00097697	abdomen distended	0.011701085604727268
+trial_2	meperidine	136	KG00101582	Dry;skin	0.011469381861388683
+trial_2	meperidine	164	KG00108827	ileus colon	0.011459081433713436
+trial_2	meperidine	138	KG00098796	epidemic vomiting syndrome	0.011367205530405045
+trial_2	meperidine	249	KG00104430	hypoalbuminaemia	0.01133932638913393
+trial_2	meperidine	118	KG00099011	Gastritis NOS	0.011207700707018375
+trial_2	meperidine	27	KG00099303	hyperkalaemia	0.011057904921472073
+trial_2	meperidine	89	KG00099301	Hyperhidrosis (disorder)	0.010969815775752068
+trial_2	meperidine	166	KG00099773	menopausal syndrome	0.010967896319925785
+trial_2	meperidine	11	KG00097993	Asthma NOS	0.010923471301794052
+trial_2	meperidine	191	KG00104055	Biliverdin increased	0.010893846862018108
+trial_2	meperidine	394	KG00100243	Pneumonia, Aspiration	0.010887030512094498
+trial_2	meperidine	139	KG00098855	Sinusitis, Ethmoid	0.010400827042758465
+trial_2	meperidine	72	KG00103771	myalgias	0.010118173435330391
+trial_2	meperidine	254	KG00100774	Thrombosis NOS	0.010088806040585041
+trial_2	meperidine	35	KG00101507	hypomagnesaemia	0.010056573897600174
+trial_2	meperidine	276	KG00099127	Arrest, Cardiac	0.009981676004827023
+trial_2	meperidine	371	KG00098517	Cystitis (NOS)	0.009917054325342178
+trial_2	meperidine	92	KG00100926	Infections, Upper Respiratory	0.009903415106236935
+trial_2	meperidine	218	KG00100801	Tinnitus NOS	0.009790211915969849
+trial_2	meperidine	422	KG00101429	Creatine phosphokinase increased	0.009354489855468273
+trial_2	meperidine	153	KG00099579	lethargy	0.009302100166678429
+trial_2	meperidine	333	KG00104019	DOPINESS	0.00923789944499731
+trial_2	meperidine	282	KG00099309	hypernatraemia	0.008913999423384666

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1853463053703308
+trial_1	placebo	87	KG00098599	diarrhoea	0.16094599664211273
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12752152979373932
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1274539977312088
+trial_1	placebo	20	KG00098540	dehydration	0.10795683413743973
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10451214760541916
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10274700075387955
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09363111853599548
+trial_1	placebo	46	KG00099121	Headache NOS	0.08695121109485626
+trial_1	placebo	68	KG00099901	nauseas	0.08546590805053711
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08321002125740051
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08094684034585953
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07975403219461441
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07648229598999023
+trial_1	placebo	21	KG00098675	dyspnoea	0.07502748817205429
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07026553899049759
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07008305937051773
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06652197986841202
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06407532840967178
+trial_1	placebo	29	KG00099354	hyponatraemia	0.061284389346838
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06115880236029625
+trial_1	placebo	104	KG00097963	arthralgias	0.06001465022563934
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0598268024623394
+trial_1	placebo	228	KG00114657	Weight below normal	0.059201404452323914
+trial_1	placebo	114	KG00098933	fevers	0.05548718199133873
+trial_1	placebo	126	KG00100076	Pain NOS	0.05372469872236252
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05337483063340187
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.052894189953804016
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05287574231624603
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.052476998418569565
+trial_1	placebo	85	KG00098474	coughs	0.05160093680024147
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05130211263895035
+trial_1	placebo	239	KG00100128	pareses	0.0508609414100647
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0490606315433979
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.048598762601614
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04825899749994278
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.048200566321611404
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.047782670706510544
+trial_1	placebo	5	KG00099169	haematuria	0.04629417508840561
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04600570350885391
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.045632872730493546
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.045402176678180695
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04444273188710213
+trial_1	placebo	72	KG00103771	myalgias	0.044176019728183746
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.043243877589702606
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04243572801351547
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03709401935338974
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03708840161561966
+trial_1	placebo	102	KG00097916	anxieties	0.03683016821742058
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03620760142803192
+trial_1	placebo	147	KG00098000	atelectases	0.03517673909664154
+trial_1	placebo	164	KG00108827	ileus colon	0.03471128270030022
+trial_1	placebo	262	KG00101199	agitation	0.03431239724159241
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03342267498373985
+trial_1	placebo	116	KG00098964	Pain in foot	0.032803431153297424
+trial_1	placebo	121	KG00099190	haemorrhage	0.03262855485081673
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.032417070120573044
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0320756696164608
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03205055743455887
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03186560049653053
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.031769439578056335
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03146551176905632
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03081594780087471
+trial_1	placebo	466	KG00101205	fall	0.030049996450543404
+trial_1	placebo	82	KG00097697	abdomen distended	0.029657965525984764
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02931678481400013
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.028969373553991318
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.028877725824713707
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.028166688978672028
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.028099987655878067
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.028034312650561333
+trial_1	placebo	269	KG00100399	pyaemia	0.027615023776888847
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027291512116789818
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02725672721862793
+trial_1	placebo	100	KG00097815	alopecias	0.027040403336286545
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02659391053020954
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02648800238966942
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.026462899520993233
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0262320376932621
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02616558037698269
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025847597047686577
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02573217637836933
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02551381103694439
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.025386685505509377
+trial_1	placebo	242	KG00100855	tremors	0.025264574214816093
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02523503266274929
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025223536416888237
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.025082096457481384
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024728266522288322
+trial_1	placebo	221	KG00101207	peripheral oedema	0.024699905887246132
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02460923045873642
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024073027074337006
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02374141663312912
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023735061287879944
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023693231865763664
+trial_1	placebo	339	KG00100334	proteinurias	0.023643437772989273
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02352522686123848
+trial_1	placebo	186	KG00101431	creatinine increased	0.02337546832859516
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02300451137125492
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.022679340094327927
+trial_2	metipranolol	78	KG00099326	Hypertensive diseases	0.1853463053703308
+trial_2	metipranolol	87	KG00098599	diarrhoea	0.16094599664211273
+trial_2	metipranolol	177	KG00099299	hyperglycaemia	0.12752152979373932
+trial_2	metipranolol	17	KG00097991	Asthenia NOS	0.1274539977312088
+trial_2	metipranolol	20	KG00098540	dehydration	0.10795683413743973
+trial_2	metipranolol	9	KG00098432	Confusion NOS	0.10451214760541916
+trial_2	metipranolol	173	KG00098172	Bronchopneumonia NOS	0.10274700075387955
+trial_2	metipranolol	123	KG00099351	hypokalaemia	0.09363111853599548
+trial_2	metipranolol	46	KG00099121	Headache NOS	0.08695121109485626
+trial_2	metipranolol	68	KG00099901	nauseas	0.08546590805053711
+trial_2	metipranolol	79	KG00100317	Insomnia, Primary	0.08321002125740051
+trial_2	metipranolol	77	KG00098450	Constipation NOS	0.08094684034585953
+trial_2	metipranolol	49	KG00099902	nausea with vomiting	0.07975403219461441
+trial_2	metipranolol	189	KG00101580	Alanine aminotransferase increase	0.07648229598999023
+trial_2	metipranolol	21	KG00098675	dyspnoea	0.07502748817205429
+trial_2	metipranolol	67	KG00098673	Dyspepsia, NOS	0.07026553899049759
+trial_2	metipranolol	37	KG00097696	Cramps, Abdominal	0.07008305937051773
+trial_2	metipranolol	188	KG00101579	Aspartate aminotransferase increase	0.06652197986841202
+trial_2	metipranolol	200	KG00098539	Disorders, Deglutition	0.06407532840967178
+trial_2	metipranolol	29	KG00099354	hyponatraemia	0.061284389346838
+trial_2	metipranolol	86	KG00098565	Depression, Mental	0.06115880236029625
+trial_2	metipranolol	104	KG00097963	arthralgias	0.06001465022563934
+trial_2	metipranolol	350	KG00106765	decreased platelet count	0.0598268024623394
+trial_2	metipranolol	228	KG00114657	Weight below normal	0.059201404452323914
+trial_2	metipranolol	114	KG00098933	fevers	0.05548718199133873
+trial_2	metipranolol	126	KG00100076	Pain NOS	0.05372469872236252
+trial_2	metipranolol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05337483063340187
+trial_2	metipranolol	180	KG00099363	Hypotension NOS	0.052894189953804016
+trial_2	metipranolol	151	KG00098274	Infarction, Cerebral	0.05287574231624603
+trial_2	metipranolol	243	KG00100947	Micturition frequency increased	0.052476998418569565
+trial_2	metipranolol	85	KG00098474	coughs	0.05160093680024147
+trial_2	metipranolol	14	KG00097852	Anemia NOS	0.05130211263895035
+trial_2	metipranolol	239	KG00100128	pareses	0.0508609414100647
+trial_2	metipranolol	132	KG00101045	Gain, Weight	0.0490606315433979
+trial_2	metipranolol	27	KG00099303	hyperkalaemia	0.048598762601614
+trial_2	metipranolol	76	KG00100450	Respiratory insufficiency, NOS	0.04825899749994278
+trial_2	metipranolol	122	KG00099321	Hypersensitivity NOS	0.048200566321611404
+trial_2	metipranolol	64	KG00097734	Acrodermatitis, NOS	0.047782670706510544
+trial_2	metipranolol	5	KG00099169	haematuria	0.04629417508840561
+trial_2	metipranolol	28	KG00099347	hypoglycaemia	0.04600570350885391
+trial_2	metipranolol	96	KG00101679	Unattended death NOS	0.045632872730493546
+trial_2	metipranolol	179	KG00099342	hypocalcaemia	0.045402176678180695
+trial_2	metipranolol	2	KG00100772	thrombocytopaenia	0.04444273188710213
+trial_2	metipranolol	72	KG00103771	myalgias	0.044176019728183746
+trial_2	metipranolol	61	KG00099501	Chronic Kidney Failure	0.043243877589702606
+trial_2	metipranolol	101	KG00097901	Anorexia NOS	0.04243572801351547
+trial_2	metipranolol	139	KG00098855	Sinusitis, Ethmoid	0.03709401935338974
+trial_2	metipranolol	194	KG00110727	Neutrophil Count Decreased	0.03708840161561966
+trial_2	metipranolol	102	KG00097916	anxieties	0.03683016821742058
+trial_2	metipranolol	30	KG00099500	Acute Kidney Failure	0.03620760142803192
+trial_2	metipranolol	147	KG00098000	atelectases	0.03517673909664154
+trial_2	metipranolol	164	KG00108827	ileus colon	0.03471128270030022
+trial_2	metipranolol	262	KG00101199	agitation	0.03431239724159241
+trial_2	metipranolol	38	KG00098066	Binocular vision disorders	0.03342267498373985
+trial_2	metipranolol	116	KG00098964	Pain in foot	0.032803431153297424
+trial_2	metipranolol	121	KG00099190	haemorrhage	0.03262855485081673
+trial_2	metipranolol	276	KG00099127	Arrest, Cardiac	0.032417070120573044
+trial_2	metipranolol	131	KG00100948	Urinary tract infection (& [NOS])	0.0320756696164608
+trial_2	metipranolol	18	KG00098307	Pain, Chest	0.03205055743455887
+trial_2	metipranolol	261	KG00101559	raised alkaline phosphatase	0.03186560049653053
+trial_2	metipranolol	355	KG00110857	lymphocyte count decreased	0.031769439578056335
+trial_2	metipranolol	282	KG00099309	hypernatraemia	0.03146551176905632
+trial_2	metipranolol	142	KG00100923	Unspecified infectious and parasitic diseases	0.03081594780087471
+trial_2	metipranolol	466	KG00101205	fall	0.030049996450543404
+trial_2	metipranolol	82	KG00097697	abdomen distended	0.029657965525984764
+trial_2	metipranolol	35	KG00101507	hypomagnesaemia	0.02931678481400013
+trial_2	metipranolol	92	KG00100926	Infections, Upper Respiratory	0.028969373553991318
+trial_2	metipranolol	144	KG00099610	Leukopenia NOS	0.028877725824713707
+trial_2	metipranolol	396	KG00100373	Embolism, Pulmonary	0.028166688978672028
+trial_2	metipranolol	249	KG00104430	hypoalbuminaemia	0.028099987655878067
+trial_2	metipranolol	256	KG00100738	Tachycardia, Sinus	0.028034312650561333
+trial_2	metipranolol	269	KG00100399	pyaemia	0.027615023776888847
+trial_2	metipranolol	69	KG00100082	Palpitations NOS	0.027291512116789818
+trial_2	metipranolol	286	KG00101110	Retention, Urinary	0.02725672721862793
+trial_2	metipranolol	100	KG00097815	alopecias	0.027040403336286545
+trial_2	metipranolol	288	KG00101223	hypophosphataemia	0.02659391053020954
+trial_2	metipranolol	33	KG00100094	Pancreatitis NOS	0.02648800238966942
+trial_2	metipranolol	422	KG00101429	Creatine phosphokinase increased	0.026462899520993233
+trial_2	metipranolol	36	KG00106434	Vision, Blurring Of	0.0262320376932621
+trial_2	metipranolol	508	KG00108565	blood glucose increased	0.02616558037698269
+trial_2	metipranolol	31	KG00099872	Infarction, Myocardial	0.025847597047686577
+trial_2	metipranolol	22	KG00098705	Edema (NOS)	0.02573217637836933
+trial_2	metipranolol	191	KG00104055	Biliverdin increased	0.02551381103694439
+trial_2	metipranolol	204	KG00098849	Esophagitis, Peptic	0.025386685505509377
+trial_2	metipranolol	242	KG00100855	tremors	0.025264574214816093
+trial_2	metipranolol	297	KG00099294	hypercholesterolaemia	0.02523503266274929
+trial_2	metipranolol	341	KG00101472	Gamma-glutamyltransferase increased	0.025223536416888237
+trial_2	metipranolol	166	KG00099773	menopausal syndrome	0.025082096457481384
+trial_2	metipranolol	154	KG00099686	Lymphopenias	0.024728266522288322
+trial_2	metipranolol	221	KG00101207	peripheral oedema	0.024699905887246132
+trial_2	metipranolol	253	KG00100232	Pleural effusion NOS (disorder)	0.02460923045873642
+trial_2	metipranolol	75	KG00100195	Dolens, Phlegmasia Alba	0.024073027074337006
+trial_2	metipranolol	97	KG00104198	LIVER ENZYME ELEVATED	0.02374141663312912
+trial_2	metipranolol	118	KG00099011	Gastritis NOS	0.023735061287879944
+trial_2	metipranolol	130	KG00100683	Stomatitis NOS	0.023693231865763664
+trial_2	metipranolol	339	KG00100334	proteinurias	0.023643437772989273
+trial_2	metipranolol	361	KG00098004	Fibrillation, Atrial	0.02352522686123848
+trial_2	metipranolol	186	KG00101431	creatinine increased	0.02337546832859516
+trial_2	metipranolol	394	KG00100243	Pneumonia, Aspiration	0.02300451137125492
+trial_2	metipranolol	152	KG00099402	INCONTINENCE NOS	0.022679340094327927

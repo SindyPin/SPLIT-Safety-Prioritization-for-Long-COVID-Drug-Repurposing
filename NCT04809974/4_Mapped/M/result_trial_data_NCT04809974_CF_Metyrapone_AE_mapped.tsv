@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.117474265396595
+trial_1	placebo	87	KG00098599	diarrhoea	0.11201993376016617
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0927782654762268
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08919836580753326
+trial_1	placebo	46	KG00099121	Headache NOS	0.0853915810585022
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0720885694026947
+trial_1	placebo	68	KG00099901	nauseas	0.06991999596357346
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06552626192569733
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06500963866710663
+trial_1	placebo	123	KG00099351	hypokalaemia	0.059094492346048355
+trial_1	placebo	20	KG00098540	dehydration	0.057198770344257355
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.056652460247278214
+trial_1	placebo	21	KG00098675	dyspnoea	0.056282322853803635
+trial_1	placebo	228	KG00114657	Weight below normal	0.05343428999185562
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.051493093371391296
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04933585599064827
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04874109849333763
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04798729717731476
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04532461613416672
+trial_1	placebo	77	KG00098450	Constipation NOS	0.044102732092142105
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04170889034867287
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0385291762650013
+trial_1	placebo	29	KG00099354	hyponatraemia	0.038016192615032196
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.036670248955488205
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.036531031131744385
+trial_1	placebo	126	KG00100076	Pain NOS	0.03589676693081856
+trial_1	placebo	85	KG00098474	coughs	0.03588465228676796
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03553597256541252
+trial_1	placebo	114	KG00098933	fevers	0.03513062745332718
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0348566398024559
+trial_1	placebo	104	KG00097963	arthralgias	0.03427201882004738
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.033557672053575516
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032282304018735886
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0317254364490509
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03090726025402546
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.029740316793322563
+trial_1	placebo	102	KG00097916	anxieties	0.028927111998200417
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.028581898659467697
+trial_1	placebo	239	KG00100128	pareses	0.02856038138270378
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.027831733226776123
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026829369366168976
+trial_1	placebo	466	KG00101205	fall	0.026158999651670456
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02603699266910553
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02565363422036171
+trial_1	placebo	116	KG00098964	Pain in foot	0.024906590580940247
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023921797052025795
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023459969088435173
+trial_1	placebo	82	KG00097697	abdomen distended	0.02298683486878872
+trial_1	placebo	5	KG00099169	haematuria	0.0229511521756649
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022894788533449173
+trial_1	placebo	72	KG00103771	myalgias	0.02263498120009899
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.022601932287216187
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0221907626837492
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02174324169754982
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.021347109228372574
+trial_1	placebo	300	KG00101064	xerostomia	0.02128100022673607
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.021136343479156494
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020830407738685608
+trial_1	placebo	262	KG00101199	agitation	0.020300602540373802
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.020248129963874817
+trial_1	placebo	147	KG00098000	atelectases	0.020094286650419235
+trial_1	placebo	269	KG00100399	pyaemia	0.019880736246705055
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019810181111097336
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.019705794751644135
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019381511956453323
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019337402656674385
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019323939457535744
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01860889606177807
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018557602539658546
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.018508996814489365
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.018423251807689667
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01841087080538273
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018407048657536507
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01835193857550621
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.018230510875582695
+trial_1	placebo	456	KG00099420	Influenzae	0.017679888755083084
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0175258070230484
+trial_1	placebo	186	KG00101431	creatinine increased	0.017323903739452362
+trial_1	placebo	242	KG00100855	tremors	0.017304571345448494
+trial_1	placebo	234	KG00098669	dysgeusias	0.01711513102054596
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01708892174065113
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01706058345735073
+trial_1	placebo	66	KG00098642	drowsiness	0.016806568950414658
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016623176634311676
+trial_1	placebo	508	KG00108565	blood glucose increased	0.016396256163716316
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.016274964436888695
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0162651427090168
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016259359195828438
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.016236525028944016
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.016130154952406883
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015699028968811035
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.015629645437002182
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.015369078144431114
+trial_1	placebo	136	KG00101582	Dry;skin	0.01525736041367054
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01491693314164877
+trial_1	placebo	121	KG00099190	haemorrhage	0.014882155694067478
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01472271978855133
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.014449631795287132
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.014394792728126049
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.014385277405381203
+trial_2	metyrapone	9	KG00098432	Confusion NOS	0.117474265396595
+trial_2	metyrapone	87	KG00098599	diarrhoea	0.11201993376016617
+trial_2	metyrapone	17	KG00097991	Asthenia NOS	0.0927782654762268
+trial_2	metyrapone	78	KG00099326	Hypertensive diseases	0.08919836580753326
+trial_2	metyrapone	46	KG00099121	Headache NOS	0.0853915810585022
+trial_2	metyrapone	173	KG00098172	Bronchopneumonia NOS	0.0720885694026947
+trial_2	metyrapone	68	KG00099901	nauseas	0.06991999596357346
+trial_2	metyrapone	79	KG00100317	Insomnia, Primary	0.06552626192569733
+trial_2	metyrapone	177	KG00099299	hyperglycaemia	0.06500963866710663
+trial_2	metyrapone	123	KG00099351	hypokalaemia	0.059094492346048355
+trial_2	metyrapone	20	KG00098540	dehydration	0.057198770344257355
+trial_2	metyrapone	49	KG00099902	nausea with vomiting	0.056652460247278214
+trial_2	metyrapone	21	KG00098675	dyspnoea	0.056282322853803635
+trial_2	metyrapone	228	KG00114657	Weight below normal	0.05343428999185562
+trial_2	metyrapone	189	KG00101580	Alanine aminotransferase increase	0.051493093371391296
+trial_2	metyrapone	37	KG00097696	Cramps, Abdominal	0.04933585599064827
+trial_2	metyrapone	151	KG00098274	Infarction, Cerebral	0.04874109849333763
+trial_2	metyrapone	67	KG00098673	Dyspepsia, NOS	0.04798729717731476
+trial_2	metyrapone	64	KG00097734	Acrodermatitis, NOS	0.04532461613416672
+trial_2	metyrapone	77	KG00098450	Constipation NOS	0.044102732092142105
+trial_2	metyrapone	86	KG00098565	Depression, Mental	0.04170889034867287
+trial_2	metyrapone	188	KG00101579	Aspartate aminotransferase increase	0.0385291762650013
+trial_2	metyrapone	29	KG00099354	hyponatraemia	0.038016192615032196
+trial_2	metyrapone	101	KG00097901	Anorexia NOS	0.036670248955488205
+trial_2	metyrapone	200	KG00098539	Disorders, Deglutition	0.036531031131744385
+trial_2	metyrapone	126	KG00100076	Pain NOS	0.03589676693081856
+trial_2	metyrapone	85	KG00098474	coughs	0.03588465228676796
+trial_2	metyrapone	132	KG00101045	Gain, Weight	0.03553597256541252
+trial_2	metyrapone	114	KG00098933	fevers	0.03513062745332718
+trial_2	metyrapone	14	KG00097852	Anemia NOS	0.0348566398024559
+trial_2	metyrapone	104	KG00097963	arthralgias	0.03427201882004738
+trial_2	metyrapone	243	KG00100947	Micturition frequency increased	0.033557672053575516
+trial_2	metyrapone	96	KG00101679	Unattended death NOS	0.032282304018735886
+trial_2	metyrapone	350	KG00106765	decreased platelet count	0.0317254364490509
+trial_2	metyrapone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03090726025402546
+trial_2	metyrapone	28	KG00099347	hypoglycaemia	0.029740316793322563
+trial_2	metyrapone	102	KG00097916	anxieties	0.028927111998200417
+trial_2	metyrapone	180	KG00099363	Hypotension NOS	0.028581898659467697
+trial_2	metyrapone	239	KG00100128	pareses	0.02856038138270378
+trial_2	metyrapone	76	KG00100450	Respiratory insufficiency, NOS	0.027831733226776123
+trial_2	metyrapone	18	KG00098307	Pain, Chest	0.026829369366168976
+trial_2	metyrapone	466	KG00101205	fall	0.026158999651670456
+trial_2	metyrapone	131	KG00100948	Urinary tract infection (& [NOS])	0.02603699266910553
+trial_2	metyrapone	61	KG00099501	Chronic Kidney Failure	0.02565363422036171
+trial_2	metyrapone	116	KG00098964	Pain in foot	0.024906590580940247
+trial_2	metyrapone	139	KG00098855	Sinusitis, Ethmoid	0.023921797052025795
+trial_2	metyrapone	30	KG00099500	Acute Kidney Failure	0.023459969088435173
+trial_2	metyrapone	82	KG00097697	abdomen distended	0.02298683486878872
+trial_2	metyrapone	5	KG00099169	haematuria	0.0229511521756649
+trial_2	metyrapone	191	KG00104055	Biliverdin increased	0.022894788533449173
+trial_2	metyrapone	72	KG00103771	myalgias	0.02263498120009899
+trial_2	metyrapone	36	KG00106434	Vision, Blurring Of	0.022601932287216187
+trial_2	metyrapone	38	KG00098066	Binocular vision disorders	0.0221907626837492
+trial_2	metyrapone	166	KG00099773	menopausal syndrome	0.02174324169754982
+trial_2	metyrapone	27	KG00099303	hyperkalaemia	0.021347109228372574
+trial_2	metyrapone	300	KG00101064	xerostomia	0.02128100022673607
+trial_2	metyrapone	261	KG00101559	raised alkaline phosphatase	0.021136343479156494
+trial_2	metyrapone	441	KG00098262	cellulitis nos	0.020830407738685608
+trial_2	metyrapone	262	KG00101199	agitation	0.020300602540373802
+trial_2	metyrapone	2	KG00100772	thrombocytopaenia	0.020248129963874817
+trial_2	metyrapone	147	KG00098000	atelectases	0.020094286650419235
+trial_2	metyrapone	269	KG00100399	pyaemia	0.019880736246705055
+trial_2	metyrapone	361	KG00098004	Fibrillation, Atrial	0.019810181111097336
+trial_2	metyrapone	69	KG00100082	Palpitations NOS	0.019705794751644135
+trial_2	metyrapone	396	KG00100373	Embolism, Pulmonary	0.019381511956453323
+trial_2	metyrapone	211	KG00100341	Pruritus NOS	0.019337402656674385
+trial_2	metyrapone	221	KG00101207	peripheral oedema	0.019323939457535744
+trial_2	metyrapone	122	KG00099321	Hypersensitivity NOS	0.01860889606177807
+trial_2	metyrapone	142	KG00100923	Unspecified infectious and parasitic diseases	0.018557602539658546
+trial_2	metyrapone	276	KG00099127	Arrest, Cardiac	0.018508996814489365
+trial_2	metyrapone	194	KG00110727	Neutrophil Count Decreased	0.018423251807689667
+trial_2	metyrapone	199	KG00098371	Rhinitis (chronic) NOS	0.01841087080538273
+trial_2	metyrapone	11	KG00097993	Asthma NOS	0.018407048657536507
+trial_2	metyrapone	286	KG00101110	Retention, Urinary	0.01835193857550621
+trial_2	metyrapone	75	KG00100195	Dolens, Phlegmasia Alba	0.018230510875582695
+trial_2	metyrapone	456	KG00099420	Influenzae	0.017679888755083084
+trial_2	metyrapone	179	KG00099342	hypocalcaemia	0.0175258070230484
+trial_2	metyrapone	186	KG00101431	creatinine increased	0.017323903739452362
+trial_2	metyrapone	242	KG00100855	tremors	0.017304571345448494
+trial_2	metyrapone	234	KG00098669	dysgeusias	0.01711513102054596
+trial_2	metyrapone	92	KG00100926	Infections, Upper Respiratory	0.01708892174065113
+trial_2	metyrapone	31	KG00099872	Infarction, Myocardial	0.01706058345735073
+trial_2	metyrapone	66	KG00098642	drowsiness	0.016806568950414658
+trial_2	metyrapone	138	KG00098796	epidemic vomiting syndrome	0.016623176634311676
+trial_2	metyrapone	508	KG00108565	blood glucose increased	0.016396256163716316
+trial_2	metyrapone	355	KG00110857	lymphocyte count decreased	0.016274964436888695
+trial_2	metyrapone	33	KG00100094	Pancreatitis NOS	0.0162651427090168
+trial_2	metyrapone	204	KG00098849	Esophagitis, Peptic	0.016259359195828438
+trial_2	metyrapone	422	KG00101429	Creatine phosphokinase increased	0.016236525028944016
+trial_2	metyrapone	297	KG00099294	hypercholesterolaemia	0.016130154952406883
+trial_2	metyrapone	15	KG00097882	Angina pectoris NOS	0.015699028968811035
+trial_2	metyrapone	341	KG00101472	Gamma-glutamyltransferase increased	0.015629645437002182
+trial_2	metyrapone	249	KG00104430	hypoalbuminaemia	0.015369078144431114
+trial_2	metyrapone	136	KG00101582	Dry;skin	0.01525736041367054
+trial_2	metyrapone	118	KG00099011	Gastritis NOS	0.01491693314164877
+trial_2	metyrapone	121	KG00099190	haemorrhage	0.014882155694067478
+trial_2	metyrapone	22	KG00098705	Edema (NOS)	0.01472271978855133
+trial_2	metyrapone	89	KG00099301	Hyperhidrosis (disorder)	0.014449631795287132
+trial_2	metyrapone	152	KG00099402	INCONTINENCE NOS	0.014394792728126049
+trial_2	metyrapone	253	KG00100232	Pleural effusion NOS (disorder)	0.014385277405381203

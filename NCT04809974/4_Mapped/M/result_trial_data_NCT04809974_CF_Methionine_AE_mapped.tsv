@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1439976841211319
+trial_1	placebo	68	KG00099901	nauseas	0.07657905668020248
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06917750090360641
+trial_1	placebo	46	KG00099121	Headache NOS	0.06747602671384811
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06517118215560913
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05987190827727318
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05842706933617592
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.05186482146382332
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.050814345479011536
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.048828333616256714
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04881276190280914
+trial_1	placebo	21	KG00098675	dyspnoea	0.04741843044757843
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.046700380742549896
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04639892280101776
+trial_1	placebo	20	KG00098540	dehydration	0.04241792857646942
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.039361584931612015
+trial_1	placebo	114	KG00098933	fevers	0.03762447461485863
+trial_1	placebo	126	KG00100076	Pain NOS	0.037198301404714584
+trial_1	placebo	14	KG00097852	Anemia NOS	0.034422874450683594
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03431755676865578
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.032577142119407654
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.031102359294891357
+trial_1	placebo	228	KG00114657	Weight below normal	0.030303562059998512
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.029895320534706116
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.029185917228460312
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.027985403314232826
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.027739861980080605
+trial_1	placebo	85	KG00098474	coughs	0.02591358684003353
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02534034289419651
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.025227222591638565
+trial_1	placebo	72	KG00103771	myalgias	0.024553820490837097
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.023970773443579674
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.023523135110735893
+trial_1	placebo	147	KG00098000	atelectases	0.023305006325244904
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02321843057870865
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022957896813750267
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02291210927069187
+trial_1	placebo	82	KG00097697	abdomen distended	0.022911440581083298
+trial_1	placebo	350	KG00106765	decreased platelet count	0.022853219881653786
+trial_1	placebo	29	KG00099354	hyponatraemia	0.021738991141319275
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021298708394169807
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02112543396651745
+trial_1	placebo	104	KG00097963	arthralgias	0.020967427641153336
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.019978849217295647
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.019758211448788643
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019702639430761337
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.019178688526153564
+trial_1	placebo	5	KG00099169	haematuria	0.01897849328815937
+trial_1	placebo	121	KG00099190	haemorrhage	0.018977388739585876
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.018448352813720703
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018184175714850426
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.018130743876099586
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.017624976113438606
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01758497953414917
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01756453700363636
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.017230169847607613
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01718566194176674
+trial_1	placebo	234	KG00098669	dysgeusias	0.016980327665805817
+trial_1	placebo	239	KG00100128	pareses	0.01677749678492546
+trial_1	placebo	269	KG00100399	pyaemia	0.016695518046617508
+trial_1	placebo	116	KG00098964	Pain in foot	0.016565492376685143
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01612832397222519
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0157017782330513
+trial_1	placebo	102	KG00097916	anxieties	0.015548762865364552
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.014936164952814579
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.014887925237417221
+trial_1	placebo	466	KG00101205	fall	0.014665749855339527
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014236511662602425
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.014184782281517982
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.014106979593634605
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.013920661993324757
+trial_1	placebo	4	KG00098817	epistaxis	0.013801462948322296
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.013770591467618942
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.013735128566622734
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.013716725632548332
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.013353759422898293
+trial_1	placebo	11	KG00097993	Asthma NOS	0.012928350828588009
+trial_1	placebo	282	KG00099309	hypernatraemia	0.012890664860606194
+trial_1	placebo	503	KG00102612	low haemoglobin	0.012752857990562916
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.012625793926417828
+trial_1	placebo	262	KG00101199	agitation	0.012569096870720387
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012399575673043728
+trial_1	placebo	100	KG00097815	alopecias	0.012167120352387428
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01147299725562334
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.011468471959233284
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.011441625654697418
+trial_1	placebo	221	KG00101207	peripheral oedema	0.011433284729719162
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011282620020210743
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.011275622993707657
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.011248686350882053
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.011134532280266285
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01106274500489235
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.011033101007342339
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.011006603017449379
+trial_1	placebo	186	KG00101431	creatinine increased	0.010949559509754181
+trial_1	placebo	164	KG00108827	ileus colon	0.010879777371883392
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.010818454436957836
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.01055221725255251
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01033021043986082
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01026722602546215
+trial_2	methionine	87	KG00098599	diarrhoea	0.1439976841211319
+trial_2	methionine	68	KG00099901	nauseas	0.07657905668020248
+trial_2	methionine	9	KG00098432	Confusion NOS	0.06917750090360641
+trial_2	methionine	46	KG00099121	Headache NOS	0.06747602671384811
+trial_2	methionine	173	KG00098172	Bronchopneumonia NOS	0.06517118215560913
+trial_2	methionine	49	KG00099902	nausea with vomiting	0.05987190827727318
+trial_2	methionine	37	KG00097696	Cramps, Abdominal	0.05842706933617592
+trial_2	methionine	78	KG00099326	Hypertensive diseases	0.05186482146382332
+trial_2	methionine	67	KG00098673	Dyspepsia, NOS	0.050814345479011536
+trial_2	methionine	17	KG00097991	Asthenia NOS	0.048828333616256714
+trial_2	methionine	123	KG00099351	hypokalaemia	0.04881276190280914
+trial_2	methionine	21	KG00098675	dyspnoea	0.04741843044757843
+trial_2	methionine	177	KG00099299	hyperglycaemia	0.046700380742549896
+trial_2	methionine	77	KG00098450	Constipation NOS	0.04639892280101776
+trial_2	methionine	20	KG00098540	dehydration	0.04241792857646942
+trial_2	methionine	64	KG00097734	Acrodermatitis, NOS	0.039361584931612015
+trial_2	methionine	114	KG00098933	fevers	0.03762447461485863
+trial_2	methionine	126	KG00100076	Pain NOS	0.037198301404714584
+trial_2	methionine	14	KG00097852	Anemia NOS	0.034422874450683594
+trial_2	methionine	101	KG00097901	Anorexia NOS	0.03431755676865578
+trial_2	methionine	79	KG00100317	Insomnia, Primary	0.032577142119407654
+trial_2	methionine	189	KG00101580	Alanine aminotransferase increase	0.031102359294891357
+trial_2	methionine	228	KG00114657	Weight below normal	0.030303562059998512
+trial_2	methionine	96	KG00101679	Unattended death NOS	0.029895320534706116
+trial_2	methionine	151	KG00098274	Infarction, Cerebral	0.029185917228460312
+trial_2	methionine	2	KG00100772	thrombocytopaenia	0.027985403314232826
+trial_2	methionine	76	KG00100450	Respiratory insufficiency, NOS	0.027739861980080605
+trial_2	methionine	85	KG00098474	coughs	0.02591358684003353
+trial_2	methionine	200	KG00098539	Disorders, Deglutition	0.02534034289419651
+trial_2	methionine	180	KG00099363	Hypotension NOS	0.025227222591638565
+trial_2	methionine	72	KG00103771	myalgias	0.024553820490837097
+trial_2	methionine	61	KG00099501	Chronic Kidney Failure	0.023970773443579674
+trial_2	methionine	188	KG00101579	Aspartate aminotransferase increase	0.023523135110735893
+trial_2	methionine	147	KG00098000	atelectases	0.023305006325244904
+trial_2	methionine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02321843057870865
+trial_2	methionine	18	KG00098307	Pain, Chest	0.022957896813750267
+trial_2	methionine	86	KG00098565	Depression, Mental	0.02291210927069187
+trial_2	methionine	82	KG00097697	abdomen distended	0.022911440581083298
+trial_2	methionine	350	KG00106765	decreased platelet count	0.022853219881653786
+trial_2	methionine	29	KG00099354	hyponatraemia	0.021738991141319275
+trial_2	methionine	361	KG00098004	Fibrillation, Atrial	0.021298708394169807
+trial_2	methionine	122	KG00099321	Hypersensitivity NOS	0.02112543396651745
+trial_2	methionine	104	KG00097963	arthralgias	0.020967427641153336
+trial_2	methionine	243	KG00100947	Micturition frequency increased	0.019978849217295647
+trial_2	methionine	131	KG00100948	Urinary tract infection (& [NOS])	0.019758211448788643
+trial_2	methionine	396	KG00100373	Embolism, Pulmonary	0.019702639430761337
+trial_2	methionine	30	KG00099500	Acute Kidney Failure	0.019178688526153564
+trial_2	methionine	5	KG00099169	haematuria	0.01897849328815937
+trial_2	methionine	121	KG00099190	haemorrhage	0.018977388739585876
+trial_2	methionine	194	KG00110727	Neutrophil Count Decreased	0.018448352813720703
+trial_2	methionine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018184175714850426
+trial_2	methionine	276	KG00099127	Arrest, Cardiac	0.018130743876099586
+trial_2	methionine	211	KG00100341	Pruritus NOS	0.017624976113438606
+trial_2	methionine	31	KG00099872	Infarction, Myocardial	0.01758497953414917
+trial_2	methionine	69	KG00100082	Palpitations NOS	0.01756453700363636
+trial_2	methionine	28	KG00099347	hypoglycaemia	0.017230169847607613
+trial_2	methionine	139	KG00098855	Sinusitis, Ethmoid	0.01718566194176674
+trial_2	methionine	234	KG00098669	dysgeusias	0.016980327665805817
+trial_2	methionine	239	KG00100128	pareses	0.01677749678492546
+trial_2	methionine	269	KG00100399	pyaemia	0.016695518046617508
+trial_2	methionine	116	KG00098964	Pain in foot	0.016565492376685143
+trial_2	methionine	75	KG00100195	Dolens, Phlegmasia Alba	0.01612832397222519
+trial_2	methionine	441	KG00098262	cellulitis nos	0.0157017782330513
+trial_2	methionine	102	KG00097916	anxieties	0.015548762865364552
+trial_2	methionine	144	KG00099610	Leukopenia NOS	0.014936164952814579
+trial_2	methionine	179	KG00099342	hypocalcaemia	0.014887925237417221
+trial_2	methionine	466	KG00101205	fall	0.014665749855339527
+trial_2	methionine	15	KG00097882	Angina pectoris NOS	0.014236511662602425
+trial_2	methionine	253	KG00100232	Pleural effusion NOS (disorder)	0.014184782281517982
+trial_2	methionine	38	KG00098066	Binocular vision disorders	0.014106979593634605
+trial_2	methionine	191	KG00104055	Biliverdin increased	0.013920661993324757
+trial_2	methionine	4	KG00098817	epistaxis	0.013801462948322296
+trial_2	methionine	204	KG00098849	Esophagitis, Peptic	0.013770591467618942
+trial_2	methionine	27	KG00099303	hyperkalaemia	0.013735128566622734
+trial_2	methionine	1	KG00099959	Neutropenia NOS	0.013716725632548332
+trial_2	methionine	92	KG00100926	Infections, Upper Respiratory	0.013353759422898293
+trial_2	methionine	11	KG00097993	Asthma NOS	0.012928350828588009
+trial_2	methionine	282	KG00099309	hypernatraemia	0.012890664860606194
+trial_2	methionine	503	KG00102612	low haemoglobin	0.012752857990562916
+trial_2	methionine	98	KG00097718	Incised wound, NOS	0.012625793926417828
+trial_2	methionine	262	KG00101199	agitation	0.012569096870720387
+trial_2	methionine	138	KG00098796	epidemic vomiting syndrome	0.012399575673043728
+trial_2	methionine	100	KG00097815	alopecias	0.012167120352387428
+trial_2	methionine	249	KG00104430	hypoalbuminaemia	0.01147299725562334
+trial_2	methionine	261	KG00101559	raised alkaline phosphatase	0.011468471959233284
+trial_2	methionine	170	KG00108926	Neutropenia, Febrile	0.011441625654697418
+trial_2	methionine	221	KG00101207	peripheral oedema	0.011433284729719162
+trial_2	methionine	33	KG00100094	Pancreatitis NOS	0.011282620020210743
+trial_2	methionine	133	KG00101370	neuropathies sensory	0.011275622993707657
+trial_2	methionine	355	KG00110857	lymphocyte count decreased	0.011248686350882053
+trial_2	methionine	199	KG00098371	Rhinitis (chronic) NOS	0.011134532280266285
+trial_2	methionine	154	KG00099686	Lymphopenias	0.01106274500489235
+trial_2	methionine	286	KG00101110	Retention, Urinary	0.011033101007342339
+trial_2	methionine	36	KG00106434	Vision, Blurring Of	0.011006603017449379
+trial_2	methionine	186	KG00101431	creatinine increased	0.010949559509754181
+trial_2	methionine	164	KG00108827	ileus colon	0.010879777371883392
+trial_2	methionine	371	KG00098517	Cystitis (NOS)	0.010818454436957836
+trial_2	methionine	89	KG00099301	Hyperhidrosis (disorder)	0.01055221725255251
+trial_2	methionine	130	KG00100683	Stomatitis NOS	0.01033021043986082
+trial_2	methionine	118	KG00099011	Gastritis NOS	0.01026722602546215

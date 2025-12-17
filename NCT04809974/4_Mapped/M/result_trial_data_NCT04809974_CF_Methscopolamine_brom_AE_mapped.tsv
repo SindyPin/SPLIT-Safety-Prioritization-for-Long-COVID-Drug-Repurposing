@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12430950254201889
+trial_1	placebo	87	KG00098599	diarrhoea	0.09309584647417068
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08943403512239456
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07521702349185944
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07386291027069092
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07066909223794937
+trial_1	placebo	46	KG00099121	Headache NOS	0.06634076684713364
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06151001527905464
+trial_1	placebo	21	KG00098675	dyspnoea	0.06051389127969742
+trial_1	placebo	123	KG00099351	hypokalaemia	0.060127004981040955
+trial_1	placebo	20	KG00098540	dehydration	0.059589583426713943
+trial_1	placebo	68	KG00099901	nauseas	0.05590320751070976
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.054354142397642136
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04845043271780014
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04789126664400101
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04551183432340622
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0441310852766037
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.043701011687517166
+trial_1	placebo	228	KG00114657	Weight below normal	0.042840298265218735
+trial_1	placebo	85	KG00098474	coughs	0.042300350964069366
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04137928783893585
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04121506214141846
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.041171472519636154
+trial_1	placebo	104	KG00097963	arthralgias	0.041075095534324646
+trial_1	placebo	114	KG00098933	fevers	0.03997081145644188
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03992948308587074
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.039741743355989456
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03542521223425865
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03464702516794205
+trial_1	placebo	126	KG00100076	Pain NOS	0.03425903990864754
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03381991386413574
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03252241760492325
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03142300993204117
+trial_1	placebo	239	KG00100128	pareses	0.0311653520911932
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.031127920374274254
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03047199547290802
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030360938981175423
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029741238802671432
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029455408453941345
+trial_1	placebo	132	KG00101045	Gain, Weight	0.029295459389686584
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.029208632186055183
+trial_1	placebo	102	KG00097916	anxieties	0.027546295896172523
+trial_1	placebo	5	KG00099169	haematuria	0.027532333508133888
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.027341056615114212
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027129609137773514
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.027124658226966858
+trial_1	placebo	147	KG00098000	atelectases	0.026895469054579735
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026107490062713623
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.025998162105679512
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02560824528336525
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02531682886183262
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.025309281423687935
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025008132681250572
+trial_1	placebo	262	KG00101199	agitation	0.02457200177013874
+trial_1	placebo	72	KG00103771	myalgias	0.024001076817512512
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023608669638633728
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023329123854637146
+trial_1	placebo	466	KG00101205	fall	0.02304123528301716
+trial_1	placebo	269	KG00100399	pyaemia	0.022279053926467896
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021642673760652542
+trial_1	placebo	116	KG00098964	Pain in foot	0.02143133617937565
+trial_1	placebo	121	KG00099190	haemorrhage	0.021359357982873917
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021122047677636147
+trial_1	placebo	164	KG00108827	ileus colon	0.0209537073969841
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02052934654057026
+trial_1	placebo	456	KG00099420	Influenzae	0.01988336630165577
+trial_1	placebo	282	KG00099309	hypernatraemia	0.019825495779514313
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01967666670680046
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019583290442824364
+trial_1	placebo	300	KG00101064	xerostomia	0.01947633922100067
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019252091646194458
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.019240817055106163
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019122596830129623
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01902361959218979
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.018717192113399506
+trial_1	placebo	441	KG00098262	cellulitis nos	0.018447590991854668
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01822156459093094
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.018140150234103203
+trial_1	placebo	242	KG00100855	tremors	0.01809431053698063
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.018010903149843216
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01732894591987133
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.017204809933900833
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01720137521624565
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0171371977776289
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017042113468050957
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.016993870958685875
+trial_1	placebo	508	KG00108565	blood glucose increased	0.016961457207798958
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016904115676879883
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016796180978417397
+trial_1	placebo	66	KG00098642	drowsiness	0.016678407788276672
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01664559356868267
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.01660318672657013
+trial_1	placebo	82	KG00097697	abdomen distended	0.01653299853205681
+trial_1	placebo	153	KG00099579	lethargy	0.01634785532951355
+trial_1	placebo	451	KG00101551	injection site pain	0.016312919557094574
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.016252292320132256
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01610065996646881
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.015980111435055733
+trial_1	placebo	25	KG00099134	congestive failures heart	0.015790125355124474
+trial_1	placebo	339	KG00100334	proteinurias	0.015420178882777691
+trial_2	methscopolamine bromide	78	KG00099326	Hypertensive diseases	0.12430950254201889
+trial_2	methscopolamine bromide	87	KG00098599	diarrhoea	0.09309584647417068
+trial_2	methscopolamine bromide	17	KG00097991	Asthenia NOS	0.08943403512239456
+trial_2	methscopolamine bromide	177	KG00099299	hyperglycaemia	0.07521702349185944
+trial_2	methscopolamine bromide	173	KG00098172	Bronchopneumonia NOS	0.07386291027069092
+trial_2	methscopolamine bromide	9	KG00098432	Confusion NOS	0.07066909223794937
+trial_2	methscopolamine bromide	46	KG00099121	Headache NOS	0.06634076684713364
+trial_2	methscopolamine bromide	79	KG00100317	Insomnia, Primary	0.06151001527905464
+trial_2	methscopolamine bromide	21	KG00098675	dyspnoea	0.06051389127969742
+trial_2	methscopolamine bromide	123	KG00099351	hypokalaemia	0.060127004981040955
+trial_2	methscopolamine bromide	20	KG00098540	dehydration	0.059589583426713943
+trial_2	methscopolamine bromide	68	KG00099901	nauseas	0.05590320751070976
+trial_2	methscopolamine bromide	49	KG00099902	nausea with vomiting	0.054354142397642136
+trial_2	methscopolamine bromide	77	KG00098450	Constipation NOS	0.04845043271780014
+trial_2	methscopolamine bromide	64	KG00097734	Acrodermatitis, NOS	0.04789126664400101
+trial_2	methscopolamine bromide	189	KG00101580	Alanine aminotransferase increase	0.04551183432340622
+trial_2	methscopolamine bromide	86	KG00098565	Depression, Mental	0.0441310852766037
+trial_2	methscopolamine bromide	67	KG00098673	Dyspepsia, NOS	0.043701011687517166
+trial_2	methscopolamine bromide	228	KG00114657	Weight below normal	0.042840298265218735
+trial_2	methscopolamine bromide	85	KG00098474	coughs	0.042300350964069366
+trial_2	methscopolamine bromide	200	KG00098539	Disorders, Deglutition	0.04137928783893585
+trial_2	methscopolamine bromide	151	KG00098274	Infarction, Cerebral	0.04121506214141846
+trial_2	methscopolamine bromide	37	KG00097696	Cramps, Abdominal	0.041171472519636154
+trial_2	methscopolamine bromide	104	KG00097963	arthralgias	0.041075095534324646
+trial_2	methscopolamine bromide	114	KG00098933	fevers	0.03997081145644188
+trial_2	methscopolamine bromide	29	KG00099354	hyponatraemia	0.03992948308587074
+trial_2	methscopolamine bromide	188	KG00101579	Aspartate aminotransferase increase	0.039741743355989456
+trial_2	methscopolamine bromide	122	KG00099321	Hypersensitivity NOS	0.03542521223425865
+trial_2	methscopolamine bromide	14	KG00097852	Anemia NOS	0.03464702516794205
+trial_2	methscopolamine bromide	126	KG00100076	Pain NOS	0.03425903990864754
+trial_2	methscopolamine bromide	180	KG00099363	Hypotension NOS	0.03381991386413574
+trial_2	methscopolamine bromide	96	KG00101679	Unattended death NOS	0.03252241760492325
+trial_2	methscopolamine bromide	350	KG00106765	decreased platelet count	0.03142300993204117
+trial_2	methscopolamine bromide	239	KG00100128	pareses	0.0311653520911932
+trial_2	methscopolamine bromide	76	KG00100450	Respiratory insufficiency, NOS	0.031127920374274254
+trial_2	methscopolamine bromide	61	KG00099501	Chronic Kidney Failure	0.03047199547290802
+trial_2	methscopolamine bromide	30	KG00099500	Acute Kidney Failure	0.030360938981175423
+trial_2	methscopolamine bromide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029741238802671432
+trial_2	methscopolamine bromide	139	KG00098855	Sinusitis, Ethmoid	0.029455408453941345
+trial_2	methscopolamine bromide	132	KG00101045	Gain, Weight	0.029295459389686584
+trial_2	methscopolamine bromide	28	KG00099347	hypoglycaemia	0.029208632186055183
+trial_2	methscopolamine bromide	102	KG00097916	anxieties	0.027546295896172523
+trial_2	methscopolamine bromide	5	KG00099169	haematuria	0.027532333508133888
+trial_2	methscopolamine bromide	101	KG00097901	Anorexia NOS	0.027341056615114212
+trial_2	methscopolamine bromide	131	KG00100948	Urinary tract infection (& [NOS])	0.027129609137773514
+trial_2	methscopolamine bromide	2	KG00100772	thrombocytopaenia	0.027124658226966858
+trial_2	methscopolamine bromide	147	KG00098000	atelectases	0.026895469054579735
+trial_2	methscopolamine bromide	27	KG00099303	hyperkalaemia	0.026107490062713623
+trial_2	methscopolamine bromide	243	KG00100947	Micturition frequency increased	0.025998162105679512
+trial_2	methscopolamine bromide	396	KG00100373	Embolism, Pulmonary	0.02560824528336525
+trial_2	methscopolamine bromide	38	KG00098066	Binocular vision disorders	0.02531682886183262
+trial_2	methscopolamine bromide	179	KG00099342	hypocalcaemia	0.025309281423687935
+trial_2	methscopolamine bromide	276	KG00099127	Arrest, Cardiac	0.025008132681250572
+trial_2	methscopolamine bromide	262	KG00101199	agitation	0.02457200177013874
+trial_2	methscopolamine bromide	72	KG00103771	myalgias	0.024001076817512512
+trial_2	methscopolamine bromide	92	KG00100926	Infections, Upper Respiratory	0.023608669638633728
+trial_2	methscopolamine bromide	18	KG00098307	Pain, Chest	0.023329123854637146
+trial_2	methscopolamine bromide	466	KG00101205	fall	0.02304123528301716
+trial_2	methscopolamine bromide	269	KG00100399	pyaemia	0.022279053926467896
+trial_2	methscopolamine bromide	36	KG00106434	Vision, Blurring Of	0.021642673760652542
+trial_2	methscopolamine bromide	116	KG00098964	Pain in foot	0.02143133617937565
+trial_2	methscopolamine bromide	121	KG00099190	haemorrhage	0.021359357982873917
+trial_2	methscopolamine bromide	31	KG00099872	Infarction, Myocardial	0.021122047677636147
+trial_2	methscopolamine bromide	164	KG00108827	ileus colon	0.0209537073969841
+trial_2	methscopolamine bromide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02052934654057026
+trial_2	methscopolamine bromide	456	KG00099420	Influenzae	0.01988336630165577
+trial_2	methscopolamine bromide	282	KG00099309	hypernatraemia	0.019825495779514313
+trial_2	methscopolamine bromide	69	KG00100082	Palpitations NOS	0.01967666670680046
+trial_2	methscopolamine bromide	261	KG00101559	raised alkaline phosphatase	0.019583290442824364
+trial_2	methscopolamine bromide	300	KG00101064	xerostomia	0.01947633922100067
+trial_2	methscopolamine bromide	11	KG00097993	Asthma NOS	0.019252091646194458
+trial_2	methscopolamine bromide	394	KG00100243	Pneumonia, Aspiration	0.019240817055106163
+trial_2	methscopolamine bromide	199	KG00098371	Rhinitis (chronic) NOS	0.019122596830129623
+trial_2	methscopolamine bromide	194	KG00110727	Neutrophil Count Decreased	0.01902361959218979
+trial_2	methscopolamine bromide	297	KG00099294	hypercholesterolaemia	0.018717192113399506
+trial_2	methscopolamine bromide	441	KG00098262	cellulitis nos	0.018447590991854668
+trial_2	methscopolamine bromide	33	KG00100094	Pancreatitis NOS	0.01822156459093094
+trial_2	methscopolamine bromide	341	KG00101472	Gamma-glutamyltransferase increased	0.018140150234103203
+trial_2	methscopolamine bromide	242	KG00100855	tremors	0.01809431053698063
+trial_2	methscopolamine bromide	75	KG00100195	Dolens, Phlegmasia Alba	0.018010903149843216
+trial_2	methscopolamine bromide	355	KG00110857	lymphocyte count decreased	0.01732894591987133
+trial_2	methscopolamine bromide	422	KG00101429	Creatine phosphokinase increased	0.017204809933900833
+trial_2	methscopolamine bromide	191	KG00104055	Biliverdin increased	0.01720137521624565
+trial_2	methscopolamine bromide	253	KG00100232	Pleural effusion NOS (disorder)	0.0171371977776289
+trial_2	methscopolamine bromide	361	KG00098004	Fibrillation, Atrial	0.017042113468050957
+trial_2	methscopolamine bromide	118	KG00099011	Gastritis NOS	0.016993870958685875
+trial_2	methscopolamine bromide	508	KG00108565	blood glucose increased	0.016961457207798958
+trial_2	methscopolamine bromide	138	KG00098796	epidemic vomiting syndrome	0.016904115676879883
+trial_2	methscopolamine bromide	211	KG00100341	Pruritus NOS	0.016796180978417397
+trial_2	methscopolamine bromide	66	KG00098642	drowsiness	0.016678407788276672
+trial_2	methscopolamine bromide	15	KG00097882	Angina pectoris NOS	0.01664559356868267
+trial_2	methscopolamine bromide	97	KG00104198	LIVER ENZYME ELEVATED	0.01660318672657013
+trial_2	methscopolamine bromide	82	KG00097697	abdomen distended	0.01653299853205681
+trial_2	methscopolamine bromide	153	KG00099579	lethargy	0.01634785532951355
+trial_2	methscopolamine bromide	451	KG00101551	injection site pain	0.016312919557094574
+trial_2	methscopolamine bromide	256	KG00100738	Tachycardia, Sinus	0.016252292320132256
+trial_2	methscopolamine bromide	144	KG00099610	Leukopenia NOS	0.01610065996646881
+trial_2	methscopolamine bromide	371	KG00098517	Cystitis (NOS)	0.015980111435055733
+trial_2	methscopolamine bromide	25	KG00099134	congestive failures heart	0.015790125355124474
+trial_2	methscopolamine bromide	339	KG00100334	proteinurias	0.015420178882777691

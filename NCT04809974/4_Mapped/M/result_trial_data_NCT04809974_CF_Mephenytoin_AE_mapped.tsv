@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18423756957054138
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1605345457792282
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15871106088161469
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15021775662899017
+trial_1	placebo	46	KG00099121	Headache NOS	0.10688339173793793
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10202028602361679
+trial_1	placebo	228	KG00114657	Weight below normal	0.09868124127388
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09829773753881454
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09117710590362549
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08260484784841537
+trial_1	placebo	20	KG00098540	dehydration	0.07993707805871964
+trial_1	placebo	21	KG00098675	dyspnoea	0.07762639969587326
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06999324262142181
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06815528869628906
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0679059773683548
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06730072945356369
+trial_1	placebo	68	KG00099901	nauseas	0.06636703014373779
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06269487738609314
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06050187349319458
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06015118956565857
+trial_1	placebo	14	KG00097852	Anemia NOS	0.055115215480327606
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05475413054227829
+trial_1	placebo	85	KG00098474	coughs	0.051811687648296356
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05111433193087578
+trial_1	placebo	126	KG00100076	Pain NOS	0.050761256366968155
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04795984551310539
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04773694649338722
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04595188796520233
+trial_1	placebo	132	KG00101045	Gain, Weight	0.044101618230342865
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04360532388091087
+trial_1	placebo	239	KG00100128	pareses	0.042453695088624954
+trial_1	placebo	104	KG00097963	arthralgias	0.041470326483249664
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.041337378323078156
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04113040864467621
+trial_1	placebo	114	KG00098933	fevers	0.041017789393663406
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04064913094043732
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.040570322424173355
+trial_1	placebo	116	KG00098964	Pain in foot	0.038628555834293365
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.038475196808576584
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0381891131401062
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0377863273024559
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03765527904033661
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03756735473871231
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03736060485243797
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03552704676985741
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.034945048391819
+trial_1	placebo	5	KG00099169	haematuria	0.03399907425045967
+trial_1	placebo	136	KG00101582	Dry;skin	0.03371243178844452
+trial_1	placebo	234	KG00098669	dysgeusias	0.03348853066563606
+trial_1	placebo	102	KG00097916	anxieties	0.03272376209497452
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03242881968617439
+trial_1	placebo	269	KG00100399	pyaemia	0.0312188733369112
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03119504451751709
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02990969829261303
+trial_1	placebo	147	KG00098000	atelectases	0.029848676174879074
+trial_1	placebo	72	KG00103771	myalgias	0.02967260219156742
+trial_1	placebo	339	KG00100334	proteinurias	0.029349107295274734
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029006708413362503
+trial_1	placebo	4	KG00098817	epistaxis	0.028428882360458374
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.027839532122015953
+trial_1	placebo	466	KG00101205	fall	0.027796834707260132
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027173077687621117
+trial_1	placebo	242	KG00100855	tremors	0.027166565880179405
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026923876255750656
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02671659179031849
+trial_1	placebo	11	KG00097993	Asthma NOS	0.026520660147070885
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026340704411268234
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026118362322449684
+trial_1	placebo	262	KG00101199	agitation	0.025884605944156647
+trial_1	placebo	456	KG00099420	Influenzae	0.025778695940971375
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.025717612355947495
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02493227832019329
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.024812467396259308
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02474852465093136
+trial_1	placebo	82	KG00097697	abdomen distended	0.02431873045861721
+trial_1	placebo	221	KG00101207	peripheral oedema	0.024138588458299637
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023465018719434738
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.023373670876026154
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023097073659300804
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.023053312674164772
+trial_1	placebo	121	KG00099190	haemorrhage	0.02257659286260605
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02243904396891594
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.022036857903003693
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02171594463288784
+trial_1	placebo	345	KG00103926	impairments memory	0.021642087027430534
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021537404507398605
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021410729736089706
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.021273046731948853
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02087184600532055
+trial_1	placebo	282	KG00099309	hypernatraemia	0.020738523453474045
+trial_1	placebo	66	KG00098642	drowsiness	0.020640170201659203
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020603319630026817
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020525598898530006
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.020497547462582588
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.020073335617780685
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019913027063012123
+trial_1	placebo	300	KG00101064	xerostomia	0.019582979381084442
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01921490579843521
+trial_1	placebo	382	KG00099200	haemorrhoids	0.019084220752120018
+trial_1	placebo	186	KG00101431	creatinine increased	0.018230967223644257
+trial_2	mephenytoin	87	KG00098599	diarrhoea	0.18423756957054138
+trial_2	mephenytoin	17	KG00097991	Asthenia NOS	0.1605345457792282
+trial_2	mephenytoin	9	KG00098432	Confusion NOS	0.15871106088161469
+trial_2	mephenytoin	78	KG00099326	Hypertensive diseases	0.15021775662899017
+trial_2	mephenytoin	46	KG00099121	Headache NOS	0.10688339173793793
+trial_2	mephenytoin	173	KG00098172	Bronchopneumonia NOS	0.10202028602361679
+trial_2	mephenytoin	228	KG00114657	Weight below normal	0.09868124127388
+trial_2	mephenytoin	177	KG00099299	hyperglycaemia	0.09829773753881454
+trial_2	mephenytoin	64	KG00097734	Acrodermatitis, NOS	0.09117710590362549
+trial_2	mephenytoin	79	KG00100317	Insomnia, Primary	0.08260484784841537
+trial_2	mephenytoin	20	KG00098540	dehydration	0.07993707805871964
+trial_2	mephenytoin	21	KG00098675	dyspnoea	0.07762639969587326
+trial_2	mephenytoin	37	KG00097696	Cramps, Abdominal	0.06999324262142181
+trial_2	mephenytoin	123	KG00099351	hypokalaemia	0.06815528869628906
+trial_2	mephenytoin	67	KG00098673	Dyspepsia, NOS	0.0679059773683548
+trial_2	mephenytoin	151	KG00098274	Infarction, Cerebral	0.06730072945356369
+trial_2	mephenytoin	68	KG00099901	nauseas	0.06636703014373779
+trial_2	mephenytoin	77	KG00098450	Constipation NOS	0.06269487738609314
+trial_2	mephenytoin	86	KG00098565	Depression, Mental	0.06050187349319458
+trial_2	mephenytoin	49	KG00099902	nausea with vomiting	0.06015118956565857
+trial_2	mephenytoin	14	KG00097852	Anemia NOS	0.055115215480327606
+trial_2	mephenytoin	200	KG00098539	Disorders, Deglutition	0.05475413054227829
+trial_2	mephenytoin	85	KG00098474	coughs	0.051811687648296356
+trial_2	mephenytoin	29	KG00099354	hyponatraemia	0.05111433193087578
+trial_2	mephenytoin	126	KG00100076	Pain NOS	0.050761256366968155
+trial_2	mephenytoin	76	KG00100450	Respiratory insufficiency, NOS	0.04795984551310539
+trial_2	mephenytoin	101	KG00097901	Anorexia NOS	0.04773694649338722
+trial_2	mephenytoin	28	KG00099347	hypoglycaemia	0.04595188796520233
+trial_2	mephenytoin	132	KG00101045	Gain, Weight	0.044101618230342865
+trial_2	mephenytoin	189	KG00101580	Alanine aminotransferase increase	0.04360532388091087
+trial_2	mephenytoin	239	KG00100128	pareses	0.042453695088624954
+trial_2	mephenytoin	104	KG00097963	arthralgias	0.041470326483249664
+trial_2	mephenytoin	180	KG00099363	Hypotension NOS	0.041337378323078156
+trial_2	mephenytoin	350	KG00106765	decreased platelet count	0.04113040864467621
+trial_2	mephenytoin	114	KG00098933	fevers	0.041017789393663406
+trial_2	mephenytoin	131	KG00100948	Urinary tract infection (& [NOS])	0.04064913094043732
+trial_2	mephenytoin	139	KG00098855	Sinusitis, Ethmoid	0.040570322424173355
+trial_2	mephenytoin	116	KG00098964	Pain in foot	0.038628555834293365
+trial_2	mephenytoin	2	KG00100772	thrombocytopaenia	0.038475196808576584
+trial_2	mephenytoin	61	KG00099501	Chronic Kidney Failure	0.0381891131401062
+trial_2	mephenytoin	188	KG00101579	Aspartate aminotransferase increase	0.0377863273024559
+trial_2	mephenytoin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03765527904033661
+trial_2	mephenytoin	96	KG00101679	Unattended death NOS	0.03756735473871231
+trial_2	mephenytoin	36	KG00106434	Vision, Blurring Of	0.03736060485243797
+trial_2	mephenytoin	396	KG00100373	Embolism, Pulmonary	0.03552704676985741
+trial_2	mephenytoin	30	KG00099500	Acute Kidney Failure	0.034945048391819
+trial_2	mephenytoin	5	KG00099169	haematuria	0.03399907425045967
+trial_2	mephenytoin	136	KG00101582	Dry;skin	0.03371243178844452
+trial_2	mephenytoin	234	KG00098669	dysgeusias	0.03348853066563606
+trial_2	mephenytoin	102	KG00097916	anxieties	0.03272376209497452
+trial_2	mephenytoin	18	KG00098307	Pain, Chest	0.03242881968617439
+trial_2	mephenytoin	269	KG00100399	pyaemia	0.0312188733369112
+trial_2	mephenytoin	27	KG00099303	hyperkalaemia	0.03119504451751709
+trial_2	mephenytoin	130	KG00100683	Stomatitis NOS	0.02990969829261303
+trial_2	mephenytoin	147	KG00098000	atelectases	0.029848676174879074
+trial_2	mephenytoin	72	KG00103771	myalgias	0.02967260219156742
+trial_2	mephenytoin	339	KG00100334	proteinurias	0.029349107295274734
+trial_2	mephenytoin	243	KG00100947	Micturition frequency increased	0.029006708413362503
+trial_2	mephenytoin	4	KG00098817	epistaxis	0.028428882360458374
+trial_2	mephenytoin	38	KG00098066	Binocular vision disorders	0.027839532122015953
+trial_2	mephenytoin	466	KG00101205	fall	0.027796834707260132
+trial_2	mephenytoin	122	KG00099321	Hypersensitivity NOS	0.027173077687621117
+trial_2	mephenytoin	242	KG00100855	tremors	0.027166565880179405
+trial_2	mephenytoin	92	KG00100926	Infections, Upper Respiratory	0.026923876255750656
+trial_2	mephenytoin	191	KG00104055	Biliverdin increased	0.02671659179031849
+trial_2	mephenytoin	11	KG00097993	Asthma NOS	0.026520660147070885
+trial_2	mephenytoin	142	KG00100923	Unspecified infectious and parasitic diseases	0.026340704411268234
+trial_2	mephenytoin	441	KG00098262	cellulitis nos	0.026118362322449684
+trial_2	mephenytoin	262	KG00101199	agitation	0.025884605944156647
+trial_2	mephenytoin	456	KG00099420	Influenzae	0.025778695940971375
+trial_2	mephenytoin	179	KG00099342	hypocalcaemia	0.025717612355947495
+trial_2	mephenytoin	276	KG00099127	Arrest, Cardiac	0.02493227832019329
+trial_2	mephenytoin	194	KG00110727	Neutrophil Count Decreased	0.024812467396259308
+trial_2	mephenytoin	204	KG00098849	Esophagitis, Peptic	0.02474852465093136
+trial_2	mephenytoin	82	KG00097697	abdomen distended	0.02431873045861721
+trial_2	mephenytoin	221	KG00101207	peripheral oedema	0.024138588458299637
+trial_2	mephenytoin	355	KG00110857	lymphocyte count decreased	0.023465018719434738
+trial_2	mephenytoin	288	KG00101223	hypophosphataemia	0.023373670876026154
+trial_2	mephenytoin	75	KG00100195	Dolens, Phlegmasia Alba	0.023097073659300804
+trial_2	mephenytoin	249	KG00104430	hypoalbuminaemia	0.023053312674164772
+trial_2	mephenytoin	121	KG00099190	haemorrhage	0.02257659286260605
+trial_2	mephenytoin	199	KG00098371	Rhinitis (chronic) NOS	0.02243904396891594
+trial_2	mephenytoin	356	KG00112623	Infectious Lung Disorders	0.022036857903003693
+trial_2	mephenytoin	154	KG00099686	Lymphopenias	0.02171594463288784
+trial_2	mephenytoin	345	KG00103926	impairments memory	0.021642087027430534
+trial_2	mephenytoin	35	KG00101507	hypomagnesaemia	0.021537404507398605
+trial_2	mephenytoin	1	KG00099959	Neutropenia NOS	0.021410729736089706
+trial_2	mephenytoin	138	KG00098796	epidemic vomiting syndrome	0.021273046731948853
+trial_2	mephenytoin	261	KG00101559	raised alkaline phosphatase	0.02087184600532055
+trial_2	mephenytoin	282	KG00099309	hypernatraemia	0.020738523453474045
+trial_2	mephenytoin	66	KG00098642	drowsiness	0.020640170201659203
+trial_2	mephenytoin	361	KG00098004	Fibrillation, Atrial	0.020603319630026817
+trial_2	mephenytoin	69	KG00100082	Palpitations NOS	0.020525598898530006
+trial_2	mephenytoin	195	KG00097814	Atopic Rhinitis	0.020497547462582588
+trial_2	mephenytoin	15	KG00097882	Angina pectoris NOS	0.020073335617780685
+trial_2	mephenytoin	211	KG00100341	Pruritus NOS	0.019913027063012123
+trial_2	mephenytoin	300	KG00101064	xerostomia	0.019582979381084442
+trial_2	mephenytoin	98	KG00097718	Incised wound, NOS	0.01921490579843521
+trial_2	mephenytoin	382	KG00099200	haemorrhoids	0.019084220752120018
+trial_2	mephenytoin	186	KG00101431	creatinine increased	0.018230967223644257

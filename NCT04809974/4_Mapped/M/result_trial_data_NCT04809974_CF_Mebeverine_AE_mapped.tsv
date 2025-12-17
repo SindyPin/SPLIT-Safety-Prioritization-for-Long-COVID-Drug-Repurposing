@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13527782261371613
+trial_1	placebo	87	KG00098599	diarrhoea	0.1180717945098877
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07564669847488403
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07304827123880386
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06925878673791885
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06887967884540558
+trial_1	placebo	20	KG00098540	dehydration	0.0664842501282692
+trial_1	placebo	46	KG00099121	Headache NOS	0.06471948325634003
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06296700984239578
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06182161718606949
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06029241532087326
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.059443097561597824
+trial_1	placebo	68	KG00099901	nauseas	0.05776100605726242
+trial_1	placebo	21	KG00098675	dyspnoea	0.05521012097597122
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05326389893889427
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.050617631524801254
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.049151863902807236
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04383581504225731
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04376908019185066
+trial_1	placebo	14	KG00097852	Anemia NOS	0.043572571128606796
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04275483638048172
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.037253569811582565
+trial_1	placebo	126	KG00100076	Pain NOS	0.0366021990776062
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03501138463616371
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03498486056923866
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03395118936896324
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03278110548853874
+trial_1	placebo	114	KG00098933	fevers	0.03273283690214157
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03268282487988472
+trial_1	placebo	5	KG00099169	haematuria	0.032606519758701324
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03255312889814377
+trial_1	placebo	85	KG00098474	coughs	0.03170691803097725
+trial_1	placebo	228	KG00114657	Weight below normal	0.031227994710206985
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.031153330579400063
+trial_1	placebo	104	KG00097963	arthralgias	0.030964575707912445
+trial_1	placebo	239	KG00100128	pareses	0.03068326786160469
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030240697786211967
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.030235400423407555
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.030148450285196304
+trial_1	placebo	82	KG00097697	abdomen distended	0.029462188482284546
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028328554704785347
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02808944322168827
+trial_1	placebo	234	KG00098669	dysgeusias	0.02689581923186779
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026829063892364502
+trial_1	placebo	147	KG00098000	atelectases	0.0265364870429039
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02639182098209858
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026274995878338814
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026188230141997337
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026153486222028732
+trial_1	placebo	164	KG00108827	ileus colon	0.025923922657966614
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025844959542155266
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02560616098344326
+trial_1	placebo	72	KG00103771	myalgias	0.025469806045293808
+trial_1	placebo	86	KG00098565	Depression, Mental	0.025374434888362885
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02509707398712635
+trial_1	placebo	102	KG00097916	anxieties	0.024773309007287025
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.024754654616117477
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.024323659017682076
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023784346878528595
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023756345734000206
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.023332038894295692
+trial_1	placebo	300	KG00101064	xerostomia	0.02324739657342434
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022567881271243095
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022189488634467125
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021657727658748627
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.021037140861153603
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020964626222848892
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02073906734585762
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020714303478598595
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020611166954040527
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.0205619465559721
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020304769277572632
+trial_1	placebo	116	KG00098964	Pain in foot	0.020218895748257637
+trial_1	placebo	262	KG00101199	agitation	0.019967172294855118
+trial_1	placebo	269	KG00100399	pyaemia	0.01992085576057434
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019881824031472206
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019574612379074097
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019440341740846634
+trial_1	placebo	186	KG00101431	creatinine increased	0.01942816749215126
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019299622625112534
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.019244831055402756
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019208580255508423
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019110271707177162
+trial_1	placebo	121	KG00099190	haemorrhage	0.019014308229088783
+trial_1	placebo	153	KG00099579	lethargy	0.018838007003068924
+trial_1	placebo	454	KG00098286	Pain, Neck	0.018779978156089783
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01872207783162594
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018697766587138176
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01846098154783249
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018446411937475204
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.018371757119894028
+trial_1	placebo	466	KG00101205	fall	0.018268655985593796
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018155992031097412
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01796327345073223
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.017836647108197212
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.017727188766002655
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.017528310418128967
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.017494559288024902
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.017459940165281296
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0173785462975502
+trial_2	mebeverine	78	KG00099326	Hypertensive diseases	0.13527782261371613
+trial_2	mebeverine	87	KG00098599	diarrhoea	0.1180717945098877
+trial_2	mebeverine	9	KG00098432	Confusion NOS	0.07564669847488403
+trial_2	mebeverine	177	KG00099299	hyperglycaemia	0.07304827123880386
+trial_2	mebeverine	17	KG00097991	Asthenia NOS	0.06925878673791885
+trial_2	mebeverine	77	KG00098450	Constipation NOS	0.06887967884540558
+trial_2	mebeverine	20	KG00098540	dehydration	0.0664842501282692
+trial_2	mebeverine	46	KG00099121	Headache NOS	0.06471948325634003
+trial_2	mebeverine	123	KG00099351	hypokalaemia	0.06296700984239578
+trial_2	mebeverine	173	KG00098172	Bronchopneumonia NOS	0.06182161718606949
+trial_2	mebeverine	37	KG00097696	Cramps, Abdominal	0.06029241532087326
+trial_2	mebeverine	67	KG00098673	Dyspepsia, NOS	0.059443097561597824
+trial_2	mebeverine	68	KG00099901	nauseas	0.05776100605726242
+trial_2	mebeverine	21	KG00098675	dyspnoea	0.05521012097597122
+trial_2	mebeverine	200	KG00098539	Disorders, Deglutition	0.05326389893889427
+trial_2	mebeverine	49	KG00099902	nausea with vomiting	0.050617631524801254
+trial_2	mebeverine	79	KG00100317	Insomnia, Primary	0.049151863902807236
+trial_2	mebeverine	243	KG00100947	Micturition frequency increased	0.04383581504225731
+trial_2	mebeverine	189	KG00101580	Alanine aminotransferase increase	0.04376908019185066
+trial_2	mebeverine	14	KG00097852	Anemia NOS	0.043572571128606796
+trial_2	mebeverine	188	KG00101579	Aspartate aminotransferase increase	0.04275483638048172
+trial_2	mebeverine	180	KG00099363	Hypotension NOS	0.037253569811582565
+trial_2	mebeverine	126	KG00100076	Pain NOS	0.0366021990776062
+trial_2	mebeverine	61	KG00099501	Chronic Kidney Failure	0.03501138463616371
+trial_2	mebeverine	350	KG00106765	decreased platelet count	0.03498486056923866
+trial_2	mebeverine	29	KG00099354	hyponatraemia	0.03395118936896324
+trial_2	mebeverine	2	KG00100772	thrombocytopaenia	0.03278110548853874
+trial_2	mebeverine	114	KG00098933	fevers	0.03273283690214157
+trial_2	mebeverine	151	KG00098274	Infarction, Cerebral	0.03268282487988472
+trial_2	mebeverine	5	KG00099169	haematuria	0.032606519758701324
+trial_2	mebeverine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03255312889814377
+trial_2	mebeverine	85	KG00098474	coughs	0.03170691803097725
+trial_2	mebeverine	228	KG00114657	Weight below normal	0.031227994710206985
+trial_2	mebeverine	76	KG00100450	Respiratory insufficiency, NOS	0.031153330579400063
+trial_2	mebeverine	104	KG00097963	arthralgias	0.030964575707912445
+trial_2	mebeverine	239	KG00100128	pareses	0.03068326786160469
+trial_2	mebeverine	28	KG00099347	hypoglycaemia	0.030240697786211967
+trial_2	mebeverine	64	KG00097734	Acrodermatitis, NOS	0.030235400423407555
+trial_2	mebeverine	101	KG00097901	Anorexia NOS	0.030148450285196304
+trial_2	mebeverine	82	KG00097697	abdomen distended	0.029462188482284546
+trial_2	mebeverine	18	KG00098307	Pain, Chest	0.028328554704785347
+trial_2	mebeverine	122	KG00099321	Hypersensitivity NOS	0.02808944322168827
+trial_2	mebeverine	234	KG00098669	dysgeusias	0.02689581923186779
+trial_2	mebeverine	27	KG00099303	hyperkalaemia	0.026829063892364502
+trial_2	mebeverine	147	KG00098000	atelectases	0.0265364870429039
+trial_2	mebeverine	396	KG00100373	Embolism, Pulmonary	0.02639182098209858
+trial_2	mebeverine	30	KG00099500	Acute Kidney Failure	0.026274995878338814
+trial_2	mebeverine	131	KG00100948	Urinary tract infection (& [NOS])	0.026188230141997337
+trial_2	mebeverine	286	KG00101110	Retention, Urinary	0.026153486222028732
+trial_2	mebeverine	164	KG00108827	ileus colon	0.025923922657966614
+trial_2	mebeverine	69	KG00100082	Palpitations NOS	0.025844959542155266
+trial_2	mebeverine	179	KG00099342	hypocalcaemia	0.02560616098344326
+trial_2	mebeverine	72	KG00103771	myalgias	0.025469806045293808
+trial_2	mebeverine	86	KG00098565	Depression, Mental	0.025374434888362885
+trial_2	mebeverine	38	KG00098066	Binocular vision disorders	0.02509707398712635
+trial_2	mebeverine	102	KG00097916	anxieties	0.024773309007287025
+trial_2	mebeverine	261	KG00101559	raised alkaline phosphatase	0.024754654616117477
+trial_2	mebeverine	194	KG00110727	Neutrophil Count Decreased	0.024323659017682076
+trial_2	mebeverine	355	KG00110857	lymphocyte count decreased	0.023784346878528595
+trial_2	mebeverine	36	KG00106434	Vision, Blurring Of	0.023756345734000206
+trial_2	mebeverine	96	KG00101679	Unattended death NOS	0.023332038894295692
+trial_2	mebeverine	300	KG00101064	xerostomia	0.02324739657342434
+trial_2	mebeverine	276	KG00099127	Arrest, Cardiac	0.022567881271243095
+trial_2	mebeverine	142	KG00100923	Unspecified infectious and parasitic diseases	0.022189488634467125
+trial_2	mebeverine	31	KG00099872	Infarction, Myocardial	0.021657727658748627
+trial_2	mebeverine	139	KG00098855	Sinusitis, Ethmoid	0.021037140861153603
+trial_2	mebeverine	144	KG00099610	Leukopenia NOS	0.020964626222848892
+trial_2	mebeverine	361	KG00098004	Fibrillation, Atrial	0.02073906734585762
+trial_2	mebeverine	508	KG00108565	blood glucose increased	0.020714303478598595
+trial_2	mebeverine	204	KG00098849	Esophagitis, Peptic	0.020611166954040527
+trial_2	mebeverine	166	KG00099773	menopausal syndrome	0.0205619465559721
+trial_2	mebeverine	371	KG00098517	Cystitis (NOS)	0.020304769277572632
+trial_2	mebeverine	116	KG00098964	Pain in foot	0.020218895748257637
+trial_2	mebeverine	262	KG00101199	agitation	0.019967172294855118
+trial_2	mebeverine	269	KG00100399	pyaemia	0.01992085576057434
+trial_2	mebeverine	35	KG00101507	hypomagnesaemia	0.019881824031472206
+trial_2	mebeverine	92	KG00100926	Infections, Upper Respiratory	0.019574612379074097
+trial_2	mebeverine	130	KG00100683	Stomatitis NOS	0.019440341740846634
+trial_2	mebeverine	186	KG00101431	creatinine increased	0.01942816749215126
+trial_2	mebeverine	249	KG00104430	hypoalbuminaemia	0.019299622625112534
+trial_2	mebeverine	256	KG00100738	Tachycardia, Sinus	0.019244831055402756
+trial_2	mebeverine	75	KG00100195	Dolens, Phlegmasia Alba	0.019208580255508423
+trial_2	mebeverine	253	KG00100232	Pleural effusion NOS (disorder)	0.019110271707177162
+trial_2	mebeverine	121	KG00099190	haemorrhage	0.019014308229088783
+trial_2	mebeverine	153	KG00099579	lethargy	0.018838007003068924
+trial_2	mebeverine	454	KG00098286	Pain, Neck	0.018779978156089783
+trial_2	mebeverine	199	KG00098371	Rhinitis (chronic) NOS	0.01872207783162594
+trial_2	mebeverine	138	KG00098796	epidemic vomiting syndrome	0.018697766587138176
+trial_2	mebeverine	282	KG00099309	hypernatraemia	0.01846098154783249
+trial_2	mebeverine	221	KG00101207	peripheral oedema	0.018446411937475204
+trial_2	mebeverine	341	KG00101472	Gamma-glutamyltransferase increased	0.018371757119894028
+trial_2	mebeverine	466	KG00101205	fall	0.018268655985593796
+trial_2	mebeverine	15	KG00097882	Angina pectoris NOS	0.018155992031097412
+trial_2	mebeverine	288	KG00101223	hypophosphataemia	0.01796327345073223
+trial_2	mebeverine	163	KG00104050	bowel obstructions small	0.017836647108197212
+trial_2	mebeverine	218	KG00100801	Tinnitus NOS	0.017727188766002655
+trial_2	mebeverine	422	KG00101429	Creatine phosphokinase increased	0.017528310418128967
+trial_2	mebeverine	191	KG00104055	Biliverdin increased	0.017494559288024902
+trial_2	mebeverine	118	KG00099011	Gastritis NOS	0.017459940165281296
+trial_2	mebeverine	441	KG00098262	cellulitis nos	0.0173785462975502

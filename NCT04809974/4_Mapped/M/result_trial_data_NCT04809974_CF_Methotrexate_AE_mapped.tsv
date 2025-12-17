@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12762786448001862
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08927371352910995
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08293633908033371
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08010108023881912
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07707613706588745
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07250843197107315
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06966328620910645
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06941919773817062
+trial_1	placebo	68	KG00099901	nauseas	0.06931672245264053
+trial_1	placebo	21	KG00098675	dyspnoea	0.06803528219461441
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06457500159740448
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06156882643699646
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06041555479168892
+trial_1	placebo	46	KG00099121	Headache NOS	0.05965745821595192
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.058880552649497986
+trial_1	placebo	20	KG00098540	dehydration	0.05282686650753021
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05249844864010811
+trial_1	placebo	114	KG00098933	fevers	0.05147561430931091
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05020502954721451
+trial_1	placebo	126	KG00100076	Pain NOS	0.047566816210746765
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04457344487309456
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04454421252012253
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04441084712743759
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04341704025864601
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04183133319020271
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04070277512073517
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04054420813918114
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0377301350235939
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0370602011680603
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03672489896416664
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03662673756480217
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.036508698016405106
+trial_1	placebo	85	KG00098474	coughs	0.03591567277908325
+trial_1	placebo	350	KG00106765	decreased platelet count	0.035290904343128204
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03515782579779625
+trial_1	placebo	228	KG00114657	Weight below normal	0.033997923135757446
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03283730521798134
+trial_1	placebo	104	KG00097963	arthralgias	0.03149310499429703
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03100796416401863
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.029821250587701797
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.029739942401647568
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029532816261053085
+trial_1	placebo	154	KG00099686	Lymphopenias	0.029444245621562004
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029393848031759262
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.028608230873942375
+trial_1	placebo	86	KG00098565	Depression, Mental	0.028208795934915543
+trial_1	placebo	269	KG00100399	pyaemia	0.026911379769444466
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02674073539674282
+trial_1	placebo	147	KG00098000	atelectases	0.025747118517756462
+trial_1	placebo	121	KG00099190	haemorrhage	0.025441674515604973
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.025119882076978683
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.024883706122636795
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02426968328654766
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023961210623383522
+trial_1	placebo	441	KG00098262	cellulitis nos	0.023060042411088943
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.022593792527914047
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.022508570924401283
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.022429434582591057
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022326529026031494
+trial_1	placebo	239	KG00100128	pareses	0.022300273180007935
+trial_1	placebo	72	KG00103771	myalgias	0.022075649350881577
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022063525393605232
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.021160924807190895
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.0211023036390543
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.021027037873864174
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.020987527444958687
+trial_1	placebo	186	KG00101431	creatinine increased	0.0207871925085783
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.020563317462801933
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.020064624026417732
+trial_1	placebo	5	KG00099169	haematuria	0.019815223291516304
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01978471502661705
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019759587943553925
+trial_1	placebo	100	KG00097815	alopecias	0.019717367365956306
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019384339451789856
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.019184991717338562
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018681718036532402
+trial_1	placebo	116	KG00098964	Pain in foot	0.018453730270266533
+trial_1	placebo	132	KG00101045	Gain, Weight	0.018240472301840782
+trial_1	placebo	102	KG00097916	anxieties	0.01742532290518284
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01680050417780876
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.016683561727404594
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016481224447488785
+trial_1	placebo	164	KG00108827	ileus colon	0.01645718142390251
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01626128889620304
+trial_1	placebo	234	KG00098669	dysgeusias	0.01618564873933792
+trial_1	placebo	466	KG00101205	fall	0.016023635864257812
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01597069576382637
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01586473546922207
+trial_1	placebo	262	KG00101199	agitation	0.015422438271343708
+trial_1	placebo	82	KG00097697	abdomen distended	0.015292225405573845
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015189291909337044
+trial_1	placebo	390	KG00100095	pancytopenias	0.015163869597017765
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015130138956010342
+trial_1	placebo	221	KG00101207	peripheral oedema	0.014900412410497665
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.01477914396673441
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.014659563079476357
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014474669471383095
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.014117594808340073
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.014077207073569298
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.013756105676293373
+trial_2	methotrexate	87	KG00098599	diarrhoea	0.12762786448001862
+trial_2	methotrexate	177	KG00099299	hyperglycaemia	0.08927371352910995
+trial_2	methotrexate	173	KG00098172	Bronchopneumonia NOS	0.08293633908033371
+trial_2	methotrexate	78	KG00099326	Hypertensive diseases	0.08010108023881912
+trial_2	methotrexate	17	KG00097991	Asthenia NOS	0.07707613706588745
+trial_2	methotrexate	37	KG00097696	Cramps, Abdominal	0.07250843197107315
+trial_2	methotrexate	123	KG00099351	hypokalaemia	0.06966328620910645
+trial_2	methotrexate	14	KG00097852	Anemia NOS	0.06941919773817062
+trial_2	methotrexate	68	KG00099901	nauseas	0.06931672245264053
+trial_2	methotrexate	21	KG00098675	dyspnoea	0.06803528219461441
+trial_2	methotrexate	9	KG00098432	Confusion NOS	0.06457500159740448
+trial_2	methotrexate	189	KG00101580	Alanine aminotransferase increase	0.06156882643699646
+trial_2	methotrexate	49	KG00099902	nausea with vomiting	0.06041555479168892
+trial_2	methotrexate	46	KG00099121	Headache NOS	0.05965745821595192
+trial_2	methotrexate	2	KG00100772	thrombocytopaenia	0.058880552649497986
+trial_2	methotrexate	20	KG00098540	dehydration	0.05282686650753021
+trial_2	methotrexate	64	KG00097734	Acrodermatitis, NOS	0.05249844864010811
+trial_2	methotrexate	114	KG00098933	fevers	0.05147561430931091
+trial_2	methotrexate	77	KG00098450	Constipation NOS	0.05020502954721451
+trial_2	methotrexate	126	KG00100076	Pain NOS	0.047566816210746765
+trial_2	methotrexate	142	KG00100923	Unspecified infectious and parasitic diseases	0.04457344487309456
+trial_2	methotrexate	67	KG00098673	Dyspepsia, NOS	0.04454421252012253
+trial_2	methotrexate	96	KG00101679	Unattended death NOS	0.04441084712743759
+trial_2	methotrexate	144	KG00099610	Leukopenia NOS	0.04341704025864601
+trial_2	methotrexate	194	KG00110727	Neutrophil Count Decreased	0.04183133319020271
+trial_2	methotrexate	76	KG00100450	Respiratory insufficiency, NOS	0.04070277512073517
+trial_2	methotrexate	79	KG00100317	Insomnia, Primary	0.04054420813918114
+trial_2	methotrexate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0377301350235939
+trial_2	methotrexate	29	KG00099354	hyponatraemia	0.0370602011680603
+trial_2	methotrexate	1	KG00099959	Neutropenia NOS	0.03672489896416664
+trial_2	methotrexate	200	KG00098539	Disorders, Deglutition	0.03662673756480217
+trial_2	methotrexate	188	KG00101579	Aspartate aminotransferase increase	0.036508698016405106
+trial_2	methotrexate	85	KG00098474	coughs	0.03591567277908325
+trial_2	methotrexate	350	KG00106765	decreased platelet count	0.035290904343128204
+trial_2	methotrexate	61	KG00099501	Chronic Kidney Failure	0.03515782579779625
+trial_2	methotrexate	228	KG00114657	Weight below normal	0.033997923135757446
+trial_2	methotrexate	151	KG00098274	Infarction, Cerebral	0.03283730521798134
+trial_2	methotrexate	104	KG00097963	arthralgias	0.03149310499429703
+trial_2	methotrexate	122	KG00099321	Hypersensitivity NOS	0.03100796416401863
+trial_2	methotrexate	180	KG00099363	Hypotension NOS	0.029821250587701797
+trial_2	methotrexate	101	KG00097901	Anorexia NOS	0.029739942401647568
+trial_2	methotrexate	131	KG00100948	Urinary tract infection (& [NOS])	0.029532816261053085
+trial_2	methotrexate	154	KG00099686	Lymphopenias	0.029444245621562004
+trial_2	methotrexate	396	KG00100373	Embolism, Pulmonary	0.029393848031759262
+trial_2	methotrexate	28	KG00099347	hypoglycaemia	0.028608230873942375
+trial_2	methotrexate	86	KG00098565	Depression, Mental	0.028208795934915543
+trial_2	methotrexate	269	KG00100399	pyaemia	0.026911379769444466
+trial_2	methotrexate	179	KG00099342	hypocalcaemia	0.02674073539674282
+trial_2	methotrexate	147	KG00098000	atelectases	0.025747118517756462
+trial_2	methotrexate	121	KG00099190	haemorrhage	0.025441674515604973
+trial_2	methotrexate	30	KG00099500	Acute Kidney Failure	0.025119882076978683
+trial_2	methotrexate	170	KG00108926	Neutropenia, Febrile	0.024883706122636795
+trial_2	methotrexate	27	KG00099303	hyperkalaemia	0.02426968328654766
+trial_2	methotrexate	130	KG00100683	Stomatitis NOS	0.023961210623383522
+trial_2	methotrexate	441	KG00098262	cellulitis nos	0.023060042411088943
+trial_2	methotrexate	261	KG00101559	raised alkaline phosphatase	0.022593792527914047
+trial_2	methotrexate	38	KG00098066	Binocular vision disorders	0.022508570924401283
+trial_2	methotrexate	92	KG00100926	Infections, Upper Respiratory	0.022429434582591057
+trial_2	methotrexate	361	KG00098004	Fibrillation, Atrial	0.022326529026031494
+trial_2	methotrexate	239	KG00100128	pareses	0.022300273180007935
+trial_2	methotrexate	72	KG00103771	myalgias	0.022075649350881577
+trial_2	methotrexate	75	KG00100195	Dolens, Phlegmasia Alba	0.022063525393605232
+trial_2	methotrexate	139	KG00098855	Sinusitis, Ethmoid	0.021160924807190895
+trial_2	methotrexate	249	KG00104430	hypoalbuminaemia	0.0211023036390543
+trial_2	methotrexate	138	KG00098796	epidemic vomiting syndrome	0.021027037873864174
+trial_2	methotrexate	243	KG00100947	Micturition frequency increased	0.020987527444958687
+trial_2	methotrexate	186	KG00101431	creatinine increased	0.0207871925085783
+trial_2	methotrexate	355	KG00110857	lymphocyte count decreased	0.020563317462801933
+trial_2	methotrexate	133	KG00101370	neuropathies sensory	0.020064624026417732
+trial_2	methotrexate	5	KG00099169	haematuria	0.019815223291516304
+trial_2	methotrexate	276	KG00099127	Arrest, Cardiac	0.01978471502661705
+trial_2	methotrexate	191	KG00104055	Biliverdin increased	0.019759587943553925
+trial_2	methotrexate	100	KG00097815	alopecias	0.019717367365956306
+trial_2	methotrexate	18	KG00098307	Pain, Chest	0.019384339451789856
+trial_2	methotrexate	356	KG00112623	Infectious Lung Disorders	0.019184991717338562
+trial_2	methotrexate	69	KG00100082	Palpitations NOS	0.018681718036532402
+trial_2	methotrexate	116	KG00098964	Pain in foot	0.018453730270266533
+trial_2	methotrexate	132	KG00101045	Gain, Weight	0.018240472301840782
+trial_2	methotrexate	102	KG00097916	anxieties	0.01742532290518284
+trial_2	methotrexate	211	KG00100341	Pruritus NOS	0.01680050417780876
+trial_2	methotrexate	253	KG00100232	Pleural effusion NOS (disorder)	0.016683561727404594
+trial_2	methotrexate	204	KG00098849	Esophagitis, Peptic	0.016481224447488785
+trial_2	methotrexate	164	KG00108827	ileus colon	0.01645718142390251
+trial_2	methotrexate	33	KG00100094	Pancreatitis NOS	0.01626128889620304
+trial_2	methotrexate	234	KG00098669	dysgeusias	0.01618564873933792
+trial_2	methotrexate	466	KG00101205	fall	0.016023635864257812
+trial_2	methotrexate	118	KG00099011	Gastritis NOS	0.01597069576382637
+trial_2	methotrexate	282	KG00099309	hypernatraemia	0.01586473546922207
+trial_2	methotrexate	262	KG00101199	agitation	0.015422438271343708
+trial_2	methotrexate	82	KG00097697	abdomen distended	0.015292225405573845
+trial_2	methotrexate	31	KG00099872	Infarction, Myocardial	0.015189291909337044
+trial_2	methotrexate	390	KG00100095	pancytopenias	0.015163869597017765
+trial_2	methotrexate	11	KG00097993	Asthma NOS	0.015130138956010342
+trial_2	methotrexate	221	KG00101207	peripheral oedema	0.014900412410497665
+trial_2	methotrexate	213	KG00100600	Infectious Skin Diseases	0.01477914396673441
+trial_2	methotrexate	246	KG00103338	Aspartate Aminotransferase Measurement	0.014659563079476357
+trial_2	methotrexate	254	KG00100774	Thrombosis NOS	0.014474669471383095
+trial_2	methotrexate	36	KG00106434	Vision, Blurring Of	0.014117594808340073
+trial_2	methotrexate	288	KG00101223	hypophosphataemia	0.014077207073569298
+trial_2	methotrexate	35	KG00101507	hypomagnesaemia	0.013756105676293373

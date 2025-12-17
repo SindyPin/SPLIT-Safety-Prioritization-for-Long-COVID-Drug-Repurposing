@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09737055748701096
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09394527971744537
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08430652320384979
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07238678634166718
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06880994141101837
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0687897652387619
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06195729970932007
+trial_1	placebo	21	KG00098675	dyspnoea	0.06120311841368675
+trial_1	placebo	20	KG00098540	dehydration	0.060991402715444565
+trial_1	placebo	123	KG00099351	hypokalaemia	0.059023428708314896
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.057307641953229904
+trial_1	placebo	46	KG00099121	Headache NOS	0.055695828050374985
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05045733228325844
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05028381943702698
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04923846200108528
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04838389530777931
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04359724745154381
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.042803388088941574
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0420992337167263
+trial_1	placebo	68	KG00099901	nauseas	0.04150613769888878
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04095989838242531
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03916225582361221
+trial_1	placebo	85	KG00098474	coughs	0.03665556386113167
+trial_1	placebo	126	KG00100076	Pain NOS	0.03610428050160408
+trial_1	placebo	228	KG00114657	Weight below normal	0.03503730893135071
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03440987318754196
+trial_1	placebo	114	KG00098933	fevers	0.03359480947256088
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03281422331929207
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03265012055635452
+trial_1	placebo	86	KG00098565	Depression, Mental	0.031789954751729965
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.031741052865982056
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.031731631606817245
+trial_1	placebo	5	KG00099169	haematuria	0.03159602731466293
+trial_1	placebo	104	KG00097963	arthralgias	0.03138018399477005
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030469609424471855
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030176501721143723
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029278872534632683
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.028582952916622162
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02841353975236416
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028137270361185074
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02810131013393402
+trial_1	placebo	239	KG00100128	pareses	0.027975300326943398
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02786855213344097
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027736011892557144
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02735508605837822
+trial_1	placebo	72	KG00103771	myalgias	0.027108391746878624
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026408182457089424
+trial_1	placebo	82	KG00097697	abdomen distended	0.0258724894374609
+trial_1	placebo	234	KG00098669	dysgeusias	0.025831127539277077
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025561917573213577
+trial_1	placebo	102	KG00097916	anxieties	0.025543158873915672
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.025353047996759415
+trial_1	placebo	300	KG00101064	xerostomia	0.024998530745506287
+trial_1	placebo	147	KG00098000	atelectases	0.02441304177045822
+trial_1	placebo	132	KG00101045	Gain, Weight	0.023596903309226036
+trial_1	placebo	262	KG00101199	agitation	0.023411154747009277
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02242816425859928
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022355811670422554
+trial_1	placebo	116	KG00098964	Pain in foot	0.022162294015288353
+trial_1	placebo	164	KG00108827	ileus colon	0.021815100684762
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02177961729466915
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02176523767411709
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021656040102243423
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021494055166840553
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02139357291162014
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021266747266054153
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021233394742012024
+trial_1	placebo	466	KG00101205	fall	0.02120588719844818
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.021110063418745995
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02089950069785118
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020279545336961746
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020220091566443443
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020101536065340042
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019862130284309387
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.019804103299975395
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019580833613872528
+trial_1	placebo	153	KG00099579	lethargy	0.019487829878926277
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01929808408021927
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01927245408296585
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.019256209954619408
+trial_1	placebo	454	KG00098286	Pain, Neck	0.019118331372737885
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01889680325984955
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.018769411370158195
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.0186507198959589
+trial_1	placebo	269	KG00100399	pyaemia	0.01857408694922924
+trial_1	placebo	186	KG00101431	creatinine increased	0.018473908305168152
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.018358148634433746
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.018131356686353683
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.018088022246956825
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.017974043264985085
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.017853669822216034
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01780136302113533
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017733093351125717
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.017650190740823746
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017626652494072914
+trial_1	placebo	242	KG00100855	tremors	0.017135871574282646
+trial_1	placebo	136	KG00101582	Dry;skin	0.016990844160318375
+trial_1	placebo	66	KG00098642	drowsiness	0.01686757802963257
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016694633290171623
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.016354244202375412
+trial_2	methscopolamine	87	KG00098599	diarrhoea	0.09737055748701096
+trial_2	methscopolamine	78	KG00099326	Hypertensive diseases	0.09394527971744537
+trial_2	methscopolamine	9	KG00098432	Confusion NOS	0.08430652320384979
+trial_2	methscopolamine	77	KG00098450	Constipation NOS	0.07238678634166718
+trial_2	methscopolamine	177	KG00099299	hyperglycaemia	0.06880994141101837
+trial_2	methscopolamine	17	KG00097991	Asthenia NOS	0.0687897652387619
+trial_2	methscopolamine	173	KG00098172	Bronchopneumonia NOS	0.06195729970932007
+trial_2	methscopolamine	21	KG00098675	dyspnoea	0.06120311841368675
+trial_2	methscopolamine	20	KG00098540	dehydration	0.060991402715444565
+trial_2	methscopolamine	123	KG00099351	hypokalaemia	0.059023428708314896
+trial_2	methscopolamine	37	KG00097696	Cramps, Abdominal	0.057307641953229904
+trial_2	methscopolamine	46	KG00099121	Headache NOS	0.055695828050374985
+trial_2	methscopolamine	79	KG00100317	Insomnia, Primary	0.05045733228325844
+trial_2	methscopolamine	14	KG00097852	Anemia NOS	0.05028381943702698
+trial_2	methscopolamine	243	KG00100947	Micturition frequency increased	0.04923846200108528
+trial_2	methscopolamine	67	KG00098673	Dyspepsia, NOS	0.04838389530777931
+trial_2	methscopolamine	49	KG00099902	nausea with vomiting	0.04359724745154381
+trial_2	methscopolamine	200	KG00098539	Disorders, Deglutition	0.042803388088941574
+trial_2	methscopolamine	64	KG00097734	Acrodermatitis, NOS	0.0420992337167263
+trial_2	methscopolamine	68	KG00099901	nauseas	0.04150613769888878
+trial_2	methscopolamine	189	KG00101580	Alanine aminotransferase increase	0.04095989838242531
+trial_2	methscopolamine	188	KG00101579	Aspartate aminotransferase increase	0.03916225582361221
+trial_2	methscopolamine	85	KG00098474	coughs	0.03665556386113167
+trial_2	methscopolamine	126	KG00100076	Pain NOS	0.03610428050160408
+trial_2	methscopolamine	228	KG00114657	Weight below normal	0.03503730893135071
+trial_2	methscopolamine	180	KG00099363	Hypotension NOS	0.03440987318754196
+trial_2	methscopolamine	114	KG00098933	fevers	0.03359480947256088
+trial_2	methscopolamine	151	KG00098274	Infarction, Cerebral	0.03281422331929207
+trial_2	methscopolamine	76	KG00100450	Respiratory insufficiency, NOS	0.03265012055635452
+trial_2	methscopolamine	86	KG00098565	Depression, Mental	0.031789954751729965
+trial_2	methscopolamine	2	KG00100772	thrombocytopaenia	0.031741052865982056
+trial_2	methscopolamine	61	KG00099501	Chronic Kidney Failure	0.031731631606817245
+trial_2	methscopolamine	5	KG00099169	haematuria	0.03159602731466293
+trial_2	methscopolamine	104	KG00097963	arthralgias	0.03138018399477005
+trial_2	methscopolamine	28	KG00099347	hypoglycaemia	0.030469609424471855
+trial_2	methscopolamine	131	KG00100948	Urinary tract infection (& [NOS])	0.030176501721143723
+trial_2	methscopolamine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029278872534632683
+trial_2	methscopolamine	30	KG00099500	Acute Kidney Failure	0.028582952916622162
+trial_2	methscopolamine	29	KG00099354	hyponatraemia	0.02841353975236416
+trial_2	methscopolamine	350	KG00106765	decreased platelet count	0.028137270361185074
+trial_2	methscopolamine	18	KG00098307	Pain, Chest	0.02810131013393402
+trial_2	methscopolamine	239	KG00100128	pareses	0.027975300326943398
+trial_2	methscopolamine	396	KG00100373	Embolism, Pulmonary	0.02786855213344097
+trial_2	methscopolamine	122	KG00099321	Hypersensitivity NOS	0.027736011892557144
+trial_2	methscopolamine	69	KG00100082	Palpitations NOS	0.02735508605837822
+trial_2	methscopolamine	72	KG00103771	myalgias	0.027108391746878624
+trial_2	methscopolamine	36	KG00106434	Vision, Blurring Of	0.026408182457089424
+trial_2	methscopolamine	82	KG00097697	abdomen distended	0.0258724894374609
+trial_2	methscopolamine	234	KG00098669	dysgeusias	0.025831127539277077
+trial_2	methscopolamine	261	KG00101559	raised alkaline phosphatase	0.025561917573213577
+trial_2	methscopolamine	102	KG00097916	anxieties	0.025543158873915672
+trial_2	methscopolamine	101	KG00097901	Anorexia NOS	0.025353047996759415
+trial_2	methscopolamine	300	KG00101064	xerostomia	0.024998530745506287
+trial_2	methscopolamine	147	KG00098000	atelectases	0.02441304177045822
+trial_2	methscopolamine	132	KG00101045	Gain, Weight	0.023596903309226036
+trial_2	methscopolamine	262	KG00101199	agitation	0.023411154747009277
+trial_2	methscopolamine	221	KG00101207	peripheral oedema	0.02242816425859928
+trial_2	methscopolamine	211	KG00100341	Pruritus NOS	0.022355811670422554
+trial_2	methscopolamine	116	KG00098964	Pain in foot	0.022162294015288353
+trial_2	methscopolamine	164	KG00108827	ileus colon	0.021815100684762
+trial_2	methscopolamine	179	KG00099342	hypocalcaemia	0.02177961729466915
+trial_2	methscopolamine	96	KG00101679	Unattended death NOS	0.02176523767411709
+trial_2	methscopolamine	371	KG00098517	Cystitis (NOS)	0.021656040102243423
+trial_2	methscopolamine	286	KG00101110	Retention, Urinary	0.021494055166840553
+trial_2	methscopolamine	508	KG00108565	blood glucose increased	0.02139357291162014
+trial_2	methscopolamine	276	KG00099127	Arrest, Cardiac	0.021266747266054153
+trial_2	methscopolamine	38	KG00098066	Binocular vision disorders	0.021233394742012024
+trial_2	methscopolamine	466	KG00101205	fall	0.02120588719844818
+trial_2	methscopolamine	422	KG00101429	Creatine phosphokinase increased	0.021110063418745995
+trial_2	methscopolamine	27	KG00099303	hyperkalaemia	0.02089950069785118
+trial_2	methscopolamine	92	KG00100926	Infections, Upper Respiratory	0.020279545336961746
+trial_2	methscopolamine	441	KG00098262	cellulitis nos	0.020220091566443443
+trial_2	methscopolamine	199	KG00098371	Rhinitis (chronic) NOS	0.020101536065340042
+trial_2	methscopolamine	130	KG00100683	Stomatitis NOS	0.019862130284309387
+trial_2	methscopolamine	166	KG00099773	menopausal syndrome	0.019804103299975395
+trial_2	methscopolamine	75	KG00100195	Dolens, Phlegmasia Alba	0.019580833613872528
+trial_2	methscopolamine	153	KG00099579	lethargy	0.019487829878926277
+trial_2	methscopolamine	253	KG00100232	Pleural effusion NOS (disorder)	0.01929808408021927
+trial_2	methscopolamine	355	KG00110857	lymphocyte count decreased	0.01927245408296585
+trial_2	methscopolamine	139	KG00098855	Sinusitis, Ethmoid	0.019256209954619408
+trial_2	methscopolamine	454	KG00098286	Pain, Neck	0.019118331372737885
+trial_2	methscopolamine	361	KG00098004	Fibrillation, Atrial	0.01889680325984955
+trial_2	methscopolamine	204	KG00098849	Esophagitis, Peptic	0.018769411370158195
+trial_2	methscopolamine	144	KG00099610	Leukopenia NOS	0.0186507198959589
+trial_2	methscopolamine	269	KG00100399	pyaemia	0.01857408694922924
+trial_2	methscopolamine	186	KG00101431	creatinine increased	0.018473908305168152
+trial_2	methscopolamine	341	KG00101472	Gamma-glutamyltransferase increased	0.018358148634433746
+trial_2	methscopolamine	191	KG00104055	Biliverdin increased	0.018131356686353683
+trial_2	methscopolamine	98	KG00097718	Incised wound, NOS	0.018088022246956825
+trial_2	methscopolamine	256	KG00100738	Tachycardia, Sinus	0.017974043264985085
+trial_2	methscopolamine	118	KG00099011	Gastritis NOS	0.017853669822216034
+trial_2	methscopolamine	31	KG00099872	Infarction, Myocardial	0.01780136302113533
+trial_2	methscopolamine	194	KG00110727	Neutrophil Count Decreased	0.017733093351125717
+trial_2	methscopolamine	35	KG00101507	hypomagnesaemia	0.017650190740823746
+trial_2	methscopolamine	138	KG00098796	epidemic vomiting syndrome	0.017626652494072914
+trial_2	methscopolamine	242	KG00100855	tremors	0.017135871574282646
+trial_2	methscopolamine	136	KG00101582	Dry;skin	0.016990844160318375
+trial_2	methscopolamine	66	KG00098642	drowsiness	0.01686757802963257
+trial_2	methscopolamine	249	KG00104430	hypoalbuminaemia	0.016694633290171623
+trial_2	methscopolamine	15	KG00097882	Angina pectoris NOS	0.016354244202375412

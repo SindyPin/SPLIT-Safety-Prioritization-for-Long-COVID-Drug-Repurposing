@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09986474364995956
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.07564862072467804
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07144401222467422
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07022297382354736
+trial_1	placebo	87	KG00098599	diarrhoea	0.05507652834057808
+trial_1	placebo	46	KG00099121	Headache NOS	0.051418837159872055
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05017777532339096
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.050106294453144073
+trial_1	placebo	21	KG00098675	dyspnoea	0.048275742679834366
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04737049713730812
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04638875275850296
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04483423009514809
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04204127937555313
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.041999999433755875
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03829207271337509
+trial_1	placebo	68	KG00099901	nauseas	0.037911780178546906
+trial_1	placebo	114	KG00098933	fevers	0.03453543782234192
+trial_1	placebo	104	KG00097963	arthralgias	0.03283148258924484
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03224587440490723
+trial_1	placebo	20	KG00098540	dehydration	0.03214242309331894
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03137435019016266
+trial_1	placebo	126	KG00100076	Pain NOS	0.03069726936519146
+trial_1	placebo	29	KG00099354	hyponatraemia	0.029048705473542213
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02890380099415779
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.028894439339637756
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.028888192027807236
+trial_1	placebo	85	KG00098474	coughs	0.02825056202709675
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02807147614657879
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027466408908367157
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026939991861581802
+trial_1	placebo	86	KG00098565	Depression, Mental	0.026893697679042816
+trial_1	placebo	228	KG00114657	Weight below normal	0.025551117956638336
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02554277330636978
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024323411285877228
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.024317799136042595
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02335738204419613
+trial_1	placebo	132	KG00101045	Gain, Weight	0.023240122944116592
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02209882065653801
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021476823836565018
+trial_1	placebo	102	KG00097916	anxieties	0.021226251497864723
+trial_1	placebo	147	KG00098000	atelectases	0.021152760833501816
+trial_1	placebo	5	KG00099169	haematuria	0.020991211757063866
+trial_1	placebo	239	KG00100128	pareses	0.020604325458407402
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02040155790746212
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01993607170879841
+trial_1	placebo	66	KG00098642	drowsiness	0.01983136683702469
+trial_1	placebo	466	KG00101205	fall	0.019591648131608963
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019272971898317337
+trial_1	placebo	72	KG00103771	myalgias	0.019012346863746643
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018830006942152977
+trial_1	placebo	269	KG00100399	pyaemia	0.018672499805688858
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01860024966299534
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018402017652988434
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.018232695758342743
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.018107375130057335
+trial_1	placebo	116	KG00098964	Pain in foot	0.018087953329086304
+trial_1	placebo	121	KG00099190	haemorrhage	0.017337782308459282
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.017263993620872498
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01716219261288643
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01689651980996132
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.016763918101787567
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.016624370589852333
+trial_1	placebo	262	KG00101199	agitation	0.016580266878008842
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01645052246749401
+trial_1	placebo	221	KG00101207	peripheral oedema	0.016422977671027184
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01638912968337536
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.016360566020011902
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016310853883624077
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01625296100974083
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015894342213869095
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01576153188943863
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01571633853018284
+trial_1	placebo	234	KG00098669	dysgeusias	0.015652375295758247
+trial_1	placebo	242	KG00100855	tremors	0.015321353450417519
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015019268728792667
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.015009148977696896
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014702791348099709
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01455760933458805
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.013498358428478241
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013297384604811668
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.013236716389656067
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013203758746385574
+trial_1	placebo	4	KG00098817	epistaxis	0.013184141367673874
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.013118159025907516
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012941841967403889
+trial_1	placebo	456	KG00099420	Influenzae	0.012831762433052063
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.012556379660964012
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.012520525604486465
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.012323633767664433
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01232320349663496
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01214695256203413
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012056926265358925
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011922737583518028
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.011810772120952606
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.011700472794473171
+trial_1	placebo	282	KG00099309	hypernatraemia	0.011662917211651802
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.011564720422029495
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.011498324573040009
+trial_1	placebo	100	KG00097815	alopecias	0.011466516181826591
+trial_1	placebo	186	KG00101431	creatinine increased	0.01143260020762682
+trial_2	metamizole	9	KG00098432	Confusion NOS	0.09986474364995956
+trial_2	metamizole	78	KG00099326	Hypertensive diseases	0.07564862072467804
+trial_2	metamizole	17	KG00097991	Asthenia NOS	0.07144401222467422
+trial_2	metamizole	173	KG00098172	Bronchopneumonia NOS	0.07022297382354736
+trial_2	metamizole	87	KG00098599	diarrhoea	0.05507652834057808
+trial_2	metamizole	46	KG00099121	Headache NOS	0.051418837159872055
+trial_2	metamizole	77	KG00098450	Constipation NOS	0.05017777532339096
+trial_2	metamizole	177	KG00099299	hyperglycaemia	0.050106294453144073
+trial_2	metamizole	21	KG00098675	dyspnoea	0.048275742679834366
+trial_2	metamizole	151	KG00098274	Infarction, Cerebral	0.04737049713730812
+trial_2	metamizole	123	KG00099351	hypokalaemia	0.04638875275850296
+trial_2	metamizole	49	KG00099902	nausea with vomiting	0.04483423009514809
+trial_2	metamizole	79	KG00100317	Insomnia, Primary	0.04204127937555313
+trial_2	metamizole	64	KG00097734	Acrodermatitis, NOS	0.041999999433755875
+trial_2	metamizole	189	KG00101580	Alanine aminotransferase increase	0.03829207271337509
+trial_2	metamizole	68	KG00099901	nauseas	0.037911780178546906
+trial_2	metamizole	114	KG00098933	fevers	0.03453543782234192
+trial_2	metamizole	104	KG00097963	arthralgias	0.03283148258924484
+trial_2	metamizole	76	KG00100450	Respiratory insufficiency, NOS	0.03224587440490723
+trial_2	metamizole	20	KG00098540	dehydration	0.03214242309331894
+trial_2	metamizole	37	KG00097696	Cramps, Abdominal	0.03137435019016266
+trial_2	metamizole	126	KG00100076	Pain NOS	0.03069726936519146
+trial_2	metamizole	29	KG00099354	hyponatraemia	0.029048705473542213
+trial_2	metamizole	14	KG00097852	Anemia NOS	0.02890380099415779
+trial_2	metamizole	188	KG00101579	Aspartate aminotransferase increase	0.028894439339637756
+trial_2	metamizole	2	KG00100772	thrombocytopaenia	0.028888192027807236
+trial_2	metamizole	85	KG00098474	coughs	0.02825056202709675
+trial_2	metamizole	180	KG00099363	Hypotension NOS	0.02807147614657879
+trial_2	metamizole	96	KG00101679	Unattended death NOS	0.027466408908367157
+trial_2	metamizole	350	KG00106765	decreased platelet count	0.026939991861581802
+trial_2	metamizole	86	KG00098565	Depression, Mental	0.026893697679042816
+trial_2	metamizole	228	KG00114657	Weight below normal	0.025551117956638336
+trial_2	metamizole	200	KG00098539	Disorders, Deglutition	0.02554277330636978
+trial_2	metamizole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024323411285877228
+trial_2	metamizole	67	KG00098673	Dyspepsia, NOS	0.024317799136042595
+trial_2	metamizole	28	KG00099347	hypoglycaemia	0.02335738204419613
+trial_2	metamizole	132	KG00101045	Gain, Weight	0.023240122944116592
+trial_2	metamizole	61	KG00099501	Chronic Kidney Failure	0.02209882065653801
+trial_2	metamizole	30	KG00099500	Acute Kidney Failure	0.021476823836565018
+trial_2	metamizole	102	KG00097916	anxieties	0.021226251497864723
+trial_2	metamizole	147	KG00098000	atelectases	0.021152760833501816
+trial_2	metamizole	5	KG00099169	haematuria	0.020991211757063866
+trial_2	metamizole	239	KG00100128	pareses	0.020604325458407402
+trial_2	metamizole	179	KG00099342	hypocalcaemia	0.02040155790746212
+trial_2	metamizole	396	KG00100373	Embolism, Pulmonary	0.01993607170879841
+trial_2	metamizole	66	KG00098642	drowsiness	0.01983136683702469
+trial_2	metamizole	466	KG00101205	fall	0.019591648131608963
+trial_2	metamizole	194	KG00110727	Neutrophil Count Decreased	0.019272971898317337
+trial_2	metamizole	72	KG00103771	myalgias	0.019012346863746643
+trial_2	metamizole	130	KG00100683	Stomatitis NOS	0.018830006942152977
+trial_2	metamizole	269	KG00100399	pyaemia	0.018672499805688858
+trial_2	metamizole	101	KG00097901	Anorexia NOS	0.01860024966299534
+trial_2	metamizole	211	KG00100341	Pruritus NOS	0.018402017652988434
+trial_2	metamizole	199	KG00098371	Rhinitis (chronic) NOS	0.018232695758342743
+trial_2	metamizole	1	KG00099959	Neutropenia NOS	0.018107375130057335
+trial_2	metamizole	116	KG00098964	Pain in foot	0.018087953329086304
+trial_2	metamizole	121	KG00099190	haemorrhage	0.017337782308459282
+trial_2	metamizole	144	KG00099610	Leukopenia NOS	0.017263993620872498
+trial_2	metamizole	361	KG00098004	Fibrillation, Atrial	0.01716219261288643
+trial_2	metamizole	69	KG00100082	Palpitations NOS	0.01689651980996132
+trial_2	metamizole	131	KG00100948	Urinary tract infection (& [NOS])	0.016763918101787567
+trial_2	metamizole	139	KG00098855	Sinusitis, Ethmoid	0.016624370589852333
+trial_2	metamizole	262	KG00101199	agitation	0.016580266878008842
+trial_2	metamizole	441	KG00098262	cellulitis nos	0.01645052246749401
+trial_2	metamizole	221	KG00101207	peripheral oedema	0.016422977671027184
+trial_2	metamizole	249	KG00104430	hypoalbuminaemia	0.01638912968337536
+trial_2	metamizole	243	KG00100947	Micturition frequency increased	0.016360566020011902
+trial_2	metamizole	142	KG00100923	Unspecified infectious and parasitic diseases	0.016310853883624077
+trial_2	metamizole	11	KG00097993	Asthma NOS	0.01625296100974083
+trial_2	metamizole	154	KG00099686	Lymphopenias	0.015894342213869095
+trial_2	metamizole	122	KG00099321	Hypersensitivity NOS	0.01576153188943863
+trial_2	metamizole	18	KG00098307	Pain, Chest	0.01571633853018284
+trial_2	metamizole	234	KG00098669	dysgeusias	0.015652375295758247
+trial_2	metamizole	242	KG00100855	tremors	0.015321353450417519
+trial_2	metamizole	38	KG00098066	Binocular vision disorders	0.015019268728792667
+trial_2	metamizole	191	KG00104055	Biliverdin increased	0.015009148977696896
+trial_2	metamizole	75	KG00100195	Dolens, Phlegmasia Alba	0.014702791348099709
+trial_2	metamizole	27	KG00099303	hyperkalaemia	0.01455760933458805
+trial_2	metamizole	92	KG00100926	Infections, Upper Respiratory	0.013498358428478241
+trial_2	metamizole	98	KG00097718	Incised wound, NOS	0.013297384604811668
+trial_2	metamizole	170	KG00108926	Neutropenia, Febrile	0.013236716389656067
+trial_2	metamizole	15	KG00097882	Angina pectoris NOS	0.013203758746385574
+trial_2	metamizole	4	KG00098817	epistaxis	0.013184141367673874
+trial_2	metamizole	31	KG00099872	Infarction, Myocardial	0.013118159025907516
+trial_2	metamizole	261	KG00101559	raised alkaline phosphatase	0.012941841967403889
+trial_2	metamizole	456	KG00099420	Influenzae	0.012831762433052063
+trial_2	metamizole	355	KG00110857	lymphocyte count decreased	0.012556379660964012
+trial_2	metamizole	36	KG00106434	Vision, Blurring Of	0.012520525604486465
+trial_2	metamizole	195	KG00097814	Atopic Rhinitis	0.012323633767664433
+trial_2	metamizole	276	KG00099127	Arrest, Cardiac	0.01232320349663496
+trial_2	metamizole	422	KG00101429	Creatine phosphokinase increased	0.01214695256203413
+trial_2	metamizole	138	KG00098796	epidemic vomiting syndrome	0.012056926265358925
+trial_2	metamizole	118	KG00099011	Gastritis NOS	0.011922737583518028
+trial_2	metamizole	22	KG00098705	Edema (NOS)	0.011810772120952606
+trial_2	metamizole	356	KG00112623	Infectious Lung Disorders	0.011700472794473171
+trial_2	metamizole	282	KG00099309	hypernatraemia	0.011662917211651802
+trial_2	metamizole	253	KG00100232	Pleural effusion NOS (disorder)	0.011564720422029495
+trial_2	metamizole	286	KG00101110	Retention, Urinary	0.011498324573040009
+trial_2	metamizole	100	KG00097815	alopecias	0.011466516181826591
+trial_2	metamizole	186	KG00101431	creatinine increased	0.01143260020762682

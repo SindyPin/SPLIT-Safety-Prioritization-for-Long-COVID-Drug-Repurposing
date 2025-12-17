@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13950946927070618
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12927137315273285
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1285901665687561
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12386806309223175
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11316878348588943
+trial_1	placebo	87	KG00098599	diarrhoea	0.10134655237197876
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09224693477153778
+trial_1	placebo	21	KG00098675	dyspnoea	0.0880126804113388
+trial_1	placebo	132	KG00101045	Gain, Weight	0.08544280380010605
+trial_1	placebo	86	KG00098565	Depression, Mental	0.08079146593809128
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07457275688648224
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0671682357788086
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06512156873941422
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06395945698022842
+trial_1	placebo	20	KG00098540	dehydration	0.06254194676876068
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06247776001691818
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.060583144426345825
+trial_1	placebo	104	KG00097963	arthralgias	0.060013726353645325
+trial_1	placebo	46	KG00099121	Headache NOS	0.05938590690493584
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05820002406835556
+trial_1	placebo	228	KG00114657	Weight below normal	0.05762626230716705
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.056093692779541016
+trial_1	placebo	85	KG00098474	coughs	0.05277998372912407
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.05171019211411476
+trial_1	placebo	126	KG00100076	Pain NOS	0.0500640831887722
+trial_1	placebo	114	KG00098933	fevers	0.048132311552762985
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04785535857081413
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04711490869522095
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.046323828399181366
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.045344941318035126
+trial_1	placebo	68	KG00099901	nauseas	0.045124590396881104
+trial_1	placebo	29	KG00099354	hyponatraemia	0.044858209788799286
+trial_1	placebo	239	KG00100128	pareses	0.04406997561454773
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.043356336653232574
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04312757030129433
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.042889852076768875
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.041795771569013596
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.039051711559295654
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03902329504489899
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03745059669017792
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03498781844973564
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03407434746623039
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03401118144392967
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03363967686891556
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03343997150659561
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03312798589468002
+trial_1	placebo	116	KG00098964	Pain in foot	0.033039599657058716
+trial_1	placebo	466	KG00101205	fall	0.032623473554849625
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03257354348897934
+trial_1	placebo	262	KG00101199	agitation	0.031445153057575226
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03117365390062332
+trial_1	placebo	102	KG00097916	anxieties	0.03108998015522957
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03005373105406761
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.029653066769242287
+trial_1	placebo	221	KG00101207	peripheral oedema	0.029321329668164253
+trial_1	placebo	72	KG00103771	myalgias	0.028983568772673607
+trial_1	placebo	121	KG00099190	haemorrhage	0.0287926122546196
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02876383066177368
+trial_1	placebo	5	KG00099169	haematuria	0.028588077053427696
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02828151360154152
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.027941375970840454
+trial_1	placebo	242	KG00100855	tremors	0.02788933925330639
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.027847185730934143
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027519676834344864
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.027335913851857185
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02669607661664486
+trial_1	placebo	11	KG00097993	Asthma NOS	0.025992795825004578
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025936290621757507
+trial_1	placebo	203	KG00098661	dysarthrias	0.025811607018113136
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.025782976299524307
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025743313133716583
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.025588469579815865
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024931952357292175
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024367187172174454
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024359840899705887
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.024355167523026466
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02359744720160961
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023551613092422485
+trial_1	placebo	147	KG00098000	atelectases	0.023424111306667328
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.023374482989311218
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02318502590060234
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.023000171408057213
+trial_1	placebo	456	KG00099420	Influenzae	0.02277197688817978
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.022728515788912773
+trial_1	placebo	82	KG00097697	abdomen distended	0.022698868066072464
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022289177402853966
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022114526480436325
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.021954257041215897
+trial_1	placebo	136	KG00101582	Dry;skin	0.021878527477383614
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021735792979598045
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02161712385714054
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02153899148106575
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021512802690267563
+trial_1	placebo	345	KG00103926	impairments memory	0.021411867812275887
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021323973312973976
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02128029800951481
+trial_1	placebo	186	KG00101431	creatinine increased	0.020501885563135147
+trial_1	placebo	269	KG00100399	pyaemia	0.020469529554247856
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020304767414927483
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.020087381824851036
+trial_2	mifepristone	78	KG00099326	Hypertensive diseases	0.13950946927070618
+trial_2	mifepristone	17	KG00097991	Asthenia NOS	0.12927137315273285
+trial_2	mifepristone	173	KG00098172	Bronchopneumonia NOS	0.1285901665687561
+trial_2	mifepristone	177	KG00099299	hyperglycaemia	0.12386806309223175
+trial_2	mifepristone	9	KG00098432	Confusion NOS	0.11316878348588943
+trial_2	mifepristone	87	KG00098599	diarrhoea	0.10134655237197876
+trial_2	mifepristone	79	KG00100317	Insomnia, Primary	0.09224693477153778
+trial_2	mifepristone	21	KG00098675	dyspnoea	0.0880126804113388
+trial_2	mifepristone	132	KG00101045	Gain, Weight	0.08544280380010605
+trial_2	mifepristone	86	KG00098565	Depression, Mental	0.08079146593809128
+trial_2	mifepristone	77	KG00098450	Constipation NOS	0.07457275688648224
+trial_2	mifepristone	64	KG00097734	Acrodermatitis, NOS	0.0671682357788086
+trial_2	mifepristone	123	KG00099351	hypokalaemia	0.06512156873941422
+trial_2	mifepristone	243	KG00100947	Micturition frequency increased	0.06395945698022842
+trial_2	mifepristone	20	KG00098540	dehydration	0.06254194676876068
+trial_2	mifepristone	14	KG00097852	Anemia NOS	0.06247776001691818
+trial_2	mifepristone	151	KG00098274	Infarction, Cerebral	0.060583144426345825
+trial_2	mifepristone	104	KG00097963	arthralgias	0.060013726353645325
+trial_2	mifepristone	46	KG00099121	Headache NOS	0.05938590690493584
+trial_2	mifepristone	67	KG00098673	Dyspepsia, NOS	0.05820002406835556
+trial_2	mifepristone	228	KG00114657	Weight below normal	0.05762626230716705
+trial_2	mifepristone	37	KG00097696	Cramps, Abdominal	0.056093692779541016
+trial_2	mifepristone	85	KG00098474	coughs	0.05277998372912407
+trial_2	mifepristone	166	KG00099773	menopausal syndrome	0.05171019211411476
+trial_2	mifepristone	126	KG00100076	Pain NOS	0.0500640831887722
+trial_2	mifepristone	114	KG00098933	fevers	0.048132311552762985
+trial_2	mifepristone	189	KG00101580	Alanine aminotransferase increase	0.04785535857081413
+trial_2	mifepristone	200	KG00098539	Disorders, Deglutition	0.04711490869522095
+trial_2	mifepristone	139	KG00098855	Sinusitis, Ethmoid	0.046323828399181366
+trial_2	mifepristone	28	KG00099347	hypoglycaemia	0.045344941318035126
+trial_2	mifepristone	68	KG00099901	nauseas	0.045124590396881104
+trial_2	mifepristone	29	KG00099354	hyponatraemia	0.044858209788799286
+trial_2	mifepristone	239	KG00100128	pareses	0.04406997561454773
+trial_2	mifepristone	297	KG00099294	hypercholesterolaemia	0.043356336653232574
+trial_2	mifepristone	350	KG00106765	decreased platelet count	0.04312757030129433
+trial_2	mifepristone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.042889852076768875
+trial_2	mifepristone	96	KG00101679	Unattended death NOS	0.041795771569013596
+trial_2	mifepristone	76	KG00100450	Respiratory insufficiency, NOS	0.039051711559295654
+trial_2	mifepristone	131	KG00100948	Urinary tract infection (& [NOS])	0.03902329504489899
+trial_2	mifepristone	2	KG00100772	thrombocytopaenia	0.03745059669017792
+trial_2	mifepristone	49	KG00099902	nausea with vomiting	0.03498781844973564
+trial_2	mifepristone	27	KG00099303	hyperkalaemia	0.03407434746623039
+trial_2	mifepristone	188	KG00101579	Aspartate aminotransferase increase	0.03401118144392967
+trial_2	mifepristone	180	KG00099363	Hypotension NOS	0.03363967686891556
+trial_2	mifepristone	61	KG00099501	Chronic Kidney Failure	0.03343997150659561
+trial_2	mifepristone	92	KG00100926	Infections, Upper Respiratory	0.03312798589468002
+trial_2	mifepristone	116	KG00098964	Pain in foot	0.033039599657058716
+trial_2	mifepristone	466	KG00101205	fall	0.032623473554849625
+trial_2	mifepristone	30	KG00099500	Acute Kidney Failure	0.03257354348897934
+trial_2	mifepristone	262	KG00101199	agitation	0.031445153057575226
+trial_2	mifepristone	194	KG00110727	Neutrophil Count Decreased	0.03117365390062332
+trial_2	mifepristone	102	KG00097916	anxieties	0.03108998015522957
+trial_2	mifepristone	18	KG00098307	Pain, Chest	0.03005373105406761
+trial_2	mifepristone	133	KG00101370	neuropathies sensory	0.029653066769242287
+trial_2	mifepristone	221	KG00101207	peripheral oedema	0.029321329668164253
+trial_2	mifepristone	72	KG00103771	myalgias	0.028983568772673607
+trial_2	mifepristone	121	KG00099190	haemorrhage	0.0287926122546196
+trial_2	mifepristone	154	KG00099686	Lymphopenias	0.02876383066177368
+trial_2	mifepristone	5	KG00099169	haematuria	0.028588077053427696
+trial_2	mifepristone	122	KG00099321	Hypersensitivity NOS	0.02828151360154152
+trial_2	mifepristone	101	KG00097901	Anorexia NOS	0.027941375970840454
+trial_2	mifepristone	242	KG00100855	tremors	0.02788933925330639
+trial_2	mifepristone	179	KG00099342	hypocalcaemia	0.027847185730934143
+trial_2	mifepristone	361	KG00098004	Fibrillation, Atrial	0.027519676834344864
+trial_2	mifepristone	36	KG00106434	Vision, Blurring Of	0.027335913851857185
+trial_2	mifepristone	441	KG00098262	cellulitis nos	0.02669607661664486
+trial_2	mifepristone	11	KG00097993	Asthma NOS	0.025992795825004578
+trial_2	mifepristone	69	KG00100082	Palpitations NOS	0.025936290621757507
+trial_2	mifepristone	203	KG00098661	dysarthrias	0.025811607018113136
+trial_2	mifepristone	288	KG00101223	hypophosphataemia	0.025782976299524307
+trial_2	mifepristone	142	KG00100923	Unspecified infectious and parasitic diseases	0.025743313133716583
+trial_2	mifepristone	355	KG00110857	lymphocyte count decreased	0.025588469579815865
+trial_2	mifepristone	38	KG00098066	Binocular vision disorders	0.024931952357292175
+trial_2	mifepristone	396	KG00100373	Embolism, Pulmonary	0.024367187172174454
+trial_2	mifepristone	144	KG00099610	Leukopenia NOS	0.024359840899705887
+trial_2	mifepristone	138	KG00098796	epidemic vomiting syndrome	0.024355167523026466
+trial_2	mifepristone	1	KG00099959	Neutropenia NOS	0.02359744720160961
+trial_2	mifepristone	75	KG00100195	Dolens, Phlegmasia Alba	0.023551613092422485
+trial_2	mifepristone	147	KG00098000	atelectases	0.023424111306667328
+trial_2	mifepristone	22	KG00098705	Edema (NOS)	0.023374482989311218
+trial_2	mifepristone	249	KG00104430	hypoalbuminaemia	0.02318502590060234
+trial_2	mifepristone	15	KG00097882	Angina pectoris NOS	0.023000171408057213
+trial_2	mifepristone	456	KG00099420	Influenzae	0.02277197688817978
+trial_2	mifepristone	118	KG00099011	Gastritis NOS	0.022728515788912773
+trial_2	mifepristone	82	KG00097697	abdomen distended	0.022698868066072464
+trial_2	mifepristone	130	KG00100683	Stomatitis NOS	0.022289177402853966
+trial_2	mifepristone	31	KG00099872	Infarction, Myocardial	0.022114526480436325
+trial_2	mifepristone	246	KG00103338	Aspartate Aminotransferase Measurement	0.021954257041215897
+trial_2	mifepristone	136	KG00101582	Dry;skin	0.021878527477383614
+trial_2	mifepristone	508	KG00108565	blood glucose increased	0.021735792979598045
+trial_2	mifepristone	152	KG00099402	INCONTINENCE NOS	0.02161712385714054
+trial_2	mifepristone	35	KG00101507	hypomagnesaemia	0.02153899148106575
+trial_2	mifepristone	276	KG00099127	Arrest, Cardiac	0.021512802690267563
+trial_2	mifepristone	345	KG00103926	impairments memory	0.021411867812275887
+trial_2	mifepristone	211	KG00100341	Pruritus NOS	0.021323973312973976
+trial_2	mifepristone	191	KG00104055	Biliverdin increased	0.02128029800951481
+trial_2	mifepristone	186	KG00101431	creatinine increased	0.020501885563135147
+trial_2	mifepristone	269	KG00100399	pyaemia	0.020469529554247856
+trial_2	mifepristone	204	KG00098849	Esophagitis, Peptic	0.020304767414927483
+trial_2	mifepristone	286	KG00101110	Retention, Urinary	0.020087381824851036

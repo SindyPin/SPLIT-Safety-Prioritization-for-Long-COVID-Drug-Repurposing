@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12093301862478256
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10807991772890091
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10749677568674088
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09852346032857895
+trial_1	placebo	46	KG00099121	Headache NOS	0.08979666978120804
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08104332536458969
+trial_1	placebo	21	KG00098675	dyspnoea	0.07714761793613434
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0725698322057724
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06797395646572113
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06721943616867065
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06424612551927567
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06323079019784927
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.061543431133031845
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05793778598308563
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05567500367760658
+trial_1	placebo	20	KG00098540	dehydration	0.05441303178668022
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.053260061889886856
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.053198665380477905
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.053178444504737854
+trial_1	placebo	68	KG00099901	nauseas	0.05211113020777702
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.050634559243917465
+trial_1	placebo	29	KG00099354	hyponatraemia	0.050197798758745193
+trial_1	placebo	126	KG00100076	Pain NOS	0.0501968190073967
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04981829226016998
+trial_1	placebo	350	KG00106765	decreased platelet count	0.048080168664455414
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.047232095152139664
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04534091800451279
+trial_1	placebo	114	KG00098933	fevers	0.04481286555528641
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.044501543045043945
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04387250542640686
+trial_1	placebo	147	KG00098000	atelectases	0.043686866760253906
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04177825152873993
+trial_1	placebo	228	KG00114657	Weight below normal	0.04098779708147049
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04040009155869484
+trial_1	placebo	5	KG00099169	haematuria	0.039018675684928894
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03813045844435692
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03776182979345322
+trial_1	placebo	234	KG00098669	dysgeusias	0.037580788135528564
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.036490656435489655
+trial_1	placebo	239	KG00100128	pareses	0.036336272954940796
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.036070842295885086
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.035953816026449203
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0358559787273407
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.035512518137693405
+trial_1	placebo	85	KG00098474	coughs	0.03516978770494461
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.034162260591983795
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03343524783849716
+trial_1	placebo	72	KG00103771	myalgias	0.033222395926713943
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03265467658638954
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032280854880809784
+trial_1	placebo	104	KG00097963	arthralgias	0.03157518431544304
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03100689686834812
+trial_1	placebo	212	KG00100576	shivers	0.03066086210310459
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03051014244556427
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03030761331319809
+trial_1	placebo	102	KG00097916	anxieties	0.030026333406567574
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.029962511733174324
+trial_1	placebo	269	KG00100399	pyaemia	0.029842913150787354
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02980428747832775
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.029377900063991547
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029322007670998573
+trial_1	placebo	4	KG00098817	epistaxis	0.029317256063222885
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029127297922968864
+trial_1	placebo	121	KG00099190	haemorrhage	0.02905997261404991
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.029029713943600655
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.028959013521671295
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028928395360708237
+trial_1	placebo	116	KG00098964	Pain in foot	0.028880124911665916
+trial_1	placebo	82	KG00097697	abdomen distended	0.02856905199587345
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02729138359427452
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027079949155449867
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.027023551985621452
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026341259479522705
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025653937831521034
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02551952190697193
+trial_1	placebo	466	KG00101205	fall	0.02455327659845352
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02432016283273697
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024195890873670578
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.023402344435453415
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022862784564495087
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.022813115268945694
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.022073913365602493
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.021915128454566002
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021821152418851852
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02177751436829567
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02163388580083847
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021494682878255844
+trial_1	placebo	186	KG00101431	creatinine increased	0.02140350267291069
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021255595609545708
+trial_1	placebo	257	KG00100922	Erythema NOS	0.021065562963485718
+trial_1	placebo	503	KG00102612	low haemoglobin	0.021045558154582977
+trial_1	placebo	100	KG00097815	alopecias	0.020506495609879494
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.020386168733239174
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020283127203583717
+trial_1	placebo	262	KG00101199	agitation	0.02025946043431759
+trial_1	placebo	136	KG00101582	Dry;skin	0.020199162885546684
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.020063742995262146
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019608428701758385
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0196029432117939
+trial_1	placebo	164	KG00108827	ileus colon	0.0191749669611454
+trial_2	magnesium chloride	87	KG00098599	diarrhoea	0.12093301862478256
+trial_2	magnesium chloride	123	KG00099351	hypokalaemia	0.10807991772890091
+trial_2	magnesium chloride	78	KG00099326	Hypertensive diseases	0.10749677568674088
+trial_2	magnesium chloride	177	KG00099299	hyperglycaemia	0.09852346032857895
+trial_2	magnesium chloride	46	KG00099121	Headache NOS	0.08979666978120804
+trial_2	magnesium chloride	9	KG00098432	Confusion NOS	0.08104332536458969
+trial_2	magnesium chloride	21	KG00098675	dyspnoea	0.07714761793613434
+trial_2	magnesium chloride	173	KG00098172	Bronchopneumonia NOS	0.0725698322057724
+trial_2	magnesium chloride	77	KG00098450	Constipation NOS	0.06797395646572113
+trial_2	magnesium chloride	17	KG00097991	Asthenia NOS	0.06721943616867065
+trial_2	magnesium chloride	14	KG00097852	Anemia NOS	0.06424612551927567
+trial_2	magnesium chloride	37	KG00097696	Cramps, Abdominal	0.06323079019784927
+trial_2	magnesium chloride	2	KG00100772	thrombocytopaenia	0.061543431133031845
+trial_2	magnesium chloride	179	KG00099342	hypocalcaemia	0.05793778598308563
+trial_2	magnesium chloride	67	KG00098673	Dyspepsia, NOS	0.05567500367760658
+trial_2	magnesium chloride	20	KG00098540	dehydration	0.05441303178668022
+trial_2	magnesium chloride	64	KG00097734	Acrodermatitis, NOS	0.053260061889886856
+trial_2	magnesium chloride	180	KG00099363	Hypotension NOS	0.053198665380477905
+trial_2	magnesium chloride	200	KG00098539	Disorders, Deglutition	0.053178444504737854
+trial_2	magnesium chloride	68	KG00099901	nauseas	0.05211113020777702
+trial_2	magnesium chloride	189	KG00101580	Alanine aminotransferase increase	0.050634559243917465
+trial_2	magnesium chloride	29	KG00099354	hyponatraemia	0.050197798758745193
+trial_2	magnesium chloride	126	KG00100076	Pain NOS	0.0501968190073967
+trial_2	magnesium chloride	188	KG00101579	Aspartate aminotransferase increase	0.04981829226016998
+trial_2	magnesium chloride	350	KG00106765	decreased platelet count	0.048080168664455414
+trial_2	magnesium chloride	76	KG00100450	Respiratory insufficiency, NOS	0.047232095152139664
+trial_2	magnesium chloride	79	KG00100317	Insomnia, Primary	0.04534091800451279
+trial_2	magnesium chloride	114	KG00098933	fevers	0.04481286555528641
+trial_2	magnesium chloride	49	KG00099902	nausea with vomiting	0.044501543045043945
+trial_2	magnesium chloride	243	KG00100947	Micturition frequency increased	0.04387250542640686
+trial_2	magnesium chloride	147	KG00098000	atelectases	0.043686866760253906
+trial_2	magnesium chloride	69	KG00100082	Palpitations NOS	0.04177825152873993
+trial_2	magnesium chloride	228	KG00114657	Weight below normal	0.04098779708147049
+trial_2	magnesium chloride	61	KG00099501	Chronic Kidney Failure	0.04040009155869484
+trial_2	magnesium chloride	5	KG00099169	haematuria	0.039018675684928894
+trial_2	magnesium chloride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03813045844435692
+trial_2	magnesium chloride	28	KG00099347	hypoglycaemia	0.03776182979345322
+trial_2	magnesium chloride	234	KG00098669	dysgeusias	0.037580788135528564
+trial_2	magnesium chloride	249	KG00104430	hypoalbuminaemia	0.036490656435489655
+trial_2	magnesium chloride	239	KG00100128	pareses	0.036336272954940796
+trial_2	magnesium chloride	30	KG00099500	Acute Kidney Failure	0.036070842295885086
+trial_2	magnesium chloride	151	KG00098274	Infarction, Cerebral	0.035953816026449203
+trial_2	magnesium chloride	101	KG00097901	Anorexia NOS	0.0358559787273407
+trial_2	magnesium chloride	27	KG00099303	hyperkalaemia	0.035512518137693405
+trial_2	magnesium chloride	85	KG00098474	coughs	0.03516978770494461
+trial_2	magnesium chloride	194	KG00110727	Neutrophil Count Decreased	0.034162260591983795
+trial_2	magnesium chloride	35	KG00101507	hypomagnesaemia	0.03343524783849716
+trial_2	magnesium chloride	72	KG00103771	myalgias	0.033222395926713943
+trial_2	magnesium chloride	122	KG00099321	Hypersensitivity NOS	0.03265467658638954
+trial_2	magnesium chloride	96	KG00101679	Unattended death NOS	0.032280854880809784
+trial_2	magnesium chloride	104	KG00097963	arthralgias	0.03157518431544304
+trial_2	magnesium chloride	282	KG00099309	hypernatraemia	0.03100689686834812
+trial_2	magnesium chloride	212	KG00100576	shivers	0.03066086210310459
+trial_2	magnesium chloride	144	KG00099610	Leukopenia NOS	0.03051014244556427
+trial_2	magnesium chloride	361	KG00098004	Fibrillation, Atrial	0.03030761331319809
+trial_2	magnesium chloride	102	KG00097916	anxieties	0.030026333406567574
+trial_2	magnesium chloride	276	KG00099127	Arrest, Cardiac	0.029962511733174324
+trial_2	magnesium chloride	269	KG00100399	pyaemia	0.029842913150787354
+trial_2	magnesium chloride	86	KG00098565	Depression, Mental	0.02980428747832775
+trial_2	magnesium chloride	36	KG00106434	Vision, Blurring Of	0.029377900063991547
+trial_2	magnesium chloride	441	KG00098262	cellulitis nos	0.029322007670998573
+trial_2	magnesium chloride	4	KG00098817	epistaxis	0.029317256063222885
+trial_2	magnesium chloride	396	KG00100373	Embolism, Pulmonary	0.029127297922968864
+trial_2	magnesium chloride	121	KG00099190	haemorrhage	0.02905997261404991
+trial_2	magnesium chloride	355	KG00110857	lymphocyte count decreased	0.029029713943600655
+trial_2	magnesium chloride	38	KG00098066	Binocular vision disorders	0.028959013521671295
+trial_2	magnesium chloride	253	KG00100232	Pleural effusion NOS (disorder)	0.028928395360708237
+trial_2	magnesium chloride	116	KG00098964	Pain in foot	0.028880124911665916
+trial_2	magnesium chloride	82	KG00097697	abdomen distended	0.02856905199587345
+trial_2	magnesium chloride	1	KG00099959	Neutropenia NOS	0.02729138359427452
+trial_2	magnesium chloride	131	KG00100948	Urinary tract infection (& [NOS])	0.027079949155449867
+trial_2	magnesium chloride	261	KG00101559	raised alkaline phosphatase	0.027023551985621452
+trial_2	magnesium chloride	18	KG00098307	Pain, Chest	0.026341259479522705
+trial_2	magnesium chloride	92	KG00100926	Infections, Upper Respiratory	0.025653937831521034
+trial_2	magnesium chloride	98	KG00097718	Incised wound, NOS	0.02551952190697193
+trial_2	magnesium chloride	466	KG00101205	fall	0.02455327659845352
+trial_2	magnesium chloride	191	KG00104055	Biliverdin increased	0.02432016283273697
+trial_2	magnesium chloride	142	KG00100923	Unspecified infectious and parasitic diseases	0.024195890873670578
+trial_2	magnesium chloride	204	KG00098849	Esophagitis, Peptic	0.023402344435453415
+trial_2	magnesium chloride	31	KG00099872	Infarction, Myocardial	0.022862784564495087
+trial_2	magnesium chloride	202	KG00098630	Disturbance of Skin Sensation	0.022813115268945694
+trial_2	magnesium chloride	268	KG00099557	Heart Failure, Left-Sided	0.022073913365602493
+trial_2	magnesium chloride	139	KG00098855	Sinusitis, Ethmoid	0.021915128454566002
+trial_2	magnesium chloride	130	KG00100683	Stomatitis NOS	0.021821152418851852
+trial_2	magnesium chloride	75	KG00100195	Dolens, Phlegmasia Alba	0.02177751436829567
+trial_2	magnesium chloride	288	KG00101223	hypophosphataemia	0.02163388580083847
+trial_2	magnesium chloride	133	KG00101370	neuropathies sensory	0.021494682878255844
+trial_2	magnesium chloride	186	KG00101431	creatinine increased	0.02140350267291069
+trial_2	magnesium chloride	211	KG00100341	Pruritus NOS	0.021255595609545708
+trial_2	magnesium chloride	257	KG00100922	Erythema NOS	0.021065562963485718
+trial_2	magnesium chloride	503	KG00102612	low haemoglobin	0.021045558154582977
+trial_2	magnesium chloride	100	KG00097815	alopecias	0.020506495609879494
+trial_2	magnesium chloride	218	KG00100801	Tinnitus NOS	0.020386168733239174
+trial_2	magnesium chloride	154	KG00099686	Lymphopenias	0.020283127203583717
+trial_2	magnesium chloride	262	KG00101199	agitation	0.02025946043431759
+trial_2	magnesium chloride	136	KG00101582	Dry;skin	0.020199162885546684
+trial_2	magnesium chloride	256	KG00100738	Tachycardia, Sinus	0.020063742995262146
+trial_2	magnesium chloride	221	KG00101207	peripheral oedema	0.019608428701758385
+trial_2	magnesium chloride	286	KG00101110	Retention, Urinary	0.0196029432117939
+trial_2	magnesium chloride	164	KG00108827	ileus colon	0.0191749669611454

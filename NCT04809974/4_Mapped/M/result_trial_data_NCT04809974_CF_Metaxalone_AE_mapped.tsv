@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09582996368408203
+trial_1	placebo	87	KG00098599	diarrhoea	0.08361081033945084
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07547523826360703
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.061382707208395004
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06041336804628372
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05575472116470337
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05521883815526962
+trial_1	placebo	20	KG00098540	dehydration	0.05108935013413429
+trial_1	placebo	46	KG00099121	Headache NOS	0.04879304766654968
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04719056561589241
+trial_1	placebo	21	KG00098675	dyspnoea	0.04438845440745354
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.043235860764980316
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04202308505773544
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0392066091299057
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.038800209760665894
+trial_1	placebo	68	KG00099901	nauseas	0.03840511664748192
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035834964364767075
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.034914225339889526
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03431712090969086
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03415355086326599
+trial_1	placebo	228	KG00114657	Weight below normal	0.033665239810943604
+trial_1	placebo	14	KG00097852	Anemia NOS	0.032012470066547394
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03056955523788929
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.030500022694468498
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.030443983152508736
+trial_1	placebo	29	KG00099354	hyponatraemia	0.029881101101636887
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.029716333374381065
+trial_1	placebo	86	KG00098565	Depression, Mental	0.029428068548440933
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02901347540318966
+trial_1	placebo	5	KG00099169	haematuria	0.028051266446709633
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02802371233701706
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.027861155569553375
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02757912501692772
+trial_1	placebo	126	KG00100076	Pain NOS	0.027049649506807327
+trial_1	placebo	104	KG00097963	arthralgias	0.026997221633791924
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026580236852169037
+trial_1	placebo	114	KG00098933	fevers	0.026216281577944756
+trial_1	placebo	239	KG00100128	pareses	0.025955453515052795
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024764060974121094
+trial_1	placebo	147	KG00098000	atelectases	0.024439865723252296
+trial_1	placebo	85	KG00098474	coughs	0.023892171680927277
+trial_1	placebo	102	KG00097916	anxieties	0.022578781470656395
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022260863333940506
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02194702997803688
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02166016213595867
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021469948813319206
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0211192574352026
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.020932521671056747
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.020848562940955162
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019745562225580215
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01972631923854351
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019604643806815147
+trial_1	placebo	116	KG00098964	Pain in foot	0.01945105940103531
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.019340112805366516
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.019278813153505325
+trial_1	placebo	466	KG00101205	fall	0.019245365634560585
+trial_1	placebo	132	KG00101045	Gain, Weight	0.019153276458382607
+trial_1	placebo	72	KG00103771	myalgias	0.018829980865120888
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018458865582942963
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018345629796385765
+trial_1	placebo	82	KG00097697	abdomen distended	0.01830255798995495
+trial_1	placebo	262	KG00101199	agitation	0.018037419766187668
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018030012026429176
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017834633588790894
+trial_1	placebo	234	KG00098669	dysgeusias	0.01724906452000141
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01724209077656269
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.017173392698168755
+trial_1	placebo	269	KG00100399	pyaemia	0.017067061737179756
+trial_1	placebo	164	KG00108827	ileus colon	0.016932833939790726
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01675690896809101
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01663336716592312
+trial_1	placebo	441	KG00098262	cellulitis nos	0.016105715185403824
+trial_1	placebo	121	KG00099190	haemorrhage	0.015883412212133408
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015826581045985222
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01569477841258049
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.015582205727696419
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015355829149484634
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.015325541608035564
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01531293150037527
+trial_1	placebo	242	KG00100855	tremors	0.015289581380784512
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01523375604301691
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015159526839852333
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015109688974916935
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01510624773800373
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.015058944933116436
+trial_1	placebo	66	KG00098642	drowsiness	0.014919722452759743
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.014495444484055042
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.014391734264791012
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01414513774216175
+trial_1	placebo	508	KG00108565	blood glucose increased	0.0141151649877429
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014103214256465435
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013958807103335857
+trial_1	placebo	186	KG00101431	creatinine increased	0.013950061053037643
+trial_1	placebo	454	KG00098286	Pain, Neck	0.013949871063232422
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.013762104324996471
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.013668774627149105
+trial_1	placebo	339	KG00100334	proteinurias	0.013651588931679726
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01364909764379263
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01363680325448513
+trial_1	placebo	153	KG00099579	lethargy	0.013595541007816792
+trial_2	metaxalone	78	KG00099326	Hypertensive diseases	0.09582996368408203
+trial_2	metaxalone	87	KG00098599	diarrhoea	0.08361081033945084
+trial_2	metaxalone	9	KG00098432	Confusion NOS	0.07547523826360703
+trial_2	metaxalone	177	KG00099299	hyperglycaemia	0.061382707208395004
+trial_2	metaxalone	17	KG00097991	Asthenia NOS	0.06041336804628372
+trial_2	metaxalone	77	KG00098450	Constipation NOS	0.05575472116470337
+trial_2	metaxalone	173	KG00098172	Bronchopneumonia NOS	0.05521883815526962
+trial_2	metaxalone	20	KG00098540	dehydration	0.05108935013413429
+trial_2	metaxalone	46	KG00099121	Headache NOS	0.04879304766654968
+trial_2	metaxalone	123	KG00099351	hypokalaemia	0.04719056561589241
+trial_2	metaxalone	21	KG00098675	dyspnoea	0.04438845440745354
+trial_2	metaxalone	79	KG00100317	Insomnia, Primary	0.043235860764980316
+trial_2	metaxalone	37	KG00097696	Cramps, Abdominal	0.04202308505773544
+trial_2	metaxalone	189	KG00101580	Alanine aminotransferase increase	0.0392066091299057
+trial_2	metaxalone	67	KG00098673	Dyspepsia, NOS	0.038800209760665894
+trial_2	metaxalone	68	KG00099901	nauseas	0.03840511664748192
+trial_2	metaxalone	200	KG00098539	Disorders, Deglutition	0.035834964364767075
+trial_2	metaxalone	64	KG00097734	Acrodermatitis, NOS	0.034914225339889526
+trial_2	metaxalone	49	KG00099902	nausea with vomiting	0.03431712090969086
+trial_2	metaxalone	188	KG00101579	Aspartate aminotransferase increase	0.03415355086326599
+trial_2	metaxalone	228	KG00114657	Weight below normal	0.033665239810943604
+trial_2	metaxalone	14	KG00097852	Anemia NOS	0.032012470066547394
+trial_2	metaxalone	180	KG00099363	Hypotension NOS	0.03056955523788929
+trial_2	metaxalone	2	KG00100772	thrombocytopaenia	0.030500022694468498
+trial_2	metaxalone	243	KG00100947	Micturition frequency increased	0.030443983152508736
+trial_2	metaxalone	29	KG00099354	hyponatraemia	0.029881101101636887
+trial_2	metaxalone	151	KG00098274	Infarction, Cerebral	0.029716333374381065
+trial_2	metaxalone	86	KG00098565	Depression, Mental	0.029428068548440933
+trial_2	metaxalone	76	KG00100450	Respiratory insufficiency, NOS	0.02901347540318966
+trial_2	metaxalone	5	KG00099169	haematuria	0.028051266446709633
+trial_2	metaxalone	350	KG00106765	decreased platelet count	0.02802371233701706
+trial_2	metaxalone	28	KG00099347	hypoglycaemia	0.027861155569553375
+trial_2	metaxalone	61	KG00099501	Chronic Kidney Failure	0.02757912501692772
+trial_2	metaxalone	126	KG00100076	Pain NOS	0.027049649506807327
+trial_2	metaxalone	104	KG00097963	arthralgias	0.026997221633791924
+trial_2	metaxalone	30	KG00099500	Acute Kidney Failure	0.026580236852169037
+trial_2	metaxalone	114	KG00098933	fevers	0.026216281577944756
+trial_2	metaxalone	239	KG00100128	pareses	0.025955453515052795
+trial_2	metaxalone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024764060974121094
+trial_2	metaxalone	147	KG00098000	atelectases	0.024439865723252296
+trial_2	metaxalone	85	KG00098474	coughs	0.023892171680927277
+trial_2	metaxalone	102	KG00097916	anxieties	0.022578781470656395
+trial_2	metaxalone	396	KG00100373	Embolism, Pulmonary	0.022260863333940506
+trial_2	metaxalone	101	KG00097901	Anorexia NOS	0.02194702997803688
+trial_2	metaxalone	96	KG00101679	Unattended death NOS	0.02166016213595867
+trial_2	metaxalone	69	KG00100082	Palpitations NOS	0.021469948813319206
+trial_2	metaxalone	131	KG00100948	Urinary tract infection (& [NOS])	0.0211192574352026
+trial_2	metaxalone	38	KG00098066	Binocular vision disorders	0.020932521671056747
+trial_2	metaxalone	27	KG00099303	hyperkalaemia	0.020848562940955162
+trial_2	metaxalone	18	KG00098307	Pain, Chest	0.019745562225580215
+trial_2	metaxalone	276	KG00099127	Arrest, Cardiac	0.01972631923854351
+trial_2	metaxalone	75	KG00100195	Dolens, Phlegmasia Alba	0.019604643806815147
+trial_2	metaxalone	116	KG00098964	Pain in foot	0.01945105940103531
+trial_2	metaxalone	122	KG00099321	Hypersensitivity NOS	0.019340112805366516
+trial_2	metaxalone	179	KG00099342	hypocalcaemia	0.019278813153505325
+trial_2	metaxalone	466	KG00101205	fall	0.019245365634560585
+trial_2	metaxalone	132	KG00101045	Gain, Weight	0.019153276458382607
+trial_2	metaxalone	72	KG00103771	myalgias	0.018829980865120888
+trial_2	metaxalone	36	KG00106434	Vision, Blurring Of	0.018458865582942963
+trial_2	metaxalone	92	KG00100926	Infections, Upper Respiratory	0.018345629796385765
+trial_2	metaxalone	82	KG00097697	abdomen distended	0.01830255798995495
+trial_2	metaxalone	262	KG00101199	agitation	0.018037419766187668
+trial_2	metaxalone	286	KG00101110	Retention, Urinary	0.018030012026429176
+trial_2	metaxalone	139	KG00098855	Sinusitis, Ethmoid	0.017834633588790894
+trial_2	metaxalone	234	KG00098669	dysgeusias	0.01724906452000141
+trial_2	metaxalone	253	KG00100232	Pleural effusion NOS (disorder)	0.01724209077656269
+trial_2	metaxalone	261	KG00101559	raised alkaline phosphatase	0.017173392698168755
+trial_2	metaxalone	269	KG00100399	pyaemia	0.017067061737179756
+trial_2	metaxalone	164	KG00108827	ileus colon	0.016932833939790726
+trial_2	metaxalone	31	KG00099872	Infarction, Myocardial	0.01675690896809101
+trial_2	metaxalone	361	KG00098004	Fibrillation, Atrial	0.01663336716592312
+trial_2	metaxalone	441	KG00098262	cellulitis nos	0.016105715185403824
+trial_2	metaxalone	121	KG00099190	haemorrhage	0.015883412212133408
+trial_2	metaxalone	199	KG00098371	Rhinitis (chronic) NOS	0.015826581045985222
+trial_2	metaxalone	282	KG00099309	hypernatraemia	0.01569477841258049
+trial_2	metaxalone	422	KG00101429	Creatine phosphokinase increased	0.015582205727696419
+trial_2	metaxalone	211	KG00100341	Pruritus NOS	0.015355829149484634
+trial_2	metaxalone	194	KG00110727	Neutrophil Count Decreased	0.015325541608035564
+trial_2	metaxalone	191	KG00104055	Biliverdin increased	0.01531293150037527
+trial_2	metaxalone	242	KG00100855	tremors	0.015289581380784512
+trial_2	metaxalone	204	KG00098849	Esophagitis, Peptic	0.01523375604301691
+trial_2	metaxalone	11	KG00097993	Asthma NOS	0.015159526839852333
+trial_2	metaxalone	15	KG00097882	Angina pectoris NOS	0.015109688974916935
+trial_2	metaxalone	163	KG00104050	bowel obstructions small	0.01510624773800373
+trial_2	metaxalone	98	KG00097718	Incised wound, NOS	0.015058944933116436
+trial_2	metaxalone	66	KG00098642	drowsiness	0.014919722452759743
+trial_2	metaxalone	144	KG00099610	Leukopenia NOS	0.014495444484055042
+trial_2	metaxalone	218	KG00100801	Tinnitus NOS	0.014391734264791012
+trial_2	metaxalone	249	KG00104430	hypoalbuminaemia	0.01414513774216175
+trial_2	metaxalone	508	KG00108565	blood glucose increased	0.0141151649877429
+trial_2	metaxalone	35	KG00101507	hypomagnesaemia	0.014103214256465435
+trial_2	metaxalone	221	KG00101207	peripheral oedema	0.013958807103335857
+trial_2	metaxalone	186	KG00101431	creatinine increased	0.013950061053037643
+trial_2	metaxalone	454	KG00098286	Pain, Neck	0.013949871063232422
+trial_2	metaxalone	355	KG00110857	lymphocyte count decreased	0.013762104324996471
+trial_2	metaxalone	118	KG00099011	Gastritis NOS	0.013668774627149105
+trial_2	metaxalone	339	KG00100334	proteinurias	0.013651588931679726
+trial_2	metaxalone	288	KG00101223	hypophosphataemia	0.01364909764379263
+trial_2	metaxalone	166	KG00099773	menopausal syndrome	0.01363680325448513
+trial_2	metaxalone	153	KG00099579	lethargy	0.013595541007816792

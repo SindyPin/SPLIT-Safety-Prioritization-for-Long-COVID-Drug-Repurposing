@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12594854831695557
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12002605944871902
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10554548352956772
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09222564101219177
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08830088376998901
+trial_1	placebo	68	KG00099901	nauseas	0.08385563641786575
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07849152386188507
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07290586084127426
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07181661576032639
+trial_1	placebo	20	KG00098540	dehydration	0.07074885070323944
+trial_1	placebo	46	KG00099121	Headache NOS	0.06399320065975189
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06393010914325714
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06379223614931107
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06293892115354538
+trial_1	placebo	21	KG00098675	dyspnoea	0.062145333737134933
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05732690915465355
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05491292476654053
+trial_1	placebo	228	KG00114657	Weight below normal	0.05473079904913902
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05334474891424179
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.051412977278232574
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04765999689698219
+trial_1	placebo	126	KG00100076	Pain NOS	0.04699873551726341
+trial_1	placebo	86	KG00098565	Depression, Mental	0.046852558851242065
+trial_1	placebo	239	KG00100128	pareses	0.04280460625886917
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04174616560339928
+trial_1	placebo	14	KG00097852	Anemia NOS	0.039554230868816376
+trial_1	placebo	104	KG00097963	arthralgias	0.038841720670461655
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03850725293159485
+trial_1	placebo	114	KG00098933	fevers	0.03790954500436783
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.037169527262449265
+trial_1	placebo	72	KG00103771	myalgias	0.037137143313884735
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03659515455365181
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03656846657395363
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03582370653748512
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03568366914987564
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.035355307161808014
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03455168381333351
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03406761586666107
+trial_1	placebo	102	KG00097916	anxieties	0.033820826560258865
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03356247395277023
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03353120759129524
+trial_1	placebo	85	KG00098474	coughs	0.033317629247903824
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.030745424330234528
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030287859961390495
+trial_1	placebo	5	KG00099169	haematuria	0.02939593605697155
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.029095929116010666
+trial_1	placebo	121	KG00099190	haemorrhage	0.028636232018470764
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02841901034116745
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.028008457273244858
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0278189554810524
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02723877876996994
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.026796141639351845
+trial_1	placebo	147	KG00098000	atelectases	0.02656753920018673
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026385391131043434
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026050381362438202
+trial_1	placebo	116	KG00098964	Pain in foot	0.025978626683354378
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02566494606435299
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025592098012566566
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02503933012485504
+trial_1	placebo	100	KG00097815	alopecias	0.024752231314778328
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024108704179525375
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02327576093375683
+trial_1	placebo	466	KG00101205	fall	0.023274768143892288
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.022974349558353424
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022593365982174873
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02254577726125717
+trial_1	placebo	82	KG00097697	abdomen distended	0.022226925939321518
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021918628364801407
+trial_1	placebo	154	KG00099686	Lymphopenias	0.021856598556041718
+trial_1	placebo	282	KG00099309	hypernatraemia	0.021813075989484787
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021669823676347733
+trial_1	placebo	262	KG00101199	agitation	0.021664109081029892
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021306699141860008
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021286603063344955
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02101653255522251
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.020967843011021614
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.020818740129470825
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0207798071205616
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02074226178228855
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02066485770046711
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020521707832813263
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020239006727933884
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020107032731175423
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01999678649008274
+trial_1	placebo	234	KG00098669	dysgeusias	0.01963844895362854
+trial_1	placebo	164	KG00108827	ileus colon	0.0194573812186718
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01919780857861042
+trial_1	placebo	212	KG00100576	shivers	0.018945612013339996
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01860157400369644
+trial_1	placebo	136	KG00101582	Dry;skin	0.01853211782872677
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.01844450831413269
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01834782026708126
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.018197711557149887
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017827460542321205
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01768648996949196
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01760859601199627
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.017470020800828934
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.017344485968351364
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01731010153889656
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017297672107815742
+trial_2	mestranol	87	KG00098599	diarrhoea	0.12594854831695557
+trial_2	mestranol	78	KG00099326	Hypertensive diseases	0.12002605944871902
+trial_2	mestranol	17	KG00097991	Asthenia NOS	0.10554548352956772
+trial_2	mestranol	177	KG00099299	hyperglycaemia	0.09222564101219177
+trial_2	mestranol	9	KG00098432	Confusion NOS	0.08830088376998901
+trial_2	mestranol	68	KG00099901	nauseas	0.08385563641786575
+trial_2	mestranol	173	KG00098172	Bronchopneumonia NOS	0.07849152386188507
+trial_2	mestranol	79	KG00100317	Insomnia, Primary	0.07290586084127426
+trial_2	mestranol	77	KG00098450	Constipation NOS	0.07181661576032639
+trial_2	mestranol	20	KG00098540	dehydration	0.07074885070323944
+trial_2	mestranol	46	KG00099121	Headache NOS	0.06399320065975189
+trial_2	mestranol	123	KG00099351	hypokalaemia	0.06393010914325714
+trial_2	mestranol	49	KG00099902	nausea with vomiting	0.06379223614931107
+trial_2	mestranol	64	KG00097734	Acrodermatitis, NOS	0.06293892115354538
+trial_2	mestranol	21	KG00098675	dyspnoea	0.062145333737134933
+trial_2	mestranol	67	KG00098673	Dyspepsia, NOS	0.05732690915465355
+trial_2	mestranol	243	KG00100947	Micturition frequency increased	0.05491292476654053
+trial_2	mestranol	228	KG00114657	Weight below normal	0.05473079904913902
+trial_2	mestranol	37	KG00097696	Cramps, Abdominal	0.05334474891424179
+trial_2	mestranol	189	KG00101580	Alanine aminotransferase increase	0.051412977278232574
+trial_2	mestranol	200	KG00098539	Disorders, Deglutition	0.04765999689698219
+trial_2	mestranol	126	KG00100076	Pain NOS	0.04699873551726341
+trial_2	mestranol	86	KG00098565	Depression, Mental	0.046852558851242065
+trial_2	mestranol	239	KG00100128	pareses	0.04280460625886917
+trial_2	mestranol	188	KG00101579	Aspartate aminotransferase increase	0.04174616560339928
+trial_2	mestranol	14	KG00097852	Anemia NOS	0.039554230868816376
+trial_2	mestranol	104	KG00097963	arthralgias	0.038841720670461655
+trial_2	mestranol	151	KG00098274	Infarction, Cerebral	0.03850725293159485
+trial_2	mestranol	114	KG00098933	fevers	0.03790954500436783
+trial_2	mestranol	180	KG00099363	Hypotension NOS	0.037169527262449265
+trial_2	mestranol	72	KG00103771	myalgias	0.037137143313884735
+trial_2	mestranol	29	KG00099354	hyponatraemia	0.03659515455365181
+trial_2	mestranol	101	KG00097901	Anorexia NOS	0.03656846657395363
+trial_2	mestranol	350	KG00106765	decreased platelet count	0.03582370653748512
+trial_2	mestranol	166	KG00099773	menopausal syndrome	0.03568366914987564
+trial_2	mestranol	122	KG00099321	Hypersensitivity NOS	0.035355307161808014
+trial_2	mestranol	28	KG00099347	hypoglycaemia	0.03455168381333351
+trial_2	mestranol	132	KG00101045	Gain, Weight	0.03406761586666107
+trial_2	mestranol	102	KG00097916	anxieties	0.033820826560258865
+trial_2	mestranol	139	KG00098855	Sinusitis, Ethmoid	0.03356247395277023
+trial_2	mestranol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03353120759129524
+trial_2	mestranol	85	KG00098474	coughs	0.033317629247903824
+trial_2	mestranol	38	KG00098066	Binocular vision disorders	0.030745424330234528
+trial_2	mestranol	179	KG00099342	hypocalcaemia	0.030287859961390495
+trial_2	mestranol	5	KG00099169	haematuria	0.02939593605697155
+trial_2	mestranol	27	KG00099303	hyperkalaemia	0.029095929116010666
+trial_2	mestranol	121	KG00099190	haemorrhage	0.028636232018470764
+trial_2	mestranol	76	KG00100450	Respiratory insufficiency, NOS	0.02841901034116745
+trial_2	mestranol	96	KG00101679	Unattended death NOS	0.028008457273244858
+trial_2	mestranol	18	KG00098307	Pain, Chest	0.0278189554810524
+trial_2	mestranol	131	KG00100948	Urinary tract infection (& [NOS])	0.02723877876996994
+trial_2	mestranol	2	KG00100772	thrombocytopaenia	0.026796141639351845
+trial_2	mestranol	147	KG00098000	atelectases	0.02656753920018673
+trial_2	mestranol	61	KG00099501	Chronic Kidney Failure	0.026385391131043434
+trial_2	mestranol	441	KG00098262	cellulitis nos	0.026050381362438202
+trial_2	mestranol	116	KG00098964	Pain in foot	0.025978626683354378
+trial_2	mestranol	69	KG00100082	Palpitations NOS	0.02566494606435299
+trial_2	mestranol	261	KG00101559	raised alkaline phosphatase	0.025592098012566566
+trial_2	mestranol	396	KG00100373	Embolism, Pulmonary	0.02503933012485504
+trial_2	mestranol	100	KG00097815	alopecias	0.024752231314778328
+trial_2	mestranol	211	KG00100341	Pruritus NOS	0.024108704179525375
+trial_2	mestranol	249	KG00104430	hypoalbuminaemia	0.02327576093375683
+trial_2	mestranol	466	KG00101205	fall	0.023274768143892288
+trial_2	mestranol	355	KG00110857	lymphocyte count decreased	0.022974349558353424
+trial_2	mestranol	194	KG00110727	Neutrophil Count Decreased	0.022593365982174873
+trial_2	mestranol	142	KG00100923	Unspecified infectious and parasitic diseases	0.02254577726125717
+trial_2	mestranol	82	KG00097697	abdomen distended	0.022226925939321518
+trial_2	mestranol	75	KG00100195	Dolens, Phlegmasia Alba	0.021918628364801407
+trial_2	mestranol	154	KG00099686	Lymphopenias	0.021856598556041718
+trial_2	mestranol	282	KG00099309	hypernatraemia	0.021813075989484787
+trial_2	mestranol	204	KG00098849	Esophagitis, Peptic	0.021669823676347733
+trial_2	mestranol	262	KG00101199	agitation	0.021664109081029892
+trial_2	mestranol	30	KG00099500	Acute Kidney Failure	0.021306699141860008
+trial_2	mestranol	221	KG00101207	peripheral oedema	0.021286603063344955
+trial_2	mestranol	133	KG00101370	neuropathies sensory	0.02101653255522251
+trial_2	mestranol	297	KG00099294	hypercholesterolaemia	0.020967843011021614
+trial_2	mestranol	286	KG00101110	Retention, Urinary	0.020818740129470825
+trial_2	mestranol	36	KG00106434	Vision, Blurring Of	0.0207798071205616
+trial_2	mestranol	35	KG00101507	hypomagnesaemia	0.02074226178228855
+trial_2	mestranol	361	KG00098004	Fibrillation, Atrial	0.02066485770046711
+trial_2	mestranol	508	KG00108565	blood glucose increased	0.020521707832813263
+trial_2	mestranol	191	KG00104055	Biliverdin increased	0.020239006727933884
+trial_2	mestranol	92	KG00100926	Infections, Upper Respiratory	0.020107032731175423
+trial_2	mestranol	33	KG00100094	Pancreatitis NOS	0.01999678649008274
+trial_2	mestranol	234	KG00098669	dysgeusias	0.01963844895362854
+trial_2	mestranol	164	KG00108827	ileus colon	0.0194573812186718
+trial_2	mestranol	152	KG00099402	INCONTINENCE NOS	0.01919780857861042
+trial_2	mestranol	212	KG00100576	shivers	0.018945612013339996
+trial_2	mestranol	118	KG00099011	Gastritis NOS	0.01860157400369644
+trial_2	mestranol	136	KG00101582	Dry;skin	0.01853211782872677
+trial_2	mestranol	89	KG00099301	Hyperhidrosis (disorder)	0.01844450831413269
+trial_2	mestranol	22	KG00098705	Edema (NOS)	0.01834782026708126
+trial_2	mestranol	276	KG00099127	Arrest, Cardiac	0.018197711557149887
+trial_2	mestranol	31	KG00099872	Infarction, Myocardial	0.017827460542321205
+trial_2	mestranol	246	KG00103338	Aspartate Aminotransferase Measurement	0.01768648996949196
+trial_2	mestranol	454	KG00098286	Pain, Neck	0.01760859601199627
+trial_2	mestranol	15	KG00097882	Angina pectoris NOS	0.017470020800828934
+trial_2	mestranol	371	KG00098517	Cystitis (NOS)	0.017344485968351364
+trial_2	mestranol	288	KG00101223	hypophosphataemia	0.01731010153889656
+trial_2	mestranol	130	KG00100683	Stomatitis NOS	0.017297672107815742

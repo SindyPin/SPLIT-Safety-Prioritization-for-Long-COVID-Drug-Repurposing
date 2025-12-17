@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.180559903383255
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1175982803106308
+trial_1	placebo	87	KG00098599	diarrhoea	0.11735557019710541
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11564952880144119
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11515974253416061
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09460023790597916
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08959101885557175
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08691145479679108
+trial_1	placebo	46	KG00099121	Headache NOS	0.08581195771694183
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08212671428918839
+trial_1	placebo	21	KG00098675	dyspnoea	0.0752284824848175
+trial_1	placebo	20	KG00098540	dehydration	0.07383337616920471
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07334068417549133
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0729520171880722
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0707019567489624
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07044663280248642
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06854952871799469
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06818974763154984
+trial_1	placebo	68	KG00099901	nauseas	0.06783990561962128
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06769716739654541
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06531141698360443
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06365612149238586
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06103692203760147
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05806716904044151
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05697251856327057
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05502099171280861
+trial_1	placebo	77	KG00098450	Constipation NOS	0.054170332849025726
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.052789900451898575
+trial_1	placebo	228	KG00114657	Weight below normal	0.05234735459089279
+trial_1	placebo	114	KG00098933	fevers	0.0521988570690155
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.051666803658008575
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.049949709326028824
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.049390289932489395
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0490754172205925
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04900320991873741
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04860507696866989
+trial_1	placebo	147	KG00098000	atelectases	0.0478646457195282
+trial_1	placebo	269	KG00100399	pyaemia	0.04704120382666588
+trial_1	placebo	126	KG00100076	Pain NOS	0.04668021574616432
+trial_1	placebo	104	KG00097963	arthralgias	0.046470146626234055
+trial_1	placebo	85	KG00098474	coughs	0.043731823563575745
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04282807558774948
+trial_1	placebo	86	KG00098565	Depression, Mental	0.042100246995687485
+trial_1	placebo	5	KG00099169	haematuria	0.04098798707127571
+trial_1	placebo	239	KG00100128	pareses	0.03897104412317276
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.037069790065288544
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.036569129675626755
+trial_1	placebo	72	KG00103771	myalgias	0.03652064502239227
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03562947362661362
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.035601139068603516
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03551341965794563
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03410432115197182
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03349697217345238
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.033380940556526184
+trial_1	placebo	132	KG00101045	Gain, Weight	0.033166609704494476
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03314828872680664
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03310897573828697
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0327281728386879
+trial_1	placebo	164	KG00108827	ileus colon	0.032148730009794235
+trial_1	placebo	441	KG00098262	cellulitis nos	0.031463488936424255
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.030792860314249992
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.030428320169448853
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03015671856701374
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0300228800624609
+trial_1	placebo	116	KG00098964	Pain in foot	0.029966676607728004
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.029498403891921043
+trial_1	placebo	262	KG00101199	agitation	0.029260894283652306
+trial_1	placebo	18	KG00098307	Pain, Chest	0.029201356694102287
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.029105311259627342
+trial_1	placebo	186	KG00101431	creatinine increased	0.028651414439082146
+trial_1	placebo	102	KG00097916	anxieties	0.028395196422934532
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02804253250360489
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02783823572099209
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02733984962105751
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02733384072780609
+trial_1	placebo	121	KG00099190	haemorrhage	0.027178416028618813
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02692774310708046
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026852168142795563
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026751000434160233
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.026617998257279396
+trial_1	placebo	234	KG00098669	dysgeusias	0.026351822540163994
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.02622673474252224
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025287477299571037
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02497926913201809
+trial_1	placebo	82	KG00097697	abdomen distended	0.024475419893860817
+trial_1	placebo	221	KG00101207	peripheral oedema	0.024341076612472534
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.024218905717134476
+trial_1	placebo	25	KG00099134	congestive failures heart	0.024014417082071304
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02401428297162056
+trial_1	placebo	466	KG00101205	fall	0.023504028096795082
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02295832894742489
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022735215723514557
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022229505702853203
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02189759537577629
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.02161935158073902
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02131056599318981
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021107904613018036
+trial_1	placebo	154	KG00099686	Lymphopenias	0.021090161055326462
+trial_1	placebo	503	KG00102612	low haemoglobin	0.021054623648524284
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021048996597528458
+trial_2	mezlocillin	78	KG00099326	Hypertensive diseases	0.180559903383255
+trial_2	mezlocillin	123	KG00099351	hypokalaemia	0.1175982803106308
+trial_2	mezlocillin	87	KG00098599	diarrhoea	0.11735557019710541
+trial_2	mezlocillin	177	KG00099299	hyperglycaemia	0.11564952880144119
+trial_2	mezlocillin	9	KG00098432	Confusion NOS	0.11515974253416061
+trial_2	mezlocillin	173	KG00098172	Bronchopneumonia NOS	0.09460023790597916
+trial_2	mezlocillin	17	KG00097991	Asthenia NOS	0.08959101885557175
+trial_2	mezlocillin	14	KG00097852	Anemia NOS	0.08691145479679108
+trial_2	mezlocillin	46	KG00099121	Headache NOS	0.08581195771694183
+trial_2	mezlocillin	189	KG00101580	Alanine aminotransferase increase	0.08212671428918839
+trial_2	mezlocillin	21	KG00098675	dyspnoea	0.0752284824848175
+trial_2	mezlocillin	20	KG00098540	dehydration	0.07383337616920471
+trial_2	mezlocillin	188	KG00101579	Aspartate aminotransferase increase	0.07334068417549133
+trial_2	mezlocillin	76	KG00100450	Respiratory insufficiency, NOS	0.0729520171880722
+trial_2	mezlocillin	29	KG00099354	hyponatraemia	0.0707019567489624
+trial_2	mezlocillin	79	KG00100317	Insomnia, Primary	0.07044663280248642
+trial_2	mezlocillin	180	KG00099363	Hypotension NOS	0.06854952871799469
+trial_2	mezlocillin	61	KG00099501	Chronic Kidney Failure	0.06818974763154984
+trial_2	mezlocillin	68	KG00099901	nauseas	0.06783990561962128
+trial_2	mezlocillin	350	KG00106765	decreased platelet count	0.06769716739654541
+trial_2	mezlocillin	2	KG00100772	thrombocytopaenia	0.06531141698360443
+trial_2	mezlocillin	49	KG00099902	nausea with vomiting	0.06365612149238586
+trial_2	mezlocillin	37	KG00097696	Cramps, Abdominal	0.06103692203760147
+trial_2	mezlocillin	200	KG00098539	Disorders, Deglutition	0.05806716904044151
+trial_2	mezlocillin	30	KG00099500	Acute Kidney Failure	0.05697251856327057
+trial_2	mezlocillin	27	KG00099303	hyperkalaemia	0.05502099171280861
+trial_2	mezlocillin	77	KG00098450	Constipation NOS	0.054170332849025726
+trial_2	mezlocillin	151	KG00098274	Infarction, Cerebral	0.052789900451898575
+trial_2	mezlocillin	228	KG00114657	Weight below normal	0.05234735459089279
+trial_2	mezlocillin	114	KG00098933	fevers	0.0521988570690155
+trial_2	mezlocillin	276	KG00099127	Arrest, Cardiac	0.051666803658008575
+trial_2	mezlocillin	67	KG00098673	Dyspepsia, NOS	0.049949709326028824
+trial_2	mezlocillin	64	KG00097734	Acrodermatitis, NOS	0.049390289932489395
+trial_2	mezlocillin	179	KG00099342	hypocalcaemia	0.0490754172205925
+trial_2	mezlocillin	28	KG00099347	hypoglycaemia	0.04900320991873741
+trial_2	mezlocillin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04860507696866989
+trial_2	mezlocillin	147	KG00098000	atelectases	0.0478646457195282
+trial_2	mezlocillin	269	KG00100399	pyaemia	0.04704120382666588
+trial_2	mezlocillin	126	KG00100076	Pain NOS	0.04668021574616432
+trial_2	mezlocillin	104	KG00097963	arthralgias	0.046470146626234055
+trial_2	mezlocillin	85	KG00098474	coughs	0.043731823563575745
+trial_2	mezlocillin	243	KG00100947	Micturition frequency increased	0.04282807558774948
+trial_2	mezlocillin	86	KG00098565	Depression, Mental	0.042100246995687485
+trial_2	mezlocillin	5	KG00099169	haematuria	0.04098798707127571
+trial_2	mezlocillin	239	KG00100128	pareses	0.03897104412317276
+trial_2	mezlocillin	131	KG00100948	Urinary tract infection (& [NOS])	0.037069790065288544
+trial_2	mezlocillin	396	KG00100373	Embolism, Pulmonary	0.036569129675626755
+trial_2	mezlocillin	72	KG00103771	myalgias	0.03652064502239227
+trial_2	mezlocillin	282	KG00099309	hypernatraemia	0.03562947362661362
+trial_2	mezlocillin	249	KG00104430	hypoalbuminaemia	0.035601139068603516
+trial_2	mezlocillin	35	KG00101507	hypomagnesaemia	0.03551341965794563
+trial_2	mezlocillin	96	KG00101679	Unattended death NOS	0.03410432115197182
+trial_2	mezlocillin	261	KG00101559	raised alkaline phosphatase	0.03349697217345238
+trial_2	mezlocillin	122	KG00099321	Hypersensitivity NOS	0.033380940556526184
+trial_2	mezlocillin	132	KG00101045	Gain, Weight	0.033166609704494476
+trial_2	mezlocillin	144	KG00099610	Leukopenia NOS	0.03314828872680664
+trial_2	mezlocillin	194	KG00110727	Neutrophil Count Decreased	0.03310897573828697
+trial_2	mezlocillin	69	KG00100082	Palpitations NOS	0.0327281728386879
+trial_2	mezlocillin	164	KG00108827	ileus colon	0.032148730009794235
+trial_2	mezlocillin	441	KG00098262	cellulitis nos	0.031463488936424255
+trial_2	mezlocillin	361	KG00098004	Fibrillation, Atrial	0.030792860314249992
+trial_2	mezlocillin	139	KG00098855	Sinusitis, Ethmoid	0.030428320169448853
+trial_2	mezlocillin	191	KG00104055	Biliverdin increased	0.03015671856701374
+trial_2	mezlocillin	253	KG00100232	Pleural effusion NOS (disorder)	0.0300228800624609
+trial_2	mezlocillin	116	KG00098964	Pain in foot	0.029966676607728004
+trial_2	mezlocillin	31	KG00099872	Infarction, Myocardial	0.029498403891921043
+trial_2	mezlocillin	262	KG00101199	agitation	0.029260894283652306
+trial_2	mezlocillin	18	KG00098307	Pain, Chest	0.029201356694102287
+trial_2	mezlocillin	75	KG00100195	Dolens, Phlegmasia Alba	0.029105311259627342
+trial_2	mezlocillin	186	KG00101431	creatinine increased	0.028651414439082146
+trial_2	mezlocillin	102	KG00097916	anxieties	0.028395196422934532
+trial_2	mezlocillin	268	KG00099557	Heart Failure, Left-Sided	0.02804253250360489
+trial_2	mezlocillin	130	KG00100683	Stomatitis NOS	0.02783823572099209
+trial_2	mezlocillin	101	KG00097901	Anorexia NOS	0.02733984962105751
+trial_2	mezlocillin	142	KG00100923	Unspecified infectious and parasitic diseases	0.02733384072780609
+trial_2	mezlocillin	121	KG00099190	haemorrhage	0.027178416028618813
+trial_2	mezlocillin	355	KG00110857	lymphocyte count decreased	0.02692774310708046
+trial_2	mezlocillin	38	KG00098066	Binocular vision disorders	0.026852168142795563
+trial_2	mezlocillin	92	KG00100926	Infections, Upper Respiratory	0.026751000434160233
+trial_2	mezlocillin	288	KG00101223	hypophosphataemia	0.026617998257279396
+trial_2	mezlocillin	234	KG00098669	dysgeusias	0.026351822540163994
+trial_2	mezlocillin	494	KG00099838	Organ Failure, Multiple	0.02622673474252224
+trial_2	mezlocillin	1	KG00099959	Neutropenia NOS	0.025287477299571037
+trial_2	mezlocillin	11	KG00097993	Asthma NOS	0.02497926913201809
+trial_2	mezlocillin	82	KG00097697	abdomen distended	0.024475419893860817
+trial_2	mezlocillin	221	KG00101207	peripheral oedema	0.024341076612472534
+trial_2	mezlocillin	15	KG00097882	Angina pectoris NOS	0.024218905717134476
+trial_2	mezlocillin	25	KG00099134	congestive failures heart	0.024014417082071304
+trial_2	mezlocillin	394	KG00100243	Pneumonia, Aspiration	0.02401428297162056
+trial_2	mezlocillin	466	KG00101205	fall	0.023504028096795082
+trial_2	mezlocillin	204	KG00098849	Esophagitis, Peptic	0.02295832894742489
+trial_2	mezlocillin	166	KG00099773	menopausal syndrome	0.022735215723514557
+trial_2	mezlocillin	286	KG00101110	Retention, Urinary	0.022229505702853203
+trial_2	mezlocillin	97	KG00104198	LIVER ENZYME ELEVATED	0.02189759537577629
+trial_2	mezlocillin	183	KG00100449	Adult Respiratory Distress Syndrome	0.02161935158073902
+trial_2	mezlocillin	36	KG00106434	Vision, Blurring Of	0.02131056599318981
+trial_2	mezlocillin	98	KG00097718	Incised wound, NOS	0.021107904613018036
+trial_2	mezlocillin	154	KG00099686	Lymphopenias	0.021090161055326462
+trial_2	mezlocillin	503	KG00102612	low haemoglobin	0.021054623648524284
+trial_2	mezlocillin	256	KG00100738	Tachycardia, Sinus	0.021048996597528458

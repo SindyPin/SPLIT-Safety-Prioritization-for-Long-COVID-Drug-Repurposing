@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10615137219429016
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10099134594202042
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.100462406873703
+trial_1	placebo	87	KG00098599	diarrhoea	0.0747983530163765
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06894740462303162
+trial_1	placebo	21	KG00098675	dyspnoea	0.06323032826185226
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06257406622171402
+trial_1	placebo	20	KG00098540	dehydration	0.06057353690266609
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05941667780280113
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05866102874279022
+trial_1	placebo	46	KG00099121	Headache NOS	0.0571705661714077
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.050277840346097946
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04875971004366875
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04759443178772926
+trial_1	placebo	126	KG00100076	Pain NOS	0.04725867882370949
+trial_1	placebo	77	KG00098450	Constipation NOS	0.046754639595746994
+trial_1	placebo	114	KG00098933	fevers	0.04561462253332138
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04523199051618576
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.044795695692300797
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.040160734206438065
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0395980067551136
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03924066945910454
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03886089846491814
+trial_1	placebo	228	KG00114657	Weight below normal	0.03830902278423309
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.037880659103393555
+trial_1	placebo	104	KG00097963	arthralgias	0.03709319233894348
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03694542497396469
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.036910779774188995
+trial_1	placebo	239	KG00100128	pareses	0.036549605429172516
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03648824244737625
+trial_1	placebo	68	KG00099901	nauseas	0.03648504987359047
+trial_1	placebo	29	KG00099354	hyponatraemia	0.036458320915699005
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03635755553841591
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03598548099398613
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.035858217626810074
+trial_1	placebo	85	KG00098474	coughs	0.03579435124993324
+trial_1	placebo	121	KG00099190	haemorrhage	0.03552176430821419
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03490000218153
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.034870099276304245
+trial_1	placebo	72	KG00103771	myalgias	0.03417149558663368
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0334198959171772
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03336791694164276
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.032568059861660004
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031144307926297188
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03031172789633274
+trial_1	placebo	147	KG00098000	atelectases	0.0301546398550272
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.029860733076930046
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.028655117377638817
+trial_1	placebo	5	KG00099169	haematuria	0.028030849993228912
+trial_1	placebo	116	KG00098964	Pain in foot	0.026445787400007248
+trial_1	placebo	102	KG00097916	anxieties	0.024567116051912308
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024350907653570175
+trial_1	placebo	282	KG00099309	hypernatraemia	0.024163445457816124
+trial_1	placebo	262	KG00101199	agitation	0.02353251725435257
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02340797148644924
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.023383252322673798
+trial_1	placebo	154	KG00099686	Lymphopenias	0.023170575499534607
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023068448528647423
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02282162569463253
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022611409425735474
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.022536825388669968
+trial_1	placebo	466	KG00101205	fall	0.022471031174063683
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022417062893509865
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02233203500509262
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02210754156112671
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02163625881075859
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021629128605127335
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021334636956453323
+trial_1	placebo	100	KG00097815	alopecias	0.02099030464887619
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020917052403092384
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02091377042233944
+trial_1	placebo	221	KG00101207	peripheral oedema	0.020680885761976242
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02044459991157055
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.020426616072654724
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020421011373400688
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02012852393090725
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.019890155643224716
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01982562616467476
+trial_1	placebo	269	KG00100399	pyaemia	0.019588006660342216
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019530169665813446
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019418785348534584
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019070705398917198
+trial_1	placebo	508	KG00108565	blood glucose increased	0.018868830054998398
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018507983535528183
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01826913096010685
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.017985671758651733
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.017660869285464287
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.017338944599032402
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.017324984073638916
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.017192283645272255
+trial_1	placebo	164	KG00108827	ileus colon	0.017107464373111725
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.017013533040881157
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0168183371424675
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.016602300107479095
+trial_1	placebo	82	KG00097697	abdomen distended	0.0165786724537611
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01652386784553528
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.016501247882843018
+trial_1	placebo	11	KG00097993	Asthma NOS	0.016492251306772232
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.016372786834836006
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.0159292109310627
+trial_2	oxymetholone	177	KG00099299	hyperglycaemia	0.10615137219429016
+trial_2	oxymetholone	78	KG00099326	Hypertensive diseases	0.10099134594202042
+trial_2	oxymetholone	173	KG00098172	Bronchopneumonia NOS	0.100462406873703
+trial_2	oxymetholone	87	KG00098599	diarrhoea	0.0747983530163765
+trial_2	oxymetholone	17	KG00097991	Asthenia NOS	0.06894740462303162
+trial_2	oxymetholone	21	KG00098675	dyspnoea	0.06323032826185226
+trial_2	oxymetholone	79	KG00100317	Insomnia, Primary	0.06257406622171402
+trial_2	oxymetholone	20	KG00098540	dehydration	0.06057353690266609
+trial_2	oxymetholone	123	KG00099351	hypokalaemia	0.05941667780280113
+trial_2	oxymetholone	9	KG00098432	Confusion NOS	0.05866102874279022
+trial_2	oxymetholone	46	KG00099121	Headache NOS	0.0571705661714077
+trial_2	oxymetholone	64	KG00097734	Acrodermatitis, NOS	0.050277840346097946
+trial_2	oxymetholone	86	KG00098565	Depression, Mental	0.04875971004366875
+trial_2	oxymetholone	14	KG00097852	Anemia NOS	0.04759443178772926
+trial_2	oxymetholone	126	KG00100076	Pain NOS	0.04725867882370949
+trial_2	oxymetholone	77	KG00098450	Constipation NOS	0.046754639595746994
+trial_2	oxymetholone	114	KG00098933	fevers	0.04561462253332138
+trial_2	oxymetholone	37	KG00097696	Cramps, Abdominal	0.04523199051618576
+trial_2	oxymetholone	200	KG00098539	Disorders, Deglutition	0.044795695692300797
+trial_2	oxymetholone	67	KG00098673	Dyspepsia, NOS	0.040160734206438065
+trial_2	oxymetholone	151	KG00098274	Infarction, Cerebral	0.0395980067551136
+trial_2	oxymetholone	132	KG00101045	Gain, Weight	0.03924066945910454
+trial_2	oxymetholone	350	KG00106765	decreased platelet count	0.03886089846491814
+trial_2	oxymetholone	228	KG00114657	Weight below normal	0.03830902278423309
+trial_2	oxymetholone	96	KG00101679	Unattended death NOS	0.037880659103393555
+trial_2	oxymetholone	104	KG00097963	arthralgias	0.03709319233894348
+trial_2	oxymetholone	189	KG00101580	Alanine aminotransferase increase	0.03694542497396469
+trial_2	oxymetholone	243	KG00100947	Micturition frequency increased	0.036910779774188995
+trial_2	oxymetholone	239	KG00100128	pareses	0.036549605429172516
+trial_2	oxymetholone	180	KG00099363	Hypotension NOS	0.03648824244737625
+trial_2	oxymetholone	68	KG00099901	nauseas	0.03648504987359047
+trial_2	oxymetholone	29	KG00099354	hyponatraemia	0.036458320915699005
+trial_2	oxymetholone	2	KG00100772	thrombocytopaenia	0.03635755553841591
+trial_2	oxymetholone	139	KG00098855	Sinusitis, Ethmoid	0.03598548099398613
+trial_2	oxymetholone	28	KG00099347	hypoglycaemia	0.035858217626810074
+trial_2	oxymetholone	85	KG00098474	coughs	0.03579435124993324
+trial_2	oxymetholone	121	KG00099190	haemorrhage	0.03552176430821419
+trial_2	oxymetholone	49	KG00099902	nausea with vomiting	0.03490000218153
+trial_2	oxymetholone	76	KG00100450	Respiratory insufficiency, NOS	0.034870099276304245
+trial_2	oxymetholone	72	KG00103771	myalgias	0.03417149558663368
+trial_2	oxymetholone	61	KG00099501	Chronic Kidney Failure	0.0334198959171772
+trial_2	oxymetholone	122	KG00099321	Hypersensitivity NOS	0.03336791694164276
+trial_2	oxymetholone	179	KG00099342	hypocalcaemia	0.032568059861660004
+trial_2	oxymetholone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031144307926297188
+trial_2	oxymetholone	188	KG00101579	Aspartate aminotransferase increase	0.03031172789633274
+trial_2	oxymetholone	147	KG00098000	atelectases	0.0301546398550272
+trial_2	oxymetholone	27	KG00099303	hyperkalaemia	0.029860733076930046
+trial_2	oxymetholone	142	KG00100923	Unspecified infectious and parasitic diseases	0.028655117377638817
+trial_2	oxymetholone	5	KG00099169	haematuria	0.028030849993228912
+trial_2	oxymetholone	116	KG00098964	Pain in foot	0.026445787400007248
+trial_2	oxymetholone	102	KG00097916	anxieties	0.024567116051912308
+trial_2	oxymetholone	38	KG00098066	Binocular vision disorders	0.024350907653570175
+trial_2	oxymetholone	282	KG00099309	hypernatraemia	0.024163445457816124
+trial_2	oxymetholone	262	KG00101199	agitation	0.02353251725435257
+trial_2	oxymetholone	194	KG00110727	Neutrophil Count Decreased	0.02340797148644924
+trial_2	oxymetholone	22	KG00098705	Edema (NOS)	0.023383252322673798
+trial_2	oxymetholone	154	KG00099686	Lymphopenias	0.023170575499534607
+trial_2	oxymetholone	30	KG00099500	Acute Kidney Failure	0.023068448528647423
+trial_2	oxymetholone	101	KG00097901	Anorexia NOS	0.02282162569463253
+trial_2	oxymetholone	18	KG00098307	Pain, Chest	0.022611409425735474
+trial_2	oxymetholone	131	KG00100948	Urinary tract infection (& [NOS])	0.022536825388669968
+trial_2	oxymetholone	466	KG00101205	fall	0.022471031174063683
+trial_2	oxymetholone	69	KG00100082	Palpitations NOS	0.022417062893509865
+trial_2	oxymetholone	249	KG00104430	hypoalbuminaemia	0.02233203500509262
+trial_2	oxymetholone	396	KG00100373	Embolism, Pulmonary	0.02210754156112671
+trial_2	oxymetholone	441	KG00098262	cellulitis nos	0.02163625881075859
+trial_2	oxymetholone	276	KG00099127	Arrest, Cardiac	0.021629128605127335
+trial_2	oxymetholone	133	KG00101370	neuropathies sensory	0.021334636956453323
+trial_2	oxymetholone	100	KG00097815	alopecias	0.02099030464887619
+trial_2	oxymetholone	92	KG00100926	Infections, Upper Respiratory	0.020917052403092384
+trial_2	oxymetholone	1	KG00099959	Neutropenia NOS	0.02091377042233944
+trial_2	oxymetholone	221	KG00101207	peripheral oedema	0.020680885761976242
+trial_2	oxymetholone	246	KG00103338	Aspartate Aminotransferase Measurement	0.02044459991157055
+trial_2	oxymetholone	288	KG00101223	hypophosphataemia	0.020426616072654724
+trial_2	oxymetholone	75	KG00100195	Dolens, Phlegmasia Alba	0.020421011373400688
+trial_2	oxymetholone	355	KG00110857	lymphocyte count decreased	0.02012852393090725
+trial_2	oxymetholone	254	KG00100774	Thrombosis NOS	0.019890155643224716
+trial_2	oxymetholone	253	KG00100232	Pleural effusion NOS (disorder)	0.01982562616467476
+trial_2	oxymetholone	269	KG00100399	pyaemia	0.019588006660342216
+trial_2	oxymetholone	35	KG00101507	hypomagnesaemia	0.019530169665813446
+trial_2	oxymetholone	144	KG00099610	Leukopenia NOS	0.019418785348534584
+trial_2	oxymetholone	211	KG00100341	Pruritus NOS	0.019070705398917198
+trial_2	oxymetholone	508	KG00108565	blood glucose increased	0.018868830054998398
+trial_2	oxymetholone	286	KG00101110	Retention, Urinary	0.018507983535528183
+trial_2	oxymetholone	166	KG00099773	menopausal syndrome	0.01826913096010685
+trial_2	oxymetholone	36	KG00106434	Vision, Blurring Of	0.017985671758651733
+trial_2	oxymetholone	356	KG00112623	Infectious Lung Disorders	0.017660869285464287
+trial_2	oxymetholone	118	KG00099011	Gastritis NOS	0.017338944599032402
+trial_2	oxymetholone	195	KG00097814	Atopic Rhinitis	0.017324984073638916
+trial_2	oxymetholone	170	KG00108926	Neutropenia, Febrile	0.017192283645272255
+trial_2	oxymetholone	164	KG00108827	ileus colon	0.017107464373111725
+trial_2	oxymetholone	261	KG00101559	raised alkaline phosphatase	0.017013533040881157
+trial_2	oxymetholone	361	KG00098004	Fibrillation, Atrial	0.0168183371424675
+trial_2	oxymetholone	297	KG00099294	hypercholesterolaemia	0.016602300107479095
+trial_2	oxymetholone	82	KG00097697	abdomen distended	0.0165786724537611
+trial_2	oxymetholone	31	KG00099872	Infarction, Myocardial	0.01652386784553528
+trial_2	oxymetholone	130	KG00100683	Stomatitis NOS	0.016501247882843018
+trial_2	oxymetholone	11	KG00097993	Asthma NOS	0.016492251306772232
+trial_2	oxymetholone	191	KG00104055	Biliverdin increased	0.016372786834836006
+trial_2	oxymetholone	152	KG00099402	INCONTINENCE NOS	0.0159292109310627

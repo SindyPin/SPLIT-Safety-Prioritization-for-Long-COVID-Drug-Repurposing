@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0675758421421051
+trial_1	placebo	87	KG00098599	diarrhoea	0.06389104574918747
+trial_1	placebo	9	KG00098432	Confusion NOS	0.048451270908117294
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.044696494936943054
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04166310280561447
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.03926461562514305
+trial_1	placebo	46	KG00099121	Headache NOS	0.0358368419110775
+trial_1	placebo	20	KG00098540	dehydration	0.03328326717019081
+trial_1	placebo	77	KG00098450	Constipation NOS	0.033281780779361725
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03246250003576279
+trial_1	placebo	21	KG00098675	dyspnoea	0.032412752509117126
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03050832822918892
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.029714133590459824
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.028128333389759064
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.02716836892068386
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.027066659182310104
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02654806151986122
+trial_1	placebo	68	KG00099901	nauseas	0.025432176887989044
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.024273116141557693
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.024083951488137245
+trial_1	placebo	14	KG00097852	Anemia NOS	0.023387793451547623
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.022905491292476654
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.022855764254927635
+trial_1	placebo	228	KG00114657	Weight below normal	0.02228318341076374
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.022216925397515297
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02200714312493801
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02083883248269558
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.020390819758176804
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.020174896344542503
+trial_1	placebo	147	KG00098000	atelectases	0.020099682733416557
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01975863054394722
+trial_1	placebo	126	KG00100076	Pain NOS	0.01956682838499546
+trial_1	placebo	5	KG00099169	haematuria	0.01905953139066696
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.018538350239396095
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018124666064977646
+trial_1	placebo	114	KG00098933	fevers	0.017924176529049873
+trial_1	placebo	234	KG00098669	dysgeusias	0.017919383943080902
+trial_1	placebo	86	KG00098565	Depression, Mental	0.017866535112261772
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01705276407301426
+trial_1	placebo	269	KG00100399	pyaemia	0.01664544641971588
+trial_1	placebo	85	KG00098474	coughs	0.015908721834421158
+trial_1	placebo	132	KG00101045	Gain, Weight	0.015844542533159256
+trial_1	placebo	239	KG00100128	pareses	0.015669716522097588
+trial_1	placebo	102	KG00097916	anxieties	0.015650693327188492
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.015538963489234447
+trial_1	placebo	104	KG00097963	arthralgias	0.015210377052426338
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015100452117621899
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014909935183823109
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.014603505842387676
+trial_1	placebo	350	KG00106765	decreased platelet count	0.014562125317752361
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014556488022208214
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01426529511809349
+trial_1	placebo	18	KG00098307	Pain, Chest	0.014143362641334534
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.014075249433517456
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.013958105817437172
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.013874689117074013
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.013865871354937553
+trial_1	placebo	121	KG00099190	haemorrhage	0.013393189758062363
+trial_1	placebo	262	KG00101199	agitation	0.013101187534630299
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.012964685447514057
+trial_1	placebo	466	KG00101205	fall	0.012921714223921299
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.012769365683197975
+trial_1	placebo	72	KG00103771	myalgias	0.012713870964944363
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.012705684639513493
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.012553872540593147
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.012548010796308517
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.012349673546850681
+trial_1	placebo	242	KG00100855	tremors	0.01232975721359253
+trial_1	placebo	300	KG00101064	xerostomia	0.012291190214455128
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012063481844961643
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.011911856010556221
+trial_1	placebo	66	KG00098642	drowsiness	0.011824999935925007
+trial_1	placebo	4	KG00098817	epistaxis	0.011494720354676247
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011493881233036518
+trial_1	placebo	221	KG00101207	peripheral oedema	0.011434336192905903
+trial_1	placebo	164	KG00108827	ileus colon	0.011206082999706268
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.011111895553767681
+trial_1	placebo	116	KG00098964	Pain in foot	0.011107642203569412
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01101983617991209
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.010970886796712875
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.010935383848845959
+trial_1	placebo	82	KG00097697	abdomen distended	0.010773667134344578
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01065372209995985
+trial_1	placebo	136	KG00101582	Dry;skin	0.010558192618191242
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.010453182272613049
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.010370289906859398
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.010224509052932262
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.010185500606894493
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.010131286457180977
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.010115518234670162
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0100101912394166
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.009971884079277515
+trial_1	placebo	282	KG00099309	hypernatraemia	0.009932151064276695
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.009885127656161785
+trial_1	placebo	456	KG00099420	Influenzae	0.009731755591928959
+trial_1	placebo	11	KG00097993	Asthma NOS	0.009498095139861107
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.009463096968829632
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.009392248466610909
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.009364746510982513
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.009263837710022926
+trial_2	oxybuprocaine	78	KG00099326	Hypertensive diseases	0.0675758421421051
+trial_2	oxybuprocaine	87	KG00098599	diarrhoea	0.06389104574918747
+trial_2	oxybuprocaine	9	KG00098432	Confusion NOS	0.048451270908117294
+trial_2	oxybuprocaine	17	KG00097991	Asthenia NOS	0.044696494936943054
+trial_2	oxybuprocaine	173	KG00098172	Bronchopneumonia NOS	0.04166310280561447
+trial_2	oxybuprocaine	177	KG00099299	hyperglycaemia	0.03926461562514305
+trial_2	oxybuprocaine	46	KG00099121	Headache NOS	0.0358368419110775
+trial_2	oxybuprocaine	20	KG00098540	dehydration	0.03328326717019081
+trial_2	oxybuprocaine	77	KG00098450	Constipation NOS	0.033281780779361725
+trial_2	oxybuprocaine	123	KG00099351	hypokalaemia	0.03246250003576279
+trial_2	oxybuprocaine	21	KG00098675	dyspnoea	0.032412752509117126
+trial_2	oxybuprocaine	64	KG00097734	Acrodermatitis, NOS	0.03050832822918892
+trial_2	oxybuprocaine	67	KG00098673	Dyspepsia, NOS	0.029714133590459824
+trial_2	oxybuprocaine	151	KG00098274	Infarction, Cerebral	0.028128333389759064
+trial_2	oxybuprocaine	37	KG00097696	Cramps, Abdominal	0.02716836892068386
+trial_2	oxybuprocaine	79	KG00100317	Insomnia, Primary	0.027066659182310104
+trial_2	oxybuprocaine	49	KG00099902	nausea with vomiting	0.02654806151986122
+trial_2	oxybuprocaine	68	KG00099901	nauseas	0.025432176887989044
+trial_2	oxybuprocaine	189	KG00101580	Alanine aminotransferase increase	0.024273116141557693
+trial_2	oxybuprocaine	180	KG00099363	Hypotension NOS	0.024083951488137245
+trial_2	oxybuprocaine	14	KG00097852	Anemia NOS	0.023387793451547623
+trial_2	oxybuprocaine	200	KG00098539	Disorders, Deglutition	0.022905491292476654
+trial_2	oxybuprocaine	76	KG00100450	Respiratory insufficiency, NOS	0.022855764254927635
+trial_2	oxybuprocaine	228	KG00114657	Weight below normal	0.02228318341076374
+trial_2	oxybuprocaine	28	KG00099347	hypoglycaemia	0.022216925397515297
+trial_2	oxybuprocaine	61	KG00099501	Chronic Kidney Failure	0.02200714312493801
+trial_2	oxybuprocaine	29	KG00099354	hyponatraemia	0.02083883248269558
+trial_2	oxybuprocaine	396	KG00100373	Embolism, Pulmonary	0.020390819758176804
+trial_2	oxybuprocaine	188	KG00101579	Aspartate aminotransferase increase	0.020174896344542503
+trial_2	oxybuprocaine	147	KG00098000	atelectases	0.020099682733416557
+trial_2	oxybuprocaine	30	KG00099500	Acute Kidney Failure	0.01975863054394722
+trial_2	oxybuprocaine	126	KG00100076	Pain NOS	0.01956682838499546
+trial_2	oxybuprocaine	5	KG00099169	haematuria	0.01905953139066696
+trial_2	oxybuprocaine	96	KG00101679	Unattended death NOS	0.018538350239396095
+trial_2	oxybuprocaine	36	KG00106434	Vision, Blurring Of	0.018124666064977646
+trial_2	oxybuprocaine	114	KG00098933	fevers	0.017924176529049873
+trial_2	oxybuprocaine	234	KG00098669	dysgeusias	0.017919383943080902
+trial_2	oxybuprocaine	86	KG00098565	Depression, Mental	0.017866535112261772
+trial_2	oxybuprocaine	131	KG00100948	Urinary tract infection (& [NOS])	0.01705276407301426
+trial_2	oxybuprocaine	269	KG00100399	pyaemia	0.01664544641971588
+trial_2	oxybuprocaine	85	KG00098474	coughs	0.015908721834421158
+trial_2	oxybuprocaine	132	KG00101045	Gain, Weight	0.015844542533159256
+trial_2	oxybuprocaine	239	KG00100128	pareses	0.015669716522097588
+trial_2	oxybuprocaine	102	KG00097916	anxieties	0.015650693327188492
+trial_2	oxybuprocaine	2	KG00100772	thrombocytopaenia	0.015538963489234447
+trial_2	oxybuprocaine	104	KG00097963	arthralgias	0.015210377052426338
+trial_2	oxybuprocaine	38	KG00098066	Binocular vision disorders	0.015100452117621899
+trial_2	oxybuprocaine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014909935183823109
+trial_2	oxybuprocaine	101	KG00097901	Anorexia NOS	0.014603505842387676
+trial_2	oxybuprocaine	350	KG00106765	decreased platelet count	0.014562125317752361
+trial_2	oxybuprocaine	441	KG00098262	cellulitis nos	0.014556488022208214
+trial_2	oxybuprocaine	122	KG00099321	Hypersensitivity NOS	0.01426529511809349
+trial_2	oxybuprocaine	18	KG00098307	Pain, Chest	0.014143362641334534
+trial_2	oxybuprocaine	142	KG00100923	Unspecified infectious and parasitic diseases	0.014075249433517456
+trial_2	oxybuprocaine	27	KG00099303	hyperkalaemia	0.013958105817437172
+trial_2	oxybuprocaine	130	KG00100683	Stomatitis NOS	0.013874689117074013
+trial_2	oxybuprocaine	69	KG00100082	Palpitations NOS	0.013865871354937553
+trial_2	oxybuprocaine	121	KG00099190	haemorrhage	0.013393189758062363
+trial_2	oxybuprocaine	262	KG00101199	agitation	0.013101187534630299
+trial_2	oxybuprocaine	179	KG00099342	hypocalcaemia	0.012964685447514057
+trial_2	oxybuprocaine	466	KG00101205	fall	0.012921714223921299
+trial_2	oxybuprocaine	276	KG00099127	Arrest, Cardiac	0.012769365683197975
+trial_2	oxybuprocaine	72	KG00103771	myalgias	0.012713870964944363
+trial_2	oxybuprocaine	75	KG00100195	Dolens, Phlegmasia Alba	0.012705684639513493
+trial_2	oxybuprocaine	243	KG00100947	Micturition frequency increased	0.012553872540593147
+trial_2	oxybuprocaine	92	KG00100926	Infections, Upper Respiratory	0.012548010796308517
+trial_2	oxybuprocaine	422	KG00101429	Creatine phosphokinase increased	0.012349673546850681
+trial_2	oxybuprocaine	242	KG00100855	tremors	0.01232975721359253
+trial_2	oxybuprocaine	300	KG00101064	xerostomia	0.012291190214455128
+trial_2	oxybuprocaine	31	KG00099872	Infarction, Myocardial	0.012063481844961643
+trial_2	oxybuprocaine	361	KG00098004	Fibrillation, Atrial	0.011911856010556221
+trial_2	oxybuprocaine	66	KG00098642	drowsiness	0.011824999935925007
+trial_2	oxybuprocaine	4	KG00098817	epistaxis	0.011494720354676247
+trial_2	oxybuprocaine	191	KG00104055	Biliverdin increased	0.011493881233036518
+trial_2	oxybuprocaine	221	KG00101207	peripheral oedema	0.011434336192905903
+trial_2	oxybuprocaine	164	KG00108827	ileus colon	0.011206082999706268
+trial_2	oxybuprocaine	286	KG00101110	Retention, Urinary	0.011111895553767681
+trial_2	oxybuprocaine	116	KG00098964	Pain in foot	0.011107642203569412
+trial_2	oxybuprocaine	249	KG00104430	hypoalbuminaemia	0.01101983617991209
+trial_2	oxybuprocaine	261	KG00101559	raised alkaline phosphatase	0.010970886796712875
+trial_2	oxybuprocaine	139	KG00098855	Sinusitis, Ethmoid	0.010935383848845959
+trial_2	oxybuprocaine	82	KG00097697	abdomen distended	0.010773667134344578
+trial_2	oxybuprocaine	199	KG00098371	Rhinitis (chronic) NOS	0.01065372209995985
+trial_2	oxybuprocaine	136	KG00101582	Dry;skin	0.010558192618191242
+trial_2	oxybuprocaine	211	KG00100341	Pruritus NOS	0.010453182272613049
+trial_2	oxybuprocaine	1	KG00099959	Neutropenia NOS	0.010370289906859398
+trial_2	oxybuprocaine	33	KG00100094	Pancreatitis NOS	0.010224509052932262
+trial_2	oxybuprocaine	118	KG00099011	Gastritis NOS	0.010185500606894493
+trial_2	oxybuprocaine	35	KG00101507	hypomagnesaemia	0.010131286457180977
+trial_2	oxybuprocaine	341	KG00101472	Gamma-glutamyltransferase increased	0.010115518234670162
+trial_2	oxybuprocaine	138	KG00098796	epidemic vomiting syndrome	0.0100101912394166
+trial_2	oxybuprocaine	253	KG00100232	Pleural effusion NOS (disorder)	0.009971884079277515
+trial_2	oxybuprocaine	282	KG00099309	hypernatraemia	0.009932151064276695
+trial_2	oxybuprocaine	194	KG00110727	Neutrophil Count Decreased	0.009885127656161785
+trial_2	oxybuprocaine	456	KG00099420	Influenzae	0.009731755591928959
+trial_2	oxybuprocaine	11	KG00097993	Asthma NOS	0.009498095139861107
+trial_2	oxybuprocaine	144	KG00099610	Leukopenia NOS	0.009463096968829632
+trial_2	oxybuprocaine	15	KG00097882	Angina pectoris NOS	0.009392248466610909
+trial_2	oxybuprocaine	371	KG00098517	Cystitis (NOS)	0.009364746510982513
+trial_2	oxybuprocaine	163	KG00104050	bowel obstructions small	0.009263837710022926

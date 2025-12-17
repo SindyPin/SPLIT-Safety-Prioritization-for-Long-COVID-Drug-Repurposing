@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2732967734336853
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18820200860500336
+trial_1	placebo	68	KG00099901	nauseas	0.15799587965011597
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14164096117019653
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12993015348911285
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12395007908344269
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12260714173316956
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11994588375091553
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11689107120037079
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.1162959560751915
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11494065076112747
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.11243309825658798
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11225800961256027
+trial_1	placebo	46	KG00099121	Headache NOS	0.11049343645572662
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10665713250637054
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09846115112304688
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09540235251188278
+trial_1	placebo	20	KG00098540	dehydration	0.09313516318798065
+trial_1	placebo	228	KG00114657	Weight below normal	0.08920293301343918
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.08583315461874008
+trial_1	placebo	126	KG00100076	Pain NOS	0.08372374624013901
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.08227358013391495
+trial_1	placebo	21	KG00098675	dyspnoea	0.08166559785604477
+trial_1	placebo	114	KG00098933	fevers	0.07870505750179291
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07530207931995392
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07387907058000565
+trial_1	placebo	82	KG00097697	abdomen distended	0.07053325325250626
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06999404728412628
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.06766055524349213
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06459008157253265
+trial_1	placebo	72	KG00103771	myalgias	0.06086348742246628
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05807431414723396
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.057924795895814896
+trial_1	placebo	104	KG00097963	arthralgias	0.05583421140909195
+trial_1	placebo	239	KG00100128	pareses	0.05543072894215584
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.05481298267841339
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.05446936562657356
+trial_1	placebo	5	KG00099169	haematuria	0.052944280207157135
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.050722844898700714
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05025550723075867
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04998163506388664
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04989675059914589
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04959319159388542
+trial_1	placebo	85	KG00098474	coughs	0.04955022409558296
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0494985468685627
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.049181971698999405
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.04870571568608284
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.048050105571746826
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.047730300575494766
+trial_1	placebo	116	KG00098964	Pain in foot	0.04741193354129791
+trial_1	placebo	147	KG00098000	atelectases	0.04738464578986168
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.046527374535799026
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04648745432496071
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04550761729478836
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0434718057513237
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04235784709453583
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.041739605367183685
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04165482521057129
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.039741579443216324
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.039454299956560135
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03878612816333771
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.037474893033504486
+trial_1	placebo	269	KG00100399	pyaemia	0.03745782747864723
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0374378003180027
+trial_1	placebo	466	KG00101205	fall	0.03713449835777283
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0370236337184906
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03689344972372055
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03599894791841507
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.035307370126247406
+trial_1	placebo	136	KG00101582	Dry;skin	0.0351368673145771
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03481564670801163
+trial_1	placebo	186	KG00101431	creatinine increased	0.034353483468294144
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.034305643290281296
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03405210003256798
+trial_1	placebo	282	KG00099309	hypernatraemia	0.033836543560028076
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03383290395140648
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.033764779567718506
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.033662449568510056
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.033136770129203796
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03284943103790283
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.032834384590387344
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03268377482891083
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03265232592821121
+trial_1	placebo	102	KG00097916	anxieties	0.03132467716932297
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.031073955819010735
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03091694414615631
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.030891437083482742
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.030863206833600998
+trial_1	placebo	164	KG00108827	ileus colon	0.030251767486333847
+trial_1	placebo	100	KG00097815	alopecias	0.030134767293930054
+trial_1	placebo	24	KG00099015	Hemorrhage, Gastrointestinal	0.029866978526115417
+trial_1	placebo	212	KG00100576	shivers	0.029673056676983833
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.0295186135917902
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02936270460486412
+trial_1	placebo	234	KG00098669	dysgeusias	0.028956934809684753
+trial_1	placebo	503	KG00102612	low haemoglobin	0.028686150908470154
+trial_1	placebo	382	KG00099200	haemorrhoids	0.028494277969002724
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.028206422924995422
+trial_1	placebo	364	KG00098196	Calculus of gallbladder without mention of cholecystitis	0.028101645410060883
+trial_1	placebo	339	KG00100334	proteinurias	0.028097469359636307
+trial_2	obeticholic acid	87	KG00098599	diarrhoea	0.2732967734336853
+trial_2	obeticholic acid	78	KG00099326	Hypertensive diseases	0.18820200860500336
+trial_2	obeticholic acid	68	KG00099901	nauseas	0.15799587965011597
+trial_2	obeticholic acid	9	KG00098432	Confusion NOS	0.14164096117019653
+trial_2	obeticholic acid	173	KG00098172	Bronchopneumonia NOS	0.12993015348911285
+trial_2	obeticholic acid	189	KG00101580	Alanine aminotransferase increase	0.12395007908344269
+trial_2	obeticholic acid	77	KG00098450	Constipation NOS	0.12260714173316956
+trial_2	obeticholic acid	123	KG00099351	hypokalaemia	0.11994588375091553
+trial_2	obeticholic acid	37	KG00097696	Cramps, Abdominal	0.11689107120037079
+trial_2	obeticholic acid	67	KG00098673	Dyspepsia, NOS	0.1162959560751915
+trial_2	obeticholic acid	49	KG00099902	nausea with vomiting	0.11494065076112747
+trial_2	obeticholic acid	64	KG00097734	Acrodermatitis, NOS	0.11243309825658798
+trial_2	obeticholic acid	17	KG00097991	Asthenia NOS	0.11225800961256027
+trial_2	obeticholic acid	46	KG00099121	Headache NOS	0.11049343645572662
+trial_2	obeticholic acid	188	KG00101579	Aspartate aminotransferase increase	0.10665713250637054
+trial_2	obeticholic acid	177	KG00099299	hyperglycaemia	0.09846115112304688
+trial_2	obeticholic acid	14	KG00097852	Anemia NOS	0.09540235251188278
+trial_2	obeticholic acid	20	KG00098540	dehydration	0.09313516318798065
+trial_2	obeticholic acid	228	KG00114657	Weight below normal	0.08920293301343918
+trial_2	obeticholic acid	243	KG00100947	Micturition frequency increased	0.08583315461874008
+trial_2	obeticholic acid	126	KG00100076	Pain NOS	0.08372374624013901
+trial_2	obeticholic acid	101	KG00097901	Anorexia NOS	0.08227358013391495
+trial_2	obeticholic acid	21	KG00098675	dyspnoea	0.08166559785604477
+trial_2	obeticholic acid	114	KG00098933	fevers	0.07870505750179291
+trial_2	obeticholic acid	350	KG00106765	decreased platelet count	0.07530207931995392
+trial_2	obeticholic acid	2	KG00100772	thrombocytopaenia	0.07387907058000565
+trial_2	obeticholic acid	82	KG00097697	abdomen distended	0.07053325325250626
+trial_2	obeticholic acid	79	KG00100317	Insomnia, Primary	0.06999404728412628
+trial_2	obeticholic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.06766055524349213
+trial_2	obeticholic acid	200	KG00098539	Disorders, Deglutition	0.06459008157253265
+trial_2	obeticholic acid	72	KG00103771	myalgias	0.06086348742246628
+trial_2	obeticholic acid	76	KG00100450	Respiratory insufficiency, NOS	0.05807431414723396
+trial_2	obeticholic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.057924795895814896
+trial_2	obeticholic acid	104	KG00097963	arthralgias	0.05583421140909195
+trial_2	obeticholic acid	239	KG00100128	pareses	0.05543072894215584
+trial_2	obeticholic acid	211	KG00100341	Pruritus NOS	0.05481298267841339
+trial_2	obeticholic acid	28	KG00099347	hypoglycaemia	0.05446936562657356
+trial_2	obeticholic acid	5	KG00099169	haematuria	0.052944280207157135
+trial_2	obeticholic acid	139	KG00098855	Sinusitis, Ethmoid	0.050722844898700714
+trial_2	obeticholic acid	29	KG00099354	hyponatraemia	0.05025550723075867
+trial_2	obeticholic acid	30	KG00099500	Acute Kidney Failure	0.04998163506388664
+trial_2	obeticholic acid	18	KG00098307	Pain, Chest	0.04989675059914589
+trial_2	obeticholic acid	151	KG00098274	Infarction, Cerebral	0.04959319159388542
+trial_2	obeticholic acid	85	KG00098474	coughs	0.04955022409558296
+trial_2	obeticholic acid	27	KG00099303	hyperkalaemia	0.0494985468685627
+trial_2	obeticholic acid	61	KG00099501	Chronic Kidney Failure	0.049181971698999405
+trial_2	obeticholic acid	204	KG00098849	Esophagitis, Peptic	0.04870571568608284
+trial_2	obeticholic acid	276	KG00099127	Arrest, Cardiac	0.048050105571746826
+trial_2	obeticholic acid	179	KG00099342	hypocalcaemia	0.047730300575494766
+trial_2	obeticholic acid	116	KG00098964	Pain in foot	0.04741193354129791
+trial_2	obeticholic acid	147	KG00098000	atelectases	0.04738464578986168
+trial_2	obeticholic acid	191	KG00104055	Biliverdin increased	0.046527374535799026
+trial_2	obeticholic acid	441	KG00098262	cellulitis nos	0.04648745432496071
+trial_2	obeticholic acid	86	KG00098565	Depression, Mental	0.04550761729478836
+trial_2	obeticholic acid	194	KG00110727	Neutrophil Count Decreased	0.0434718057513237
+trial_2	obeticholic acid	180	KG00099363	Hypotension NOS	0.04235784709453583
+trial_2	obeticholic acid	261	KG00101559	raised alkaline phosphatase	0.041739605367183685
+trial_2	obeticholic acid	396	KG00100373	Embolism, Pulmonary	0.04165482521057129
+trial_2	obeticholic acid	355	KG00110857	lymphocyte count decreased	0.039741579443216324
+trial_2	obeticholic acid	166	KG00099773	menopausal syndrome	0.039454299956560135
+trial_2	obeticholic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.03878612816333771
+trial_2	obeticholic acid	33	KG00100094	Pancreatitis NOS	0.037474893033504486
+trial_2	obeticholic acid	269	KG00100399	pyaemia	0.03745782747864723
+trial_2	obeticholic acid	138	KG00098796	epidemic vomiting syndrome	0.0374378003180027
+trial_2	obeticholic acid	466	KG00101205	fall	0.03713449835777283
+trial_2	obeticholic acid	361	KG00098004	Fibrillation, Atrial	0.0370236337184906
+trial_2	obeticholic acid	38	KG00098066	Binocular vision disorders	0.03689344972372055
+trial_2	obeticholic acid	221	KG00101207	peripheral oedema	0.03599894791841507
+trial_2	obeticholic acid	31	KG00099872	Infarction, Myocardial	0.035307370126247406
+trial_2	obeticholic acid	136	KG00101582	Dry;skin	0.0351368673145771
+trial_2	obeticholic acid	122	KG00099321	Hypersensitivity NOS	0.03481564670801163
+trial_2	obeticholic acid	186	KG00101431	creatinine increased	0.034353483468294144
+trial_2	obeticholic acid	286	KG00101110	Retention, Urinary	0.034305643290281296
+trial_2	obeticholic acid	249	KG00104430	hypoalbuminaemia	0.03405210003256798
+trial_2	obeticholic acid	282	KG00099309	hypernatraemia	0.033836543560028076
+trial_2	obeticholic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.03383290395140648
+trial_2	obeticholic acid	371	KG00098517	Cystitis (NOS)	0.033764779567718506
+trial_2	obeticholic acid	288	KG00101223	hypophosphataemia	0.033662449568510056
+trial_2	obeticholic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.033136770129203796
+trial_2	obeticholic acid	69	KG00100082	Palpitations NOS	0.03284943103790283
+trial_2	obeticholic acid	92	KG00100926	Infections, Upper Respiratory	0.032834384590387344
+trial_2	obeticholic acid	96	KG00101679	Unattended death NOS	0.03268377482891083
+trial_2	obeticholic acid	35	KG00101507	hypomagnesaemia	0.03265232592821121
+trial_2	obeticholic acid	102	KG00097916	anxieties	0.03132467716932297
+trial_2	obeticholic acid	15	KG00097882	Angina pectoris NOS	0.031073955819010735
+trial_2	obeticholic acid	132	KG00101045	Gain, Weight	0.03091694414615631
+trial_2	obeticholic acid	747	KG00101527	Liver function tests abnormal (finding)	0.030891437083482742
+trial_2	obeticholic acid	98	KG00097718	Incised wound, NOS	0.030863206833600998
+trial_2	obeticholic acid	164	KG00108827	ileus colon	0.030251767486333847
+trial_2	obeticholic acid	100	KG00097815	alopecias	0.030134767293930054
+trial_2	obeticholic acid	24	KG00099015	Hemorrhage, Gastrointestinal	0.029866978526115417
+trial_2	obeticholic acid	212	KG00100576	shivers	0.029673056676983833
+trial_2	obeticholic acid	352	KG00107658	NON-CARDIAC CHEST PAIN	0.0295186135917902
+trial_2	obeticholic acid	422	KG00101429	Creatine phosphokinase increased	0.02936270460486412
+trial_2	obeticholic acid	234	KG00098669	dysgeusias	0.028956934809684753
+trial_2	obeticholic acid	503	KG00102612	low haemoglobin	0.028686150908470154
+trial_2	obeticholic acid	382	KG00099200	haemorrhoids	0.028494277969002724
+trial_2	obeticholic acid	297	KG00099294	hypercholesterolaemia	0.028206422924995422
+trial_2	obeticholic acid	364	KG00098196	Calculus of gallbladder without mention of cholecystitis	0.028101645410060883
+trial_2	obeticholic acid	339	KG00100334	proteinurias	0.028097469359636307

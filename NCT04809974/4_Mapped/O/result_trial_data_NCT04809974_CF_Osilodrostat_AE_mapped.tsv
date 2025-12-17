@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2965693175792694
+trial_1	placebo	87	KG00098599	diarrhoea	0.22630301117897034
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.22371484339237213
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.20658239722251892
+trial_1	placebo	123	KG00099351	hypokalaemia	0.19847653806209564
+trial_1	placebo	20	KG00098540	dehydration	0.17403873801231384
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1489339917898178
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.14425405859947205
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.13922826945781708
+trial_1	placebo	350	KG00106765	decreased platelet count	0.13900314271450043
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.1287074089050293
+trial_1	placebo	228	KG00114657	Weight below normal	0.12743952870368958
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.12736834585666656
+trial_1	placebo	239	KG00100128	pareses	0.12253160774707794
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12128698825836182
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11984824389219284
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11635396629571915
+trial_1	placebo	29	KG00099354	hyponatraemia	0.11545304954051971
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.11108019948005676
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11070507764816284
+trial_1	placebo	21	KG00098675	dyspnoea	0.1076037809252739
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.09945213049650192
+trial_1	placebo	46	KG00099121	Headache NOS	0.09880594909191132
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.09544532746076584
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09228699654340744
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09077971428632736
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08801904320716858
+trial_1	placebo	126	KG00100076	Pain NOS	0.08748441934585571
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.08622761070728302
+trial_1	placebo	68	KG00099901	nauseas	0.08555424213409424
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.08386588841676712
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.08358398824930191
+trial_1	placebo	5	KG00099169	haematuria	0.0835687518119812
+trial_1	placebo	104	KG00097963	arthralgias	0.08338338881731033
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.08214569836854935
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08112998306751251
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.08095791935920715
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.079844631254673
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07804541289806366
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.07684400677680969
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07671736925840378
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.07671505957841873
+trial_1	placebo	466	KG00101205	fall	0.07430881261825562
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07365401089191437
+trial_1	placebo	147	KG00098000	atelectases	0.07305802404880524
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0724043920636177
+trial_1	placebo	282	KG00099309	hypernatraemia	0.07197783887386322
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.07129421830177307
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07035563141107559
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06885504722595215
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.06844615191221237
+trial_1	placebo	114	KG00098933	fevers	0.06821808964014053
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06796204298734665
+trial_1	placebo	102	KG00097916	anxieties	0.06669440865516663
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.06644989550113678
+trial_1	placebo	186	KG00101431	creatinine increased	0.06633733212947845
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.06532469391822815
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.06519820541143417
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.06402471661567688
+trial_1	placebo	164	KG00108827	ileus colon	0.0635392963886261
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.06317704916000366
+trial_1	placebo	454	KG00098286	Pain, Neck	0.06237802654504776
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.06222302094101906
+trial_1	placebo	116	KG00098964	Pain in foot	0.06198650598526001
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.06124145910143852
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.05856796354055405
+trial_1	placebo	82	KG00097697	abdomen distended	0.05745138227939606
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.05697930231690407
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.055436424911022186
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.055295079946517944
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.05522164702415466
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.05449986085295677
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.05399724096059799
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.053848061710596085
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.053804948925971985
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.05334388092160225
+trial_1	placebo	85	KG00098474	coughs	0.05276181548833847
+trial_1	placebo	441	KG00098262	cellulitis nos	0.05204194039106369
+trial_1	placebo	72	KG00103771	myalgias	0.05195340886712074
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05083068460226059
+trial_1	placebo	382	KG00099200	haemorrhoids	0.050637949258089066
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.04942303150892258
+trial_1	placebo	508	KG00108565	blood glucose increased	0.04887910187244415
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04877540096640587
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.04852169752120972
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.048471879214048386
+trial_1	placebo	269	KG00100399	pyaemia	0.0484514981508255
+trial_1	placebo	363	KG00098184	burns injury	0.047239795327186584
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.04676797613501549
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.04666825011372566
+trial_1	placebo	339	KG00100334	proteinurias	0.046501025557518005
+trial_1	placebo	535	KG00098309	chest pains wall	0.04620541259646416
+trial_1	placebo	262	KG00101199	agitation	0.045163724571466446
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.04493558406829834
+trial_1	placebo	124	KG00099369	hypothyroidisms	0.04448959231376648
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.043985575437545776
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04387699440121651
+trial_1	placebo	212	KG00100576	shivers	0.043705519288778305
+trial_1	placebo	121	KG00099190	haemorrhage	0.04359365999698639
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.042383454740047455
+trial_2	osilodrostat	78	KG00099326	Hypertensive diseases	0.2965693175792694
+trial_2	osilodrostat	87	KG00098599	diarrhoea	0.22630301117897034
+trial_2	osilodrostat	189	KG00101580	Alanine aminotransferase increase	0.22371484339237213
+trial_2	osilodrostat	188	KG00101579	Aspartate aminotransferase increase	0.20658239722251892
+trial_2	osilodrostat	123	KG00099351	hypokalaemia	0.19847653806209564
+trial_2	osilodrostat	20	KG00098540	dehydration	0.17403873801231384
+trial_2	osilodrostat	177	KG00099299	hyperglycaemia	0.1489339917898178
+trial_2	osilodrostat	173	KG00098172	Bronchopneumonia NOS	0.14425405859947205
+trial_2	osilodrostat	243	KG00100947	Micturition frequency increased	0.13922826945781708
+trial_2	osilodrostat	350	KG00106765	decreased platelet count	0.13900314271450043
+trial_2	osilodrostat	179	KG00099342	hypocalcaemia	0.1287074089050293
+trial_2	osilodrostat	228	KG00114657	Weight below normal	0.12743952870368958
+trial_2	osilodrostat	200	KG00098539	Disorders, Deglutition	0.12736834585666656
+trial_2	osilodrostat	239	KG00100128	pareses	0.12253160774707794
+trial_2	osilodrostat	77	KG00098450	Constipation NOS	0.12128698825836182
+trial_2	osilodrostat	9	KG00098432	Confusion NOS	0.11984824389219284
+trial_2	osilodrostat	37	KG00097696	Cramps, Abdominal	0.11635396629571915
+trial_2	osilodrostat	29	KG00099354	hyponatraemia	0.11545304954051971
+trial_2	osilodrostat	67	KG00098673	Dyspepsia, NOS	0.11108019948005676
+trial_2	osilodrostat	17	KG00097991	Asthenia NOS	0.11070507764816284
+trial_2	osilodrostat	21	KG00098675	dyspnoea	0.1076037809252739
+trial_2	osilodrostat	27	KG00099303	hyperkalaemia	0.09945213049650192
+trial_2	osilodrostat	46	KG00099121	Headache NOS	0.09880594909191132
+trial_2	osilodrostat	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.09544532746076584
+trial_2	osilodrostat	49	KG00099902	nausea with vomiting	0.09228699654340744
+trial_2	osilodrostat	2	KG00100772	thrombocytopaenia	0.09077971428632736
+trial_2	osilodrostat	64	KG00097734	Acrodermatitis, NOS	0.08801904320716858
+trial_2	osilodrostat	126	KG00100076	Pain NOS	0.08748441934585571
+trial_2	osilodrostat	261	KG00101559	raised alkaline phosphatase	0.08622761070728302
+trial_2	osilodrostat	68	KG00099901	nauseas	0.08555424213409424
+trial_2	osilodrostat	38	KG00098066	Binocular vision disorders	0.08386588841676712
+trial_2	osilodrostat	151	KG00098274	Infarction, Cerebral	0.08358398824930191
+trial_2	osilodrostat	5	KG00099169	haematuria	0.0835687518119812
+trial_2	osilodrostat	104	KG00097963	arthralgias	0.08338338881731033
+trial_2	osilodrostat	61	KG00099501	Chronic Kidney Failure	0.08214569836854935
+trial_2	osilodrostat	76	KG00100450	Respiratory insufficiency, NOS	0.08112998306751251
+trial_2	osilodrostat	28	KG00099347	hypoglycaemia	0.08095791935920715
+trial_2	osilodrostat	35	KG00101507	hypomagnesaemia	0.079844631254673
+trial_2	osilodrostat	30	KG00099500	Acute Kidney Failure	0.07804541289806366
+trial_2	osilodrostat	191	KG00104055	Biliverdin increased	0.07684400677680969
+trial_2	osilodrostat	79	KG00100317	Insomnia, Primary	0.07671736925840378
+trial_2	osilodrostat	194	KG00110727	Neutrophil Count Decreased	0.07671505957841873
+trial_2	osilodrostat	466	KG00101205	fall	0.07430881261825562
+trial_2	osilodrostat	14	KG00097852	Anemia NOS	0.07365401089191437
+trial_2	osilodrostat	147	KG00098000	atelectases	0.07305802404880524
+trial_2	osilodrostat	355	KG00110857	lymphocyte count decreased	0.0724043920636177
+trial_2	osilodrostat	282	KG00099309	hypernatraemia	0.07197783887386322
+trial_2	osilodrostat	341	KG00101472	Gamma-glutamyltransferase increased	0.07129421830177307
+trial_2	osilodrostat	101	KG00097901	Anorexia NOS	0.07035563141107559
+trial_2	osilodrostat	86	KG00098565	Depression, Mental	0.06885504722595215
+trial_2	osilodrostat	288	KG00101223	hypophosphataemia	0.06844615191221237
+trial_2	osilodrostat	114	KG00098933	fevers	0.06821808964014053
+trial_2	osilodrostat	180	KG00099363	Hypotension NOS	0.06796204298734665
+trial_2	osilodrostat	102	KG00097916	anxieties	0.06669440865516663
+trial_2	osilodrostat	97	KG00104198	LIVER ENZYME ELEVATED	0.06644989550113678
+trial_2	osilodrostat	186	KG00101431	creatinine increased	0.06633733212947845
+trial_2	osilodrostat	256	KG00100738	Tachycardia, Sinus	0.06532469391822815
+trial_2	osilodrostat	286	KG00101110	Retention, Urinary	0.06519820541143417
+trial_2	osilodrostat	249	KG00104430	hypoalbuminaemia	0.06402471661567688
+trial_2	osilodrostat	164	KG00108827	ileus colon	0.0635392963886261
+trial_2	osilodrostat	253	KG00100232	Pleural effusion NOS (disorder)	0.06317704916000366
+trial_2	osilodrostat	454	KG00098286	Pain, Neck	0.06237802654504776
+trial_2	osilodrostat	131	KG00100948	Urinary tract infection (& [NOS])	0.06222302094101906
+trial_2	osilodrostat	116	KG00098964	Pain in foot	0.06198650598526001
+trial_2	osilodrostat	276	KG00099127	Arrest, Cardiac	0.06124145910143852
+trial_2	osilodrostat	422	KG00101429	Creatine phosphokinase increased	0.05856796354055405
+trial_2	osilodrostat	82	KG00097697	abdomen distended	0.05745138227939606
+trial_2	osilodrostat	204	KG00098849	Esophagitis, Peptic	0.05697930231690407
+trial_2	osilodrostat	356	KG00112623	Infectious Lung Disorders	0.055436424911022186
+trial_2	osilodrostat	122	KG00099321	Hypersensitivity NOS	0.055295079946517944
+trial_2	osilodrostat	371	KG00098517	Cystitis (NOS)	0.05522164702415466
+trial_2	osilodrostat	396	KG00100373	Embolism, Pulmonary	0.05449986085295677
+trial_2	osilodrostat	33	KG00100094	Pancreatitis NOS	0.05399724096059799
+trial_2	osilodrostat	96	KG00101679	Unattended death NOS	0.053848061710596085
+trial_2	osilodrostat	139	KG00098855	Sinusitis, Ethmoid	0.053804948925971985
+trial_2	osilodrostat	69	KG00100082	Palpitations NOS	0.05334388092160225
+trial_2	osilodrostat	85	KG00098474	coughs	0.05276181548833847
+trial_2	osilodrostat	441	KG00098262	cellulitis nos	0.05204194039106369
+trial_2	osilodrostat	72	KG00103771	myalgias	0.05195340886712074
+trial_2	osilodrostat	132	KG00101045	Gain, Weight	0.05083068460226059
+trial_2	osilodrostat	382	KG00099200	haemorrhoids	0.050637949258089066
+trial_2	osilodrostat	105	KG00097964	Arthritis NOS	0.04942303150892258
+trial_2	osilodrostat	508	KG00108565	blood glucose increased	0.04887910187244415
+trial_2	osilodrostat	18	KG00098307	Pain, Chest	0.04877540096640587
+trial_2	osilodrostat	152	KG00099402	INCONTINENCE NOS	0.04852169752120972
+trial_2	osilodrostat	98	KG00097718	Incised wound, NOS	0.048471879214048386
+trial_2	osilodrostat	269	KG00100399	pyaemia	0.0484514981508255
+trial_2	osilodrostat	363	KG00098184	burns injury	0.047239795327186584
+trial_2	osilodrostat	394	KG00100243	Pneumonia, Aspiration	0.04676797613501549
+trial_2	osilodrostat	163	KG00104050	bowel obstructions small	0.04666825011372566
+trial_2	osilodrostat	339	KG00100334	proteinurias	0.046501025557518005
+trial_2	osilodrostat	535	KG00098309	chest pains wall	0.04620541259646416
+trial_2	osilodrostat	262	KG00101199	agitation	0.045163724571466446
+trial_2	osilodrostat	268	KG00099557	Heart Failure, Left-Sided	0.04493558406829834
+trial_2	osilodrostat	124	KG00099369	hypothyroidisms	0.04448959231376648
+trial_2	osilodrostat	166	KG00099773	menopausal syndrome	0.043985575437545776
+trial_2	osilodrostat	36	KG00106434	Vision, Blurring Of	0.04387699440121651
+trial_2	osilodrostat	212	KG00100576	shivers	0.043705519288778305
+trial_2	osilodrostat	121	KG00099190	haemorrhage	0.04359365999698639
+trial_2	osilodrostat	118	KG00099011	Gastritis NOS	0.042383454740047455

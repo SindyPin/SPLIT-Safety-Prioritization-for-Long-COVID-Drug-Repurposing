@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1543288230895996
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12834249436855316
+trial_1	placebo	87	KG00098599	diarrhoea	0.11148859560489655
+trial_1	placebo	46	KG00099121	Headache NOS	0.08543307334184647
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0707799419760704
+trial_1	placebo	68	KG00099901	nauseas	0.06623686105012894
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06374555081129074
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06301069259643555
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06269171088933945
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05718235298991203
+trial_1	placebo	21	KG00098675	dyspnoea	0.05611354112625122
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05221982300281525
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.047790613025426865
+trial_1	placebo	228	KG00114657	Weight below normal	0.04709245637059212
+trial_1	placebo	66	KG00098642	drowsiness	0.046715665608644485
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04559960588812828
+trial_1	placebo	20	KG00098540	dehydration	0.0455029271543026
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.045320551842451096
+trial_1	placebo	86	KG00098565	Depression, Mental	0.039037201553583145
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03842347115278244
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.038214195519685745
+trial_1	placebo	85	KG00098474	coughs	0.037997834384441376
+trial_1	placebo	123	KG00099351	hypokalaemia	0.036845892667770386
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03577689453959465
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.035719651728868484
+trial_1	placebo	114	KG00098933	fevers	0.03513793647289276
+trial_1	placebo	104	KG00097963	arthralgias	0.03413684293627739
+trial_1	placebo	126	KG00100076	Pain NOS	0.03292094171047211
+trial_1	placebo	14	KG00097852	Anemia NOS	0.031000714749097824
+trial_1	placebo	300	KG00101064	xerostomia	0.030786605551838875
+trial_1	placebo	102	KG00097916	anxieties	0.030474979430437088
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.029713617637753487
+trial_1	placebo	29	KG00099354	hyponatraemia	0.029123224318027496
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02791944332420826
+trial_1	placebo	242	KG00100855	tremors	0.02732524275779724
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02633092738687992
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02555420994758606
+trial_1	placebo	262	KG00101199	agitation	0.024845972657203674
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.024836340919137
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02433771826326847
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023144768550992012
+trial_1	placebo	116	KG00098964	Pain in foot	0.022723110392689705
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.022483771666884422
+trial_1	placebo	239	KG00100128	pareses	0.022073693573474884
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.021932849660515785
+trial_1	placebo	466	KG00101205	fall	0.021260827779769897
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02097983844578266
+trial_1	placebo	234	KG00098669	dysgeusias	0.020605765283107758
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020283406600356102
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019929058849811554
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01978866010904312
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.018867935985326767
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.018837258219718933
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018718574196100235
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018710032105445862
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01797713339328766
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.017785945907235146
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01746610924601555
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01698668859899044
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01696622744202614
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.01681823469698429
+trial_1	placebo	136	KG00101582	Dry;skin	0.016791945323348045
+trial_1	placebo	456	KG00099420	Influenzae	0.01634986512362957
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01625056006014347
+trial_1	placebo	269	KG00100399	pyaemia	0.0161236934363842
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01597519963979721
+trial_1	placebo	82	KG00097697	abdomen distended	0.015572349540889263
+trial_1	placebo	5	KG00099169	haematuria	0.01536610722541809
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01522703468799591
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014818493276834488
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014721370302140713
+trial_1	placebo	345	KG00103926	impairments memory	0.014501241967082024
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.014245206490159035
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.014152479358017445
+trial_1	placebo	72	KG00103771	myalgias	0.014021367765963078
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01380580011755228
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.013448110781610012
+trial_1	placebo	147	KG00098000	atelectases	0.013446244411170483
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.013095006346702576
+trial_1	placebo	333	KG00104019	DOPINESS	0.01293395645916462
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.012677405960857868
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.012478395365178585
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.012097137048840523
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011940136551856995
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01169679593294859
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.011686167679727077
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.011665208265185356
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.011634314432740211
+trial_1	placebo	153	KG00099579	lethargy	0.01157385390251875
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.011558029800653458
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.011501094326376915
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.011313226073980331
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.011294258758425713
+trial_1	placebo	4	KG00098817	epistaxis	0.011240913532674313
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.010931902565062046
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.010921210050582886
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.010836783796548843
+trial_1	placebo	454	KG00098286	Pain, Neck	0.010765756480395794
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.010592489503324032
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.010550244711339474
+trial_2	oxazepam	9	KG00098432	Confusion NOS	0.1543288230895996
+trial_2	oxazepam	17	KG00097991	Asthenia NOS	0.12834249436855316
+trial_2	oxazepam	87	KG00098599	diarrhoea	0.11148859560489655
+trial_2	oxazepam	46	KG00099121	Headache NOS	0.08543307334184647
+trial_2	oxazepam	78	KG00099326	Hypertensive diseases	0.0707799419760704
+trial_2	oxazepam	68	KG00099901	nauseas	0.06623686105012894
+trial_2	oxazepam	79	KG00100317	Insomnia, Primary	0.06374555081129074
+trial_2	oxazepam	49	KG00099902	nausea with vomiting	0.06301069259643555
+trial_2	oxazepam	77	KG00098450	Constipation NOS	0.06269171088933945
+trial_2	oxazepam	173	KG00098172	Bronchopneumonia NOS	0.05718235298991203
+trial_2	oxazepam	21	KG00098675	dyspnoea	0.05611354112625122
+trial_2	oxazepam	177	KG00099299	hyperglycaemia	0.05221982300281525
+trial_2	oxazepam	64	KG00097734	Acrodermatitis, NOS	0.047790613025426865
+trial_2	oxazepam	228	KG00114657	Weight below normal	0.04709245637059212
+trial_2	oxazepam	66	KG00098642	drowsiness	0.046715665608644485
+trial_2	oxazepam	37	KG00097696	Cramps, Abdominal	0.04559960588812828
+trial_2	oxazepam	20	KG00098540	dehydration	0.0455029271543026
+trial_2	oxazepam	151	KG00098274	Infarction, Cerebral	0.045320551842451096
+trial_2	oxazepam	86	KG00098565	Depression, Mental	0.039037201553583145
+trial_2	oxazepam	132	KG00101045	Gain, Weight	0.03842347115278244
+trial_2	oxazepam	67	KG00098673	Dyspepsia, NOS	0.038214195519685745
+trial_2	oxazepam	85	KG00098474	coughs	0.037997834384441376
+trial_2	oxazepam	123	KG00099351	hypokalaemia	0.036845892667770386
+trial_2	oxazepam	101	KG00097901	Anorexia NOS	0.03577689453959465
+trial_2	oxazepam	180	KG00099363	Hypotension NOS	0.035719651728868484
+trial_2	oxazepam	114	KG00098933	fevers	0.03513793647289276
+trial_2	oxazepam	104	KG00097963	arthralgias	0.03413684293627739
+trial_2	oxazepam	126	KG00100076	Pain NOS	0.03292094171047211
+trial_2	oxazepam	14	KG00097852	Anemia NOS	0.031000714749097824
+trial_2	oxazepam	300	KG00101064	xerostomia	0.030786605551838875
+trial_2	oxazepam	102	KG00097916	anxieties	0.030474979430437088
+trial_2	oxazepam	200	KG00098539	Disorders, Deglutition	0.029713617637753487
+trial_2	oxazepam	29	KG00099354	hyponatraemia	0.029123224318027496
+trial_2	oxazepam	131	KG00100948	Urinary tract infection (& [NOS])	0.02791944332420826
+trial_2	oxazepam	242	KG00100855	tremors	0.02732524275779724
+trial_2	oxazepam	96	KG00101679	Unattended death NOS	0.02633092738687992
+trial_2	oxazepam	36	KG00106434	Vision, Blurring Of	0.02555420994758606
+trial_2	oxazepam	262	KG00101199	agitation	0.024845972657203674
+trial_2	oxazepam	76	KG00100450	Respiratory insufficiency, NOS	0.024836340919137
+trial_2	oxazepam	28	KG00099347	hypoglycaemia	0.02433771826326847
+trial_2	oxazepam	30	KG00099500	Acute Kidney Failure	0.023144768550992012
+trial_2	oxazepam	116	KG00098964	Pain in foot	0.022723110392689705
+trial_2	oxazepam	189	KG00101580	Alanine aminotransferase increase	0.022483771666884422
+trial_2	oxazepam	239	KG00100128	pareses	0.022073693573474884
+trial_2	oxazepam	61	KG00099501	Chronic Kidney Failure	0.021932849660515785
+trial_2	oxazepam	466	KG00101205	fall	0.021260827779769897
+trial_2	oxazepam	18	KG00098307	Pain, Chest	0.02097983844578266
+trial_2	oxazepam	234	KG00098669	dysgeusias	0.020605765283107758
+trial_2	oxazepam	139	KG00098855	Sinusitis, Ethmoid	0.020283406600356102
+trial_2	oxazepam	211	KG00100341	Pruritus NOS	0.019929058849811554
+trial_2	oxazepam	11	KG00097993	Asthma NOS	0.01978866010904312
+trial_2	oxazepam	188	KG00101579	Aspartate aminotransferase increase	0.018867935985326767
+trial_2	oxazepam	199	KG00098371	Rhinitis (chronic) NOS	0.018837258219718933
+trial_2	oxazepam	138	KG00098796	epidemic vomiting syndrome	0.018718574196100235
+trial_2	oxazepam	38	KG00098066	Binocular vision disorders	0.018710032105445862
+trial_2	oxazepam	69	KG00100082	Palpitations NOS	0.01797713339328766
+trial_2	oxazepam	92	KG00100926	Infections, Upper Respiratory	0.017785945907235146
+trial_2	oxazepam	441	KG00098262	cellulitis nos	0.01746610924601555
+trial_2	oxazepam	396	KG00100373	Embolism, Pulmonary	0.01698668859899044
+trial_2	oxazepam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01696622744202614
+trial_2	oxazepam	243	KG00100947	Micturition frequency increased	0.01681823469698429
+trial_2	oxazepam	136	KG00101582	Dry;skin	0.016791945323348045
+trial_2	oxazepam	456	KG00099420	Influenzae	0.01634986512362957
+trial_2	oxazepam	350	KG00106765	decreased platelet count	0.01625056006014347
+trial_2	oxazepam	269	KG00100399	pyaemia	0.0161236934363842
+trial_2	oxazepam	221	KG00101207	peripheral oedema	0.01597519963979721
+trial_2	oxazepam	82	KG00097697	abdomen distended	0.015572349540889263
+trial_2	oxazepam	5	KG00099169	haematuria	0.01536610722541809
+trial_2	oxazepam	122	KG00099321	Hypersensitivity NOS	0.01522703468799591
+trial_2	oxazepam	75	KG00100195	Dolens, Phlegmasia Alba	0.014818493276834488
+trial_2	oxazepam	361	KG00098004	Fibrillation, Atrial	0.014721370302140713
+trial_2	oxazepam	345	KG00103926	impairments memory	0.014501241967082024
+trial_2	oxazepam	130	KG00100683	Stomatitis NOS	0.014245206490159035
+trial_2	oxazepam	142	KG00100923	Unspecified infectious and parasitic diseases	0.014152479358017445
+trial_2	oxazepam	72	KG00103771	myalgias	0.014021367765963078
+trial_2	oxazepam	15	KG00097882	Angina pectoris NOS	0.01380580011755228
+trial_2	oxazepam	2	KG00100772	thrombocytopaenia	0.013448110781610012
+trial_2	oxazepam	147	KG00098000	atelectases	0.013446244411170483
+trial_2	oxazepam	204	KG00098849	Esophagitis, Peptic	0.013095006346702576
+trial_2	oxazepam	333	KG00104019	DOPINESS	0.01293395645916462
+trial_2	oxazepam	232	KG00097997	Ataxia NOS	0.012677405960857868
+trial_2	oxazepam	27	KG00099303	hyperkalaemia	0.012478395365178585
+trial_2	oxazepam	98	KG00097718	Incised wound, NOS	0.012097137048840523
+trial_2	oxazepam	118	KG00099011	Gastritis NOS	0.011940136551856995
+trial_2	oxazepam	286	KG00101110	Retention, Urinary	0.01169679593294859
+trial_2	oxazepam	166	KG00099773	menopausal syndrome	0.011686167679727077
+trial_2	oxazepam	89	KG00099301	Hyperhidrosis (disorder)	0.011665208265185356
+trial_2	oxazepam	31	KG00099872	Infarction, Myocardial	0.011634314432740211
+trial_2	oxazepam	153	KG00099579	lethargy	0.01157385390251875
+trial_2	oxazepam	179	KG00099342	hypocalcaemia	0.011558029800653458
+trial_2	oxazepam	276	KG00099127	Arrest, Cardiac	0.011501094326376915
+trial_2	oxazepam	261	KG00101559	raised alkaline phosphatase	0.011313226073980331
+trial_2	oxazepam	191	KG00104055	Biliverdin increased	0.011294258758425713
+trial_2	oxazepam	4	KG00098817	epistaxis	0.011240913532674313
+trial_2	oxazepam	94	KG00103829	abdominal discomfort	0.010931902565062046
+trial_2	oxazepam	254	KG00100774	Thrombosis NOS	0.010921210050582886
+trial_2	oxazepam	394	KG00100243	Pneumonia, Aspiration	0.010836783796548843
+trial_2	oxazepam	454	KG00098286	Pain, Neck	0.010765756480395794
+trial_2	oxazepam	225	KG00104032	Suicidal tendencies	0.010592489503324032
+trial_2	oxazepam	249	KG00104430	hypoalbuminaemia	0.010550244711339474

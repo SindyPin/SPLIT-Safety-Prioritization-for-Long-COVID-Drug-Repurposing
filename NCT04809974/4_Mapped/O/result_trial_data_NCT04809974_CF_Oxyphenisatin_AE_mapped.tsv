@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.192002072930336
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1861971914768219
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1614621877670288
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12755298614501953
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11561892181634903
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1139497309923172
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.11253877729177475
+trial_1	placebo	46	KG00099121	Headache NOS	0.11226639896631241
+trial_1	placebo	14	KG00097852	Anemia NOS	0.10820876061916351
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10802385210990906
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10697191208600998
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10636076331138611
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10431981086730957
+trial_1	placebo	350	KG00106765	decreased platelet count	0.10408274829387665
+trial_1	placebo	20	KG00098540	dehydration	0.10300369560718536
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0967823788523674
+trial_1	placebo	228	KG00114657	Weight below normal	0.09462589025497437
+trial_1	placebo	21	KG00098675	dyspnoea	0.09099200367927551
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.09018894284963608
+trial_1	placebo	68	KG00099901	nauseas	0.08456312119960785
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0822424590587616
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08023701608181
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07864970713853836
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07702423632144928
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07535576820373535
+trial_1	placebo	114	KG00098933	fevers	0.07482148706912994
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.06818444281816483
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06720191985368729
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06603027880191803
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06319286674261093
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.06311030685901642
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06188412383198738
+trial_1	placebo	239	KG00100128	pareses	0.061199087649583817
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06028880923986435
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06002238765358925
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05909924954175949
+trial_1	placebo	126	KG00100076	Pain NOS	0.05904713273048401
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05834704637527466
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05791489779949188
+trial_1	placebo	85	KG00098474	coughs	0.05647796392440796
+trial_1	placebo	5	KG00099169	haematuria	0.05623192712664604
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05479847267270088
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05476842075586319
+trial_1	placebo	86	KG00098565	Depression, Mental	0.053788453340530396
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05364523082971573
+trial_1	placebo	282	KG00099309	hypernatraemia	0.05097167193889618
+trial_1	placebo	104	KG00097963	arthralgias	0.05058002844452858
+trial_1	placebo	72	KG00103771	myalgias	0.05004279315471649
+trial_1	placebo	147	KG00098000	atelectases	0.04871430993080139
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04835854843258858
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04684474319219589
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04606342315673828
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.045485079288482666
+trial_1	placebo	269	KG00100399	pyaemia	0.04462996497750282
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04441080614924431
+trial_1	placebo	82	KG00097697	abdomen distended	0.044207170605659485
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04399978369474411
+trial_1	placebo	132	KG00101045	Gain, Weight	0.043739479035139084
+trial_1	placebo	164	KG00108827	ileus colon	0.04357230290770531
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04262940213084221
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04230121150612831
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04212057590484619
+trial_1	placebo	116	KG00098964	Pain in foot	0.0414942167699337
+trial_1	placebo	262	KG00101199	agitation	0.041300978511571884
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.041162945330142975
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.04068151116371155
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03996766358613968
+trial_1	placebo	102	KG00097916	anxieties	0.03933919593691826
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.038994401693344116
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.038786549121141434
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.038345642387866974
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0383119210600853
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03779108077287674
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03742561116814613
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.0372077114880085
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.036937110126018524
+trial_1	placebo	466	KG00101205	fall	0.036239393055438995
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03611026331782341
+trial_1	placebo	186	KG00101431	creatinine increased	0.03600152209401131
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.035364024341106415
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03361252322793007
+trial_1	placebo	508	KG00108565	blood glucose increased	0.033413901925086975
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.033335164189338684
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.032783836126327515
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03241831064224243
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03196362778544426
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.03194457292556763
+trial_1	placebo	121	KG00099190	haemorrhage	0.031862370669841766
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.03184423968195915
+trial_1	placebo	234	KG00098669	dysgeusias	0.03137560933828354
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.031187592074275017
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.0311435516923666
+trial_1	placebo	100	KG00097815	alopecias	0.031020652502775192
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03002123348414898
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.029770836234092712
+trial_1	placebo	153	KG00099579	lethargy	0.029623251408338547
+trial_1	placebo	339	KG00100334	proteinurias	0.029617194086313248
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0295688696205616
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02952636033296585
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02939867042005062
+trial_2	oxyphenisatin	87	KG00098599	diarrhoea	0.192002072930336
+trial_2	oxyphenisatin	78	KG00099326	Hypertensive diseases	0.1861971914768219
+trial_2	oxyphenisatin	177	KG00099299	hyperglycaemia	0.1614621877670288
+trial_2	oxyphenisatin	123	KG00099351	hypokalaemia	0.12755298614501953
+trial_2	oxyphenisatin	37	KG00097696	Cramps, Abdominal	0.11561892181634903
+trial_2	oxyphenisatin	173	KG00098172	Bronchopneumonia NOS	0.1139497309923172
+trial_2	oxyphenisatin	2	KG00100772	thrombocytopaenia	0.11253877729177475
+trial_2	oxyphenisatin	46	KG00099121	Headache NOS	0.11226639896631241
+trial_2	oxyphenisatin	14	KG00097852	Anemia NOS	0.10820876061916351
+trial_2	oxyphenisatin	189	KG00101580	Alanine aminotransferase increase	0.10802385210990906
+trial_2	oxyphenisatin	9	KG00098432	Confusion NOS	0.10697191208600998
+trial_2	oxyphenisatin	17	KG00097991	Asthenia NOS	0.10636076331138611
+trial_2	oxyphenisatin	188	KG00101579	Aspartate aminotransferase increase	0.10431981086730957
+trial_2	oxyphenisatin	350	KG00106765	decreased platelet count	0.10408274829387665
+trial_2	oxyphenisatin	20	KG00098540	dehydration	0.10300369560718536
+trial_2	oxyphenisatin	67	KG00098673	Dyspepsia, NOS	0.0967823788523674
+trial_2	oxyphenisatin	228	KG00114657	Weight below normal	0.09462589025497437
+trial_2	oxyphenisatin	21	KG00098675	dyspnoea	0.09099200367927551
+trial_2	oxyphenisatin	200	KG00098539	Disorders, Deglutition	0.09018894284963608
+trial_2	oxyphenisatin	68	KG00099901	nauseas	0.08456312119960785
+trial_2	oxyphenisatin	49	KG00099902	nausea with vomiting	0.0822424590587616
+trial_2	oxyphenisatin	29	KG00099354	hyponatraemia	0.08023701608181
+trial_2	oxyphenisatin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07864970713853836
+trial_2	oxyphenisatin	79	KG00100317	Insomnia, Primary	0.07702423632144928
+trial_2	oxyphenisatin	77	KG00098450	Constipation NOS	0.07535576820373535
+trial_2	oxyphenisatin	114	KG00098933	fevers	0.07482148706912994
+trial_2	oxyphenisatin	27	KG00099303	hyperkalaemia	0.06818444281816483
+trial_2	oxyphenisatin	179	KG00099342	hypocalcaemia	0.06720191985368729
+trial_2	oxyphenisatin	76	KG00100450	Respiratory insufficiency, NOS	0.06603027880191803
+trial_2	oxyphenisatin	61	KG00099501	Chronic Kidney Failure	0.06319286674261093
+trial_2	oxyphenisatin	194	KG00110727	Neutrophil Count Decreased	0.06311030685901642
+trial_2	oxyphenisatin	28	KG00099347	hypoglycaemia	0.06188412383198738
+trial_2	oxyphenisatin	239	KG00100128	pareses	0.061199087649583817
+trial_2	oxyphenisatin	151	KG00098274	Infarction, Cerebral	0.06028880923986435
+trial_2	oxyphenisatin	64	KG00097734	Acrodermatitis, NOS	0.06002238765358925
+trial_2	oxyphenisatin	276	KG00099127	Arrest, Cardiac	0.05909924954175949
+trial_2	oxyphenisatin	126	KG00100076	Pain NOS	0.05904713273048401
+trial_2	oxyphenisatin	243	KG00100947	Micturition frequency increased	0.05834704637527466
+trial_2	oxyphenisatin	180	KG00099363	Hypotension NOS	0.05791489779949188
+trial_2	oxyphenisatin	85	KG00098474	coughs	0.05647796392440796
+trial_2	oxyphenisatin	5	KG00099169	haematuria	0.05623192712664604
+trial_2	oxyphenisatin	30	KG00099500	Acute Kidney Failure	0.05479847267270088
+trial_2	oxyphenisatin	101	KG00097901	Anorexia NOS	0.05476842075586319
+trial_2	oxyphenisatin	86	KG00098565	Depression, Mental	0.053788453340530396
+trial_2	oxyphenisatin	144	KG00099610	Leukopenia NOS	0.05364523082971573
+trial_2	oxyphenisatin	282	KG00099309	hypernatraemia	0.05097167193889618
+trial_2	oxyphenisatin	104	KG00097963	arthralgias	0.05058002844452858
+trial_2	oxyphenisatin	72	KG00103771	myalgias	0.05004279315471649
+trial_2	oxyphenisatin	147	KG00098000	atelectases	0.04871430993080139
+trial_2	oxyphenisatin	122	KG00099321	Hypersensitivity NOS	0.04835854843258858
+trial_2	oxyphenisatin	96	KG00101679	Unattended death NOS	0.04684474319219589
+trial_2	oxyphenisatin	131	KG00100948	Urinary tract infection (& [NOS])	0.04606342315673828
+trial_2	oxyphenisatin	261	KG00101559	raised alkaline phosphatase	0.045485079288482666
+trial_2	oxyphenisatin	269	KG00100399	pyaemia	0.04462996497750282
+trial_2	oxyphenisatin	1	KG00099959	Neutropenia NOS	0.04441080614924431
+trial_2	oxyphenisatin	82	KG00097697	abdomen distended	0.044207170605659485
+trial_2	oxyphenisatin	355	KG00110857	lymphocyte count decreased	0.04399978369474411
+trial_2	oxyphenisatin	132	KG00101045	Gain, Weight	0.043739479035139084
+trial_2	oxyphenisatin	164	KG00108827	ileus colon	0.04357230290770531
+trial_2	oxyphenisatin	142	KG00100923	Unspecified infectious and parasitic diseases	0.04262940213084221
+trial_2	oxyphenisatin	18	KG00098307	Pain, Chest	0.04230121150612831
+trial_2	oxyphenisatin	139	KG00098855	Sinusitis, Ethmoid	0.04212057590484619
+trial_2	oxyphenisatin	116	KG00098964	Pain in foot	0.0414942167699337
+trial_2	oxyphenisatin	262	KG00101199	agitation	0.041300978511571884
+trial_2	oxyphenisatin	38	KG00098066	Binocular vision disorders	0.041162945330142975
+trial_2	oxyphenisatin	288	KG00101223	hypophosphataemia	0.04068151116371155
+trial_2	oxyphenisatin	249	KG00104430	hypoalbuminaemia	0.03996766358613968
+trial_2	oxyphenisatin	102	KG00097916	anxieties	0.03933919593691826
+trial_2	oxyphenisatin	253	KG00100232	Pleural effusion NOS (disorder)	0.038994401693344116
+trial_2	oxyphenisatin	35	KG00101507	hypomagnesaemia	0.038786549121141434
+trial_2	oxyphenisatin	69	KG00100082	Palpitations NOS	0.038345642387866974
+trial_2	oxyphenisatin	396	KG00100373	Embolism, Pulmonary	0.0383119210600853
+trial_2	oxyphenisatin	92	KG00100926	Infections, Upper Respiratory	0.03779108077287674
+trial_2	oxyphenisatin	204	KG00098849	Esophagitis, Peptic	0.03742561116814613
+trial_2	oxyphenisatin	97	KG00104198	LIVER ENZYME ELEVATED	0.0372077114880085
+trial_2	oxyphenisatin	191	KG00104055	Biliverdin increased	0.036937110126018524
+trial_2	oxyphenisatin	466	KG00101205	fall	0.036239393055438995
+trial_2	oxyphenisatin	341	KG00101472	Gamma-glutamyltransferase increased	0.03611026331782341
+trial_2	oxyphenisatin	186	KG00101431	creatinine increased	0.03600152209401131
+trial_2	oxyphenisatin	33	KG00100094	Pancreatitis NOS	0.035364024341106415
+trial_2	oxyphenisatin	361	KG00098004	Fibrillation, Atrial	0.03361252322793007
+trial_2	oxyphenisatin	508	KG00108565	blood glucose increased	0.033413901925086975
+trial_2	oxyphenisatin	75	KG00100195	Dolens, Phlegmasia Alba	0.033335164189338684
+trial_2	oxyphenisatin	268	KG00099557	Heart Failure, Left-Sided	0.032783836126327515
+trial_2	oxyphenisatin	441	KG00098262	cellulitis nos	0.03241831064224243
+trial_2	oxyphenisatin	154	KG00099686	Lymphopenias	0.03196362778544426
+trial_2	oxyphenisatin	494	KG00099838	Organ Failure, Multiple	0.03194457292556763
+trial_2	oxyphenisatin	121	KG00099190	haemorrhage	0.031862370669841766
+trial_2	oxyphenisatin	15	KG00097882	Angina pectoris NOS	0.03184423968195915
+trial_2	oxyphenisatin	234	KG00098669	dysgeusias	0.03137560933828354
+trial_2	oxyphenisatin	130	KG00100683	Stomatitis NOS	0.031187592074275017
+trial_2	oxyphenisatin	256	KG00100738	Tachycardia, Sinus	0.0311435516923666
+trial_2	oxyphenisatin	100	KG00097815	alopecias	0.031020652502775192
+trial_2	oxyphenisatin	286	KG00101110	Retention, Urinary	0.03002123348414898
+trial_2	oxyphenisatin	36	KG00106434	Vision, Blurring Of	0.029770836234092712
+trial_2	oxyphenisatin	153	KG00099579	lethargy	0.029623251408338547
+trial_2	oxyphenisatin	339	KG00100334	proteinurias	0.029617194086313248
+trial_2	oxyphenisatin	394	KG00100243	Pneumonia, Aspiration	0.0295688696205616
+trial_2	oxyphenisatin	382	KG00099200	haemorrhoids	0.02952636033296585
+trial_2	oxyphenisatin	166	KG00099773	menopausal syndrome	0.02939867042005062

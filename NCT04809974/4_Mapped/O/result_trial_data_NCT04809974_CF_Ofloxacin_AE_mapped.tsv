@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.0932571217417717
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05662083625793457
+trial_1	placebo	123	KG00099351	hypokalaemia	0.054835245013237
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.052987147122621536
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04901811480522156
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04606645554304123
+trial_1	placebo	21	KG00098675	dyspnoea	0.04485016316175461
+trial_1	placebo	114	KG00098933	fevers	0.04176115244626999
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04104514420032501
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03997596353292465
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03952041268348694
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03886615112423897
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03795469552278519
+trial_1	placebo	20	KG00098540	dehydration	0.03770631179213524
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03770305961370468
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.036009762436151505
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03577554598450661
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03419451043009758
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03263959661126137
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03139890730381012
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03019705042243004
+trial_1	placebo	269	KG00100399	pyaemia	0.029991742223501205
+trial_1	placebo	77	KG00098450	Constipation NOS	0.029967274516820908
+trial_1	placebo	46	KG00099121	Headache NOS	0.029940497130155563
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02941768243908882
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.028778789564967155
+trial_1	placebo	126	KG00100076	Pain NOS	0.026985833421349525
+trial_1	placebo	147	KG00098000	atelectases	0.02693401463329792
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026827944442629814
+trial_1	placebo	85	KG00098474	coughs	0.026783054694533348
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02645176835358143
+trial_1	placebo	68	KG00099901	nauseas	0.0258052758872509
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02560601942241192
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.025274571031332016
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02516612783074379
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025038188323378563
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.023790957406163216
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.023576660081744194
+trial_1	placebo	228	KG00114657	Weight below normal	0.02221277914941311
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02218172512948513
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022022489458322525
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020776871591806412
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020571613684296608
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019873281940817833
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01976725086569786
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01953674480319023
+trial_1	placebo	86	KG00098565	Depression, Mental	0.01840464025735855
+trial_1	placebo	104	KG00097963	arthralgias	0.01818264275789261
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017769750207662582
+trial_1	placebo	5	KG00099169	haematuria	0.017639851197600365
+trial_1	placebo	234	KG00098669	dysgeusias	0.0176119115203619
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01756766252219677
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.017536409199237823
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01731937564909458
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.017314571887254715
+trial_1	placebo	121	KG00099190	haemorrhage	0.01721787638962269
+trial_1	placebo	186	KG00101431	creatinine increased	0.017159394919872284
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01712656579911709
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.017106791958212852
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01702500507235527
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01690763607621193
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.016836876049637794
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.016312582418322563
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01603979989886284
+trial_1	placebo	164	KG00108827	ileus colon	0.015619443729519844
+trial_1	placebo	18	KG00098307	Pain, Chest	0.015032218769192696
+trial_1	placebo	239	KG00100128	pareses	0.015028067864477634
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.014983476139605045
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.014758218079805374
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.014571331441402435
+trial_1	placebo	72	KG00103771	myalgias	0.014340884983539581
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013841650448739529
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.013813371770083904
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.012844827957451344
+trial_1	placebo	102	KG00097916	anxieties	0.01263357698917389
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01245284266769886
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.012316553853452206
+trial_1	placebo	136	KG00101582	Dry;skin	0.012311260215938091
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012305554933845997
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012176983058452606
+trial_1	placebo	154	KG00099686	Lymphopenias	0.011989393271505833
+trial_1	placebo	82	KG00097697	abdomen distended	0.01184406504034996
+trial_1	placebo	221	KG00101207	peripheral oedema	0.011821895837783813
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.01178804226219654
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.011663845740258694
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.011466165073215961
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01117895357310772
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01110023818910122
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.011088598519563675
+trial_1	placebo	4	KG00098817	epistaxis	0.011061185970902443
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.011028856039047241
+trial_1	placebo	282	KG00099309	hypernatraemia	0.011002035811543465
+trial_1	placebo	262	KG00101199	agitation	0.0108144236728549
+trial_1	placebo	390	KG00100095	pancytopenias	0.010749457404017448
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.010717114433646202
+trial_1	placebo	116	KG00098964	Pain in foot	0.010575163178145885
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01041839737445116
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.010230978019535542
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.010128021240234375
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.010015537962317467
+trial_2	ofloxacin	87	KG00098599	diarrhoea	0.0932571217417717
+trial_2	ofloxacin	173	KG00098172	Bronchopneumonia NOS	0.05662083625793457
+trial_2	ofloxacin	123	KG00099351	hypokalaemia	0.054835245013237
+trial_2	ofloxacin	78	KG00099326	Hypertensive diseases	0.052987147122621536
+trial_2	ofloxacin	177	KG00099299	hyperglycaemia	0.04901811480522156
+trial_2	ofloxacin	189	KG00101580	Alanine aminotransferase increase	0.04606645554304123
+trial_2	ofloxacin	21	KG00098675	dyspnoea	0.04485016316175461
+trial_2	ofloxacin	114	KG00098933	fevers	0.04176115244626999
+trial_2	ofloxacin	14	KG00097852	Anemia NOS	0.04104514420032501
+trial_2	ofloxacin	9	KG00098432	Confusion NOS	0.03997596353292465
+trial_2	ofloxacin	64	KG00097734	Acrodermatitis, NOS	0.03952041268348694
+trial_2	ofloxacin	188	KG00101579	Aspartate aminotransferase increase	0.03886615112423897
+trial_2	ofloxacin	2	KG00100772	thrombocytopaenia	0.03795469552278519
+trial_2	ofloxacin	20	KG00098540	dehydration	0.03770631179213524
+trial_2	ofloxacin	37	KG00097696	Cramps, Abdominal	0.03770305961370468
+trial_2	ofloxacin	151	KG00098274	Infarction, Cerebral	0.036009762436151505
+trial_2	ofloxacin	61	KG00099501	Chronic Kidney Failure	0.03577554598450661
+trial_2	ofloxacin	17	KG00097991	Asthenia NOS	0.03419451043009758
+trial_2	ofloxacin	49	KG00099902	nausea with vomiting	0.03263959661126137
+trial_2	ofloxacin	96	KG00101679	Unattended death NOS	0.03139890730381012
+trial_2	ofloxacin	396	KG00100373	Embolism, Pulmonary	0.03019705042243004
+trial_2	ofloxacin	269	KG00100399	pyaemia	0.029991742223501205
+trial_2	ofloxacin	77	KG00098450	Constipation NOS	0.029967274516820908
+trial_2	ofloxacin	46	KG00099121	Headache NOS	0.029940497130155563
+trial_2	ofloxacin	142	KG00100923	Unspecified infectious and parasitic diseases	0.02941768243908882
+trial_2	ofloxacin	30	KG00099500	Acute Kidney Failure	0.028778789564967155
+trial_2	ofloxacin	126	KG00100076	Pain NOS	0.026985833421349525
+trial_2	ofloxacin	147	KG00098000	atelectases	0.02693401463329792
+trial_2	ofloxacin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026827944442629814
+trial_2	ofloxacin	85	KG00098474	coughs	0.026783054694533348
+trial_2	ofloxacin	350	KG00106765	decreased platelet count	0.02645176835358143
+trial_2	ofloxacin	68	KG00099901	nauseas	0.0258052758872509
+trial_2	ofloxacin	29	KG00099354	hyponatraemia	0.02560601942241192
+trial_2	ofloxacin	76	KG00100450	Respiratory insufficiency, NOS	0.025274571031332016
+trial_2	ofloxacin	200	KG00098539	Disorders, Deglutition	0.02516612783074379
+trial_2	ofloxacin	1	KG00099959	Neutropenia NOS	0.025038188323378563
+trial_2	ofloxacin	180	KG00099363	Hypotension NOS	0.023790957406163216
+trial_2	ofloxacin	67	KG00098673	Dyspepsia, NOS	0.023576660081744194
+trial_2	ofloxacin	228	KG00114657	Weight below normal	0.02221277914941311
+trial_2	ofloxacin	79	KG00100317	Insomnia, Primary	0.02218172512948513
+trial_2	ofloxacin	179	KG00099342	hypocalcaemia	0.022022489458322525
+trial_2	ofloxacin	261	KG00101559	raised alkaline phosphatase	0.020776871591806412
+trial_2	ofloxacin	191	KG00104055	Biliverdin increased	0.020571613684296608
+trial_2	ofloxacin	194	KG00110727	Neutrophil Count Decreased	0.019873281940817833
+trial_2	ofloxacin	130	KG00100683	Stomatitis NOS	0.01976725086569786
+trial_2	ofloxacin	276	KG00099127	Arrest, Cardiac	0.01953674480319023
+trial_2	ofloxacin	86	KG00098565	Depression, Mental	0.01840464025735855
+trial_2	ofloxacin	104	KG00097963	arthralgias	0.01818264275789261
+trial_2	ofloxacin	75	KG00100195	Dolens, Phlegmasia Alba	0.017769750207662582
+trial_2	ofloxacin	5	KG00099169	haematuria	0.017639851197600365
+trial_2	ofloxacin	234	KG00098669	dysgeusias	0.0176119115203619
+trial_2	ofloxacin	131	KG00100948	Urinary tract infection (& [NOS])	0.01756766252219677
+trial_2	ofloxacin	249	KG00104430	hypoalbuminaemia	0.017536409199237823
+trial_2	ofloxacin	253	KG00100232	Pleural effusion NOS (disorder)	0.01731937564909458
+trial_2	ofloxacin	28	KG00099347	hypoglycaemia	0.017314571887254715
+trial_2	ofloxacin	121	KG00099190	haemorrhage	0.01721787638962269
+trial_2	ofloxacin	186	KG00101431	creatinine increased	0.017159394919872284
+trial_2	ofloxacin	27	KG00099303	hyperkalaemia	0.01712656579911709
+trial_2	ofloxacin	122	KG00099321	Hypersensitivity NOS	0.017106791958212852
+trial_2	ofloxacin	441	KG00098262	cellulitis nos	0.01702500507235527
+trial_2	ofloxacin	356	KG00112623	Infectious Lung Disorders	0.01690763607621193
+trial_2	ofloxacin	35	KG00101507	hypomagnesaemia	0.016836876049637794
+trial_2	ofloxacin	144	KG00099610	Leukopenia NOS	0.016312582418322563
+trial_2	ofloxacin	101	KG00097901	Anorexia NOS	0.01603979989886284
+trial_2	ofloxacin	164	KG00108827	ileus colon	0.015619443729519844
+trial_2	ofloxacin	18	KG00098307	Pain, Chest	0.015032218769192696
+trial_2	ofloxacin	239	KG00100128	pareses	0.015028067864477634
+trial_2	ofloxacin	69	KG00100082	Palpitations NOS	0.014983476139605045
+trial_2	ofloxacin	38	KG00098066	Binocular vision disorders	0.014758218079805374
+trial_2	ofloxacin	243	KG00100947	Micturition frequency increased	0.014571331441402435
+trial_2	ofloxacin	72	KG00103771	myalgias	0.014340884983539581
+trial_2	ofloxacin	138	KG00098796	epidemic vomiting syndrome	0.013841650448739529
+trial_2	ofloxacin	361	KG00098004	Fibrillation, Atrial	0.013813371770083904
+trial_2	ofloxacin	170	KG00108926	Neutropenia, Febrile	0.012844827957451344
+trial_2	ofloxacin	102	KG00097916	anxieties	0.01263357698917389
+trial_2	ofloxacin	92	KG00100926	Infections, Upper Respiratory	0.01245284266769886
+trial_2	ofloxacin	341	KG00101472	Gamma-glutamyltransferase increased	0.012316553853452206
+trial_2	ofloxacin	136	KG00101582	Dry;skin	0.012311260215938091
+trial_2	ofloxacin	118	KG00099011	Gastritis NOS	0.012305554933845997
+trial_2	ofloxacin	31	KG00099872	Infarction, Myocardial	0.012176983058452606
+trial_2	ofloxacin	154	KG00099686	Lymphopenias	0.011989393271505833
+trial_2	ofloxacin	82	KG00097697	abdomen distended	0.01184406504034996
+trial_2	ofloxacin	221	KG00101207	peripheral oedema	0.011821895837783813
+trial_2	ofloxacin	494	KG00099838	Organ Failure, Multiple	0.01178804226219654
+trial_2	ofloxacin	286	KG00101110	Retention, Urinary	0.011663845740258694
+trial_2	ofloxacin	139	KG00098855	Sinusitis, Ethmoid	0.011466165073215961
+trial_2	ofloxacin	288	KG00101223	hypophosphataemia	0.01117895357310772
+trial_2	ofloxacin	211	KG00100341	Pruritus NOS	0.01110023818910122
+trial_2	ofloxacin	199	KG00098371	Rhinitis (chronic) NOS	0.011088598519563675
+trial_2	ofloxacin	4	KG00098817	epistaxis	0.011061185970902443
+trial_2	ofloxacin	36	KG00106434	Vision, Blurring Of	0.011028856039047241
+trial_2	ofloxacin	282	KG00099309	hypernatraemia	0.011002035811543465
+trial_2	ofloxacin	262	KG00101199	agitation	0.0108144236728549
+trial_2	ofloxacin	390	KG00100095	pancytopenias	0.010749457404017448
+trial_2	ofloxacin	394	KG00100243	Pneumonia, Aspiration	0.010717114433646202
+trial_2	ofloxacin	116	KG00098964	Pain in foot	0.010575163178145885
+trial_2	ofloxacin	11	KG00097993	Asthma NOS	0.01041839737445116
+trial_2	ofloxacin	268	KG00099557	Heart Failure, Left-Sided	0.010230978019535542
+trial_2	ofloxacin	183	KG00100449	Adult Respiratory Distress Syndrome	0.010128021240234375
+trial_2	ofloxacin	133	KG00101370	neuropathies sensory	0.010015537962317467

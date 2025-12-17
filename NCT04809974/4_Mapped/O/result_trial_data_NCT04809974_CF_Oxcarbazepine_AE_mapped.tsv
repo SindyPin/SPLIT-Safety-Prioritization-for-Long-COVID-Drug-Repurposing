@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.2138928323984146
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.17005164921283722
+trial_1	placebo	87	KG00098599	diarrhoea	0.13533785939216614
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10128019005060196
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09218484908342361
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09003297239542007
+trial_1	placebo	46	KG00099121	Headache NOS	0.08369265496730804
+trial_1	placebo	228	KG00114657	Weight below normal	0.08366409689188004
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07230816036462784
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06563917547464371
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.062443122267723083
+trial_1	placebo	20	KG00098540	dehydration	0.05694694072008133
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05504254996776581
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05380344018340111
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05372494086623192
+trial_1	placebo	68	KG00099901	nauseas	0.05371931940317154
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05319523066282272
+trial_1	placebo	21	KG00098675	dyspnoea	0.05261163040995598
+trial_1	placebo	77	KG00098450	Constipation NOS	0.052234966307878494
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.051699720323085785
+trial_1	placebo	66	KG00098642	drowsiness	0.04643775522708893
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.045359980314970016
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04523399844765663
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04403179511427879
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04208344966173172
+trial_1	placebo	104	KG00097963	arthralgias	0.04205821827054024
+trial_1	placebo	239	KG00100128	pareses	0.041081950068473816
+trial_1	placebo	466	KG00101205	fall	0.04036235436797142
+trial_1	placebo	85	KG00098474	coughs	0.03994879126548767
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.039531201124191284
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03927496075630188
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03924150764942169
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03700527548789978
+trial_1	placebo	242	KG00100855	tremors	0.03671723231673241
+trial_1	placebo	114	KG00098933	fevers	0.03607413172721863
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03533738851547241
+trial_1	placebo	126	KG00100076	Pain NOS	0.034932613372802734
+trial_1	placebo	116	KG00098964	Pain in foot	0.034663159400224686
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03402256220579147
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.033384352922439575
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03246277943253517
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03234820440411568
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03216686472296715
+trial_1	placebo	102	KG00097916	anxieties	0.03098379075527191
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.030796833336353302
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0304146446287632
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029096433892846107
+trial_1	placebo	456	KG00099420	Influenzae	0.029083382338285446
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.028596306219697
+trial_1	placebo	11	KG00097993	Asthma NOS	0.027148166671395302
+trial_1	placebo	345	KG00103926	impairments memory	0.026592355221509933
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026560824364423752
+trial_1	placebo	5	KG00099169	haematuria	0.02629595622420311
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02626294456422329
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026062816381454468
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02571205422282219
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02534809336066246
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02473885379731655
+trial_1	placebo	269	KG00100399	pyaemia	0.02451452799141407
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02405027486383915
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023915428668260574
+trial_1	placebo	136	KG00101582	Dry;skin	0.023701854050159454
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023407384753227234
+trial_1	placebo	234	KG00098669	dysgeusias	0.023356061428785324
+trial_1	placebo	262	KG00101199	agitation	0.0220497939735651
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021974176168441772
+trial_1	placebo	300	KG00101064	xerostomia	0.021402643993496895
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.021205991506576538
+trial_1	placebo	72	KG00103771	myalgias	0.021001145243644714
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02088439278304577
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02062072791159153
+trial_1	placebo	147	KG00098000	atelectases	0.020432982593774796
+trial_1	placebo	82	KG00097697	abdomen distended	0.020391805097460747
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02031823992729187
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019714534282684326
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019613929092884064
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.019602444022893906
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01870240829885006
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.018310103565454483
+trial_1	placebo	4	KG00098817	epistaxis	0.018096717074513435
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017945803701877594
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.017944928258657455
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017837239429354668
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.017494551837444305
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.0174128208309412
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.017218109220266342
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.016648443415760994
+trial_1	placebo	154	KG00099686	Lymphopenias	0.016475258395075798
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016378968954086304
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.016306569799780846
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01591716706752777
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.015896877273917198
+trial_1	placebo	186	KG00101431	creatinine increased	0.015496749430894852
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.015430622734129429
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015398915857076645
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015342473983764648
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01522128563374281
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.015053591690957546
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.015006210654973984
+trial_1	placebo	339	KG00100334	proteinurias	0.014922497794032097
+trial_2	oxcarbazepine	9	KG00098432	Confusion NOS	0.2138928323984146
+trial_2	oxcarbazepine	17	KG00097991	Asthenia NOS	0.17005164921283722
+trial_2	oxcarbazepine	87	KG00098599	diarrhoea	0.13533785939216614
+trial_2	oxcarbazepine	78	KG00099326	Hypertensive diseases	0.10128019005060196
+trial_2	oxcarbazepine	173	KG00098172	Bronchopneumonia NOS	0.09218484908342361
+trial_2	oxcarbazepine	64	KG00097734	Acrodermatitis, NOS	0.09003297239542007
+trial_2	oxcarbazepine	46	KG00099121	Headache NOS	0.08369265496730804
+trial_2	oxcarbazepine	228	KG00114657	Weight below normal	0.08366409689188004
+trial_2	oxcarbazepine	151	KG00098274	Infarction, Cerebral	0.07230816036462784
+trial_2	oxcarbazepine	86	KG00098565	Depression, Mental	0.06563917547464371
+trial_2	oxcarbazepine	177	KG00099299	hyperglycaemia	0.062443122267723083
+trial_2	oxcarbazepine	20	KG00098540	dehydration	0.05694694072008133
+trial_2	oxcarbazepine	123	KG00099351	hypokalaemia	0.05504254996776581
+trial_2	oxcarbazepine	132	KG00101045	Gain, Weight	0.05380344018340111
+trial_2	oxcarbazepine	49	KG00099902	nausea with vomiting	0.05372494086623192
+trial_2	oxcarbazepine	68	KG00099901	nauseas	0.05371931940317154
+trial_2	oxcarbazepine	67	KG00098673	Dyspepsia, NOS	0.05319523066282272
+trial_2	oxcarbazepine	21	KG00098675	dyspnoea	0.05261163040995598
+trial_2	oxcarbazepine	77	KG00098450	Constipation NOS	0.052234966307878494
+trial_2	oxcarbazepine	79	KG00100317	Insomnia, Primary	0.051699720323085785
+trial_2	oxcarbazepine	66	KG00098642	drowsiness	0.04643775522708893
+trial_2	oxcarbazepine	37	KG00097696	Cramps, Abdominal	0.045359980314970016
+trial_2	oxcarbazepine	29	KG00099354	hyponatraemia	0.04523399844765663
+trial_2	oxcarbazepine	131	KG00100948	Urinary tract infection (& [NOS])	0.04403179511427879
+trial_2	oxcarbazepine	189	KG00101580	Alanine aminotransferase increase	0.04208344966173172
+trial_2	oxcarbazepine	104	KG00097963	arthralgias	0.04205821827054024
+trial_2	oxcarbazepine	239	KG00100128	pareses	0.041081950068473816
+trial_2	oxcarbazepine	466	KG00101205	fall	0.04036235436797142
+trial_2	oxcarbazepine	85	KG00098474	coughs	0.03994879126548767
+trial_2	oxcarbazepine	36	KG00106434	Vision, Blurring Of	0.039531201124191284
+trial_2	oxcarbazepine	30	KG00099500	Acute Kidney Failure	0.03927496075630188
+trial_2	oxcarbazepine	14	KG00097852	Anemia NOS	0.03924150764942169
+trial_2	oxcarbazepine	28	KG00099347	hypoglycaemia	0.03700527548789978
+trial_2	oxcarbazepine	242	KG00100855	tremors	0.03671723231673241
+trial_2	oxcarbazepine	114	KG00098933	fevers	0.03607413172721863
+trial_2	oxcarbazepine	188	KG00101579	Aspartate aminotransferase increase	0.03533738851547241
+trial_2	oxcarbazepine	126	KG00100076	Pain NOS	0.034932613372802734
+trial_2	oxcarbazepine	116	KG00098964	Pain in foot	0.034663159400224686
+trial_2	oxcarbazepine	2	KG00100772	thrombocytopaenia	0.03402256220579147
+trial_2	oxcarbazepine	200	KG00098539	Disorders, Deglutition	0.033384352922439575
+trial_2	oxcarbazepine	76	KG00100450	Respiratory insufficiency, NOS	0.03246277943253517
+trial_2	oxcarbazepine	101	KG00097901	Anorexia NOS	0.03234820440411568
+trial_2	oxcarbazepine	139	KG00098855	Sinusitis, Ethmoid	0.03216686472296715
+trial_2	oxcarbazepine	102	KG00097916	anxieties	0.03098379075527191
+trial_2	oxcarbazepine	61	KG00099501	Chronic Kidney Failure	0.030796833336353302
+trial_2	oxcarbazepine	350	KG00106765	decreased platelet count	0.0304146446287632
+trial_2	oxcarbazepine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029096433892846107
+trial_2	oxcarbazepine	456	KG00099420	Influenzae	0.029083382338285446
+trial_2	oxcarbazepine	396	KG00100373	Embolism, Pulmonary	0.028596306219697
+trial_2	oxcarbazepine	11	KG00097993	Asthma NOS	0.027148166671395302
+trial_2	oxcarbazepine	345	KG00103926	impairments memory	0.026592355221509933
+trial_2	oxcarbazepine	18	KG00098307	Pain, Chest	0.026560824364423752
+trial_2	oxcarbazepine	5	KG00099169	haematuria	0.02629595622420311
+trial_2	oxcarbazepine	199	KG00098371	Rhinitis (chronic) NOS	0.02626294456422329
+trial_2	oxcarbazepine	38	KG00098066	Binocular vision disorders	0.026062816381454468
+trial_2	oxcarbazepine	180	KG00099363	Hypotension NOS	0.02571205422282219
+trial_2	oxcarbazepine	191	KG00104055	Biliverdin increased	0.02534809336066246
+trial_2	oxcarbazepine	96	KG00101679	Unattended death NOS	0.02473885379731655
+trial_2	oxcarbazepine	269	KG00100399	pyaemia	0.02451452799141407
+trial_2	oxcarbazepine	441	KG00098262	cellulitis nos	0.02405027486383915
+trial_2	oxcarbazepine	92	KG00100926	Infections, Upper Respiratory	0.023915428668260574
+trial_2	oxcarbazepine	136	KG00101582	Dry;skin	0.023701854050159454
+trial_2	oxcarbazepine	422	KG00101429	Creatine phosphokinase increased	0.023407384753227234
+trial_2	oxcarbazepine	234	KG00098669	dysgeusias	0.023356061428785324
+trial_2	oxcarbazepine	262	KG00101199	agitation	0.0220497939735651
+trial_2	oxcarbazepine	211	KG00100341	Pruritus NOS	0.021974176168441772
+trial_2	oxcarbazepine	300	KG00101064	xerostomia	0.021402643993496895
+trial_2	oxcarbazepine	243	KG00100947	Micturition frequency increased	0.021205991506576538
+trial_2	oxcarbazepine	72	KG00103771	myalgias	0.021001145243644714
+trial_2	oxcarbazepine	138	KG00098796	epidemic vomiting syndrome	0.02088439278304577
+trial_2	oxcarbazepine	75	KG00100195	Dolens, Phlegmasia Alba	0.02062072791159153
+trial_2	oxcarbazepine	147	KG00098000	atelectases	0.020432982593774796
+trial_2	oxcarbazepine	82	KG00097697	abdomen distended	0.020391805097460747
+trial_2	oxcarbazepine	27	KG00099303	hyperkalaemia	0.02031823992729187
+trial_2	oxcarbazepine	130	KG00100683	Stomatitis NOS	0.019714534282684326
+trial_2	oxcarbazepine	221	KG00101207	peripheral oedema	0.019613929092884064
+trial_2	oxcarbazepine	232	KG00097997	Ataxia NOS	0.019602444022893906
+trial_2	oxcarbazepine	15	KG00097882	Angina pectoris NOS	0.01870240829885006
+trial_2	oxcarbazepine	361	KG00098004	Fibrillation, Atrial	0.018310103565454483
+trial_2	oxcarbazepine	4	KG00098817	epistaxis	0.018096717074513435
+trial_2	oxcarbazepine	204	KG00098849	Esophagitis, Peptic	0.017945803701877594
+trial_2	oxcarbazepine	297	KG00099294	hypercholesterolaemia	0.017944928258657455
+trial_2	oxcarbazepine	194	KG00110727	Neutrophil Count Decreased	0.017837239429354668
+trial_2	oxcarbazepine	276	KG00099127	Arrest, Cardiac	0.017494551837444305
+trial_2	oxcarbazepine	98	KG00097718	Incised wound, NOS	0.0174128208309412
+trial_2	oxcarbazepine	179	KG00099342	hypocalcaemia	0.017218109220266342
+trial_2	oxcarbazepine	288	KG00101223	hypophosphataemia	0.016648443415760994
+trial_2	oxcarbazepine	154	KG00099686	Lymphopenias	0.016475258395075798
+trial_2	oxcarbazepine	286	KG00101110	Retention, Urinary	0.016378968954086304
+trial_2	oxcarbazepine	1	KG00099959	Neutropenia NOS	0.016306569799780846
+trial_2	oxcarbazepine	249	KG00104430	hypoalbuminaemia	0.01591716706752777
+trial_2	oxcarbazepine	366	KG00098275	Attack, Transient Ischemic	0.015896877273917198
+trial_2	oxcarbazepine	186	KG00101431	creatinine increased	0.015496749430894852
+trial_2	oxcarbazepine	69	KG00100082	Palpitations NOS	0.015430622734129429
+trial_2	oxcarbazepine	355	KG00110857	lymphocyte count decreased	0.015398915857076645
+trial_2	oxcarbazepine	35	KG00101507	hypomagnesaemia	0.015342473983764648
+trial_2	oxcarbazepine	261	KG00101559	raised alkaline phosphatase	0.01522128563374281
+trial_2	oxcarbazepine	202	KG00098630	Disturbance of Skin Sensation	0.015053591690957546
+trial_2	oxcarbazepine	394	KG00100243	Pneumonia, Aspiration	0.015006210654973984
+trial_2	oxcarbazepine	339	KG00100334	proteinurias	0.014922497794032097

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.09677565097808838
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08825172483921051
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07081358134746552
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06434568762779236
+trial_1	placebo	20	KG00098540	dehydration	0.052818674594163895
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05262168496847153
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05189381167292595
+trial_1	placebo	14	KG00097852	Anemia NOS	0.050476618111133575
+trial_1	placebo	9	KG00098432	Confusion NOS	0.04611563682556152
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04607931151986122
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0459146574139595
+trial_1	placebo	68	KG00099901	nauseas	0.043234933167696
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.042656585574150085
+trial_1	placebo	21	KG00098675	dyspnoea	0.04229256510734558
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04048168659210205
+trial_1	placebo	46	KG00099121	Headache NOS	0.04030182585120201
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03916294127702713
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03878723829984665
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03846418112516403
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.036996059119701385
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03626905754208565
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03558659553527832
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03392181545495987
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03391000255942345
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.033855099231004715
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03293246403336525
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03260409086942673
+trial_1	placebo	147	KG00098000	atelectases	0.03229691460728645
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030855342745780945
+trial_1	placebo	228	KG00114657	Weight below normal	0.030643895268440247
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.029507940635085106
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.029071535915136337
+trial_1	placebo	114	KG00098933	fevers	0.028195558115839958
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.027876470237970352
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027863726019859314
+trial_1	placebo	5	KG00099169	haematuria	0.027086744084954262
+trial_1	placebo	126	KG00100076	Pain NOS	0.026997186243534088
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.026540428400039673
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026455756276845932
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.025967642664909363
+trial_1	placebo	164	KG00108827	ileus colon	0.02589464746415615
+trial_1	placebo	269	KG00100399	pyaemia	0.025589920580387115
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.024680471047759056
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023939073085784912
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023835962638258934
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02330479770898819
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023192893713712692
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02269485406577587
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02155354805290699
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.021521808579564095
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02080063335597515
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.020653726533055305
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020291665568947792
+trial_1	placebo	82	KG00097697	abdomen distended	0.02022143267095089
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019942568615078926
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019906645640730858
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01965906471014023
+trial_1	placebo	85	KG00098474	coughs	0.019586389884352684
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01939290203154087
+trial_1	placebo	121	KG00099190	haemorrhage	0.019298210740089417
+trial_1	placebo	104	KG00097963	arthralgias	0.01921474002301693
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01919306255877018
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018964169546961784
+trial_1	placebo	186	KG00101431	creatinine increased	0.01886432059109211
+trial_1	placebo	239	KG00100128	pareses	0.018700631335377693
+trial_1	placebo	282	KG00099309	hypernatraemia	0.018621308729052544
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01858450658619404
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018454939126968384
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01841146871447563
+trial_1	placebo	72	KG00103771	myalgias	0.018137110397219658
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01737004704773426
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01688218116760254
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01684178039431572
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01665842905640602
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.016645148396492004
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01663966290652752
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.015994753688573837
+trial_1	placebo	234	KG00098669	dysgeusias	0.01573573611676693
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.015608897432684898
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.014895843341946602
+trial_1	placebo	102	KG00097916	anxieties	0.014764799736440182
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.014721730723977089
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014668850228190422
+trial_1	placebo	257	KG00100922	Erythema NOS	0.014663109555840492
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.014651451259851456
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01433907262980938
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.014228062704205513
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.014113321900367737
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014049683697521687
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013934479095041752
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.01336030662059784
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.013148084282875061
+trial_1	placebo	466	KG00101205	fall	0.013127157464623451
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.012951000593602657
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.012942645698785782
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.012888075783848763
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.012658159248530865
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.012656480073928833
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012526829726994038
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01249754149466753
+trial_2	ornidazole	87	KG00098599	diarrhoea	0.09677565097808838
+trial_2	ornidazole	78	KG00099326	Hypertensive diseases	0.08825172483921051
+trial_2	ornidazole	123	KG00099351	hypokalaemia	0.07081358134746552
+trial_2	ornidazole	177	KG00099299	hyperglycaemia	0.06434568762779236
+trial_2	ornidazole	20	KG00098540	dehydration	0.052818674594163895
+trial_2	ornidazole	173	KG00098172	Bronchopneumonia NOS	0.05262168496847153
+trial_2	ornidazole	189	KG00101580	Alanine aminotransferase increase	0.05189381167292595
+trial_2	ornidazole	14	KG00097852	Anemia NOS	0.050476618111133575
+trial_2	ornidazole	9	KG00098432	Confusion NOS	0.04611563682556152
+trial_2	ornidazole	2	KG00100772	thrombocytopaenia	0.04607931151986122
+trial_2	ornidazole	37	KG00097696	Cramps, Abdominal	0.0459146574139595
+trial_2	ornidazole	68	KG00099901	nauseas	0.043234933167696
+trial_2	ornidazole	188	KG00101579	Aspartate aminotransferase increase	0.042656585574150085
+trial_2	ornidazole	21	KG00098675	dyspnoea	0.04229256510734558
+trial_2	ornidazole	49	KG00099902	nausea with vomiting	0.04048168659210205
+trial_2	ornidazole	46	KG00099121	Headache NOS	0.04030182585120201
+trial_2	ornidazole	61	KG00099501	Chronic Kidney Failure	0.03916294127702713
+trial_2	ornidazole	17	KG00097991	Asthenia NOS	0.03878723829984665
+trial_2	ornidazole	77	KG00098450	Constipation NOS	0.03846418112516403
+trial_2	ornidazole	67	KG00098673	Dyspepsia, NOS	0.036996059119701385
+trial_2	ornidazole	200	KG00098539	Disorders, Deglutition	0.03626905754208565
+trial_2	ornidazole	350	KG00106765	decreased platelet count	0.03558659553527832
+trial_2	ornidazole	29	KG00099354	hyponatraemia	0.03392181545495987
+trial_2	ornidazole	180	KG00099363	Hypotension NOS	0.03391000255942345
+trial_2	ornidazole	30	KG00099500	Acute Kidney Failure	0.033855099231004715
+trial_2	ornidazole	64	KG00097734	Acrodermatitis, NOS	0.03293246403336525
+trial_2	ornidazole	151	KG00098274	Infarction, Cerebral	0.03260409086942673
+trial_2	ornidazole	147	KG00098000	atelectases	0.03229691460728645
+trial_2	ornidazole	396	KG00100373	Embolism, Pulmonary	0.030855342745780945
+trial_2	ornidazole	228	KG00114657	Weight below normal	0.030643895268440247
+trial_2	ornidazole	276	KG00099127	Arrest, Cardiac	0.029507940635085106
+trial_2	ornidazole	76	KG00100450	Respiratory insufficiency, NOS	0.029071535915136337
+trial_2	ornidazole	114	KG00098933	fevers	0.028195558115839958
+trial_2	ornidazole	79	KG00100317	Insomnia, Primary	0.027876470237970352
+trial_2	ornidazole	27	KG00099303	hyperkalaemia	0.027863726019859314
+trial_2	ornidazole	5	KG00099169	haematuria	0.027086744084954262
+trial_2	ornidazole	126	KG00100076	Pain NOS	0.026997186243534088
+trial_2	ornidazole	243	KG00100947	Micturition frequency increased	0.026540428400039673
+trial_2	ornidazole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026455756276845932
+trial_2	ornidazole	28	KG00099347	hypoglycaemia	0.025967642664909363
+trial_2	ornidazole	164	KG00108827	ileus colon	0.02589464746415615
+trial_2	ornidazole	269	KG00100399	pyaemia	0.025589920580387115
+trial_2	ornidazole	179	KG00099342	hypocalcaemia	0.024680471047759056
+trial_2	ornidazole	261	KG00101559	raised alkaline phosphatase	0.023939073085784912
+trial_2	ornidazole	75	KG00100195	Dolens, Phlegmasia Alba	0.023835962638258934
+trial_2	ornidazole	31	KG00099872	Infarction, Myocardial	0.02330479770898819
+trial_2	ornidazole	253	KG00100232	Pleural effusion NOS (disorder)	0.023192893713712692
+trial_2	ornidazole	96	KG00101679	Unattended death NOS	0.02269485406577587
+trial_2	ornidazole	142	KG00100923	Unspecified infectious and parasitic diseases	0.02155354805290699
+trial_2	ornidazole	131	KG00100948	Urinary tract infection (& [NOS])	0.021521808579564095
+trial_2	ornidazole	86	KG00098565	Depression, Mental	0.02080063335597515
+trial_2	ornidazole	38	KG00098066	Binocular vision disorders	0.020653726533055305
+trial_2	ornidazole	122	KG00099321	Hypersensitivity NOS	0.020291665568947792
+trial_2	ornidazole	82	KG00097697	abdomen distended	0.02022143267095089
+trial_2	ornidazole	144	KG00099610	Leukopenia NOS	0.019942568615078926
+trial_2	ornidazole	194	KG00110727	Neutrophil Count Decreased	0.019906645640730858
+trial_2	ornidazole	361	KG00098004	Fibrillation, Atrial	0.01965906471014023
+trial_2	ornidazole	85	KG00098474	coughs	0.019586389884352684
+trial_2	ornidazole	441	KG00098262	cellulitis nos	0.01939290203154087
+trial_2	ornidazole	121	KG00099190	haemorrhage	0.019298210740089417
+trial_2	ornidazole	104	KG00097963	arthralgias	0.01921474002301693
+trial_2	ornidazole	191	KG00104055	Biliverdin increased	0.01919306255877018
+trial_2	ornidazole	69	KG00100082	Palpitations NOS	0.018964169546961784
+trial_2	ornidazole	186	KG00101431	creatinine increased	0.01886432059109211
+trial_2	ornidazole	239	KG00100128	pareses	0.018700631335377693
+trial_2	ornidazole	282	KG00099309	hypernatraemia	0.018621308729052544
+trial_2	ornidazole	1	KG00099959	Neutropenia NOS	0.01858450658619404
+trial_2	ornidazole	249	KG00104430	hypoalbuminaemia	0.018454939126968384
+trial_2	ornidazole	18	KG00098307	Pain, Chest	0.01841146871447563
+trial_2	ornidazole	72	KG00103771	myalgias	0.018137110397219658
+trial_2	ornidazole	35	KG00101507	hypomagnesaemia	0.01737004704773426
+trial_2	ornidazole	130	KG00100683	Stomatitis NOS	0.01688218116760254
+trial_2	ornidazole	101	KG00097901	Anorexia NOS	0.01684178039431572
+trial_2	ornidazole	286	KG00101110	Retention, Urinary	0.01665842905640602
+trial_2	ornidazole	15	KG00097882	Angina pectoris NOS	0.016645148396492004
+trial_2	ornidazole	163	KG00104050	bowel obstructions small	0.01663966290652752
+trial_2	ornidazole	268	KG00099557	Heart Failure, Left-Sided	0.015994753688573837
+trial_2	ornidazole	234	KG00098669	dysgeusias	0.01573573611676693
+trial_2	ornidazole	33	KG00100094	Pancreatitis NOS	0.015608897432684898
+trial_2	ornidazole	371	KG00098517	Cystitis (NOS)	0.014895843341946602
+trial_2	ornidazole	102	KG00097916	anxieties	0.014764799736440182
+trial_2	ornidazole	288	KG00101223	hypophosphataemia	0.014721730723977089
+trial_2	ornidazole	204	KG00098849	Esophagitis, Peptic	0.014668850228190422
+trial_2	ornidazole	257	KG00100922	Erythema NOS	0.014663109555840492
+trial_2	ornidazole	97	KG00104198	LIVER ENZYME ELEVATED	0.014651451259851456
+trial_2	ornidazole	341	KG00101472	Gamma-glutamyltransferase increased	0.01433907262980938
+trial_2	ornidazole	400	KG00100925	Upper gastrointestinal haemorrhage	0.014228062704205513
+trial_2	ornidazole	494	KG00099838	Organ Failure, Multiple	0.014113321900367737
+trial_2	ornidazole	92	KG00100926	Infections, Upper Respiratory	0.014049683697521687
+trial_2	ornidazole	138	KG00098796	epidemic vomiting syndrome	0.013934479095041752
+trial_2	ornidazole	183	KG00100449	Adult Respiratory Distress Syndrome	0.01336030662059784
+trial_2	ornidazole	355	KG00110857	lymphocyte count decreased	0.013148084282875061
+trial_2	ornidazole	466	KG00101205	fall	0.013127157464623451
+trial_2	ornidazole	98	KG00097718	Incised wound, NOS	0.012951000593602657
+trial_2	ornidazole	139	KG00098855	Sinusitis, Ethmoid	0.012942645698785782
+trial_2	ornidazole	356	KG00112623	Infectious Lung Disorders	0.012888075783848763
+trial_2	ornidazole	394	KG00100243	Pneumonia, Aspiration	0.012658159248530865
+trial_2	ornidazole	211	KG00100341	Pruritus NOS	0.012656480073928833
+trial_2	ornidazole	118	KG00099011	Gastritis NOS	0.012526829726994038
+trial_2	ornidazole	154	KG00099686	Lymphopenias	0.01249754149466753

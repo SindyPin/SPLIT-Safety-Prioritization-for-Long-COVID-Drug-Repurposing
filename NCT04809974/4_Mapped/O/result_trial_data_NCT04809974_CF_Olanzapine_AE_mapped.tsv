@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	132	KG00101045	Gain, Weight	0.1943112462759018
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12672670185565948
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0972246378660202
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09649409353733063
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09644726663827896
+trial_1	placebo	86	KG00098565	Depression, Mental	0.09541084617376328
+trial_1	placebo	66	KG00098642	drowsiness	0.09370093792676926
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09122207760810852
+trial_1	placebo	87	KG00098599	diarrhoea	0.0898587554693222
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08401578664779663
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08110306411981583
+trial_1	placebo	242	KG00100855	tremors	0.07647327333688736
+trial_1	placebo	21	KG00098675	dyspnoea	0.07568920403718948
+trial_1	placebo	20	KG00098540	dehydration	0.0682261735200882
+trial_1	placebo	300	KG00101064	xerostomia	0.059334177523851395
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0563247986137867
+trial_1	placebo	262	KG00101199	agitation	0.05611979216337204
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05513342469930649
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05423044413328171
+trial_1	placebo	228	KG00114657	Weight below normal	0.05150621384382248
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05144796520471573
+trial_1	placebo	104	KG00097963	arthralgias	0.0510496124625206
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0503663569688797
+trial_1	placebo	46	KG00099121	Headache NOS	0.04899926856160164
+trial_1	placebo	85	KG00098474	coughs	0.04835355281829834
+trial_1	placebo	102	KG00097916	anxieties	0.04776529222726822
+trial_1	placebo	29	KG00099354	hyponatraemia	0.047066740691661835
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0458630807697773
+trial_1	placebo	783	KG00106735	Acathisia	0.04549108073115349
+trial_1	placebo	81	KG00103828	Increased appetite (finding)	0.04506267234683037
+trial_1	placebo	114	KG00098933	fevers	0.04219591245055199
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.040814585983753204
+trial_1	placebo	466	KG00101205	fall	0.039566755294799805
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03943299874663353
+trial_1	placebo	333	KG00104019	DOPINESS	0.03903893753886223
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03795008733868599
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.037909623235464096
+trial_1	placebo	68	KG00099901	nauseas	0.03695042058825493
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0368230827152729
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03681664913892746
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03635362163186073
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.035378437489271164
+trial_1	placebo	126	KG00100076	Pain NOS	0.03450723737478256
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030893659219145775
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.030713533982634544
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029854020103812218
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.029319247230887413
+trial_1	placebo	14	KG00097852	Anemia NOS	0.028915293514728546
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028130261227488518
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.028112858533859253
+trial_1	placebo	239	KG00100128	pareses	0.028083734214305878
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.027537893503904343
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.027330392971634865
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02704760432243347
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026541657745838165
+trial_1	placebo	11	KG00097993	Asthma NOS	0.026215258985757828
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.025908490642905235
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02548995055258274
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.025320399552583694
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.025254681706428528
+trial_1	placebo	290	KG00103881	Physical wandering	0.025248797610402107
+trial_1	placebo	456	KG00099420	Influenzae	0.024457691237330437
+trial_1	placebo	116	KG00098964	Pain in foot	0.02404330112040043
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023978937417268753
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.023766621947288513
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02298237569630146
+trial_1	placebo	18	KG00098307	Pain, Chest	0.022411588579416275
+trial_1	placebo	80	KG00100516	of saliva secretion	0.021954797208309174
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.021908272057771683
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021887967362999916
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02184413932263851
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.021713899448513985
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021207526326179504
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021066389977931976
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020935213193297386
+trial_1	placebo	281	KG00098869	extrapyramidal; disorder	0.020392220467329025
+trial_1	placebo	178	KG00099307	Type IV Hyperlipoproteinemia	0.020311761647462845
+trial_1	placebo	739	KG00100119	Paraphrenia, NOS	0.020272374153137207
+trial_1	placebo	7	KG00097787	Aggressive Behaviour	0.02020248956978321
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.019165677949786186
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019014423713088036
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.01897195167839527
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.018918514251708984
+trial_1	placebo	493	KG00098679	dystonias	0.018909135833382607
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018667519092559814
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018604721873998642
+trial_1	placebo	5	KG00099169	haematuria	0.01848270744085312
+trial_1	placebo	345	KG00103926	impairments memory	0.018414800986647606
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.018294185400009155
+trial_1	placebo	121	KG00099190	haemorrhage	0.01827085390686989
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018137848004698753
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.017793036997318268
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016960853710770607
+trial_1	placebo	165	KG00098537	Libido Decreased	0.016713101416826248
+trial_1	placebo	136	KG00101582	Dry;skin	0.016636237502098083
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01663074642419815
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.016239289194345474
+trial_1	placebo	933	KG00103917	Auditory Hallucinations	0.016170023009181023
+trial_1	placebo	154	KG00099686	Lymphopenias	0.016125593334436417
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01595105230808258
+trial_2	olanzapine	132	KG00101045	Gain, Weight	0.1943112462759018
+trial_2	olanzapine	17	KG00097991	Asthenia NOS	0.12672670185565948
+trial_2	olanzapine	177	KG00099299	hyperglycaemia	0.0972246378660202
+trial_2	olanzapine	78	KG00099326	Hypertensive diseases	0.09649409353733063
+trial_2	olanzapine	9	KG00098432	Confusion NOS	0.09644726663827896
+trial_2	olanzapine	86	KG00098565	Depression, Mental	0.09541084617376328
+trial_2	olanzapine	66	KG00098642	drowsiness	0.09370093792676926
+trial_2	olanzapine	173	KG00098172	Bronchopneumonia NOS	0.09122207760810852
+trial_2	olanzapine	87	KG00098599	diarrhoea	0.0898587554693222
+trial_2	olanzapine	79	KG00100317	Insomnia, Primary	0.08401578664779663
+trial_2	olanzapine	77	KG00098450	Constipation NOS	0.08110306411981583
+trial_2	olanzapine	242	KG00100855	tremors	0.07647327333688736
+trial_2	olanzapine	21	KG00098675	dyspnoea	0.07568920403718948
+trial_2	olanzapine	20	KG00098540	dehydration	0.0682261735200882
+trial_2	olanzapine	300	KG00101064	xerostomia	0.059334177523851395
+trial_2	olanzapine	151	KG00098274	Infarction, Cerebral	0.0563247986137867
+trial_2	olanzapine	262	KG00101199	agitation	0.05611979216337204
+trial_2	olanzapine	49	KG00099902	nausea with vomiting	0.05513342469930649
+trial_2	olanzapine	189	KG00101580	Alanine aminotransferase increase	0.05423044413328171
+trial_2	olanzapine	228	KG00114657	Weight below normal	0.05150621384382248
+trial_2	olanzapine	96	KG00101679	Unattended death NOS	0.05144796520471573
+trial_2	olanzapine	104	KG00097963	arthralgias	0.0510496124625206
+trial_2	olanzapine	64	KG00097734	Acrodermatitis, NOS	0.0503663569688797
+trial_2	olanzapine	46	KG00099121	Headache NOS	0.04899926856160164
+trial_2	olanzapine	85	KG00098474	coughs	0.04835355281829834
+trial_2	olanzapine	102	KG00097916	anxieties	0.04776529222726822
+trial_2	olanzapine	29	KG00099354	hyponatraemia	0.047066740691661835
+trial_2	olanzapine	123	KG00099351	hypokalaemia	0.0458630807697773
+trial_2	olanzapine	783	KG00106735	Acathisia	0.04549108073115349
+trial_2	olanzapine	81	KG00103828	Increased appetite (finding)	0.04506267234683037
+trial_2	olanzapine	114	KG00098933	fevers	0.04219591245055199
+trial_2	olanzapine	37	KG00097696	Cramps, Abdominal	0.040814585983753204
+trial_2	olanzapine	466	KG00101205	fall	0.039566755294799805
+trial_2	olanzapine	28	KG00099347	hypoglycaemia	0.03943299874663353
+trial_2	olanzapine	333	KG00104019	DOPINESS	0.03903893753886223
+trial_2	olanzapine	67	KG00098673	Dyspepsia, NOS	0.03795008733868599
+trial_2	olanzapine	36	KG00106434	Vision, Blurring Of	0.037909623235464096
+trial_2	olanzapine	68	KG00099901	nauseas	0.03695042058825493
+trial_2	olanzapine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0368230827152729
+trial_2	olanzapine	188	KG00101579	Aspartate aminotransferase increase	0.03681664913892746
+trial_2	olanzapine	180	KG00099363	Hypotension NOS	0.03635362163186073
+trial_2	olanzapine	76	KG00100450	Respiratory insufficiency, NOS	0.035378437489271164
+trial_2	olanzapine	126	KG00100076	Pain NOS	0.03450723737478256
+trial_2	olanzapine	30	KG00099500	Acute Kidney Failure	0.030893659219145775
+trial_2	olanzapine	200	KG00098539	Disorders, Deglutition	0.030713533982634544
+trial_2	olanzapine	243	KG00100947	Micturition frequency increased	0.029854020103812218
+trial_2	olanzapine	101	KG00097901	Anorexia NOS	0.029319247230887413
+trial_2	olanzapine	14	KG00097852	Anemia NOS	0.028915293514728546
+trial_2	olanzapine	350	KG00106765	decreased platelet count	0.028130261227488518
+trial_2	olanzapine	182	KG00100366	Disorders, Psychotic	0.028112858533859253
+trial_2	olanzapine	239	KG00100128	pareses	0.028083734214305878
+trial_2	olanzapine	199	KG00098371	Rhinitis (chronic) NOS	0.027537893503904343
+trial_2	olanzapine	92	KG00100926	Infections, Upper Respiratory	0.027330392971634865
+trial_2	olanzapine	152	KG00099402	INCONTINENCE NOS	0.02704760432243347
+trial_2	olanzapine	131	KG00100948	Urinary tract infection (& [NOS])	0.026541657745838165
+trial_2	olanzapine	11	KG00097993	Asthma NOS	0.026215258985757828
+trial_2	olanzapine	122	KG00099321	Hypersensitivity NOS	0.025908490642905235
+trial_2	olanzapine	297	KG00099294	hypercholesterolaemia	0.02548995055258274
+trial_2	olanzapine	61	KG00099501	Chronic Kidney Failure	0.025320399552583694
+trial_2	olanzapine	139	KG00098855	Sinusitis, Ethmoid	0.025254681706428528
+trial_2	olanzapine	290	KG00103881	Physical wandering	0.025248797610402107
+trial_2	olanzapine	456	KG00099420	Influenzae	0.024457691237330437
+trial_2	olanzapine	116	KG00098964	Pain in foot	0.02404330112040043
+trial_2	olanzapine	422	KG00101429	Creatine phosphokinase increased	0.023978937417268753
+trial_2	olanzapine	225	KG00104032	Suicidal tendencies	0.023766621947288513
+trial_2	olanzapine	118	KG00099011	Gastritis NOS	0.02298237569630146
+trial_2	olanzapine	18	KG00098307	Pain, Chest	0.022411588579416275
+trial_2	olanzapine	80	KG00100516	of saliva secretion	0.021954797208309174
+trial_2	olanzapine	142	KG00100923	Unspecified infectious and parasitic diseases	0.021908272057771683
+trial_2	olanzapine	69	KG00100082	Palpitations NOS	0.021887967362999916
+trial_2	olanzapine	221	KG00101207	peripheral oedema	0.02184413932263851
+trial_2	olanzapine	194	KG00110727	Neutrophil Count Decreased	0.021713899448513985
+trial_2	olanzapine	191	KG00104055	Biliverdin increased	0.021207526326179504
+trial_2	olanzapine	22	KG00098705	Edema (NOS)	0.021066389977931976
+trial_2	olanzapine	508	KG00108565	blood glucose increased	0.020935213193297386
+trial_2	olanzapine	281	KG00098869	extrapyramidal; disorder	0.020392220467329025
+trial_2	olanzapine	178	KG00099307	Type IV Hyperlipoproteinemia	0.020311761647462845
+trial_2	olanzapine	739	KG00100119	Paraphrenia, NOS	0.020272374153137207
+trial_2	olanzapine	7	KG00097787	Aggressive Behaviour	0.02020248956978321
+trial_2	olanzapine	341	KG00101472	Gamma-glutamyltransferase increased	0.019165677949786186
+trial_2	olanzapine	27	KG00099303	hyperkalaemia	0.019014423713088036
+trial_2	olanzapine	232	KG00097997	Ataxia NOS	0.01897195167839527
+trial_2	olanzapine	261	KG00101559	raised alkaline phosphatase	0.018918514251708984
+trial_2	olanzapine	493	KG00098679	dystonias	0.018909135833382607
+trial_2	olanzapine	38	KG00098066	Binocular vision disorders	0.018667519092559814
+trial_2	olanzapine	138	KG00098796	epidemic vomiting syndrome	0.018604721873998642
+trial_2	olanzapine	5	KG00099169	haematuria	0.01848270744085312
+trial_2	olanzapine	345	KG00103926	impairments memory	0.018414800986647606
+trial_2	olanzapine	179	KG00099342	hypocalcaemia	0.018294185400009155
+trial_2	olanzapine	121	KG00099190	haemorrhage	0.01827085390686989
+trial_2	olanzapine	130	KG00100683	Stomatitis NOS	0.018137848004698753
+trial_2	olanzapine	2	KG00100772	thrombocytopaenia	0.017793036997318268
+trial_2	olanzapine	211	KG00100341	Pruritus NOS	0.016960853710770607
+trial_2	olanzapine	165	KG00098537	Libido Decreased	0.016713101416826248
+trial_2	olanzapine	136	KG00101582	Dry;skin	0.016636237502098083
+trial_2	olanzapine	286	KG00101110	Retention, Urinary	0.01663074642419815
+trial_2	olanzapine	166	KG00099773	menopausal syndrome	0.016239289194345474
+trial_2	olanzapine	933	KG00103917	Auditory Hallucinations	0.016170023009181023
+trial_2	olanzapine	154	KG00099686	Lymphopenias	0.016125593334436417
+trial_2	olanzapine	256	KG00100738	Tachycardia, Sinus	0.01595105230808258

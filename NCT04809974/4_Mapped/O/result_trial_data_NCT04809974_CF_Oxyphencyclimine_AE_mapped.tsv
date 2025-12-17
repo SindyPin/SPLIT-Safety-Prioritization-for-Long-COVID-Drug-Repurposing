@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15765975415706635
+trial_1	placebo	87	KG00098599	diarrhoea	0.14417700469493866
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11100836098194122
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10263735055923462
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10028613358736038
+trial_1	placebo	20	KG00098540	dehydration	0.09539978206157684
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09404478967189789
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08203362673521042
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07830856740474701
+trial_1	placebo	21	KG00098675	dyspnoea	0.07686609774827957
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07046930491924286
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06959235668182373
+trial_1	placebo	46	KG00099121	Headache NOS	0.06721815466880798
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06354240328073502
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06260408461093903
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0594276487827301
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.059218257665634155
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05778791382908821
+trial_1	placebo	68	KG00099901	nauseas	0.057268597185611725
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05702948197722435
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05473509058356285
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05335889756679535
+trial_1	placebo	228	KG00114657	Weight below normal	0.05269547551870346
+trial_1	placebo	85	KG00098474	coughs	0.05206168070435524
+trial_1	placebo	14	KG00097852	Anemia NOS	0.050133779644966125
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05007210001349449
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04965377599000931
+trial_1	placebo	132	KG00101045	Gain, Weight	0.049605343490839005
+trial_1	placebo	104	KG00097963	arthralgias	0.04856812581419945
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04521503672003746
+trial_1	placebo	114	KG00098933	fevers	0.04478484019637108
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04460473731160164
+trial_1	placebo	239	KG00100128	pareses	0.04348812252283096
+trial_1	placebo	126	KG00100076	Pain NOS	0.04298345744609833
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.042874399572610855
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.041322529315948486
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.041145022958517075
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04010499641299248
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.039799559861421585
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03916146978735924
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.038885027170181274
+trial_1	placebo	5	KG00099169	haematuria	0.03779379278421402
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.037436068058013916
+trial_1	placebo	262	KG00101199	agitation	0.03618418425321579
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.035134945064783096
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.034464433789253235
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03434695303440094
+trial_1	placebo	102	KG00097916	anxieties	0.03397366404533386
+trial_1	placebo	66	KG00098642	drowsiness	0.03272460773587227
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03246397525072098
+trial_1	placebo	300	KG00101064	xerostomia	0.031275007873773575
+trial_1	placebo	18	KG00098307	Pain, Chest	0.031007956713438034
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030713820829987526
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03050934337079525
+trial_1	placebo	466	KG00101205	fall	0.030267244204878807
+trial_1	placebo	242	KG00100855	tremors	0.0302268173545599
+trial_1	placebo	164	KG00108827	ileus colon	0.030214831233024597
+trial_1	placebo	147	KG00098000	atelectases	0.03012746013700962
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.029842479154467583
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0294498261064291
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.029171735048294067
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02915230765938759
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.028388960286974907
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.028291970491409302
+trial_1	placebo	116	KG00098964	Pain in foot	0.027814390137791634
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.027303671464323997
+trial_1	placebo	72	KG00103771	myalgias	0.027243096381425858
+trial_1	placebo	269	KG00100399	pyaemia	0.027156800031661987
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026536177843809128
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025887563824653625
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02572839893400669
+trial_1	placebo	82	KG00097697	abdomen distended	0.025504985824227333
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0252094604074955
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024828488007187843
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024450866505503654
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.024325141683220863
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02427208237349987
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.024101698771119118
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02396339550614357
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023904066532850266
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023836620151996613
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023620525375008583
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023334044963121414
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023125560954213142
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02297031134366989
+trial_1	placebo	121	KG00099190	haemorrhage	0.022880755364894867
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0228285975754261
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022719839587807655
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.022704511880874634
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.022654181346297264
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022530749440193176
+trial_1	placebo	456	KG00099420	Influenzae	0.022461524233222008
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.022250216454267502
+trial_1	placebo	153	KG00099579	lethargy	0.022208197042346
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.022199666127562523
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021832579746842384
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02173253335058689
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02130528725683689
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02128424122929573
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021189820021390915
+trial_2	oxyphencyclimine	78	KG00099326	Hypertensive diseases	0.15765975415706635
+trial_2	oxyphencyclimine	87	KG00098599	diarrhoea	0.14417700469493866
+trial_2	oxyphencyclimine	17	KG00097991	Asthenia NOS	0.11100836098194122
+trial_2	oxyphencyclimine	177	KG00099299	hyperglycaemia	0.10263735055923462
+trial_2	oxyphencyclimine	9	KG00098432	Confusion NOS	0.10028613358736038
+trial_2	oxyphencyclimine	20	KG00098540	dehydration	0.09539978206157684
+trial_2	oxyphencyclimine	173	KG00098172	Bronchopneumonia NOS	0.09404478967189789
+trial_2	oxyphencyclimine	123	KG00099351	hypokalaemia	0.08203362673521042
+trial_2	oxyphencyclimine	77	KG00098450	Constipation NOS	0.07830856740474701
+trial_2	oxyphencyclimine	21	KG00098675	dyspnoea	0.07686609774827957
+trial_2	oxyphencyclimine	189	KG00101580	Alanine aminotransferase increase	0.07046930491924286
+trial_2	oxyphencyclimine	79	KG00100317	Insomnia, Primary	0.06959235668182373
+trial_2	oxyphencyclimine	46	KG00099121	Headache NOS	0.06721815466880798
+trial_2	oxyphencyclimine	49	KG00099902	nausea with vomiting	0.06354240328073502
+trial_2	oxyphencyclimine	188	KG00101579	Aspartate aminotransferase increase	0.06260408461093903
+trial_2	oxyphencyclimine	37	KG00097696	Cramps, Abdominal	0.0594276487827301
+trial_2	oxyphencyclimine	200	KG00098539	Disorders, Deglutition	0.059218257665634155
+trial_2	oxyphencyclimine	67	KG00098673	Dyspepsia, NOS	0.05778791382908821
+trial_2	oxyphencyclimine	68	KG00099901	nauseas	0.057268597185611725
+trial_2	oxyphencyclimine	86	KG00098565	Depression, Mental	0.05702948197722435
+trial_2	oxyphencyclimine	29	KG00099354	hyponatraemia	0.05473509058356285
+trial_2	oxyphencyclimine	64	KG00097734	Acrodermatitis, NOS	0.05335889756679535
+trial_2	oxyphencyclimine	228	KG00114657	Weight below normal	0.05269547551870346
+trial_2	oxyphencyclimine	85	KG00098474	coughs	0.05206168070435524
+trial_2	oxyphencyclimine	14	KG00097852	Anemia NOS	0.050133779644966125
+trial_2	oxyphencyclimine	151	KG00098274	Infarction, Cerebral	0.05007210001349449
+trial_2	oxyphencyclimine	180	KG00099363	Hypotension NOS	0.04965377599000931
+trial_2	oxyphencyclimine	132	KG00101045	Gain, Weight	0.049605343490839005
+trial_2	oxyphencyclimine	104	KG00097963	arthralgias	0.04856812581419945
+trial_2	oxyphencyclimine	350	KG00106765	decreased platelet count	0.04521503672003746
+trial_2	oxyphencyclimine	114	KG00098933	fevers	0.04478484019637108
+trial_2	oxyphencyclimine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04460473731160164
+trial_2	oxyphencyclimine	239	KG00100128	pareses	0.04348812252283096
+trial_2	oxyphencyclimine	126	KG00100076	Pain NOS	0.04298345744609833
+trial_2	oxyphencyclimine	76	KG00100450	Respiratory insufficiency, NOS	0.042874399572610855
+trial_2	oxyphencyclimine	30	KG00099500	Acute Kidney Failure	0.041322529315948486
+trial_2	oxyphencyclimine	61	KG00099501	Chronic Kidney Failure	0.041145022958517075
+trial_2	oxyphencyclimine	96	KG00101679	Unattended death NOS	0.04010499641299248
+trial_2	oxyphencyclimine	243	KG00100947	Micturition frequency increased	0.039799559861421585
+trial_2	oxyphencyclimine	2	KG00100772	thrombocytopaenia	0.03916146978735924
+trial_2	oxyphencyclimine	28	KG00099347	hypoglycaemia	0.038885027170181274
+trial_2	oxyphencyclimine	5	KG00099169	haematuria	0.03779379278421402
+trial_2	oxyphencyclimine	122	KG00099321	Hypersensitivity NOS	0.037436068058013916
+trial_2	oxyphencyclimine	262	KG00101199	agitation	0.03618418425321579
+trial_2	oxyphencyclimine	131	KG00100948	Urinary tract infection (& [NOS])	0.035134945064783096
+trial_2	oxyphencyclimine	179	KG00099342	hypocalcaemia	0.034464433789253235
+trial_2	oxyphencyclimine	27	KG00099303	hyperkalaemia	0.03434695303440094
+trial_2	oxyphencyclimine	102	KG00097916	anxieties	0.03397366404533386
+trial_2	oxyphencyclimine	66	KG00098642	drowsiness	0.03272460773587227
+trial_2	oxyphencyclimine	261	KG00101559	raised alkaline phosphatase	0.03246397525072098
+trial_2	oxyphencyclimine	300	KG00101064	xerostomia	0.031275007873773575
+trial_2	oxyphencyclimine	18	KG00098307	Pain, Chest	0.031007956713438034
+trial_2	oxyphencyclimine	396	KG00100373	Embolism, Pulmonary	0.030713820829987526
+trial_2	oxyphencyclimine	38	KG00098066	Binocular vision disorders	0.03050934337079525
+trial_2	oxyphencyclimine	466	KG00101205	fall	0.030267244204878807
+trial_2	oxyphencyclimine	242	KG00100855	tremors	0.0302268173545599
+trial_2	oxyphencyclimine	164	KG00108827	ileus colon	0.030214831233024597
+trial_2	oxyphencyclimine	147	KG00098000	atelectases	0.03012746013700962
+trial_2	oxyphencyclimine	101	KG00097901	Anorexia NOS	0.029842479154467583
+trial_2	oxyphencyclimine	36	KG00106434	Vision, Blurring Of	0.0294498261064291
+trial_2	oxyphencyclimine	276	KG00099127	Arrest, Cardiac	0.029171735048294067
+trial_2	oxyphencyclimine	422	KG00101429	Creatine phosphokinase increased	0.02915230765938759
+trial_2	oxyphencyclimine	139	KG00098855	Sinusitis, Ethmoid	0.028388960286974907
+trial_2	oxyphencyclimine	194	KG00110727	Neutrophil Count Decreased	0.028291970491409302
+trial_2	oxyphencyclimine	116	KG00098964	Pain in foot	0.027814390137791634
+trial_2	oxyphencyclimine	341	KG00101472	Gamma-glutamyltransferase increased	0.027303671464323997
+trial_2	oxyphencyclimine	72	KG00103771	myalgias	0.027243096381425858
+trial_2	oxyphencyclimine	269	KG00100399	pyaemia	0.027156800031661987
+trial_2	oxyphencyclimine	142	KG00100923	Unspecified infectious and parasitic diseases	0.026536177843809128
+trial_2	oxyphencyclimine	286	KG00101110	Retention, Urinary	0.025887563824653625
+trial_2	oxyphencyclimine	191	KG00104055	Biliverdin increased	0.02572839893400669
+trial_2	oxyphencyclimine	82	KG00097697	abdomen distended	0.025504985824227333
+trial_2	oxyphencyclimine	92	KG00100926	Infections, Upper Respiratory	0.0252094604074955
+trial_2	oxyphencyclimine	508	KG00108565	blood glucose increased	0.024828488007187843
+trial_2	oxyphencyclimine	144	KG00099610	Leukopenia NOS	0.024450866505503654
+trial_2	oxyphencyclimine	394	KG00100243	Pneumonia, Aspiration	0.024325141683220863
+trial_2	oxyphencyclimine	69	KG00100082	Palpitations NOS	0.02427208237349987
+trial_2	oxyphencyclimine	199	KG00098371	Rhinitis (chronic) NOS	0.024101698771119118
+trial_2	oxyphencyclimine	35	KG00101507	hypomagnesaemia	0.02396339550614357
+trial_2	oxyphencyclimine	253	KG00100232	Pleural effusion NOS (disorder)	0.023904066532850266
+trial_2	oxyphencyclimine	75	KG00100195	Dolens, Phlegmasia Alba	0.023836620151996613
+trial_2	oxyphencyclimine	118	KG00099011	Gastritis NOS	0.023620525375008583
+trial_2	oxyphencyclimine	130	KG00100683	Stomatitis NOS	0.023334044963121414
+trial_2	oxyphencyclimine	221	KG00101207	peripheral oedema	0.023125560954213142
+trial_2	oxyphencyclimine	282	KG00099309	hypernatraemia	0.02297031134366989
+trial_2	oxyphencyclimine	121	KG00099190	haemorrhage	0.022880755364894867
+trial_2	oxyphencyclimine	355	KG00110857	lymphocyte count decreased	0.0228285975754261
+trial_2	oxyphencyclimine	31	KG00099872	Infarction, Myocardial	0.022719839587807655
+trial_2	oxyphencyclimine	371	KG00098517	Cystitis (NOS)	0.022704511880874634
+trial_2	oxyphencyclimine	256	KG00100738	Tachycardia, Sinus	0.022654181346297264
+trial_2	oxyphencyclimine	249	KG00104430	hypoalbuminaemia	0.022530749440193176
+trial_2	oxyphencyclimine	456	KG00099420	Influenzae	0.022461524233222008
+trial_2	oxyphencyclimine	97	KG00104198	LIVER ENZYME ELEVATED	0.022250216454267502
+trial_2	oxyphencyclimine	153	KG00099579	lethargy	0.022208197042346
+trial_2	oxyphencyclimine	297	KG00099294	hypercholesterolaemia	0.022199666127562523
+trial_2	oxyphencyclimine	15	KG00097882	Angina pectoris NOS	0.021832579746842384
+trial_2	oxyphencyclimine	204	KG00098849	Esophagitis, Peptic	0.02173253335058689
+trial_2	oxyphencyclimine	211	KG00100341	Pruritus NOS	0.02130528725683689
+trial_2	oxyphencyclimine	11	KG00097993	Asthma NOS	0.02128424122929573
+trial_2	oxyphencyclimine	1	KG00099959	Neutropenia NOS	0.021189820021390915

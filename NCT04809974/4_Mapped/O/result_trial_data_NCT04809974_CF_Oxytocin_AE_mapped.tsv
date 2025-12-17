@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	46	KG00099121	Headache NOS	0.14244800806045532
+trial_1	placebo	68	KG00099901	nauseas	0.10909175872802734
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09997845441102982
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09713499248027802
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09467590600252151
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09208634495735168
+trial_1	placebo	9	KG00098432	Confusion NOS	0.082770437002182
+trial_1	placebo	87	KG00098599	diarrhoea	0.07977030426263809
+trial_1	placebo	21	KG00098675	dyspnoea	0.07186579704284668
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07107898592948914
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06586334109306335
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05853232368826866
+trial_1	placebo	114	KG00098933	fevers	0.05564545840024948
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.054827719926834106
+trial_1	placebo	126	KG00100076	Pain NOS	0.05240977555513382
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.051309023052453995
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05058877170085907
+trial_1	placebo	85	KG00098474	coughs	0.050373420119285583
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04654105380177498
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0463254489004612
+trial_1	placebo	104	KG00097963	arthralgias	0.04482604190707207
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.044288672506809235
+trial_1	placebo	20	KG00098540	dehydration	0.04383556544780731
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04278671368956566
+trial_1	placebo	228	KG00114657	Weight below normal	0.038209252059459686
+trial_1	placebo	102	KG00097916	anxieties	0.038052551448345184
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03793925419449806
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03659626469016075
+trial_1	placebo	116	KG00098964	Pain in foot	0.03612056374549866
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03460291400551796
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.034518320113420486
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.034044910222291946
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03353578969836235
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.030733788385987282
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029313290491700172
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.029255863279104233
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02730305679142475
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027101412415504456
+trial_1	placebo	11	KG00097993	Asthma NOS	0.026720700785517693
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0264945887029171
+trial_1	placebo	212	KG00100576	shivers	0.025459930300712585
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.025337299332022667
+trial_1	placebo	451	KG00101551	injection site pain	0.024811850860714912
+trial_1	placebo	72	KG00103771	myalgias	0.024639196693897247
+trial_1	placebo	4	KG00098817	epistaxis	0.02394217438995838
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02371833473443985
+trial_1	placebo	147	KG00098000	atelectases	0.02328767627477646
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.023011140525341034
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.022288795560598373
+trial_1	placebo	5	KG00099169	haematuria	0.022198714315891266
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02203506976366043
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.022001780569553375
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.021540537476539612
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021535445004701614
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02032647468149662
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020242884755134583
+trial_1	placebo	239	KG00100128	pareses	0.019760094583034515
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.019495243206620216
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019275639206171036
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01884550414979458
+trial_1	placebo	245	KG00101513	Reaction, Injection Site	0.01882854849100113
+trial_1	placebo	466	KG00101205	fall	0.01857827603816986
+trial_1	placebo	121	KG00099190	haemorrhage	0.01851106807589531
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01805841736495495
+trial_1	placebo	350	KG00106765	decreased platelet count	0.018050048500299454
+trial_1	placebo	262	KG00101199	agitation	0.017995893955230713
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01792135462164879
+trial_1	placebo	269	KG00100399	pyaemia	0.017606262117624283
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017576923593878746
+trial_1	placebo	136	KG00101582	Dry;skin	0.017231041565537453
+trial_1	placebo	456	KG00099420	Influenzae	0.017069894820451736
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.016832077875733376
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.016817288473248482
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016359176486730576
+trial_1	placebo	82	KG00097697	abdomen distended	0.016193654388189316
+trial_1	placebo	234	KG00098669	dysgeusias	0.01586300879716873
+trial_1	placebo	282	KG00099309	hypernatraemia	0.015697039663791656
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.015502636320888996
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.015330405905842781
+trial_1	placebo	227	KG00108103	Mucus nasal increased	0.015219679102301598
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.015124477446079254
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.014889861457049847
+trial_1	placebo	457	KG00099853	Pain, Musculoskeletal	0.014504071325063705
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.014450391754508018
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.014309401623904705
+trial_1	placebo	339	KG00100334	proteinurias	0.014255877584218979
+trial_1	placebo	208	KG00099896	Nasal congestion (finding)	0.014210991561412811
+trial_1	placebo	382	KG00099200	haemorrhoids	0.014010408893227577
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.013989733532071114
+trial_1	placebo	203	KG00098661	dysarthrias	0.013785967603325844
+trial_1	placebo	153	KG00099579	lethargy	0.013753803446888924
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01361352764070034
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.013605993241071701
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.013550168834626675
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01351155899465084
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013481891714036465
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.01336287148296833
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013065630570054054
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01290137879550457
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01260320097208023
+trial_2	oxytocin	46	KG00099121	Headache NOS	0.14244800806045532
+trial_2	oxytocin	68	KG00099901	nauseas	0.10909175872802734
+trial_2	oxytocin	79	KG00100317	Insomnia, Primary	0.09997845441102982
+trial_2	oxytocin	17	KG00097991	Asthenia NOS	0.09713499248027802
+trial_2	oxytocin	78	KG00099326	Hypertensive diseases	0.09467590600252151
+trial_2	oxytocin	49	KG00099902	nausea with vomiting	0.09208634495735168
+trial_2	oxytocin	9	KG00098432	Confusion NOS	0.082770437002182
+trial_2	oxytocin	87	KG00098599	diarrhoea	0.07977030426263809
+trial_2	oxytocin	21	KG00098675	dyspnoea	0.07186579704284668
+trial_2	oxytocin	173	KG00098172	Bronchopneumonia NOS	0.07107898592948914
+trial_2	oxytocin	177	KG00099299	hyperglycaemia	0.06586334109306335
+trial_2	oxytocin	77	KG00098450	Constipation NOS	0.05853232368826866
+trial_2	oxytocin	114	KG00098933	fevers	0.05564545840024948
+trial_2	oxytocin	37	KG00097696	Cramps, Abdominal	0.054827719926834106
+trial_2	oxytocin	126	KG00100076	Pain NOS	0.05240977555513382
+trial_2	oxytocin	101	KG00097901	Anorexia NOS	0.051309023052453995
+trial_2	oxytocin	123	KG00099351	hypokalaemia	0.05058877170085907
+trial_2	oxytocin	85	KG00098474	coughs	0.050373420119285583
+trial_2	oxytocin	139	KG00098855	Sinusitis, Ethmoid	0.04654105380177498
+trial_2	oxytocin	64	KG00097734	Acrodermatitis, NOS	0.0463254489004612
+trial_2	oxytocin	104	KG00097963	arthralgias	0.04482604190707207
+trial_2	oxytocin	67	KG00098673	Dyspepsia, NOS	0.044288672506809235
+trial_2	oxytocin	20	KG00098540	dehydration	0.04383556544780731
+trial_2	oxytocin	86	KG00098565	Depression, Mental	0.04278671368956566
+trial_2	oxytocin	228	KG00114657	Weight below normal	0.038209252059459686
+trial_2	oxytocin	102	KG00097916	anxieties	0.038052551448345184
+trial_2	oxytocin	122	KG00099321	Hypersensitivity NOS	0.03793925419449806
+trial_2	oxytocin	180	KG00099363	Hypotension NOS	0.03659626469016075
+trial_2	oxytocin	116	KG00098964	Pain in foot	0.03612056374549866
+trial_2	oxytocin	14	KG00097852	Anemia NOS	0.03460291400551796
+trial_2	oxytocin	151	KG00098274	Infarction, Cerebral	0.034518320113420486
+trial_2	oxytocin	69	KG00100082	Palpitations NOS	0.034044910222291946
+trial_2	oxytocin	200	KG00098539	Disorders, Deglutition	0.03353578969836235
+trial_2	oxytocin	92	KG00100926	Infections, Upper Respiratory	0.030733788385987282
+trial_2	oxytocin	211	KG00100341	Pruritus NOS	0.029313290491700172
+trial_2	oxytocin	166	KG00099773	menopausal syndrome	0.029255863279104233
+trial_2	oxytocin	131	KG00100948	Urinary tract infection (& [NOS])	0.02730305679142475
+trial_2	oxytocin	18	KG00098307	Pain, Chest	0.027101412415504456
+trial_2	oxytocin	11	KG00097993	Asthma NOS	0.026720700785517693
+trial_2	oxytocin	96	KG00101679	Unattended death NOS	0.0264945887029171
+trial_2	oxytocin	212	KG00100576	shivers	0.025459930300712585
+trial_2	oxytocin	76	KG00100450	Respiratory insufficiency, NOS	0.025337299332022667
+trial_2	oxytocin	451	KG00101551	injection site pain	0.024811850860714912
+trial_2	oxytocin	72	KG00103771	myalgias	0.024639196693897247
+trial_2	oxytocin	4	KG00098817	epistaxis	0.02394217438995838
+trial_2	oxytocin	441	KG00098262	cellulitis nos	0.02371833473443985
+trial_2	oxytocin	147	KG00098000	atelectases	0.02328767627477646
+trial_2	oxytocin	38	KG00098066	Binocular vision disorders	0.023011140525341034
+trial_2	oxytocin	243	KG00100947	Micturition frequency increased	0.022288795560598373
+trial_2	oxytocin	5	KG00099169	haematuria	0.022198714315891266
+trial_2	oxytocin	31	KG00099872	Infarction, Myocardial	0.02203506976366043
+trial_2	oxytocin	28	KG00099347	hypoglycaemia	0.022001780569553375
+trial_2	oxytocin	2	KG00100772	thrombocytopaenia	0.021540537476539612
+trial_2	oxytocin	396	KG00100373	Embolism, Pulmonary	0.021535445004701614
+trial_2	oxytocin	29	KG00099354	hyponatraemia	0.02032647468149662
+trial_2	oxytocin	199	KG00098371	Rhinitis (chronic) NOS	0.020242884755134583
+trial_2	oxytocin	239	KG00100128	pareses	0.019760094583034515
+trial_2	oxytocin	61	KG00099501	Chronic Kidney Failure	0.019495243206620216
+trial_2	oxytocin	142	KG00100923	Unspecified infectious and parasitic diseases	0.019275639206171036
+trial_2	oxytocin	454	KG00098286	Pain, Neck	0.01884550414979458
+trial_2	oxytocin	245	KG00101513	Reaction, Injection Site	0.01882854849100113
+trial_2	oxytocin	466	KG00101205	fall	0.01857827603816986
+trial_2	oxytocin	121	KG00099190	haemorrhage	0.01851106807589531
+trial_2	oxytocin	30	KG00099500	Acute Kidney Failure	0.01805841736495495
+trial_2	oxytocin	350	KG00106765	decreased platelet count	0.018050048500299454
+trial_2	oxytocin	262	KG00101199	agitation	0.017995893955230713
+trial_2	oxytocin	138	KG00098796	epidemic vomiting syndrome	0.01792135462164879
+trial_2	oxytocin	269	KG00100399	pyaemia	0.017606262117624283
+trial_2	oxytocin	75	KG00100195	Dolens, Phlegmasia Alba	0.017576923593878746
+trial_2	oxytocin	136	KG00101582	Dry;skin	0.017231041565537453
+trial_2	oxytocin	456	KG00099420	Influenzae	0.017069894820451736
+trial_2	oxytocin	361	KG00098004	Fibrillation, Atrial	0.016832077875733376
+trial_2	oxytocin	276	KG00099127	Arrest, Cardiac	0.016817288473248482
+trial_2	oxytocin	204	KG00098849	Esophagitis, Peptic	0.016359176486730576
+trial_2	oxytocin	82	KG00097697	abdomen distended	0.016193654388189316
+trial_2	oxytocin	234	KG00098669	dysgeusias	0.01586300879716873
+trial_2	oxytocin	282	KG00099309	hypernatraemia	0.015697039663791656
+trial_2	oxytocin	98	KG00097718	Incised wound, NOS	0.015502636320888996
+trial_2	oxytocin	195	KG00097814	Atopic Rhinitis	0.015330405905842781
+trial_2	oxytocin	227	KG00108103	Mucus nasal increased	0.015219679102301598
+trial_2	oxytocin	36	KG00106434	Vision, Blurring Of	0.015124477446079254
+trial_2	oxytocin	189	KG00101580	Alanine aminotransferase increase	0.014889861457049847
+trial_2	oxytocin	457	KG00099853	Pain, Musculoskeletal	0.014504071325063705
+trial_2	oxytocin	179	KG00099342	hypocalcaemia	0.014450391754508018
+trial_2	oxytocin	27	KG00099303	hyperkalaemia	0.014309401623904705
+trial_2	oxytocin	339	KG00100334	proteinurias	0.014255877584218979
+trial_2	oxytocin	208	KG00099896	Nasal congestion (finding)	0.014210991561412811
+trial_2	oxytocin	382	KG00099200	haemorrhoids	0.014010408893227577
+trial_2	oxytocin	130	KG00100683	Stomatitis NOS	0.013989733532071114
+trial_2	oxytocin	203	KG00098661	dysarthrias	0.013785967603325844
+trial_2	oxytocin	153	KG00099579	lethargy	0.013753803446888924
+trial_2	oxytocin	133	KG00101370	neuropathies sensory	0.01361352764070034
+trial_2	oxytocin	89	KG00099301	Hyperhidrosis (disorder)	0.013605993241071701
+trial_2	oxytocin	202	KG00098630	Disturbance of Skin Sensation	0.013550168834626675
+trial_2	oxytocin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01351155899465084
+trial_2	oxytocin	25	KG00099134	congestive failures heart	0.013481891714036465
+trial_2	oxytocin	188	KG00101579	Aspartate aminotransferase increase	0.01336287148296833
+trial_2	oxytocin	15	KG00097882	Angina pectoris NOS	0.013065630570054054
+trial_2	oxytocin	1	KG00099959	Neutropenia NOS	0.01290137879550457
+trial_2	oxytocin	194	KG00110727	Neutrophil Count Decreased	0.01260320097208023

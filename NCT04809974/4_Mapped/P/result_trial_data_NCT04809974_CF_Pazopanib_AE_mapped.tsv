@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.6557486057281494
+trial_1	placebo	87	KG00098599	diarrhoea	0.5206465125083923
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.32165876030921936
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.26701265573501587
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.22914910316467285
+trial_1	placebo	228	KG00114657	Weight below normal	0.22161869704723358
+trial_1	placebo	339	KG00100334	proteinurias	0.21376454830169678
+trial_1	placebo	20	KG00098540	dehydration	0.20847328007221222
+trial_1	placebo	123	KG00099351	hypokalaemia	0.2041434347629547
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.2036503255367279
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.20277489721775055
+trial_1	placebo	46	KG00099121	Headache NOS	0.19969791173934937
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.19822221994400024
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.19401033222675323
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.17764607071876526
+trial_1	placebo	257	KG00100922	Erythema NOS	0.16378897428512573
+trial_1	placebo	124	KG00099369	hypothyroidisms	0.157951220870018
+trial_1	placebo	9	KG00098432	Confusion NOS	0.151123508810997
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.1499127894639969
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1480458825826645
+trial_1	placebo	350	KG00106765	decreased platelet count	0.14774666726589203
+trial_1	placebo	68	KG00099901	nauseas	0.14472001791000366
+trial_1	placebo	4	KG00098817	epistaxis	0.13670650124549866
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.13617368042469025
+trial_1	placebo	77	KG00098450	Constipation NOS	0.13476049900054932
+trial_1	placebo	21	KG00098675	dyspnoea	0.1327795684337616
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12944068014621735
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.12255684286355972
+trial_1	placebo	382	KG00099200	haemorrhoids	0.11552795767784119
+trial_1	placebo	114	KG00098933	fevers	0.11188119649887085
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10660915821790695
+trial_1	placebo	337	KG00099261	Hoarsenesses	0.10650516301393509
+trial_1	placebo	104	KG00097963	arthralgias	0.10644277930259705
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.10597385466098785
+trial_1	placebo	29	KG00099354	hyponatraemia	0.10529986023902893
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.10356783866882324
+trial_1	placebo	239	KG00100128	pareses	0.10333313792943954
+trial_1	placebo	18	KG00098307	Pain, Chest	0.10265744477510452
+trial_1	placebo	5	KG00099169	haematuria	0.10117989033460617
+trial_1	placebo	147	KG00098000	atelectases	0.0990179032087326
+trial_1	placebo	234	KG00098669	dysgeusias	0.09695305675268173
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0957023948431015
+trial_1	placebo	100	KG00097815	alopecias	0.09548895061016083
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.09364303201436996
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.09274991601705551
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.09238076210021973
+trial_1	placebo	126	KG00100076	Pain NOS	0.0922989770770073
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.09186103194952011
+trial_1	placebo	136	KG00101582	Dry;skin	0.09171746671199799
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.08944625407457352
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.08929061889648438
+trial_1	placebo	72	KG00103771	myalgias	0.0892547219991684
+trial_1	placebo	86	KG00098565	Depression, Mental	0.08921793103218079
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.08637885004281998
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.08291035890579224
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.08218470215797424
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07983359694480896
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.07978170365095139
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.07951686531305313
+trial_1	placebo	85	KG00098474	coughs	0.07871255278587341
+trial_1	placebo	121	KG00099190	haemorrhage	0.07853627949953079
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07766129821538925
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.0759752094745636
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.07531087845563889
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.07469914853572845
+trial_1	placebo	116	KG00098964	Pain in foot	0.07427266985177994
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.07259462773799896
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07259117066860199
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.07033372670412064
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.0682661309838295
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.06754612177610397
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06739041209220886
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.06689804047346115
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.06675384193658829
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.06667952239513397
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.065250463783741
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06504900008440018
+trial_1	placebo	82	KG00097697	abdomen distended	0.06423864513635635
+trial_1	placebo	292	KG00105137	Haemorrhage - rectal	0.0636514350771904
+trial_1	placebo	186	KG00101431	creatinine increased	0.06208954006433487
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.061937544494867325
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.06018190085887909
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.06001397967338562
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.05979200452566147
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.05967974662780762
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.05911128222942352
+trial_1	placebo	83	KG00097747	pharyngitis nos acute	0.05893150344491005
+trial_1	placebo	454	KG00098286	Pain, Neck	0.058383457362651825
+trial_1	placebo	212	KG00100576	shivers	0.058001741766929626
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05759060010313988
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.05682799592614174
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.05596866086125374
+trial_1	placebo	269	KG00100399	pyaemia	0.05563123896718025
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.05378593131899834
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.05327519774436951
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.0525108203291893
+trial_1	placebo	102	KG00097916	anxieties	0.05208354815840721
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.05195533484220505
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05083411931991577
+trial_1	placebo	282	KG00099309	hypernatraemia	0.050631508231163025
+trial_2	pazopanib	78	KG00099326	Hypertensive diseases	0.6557486057281494
+trial_2	pazopanib	87	KG00098599	diarrhoea	0.5206465125083923
+trial_2	pazopanib	189	KG00101580	Alanine aminotransferase increase	0.32165876030921936
+trial_2	pazopanib	188	KG00101579	Aspartate aminotransferase increase	0.26701265573501587
+trial_2	pazopanib	67	KG00098673	Dyspepsia, NOS	0.22914910316467285
+trial_2	pazopanib	228	KG00114657	Weight below normal	0.22161869704723358
+trial_2	pazopanib	339	KG00100334	proteinurias	0.21376454830169678
+trial_2	pazopanib	20	KG00098540	dehydration	0.20847328007221222
+trial_2	pazopanib	123	KG00099351	hypokalaemia	0.2041434347629547
+trial_2	pazopanib	17	KG00097991	Asthenia NOS	0.2036503255367279
+trial_2	pazopanib	173	KG00098172	Bronchopneumonia NOS	0.20277489721775055
+trial_2	pazopanib	46	KG00099121	Headache NOS	0.19969791173934937
+trial_2	pazopanib	64	KG00097734	Acrodermatitis, NOS	0.19822221994400024
+trial_2	pazopanib	2	KG00100772	thrombocytopaenia	0.19401033222675323
+trial_2	pazopanib	37	KG00097696	Cramps, Abdominal	0.17764607071876526
+trial_2	pazopanib	257	KG00100922	Erythema NOS	0.16378897428512573
+trial_2	pazopanib	124	KG00099369	hypothyroidisms	0.157951220870018
+trial_2	pazopanib	9	KG00098432	Confusion NOS	0.151123508810997
+trial_2	pazopanib	101	KG00097901	Anorexia NOS	0.1499127894639969
+trial_2	pazopanib	49	KG00099902	nausea with vomiting	0.1480458825826645
+trial_2	pazopanib	350	KG00106765	decreased platelet count	0.14774666726589203
+trial_2	pazopanib	68	KG00099901	nauseas	0.14472001791000366
+trial_2	pazopanib	4	KG00098817	epistaxis	0.13670650124549866
+trial_2	pazopanib	191	KG00104055	Biliverdin increased	0.13617368042469025
+trial_2	pazopanib	77	KG00098450	Constipation NOS	0.13476049900054932
+trial_2	pazopanib	21	KG00098675	dyspnoea	0.1327795684337616
+trial_2	pazopanib	177	KG00099299	hyperglycaemia	0.12944068014621735
+trial_2	pazopanib	200	KG00098539	Disorders, Deglutition	0.12255684286355972
+trial_2	pazopanib	382	KG00099200	haemorrhoids	0.11552795767784119
+trial_2	pazopanib	114	KG00098933	fevers	0.11188119649887085
+trial_2	pazopanib	79	KG00100317	Insomnia, Primary	0.10660915821790695
+trial_2	pazopanib	337	KG00099261	Hoarsenesses	0.10650516301393509
+trial_2	pazopanib	104	KG00097963	arthralgias	0.10644277930259705
+trial_2	pazopanib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.10597385466098785
+trial_2	pazopanib	29	KG00099354	hyponatraemia	0.10529986023902893
+trial_2	pazopanib	130	KG00100683	Stomatitis NOS	0.10356783866882324
+trial_2	pazopanib	239	KG00100128	pareses	0.10333313792943954
+trial_2	pazopanib	18	KG00098307	Pain, Chest	0.10265744477510452
+trial_2	pazopanib	5	KG00099169	haematuria	0.10117989033460617
+trial_2	pazopanib	147	KG00098000	atelectases	0.0990179032087326
+trial_2	pazopanib	234	KG00098669	dysgeusias	0.09695305675268173
+trial_2	pazopanib	396	KG00100373	Embolism, Pulmonary	0.0957023948431015
+trial_2	pazopanib	100	KG00097815	alopecias	0.09548895061016083
+trial_2	pazopanib	151	KG00098274	Infarction, Cerebral	0.09364303201436996
+trial_2	pazopanib	179	KG00099342	hypocalcaemia	0.09274991601705551
+trial_2	pazopanib	38	KG00098066	Binocular vision disorders	0.09238076210021973
+trial_2	pazopanib	126	KG00100076	Pain NOS	0.0922989770770073
+trial_2	pazopanib	194	KG00110727	Neutrophil Count Decreased	0.09186103194952011
+trial_2	pazopanib	136	KG00101582	Dry;skin	0.09171746671199799
+trial_2	pazopanib	122	KG00099321	Hypersensitivity NOS	0.08944625407457352
+trial_2	pazopanib	261	KG00101559	raised alkaline phosphatase	0.08929061889648438
+trial_2	pazopanib	72	KG00103771	myalgias	0.0892547219991684
+trial_2	pazopanib	86	KG00098565	Depression, Mental	0.08921793103218079
+trial_2	pazopanib	33	KG00100094	Pancreatitis NOS	0.08637885004281998
+trial_2	pazopanib	243	KG00100947	Micturition frequency increased	0.08291035890579224
+trial_2	pazopanib	139	KG00098855	Sinusitis, Ethmoid	0.08218470215797424
+trial_2	pazopanib	14	KG00097852	Anemia NOS	0.07983359694480896
+trial_2	pazopanib	288	KG00101223	hypophosphataemia	0.07978170365095139
+trial_2	pazopanib	131	KG00100948	Urinary tract infection (& [NOS])	0.07951686531305313
+trial_2	pazopanib	85	KG00098474	coughs	0.07871255278587341
+trial_2	pazopanib	121	KG00099190	haemorrhage	0.07853627949953079
+trial_2	pazopanib	180	KG00099363	Hypotension NOS	0.07766129821538925
+trial_2	pazopanib	204	KG00098849	Esophagitis, Peptic	0.0759752094745636
+trial_2	pazopanib	28	KG00099347	hypoglycaemia	0.07531087845563889
+trial_2	pazopanib	27	KG00099303	hyperkalaemia	0.07469914853572845
+trial_2	pazopanib	116	KG00098964	Pain in foot	0.07427266985177994
+trial_2	pazopanib	276	KG00099127	Arrest, Cardiac	0.07259462773799896
+trial_2	pazopanib	61	KG00099501	Chronic Kidney Failure	0.07259117066860199
+trial_2	pazopanib	142	KG00100923	Unspecified infectious and parasitic diseases	0.07033372670412064
+trial_2	pazopanib	347	KG00104223	Mucosal ulcers	0.0682661309838295
+trial_2	pazopanib	356	KG00112623	Infectious Lung Disorders	0.06754612177610397
+trial_2	pazopanib	76	KG00100450	Respiratory insufficiency, NOS	0.06739041209220886
+trial_2	pazopanib	286	KG00101110	Retention, Urinary	0.06689804047346115
+trial_2	pazopanib	31	KG00099872	Infarction, Myocardial	0.06675384193658829
+trial_2	pazopanib	35	KG00101507	hypomagnesaemia	0.06667952239513397
+trial_2	pazopanib	144	KG00099610	Leukopenia NOS	0.065250463783741
+trial_2	pazopanib	30	KG00099500	Acute Kidney Failure	0.06504900008440018
+trial_2	pazopanib	82	KG00097697	abdomen distended	0.06423864513635635
+trial_2	pazopanib	292	KG00105137	Haemorrhage - rectal	0.0636514350771904
+trial_2	pazopanib	186	KG00101431	creatinine increased	0.06208954006433487
+trial_2	pazopanib	249	KG00104430	hypoalbuminaemia	0.061937544494867325
+trial_2	pazopanib	400	KG00100925	Upper gastrointestinal haemorrhage	0.06018190085887909
+trial_2	pazopanib	355	KG00110857	lymphocyte count decreased	0.06001397967338562
+trial_2	pazopanib	422	KG00101429	Creatine phosphokinase increased	0.05979200452566147
+trial_2	pazopanib	1	KG00099959	Neutropenia NOS	0.05967974662780762
+trial_2	pazopanib	75	KG00100195	Dolens, Phlegmasia Alba	0.05911128222942352
+trial_2	pazopanib	83	KG00097747	pharyngitis nos acute	0.05893150344491005
+trial_2	pazopanib	454	KG00098286	Pain, Neck	0.058383457362651825
+trial_2	pazopanib	212	KG00100576	shivers	0.058001741766929626
+trial_2	pazopanib	132	KG00101045	Gain, Weight	0.05759060010313988
+trial_2	pazopanib	253	KG00100232	Pleural effusion NOS (disorder)	0.05682799592614174
+trial_2	pazopanib	97	KG00104198	LIVER ENZYME ELEVATED	0.05596866086125374
+trial_2	pazopanib	269	KG00100399	pyaemia	0.05563123896718025
+trial_2	pazopanib	36	KG00106434	Vision, Blurring Of	0.05378593131899834
+trial_2	pazopanib	218	KG00100801	Tinnitus NOS	0.05327519774436951
+trial_2	pazopanib	341	KG00101472	Gamma-glutamyltransferase increased	0.0525108203291893
+trial_2	pazopanib	102	KG00097916	anxieties	0.05208354815840721
+trial_2	pazopanib	263	KG00101519	Ischemia, Myocardial	0.05195533484220505
+trial_2	pazopanib	96	KG00101679	Unattended death NOS	0.05083411931991577
+trial_2	pazopanib	282	KG00099309	hypernatraemia	0.050631508231163025

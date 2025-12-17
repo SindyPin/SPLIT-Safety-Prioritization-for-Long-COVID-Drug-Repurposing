@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18091075122356415
+trial_1	placebo	87	KG00098599	diarrhoea	0.16686095297336578
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12838715314865112
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11769267171621323
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10459840297698975
+trial_1	placebo	46	KG00099121	Headache NOS	0.1001364216208458
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09716052561998367
+trial_1	placebo	20	KG00098540	dehydration	0.09557035565376282
+trial_1	placebo	21	KG00098675	dyspnoea	0.09509756416082382
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0933961495757103
+trial_1	placebo	68	KG00099901	nauseas	0.08839204907417297
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0861886665225029
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08342576771974564
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07610930502414703
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07569873332977295
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07130028307437897
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07098723202943802
+trial_1	placebo	228	KG00114657	Weight below normal	0.06867682933807373
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06855303794145584
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06693816184997559
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.060803890228271484
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06016478314995766
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05817655473947525
+trial_1	placebo	104	KG00097963	arthralgias	0.05623849853873253
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05610274523496628
+trial_1	placebo	350	KG00106765	decreased platelet count	0.054848261177539825
+trial_1	placebo	126	KG00100076	Pain NOS	0.05310400575399399
+trial_1	placebo	85	KG00098474	coughs	0.052471816539764404
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.051117558032274246
+trial_1	placebo	239	KG00100128	pareses	0.04975476488471031
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.049065571278333664
+trial_1	placebo	5	KG00099169	haematuria	0.04893767833709717
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04867599904537201
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04840323328971863
+trial_1	placebo	114	KG00098933	fevers	0.048218123614788055
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04700577259063721
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04688112065196037
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04595448076725006
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04578542709350586
+trial_1	placebo	86	KG00098565	Depression, Mental	0.045547083020210266
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0417211577296257
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0410580113530159
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03898303583264351
+trial_1	placebo	102	KG00097916	anxieties	0.03758493810892105
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.037385161966085434
+trial_1	placebo	262	KG00101199	agitation	0.035121381282806396
+trial_1	placebo	147	KG00098000	atelectases	0.035110801458358765
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03493020310997963
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.034716252237558365
+trial_1	placebo	466	KG00101205	fall	0.03454087674617767
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.034416209906339645
+trial_1	placebo	234	KG00098669	dysgeusias	0.03439963981509209
+trial_1	placebo	82	KG00097697	abdomen distended	0.03416174650192261
+trial_1	placebo	116	KG00098964	Pain in foot	0.03376907855272293
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03363541513681412
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0331493504345417
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03278220444917679
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.032219402492046356
+trial_1	placebo	164	KG00108827	ileus colon	0.031534142792224884
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03138912096619606
+trial_1	placebo	72	KG00103771	myalgias	0.031176673248410225
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.031062982976436615
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.030725372955203056
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03014652617275715
+trial_1	placebo	269	KG00100399	pyaemia	0.0300122182816267
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.029772425070405006
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.029469812288880348
+trial_1	placebo	132	KG00101045	Gain, Weight	0.028827589005231857
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028791280463337898
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.028435448184609413
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028109680861234665
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.027865707874298096
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.027856267988681793
+trial_1	placebo	454	KG00098286	Pain, Neck	0.027643194422125816
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.027529191225767136
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02750839851796627
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027216602116823196
+trial_1	placebo	66	KG00098642	drowsiness	0.027087222784757614
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.027019767090678215
+trial_1	placebo	339	KG00100334	proteinurias	0.026982640847563744
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.026551134884357452
+trial_1	placebo	186	KG00101431	creatinine increased	0.026457076892256737
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026290128007531166
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.026196926832199097
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.026175780221819878
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025847509503364563
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025769446045160294
+trial_1	placebo	153	KG00099579	lethargy	0.025720050558447838
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.024858778342604637
+trial_1	placebo	282	KG00099309	hypernatraemia	0.024771783500909805
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02472587488591671
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.024697506800293922
+trial_1	placebo	300	KG00101064	xerostomia	0.024654200300574303
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02447890304028988
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02446523681282997
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.024411862716078758
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.024105815216898918
+trial_1	placebo	242	KG00100855	tremors	0.02361300401389599
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02357679046690464
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.023368386551737785
+trial_2	piribedil	78	KG00099326	Hypertensive diseases	0.18091075122356415
+trial_2	piribedil	87	KG00098599	diarrhoea	0.16686095297336578
+trial_2	piribedil	17	KG00097991	Asthenia NOS	0.12838715314865112
+trial_2	piribedil	9	KG00098432	Confusion NOS	0.11769267171621323
+trial_2	piribedil	177	KG00099299	hyperglycaemia	0.10459840297698975
+trial_2	piribedil	46	KG00099121	Headache NOS	0.1001364216208458
+trial_2	piribedil	123	KG00099351	hypokalaemia	0.09716052561998367
+trial_2	piribedil	20	KG00098540	dehydration	0.09557035565376282
+trial_2	piribedil	21	KG00098675	dyspnoea	0.09509756416082382
+trial_2	piribedil	77	KG00098450	Constipation NOS	0.0933961495757103
+trial_2	piribedil	68	KG00099901	nauseas	0.08839204907417297
+trial_2	piribedil	173	KG00098172	Bronchopneumonia NOS	0.0861886665225029
+trial_2	piribedil	49	KG00099902	nausea with vomiting	0.08342576771974564
+trial_2	piribedil	79	KG00100317	Insomnia, Primary	0.07610930502414703
+trial_2	piribedil	200	KG00098539	Disorders, Deglutition	0.07569873332977295
+trial_2	piribedil	37	KG00097696	Cramps, Abdominal	0.07130028307437897
+trial_2	piribedil	67	KG00098673	Dyspepsia, NOS	0.07098723202943802
+trial_2	piribedil	228	KG00114657	Weight below normal	0.06867682933807373
+trial_2	piribedil	189	KG00101580	Alanine aminotransferase increase	0.06855303794145584
+trial_2	piribedil	14	KG00097852	Anemia NOS	0.06693816184997559
+trial_2	piribedil	188	KG00101579	Aspartate aminotransferase increase	0.060803890228271484
+trial_2	piribedil	64	KG00097734	Acrodermatitis, NOS	0.06016478314995766
+trial_2	piribedil	29	KG00099354	hyponatraemia	0.05817655473947525
+trial_2	piribedil	104	KG00097963	arthralgias	0.05623849853873253
+trial_2	piribedil	101	KG00097901	Anorexia NOS	0.05610274523496628
+trial_2	piribedil	350	KG00106765	decreased platelet count	0.054848261177539825
+trial_2	piribedil	126	KG00100076	Pain NOS	0.05310400575399399
+trial_2	piribedil	85	KG00098474	coughs	0.052471816539764404
+trial_2	piribedil	243	KG00100947	Micturition frequency increased	0.051117558032274246
+trial_2	piribedil	239	KG00100128	pareses	0.04975476488471031
+trial_2	piribedil	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.049065571278333664
+trial_2	piribedil	5	KG00099169	haematuria	0.04893767833709717
+trial_2	piribedil	28	KG00099347	hypoglycaemia	0.04867599904537201
+trial_2	piribedil	2	KG00100772	thrombocytopaenia	0.04840323328971863
+trial_2	piribedil	114	KG00098933	fevers	0.048218123614788055
+trial_2	piribedil	61	KG00099501	Chronic Kidney Failure	0.04700577259063721
+trial_2	piribedil	180	KG00099363	Hypotension NOS	0.04688112065196037
+trial_2	piribedil	151	KG00098274	Infarction, Cerebral	0.04595448076725006
+trial_2	piribedil	76	KG00100450	Respiratory insufficiency, NOS	0.04578542709350586
+trial_2	piribedil	86	KG00098565	Depression, Mental	0.045547083020210266
+trial_2	piribedil	131	KG00100948	Urinary tract infection (& [NOS])	0.0417211577296257
+trial_2	piribedil	179	KG00099342	hypocalcaemia	0.0410580113530159
+trial_2	piribedil	30	KG00099500	Acute Kidney Failure	0.03898303583264351
+trial_2	piribedil	102	KG00097916	anxieties	0.03758493810892105
+trial_2	piribedil	396	KG00100373	Embolism, Pulmonary	0.037385161966085434
+trial_2	piribedil	262	KG00101199	agitation	0.035121381282806396
+trial_2	piribedil	147	KG00098000	atelectases	0.035110801458358765
+trial_2	piribedil	194	KG00110727	Neutrophil Count Decreased	0.03493020310997963
+trial_2	piribedil	38	KG00098066	Binocular vision disorders	0.034716252237558365
+trial_2	piribedil	466	KG00101205	fall	0.03454087674617767
+trial_2	piribedil	27	KG00099303	hyperkalaemia	0.034416209906339645
+trial_2	piribedil	234	KG00098669	dysgeusias	0.03439963981509209
+trial_2	piribedil	82	KG00097697	abdomen distended	0.03416174650192261
+trial_2	piribedil	116	KG00098964	Pain in foot	0.03376907855272293
+trial_2	piribedil	261	KG00101559	raised alkaline phosphatase	0.03363541513681412
+trial_2	piribedil	18	KG00098307	Pain, Chest	0.0331493504345417
+trial_2	piribedil	96	KG00101679	Unattended death NOS	0.03278220444917679
+trial_2	piribedil	139	KG00098855	Sinusitis, Ethmoid	0.032219402492046356
+trial_2	piribedil	164	KG00108827	ileus colon	0.031534142792224884
+trial_2	piribedil	69	KG00100082	Palpitations NOS	0.03138912096619606
+trial_2	piribedil	72	KG00103771	myalgias	0.031176673248410225
+trial_2	piribedil	122	KG00099321	Hypersensitivity NOS	0.031062982976436615
+trial_2	piribedil	355	KG00110857	lymphocyte count decreased	0.030725372955203056
+trial_2	piribedil	199	KG00098371	Rhinitis (chronic) NOS	0.03014652617275715
+trial_2	piribedil	269	KG00100399	pyaemia	0.0300122182816267
+trial_2	piribedil	130	KG00100683	Stomatitis NOS	0.029772425070405006
+trial_2	piribedil	191	KG00104055	Biliverdin increased	0.029469812288880348
+trial_2	piribedil	132	KG00101045	Gain, Weight	0.028827589005231857
+trial_2	piribedil	286	KG00101110	Retention, Urinary	0.028791280463337898
+trial_2	piribedil	211	KG00100341	Pruritus NOS	0.028435448184609413
+trial_2	piribedil	36	KG00106434	Vision, Blurring Of	0.028109680861234665
+trial_2	piribedil	144	KG00099610	Leukopenia NOS	0.027865707874298096
+trial_2	piribedil	204	KG00098849	Esophagitis, Peptic	0.027856267988681793
+trial_2	piribedil	454	KG00098286	Pain, Neck	0.027643194422125816
+trial_2	piribedil	422	KG00101429	Creatine phosphokinase increased	0.027529191225767136
+trial_2	piribedil	276	KG00099127	Arrest, Cardiac	0.02750839851796627
+trial_2	piribedil	441	KG00098262	cellulitis nos	0.027216602116823196
+trial_2	piribedil	66	KG00098642	drowsiness	0.027087222784757614
+trial_2	piribedil	75	KG00100195	Dolens, Phlegmasia Alba	0.027019767090678215
+trial_2	piribedil	339	KG00100334	proteinurias	0.026982640847563744
+trial_2	piribedil	35	KG00101507	hypomagnesaemia	0.026551134884357452
+trial_2	piribedil	186	KG00101431	creatinine increased	0.026457076892256737
+trial_2	piribedil	221	KG00101207	peripheral oedema	0.026290128007531166
+trial_2	piribedil	249	KG00104430	hypoalbuminaemia	0.026196926832199097
+trial_2	piribedil	371	KG00098517	Cystitis (NOS)	0.026175780221819878
+trial_2	piribedil	92	KG00100926	Infections, Upper Respiratory	0.025847509503364563
+trial_2	piribedil	341	KG00101472	Gamma-glutamyltransferase increased	0.025769446045160294
+trial_2	piribedil	153	KG00099579	lethargy	0.025720050558447838
+trial_2	piribedil	253	KG00100232	Pleural effusion NOS (disorder)	0.024858778342604637
+trial_2	piribedil	282	KG00099309	hypernatraemia	0.024771783500909805
+trial_2	piribedil	508	KG00108565	blood glucose increased	0.02472587488591671
+trial_2	piribedil	288	KG00101223	hypophosphataemia	0.024697506800293922
+trial_2	piribedil	300	KG00101064	xerostomia	0.024654200300574303
+trial_2	piribedil	154	KG00099686	Lymphopenias	0.02447890304028988
+trial_2	piribedil	98	KG00097718	Incised wound, NOS	0.02446523681282997
+trial_2	piribedil	163	KG00104050	bowel obstructions small	0.024411862716078758
+trial_2	piribedil	394	KG00100243	Pneumonia, Aspiration	0.024105815216898918
+trial_2	piribedil	242	KG00100855	tremors	0.02361300401389599
+trial_2	piribedil	361	KG00098004	Fibrillation, Atrial	0.02357679046690464
+trial_2	piribedil	142	KG00100923	Unspecified infectious and parasitic diseases	0.023368386551737785

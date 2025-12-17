@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1937112808227539
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1702493280172348
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15085890889167786
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.13601741194725037
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1303149163722992
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11940944194793701
+trial_1	placebo	68	KG00099901	nauseas	0.1182224303483963
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11496253311634064
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11166840046644211
+trial_1	placebo	46	KG00099121	Headache NOS	0.08327874541282654
+trial_1	placebo	20	KG00098540	dehydration	0.08294340968132019
+trial_1	placebo	21	KG00098675	dyspnoea	0.07956381887197495
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07505001127719879
+trial_1	placebo	228	KG00114657	Weight below normal	0.07211019843816757
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07148147374391556
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06895969063043594
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06064821034669876
+trial_1	placebo	132	KG00101045	Gain, Weight	0.059393420815467834
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05854353308677673
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05621902644634247
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05479304865002632
+trial_1	placebo	104	KG00097963	arthralgias	0.05266079306602478
+trial_1	placebo	102	KG00097916	anxieties	0.052344560623168945
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.05183859542012215
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0515514500439167
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05094992741942406
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04879150912165642
+trial_1	placebo	466	KG00101205	fall	0.04869024083018303
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04828890785574913
+trial_1	placebo	66	KG00098642	drowsiness	0.04756425693631172
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.046312399208545685
+trial_1	placebo	85	KG00098474	coughs	0.0458545908331871
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.0448194295167923
+trial_1	placebo	300	KG00101064	xerostomia	0.044293101876974106
+trial_1	placebo	262	KG00101199	agitation	0.04192766919732094
+trial_1	placebo	14	KG00097852	Anemia NOS	0.041756097227334976
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04157073423266411
+trial_1	placebo	114	KG00098933	fevers	0.04099658131599426
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0408707931637764
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.040634360164403915
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.040469445288181305
+trial_1	placebo	29	KG00099354	hyponatraemia	0.040298931300640106
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.040209315717220306
+trial_1	placebo	239	KG00100128	pareses	0.039967864751815796
+trial_1	placebo	126	KG00100076	Pain NOS	0.037531789392232895
+trial_1	placebo	116	KG00098964	Pain in foot	0.03643937036395073
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03606119379401207
+trial_1	placebo	242	KG00100855	tremors	0.0337606705725193
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03352696821093559
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03271571919322014
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03242412954568863
+trial_1	placebo	456	KG00099420	Influenzae	0.03204517439007759
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03193157538771629
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0319269560277462
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03147599846124649
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.030921535566449165
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.030700914561748505
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029957003891468048
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.029923884198069572
+trial_1	placebo	5	KG00099169	haematuria	0.029749294742941856
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029636148363351822
+trial_1	placebo	269	KG00100399	pyaemia	0.02938329055905342
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.02843129076063633
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02760208025574684
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027540581300854683
+trial_1	placebo	221	KG00101207	peripheral oedema	0.027047835290431976
+trial_1	placebo	147	KG00098000	atelectases	0.02702384814620018
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026275625452399254
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.025786107406020164
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.025674141943454742
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.025043724104762077
+trial_1	placebo	82	KG00097697	abdomen distended	0.024997811764478683
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024526145309209824
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02431367337703705
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023666536435484886
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02335994876921177
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.0229157917201519
+trial_1	placebo	203	KG00098661	dysarthrias	0.022556517273187637
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02208205685019493
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02207021415233612
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021598629653453827
+trial_1	placebo	234	KG00098669	dysgeusias	0.021551258862018585
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021187689155340195
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020795147866010666
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.020737826824188232
+trial_1	placebo	339	KG00100334	proteinurias	0.020319171249866486
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.0198636706918478
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.019813749939203262
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01978941820561886
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.019713090732693672
+trial_1	placebo	153	KG00099579	lethargy	0.01956910640001297
+trial_1	placebo	345	KG00103926	impairments memory	0.019518600776791573
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.019337935373187065
+trial_1	placebo	25	KG00099134	congestive failures heart	0.019327327609062195
+trial_1	placebo	342	KG00101570	intervals prolonged qt	0.019305679947137833
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.018680263310670853
+trial_1	placebo	136	KG00101582	Dry;skin	0.01863737963140011
+trial_1	placebo	382	KG00099200	haemorrhoids	0.01860874705016613
+trial_1	placebo	4	KG00098817	epistaxis	0.01846303418278694
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018431566655635834
+trial_2	pimavanserin	87	KG00098599	diarrhoea	0.1937112808227539
+trial_2	pimavanserin	78	KG00099326	Hypertensive diseases	0.1702493280172348
+trial_2	pimavanserin	9	KG00098432	Confusion NOS	0.15085890889167786
+trial_2	pimavanserin	79	KG00100317	Insomnia, Primary	0.13601741194725037
+trial_2	pimavanserin	17	KG00097991	Asthenia NOS	0.1303149163722992
+trial_2	pimavanserin	173	KG00098172	Bronchopneumonia NOS	0.11940944194793701
+trial_2	pimavanserin	68	KG00099901	nauseas	0.1182224303483963
+trial_2	pimavanserin	49	KG00099902	nausea with vomiting	0.11496253311634064
+trial_2	pimavanserin	77	KG00098450	Constipation NOS	0.11166840046644211
+trial_2	pimavanserin	46	KG00099121	Headache NOS	0.08327874541282654
+trial_2	pimavanserin	20	KG00098540	dehydration	0.08294340968132019
+trial_2	pimavanserin	21	KG00098675	dyspnoea	0.07956381887197495
+trial_2	pimavanserin	86	KG00098565	Depression, Mental	0.07505001127719879
+trial_2	pimavanserin	228	KG00114657	Weight below normal	0.07211019843816757
+trial_2	pimavanserin	177	KG00099299	hyperglycaemia	0.07148147374391556
+trial_2	pimavanserin	64	KG00097734	Acrodermatitis, NOS	0.06895969063043594
+trial_2	pimavanserin	101	KG00097901	Anorexia NOS	0.06064821034669876
+trial_2	pimavanserin	132	KG00101045	Gain, Weight	0.059393420815467834
+trial_2	pimavanserin	123	KG00099351	hypokalaemia	0.05854353308677673
+trial_2	pimavanserin	151	KG00098274	Infarction, Cerebral	0.05621902644634247
+trial_2	pimavanserin	37	KG00097696	Cramps, Abdominal	0.05479304865002632
+trial_2	pimavanserin	104	KG00097963	arthralgias	0.05266079306602478
+trial_2	pimavanserin	102	KG00097916	anxieties	0.052344560623168945
+trial_2	pimavanserin	131	KG00100948	Urinary tract infection (& [NOS])	0.05183859542012215
+trial_2	pimavanserin	189	KG00101580	Alanine aminotransferase increase	0.0515514500439167
+trial_2	pimavanserin	67	KG00098673	Dyspepsia, NOS	0.05094992741942406
+trial_2	pimavanserin	200	KG00098539	Disorders, Deglutition	0.04879150912165642
+trial_2	pimavanserin	466	KG00101205	fall	0.04869024083018303
+trial_2	pimavanserin	30	KG00099500	Acute Kidney Failure	0.04828890785574913
+trial_2	pimavanserin	66	KG00098642	drowsiness	0.04756425693631172
+trial_2	pimavanserin	76	KG00100450	Respiratory insufficiency, NOS	0.046312399208545685
+trial_2	pimavanserin	85	KG00098474	coughs	0.0458545908331871
+trial_2	pimavanserin	199	KG00098371	Rhinitis (chronic) NOS	0.0448194295167923
+trial_2	pimavanserin	300	KG00101064	xerostomia	0.044293101876974106
+trial_2	pimavanserin	262	KG00101199	agitation	0.04192766919732094
+trial_2	pimavanserin	14	KG00097852	Anemia NOS	0.041756097227334976
+trial_2	pimavanserin	61	KG00099501	Chronic Kidney Failure	0.04157073423266411
+trial_2	pimavanserin	114	KG00098933	fevers	0.04099658131599426
+trial_2	pimavanserin	11	KG00097993	Asthma NOS	0.0408707931637764
+trial_2	pimavanserin	139	KG00098855	Sinusitis, Ethmoid	0.040634360164403915
+trial_2	pimavanserin	188	KG00101579	Aspartate aminotransferase increase	0.040469445288181305
+trial_2	pimavanserin	29	KG00099354	hyponatraemia	0.040298931300640106
+trial_2	pimavanserin	180	KG00099363	Hypotension NOS	0.040209315717220306
+trial_2	pimavanserin	239	KG00100128	pareses	0.039967864751815796
+trial_2	pimavanserin	126	KG00100076	Pain NOS	0.037531789392232895
+trial_2	pimavanserin	116	KG00098964	Pain in foot	0.03643937036395073
+trial_2	pimavanserin	28	KG00099347	hypoglycaemia	0.03606119379401207
+trial_2	pimavanserin	242	KG00100855	tremors	0.0337606705725193
+trial_2	pimavanserin	92	KG00100926	Infections, Upper Respiratory	0.03352696821093559
+trial_2	pimavanserin	422	KG00101429	Creatine phosphokinase increased	0.03271571919322014
+trial_2	pimavanserin	396	KG00100373	Embolism, Pulmonary	0.03242412954568863
+trial_2	pimavanserin	456	KG00099420	Influenzae	0.03204517439007759
+trial_2	pimavanserin	138	KG00098796	epidemic vomiting syndrome	0.03193157538771629
+trial_2	pimavanserin	18	KG00098307	Pain, Chest	0.0319269560277462
+trial_2	pimavanserin	96	KG00101679	Unattended death NOS	0.03147599846124649
+trial_2	pimavanserin	211	KG00100341	Pruritus NOS	0.030921535566449165
+trial_2	pimavanserin	243	KG00100947	Micturition frequency increased	0.030700914561748505
+trial_2	pimavanserin	441	KG00098262	cellulitis nos	0.029957003891468048
+trial_2	pimavanserin	394	KG00100243	Pneumonia, Aspiration	0.029923884198069572
+trial_2	pimavanserin	5	KG00099169	haematuria	0.029749294742941856
+trial_2	pimavanserin	204	KG00098849	Esophagitis, Peptic	0.029636148363351822
+trial_2	pimavanserin	269	KG00100399	pyaemia	0.02938329055905342
+trial_2	pimavanserin	225	KG00104032	Suicidal tendencies	0.02843129076063633
+trial_2	pimavanserin	38	KG00098066	Binocular vision disorders	0.02760208025574684
+trial_2	pimavanserin	286	KG00101110	Retention, Urinary	0.027540581300854683
+trial_2	pimavanserin	221	KG00101207	peripheral oedema	0.027047835290431976
+trial_2	pimavanserin	147	KG00098000	atelectases	0.02702384814620018
+trial_2	pimavanserin	69	KG00100082	Palpitations NOS	0.026275625452399254
+trial_2	pimavanserin	297	KG00099294	hypercholesterolaemia	0.025786107406020164
+trial_2	pimavanserin	75	KG00100195	Dolens, Phlegmasia Alba	0.025674141943454742
+trial_2	pimavanserin	118	KG00099011	Gastritis NOS	0.025043724104762077
+trial_2	pimavanserin	82	KG00097697	abdomen distended	0.024997811764478683
+trial_2	pimavanserin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024526145309209824
+trial_2	pimavanserin	350	KG00106765	decreased platelet count	0.02431367337703705
+trial_2	pimavanserin	36	KG00106434	Vision, Blurring Of	0.023666536435484886
+trial_2	pimavanserin	31	KG00099872	Infarction, Myocardial	0.02335994876921177
+trial_2	pimavanserin	98	KG00097718	Incised wound, NOS	0.0229157917201519
+trial_2	pimavanserin	203	KG00098661	dysarthrias	0.022556517273187637
+trial_2	pimavanserin	361	KG00098004	Fibrillation, Atrial	0.02208205685019493
+trial_2	pimavanserin	276	KG00099127	Arrest, Cardiac	0.02207021415233612
+trial_2	pimavanserin	191	KG00104055	Biliverdin increased	0.021598629653453827
+trial_2	pimavanserin	234	KG00098669	dysgeusias	0.021551258862018585
+trial_2	pimavanserin	15	KG00097882	Angina pectoris NOS	0.021187689155340195
+trial_2	pimavanserin	261	KG00101559	raised alkaline phosphatase	0.020795147866010666
+trial_2	pimavanserin	2	KG00100772	thrombocytopaenia	0.020737826824188232
+trial_2	pimavanserin	339	KG00100334	proteinurias	0.020319171249866486
+trial_2	pimavanserin	182	KG00100366	Disorders, Psychotic	0.0198636706918478
+trial_2	pimavanserin	356	KG00112623	Infectious Lung Disorders	0.019813749939203262
+trial_2	pimavanserin	454	KG00098286	Pain, Neck	0.01978941820561886
+trial_2	pimavanserin	152	KG00099402	INCONTINENCE NOS	0.019713090732693672
+trial_2	pimavanserin	153	KG00099579	lethargy	0.01956910640001297
+trial_2	pimavanserin	345	KG00103926	impairments memory	0.019518600776791573
+trial_2	pimavanserin	33	KG00100094	Pancreatitis NOS	0.019337935373187065
+trial_2	pimavanserin	25	KG00099134	congestive failures heart	0.019327327609062195
+trial_2	pimavanserin	342	KG00101570	intervals prolonged qt	0.019305679947137833
+trial_2	pimavanserin	371	KG00098517	Cystitis (NOS)	0.018680263310670853
+trial_2	pimavanserin	136	KG00101582	Dry;skin	0.01863737963140011
+trial_2	pimavanserin	382	KG00099200	haemorrhoids	0.01860874705016613
+trial_2	pimavanserin	4	KG00098817	epistaxis	0.01846303418278694
+trial_2	pimavanserin	130	KG00100683	Stomatitis NOS	0.018431566655635834

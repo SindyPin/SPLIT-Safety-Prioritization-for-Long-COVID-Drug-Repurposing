@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.21317818760871887
+trial_1	placebo	87	KG00098599	diarrhoea	0.20710361003875732
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1384836584329605
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13051821291446686
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11566364765167236
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11525604873895645
+trial_1	placebo	20	KG00098540	dehydration	0.11245723813772202
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10781559348106384
+trial_1	placebo	21	KG00098675	dyspnoea	0.10500704497098923
+trial_1	placebo	46	KG00099121	Headache NOS	0.10476212203502655
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09259049594402313
+trial_1	placebo	68	KG00099901	nauseas	0.09217273443937302
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0896483063697815
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08837142586708069
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08817083388566971
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08751063048839569
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08618003129959106
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08521350473165512
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08123084902763367
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07772275060415268
+trial_1	placebo	228	KG00114657	Weight below normal	0.07654723525047302
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07554300129413605
+trial_1	placebo	114	KG00098933	fevers	0.06957735866308212
+trial_1	placebo	126	KG00100076	Pain NOS	0.06793652474880219
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06714645028114319
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0647270455956459
+trial_1	placebo	72	KG00103771	myalgias	0.0635647252202034
+trial_1	placebo	5	KG00099169	haematuria	0.06240364909172058
+trial_1	placebo	85	KG00098474	coughs	0.06108739599585533
+trial_1	placebo	104	KG00097963	arthralgias	0.061006609350442886
+trial_1	placebo	86	KG00098565	Depression, Mental	0.059037305414676666
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.057356301695108414
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05707421898841858
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05596977099776268
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.055036500096321106
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05462031438946724
+trial_1	placebo	29	KG00099354	hyponatraemia	0.054248467087745667
+trial_1	placebo	239	KG00100128	pareses	0.0529971681535244
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05224345251917839
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05054846405982971
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05015118792653084
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.049385856837034225
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04918588697910309
+trial_1	placebo	147	KG00098000	atelectases	0.04641323536634445
+trial_1	placebo	116	KG00098964	Pain in foot	0.04585201293230057
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04526262357831001
+trial_1	placebo	102	KG00097916	anxieties	0.044944752007722855
+trial_1	placebo	18	KG00098307	Pain, Chest	0.043995343148708344
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.043889276683330536
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.043847933411598206
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04186561703681946
+trial_1	placebo	100	KG00097815	alopecias	0.0409117192029953
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03994564339518547
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03939896821975708
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03882754221558571
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03875277563929558
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.038481924682855606
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.037950001657009125
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03733311593532562
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03658834844827652
+trial_1	placebo	82	KG00097697	abdomen distended	0.036522816866636276
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03579635173082352
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03569551929831505
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03553551435470581
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03523678705096245
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03473208472132683
+trial_1	placebo	234	KG00098669	dysgeusias	0.034547969698905945
+trial_1	placebo	269	KG00100399	pyaemia	0.034298401325941086
+trial_1	placebo	262	KG00101199	agitation	0.03391529992222786
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03387364372611046
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03385041281580925
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03269591182470322
+trial_1	placebo	132	KG00101045	Gain, Weight	0.032211702316999435
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03208688646554947
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03188880532979965
+trial_1	placebo	441	KG00098262	cellulitis nos	0.031817398965358734
+trial_1	placebo	121	KG00099190	haemorrhage	0.031790271401405334
+trial_1	placebo	466	KG00101205	fall	0.03173607215285301
+trial_1	placebo	164	KG00108827	ileus colon	0.03142929822206497
+trial_1	placebo	153	KG00099579	lethargy	0.031298499554395676
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.031194472685456276
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03087734617292881
+trial_1	placebo	339	KG00100334	proteinurias	0.03078823909163475
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.030653655529022217
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030471982434391975
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.030313823372125626
+trial_1	placebo	154	KG00099686	Lymphopenias	0.030168911442160606
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.030017603188753128
+trial_1	placebo	212	KG00100576	shivers	0.029979683458805084
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.029889216646552086
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.029326649382710457
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02913501299917698
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.028865016996860504
+trial_1	placebo	454	KG00098286	Pain, Neck	0.028494661673903465
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0282537043094635
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.028107965365052223
+trial_1	placebo	136	KG00101582	Dry;skin	0.028036482632160187
+trial_1	placebo	382	KG00099200	haemorrhoids	0.027668975293636322
+trial_1	placebo	4	KG00098817	epistaxis	0.02616790682077408
+trial_1	placebo	186	KG00101431	creatinine increased	0.025723952800035477
+trial_2	phenyl aminosalicylate	78	KG00099326	Hypertensive diseases	0.21317818760871887
+trial_2	phenyl aminosalicylate	87	KG00098599	diarrhoea	0.20710361003875732
+trial_2	phenyl aminosalicylate	177	KG00099299	hyperglycaemia	0.1384836584329605
+trial_2	phenyl aminosalicylate	17	KG00097991	Asthenia NOS	0.13051821291446686
+trial_2	phenyl aminosalicylate	173	KG00098172	Bronchopneumonia NOS	0.11566364765167236
+trial_2	phenyl aminosalicylate	123	KG00099351	hypokalaemia	0.11525604873895645
+trial_2	phenyl aminosalicylate	20	KG00098540	dehydration	0.11245723813772202
+trial_2	phenyl aminosalicylate	37	KG00097696	Cramps, Abdominal	0.10781559348106384
+trial_2	phenyl aminosalicylate	21	KG00098675	dyspnoea	0.10500704497098923
+trial_2	phenyl aminosalicylate	46	KG00099121	Headache NOS	0.10476212203502655
+trial_2	phenyl aminosalicylate	79	KG00100317	Insomnia, Primary	0.09259049594402313
+trial_2	phenyl aminosalicylate	68	KG00099901	nauseas	0.09217273443937302
+trial_2	phenyl aminosalicylate	49	KG00099902	nausea with vomiting	0.0896483063697815
+trial_2	phenyl aminosalicylate	67	KG00098673	Dyspepsia, NOS	0.08837142586708069
+trial_2	phenyl aminosalicylate	9	KG00098432	Confusion NOS	0.08817083388566971
+trial_2	phenyl aminosalicylate	14	KG00097852	Anemia NOS	0.08751063048839569
+trial_2	phenyl aminosalicylate	189	KG00101580	Alanine aminotransferase increase	0.08618003129959106
+trial_2	phenyl aminosalicylate	200	KG00098539	Disorders, Deglutition	0.08521350473165512
+trial_2	phenyl aminosalicylate	64	KG00097734	Acrodermatitis, NOS	0.08123084902763367
+trial_2	phenyl aminosalicylate	77	KG00098450	Constipation NOS	0.07772275060415268
+trial_2	phenyl aminosalicylate	228	KG00114657	Weight below normal	0.07654723525047302
+trial_2	phenyl aminosalicylate	188	KG00101579	Aspartate aminotransferase increase	0.07554300129413605
+trial_2	phenyl aminosalicylate	114	KG00098933	fevers	0.06957735866308212
+trial_2	phenyl aminosalicylate	126	KG00100076	Pain NOS	0.06793652474880219
+trial_2	phenyl aminosalicylate	2	KG00100772	thrombocytopaenia	0.06714645028114319
+trial_2	phenyl aminosalicylate	350	KG00106765	decreased platelet count	0.0647270455956459
+trial_2	phenyl aminosalicylate	72	KG00103771	myalgias	0.0635647252202034
+trial_2	phenyl aminosalicylate	5	KG00099169	haematuria	0.06240364909172058
+trial_2	phenyl aminosalicylate	85	KG00098474	coughs	0.06108739599585533
+trial_2	phenyl aminosalicylate	104	KG00097963	arthralgias	0.061006609350442886
+trial_2	phenyl aminosalicylate	86	KG00098565	Depression, Mental	0.059037305414676666
+trial_2	phenyl aminosalicylate	28	KG00099347	hypoglycaemia	0.057356301695108414
+trial_2	phenyl aminosalicylate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05707421898841858
+trial_2	phenyl aminosalicylate	243	KG00100947	Micturition frequency increased	0.05596977099776268
+trial_2	phenyl aminosalicylate	180	KG00099363	Hypotension NOS	0.055036500096321106
+trial_2	phenyl aminosalicylate	101	KG00097901	Anorexia NOS	0.05462031438946724
+trial_2	phenyl aminosalicylate	29	KG00099354	hyponatraemia	0.054248467087745667
+trial_2	phenyl aminosalicylate	239	KG00100128	pareses	0.0529971681535244
+trial_2	phenyl aminosalicylate	139	KG00098855	Sinusitis, Ethmoid	0.05224345251917839
+trial_2	phenyl aminosalicylate	122	KG00099321	Hypersensitivity NOS	0.05054846405982971
+trial_2	phenyl aminosalicylate	76	KG00100450	Respiratory insufficiency, NOS	0.05015118792653084
+trial_2	phenyl aminosalicylate	179	KG00099342	hypocalcaemia	0.049385856837034225
+trial_2	phenyl aminosalicylate	27	KG00099303	hyperkalaemia	0.04918588697910309
+trial_2	phenyl aminosalicylate	147	KG00098000	atelectases	0.04641323536634445
+trial_2	phenyl aminosalicylate	116	KG00098964	Pain in foot	0.04585201293230057
+trial_2	phenyl aminosalicylate	61	KG00099501	Chronic Kidney Failure	0.04526262357831001
+trial_2	phenyl aminosalicylate	102	KG00097916	anxieties	0.044944752007722855
+trial_2	phenyl aminosalicylate	18	KG00098307	Pain, Chest	0.043995343148708344
+trial_2	phenyl aminosalicylate	194	KG00110727	Neutrophil Count Decreased	0.043889276683330536
+trial_2	phenyl aminosalicylate	151	KG00098274	Infarction, Cerebral	0.043847933411598206
+trial_2	phenyl aminosalicylate	131	KG00100948	Urinary tract infection (& [NOS])	0.04186561703681946
+trial_2	phenyl aminosalicylate	100	KG00097815	alopecias	0.0409117192029953
+trial_2	phenyl aminosalicylate	38	KG00098066	Binocular vision disorders	0.03994564339518547
+trial_2	phenyl aminosalicylate	282	KG00099309	hypernatraemia	0.03939896821975708
+trial_2	phenyl aminosalicylate	355	KG00110857	lymphocyte count decreased	0.03882754221558571
+trial_2	phenyl aminosalicylate	396	KG00100373	Embolism, Pulmonary	0.03875277563929558
+trial_2	phenyl aminosalicylate	144	KG00099610	Leukopenia NOS	0.038481924682855606
+trial_2	phenyl aminosalicylate	96	KG00101679	Unattended death NOS	0.037950001657009125
+trial_2	phenyl aminosalicylate	69	KG00100082	Palpitations NOS	0.03733311593532562
+trial_2	phenyl aminosalicylate	276	KG00099127	Arrest, Cardiac	0.03658834844827652
+trial_2	phenyl aminosalicylate	82	KG00097697	abdomen distended	0.036522816866636276
+trial_2	phenyl aminosalicylate	261	KG00101559	raised alkaline phosphatase	0.03579635173082352
+trial_2	phenyl aminosalicylate	92	KG00100926	Infections, Upper Respiratory	0.03569551929831505
+trial_2	phenyl aminosalicylate	253	KG00100232	Pleural effusion NOS (disorder)	0.03553551435470581
+trial_2	phenyl aminosalicylate	142	KG00100923	Unspecified infectious and parasitic diseases	0.03523678705096245
+trial_2	phenyl aminosalicylate	30	KG00099500	Acute Kidney Failure	0.03473208472132683
+trial_2	phenyl aminosalicylate	234	KG00098669	dysgeusias	0.034547969698905945
+trial_2	phenyl aminosalicylate	269	KG00100399	pyaemia	0.034298401325941086
+trial_2	phenyl aminosalicylate	262	KG00101199	agitation	0.03391529992222786
+trial_2	phenyl aminosalicylate	508	KG00108565	blood glucose increased	0.03387364372611046
+trial_2	phenyl aminosalicylate	204	KG00098849	Esophagitis, Peptic	0.03385041281580925
+trial_2	phenyl aminosalicylate	1	KG00099959	Neutropenia NOS	0.03269591182470322
+trial_2	phenyl aminosalicylate	132	KG00101045	Gain, Weight	0.032211702316999435
+trial_2	phenyl aminosalicylate	249	KG00104430	hypoalbuminaemia	0.03208688646554947
+trial_2	phenyl aminosalicylate	191	KG00104055	Biliverdin increased	0.03188880532979965
+trial_2	phenyl aminosalicylate	441	KG00098262	cellulitis nos	0.031817398965358734
+trial_2	phenyl aminosalicylate	121	KG00099190	haemorrhage	0.031790271401405334
+trial_2	phenyl aminosalicylate	466	KG00101205	fall	0.03173607215285301
+trial_2	phenyl aminosalicylate	164	KG00108827	ileus colon	0.03142929822206497
+trial_2	phenyl aminosalicylate	153	KG00099579	lethargy	0.031298499554395676
+trial_2	phenyl aminosalicylate	36	KG00106434	Vision, Blurring Of	0.031194472685456276
+trial_2	phenyl aminosalicylate	288	KG00101223	hypophosphataemia	0.03087734617292881
+trial_2	phenyl aminosalicylate	339	KG00100334	proteinurias	0.03078823909163475
+trial_2	phenyl aminosalicylate	75	KG00100195	Dolens, Phlegmasia Alba	0.030653655529022217
+trial_2	phenyl aminosalicylate	130	KG00100683	Stomatitis NOS	0.030471982434391975
+trial_2	phenyl aminosalicylate	341	KG00101472	Gamma-glutamyltransferase increased	0.030313823372125626
+trial_2	phenyl aminosalicylate	154	KG00099686	Lymphopenias	0.030168911442160606
+trial_2	phenyl aminosalicylate	97	KG00104198	LIVER ENZYME ELEVATED	0.030017603188753128
+trial_2	phenyl aminosalicylate	212	KG00100576	shivers	0.029979683458805084
+trial_2	phenyl aminosalicylate	35	KG00101507	hypomagnesaemia	0.029889216646552086
+trial_2	phenyl aminosalicylate	33	KG00100094	Pancreatitis NOS	0.029326649382710457
+trial_2	phenyl aminosalicylate	221	KG00101207	peripheral oedema	0.02913501299917698
+trial_2	phenyl aminosalicylate	211	KG00100341	Pruritus NOS	0.028865016996860504
+trial_2	phenyl aminosalicylate	454	KG00098286	Pain, Neck	0.028494661673903465
+trial_2	phenyl aminosalicylate	286	KG00101110	Retention, Urinary	0.0282537043094635
+trial_2	phenyl aminosalicylate	163	KG00104050	bowel obstructions small	0.028107965365052223
+trial_2	phenyl aminosalicylate	136	KG00101582	Dry;skin	0.028036482632160187
+trial_2	phenyl aminosalicylate	382	KG00099200	haemorrhoids	0.027668975293636322
+trial_2	phenyl aminosalicylate	4	KG00098817	epistaxis	0.02616790682077408
+trial_2	phenyl aminosalicylate	186	KG00101431	creatinine increased	0.025723952800035477

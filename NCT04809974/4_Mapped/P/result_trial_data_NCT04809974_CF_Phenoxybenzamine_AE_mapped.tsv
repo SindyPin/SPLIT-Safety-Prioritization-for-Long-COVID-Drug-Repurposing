@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14855323731899261
+trial_1	placebo	87	KG00098599	diarrhoea	0.10476164519786835
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08311373740434647
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08056595921516418
+trial_1	placebo	46	KG00099121	Headache NOS	0.07629936188459396
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07136144489049911
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07123222947120667
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06384651362895966
+trial_1	placebo	20	KG00098540	dehydration	0.059766944497823715
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.058438047766685486
+trial_1	placebo	68	KG00099901	nauseas	0.05783705785870552
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0560828372836113
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05572886765003204
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05468089133501053
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.054460685700178146
+trial_1	placebo	21	KG00098675	dyspnoea	0.05361241102218628
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05205195024609566
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04767508804798126
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04698953032493591
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04427550360560417
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0430859737098217
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04251266270875931
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0385199598968029
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.038201358169317245
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03815232217311859
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03764496371150017
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.037235770374536514
+trial_1	placebo	126	KG00100076	Pain NOS	0.03678160160779953
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0355854257941246
+trial_1	placebo	85	KG00098474	coughs	0.035510044544935226
+trial_1	placebo	104	KG00097963	arthralgias	0.034859638661146164
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0347834937274456
+trial_1	placebo	114	KG00098933	fevers	0.03471500054001808
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03432164341211319
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.033440493047237396
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03324276581406593
+trial_1	placebo	228	KG00114657	Weight below normal	0.03309079259634018
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.032743941992521286
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03242237865924835
+trial_1	placebo	121	KG00099190	haemorrhage	0.03226244077086449
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03199218958616257
+trial_1	placebo	262	KG00101199	agitation	0.03179461881518364
+trial_1	placebo	86	KG00098565	Depression, Mental	0.030977189540863037
+trial_1	placebo	239	KG00100128	pareses	0.03077751025557518
+trial_1	placebo	5	KG00099169	haematuria	0.03039080835878849
+trial_1	placebo	102	KG00097916	anxieties	0.029909953474998474
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029209312051534653
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0288980845361948
+trial_1	placebo	164	KG00108827	ileus colon	0.028177909553050995
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.027835538610816002
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027211006730794907
+trial_1	placebo	147	KG00098000	atelectases	0.02637951262295246
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026308640837669373
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026224391534924507
+trial_1	placebo	18	KG00098307	Pain, Chest	0.025148184970021248
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02497631497681141
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02432169020175934
+trial_1	placebo	300	KG00101064	xerostomia	0.0237321387976408
+trial_1	placebo	72	KG00103771	myalgias	0.023643488064408302
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02345805987715721
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02315654046833515
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.023080430924892426
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.022632217034697533
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02242247201502323
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022348590195178986
+trial_1	placebo	466	KG00101205	fall	0.02229163609445095
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0222055371850729
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02219523675739765
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02217290550470352
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02142481505870819
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02134830504655838
+trial_1	placebo	234	KG00098669	dysgeusias	0.021205952391028404
+trial_1	placebo	242	KG00100855	tremors	0.02101818099617958
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.020630935207009315
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02060932107269764
+trial_1	placebo	66	KG00098642	drowsiness	0.020352376624941826
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020348938181996346
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.0202313419431448
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02016967348754406
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020147964358329773
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019916661083698273
+trial_1	placebo	82	KG00097697	abdomen distended	0.01991119049489498
+trial_1	placebo	186	KG00101431	creatinine increased	0.019755173474550247
+trial_1	placebo	269	KG00100399	pyaemia	0.019645918160676956
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0195605531334877
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019374815747141838
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.019269952550530434
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019103605300188065
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0187776330858469
+trial_1	placebo	116	KG00098964	Pain in foot	0.018530119210481644
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.0184042826294899
+trial_1	placebo	153	KG00099579	lethargy	0.018182195723056793
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.018117208033800125
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018001621589064598
+trial_1	placebo	339	KG00100334	proteinurias	0.01797151193022728
+trial_1	placebo	100	KG00097815	alopecias	0.01792686991393566
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.017926443368196487
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01783445104956627
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.017713401466608047
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0175496656447649
+trial_2	phenoxybenzamine	78	KG00099326	Hypertensive diseases	0.14855323731899261
+trial_2	phenoxybenzamine	87	KG00098599	diarrhoea	0.10476164519786835
+trial_2	phenoxybenzamine	17	KG00097991	Asthenia NOS	0.08311373740434647
+trial_2	phenoxybenzamine	177	KG00099299	hyperglycaemia	0.08056595921516418
+trial_2	phenoxybenzamine	46	KG00099121	Headache NOS	0.07629936188459396
+trial_2	phenoxybenzamine	9	KG00098432	Confusion NOS	0.07136144489049911
+trial_2	phenoxybenzamine	123	KG00099351	hypokalaemia	0.07123222947120667
+trial_2	phenoxybenzamine	77	KG00098450	Constipation NOS	0.06384651362895966
+trial_2	phenoxybenzamine	20	KG00098540	dehydration	0.059766944497823715
+trial_2	phenoxybenzamine	49	KG00099902	nausea with vomiting	0.058438047766685486
+trial_2	phenoxybenzamine	68	KG00099901	nauseas	0.05783705785870552
+trial_2	phenoxybenzamine	79	KG00100317	Insomnia, Primary	0.0560828372836113
+trial_2	phenoxybenzamine	173	KG00098172	Bronchopneumonia NOS	0.05572886765003204
+trial_2	phenoxybenzamine	67	KG00098673	Dyspepsia, NOS	0.05468089133501053
+trial_2	phenoxybenzamine	189	KG00101580	Alanine aminotransferase increase	0.054460685700178146
+trial_2	phenoxybenzamine	21	KG00098675	dyspnoea	0.05361241102218628
+trial_2	phenoxybenzamine	200	KG00098539	Disorders, Deglutition	0.05205195024609566
+trial_2	phenoxybenzamine	188	KG00101579	Aspartate aminotransferase increase	0.04767508804798126
+trial_2	phenoxybenzamine	29	KG00099354	hyponatraemia	0.04698953032493591
+trial_2	phenoxybenzamine	37	KG00097696	Cramps, Abdominal	0.04427550360560417
+trial_2	phenoxybenzamine	180	KG00099363	Hypotension NOS	0.0430859737098217
+trial_2	phenoxybenzamine	350	KG00106765	decreased platelet count	0.04251266270875931
+trial_2	phenoxybenzamine	179	KG00099342	hypocalcaemia	0.0385199598968029
+trial_2	phenoxybenzamine	151	KG00098274	Infarction, Cerebral	0.038201358169317245
+trial_2	phenoxybenzamine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03815232217311859
+trial_2	phenoxybenzamine	243	KG00100947	Micturition frequency increased	0.03764496371150017
+trial_2	phenoxybenzamine	96	KG00101679	Unattended death NOS	0.037235770374536514
+trial_2	phenoxybenzamine	126	KG00100076	Pain NOS	0.03678160160779953
+trial_2	phenoxybenzamine	14	KG00097852	Anemia NOS	0.0355854257941246
+trial_2	phenoxybenzamine	85	KG00098474	coughs	0.035510044544935226
+trial_2	phenoxybenzamine	104	KG00097963	arthralgias	0.034859638661146164
+trial_2	phenoxybenzamine	64	KG00097734	Acrodermatitis, NOS	0.0347834937274456
+trial_2	phenoxybenzamine	114	KG00098933	fevers	0.03471500054001808
+trial_2	phenoxybenzamine	28	KG00099347	hypoglycaemia	0.03432164341211319
+trial_2	phenoxybenzamine	122	KG00099321	Hypersensitivity NOS	0.033440493047237396
+trial_2	phenoxybenzamine	76	KG00100450	Respiratory insufficiency, NOS	0.03324276581406593
+trial_2	phenoxybenzamine	228	KG00114657	Weight below normal	0.03309079259634018
+trial_2	phenoxybenzamine	61	KG00099501	Chronic Kidney Failure	0.032743941992521286
+trial_2	phenoxybenzamine	27	KG00099303	hyperkalaemia	0.03242237865924835
+trial_2	phenoxybenzamine	121	KG00099190	haemorrhage	0.03226244077086449
+trial_2	phenoxybenzamine	2	KG00100772	thrombocytopaenia	0.03199218958616257
+trial_2	phenoxybenzamine	262	KG00101199	agitation	0.03179461881518364
+trial_2	phenoxybenzamine	86	KG00098565	Depression, Mental	0.030977189540863037
+trial_2	phenoxybenzamine	239	KG00100128	pareses	0.03077751025557518
+trial_2	phenoxybenzamine	5	KG00099169	haematuria	0.03039080835878849
+trial_2	phenoxybenzamine	102	KG00097916	anxieties	0.029909953474998474
+trial_2	phenoxybenzamine	194	KG00110727	Neutrophil Count Decreased	0.029209312051534653
+trial_2	phenoxybenzamine	101	KG00097901	Anorexia NOS	0.0288980845361948
+trial_2	phenoxybenzamine	164	KG00108827	ileus colon	0.028177909553050995
+trial_2	phenoxybenzamine	142	KG00100923	Unspecified infectious and parasitic diseases	0.027835538610816002
+trial_2	phenoxybenzamine	355	KG00110857	lymphocyte count decreased	0.027211006730794907
+trial_2	phenoxybenzamine	147	KG00098000	atelectases	0.02637951262295246
+trial_2	phenoxybenzamine	30	KG00099500	Acute Kidney Failure	0.026308640837669373
+trial_2	phenoxybenzamine	132	KG00101045	Gain, Weight	0.026224391534924507
+trial_2	phenoxybenzamine	18	KG00098307	Pain, Chest	0.025148184970021248
+trial_2	phenoxybenzamine	261	KG00101559	raised alkaline phosphatase	0.02497631497681141
+trial_2	phenoxybenzamine	282	KG00099309	hypernatraemia	0.02432169020175934
+trial_2	phenoxybenzamine	300	KG00101064	xerostomia	0.0237321387976408
+trial_2	phenoxybenzamine	72	KG00103771	myalgias	0.023643488064408302
+trial_2	phenoxybenzamine	38	KG00098066	Binocular vision disorders	0.02345805987715721
+trial_2	phenoxybenzamine	36	KG00106434	Vision, Blurring Of	0.02315654046833515
+trial_2	phenoxybenzamine	144	KG00099610	Leukopenia NOS	0.023080430924892426
+trial_2	phenoxybenzamine	256	KG00100738	Tachycardia, Sinus	0.022632217034697533
+trial_2	phenoxybenzamine	249	KG00104430	hypoalbuminaemia	0.02242247201502323
+trial_2	phenoxybenzamine	276	KG00099127	Arrest, Cardiac	0.022348590195178986
+trial_2	phenoxybenzamine	466	KG00101205	fall	0.02229163609445095
+trial_2	phenoxybenzamine	154	KG00099686	Lymphopenias	0.0222055371850729
+trial_2	phenoxybenzamine	69	KG00100082	Palpitations NOS	0.02219523675739765
+trial_2	phenoxybenzamine	131	KG00100948	Urinary tract infection (& [NOS])	0.02217290550470352
+trial_2	phenoxybenzamine	35	KG00101507	hypomagnesaemia	0.02142481505870819
+trial_2	phenoxybenzamine	191	KG00104055	Biliverdin increased	0.02134830504655838
+trial_2	phenoxybenzamine	234	KG00098669	dysgeusias	0.021205952391028404
+trial_2	phenoxybenzamine	242	KG00100855	tremors	0.02101818099617958
+trial_2	phenoxybenzamine	422	KG00101429	Creatine phosphokinase increased	0.020630935207009315
+trial_2	phenoxybenzamine	139	KG00098855	Sinusitis, Ethmoid	0.02060932107269764
+trial_2	phenoxybenzamine	66	KG00098642	drowsiness	0.020352376624941826
+trial_2	phenoxybenzamine	31	KG00099872	Infarction, Myocardial	0.020348938181996346
+trial_2	phenoxybenzamine	341	KG00101472	Gamma-glutamyltransferase increased	0.0202313419431448
+trial_2	phenoxybenzamine	371	KG00098517	Cystitis (NOS)	0.02016967348754406
+trial_2	phenoxybenzamine	22	KG00098705	Edema (NOS)	0.020147964358329773
+trial_2	phenoxybenzamine	508	KG00108565	blood glucose increased	0.019916661083698273
+trial_2	phenoxybenzamine	82	KG00097697	abdomen distended	0.01991119049489498
+trial_2	phenoxybenzamine	186	KG00101431	creatinine increased	0.019755173474550247
+trial_2	phenoxybenzamine	269	KG00100399	pyaemia	0.019645918160676956
+trial_2	phenoxybenzamine	286	KG00101110	Retention, Urinary	0.0195605531334877
+trial_2	phenoxybenzamine	92	KG00100926	Infections, Upper Respiratory	0.019374815747141838
+trial_2	phenoxybenzamine	396	KG00100373	Embolism, Pulmonary	0.019269952550530434
+trial_2	phenoxybenzamine	130	KG00100683	Stomatitis NOS	0.019103605300188065
+trial_2	phenoxybenzamine	394	KG00100243	Pneumonia, Aspiration	0.0187776330858469
+trial_2	phenoxybenzamine	116	KG00098964	Pain in foot	0.018530119210481644
+trial_2	phenoxybenzamine	288	KG00101223	hypophosphataemia	0.0184042826294899
+trial_2	phenoxybenzamine	153	KG00099579	lethargy	0.018182195723056793
+trial_2	phenoxybenzamine	246	KG00103338	Aspartate Aminotransferase Measurement	0.018117208033800125
+trial_2	phenoxybenzamine	15	KG00097882	Angina pectoris NOS	0.018001621589064598
+trial_2	phenoxybenzamine	339	KG00100334	proteinurias	0.01797151193022728
+trial_2	phenoxybenzamine	100	KG00097815	alopecias	0.01792686991393566
+trial_2	phenoxybenzamine	166	KG00099773	menopausal syndrome	0.017926443368196487
+trial_2	phenoxybenzamine	33	KG00100094	Pancreatitis NOS	0.01783445104956627
+trial_2	phenoxybenzamine	211	KG00100341	Pruritus NOS	0.017713401466608047
+trial_2	phenoxybenzamine	361	KG00098004	Fibrillation, Atrial	0.0175496656447649

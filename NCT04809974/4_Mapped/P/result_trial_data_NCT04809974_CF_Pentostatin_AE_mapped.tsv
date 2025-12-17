@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18631356954574585
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.16705496609210968
+trial_1	placebo	123	KG00099351	hypokalaemia	0.14858657121658325
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13261692225933075
+trial_1	placebo	21	KG00098675	dyspnoea	0.12852920591831207
+trial_1	placebo	14	KG00097852	Anemia NOS	0.12232829630374908
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.12120000272989273
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11998241394758224
+trial_1	placebo	46	KG00099121	Headache NOS	0.11313027143478394
+trial_1	placebo	20	KG00098540	dehydration	0.10961063206195831
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.1079782098531723
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1034431979060173
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09892328828573227
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09712883830070496
+trial_1	placebo	68	KG00099901	nauseas	0.08996414393186569
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08527713268995285
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08433189243078232
+trial_1	placebo	228	KG00114657	Weight below normal	0.07696247845888138
+trial_1	placebo	114	KG00098933	fevers	0.07626593858003616
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07454316318035126
+trial_1	placebo	126	KG00100076	Pain NOS	0.07352422177791595
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06831281632184982
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0673978179693222
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.06670530140399933
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06409278512001038
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.062085650861263275
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06154946982860565
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06076106056571007
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05983510613441467
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.057918258011341095
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05747976526618004
+trial_1	placebo	85	KG00098474	coughs	0.05727245658636093
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.056379642337560654
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05556337535381317
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05292390286922455
+trial_1	placebo	104	KG00097963	arthralgias	0.05126252770423889
+trial_1	placebo	147	KG00098000	atelectases	0.05108772590756416
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04894975572824478
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04853273928165436
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04758845269680023
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.047064755111932755
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04695243388414383
+trial_1	placebo	121	KG00099190	haemorrhage	0.0469236895442009
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04675915464758873
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04645004868507385
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.046430449932813644
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.046392422169446945
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04630622640252113
+trial_1	placebo	269	KG00100399	pyaemia	0.04529043659567833
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0450546070933342
+trial_1	placebo	154	KG00099686	Lymphopenias	0.044070128351449966
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04263526573777199
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0411800891160965
+trial_1	placebo	239	KG00100128	pareses	0.04000207781791687
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03985476493835449
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03971611335873604
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0396764799952507
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.038772422820329666
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03831784427165985
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03781178593635559
+trial_1	placebo	72	KG00103771	myalgias	0.03741709142923355
+trial_1	placebo	18	KG00098307	Pain, Chest	0.035866882652044296
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03580918163061142
+trial_1	placebo	186	KG00101431	creatinine increased	0.03554768115282059
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03521646559238434
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0351707898080349
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0345771349966526
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.034575119614601135
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.034226298332214355
+trial_1	placebo	5	KG00099169	haematuria	0.034035634249448776
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.033634912222623825
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03235046565532684
+trial_1	placebo	441	KG00098262	cellulitis nos	0.032241612672805786
+trial_1	placebo	82	KG00097697	abdomen distended	0.0319972038269043
+trial_1	placebo	164	KG00108827	ileus colon	0.0306767076253891
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03056967444717884
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.029523048549890518
+trial_1	placebo	116	KG00098964	Pain in foot	0.02945968136191368
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02873045578598976
+trial_1	placebo	212	KG00100576	shivers	0.028449617326259613
+trial_1	placebo	234	KG00098669	dysgeusias	0.027665087953209877
+trial_1	placebo	102	KG00097916	anxieties	0.027226300910115242
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.027196871116757393
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02709554135799408
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.02653270959854126
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.026477841660380363
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.026200449094176292
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.025936923921108246
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02559846080839634
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02471539005637169
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.024575870484113693
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02357877790927887
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023043449968099594
+trial_1	placebo	221	KG00101207	peripheral oedema	0.022936908528208733
+trial_1	placebo	135	KG00101549	bone pain	0.02281401865184307
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.022673748433589935
+trial_1	placebo	136	KG00101582	Dry;skin	0.02205885387957096
+trial_1	placebo	390	KG00100095	pancytopenias	0.021920939907431602
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021832847967743874
+trial_1	placebo	100	KG00097815	alopecias	0.021435746923089027
+trial_2	pentostatin	87	KG00098599	diarrhoea	0.18631356954574585
+trial_2	pentostatin	177	KG00099299	hyperglycaemia	0.16705496609210968
+trial_2	pentostatin	123	KG00099351	hypokalaemia	0.14858657121658325
+trial_2	pentostatin	9	KG00098432	Confusion NOS	0.13261692225933075
+trial_2	pentostatin	21	KG00098675	dyspnoea	0.12852920591831207
+trial_2	pentostatin	14	KG00097852	Anemia NOS	0.12232829630374908
+trial_2	pentostatin	2	KG00100772	thrombocytopaenia	0.12120000272989273
+trial_2	pentostatin	17	KG00097991	Asthenia NOS	0.11998241394758224
+trial_2	pentostatin	46	KG00099121	Headache NOS	0.11313027143478394
+trial_2	pentostatin	20	KG00098540	dehydration	0.10961063206195831
+trial_2	pentostatin	64	KG00097734	Acrodermatitis, NOS	0.1079782098531723
+trial_2	pentostatin	78	KG00099326	Hypertensive diseases	0.1034431979060173
+trial_2	pentostatin	173	KG00098172	Bronchopneumonia NOS	0.09892328828573227
+trial_2	pentostatin	37	KG00097696	Cramps, Abdominal	0.09712883830070496
+trial_2	pentostatin	68	KG00099901	nauseas	0.08996414393186569
+trial_2	pentostatin	76	KG00100450	Respiratory insufficiency, NOS	0.08527713268995285
+trial_2	pentostatin	49	KG00099902	nausea with vomiting	0.08433189243078232
+trial_2	pentostatin	228	KG00114657	Weight below normal	0.07696247845888138
+trial_2	pentostatin	114	KG00098933	fevers	0.07626593858003616
+trial_2	pentostatin	29	KG00099354	hyponatraemia	0.07454316318035126
+trial_2	pentostatin	126	KG00100076	Pain NOS	0.07352422177791595
+trial_2	pentostatin	189	KG00101580	Alanine aminotransferase increase	0.06831281632184982
+trial_2	pentostatin	61	KG00099501	Chronic Kidney Failure	0.0673978179693222
+trial_2	pentostatin	142	KG00100923	Unspecified infectious and parasitic diseases	0.06670530140399933
+trial_2	pentostatin	180	KG00099363	Hypotension NOS	0.06409278512001038
+trial_2	pentostatin	200	KG00098539	Disorders, Deglutition	0.062085650861263275
+trial_2	pentostatin	77	KG00098450	Constipation NOS	0.06154946982860565
+trial_2	pentostatin	350	KG00106765	decreased platelet count	0.06076106056571007
+trial_2	pentostatin	67	KG00098673	Dyspepsia, NOS	0.05983510613441467
+trial_2	pentostatin	96	KG00101679	Unattended death NOS	0.057918258011341095
+trial_2	pentostatin	144	KG00099610	Leukopenia NOS	0.05747976526618004
+trial_2	pentostatin	85	KG00098474	coughs	0.05727245658636093
+trial_2	pentostatin	188	KG00101579	Aspartate aminotransferase increase	0.056379642337560654
+trial_2	pentostatin	27	KG00099303	hyperkalaemia	0.05556337535381317
+trial_2	pentostatin	79	KG00100317	Insomnia, Primary	0.05292390286922455
+trial_2	pentostatin	104	KG00097963	arthralgias	0.05126252770423889
+trial_2	pentostatin	147	KG00098000	atelectases	0.05108772590756416
+trial_2	pentostatin	179	KG00099342	hypocalcaemia	0.04894975572824478
+trial_2	pentostatin	1	KG00099959	Neutropenia NOS	0.04853273928165436
+trial_2	pentostatin	396	KG00100373	Embolism, Pulmonary	0.04758845269680023
+trial_2	pentostatin	122	KG00099321	Hypersensitivity NOS	0.047064755111932755
+trial_2	pentostatin	194	KG00110727	Neutrophil Count Decreased	0.04695243388414383
+trial_2	pentostatin	121	KG00099190	haemorrhage	0.0469236895442009
+trial_2	pentostatin	249	KG00104430	hypoalbuminaemia	0.04675915464758873
+trial_2	pentostatin	30	KG00099500	Acute Kidney Failure	0.04645004868507385
+trial_2	pentostatin	28	KG00099347	hypoglycaemia	0.046430449932813644
+trial_2	pentostatin	170	KG00108926	Neutropenia, Febrile	0.046392422169446945
+trial_2	pentostatin	101	KG00097901	Anorexia NOS	0.04630622640252113
+trial_2	pentostatin	269	KG00100399	pyaemia	0.04529043659567833
+trial_2	pentostatin	243	KG00100947	Micturition frequency increased	0.0450546070933342
+trial_2	pentostatin	154	KG00099686	Lymphopenias	0.044070128351449966
+trial_2	pentostatin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04263526573777199
+trial_2	pentostatin	131	KG00100948	Urinary tract infection (& [NOS])	0.0411800891160965
+trial_2	pentostatin	239	KG00100128	pareses	0.04000207781791687
+trial_2	pentostatin	35	KG00101507	hypomagnesaemia	0.03985476493835449
+trial_2	pentostatin	276	KG00099127	Arrest, Cardiac	0.03971611335873604
+trial_2	pentostatin	151	KG00098274	Infarction, Cerebral	0.0396764799952507
+trial_2	pentostatin	253	KG00100232	Pleural effusion NOS (disorder)	0.038772422820329666
+trial_2	pentostatin	86	KG00098565	Depression, Mental	0.03831784427165985
+trial_2	pentostatin	282	KG00099309	hypernatraemia	0.03781178593635559
+trial_2	pentostatin	72	KG00103771	myalgias	0.03741709142923355
+trial_2	pentostatin	18	KG00098307	Pain, Chest	0.035866882652044296
+trial_2	pentostatin	130	KG00100683	Stomatitis NOS	0.03580918163061142
+trial_2	pentostatin	186	KG00101431	creatinine increased	0.03554768115282059
+trial_2	pentostatin	288	KG00101223	hypophosphataemia	0.03521646559238434
+trial_2	pentostatin	355	KG00110857	lymphocyte count decreased	0.0351707898080349
+trial_2	pentostatin	191	KG00104055	Biliverdin increased	0.0345771349966526
+trial_2	pentostatin	361	KG00098004	Fibrillation, Atrial	0.034575119614601135
+trial_2	pentostatin	261	KG00101559	raised alkaline phosphatase	0.034226298332214355
+trial_2	pentostatin	5	KG00099169	haematuria	0.034035634249448776
+trial_2	pentostatin	75	KG00100195	Dolens, Phlegmasia Alba	0.033634912222623825
+trial_2	pentostatin	211	KG00100341	Pruritus NOS	0.03235046565532684
+trial_2	pentostatin	441	KG00098262	cellulitis nos	0.032241612672805786
+trial_2	pentostatin	82	KG00097697	abdomen distended	0.0319972038269043
+trial_2	pentostatin	164	KG00108827	ileus colon	0.0306767076253891
+trial_2	pentostatin	133	KG00101370	neuropathies sensory	0.03056967444717884
+trial_2	pentostatin	38	KG00098066	Binocular vision disorders	0.029523048549890518
+trial_2	pentostatin	116	KG00098964	Pain in foot	0.02945968136191368
+trial_2	pentostatin	356	KG00112623	Infectious Lung Disorders	0.02873045578598976
+trial_2	pentostatin	212	KG00100576	shivers	0.028449617326259613
+trial_2	pentostatin	234	KG00098669	dysgeusias	0.027665087953209877
+trial_2	pentostatin	102	KG00097916	anxieties	0.027226300910115242
+trial_2	pentostatin	494	KG00099838	Organ Failure, Multiple	0.027196871116757393
+trial_2	pentostatin	69	KG00100082	Palpitations NOS	0.02709554135799408
+trial_2	pentostatin	213	KG00100600	Infectious Skin Diseases	0.02653270959854126
+trial_2	pentostatin	254	KG00100774	Thrombosis NOS	0.026477841660380363
+trial_2	pentostatin	268	KG00099557	Heart Failure, Left-Sided	0.026200449094176292
+trial_2	pentostatin	139	KG00098855	Sinusitis, Ethmoid	0.025936923921108246
+trial_2	pentostatin	31	KG00099872	Infarction, Myocardial	0.02559846080839634
+trial_2	pentostatin	36	KG00106434	Vision, Blurring Of	0.02471539005637169
+trial_2	pentostatin	246	KG00103338	Aspartate Aminotransferase Measurement	0.024575870484113693
+trial_2	pentostatin	22	KG00098705	Edema (NOS)	0.02357877790927887
+trial_2	pentostatin	92	KG00100926	Infections, Upper Respiratory	0.023043449968099594
+trial_2	pentostatin	221	KG00101207	peripheral oedema	0.022936908528208733
+trial_2	pentostatin	135	KG00101549	bone pain	0.02281401865184307
+trial_2	pentostatin	183	KG00100449	Adult Respiratory Distress Syndrome	0.022673748433589935
+trial_2	pentostatin	136	KG00101582	Dry;skin	0.02205885387957096
+trial_2	pentostatin	390	KG00100095	pancytopenias	0.021920939907431602
+trial_2	pentostatin	286	KG00101110	Retention, Urinary	0.021832847967743874
+trial_2	pentostatin	100	KG00097815	alopecias	0.021435746923089027

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.07424197345972061
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06398845463991165
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0624055415391922
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04781297966837883
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0469326488673687
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.038919731974601746
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.038591571152210236
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03833466395735741
+trial_1	placebo	46	KG00099121	Headache NOS	0.03789624944329262
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.035387877374887466
+trial_1	placebo	269	KG00100399	pyaemia	0.03462756425142288
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.034213822335004807
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03325881436467171
+trial_1	placebo	68	KG00099901	nauseas	0.03279510885477066
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03263184800744057
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.032051488757133484
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03111766278743744
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03054555505514145
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0304111298173666
+trial_1	placebo	147	KG00098000	atelectases	0.028781762346625328
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.028691425919532776
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.028531698510050774
+trial_1	placebo	21	KG00098675	dyspnoea	0.028294267132878304
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02759368158876896
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.02424582839012146
+trial_1	placebo	29	KG00099354	hyponatraemia	0.024050194770097733
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02328142151236534
+trial_1	placebo	20	KG00098540	dehydration	0.022697290405631065
+trial_1	placebo	77	KG00098450	Constipation NOS	0.022083953022956848
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021605312824249268
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.021535519510507584
+trial_1	placebo	114	KG00098933	fevers	0.02040470764040947
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.020262431353330612
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.020065097138285637
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.019492004066705704
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01894262619316578
+trial_1	placebo	350	KG00106765	decreased platelet count	0.018085787072777748
+trial_1	placebo	441	KG00098262	cellulitis nos	0.017925411462783813
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017871933057904243
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.017630839720368385
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017421191558241844
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.01708102598786354
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.016799496486783028
+trial_1	placebo	164	KG00108827	ileus colon	0.016413144767284393
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.016374675557017326
+trial_1	placebo	85	KG00098474	coughs	0.01598023809492588
+trial_1	placebo	126	KG00100076	Pain NOS	0.015443665906786919
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.015427122823894024
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.01529610250145197
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.015262424945831299
+trial_1	placebo	5	KG00099169	haematuria	0.01511013600975275
+trial_1	placebo	104	KG00097963	arthralgias	0.014952955767512321
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.014638357795774937
+trial_1	placebo	228	KG00114657	Weight below normal	0.014518438838422298
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.014196837320923805
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014114555902779102
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01403259951621294
+trial_1	placebo	18	KG00098307	Pain, Chest	0.013764642179012299
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.013746063224971294
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.013596608303487301
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013390196487307549
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.013186151161789894
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.013166329823434353
+trial_1	placebo	25	KG00099134	congestive failures heart	0.012816151604056358
+trial_1	placebo	121	KG00099190	haemorrhage	0.01279778778553009
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.012687340378761292
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.012678200379014015
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.012562760151922703
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01234067976474762
+trial_1	placebo	186	KG00101431	creatinine increased	0.012250763364136219
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01225022692233324
+trial_1	placebo	234	KG00098669	dysgeusias	0.012027035467326641
+trial_1	placebo	82	KG00097697	abdomen distended	0.011878016404807568
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.011619317345321178
+trial_1	placebo	86	KG00098565	Depression, Mental	0.011474518105387688
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.011291773058474064
+trial_1	placebo	713	KG00107657	distressed respiratory	0.011270413175225258
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.011119993403553963
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.010947581380605698
+trial_1	placebo	102	KG00097916	anxieties	0.010489477775990963
+trial_1	placebo	282	KG00099309	hypernatraemia	0.010407812893390656
+trial_1	placebo	4	KG00098817	epistaxis	0.010333949699997902
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.010318180546164513
+trial_1	placebo	239	KG00100128	pareses	0.010297696106135845
+trial_1	placebo	398	KG00100580	Shock, Septic	0.010229659266769886
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01013106293976307
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.010101648047566414
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.009985069744288921
+trial_1	placebo	257	KG00100922	Erythema NOS	0.00998323131352663
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.009941335767507553
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.009837377816438675
+trial_1	placebo	221	KG00101207	peripheral oedema	0.009795288555324078
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.009791233576834202
+trial_1	placebo	149	KG00100192	phlebitides	0.009766733273863792
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.009695304557681084
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.009546018205583096
+trial_1	placebo	116	KG00098964	Pain in foot	0.009528226219117641
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.009405150078237057
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.009203780442476273
+trial_1	placebo	262	KG00101199	agitation	0.009112087078392506
+trial_2	piperacillin	87	KG00098599	diarrhoea	0.07424197345972061
+trial_2	piperacillin	9	KG00098432	Confusion NOS	0.06398845463991165
+trial_2	piperacillin	78	KG00099326	Hypertensive diseases	0.0624055415391922
+trial_2	piperacillin	61	KG00099501	Chronic Kidney Failure	0.04781297966837883
+trial_2	piperacillin	123	KG00099351	hypokalaemia	0.0469326488673687
+trial_2	piperacillin	30	KG00099500	Acute Kidney Failure	0.038919731974601746
+trial_2	piperacillin	173	KG00098172	Bronchopneumonia NOS	0.038591571152210236
+trial_2	piperacillin	189	KG00101580	Alanine aminotransferase increase	0.03833466395735741
+trial_2	piperacillin	46	KG00099121	Headache NOS	0.03789624944329262
+trial_2	piperacillin	76	KG00100450	Respiratory insufficiency, NOS	0.035387877374887466
+trial_2	piperacillin	269	KG00100399	pyaemia	0.03462756425142288
+trial_2	piperacillin	276	KG00099127	Arrest, Cardiac	0.034213822335004807
+trial_2	piperacillin	188	KG00101579	Aspartate aminotransferase increase	0.03325881436467171
+trial_2	piperacillin	68	KG00099901	nauseas	0.03279510885477066
+trial_2	piperacillin	151	KG00098274	Infarction, Cerebral	0.03263184800744057
+trial_2	piperacillin	177	KG00099299	hyperglycaemia	0.032051488757133484
+trial_2	piperacillin	14	KG00097852	Anemia NOS	0.03111766278743744
+trial_2	piperacillin	180	KG00099363	Hypotension NOS	0.03054555505514145
+trial_2	piperacillin	49	KG00099902	nausea with vomiting	0.0304111298173666
+trial_2	piperacillin	147	KG00098000	atelectases	0.028781762346625328
+trial_2	piperacillin	37	KG00097696	Cramps, Abdominal	0.028691425919532776
+trial_2	piperacillin	64	KG00097734	Acrodermatitis, NOS	0.028531698510050774
+trial_2	piperacillin	21	KG00098675	dyspnoea	0.028294267132878304
+trial_2	piperacillin	396	KG00100373	Embolism, Pulmonary	0.02759368158876896
+trial_2	piperacillin	17	KG00097991	Asthenia NOS	0.02424582839012146
+trial_2	piperacillin	29	KG00099354	hyponatraemia	0.024050194770097733
+trial_2	piperacillin	79	KG00100317	Insomnia, Primary	0.02328142151236534
+trial_2	piperacillin	20	KG00098540	dehydration	0.022697290405631065
+trial_2	piperacillin	77	KG00098450	Constipation NOS	0.022083953022956848
+trial_2	piperacillin	31	KG00099872	Infarction, Myocardial	0.021605312824249268
+trial_2	piperacillin	2	KG00100772	thrombocytopaenia	0.021535519510507584
+trial_2	piperacillin	114	KG00098933	fevers	0.02040470764040947
+trial_2	piperacillin	28	KG00099347	hypoglycaemia	0.020262431353330612
+trial_2	piperacillin	67	KG00098673	Dyspepsia, NOS	0.020065097138285637
+trial_2	piperacillin	96	KG00101679	Unattended death NOS	0.019492004066705704
+trial_2	piperacillin	361	KG00098004	Fibrillation, Atrial	0.01894262619316578
+trial_2	piperacillin	350	KG00106765	decreased platelet count	0.018085787072777748
+trial_2	piperacillin	441	KG00098262	cellulitis nos	0.017925411462783813
+trial_2	piperacillin	75	KG00100195	Dolens, Phlegmasia Alba	0.017871933057904243
+trial_2	piperacillin	27	KG00099303	hyperkalaemia	0.017630839720368385
+trial_2	piperacillin	69	KG00100082	Palpitations NOS	0.017421191558241844
+trial_2	piperacillin	200	KG00098539	Disorders, Deglutition	0.01708102598786354
+trial_2	piperacillin	253	KG00100232	Pleural effusion NOS (disorder)	0.016799496486783028
+trial_2	piperacillin	164	KG00108827	ileus colon	0.016413144767284393
+trial_2	piperacillin	131	KG00100948	Urinary tract infection (& [NOS])	0.016374675557017326
+trial_2	piperacillin	85	KG00098474	coughs	0.01598023809492588
+trial_2	piperacillin	126	KG00100076	Pain NOS	0.015443665906786919
+trial_2	piperacillin	142	KG00100923	Unspecified infectious and parasitic diseases	0.015427122823894024
+trial_2	piperacillin	494	KG00099838	Organ Failure, Multiple	0.01529610250145197
+trial_2	piperacillin	191	KG00104055	Biliverdin increased	0.015262424945831299
+trial_2	piperacillin	5	KG00099169	haematuria	0.01511013600975275
+trial_2	piperacillin	104	KG00097963	arthralgias	0.014952955767512321
+trial_2	piperacillin	268	KG00099557	Heart Failure, Left-Sided	0.014638357795774937
+trial_2	piperacillin	228	KG00114657	Weight below normal	0.014518438838422298
+trial_2	piperacillin	243	KG00100947	Micturition frequency increased	0.014196837320923805
+trial_2	piperacillin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014114555902779102
+trial_2	piperacillin	15	KG00097882	Angina pectoris NOS	0.01403259951621294
+trial_2	piperacillin	18	KG00098307	Pain, Chest	0.013764642179012299
+trial_2	piperacillin	35	KG00101507	hypomagnesaemia	0.013746063224971294
+trial_2	piperacillin	179	KG00099342	hypocalcaemia	0.013596608303487301
+trial_2	piperacillin	138	KG00098796	epidemic vomiting syndrome	0.013390196487307549
+trial_2	piperacillin	261	KG00101559	raised alkaline phosphatase	0.013186151161789894
+trial_2	piperacillin	130	KG00100683	Stomatitis NOS	0.013166329823434353
+trial_2	piperacillin	25	KG00099134	congestive failures heart	0.012816151604056358
+trial_2	piperacillin	121	KG00099190	haemorrhage	0.01279778778553009
+trial_2	piperacillin	211	KG00100341	Pruritus NOS	0.012687340378761292
+trial_2	piperacillin	883	KG00107760	Neonatal cardiorespiratory arrest	0.012678200379014015
+trial_2	piperacillin	394	KG00100243	Pneumonia, Aspiration	0.012562760151922703
+trial_2	piperacillin	249	KG00104430	hypoalbuminaemia	0.01234067976474762
+trial_2	piperacillin	186	KG00101431	creatinine increased	0.012250763364136219
+trial_2	piperacillin	11	KG00097993	Asthma NOS	0.01225022692233324
+trial_2	piperacillin	234	KG00098669	dysgeusias	0.012027035467326641
+trial_2	piperacillin	82	KG00097697	abdomen distended	0.011878016404807568
+trial_2	piperacillin	92	KG00100926	Infections, Upper Respiratory	0.011619317345321178
+trial_2	piperacillin	86	KG00098565	Depression, Mental	0.011474518105387688
+trial_2	piperacillin	183	KG00100449	Adult Respiratory Distress Syndrome	0.011291773058474064
+trial_2	piperacillin	713	KG00107657	distressed respiratory	0.011270413175225258
+trial_2	piperacillin	286	KG00101110	Retention, Urinary	0.011119993403553963
+trial_2	piperacillin	199	KG00098371	Rhinitis (chronic) NOS	0.010947581380605698
+trial_2	piperacillin	102	KG00097916	anxieties	0.010489477775990963
+trial_2	piperacillin	282	KG00099309	hypernatraemia	0.010407812893390656
+trial_2	piperacillin	4	KG00098817	epistaxis	0.010333949699997902
+trial_2	piperacillin	561	KG00104180	Diarrhoea, Clostridium difficile	0.010318180546164513
+trial_2	piperacillin	239	KG00100128	pareses	0.010297696106135845
+trial_2	piperacillin	398	KG00100580	Shock, Septic	0.010229659266769886
+trial_2	piperacillin	356	KG00112623	Infectious Lung Disorders	0.01013106293976307
+trial_2	piperacillin	33	KG00100094	Pancreatitis NOS	0.010101648047566414
+trial_2	piperacillin	422	KG00101429	Creatine phosphokinase increased	0.009985069744288921
+trial_2	piperacillin	257	KG00100922	Erythema NOS	0.00998323131352663
+trial_2	piperacillin	38	KG00098066	Binocular vision disorders	0.009941335767507553
+trial_2	piperacillin	118	KG00099011	Gastritis NOS	0.009837377816438675
+trial_2	piperacillin	221	KG00101207	peripheral oedema	0.009795288555324078
+trial_2	piperacillin	122	KG00099321	Hypersensitivity NOS	0.009791233576834202
+trial_2	piperacillin	149	KG00100192	phlebitides	0.009766733273863792
+trial_2	piperacillin	97	KG00104198	LIVER ENZYME ELEVATED	0.009695304557681084
+trial_2	piperacillin	101	KG00097901	Anorexia NOS	0.009546018205583096
+trial_2	piperacillin	116	KG00098964	Pain in foot	0.009528226219117641
+trial_2	piperacillin	144	KG00099610	Leukopenia NOS	0.009405150078237057
+trial_2	piperacillin	271	KG00103813	reflex bradycardia	0.009203780442476273
+trial_2	piperacillin	262	KG00101199	agitation	0.009112087078392506

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16011939942836761
+trial_1	placebo	87	KG00098599	diarrhoea	0.133980393409729
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11001301556825638
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0953618511557579
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09009485691785812
+trial_1	placebo	68	KG00099901	nauseas	0.08638912439346313
+trial_1	placebo	46	KG00099121	Headache NOS	0.08484701067209244
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08056920766830444
+trial_1	placebo	20	KG00098540	dehydration	0.07998236268758774
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07971776276826859
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0790548101067543
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07713231444358826
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06877721101045609
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06315360218286514
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06300404667854309
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06291228532791138
+trial_1	placebo	21	KG00098675	dyspnoea	0.0626266822218895
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05469411611557007
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.053579170256853104
+trial_1	placebo	228	KG00114657	Weight below normal	0.05140167474746704
+trial_1	placebo	114	KG00098933	fevers	0.04965689405798912
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.048828281462192535
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04842140153050423
+trial_1	placebo	86	KG00098565	Depression, Mental	0.047052737325429916
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04669547826051712
+trial_1	placebo	29	KG00099354	hyponatraemia	0.046360112726688385
+trial_1	placebo	104	KG00097963	arthralgias	0.0453120619058609
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04341471567749977
+trial_1	placebo	85	KG00098474	coughs	0.04244785010814667
+trial_1	placebo	14	KG00097852	Anemia NOS	0.042423032224178314
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04206076264381409
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.040949419140815735
+trial_1	placebo	126	KG00100076	Pain NOS	0.04061580449342728
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03934092819690704
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03928161785006523
+trial_1	placebo	239	KG00100128	pareses	0.03893577679991722
+trial_1	placebo	132	KG00101045	Gain, Weight	0.037790972739458084
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.037783101201057434
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03739349544048309
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.036267925053834915
+trial_1	placebo	5	KG00099169	haematuria	0.03577767685055733
+trial_1	placebo	72	KG00103771	myalgias	0.03518626466393471
+trial_1	placebo	262	KG00101199	agitation	0.03445729240775108
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03439772501587868
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03377925604581833
+trial_1	placebo	102	KG00097916	anxieties	0.03252393379807472
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03196776658296585
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03172260895371437
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03158672899007797
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.030383523553609848
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.029614131897687912
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.029185248538851738
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028919188305735588
+trial_1	placebo	164	KG00108827	ileus colon	0.027926510199904442
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027809742838144302
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.027779456228017807
+trial_1	placebo	116	KG00098964	Pain in foot	0.027193501591682434
+trial_1	placebo	466	KG00101205	fall	0.02692803554236889
+trial_1	placebo	147	KG00098000	atelectases	0.0266884732991457
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026687277480959892
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026463311165571213
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02597268484532833
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02592254802584648
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02538888528943062
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025148849934339523
+trial_1	placebo	82	KG00097697	abdomen distended	0.02503260038793087
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02490871585905552
+trial_1	placebo	242	KG00100855	tremors	0.024878598749637604
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024854015558958054
+trial_1	placebo	121	KG00099190	haemorrhage	0.024227801710367203
+trial_1	placebo	234	KG00098669	dysgeusias	0.02402208000421524
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023747926577925682
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023371145129203796
+trial_1	placebo	66	KG00098642	drowsiness	0.023017873987555504
+trial_1	placebo	100	KG00097815	alopecias	0.02301333285868168
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022832442075014114
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.022735491394996643
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022716930136084557
+trial_1	placebo	339	KG00100334	proteinurias	0.022573642432689667
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022360753268003464
+trial_1	placebo	300	KG00101064	xerostomia	0.021918317303061485
+trial_1	placebo	153	KG00099579	lethargy	0.021775076165795326
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021733954548835754
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021632811054587364
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02147594653069973
+trial_1	placebo	269	KG00100399	pyaemia	0.020976703613996506
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020971640944480896
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.020635636523365974
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02047874964773655
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02034802734851837
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020128797739744186
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0200969111174345
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02001846581697464
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019989939406514168
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019943639636039734
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.019810723140835762
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.019754596054553986
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01933978870511055
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019302118569612503
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01892969012260437
+trial_2	penbutolol	78	KG00099326	Hypertensive diseases	0.16011939942836761
+trial_2	penbutolol	87	KG00098599	diarrhoea	0.133980393409729
+trial_2	penbutolol	17	KG00097991	Asthenia NOS	0.11001301556825638
+trial_2	penbutolol	177	KG00099299	hyperglycaemia	0.0953618511557579
+trial_2	penbutolol	9	KG00098432	Confusion NOS	0.09009485691785812
+trial_2	penbutolol	68	KG00099901	nauseas	0.08638912439346313
+trial_2	penbutolol	46	KG00099121	Headache NOS	0.08484701067209244
+trial_2	penbutolol	173	KG00098172	Bronchopneumonia NOS	0.08056920766830444
+trial_2	penbutolol	20	KG00098540	dehydration	0.07998236268758774
+trial_2	penbutolol	79	KG00100317	Insomnia, Primary	0.07971776276826859
+trial_2	penbutolol	77	KG00098450	Constipation NOS	0.0790548101067543
+trial_2	penbutolol	49	KG00099902	nausea with vomiting	0.07713231444358826
+trial_2	penbutolol	123	KG00099351	hypokalaemia	0.06877721101045609
+trial_2	penbutolol	37	KG00097696	Cramps, Abdominal	0.06315360218286514
+trial_2	penbutolol	189	KG00101580	Alanine aminotransferase increase	0.06300404667854309
+trial_2	penbutolol	67	KG00098673	Dyspepsia, NOS	0.06291228532791138
+trial_2	penbutolol	21	KG00098675	dyspnoea	0.0626266822218895
+trial_2	penbutolol	200	KG00098539	Disorders, Deglutition	0.05469411611557007
+trial_2	penbutolol	188	KG00101579	Aspartate aminotransferase increase	0.053579170256853104
+trial_2	penbutolol	228	KG00114657	Weight below normal	0.05140167474746704
+trial_2	penbutolol	114	KG00098933	fevers	0.04965689405798912
+trial_2	penbutolol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.048828281462192535
+trial_2	penbutolol	350	KG00106765	decreased platelet count	0.04842140153050423
+trial_2	penbutolol	86	KG00098565	Depression, Mental	0.047052737325429916
+trial_2	penbutolol	151	KG00098274	Infarction, Cerebral	0.04669547826051712
+trial_2	penbutolol	29	KG00099354	hyponatraemia	0.046360112726688385
+trial_2	penbutolol	104	KG00097963	arthralgias	0.0453120619058609
+trial_2	penbutolol	101	KG00097901	Anorexia NOS	0.04341471567749977
+trial_2	penbutolol	85	KG00098474	coughs	0.04244785010814667
+trial_2	penbutolol	14	KG00097852	Anemia NOS	0.042423032224178314
+trial_2	penbutolol	180	KG00099363	Hypotension NOS	0.04206076264381409
+trial_2	penbutolol	243	KG00100947	Micturition frequency increased	0.040949419140815735
+trial_2	penbutolol	126	KG00100076	Pain NOS	0.04061580449342728
+trial_2	penbutolol	2	KG00100772	thrombocytopaenia	0.03934092819690704
+trial_2	penbutolol	122	KG00099321	Hypersensitivity NOS	0.03928161785006523
+trial_2	penbutolol	239	KG00100128	pareses	0.03893577679991722
+trial_2	penbutolol	132	KG00101045	Gain, Weight	0.037790972739458084
+trial_2	penbutolol	96	KG00101679	Unattended death NOS	0.037783101201057434
+trial_2	penbutolol	28	KG00099347	hypoglycaemia	0.03739349544048309
+trial_2	penbutolol	64	KG00097734	Acrodermatitis, NOS	0.036267925053834915
+trial_2	penbutolol	5	KG00099169	haematuria	0.03577767685055733
+trial_2	penbutolol	72	KG00103771	myalgias	0.03518626466393471
+trial_2	penbutolol	262	KG00101199	agitation	0.03445729240775108
+trial_2	penbutolol	76	KG00100450	Respiratory insufficiency, NOS	0.03439772501587868
+trial_2	penbutolol	194	KG00110727	Neutrophil Count Decreased	0.03377925604581833
+trial_2	penbutolol	102	KG00097916	anxieties	0.03252393379807472
+trial_2	penbutolol	179	KG00099342	hypocalcaemia	0.03196776658296585
+trial_2	penbutolol	27	KG00099303	hyperkalaemia	0.03172260895371437
+trial_2	penbutolol	61	KG00099501	Chronic Kidney Failure	0.03158672899007797
+trial_2	penbutolol	139	KG00098855	Sinusitis, Ethmoid	0.030383523553609848
+trial_2	penbutolol	38	KG00098066	Binocular vision disorders	0.029614131897687912
+trial_2	penbutolol	144	KG00099610	Leukopenia NOS	0.029185248538851738
+trial_2	penbutolol	18	KG00098307	Pain, Chest	0.028919188305735588
+trial_2	penbutolol	164	KG00108827	ileus colon	0.027926510199904442
+trial_2	penbutolol	131	KG00100948	Urinary tract infection (& [NOS])	0.027809742838144302
+trial_2	penbutolol	30	KG00099500	Acute Kidney Failure	0.027779456228017807
+trial_2	penbutolol	116	KG00098964	Pain in foot	0.027193501591682434
+trial_2	penbutolol	466	KG00101205	fall	0.02692803554236889
+trial_2	penbutolol	147	KG00098000	atelectases	0.0266884732991457
+trial_2	penbutolol	142	KG00100923	Unspecified infectious and parasitic diseases	0.026687277480959892
+trial_2	penbutolol	261	KG00101559	raised alkaline phosphatase	0.026463311165571213
+trial_2	penbutolol	355	KG00110857	lymphocyte count decreased	0.02597268484532833
+trial_2	penbutolol	69	KG00100082	Palpitations NOS	0.02592254802584648
+trial_2	penbutolol	92	KG00100926	Infections, Upper Respiratory	0.02538888528943062
+trial_2	penbutolol	1	KG00099959	Neutropenia NOS	0.025148849934339523
+trial_2	penbutolol	82	KG00097697	abdomen distended	0.02503260038793087
+trial_2	penbutolol	396	KG00100373	Embolism, Pulmonary	0.02490871585905552
+trial_2	penbutolol	242	KG00100855	tremors	0.024878598749637604
+trial_2	penbutolol	36	KG00106434	Vision, Blurring Of	0.024854015558958054
+trial_2	penbutolol	121	KG00099190	haemorrhage	0.024227801710367203
+trial_2	penbutolol	234	KG00098669	dysgeusias	0.02402208000421524
+trial_2	penbutolol	276	KG00099127	Arrest, Cardiac	0.023747926577925682
+trial_2	penbutolol	422	KG00101429	Creatine phosphokinase increased	0.023371145129203796
+trial_2	penbutolol	66	KG00098642	drowsiness	0.023017873987555504
+trial_2	penbutolol	100	KG00097815	alopecias	0.02301333285868168
+trial_2	penbutolol	154	KG00099686	Lymphopenias	0.022832442075014114
+trial_2	penbutolol	341	KG00101472	Gamma-glutamyltransferase increased	0.022735491394996643
+trial_2	penbutolol	282	KG00099309	hypernatraemia	0.022716930136084557
+trial_2	penbutolol	339	KG00100334	proteinurias	0.022573642432689667
+trial_2	penbutolol	508	KG00108565	blood glucose increased	0.022360753268003464
+trial_2	penbutolol	300	KG00101064	xerostomia	0.021918317303061485
+trial_2	penbutolol	153	KG00099579	lethargy	0.021775076165795326
+trial_2	penbutolol	204	KG00098849	Esophagitis, Peptic	0.021733954548835754
+trial_2	penbutolol	286	KG00101110	Retention, Urinary	0.021632811054587364
+trial_2	penbutolol	75	KG00100195	Dolens, Phlegmasia Alba	0.02147594653069973
+trial_2	penbutolol	269	KG00100399	pyaemia	0.020976703613996506
+trial_2	penbutolol	31	KG00099872	Infarction, Myocardial	0.020971640944480896
+trial_2	penbutolol	130	KG00100683	Stomatitis NOS	0.020635636523365974
+trial_2	penbutolol	256	KG00100738	Tachycardia, Sinus	0.02047874964773655
+trial_2	penbutolol	166	KG00099773	menopausal syndrome	0.02034802734851837
+trial_2	penbutolol	191	KG00104055	Biliverdin increased	0.020128797739744186
+trial_2	penbutolol	33	KG00100094	Pancreatitis NOS	0.0200969111174345
+trial_2	penbutolol	118	KG00099011	Gastritis NOS	0.02001846581697464
+trial_2	penbutolol	199	KG00098371	Rhinitis (chronic) NOS	0.019989939406514168
+trial_2	penbutolol	35	KG00101507	hypomagnesaemia	0.019943639636039734
+trial_2	penbutolol	97	KG00104198	LIVER ENZYME ELEVATED	0.019810723140835762
+trial_2	penbutolol	138	KG00098796	epidemic vomiting syndrome	0.019754596054553986
+trial_2	penbutolol	249	KG00104430	hypoalbuminaemia	0.01933978870511055
+trial_2	penbutolol	361	KG00098004	Fibrillation, Atrial	0.019302118569612503
+trial_2	penbutolol	11	KG00097993	Asthma NOS	0.01892969012260437

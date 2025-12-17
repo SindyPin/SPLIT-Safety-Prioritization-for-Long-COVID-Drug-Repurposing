@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.04498881846666336
+trial_1	placebo	87	KG00098599	diarrhoea	0.04127494990825653
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.03725922107696533
+trial_1	placebo	46	KG00099121	Headache NOS	0.03374679759144783
+trial_1	placebo	21	KG00098675	dyspnoea	0.03213060274720192
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.03204994276165962
+trial_1	placebo	9	KG00098432	Confusion NOS	0.029646199196577072
+trial_1	placebo	123	KG00099351	hypokalaemia	0.028979569673538208
+trial_1	placebo	14	KG00097852	Anemia NOS	0.027111027389764786
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.025783080607652664
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.024283338338136673
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.021874645724892616
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.021624935790896416
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.021233627572655678
+trial_1	placebo	126	KG00100076	Pain NOS	0.021230416372418404
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.020829791203141212
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.020805267617106438
+trial_1	placebo	20	KG00098540	dehydration	0.020588666200637817
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.020293835550546646
+trial_1	placebo	147	KG00098000	atelectases	0.019797831773757935
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.019283920526504517
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.019206222146749496
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019030775874853134
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.018315602093935013
+trial_1	placebo	77	KG00098450	Constipation NOS	0.01707526296377182
+trial_1	placebo	68	KG00099901	nauseas	0.017045101150870323
+trial_1	placebo	121	KG00099190	haemorrhage	0.016916712746024132
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.016853507608175278
+trial_1	placebo	269	KG00100399	pyaemia	0.01619032770395279
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.015756724402308464
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015587928704917431
+trial_1	placebo	441	KG00098262	cellulitis nos	0.015327044762670994
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.015290413983166218
+trial_1	placebo	114	KG00098933	fevers	0.015088018029928207
+trial_1	placebo	85	KG00098474	coughs	0.015067057684063911
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014790784567594528
+trial_1	placebo	29	KG00099354	hyponatraemia	0.014635076746344566
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.013886555097997189
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.013635808601975441
+trial_1	placebo	234	KG00098669	dysgeusias	0.013026478700339794
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.012835663743317127
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.012585660442709923
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.012416141107678413
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.012356213293969631
+trial_1	placebo	5	KG00099169	haematuria	0.012126896530389786
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.011861423030495644
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.011542312800884247
+trial_1	placebo	104	KG00097963	arthralgias	0.011456812731921673
+trial_1	placebo	18	KG00098307	Pain, Chest	0.011444905772805214
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.011310799978673458
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.010925413109362125
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.010306715033948421
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.010304229333996773
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.010241605341434479
+trial_1	placebo	86	KG00098565	Depression, Mental	0.010182558558881283
+trial_1	placebo	350	KG00106765	decreased platelet count	0.010061540640890598
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.010018407367169857
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.009969968348741531
+trial_1	placebo	228	KG00114657	Weight below normal	0.009941617958247662
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.009937183931469917
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.009873070754110813
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.00972477812319994
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.009660294279456139
+trial_1	placebo	136	KG00101582	Dry;skin	0.009307264350354671
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.009077557362616062
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.00900392234325409
+trial_1	placebo	4	KG00098817	epistaxis	0.008984443731606007
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.008840053342282772
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.00880176480859518
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.00859892275184393
+trial_1	placebo	53	KG00101550	Pain in eyes	0.008535630069673061
+trial_1	placebo	82	KG00097697	abdomen distended	0.008514128625392914
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.008448758162558079
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.008434968069195747
+trial_1	placebo	282	KG00099309	hypernatraemia	0.008397175930440426
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.00834267120808363
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.008298392407596111
+trial_1	placebo	239	KG00100128	pareses	0.008261367678642273
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.00822833925485611
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.008167477324604988
+trial_1	placebo	116	KG00098964	Pain in foot	0.00812997855246067
+trial_1	placebo	257	KG00100922	Erythema NOS	0.008042803034186363
+trial_1	placebo	102	KG00097916	anxieties	0.008023754693567753
+trial_1	placebo	72	KG00103771	myalgias	0.007932146079838276
+trial_1	placebo	164	KG00108827	ileus colon	0.007892309688031673
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.007785198278725147
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.007763033267110586
+trial_1	placebo	466	KG00101205	fall	0.0077585759572684765
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.007745108101516962
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.007679922040551901
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.00763812055811286
+trial_1	placebo	212	KG00100576	shivers	0.007617168594151735
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.007456492632627487
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.007148956414312124
+trial_1	placebo	154	KG00099686	Lymphopenias	0.007048814557492733
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.006989410612732172
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.0069798496551811695
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.006962826009839773
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.006958369631320238
+trial_1	placebo	11	KG00097993	Asthma NOS	0.006866076495498419
+trial_2	povidone	78	KG00099326	Hypertensive diseases	0.04498881846666336
+trial_2	povidone	87	KG00098599	diarrhoea	0.04127494990825653
+trial_2	povidone	177	KG00099299	hyperglycaemia	0.03725922107696533
+trial_2	povidone	46	KG00099121	Headache NOS	0.03374679759144783
+trial_2	povidone	21	KG00098675	dyspnoea	0.03213060274720192
+trial_2	povidone	173	KG00098172	Bronchopneumonia NOS	0.03204994276165962
+trial_2	povidone	9	KG00098432	Confusion NOS	0.029646199196577072
+trial_2	povidone	123	KG00099351	hypokalaemia	0.028979569673538208
+trial_2	povidone	14	KG00097852	Anemia NOS	0.027111027389764786
+trial_2	povidone	64	KG00097734	Acrodermatitis, NOS	0.025783080607652664
+trial_2	povidone	37	KG00097696	Cramps, Abdominal	0.024283338338136673
+trial_2	povidone	151	KG00098274	Infarction, Cerebral	0.021874645724892616
+trial_2	povidone	61	KG00099501	Chronic Kidney Failure	0.021624935790896416
+trial_2	povidone	180	KG00099363	Hypotension NOS	0.021233627572655678
+trial_2	povidone	126	KG00100076	Pain NOS	0.021230416372418404
+trial_2	povidone	2	KG00100772	thrombocytopaenia	0.020829791203141212
+trial_2	povidone	17	KG00097991	Asthenia NOS	0.020805267617106438
+trial_2	povidone	20	KG00098540	dehydration	0.020588666200637817
+trial_2	povidone	96	KG00101679	Unattended death NOS	0.020293835550546646
+trial_2	povidone	147	KG00098000	atelectases	0.019797831773757935
+trial_2	povidone	28	KG00099347	hypoglycaemia	0.019283920526504517
+trial_2	povidone	200	KG00098539	Disorders, Deglutition	0.019206222146749496
+trial_2	povidone	142	KG00100923	Unspecified infectious and parasitic diseases	0.019030775874853134
+trial_2	povidone	396	KG00100373	Embolism, Pulmonary	0.018315602093935013
+trial_2	povidone	77	KG00098450	Constipation NOS	0.01707526296377182
+trial_2	povidone	68	KG00099901	nauseas	0.017045101150870323
+trial_2	povidone	121	KG00099190	haemorrhage	0.016916712746024132
+trial_2	povidone	49	KG00099902	nausea with vomiting	0.016853507608175278
+trial_2	povidone	269	KG00100399	pyaemia	0.01619032770395279
+trial_2	povidone	67	KG00098673	Dyspepsia, NOS	0.015756724402308464
+trial_2	povidone	31	KG00099872	Infarction, Myocardial	0.015587928704917431
+trial_2	povidone	441	KG00098262	cellulitis nos	0.015327044762670994
+trial_2	povidone	76	KG00100450	Respiratory insufficiency, NOS	0.015290413983166218
+trial_2	povidone	114	KG00098933	fevers	0.015088018029928207
+trial_2	povidone	85	KG00098474	coughs	0.015067057684063911
+trial_2	povidone	361	KG00098004	Fibrillation, Atrial	0.014790784567594528
+trial_2	povidone	29	KG00099354	hyponatraemia	0.014635076746344566
+trial_2	povidone	79	KG00100317	Insomnia, Primary	0.013886555097997189
+trial_2	povidone	30	KG00099500	Acute Kidney Failure	0.013635808601975441
+trial_2	povidone	234	KG00098669	dysgeusias	0.013026478700339794
+trial_2	povidone	122	KG00099321	Hypersensitivity NOS	0.012835663743317127
+trial_2	povidone	38	KG00098066	Binocular vision disorders	0.012585660442709923
+trial_2	povidone	131	KG00100948	Urinary tract infection (& [NOS])	0.012416141107678413
+trial_2	povidone	276	KG00099127	Arrest, Cardiac	0.012356213293969631
+trial_2	povidone	5	KG00099169	haematuria	0.012126896530389786
+trial_2	povidone	69	KG00100082	Palpitations NOS	0.011861423030495644
+trial_2	povidone	179	KG00099342	hypocalcaemia	0.011542312800884247
+trial_2	povidone	104	KG00097963	arthralgias	0.011456812731921673
+trial_2	povidone	18	KG00098307	Pain, Chest	0.011444905772805214
+trial_2	povidone	27	KG00099303	hyperkalaemia	0.011310799978673458
+trial_2	povidone	75	KG00100195	Dolens, Phlegmasia Alba	0.010925413109362125
+trial_2	povidone	249	KG00104430	hypoalbuminaemia	0.010306715033948421
+trial_2	povidone	40	KG00098092	Blepharoconjunctivitis NOS	0.010304229333996773
+trial_2	povidone	268	KG00099557	Heart Failure, Left-Sided	0.010241605341434479
+trial_2	povidone	86	KG00098565	Depression, Mental	0.010182558558881283
+trial_2	povidone	350	KG00106765	decreased platelet count	0.010061540640890598
+trial_2	povidone	139	KG00098855	Sinusitis, Ethmoid	0.010018407367169857
+trial_2	povidone	1	KG00099959	Neutropenia NOS	0.009969968348741531
+trial_2	povidone	228	KG00114657	Weight below normal	0.009941617958247662
+trial_2	povidone	15	KG00097882	Angina pectoris NOS	0.009937183931469917
+trial_2	povidone	211	KG00100341	Pruritus NOS	0.009873070754110813
+trial_2	povidone	36	KG00106434	Vision, Blurring Of	0.00972477812319994
+trial_2	povidone	253	KG00100232	Pleural effusion NOS (disorder)	0.009660294279456139
+trial_2	povidone	136	KG00101582	Dry;skin	0.009307264350354671
+trial_2	povidone	92	KG00100926	Infections, Upper Respiratory	0.009077557362616062
+trial_2	povidone	130	KG00100683	Stomatitis NOS	0.00900392234325409
+trial_2	povidone	4	KG00098817	epistaxis	0.008984443731606007
+trial_2	povidone	243	KG00100947	Micturition frequency increased	0.008840053342282772
+trial_2	povidone	138	KG00098796	epidemic vomiting syndrome	0.00880176480859518
+trial_2	povidone	144	KG00099610	Leukopenia NOS	0.00859892275184393
+trial_2	povidone	53	KG00101550	Pain in eyes	0.008535630069673061
+trial_2	povidone	82	KG00097697	abdomen distended	0.008514128625392914
+trial_2	povidone	101	KG00097901	Anorexia NOS	0.008448758162558079
+trial_2	povidone	254	KG00100774	Thrombosis NOS	0.008434968069195747
+trial_2	povidone	282	KG00099309	hypernatraemia	0.008397175930440426
+trial_2	povidone	98	KG00097718	Incised wound, NOS	0.00834267120808363
+trial_2	povidone	286	KG00101110	Retention, Urinary	0.008298392407596111
+trial_2	povidone	239	KG00100128	pareses	0.008261367678642273
+trial_2	povidone	163	KG00104050	bowel obstructions small	0.00822833925485611
+trial_2	povidone	195	KG00097814	Atopic Rhinitis	0.008167477324604988
+trial_2	povidone	116	KG00098964	Pain in foot	0.00812997855246067
+trial_2	povidone	257	KG00100922	Erythema NOS	0.008042803034186363
+trial_2	povidone	102	KG00097916	anxieties	0.008023754693567753
+trial_2	povidone	72	KG00103771	myalgias	0.007932146079838276
+trial_2	povidone	164	KG00108827	ileus colon	0.007892309688031673
+trial_2	povidone	189	KG00101580	Alanine aminotransferase increase	0.007785198278725147
+trial_2	povidone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.007763033267110586
+trial_2	povidone	466	KG00101205	fall	0.0077585759572684765
+trial_2	povidone	204	KG00098849	Esophagitis, Peptic	0.007745108101516962
+trial_2	povidone	170	KG00108926	Neutropenia, Febrile	0.007679922040551901
+trial_2	povidone	194	KG00110727	Neutrophil Count Decreased	0.00763812055811286
+trial_2	povidone	212	KG00100576	shivers	0.007617168594151735
+trial_2	povidone	133	KG00101370	neuropathies sensory	0.007456492632627487
+trial_2	povidone	118	KG00099011	Gastritis NOS	0.007148956414312124
+trial_2	povidone	154	KG00099686	Lymphopenias	0.007048814557492733
+trial_2	povidone	199	KG00098371	Rhinitis (chronic) NOS	0.006989410612732172
+trial_2	povidone	213	KG00100600	Infectious Skin Diseases	0.0069798496551811695
+trial_2	povidone	288	KG00101223	hypophosphataemia	0.006962826009839773
+trial_2	povidone	188	KG00101579	Aspartate aminotransferase increase	0.006958369631320238
+trial_2	povidone	11	KG00097993	Asthma NOS	0.006866076495498419

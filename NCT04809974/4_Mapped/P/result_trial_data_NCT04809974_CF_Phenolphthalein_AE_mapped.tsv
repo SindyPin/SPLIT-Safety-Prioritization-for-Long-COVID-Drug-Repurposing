@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19339630007743835
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.16303090751171112
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13474170863628387
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12057282030582428
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11632578819990158
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.11286504566669464
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10415618121623993
+trial_1	placebo	21	KG00098675	dyspnoea	0.09904421865940094
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09608707576990128
+trial_1	placebo	20	KG00098540	dehydration	0.0948297530412674
+trial_1	placebo	46	KG00099121	Headache NOS	0.09469642490148544
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09353290498256683
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09217111766338348
+trial_1	placebo	68	KG00099901	nauseas	0.09043337404727936
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08791279792785645
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08716355264186859
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08610619604587555
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07949493080377579
+trial_1	placebo	114	KG00098933	fevers	0.07857844233512878
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07771001756191254
+trial_1	placebo	228	KG00114657	Weight below normal	0.07701735943555832
+trial_1	placebo	85	KG00098474	coughs	0.07224295288324356
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07099054008722305
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07056350260972977
+trial_1	placebo	126	KG00100076	Pain NOS	0.068937748670578
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06428169459104538
+trial_1	placebo	104	KG00097963	arthralgias	0.06270074844360352
+trial_1	placebo	72	KG00103771	myalgias	0.0584956519305706
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05564867705106735
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.052081722766160965
+trial_1	placebo	350	KG00106765	decreased platelet count	0.051915161311626434
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0513782799243927
+trial_1	placebo	239	KG00100128	pareses	0.05118636414408684
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04991418495774269
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04957938194274902
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04897268861532211
+trial_1	placebo	5	KG00099169	haematuria	0.04874420538544655
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04744962602853775
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04713389277458191
+trial_1	placebo	102	KG00097916	anxieties	0.04709383472800255
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04670161381363869
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04385918006300926
+trial_1	placebo	116	KG00098964	Pain in foot	0.04274142161011696
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04268115758895874
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.04135991632938385
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04120426997542381
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03941129520535469
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.038441482931375504
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03689148649573326
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03661590442061424
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03562553972005844
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03528976067900658
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.034837160259485245
+trial_1	placebo	147	KG00098000	atelectases	0.03471727669239044
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03348848223686218
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03344995155930519
+trial_1	placebo	136	KG00101582	Dry;skin	0.03331245481967926
+trial_1	placebo	262	KG00101199	agitation	0.03313331678509712
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03291347995400429
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03290073946118355
+trial_1	placebo	100	KG00097815	alopecias	0.03257904201745987
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03244880586862564
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03181944787502289
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.031122978776693344
+trial_1	placebo	221	KG00101207	peripheral oedema	0.031038429588079453
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030904868617653847
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03035273402929306
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03028649464249611
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02988351881504059
+trial_1	placebo	82	KG00097697	abdomen distended	0.029507258906960487
+trial_1	placebo	234	KG00098669	dysgeusias	0.029383698478341103
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02910635806620121
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02909744530916214
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.028482751920819283
+trial_1	placebo	269	KG00100399	pyaemia	0.028301646932959557
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02809797041118145
+trial_1	placebo	466	KG00101205	fall	0.028081445023417473
+trial_1	placebo	508	KG00108565	blood glucose increased	0.027958650141954422
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.027408592402935028
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027202624827623367
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02694765292108059
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02671867422759533
+trial_1	placebo	121	KG00099190	haemorrhage	0.026360394433140755
+trial_1	placebo	212	KG00100576	shivers	0.026246391236782074
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02624385617673397
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.025853022933006287
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025662250816822052
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.025659553706645966
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.025468993932008743
+trial_1	placebo	11	KG00097993	Asthma NOS	0.025441816076636314
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02512289769947529
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024877769872546196
+trial_1	placebo	454	KG00098286	Pain, Neck	0.024848053231835365
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.024275843054056168
+trial_1	placebo	456	KG00099420	Influenzae	0.02405482344329357
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02395598590373993
+trial_1	placebo	153	KG00099579	lethargy	0.023766066879034042
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02370401658117771
+trial_1	placebo	339	KG00100334	proteinurias	0.023679431527853012
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02345781773328781
+trial_2	phenolphthalein	87	KG00098599	diarrhoea	0.19339630007743835
+trial_2	phenolphthalein	78	KG00099326	Hypertensive diseases	0.16303090751171112
+trial_2	phenolphthalein	17	KG00097991	Asthenia NOS	0.13474170863628387
+trial_2	phenolphthalein	177	KG00099299	hyperglycaemia	0.12057282030582428
+trial_2	phenolphthalein	173	KG00098172	Bronchopneumonia NOS	0.11632578819990158
+trial_2	phenolphthalein	64	KG00097734	Acrodermatitis, NOS	0.11286504566669464
+trial_2	phenolphthalein	9	KG00098432	Confusion NOS	0.10415618121623993
+trial_2	phenolphthalein	21	KG00098675	dyspnoea	0.09904421865940094
+trial_2	phenolphthalein	79	KG00100317	Insomnia, Primary	0.09608707576990128
+trial_2	phenolphthalein	20	KG00098540	dehydration	0.0948297530412674
+trial_2	phenolphthalein	46	KG00099121	Headache NOS	0.09469642490148544
+trial_2	phenolphthalein	49	KG00099902	nausea with vomiting	0.09353290498256683
+trial_2	phenolphthalein	123	KG00099351	hypokalaemia	0.09217111766338348
+trial_2	phenolphthalein	68	KG00099901	nauseas	0.09043337404727936
+trial_2	phenolphthalein	77	KG00098450	Constipation NOS	0.08791279792785645
+trial_2	phenolphthalein	37	KG00097696	Cramps, Abdominal	0.08716355264186859
+trial_2	phenolphthalein	189	KG00101580	Alanine aminotransferase increase	0.08610619604587555
+trial_2	phenolphthalein	188	KG00101579	Aspartate aminotransferase increase	0.07949493080377579
+trial_2	phenolphthalein	114	KG00098933	fevers	0.07857844233512878
+trial_2	phenolphthalein	67	KG00098673	Dyspepsia, NOS	0.07771001756191254
+trial_2	phenolphthalein	228	KG00114657	Weight below normal	0.07701735943555832
+trial_2	phenolphthalein	85	KG00098474	coughs	0.07224295288324356
+trial_2	phenolphthalein	200	KG00098539	Disorders, Deglutition	0.07099054008722305
+trial_2	phenolphthalein	14	KG00097852	Anemia NOS	0.07056350260972977
+trial_2	phenolphthalein	126	KG00100076	Pain NOS	0.068937748670578
+trial_2	phenolphthalein	86	KG00098565	Depression, Mental	0.06428169459104538
+trial_2	phenolphthalein	104	KG00097963	arthralgias	0.06270074844360352
+trial_2	phenolphthalein	72	KG00103771	myalgias	0.0584956519305706
+trial_2	phenolphthalein	243	KG00100947	Micturition frequency increased	0.05564867705106735
+trial_2	phenolphthalein	101	KG00097901	Anorexia NOS	0.052081722766160965
+trial_2	phenolphthalein	350	KG00106765	decreased platelet count	0.051915161311626434
+trial_2	phenolphthalein	2	KG00100772	thrombocytopaenia	0.0513782799243927
+trial_2	phenolphthalein	239	KG00100128	pareses	0.05118636414408684
+trial_2	phenolphthalein	139	KG00098855	Sinusitis, Ethmoid	0.04991418495774269
+trial_2	phenolphthalein	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04957938194274902
+trial_2	phenolphthalein	180	KG00099363	Hypotension NOS	0.04897268861532211
+trial_2	phenolphthalein	5	KG00099169	haematuria	0.04874420538544655
+trial_2	phenolphthalein	122	KG00099321	Hypersensitivity NOS	0.04744962602853775
+trial_2	phenolphthalein	76	KG00100450	Respiratory insufficiency, NOS	0.04713389277458191
+trial_2	phenolphthalein	102	KG00097916	anxieties	0.04709383472800255
+trial_2	phenolphthalein	29	KG00099354	hyponatraemia	0.04670161381363869
+trial_2	phenolphthalein	151	KG00098274	Infarction, Cerebral	0.04385918006300926
+trial_2	phenolphthalein	116	KG00098964	Pain in foot	0.04274142161011696
+trial_2	phenolphthalein	179	KG00099342	hypocalcaemia	0.04268115758895874
+trial_2	phenolphthalein	211	KG00100341	Pruritus NOS	0.04135991632938385
+trial_2	phenolphthalein	131	KG00100948	Urinary tract infection (& [NOS])	0.04120426997542381
+trial_2	phenolphthalein	28	KG00099347	hypoglycaemia	0.03941129520535469
+trial_2	phenolphthalein	61	KG00099501	Chronic Kidney Failure	0.038441482931375504
+trial_2	phenolphthalein	132	KG00101045	Gain, Weight	0.03689148649573326
+trial_2	phenolphthalein	194	KG00110727	Neutrophil Count Decreased	0.03661590442061424
+trial_2	phenolphthalein	96	KG00101679	Unattended death NOS	0.03562553972005844
+trial_2	phenolphthalein	18	KG00098307	Pain, Chest	0.03528976067900658
+trial_2	phenolphthalein	261	KG00101559	raised alkaline phosphatase	0.034837160259485245
+trial_2	phenolphthalein	147	KG00098000	atelectases	0.03471727669239044
+trial_2	phenolphthalein	27	KG00099303	hyperkalaemia	0.03348848223686218
+trial_2	phenolphthalein	355	KG00110857	lymphocyte count decreased	0.03344995155930519
+trial_2	phenolphthalein	136	KG00101582	Dry;skin	0.03331245481967926
+trial_2	phenolphthalein	262	KG00101199	agitation	0.03313331678509712
+trial_2	phenolphthalein	38	KG00098066	Binocular vision disorders	0.03291347995400429
+trial_2	phenolphthalein	69	KG00100082	Palpitations NOS	0.03290073946118355
+trial_2	phenolphthalein	100	KG00097815	alopecias	0.03257904201745987
+trial_2	phenolphthalein	396	KG00100373	Embolism, Pulmonary	0.03244880586862564
+trial_2	phenolphthalein	282	KG00099309	hypernatraemia	0.03181944787502289
+trial_2	phenolphthalein	30	KG00099500	Acute Kidney Failure	0.031122978776693344
+trial_2	phenolphthalein	221	KG00101207	peripheral oedema	0.031038429588079453
+trial_2	phenolphthalein	191	KG00104055	Biliverdin increased	0.030904868617653847
+trial_2	phenolphthalein	92	KG00100926	Infections, Upper Respiratory	0.03035273402929306
+trial_2	phenolphthalein	130	KG00100683	Stomatitis NOS	0.03028649464249611
+trial_2	phenolphthalein	441	KG00098262	cellulitis nos	0.02988351881504059
+trial_2	phenolphthalein	82	KG00097697	abdomen distended	0.029507258906960487
+trial_2	phenolphthalein	234	KG00098669	dysgeusias	0.029383698478341103
+trial_2	phenolphthalein	204	KG00098849	Esophagitis, Peptic	0.02910635806620121
+trial_2	phenolphthalein	154	KG00099686	Lymphopenias	0.02909744530916214
+trial_2	phenolphthalein	142	KG00100923	Unspecified infectious and parasitic diseases	0.028482751920819283
+trial_2	phenolphthalein	269	KG00100399	pyaemia	0.028301646932959557
+trial_2	phenolphthalein	144	KG00099610	Leukopenia NOS	0.02809797041118145
+trial_2	phenolphthalein	466	KG00101205	fall	0.028081445023417473
+trial_2	phenolphthalein	508	KG00108565	blood glucose increased	0.027958650141954422
+trial_2	phenolphthalein	75	KG00100195	Dolens, Phlegmasia Alba	0.027408592402935028
+trial_2	phenolphthalein	249	KG00104430	hypoalbuminaemia	0.027202624827623367
+trial_2	phenolphthalein	253	KG00100232	Pleural effusion NOS (disorder)	0.02694765292108059
+trial_2	phenolphthalein	341	KG00101472	Gamma-glutamyltransferase increased	0.02671867422759533
+trial_2	phenolphthalein	121	KG00099190	haemorrhage	0.026360394433140755
+trial_2	phenolphthalein	212	KG00100576	shivers	0.026246391236782074
+trial_2	phenolphthalein	297	KG00099294	hypercholesterolaemia	0.02624385617673397
+trial_2	phenolphthalein	35	KG00101507	hypomagnesaemia	0.025853022933006287
+trial_2	phenolphthalein	1	KG00099959	Neutropenia NOS	0.025662250816822052
+trial_2	phenolphthalein	195	KG00097814	Atopic Rhinitis	0.025659553706645966
+trial_2	phenolphthalein	166	KG00099773	menopausal syndrome	0.025468993932008743
+trial_2	phenolphthalein	11	KG00097993	Asthma NOS	0.025441816076636314
+trial_2	phenolphthalein	276	KG00099127	Arrest, Cardiac	0.02512289769947529
+trial_2	phenolphthalein	36	KG00106434	Vision, Blurring Of	0.024877769872546196
+trial_2	phenolphthalein	454	KG00098286	Pain, Neck	0.024848053231835365
+trial_2	phenolphthalein	199	KG00098371	Rhinitis (chronic) NOS	0.024275843054056168
+trial_2	phenolphthalein	456	KG00099420	Influenzae	0.02405482344329357
+trial_2	phenolphthalein	98	KG00097718	Incised wound, NOS	0.02395598590373993
+trial_2	phenolphthalein	153	KG00099579	lethargy	0.023766066879034042
+trial_2	phenolphthalein	382	KG00099200	haemorrhoids	0.02370401658117771
+trial_2	phenolphthalein	339	KG00100334	proteinurias	0.023679431527853012
+trial_2	phenolphthalein	97	KG00104198	LIVER ENZYME ELEVATED	0.02345781773328781

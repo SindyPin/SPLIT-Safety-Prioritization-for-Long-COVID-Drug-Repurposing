@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20437468588352203
+trial_1	placebo	100	KG00097815	alopecias	0.19423720240592957
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.191043883562088
+trial_1	placebo	72	KG00103771	myalgias	0.1475655436515808
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13677316904067993
+trial_1	placebo	68	KG00099901	nauseas	0.13531208038330078
+trial_1	placebo	123	KG00099351	hypokalaemia	0.13425500690937042
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12134858220815659
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11288353055715561
+trial_1	placebo	114	KG00098933	fevers	0.11167316138744354
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1097031682729721
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.10800959169864655
+trial_1	placebo	20	KG00098540	dehydration	0.10520131140947342
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.10183863341808319
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10058464109897614
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.10008072853088379
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09855522215366364
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09756620973348618
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09373869001865387
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09328839927911758
+trial_1	placebo	21	KG00098675	dyspnoea	0.09243103116750717
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08904373645782471
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.08806977421045303
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.087721087038517
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.08640595525503159
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08217203617095947
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08029548823833466
+trial_1	placebo	46	KG00099121	Headache NOS	0.07372693717479706
+trial_1	placebo	126	KG00100076	Pain NOS	0.07355097681283951
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07188192754983902
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07090847194194794
+trial_1	placebo	85	KG00098474	coughs	0.06794138997793198
+trial_1	placebo	228	KG00114657	Weight below normal	0.06607051938772202
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.0657433345913887
+trial_1	placebo	234	KG00098669	dysgeusias	0.06484850496053696
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05830685421824455
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05699644982814789
+trial_1	placebo	121	KG00099190	haemorrhage	0.05383344367146492
+trial_1	placebo	104	KG00097963	arthralgias	0.053524889051914215
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0529278926551342
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.05223529413342476
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05189252272248268
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.051474206149578094
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05082995444536209
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05065004155039787
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04858899489045143
+trial_1	placebo	154	KG00099686	Lymphopenias	0.04739390313625336
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04734108969569206
+trial_1	placebo	4	KG00098817	epistaxis	0.04717451333999634
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.046621598303318024
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.046352654695510864
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04519417881965637
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04475460946559906
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.044081687927246094
+trial_1	placebo	181	KG00099943	Neuritis NOS	0.0426027774810791
+trial_1	placebo	212	KG00100576	shivers	0.04213191941380501
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04168124124407768
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04086584225296974
+trial_1	placebo	239	KG00100128	pareses	0.0407201312482357
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04034522548317909
+trial_1	placebo	147	KG00098000	atelectases	0.039569467306137085
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0390373095870018
+trial_1	placebo	5	KG00099169	haematuria	0.03837274760007858
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.038071274757385254
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03704119101166725
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03701448813080788
+trial_1	placebo	116	KG00098964	Pain in foot	0.03659834712743759
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03653762862086296
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.035831086337566376
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03535175323486328
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.035102345049381256
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03495781123638153
+trial_1	placebo	155	KG00099960	Neutrophile	0.03477560728788376
+trial_1	placebo	102	KG00097916	anxieties	0.03464429825544357
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.034226782619953156
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03194323927164078
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03087656758725643
+trial_1	placebo	164	KG00108827	ileus colon	0.030655577778816223
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03054622747004032
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.03029419109225273
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.02991335280239582
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02912346087396145
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.029004370793700218
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0278090201318264
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.027704861015081406
+trial_1	placebo	257	KG00100922	Erythema NOS	0.027689402922987938
+trial_1	placebo	136	KG00101582	Dry;skin	0.027680445462465286
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02734450437128544
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02703656256198883
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.02685793675482273
+trial_1	placebo	269	KG00100399	pyaemia	0.02617601864039898
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.025742948055267334
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.025733934715390205
+trial_1	placebo	186	KG00101431	creatinine increased	0.02508542500436306
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.0249246284365654
+trial_1	placebo	82	KG00097697	abdomen distended	0.024791225790977478
+trial_1	placebo	135	KG00101549	bone pain	0.024636663496494293
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.024287281557917595
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.024032820016145706
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023676704615354538
+trial_2	paclitaxel	87	KG00098599	diarrhoea	0.20437468588352203
+trial_2	paclitaxel	100	KG00097815	alopecias	0.19423720240592957
+trial_2	paclitaxel	17	KG00097991	Asthenia NOS	0.191043883562088
+trial_2	paclitaxel	72	KG00103771	myalgias	0.1475655436515808
+trial_2	paclitaxel	177	KG00099299	hyperglycaemia	0.13677316904067993
+trial_2	paclitaxel	68	KG00099901	nauseas	0.13531208038330078
+trial_2	paclitaxel	123	KG00099351	hypokalaemia	0.13425500690937042
+trial_2	paclitaxel	9	KG00098432	Confusion NOS	0.12134858220815659
+trial_2	paclitaxel	173	KG00098172	Bronchopneumonia NOS	0.11288353055715561
+trial_2	paclitaxel	114	KG00098933	fevers	0.11167316138744354
+trial_2	paclitaxel	14	KG00097852	Anemia NOS	0.1097031682729721
+trial_2	paclitaxel	1	KG00099959	Neutropenia NOS	0.10800959169864655
+trial_2	paclitaxel	20	KG00098540	dehydration	0.10520131140947342
+trial_2	paclitaxel	133	KG00101370	neuropathies sensory	0.10183863341808319
+trial_2	paclitaxel	79	KG00100317	Insomnia, Primary	0.10058464109897614
+trial_2	paclitaxel	64	KG00097734	Acrodermatitis, NOS	0.10008072853088379
+trial_2	paclitaxel	67	KG00098673	Dyspepsia, NOS	0.09855522215366364
+trial_2	paclitaxel	37	KG00097696	Cramps, Abdominal	0.09756620973348618
+trial_2	paclitaxel	2	KG00100772	thrombocytopaenia	0.09373869001865387
+trial_2	paclitaxel	78	KG00099326	Hypertensive diseases	0.09328839927911758
+trial_2	paclitaxel	21	KG00098675	dyspnoea	0.09243103116750717
+trial_2	paclitaxel	77	KG00098450	Constipation NOS	0.08904373645782471
+trial_2	paclitaxel	170	KG00108926	Neutropenia, Febrile	0.08806977421045303
+trial_2	paclitaxel	122	KG00099321	Hypersensitivity NOS	0.087721087038517
+trial_2	paclitaxel	144	KG00099610	Leukopenia NOS	0.08640595525503159
+trial_2	paclitaxel	49	KG00099902	nausea with vomiting	0.08217203617095947
+trial_2	paclitaxel	189	KG00101580	Alanine aminotransferase increase	0.08029548823833466
+trial_2	paclitaxel	46	KG00099121	Headache NOS	0.07372693717479706
+trial_2	paclitaxel	126	KG00100076	Pain NOS	0.07355097681283951
+trial_2	paclitaxel	200	KG00098539	Disorders, Deglutition	0.07188192754983902
+trial_2	paclitaxel	101	KG00097901	Anorexia NOS	0.07090847194194794
+trial_2	paclitaxel	85	KG00098474	coughs	0.06794138997793198
+trial_2	paclitaxel	228	KG00114657	Weight below normal	0.06607051938772202
+trial_2	paclitaxel	142	KG00100923	Unspecified infectious and parasitic diseases	0.0657433345913887
+trial_2	paclitaxel	234	KG00098669	dysgeusias	0.06484850496053696
+trial_2	paclitaxel	188	KG00101579	Aspartate aminotransferase increase	0.05830685421824455
+trial_2	paclitaxel	180	KG00099363	Hypotension NOS	0.05699644982814789
+trial_2	paclitaxel	121	KG00099190	haemorrhage	0.05383344367146492
+trial_2	paclitaxel	104	KG00097963	arthralgias	0.053524889051914215
+trial_2	paclitaxel	86	KG00098565	Depression, Mental	0.0529278926551342
+trial_2	paclitaxel	130	KG00100683	Stomatitis NOS	0.05223529413342476
+trial_2	paclitaxel	29	KG00099354	hyponatraemia	0.05189252272248268
+trial_2	paclitaxel	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.051474206149578094
+trial_2	paclitaxel	194	KG00110727	Neutrophil Count Decreased	0.05082995444536209
+trial_2	paclitaxel	243	KG00100947	Micturition frequency increased	0.05065004155039787
+trial_2	paclitaxel	350	KG00106765	decreased platelet count	0.04858899489045143
+trial_2	paclitaxel	154	KG00099686	Lymphopenias	0.04739390313625336
+trial_2	paclitaxel	18	KG00098307	Pain, Chest	0.04734108969569206
+trial_2	paclitaxel	4	KG00098817	epistaxis	0.04717451333999634
+trial_2	paclitaxel	69	KG00100082	Palpitations NOS	0.046621598303318024
+trial_2	paclitaxel	139	KG00098855	Sinusitis, Ethmoid	0.046352654695510864
+trial_2	paclitaxel	179	KG00099342	hypocalcaemia	0.04519417881965637
+trial_2	paclitaxel	28	KG00099347	hypoglycaemia	0.04475460946559906
+trial_2	paclitaxel	396	KG00100373	Embolism, Pulmonary	0.044081687927246094
+trial_2	paclitaxel	181	KG00099943	Neuritis NOS	0.0426027774810791
+trial_2	paclitaxel	212	KG00100576	shivers	0.04213191941380501
+trial_2	paclitaxel	441	KG00098262	cellulitis nos	0.04168124124407768
+trial_2	paclitaxel	36	KG00106434	Vision, Blurring Of	0.04086584225296974
+trial_2	paclitaxel	239	KG00100128	pareses	0.0407201312482357
+trial_2	paclitaxel	38	KG00098066	Binocular vision disorders	0.04034522548317909
+trial_2	paclitaxel	147	KG00098000	atelectases	0.039569467306137085
+trial_2	paclitaxel	76	KG00100450	Respiratory insufficiency, NOS	0.0390373095870018
+trial_2	paclitaxel	5	KG00099169	haematuria	0.03837274760007858
+trial_2	paclitaxel	151	KG00098274	Infarction, Cerebral	0.038071274757385254
+trial_2	paclitaxel	96	KG00101679	Unattended death NOS	0.03704119101166725
+trial_2	paclitaxel	249	KG00104430	hypoalbuminaemia	0.03701448813080788
+trial_2	paclitaxel	116	KG00098964	Pain in foot	0.03659834712743759
+trial_2	paclitaxel	221	KG00101207	peripheral oedema	0.03653762862086296
+trial_2	paclitaxel	131	KG00100948	Urinary tract infection (& [NOS])	0.035831086337566376
+trial_2	paclitaxel	92	KG00100926	Infections, Upper Respiratory	0.03535175323486328
+trial_2	paclitaxel	75	KG00100195	Dolens, Phlegmasia Alba	0.035102345049381256
+trial_2	paclitaxel	35	KG00101507	hypomagnesaemia	0.03495781123638153
+trial_2	paclitaxel	155	KG00099960	Neutrophile	0.03477560728788376
+trial_2	paclitaxel	102	KG00097916	anxieties	0.03464429825544357
+trial_2	paclitaxel	261	KG00101559	raised alkaline phosphatase	0.034226782619953156
+trial_2	paclitaxel	361	KG00098004	Fibrillation, Atrial	0.03194323927164078
+trial_2	paclitaxel	61	KG00099501	Chronic Kidney Failure	0.03087656758725643
+trial_2	paclitaxel	164	KG00108827	ileus colon	0.030655577778816223
+trial_2	paclitaxel	132	KG00101045	Gain, Weight	0.03054622747004032
+trial_2	paclitaxel	347	KG00104223	Mucosal ulcers	0.03029419109225273
+trial_2	paclitaxel	218	KG00100801	Tinnitus NOS	0.02991335280239582
+trial_2	paclitaxel	27	KG00099303	hyperkalaemia	0.02912346087396145
+trial_2	paclitaxel	355	KG00110857	lymphocyte count decreased	0.029004370793700218
+trial_2	paclitaxel	30	KG00099500	Acute Kidney Failure	0.0278090201318264
+trial_2	paclitaxel	22	KG00098705	Edema (NOS)	0.027704861015081406
+trial_2	paclitaxel	257	KG00100922	Erythema NOS	0.027689402922987938
+trial_2	paclitaxel	136	KG00101582	Dry;skin	0.027680445462465286
+trial_2	paclitaxel	204	KG00098849	Esophagitis, Peptic	0.02734450437128544
+trial_2	paclitaxel	195	KG00097814	Atopic Rhinitis	0.02703656256198883
+trial_2	paclitaxel	202	KG00098630	Disturbance of Skin Sensation	0.02685793675482273
+trial_2	paclitaxel	269	KG00100399	pyaemia	0.02617601864039898
+trial_2	paclitaxel	166	KG00099773	menopausal syndrome	0.025742948055267334
+trial_2	paclitaxel	89	KG00099301	Hyperhidrosis (disorder)	0.025733934715390205
+trial_2	paclitaxel	186	KG00101431	creatinine increased	0.02508542500436306
+trial_2	paclitaxel	211	KG00100341	Pruritus NOS	0.0249246284365654
+trial_2	paclitaxel	82	KG00097697	abdomen distended	0.024791225790977478
+trial_2	paclitaxel	135	KG00101549	bone pain	0.024636663496494293
+trial_2	paclitaxel	118	KG00099011	Gastritis NOS	0.024287281557917595
+trial_2	paclitaxel	138	KG00098796	epidemic vomiting syndrome	0.024032820016145706
+trial_2	paclitaxel	191	KG00104055	Biliverdin increased	0.023676704615354538

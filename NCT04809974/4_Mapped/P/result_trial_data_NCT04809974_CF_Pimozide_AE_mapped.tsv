@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15810227394104004
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15756262838840485
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13861264288425446
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11710960417985916
+trial_1	placebo	21	KG00098675	dyspnoea	0.09957148879766464
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09769219160079956
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0970197319984436
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09597171097993851
+trial_1	placebo	46	KG00099121	Headache NOS	0.09447553753852844
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09131986647844315
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08815483003854752
+trial_1	placebo	20	KG00098540	dehydration	0.08744675666093826
+trial_1	placebo	68	KG00099901	nauseas	0.08734778314828873
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08540955185890198
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08121956884860992
+trial_1	placebo	228	KG00114657	Weight below normal	0.07511689513921738
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06777846068143845
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06609950959682465
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06124721094965935
+trial_1	placebo	85	KG00098474	coughs	0.059078339487314224
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05799952521920204
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05750006437301636
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05690646916627884
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05620845407247543
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.055682744830846786
+trial_1	placebo	126	KG00100076	Pain NOS	0.05348691716790199
+trial_1	placebo	104	KG00097963	arthralgias	0.051455993205308914
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05139414221048355
+trial_1	placebo	300	KG00101064	xerostomia	0.05027720332145691
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05022633820772171
+trial_1	placebo	114	KG00098933	fevers	0.05002950131893158
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04981058090925217
+trial_1	placebo	66	KG00098642	drowsiness	0.04937509819865227
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04918983206152916
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0476343035697937
+trial_1	placebo	102	KG00097916	anxieties	0.04763127863407135
+trial_1	placebo	239	KG00100128	pareses	0.04619509354233742
+trial_1	placebo	14	KG00097852	Anemia NOS	0.045411475002765656
+trial_1	placebo	242	KG00100855	tremors	0.043055273592472076
+trial_1	placebo	262	KG00101199	agitation	0.042254749685525894
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04189159721136093
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04111124947667122
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04110845923423767
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03736406937241554
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0371362566947937
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.036467861384153366
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03566371649503708
+trial_1	placebo	5	KG00099169	haematuria	0.03554213419556618
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03546490892767906
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03450673073530197
+trial_1	placebo	466	KG00101205	fall	0.03344139829277992
+trial_1	placebo	116	KG00098964	Pain in foot	0.033347200602293015
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.031886931508779526
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03169910982251167
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03157844394445419
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.031549081206321716
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03076070174574852
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030370092019438744
+trial_1	placebo	72	KG00103771	myalgias	0.03019721619784832
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02961747534573078
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.028247112408280373
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02819341979920864
+trial_1	placebo	82	KG00097697	abdomen distended	0.02819325588643551
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.028035981580615044
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027317440137267113
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.027090515941381454
+trial_1	placebo	234	KG00098669	dysgeusias	0.02678069844841957
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026441195979714394
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.026351578533649445
+trial_1	placebo	136	KG00101582	Dry;skin	0.026338234543800354
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026250144466757774
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026172349229454994
+trial_1	placebo	147	KG00098000	atelectases	0.02605992741882801
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.0253945030272007
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.025385452434420586
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.024817107245326042
+trial_1	placebo	186	KG00101431	creatinine increased	0.024626491591334343
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.024404339492321014
+trial_1	placebo	121	KG00099190	haemorrhage	0.024299534037709236
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.024251431226730347
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024203956127166748
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.024110695347189903
+trial_1	placebo	269	KG00100399	pyaemia	0.023923952132463455
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.022567108273506165
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022308899089694023
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02184695191681385
+trial_1	placebo	164	KG00108827	ileus colon	0.021283740177750587
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021125266328454018
+trial_1	placebo	456	KG00099420	Influenzae	0.0210096575319767
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.020716091617941856
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.020676961168646812
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02066030167043209
+trial_1	placebo	153	KG00099579	lethargy	0.020536739379167557
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02039346843957901
+trial_1	placebo	345	KG00103926	impairments memory	0.02027498371899128
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02021837793290615
+trial_1	placebo	11	KG00097993	Asthma NOS	0.020141592249274254
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.020093578845262527
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.019698109477758408
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01960468478500843
+trial_2	pimozide	87	KG00098599	diarrhoea	0.15810227394104004
+trial_2	pimozide	17	KG00097991	Asthenia NOS	0.15756262838840485
+trial_2	pimozide	9	KG00098432	Confusion NOS	0.13861264288425446
+trial_2	pimozide	78	KG00099326	Hypertensive diseases	0.11710960417985916
+trial_2	pimozide	21	KG00098675	dyspnoea	0.09957148879766464
+trial_2	pimozide	173	KG00098172	Bronchopneumonia NOS	0.09769219160079956
+trial_2	pimozide	49	KG00099902	nausea with vomiting	0.0970197319984436
+trial_2	pimozide	123	KG00099351	hypokalaemia	0.09597171097993851
+trial_2	pimozide	46	KG00099121	Headache NOS	0.09447553753852844
+trial_2	pimozide	177	KG00099299	hyperglycaemia	0.09131986647844315
+trial_2	pimozide	77	KG00098450	Constipation NOS	0.08815483003854752
+trial_2	pimozide	20	KG00098540	dehydration	0.08744675666093826
+trial_2	pimozide	68	KG00099901	nauseas	0.08734778314828873
+trial_2	pimozide	79	KG00100317	Insomnia, Primary	0.08540955185890198
+trial_2	pimozide	189	KG00101580	Alanine aminotransferase increase	0.08121956884860992
+trial_2	pimozide	228	KG00114657	Weight below normal	0.07511689513921738
+trial_2	pimozide	188	KG00101579	Aspartate aminotransferase increase	0.06777846068143845
+trial_2	pimozide	67	KG00098673	Dyspepsia, NOS	0.06609950959682465
+trial_2	pimozide	64	KG00097734	Acrodermatitis, NOS	0.06124721094965935
+trial_2	pimozide	85	KG00098474	coughs	0.059078339487314224
+trial_2	pimozide	101	KG00097901	Anorexia NOS	0.05799952521920204
+trial_2	pimozide	86	KG00098565	Depression, Mental	0.05750006437301636
+trial_2	pimozide	37	KG00097696	Cramps, Abdominal	0.05690646916627884
+trial_2	pimozide	29	KG00099354	hyponatraemia	0.05620845407247543
+trial_2	pimozide	200	KG00098539	Disorders, Deglutition	0.055682744830846786
+trial_2	pimozide	126	KG00100076	Pain NOS	0.05348691716790199
+trial_2	pimozide	104	KG00097963	arthralgias	0.051455993205308914
+trial_2	pimozide	151	KG00098274	Infarction, Cerebral	0.05139414221048355
+trial_2	pimozide	300	KG00101064	xerostomia	0.05027720332145691
+trial_2	pimozide	350	KG00106765	decreased platelet count	0.05022633820772171
+trial_2	pimozide	114	KG00098933	fevers	0.05002950131893158
+trial_2	pimozide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04981058090925217
+trial_2	pimozide	66	KG00098642	drowsiness	0.04937509819865227
+trial_2	pimozide	132	KG00101045	Gain, Weight	0.04918983206152916
+trial_2	pimozide	96	KG00101679	Unattended death NOS	0.0476343035697937
+trial_2	pimozide	102	KG00097916	anxieties	0.04763127863407135
+trial_2	pimozide	239	KG00100128	pareses	0.04619509354233742
+trial_2	pimozide	14	KG00097852	Anemia NOS	0.045411475002765656
+trial_2	pimozide	242	KG00100855	tremors	0.043055273592472076
+trial_2	pimozide	262	KG00101199	agitation	0.042254749685525894
+trial_2	pimozide	243	KG00100947	Micturition frequency increased	0.04189159721136093
+trial_2	pimozide	180	KG00099363	Hypotension NOS	0.04111124947667122
+trial_2	pimozide	76	KG00100450	Respiratory insufficiency, NOS	0.04110845923423767
+trial_2	pimozide	36	KG00106434	Vision, Blurring Of	0.03736406937241554
+trial_2	pimozide	18	KG00098307	Pain, Chest	0.0371362566947937
+trial_2	pimozide	191	KG00104055	Biliverdin increased	0.036467861384153366
+trial_2	pimozide	261	KG00101559	raised alkaline phosphatase	0.03566371649503708
+trial_2	pimozide	5	KG00099169	haematuria	0.03554213419556618
+trial_2	pimozide	61	KG00099501	Chronic Kidney Failure	0.03546490892767906
+trial_2	pimozide	30	KG00099500	Acute Kidney Failure	0.03450673073530197
+trial_2	pimozide	466	KG00101205	fall	0.03344139829277992
+trial_2	pimozide	116	KG00098964	Pain in foot	0.033347200602293015
+trial_2	pimozide	422	KG00101429	Creatine phosphokinase increased	0.031886931508779526
+trial_2	pimozide	131	KG00100948	Urinary tract infection (& [NOS])	0.03169910982251167
+trial_2	pimozide	194	KG00110727	Neutrophil Count Decreased	0.03157844394445419
+trial_2	pimozide	2	KG00100772	thrombocytopaenia	0.031549081206321716
+trial_2	pimozide	179	KG00099342	hypocalcaemia	0.03076070174574852
+trial_2	pimozide	28	KG00099347	hypoglycaemia	0.030370092019438744
+trial_2	pimozide	72	KG00103771	myalgias	0.03019721619784832
+trial_2	pimozide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02961747534573078
+trial_2	pimozide	38	KG00098066	Binocular vision disorders	0.028247112408280373
+trial_2	pimozide	130	KG00100683	Stomatitis NOS	0.02819341979920864
+trial_2	pimozide	82	KG00097697	abdomen distended	0.02819325588643551
+trial_2	pimozide	139	KG00098855	Sinusitis, Ethmoid	0.028035981580615044
+trial_2	pimozide	69	KG00100082	Palpitations NOS	0.027317440137267113
+trial_2	pimozide	35	KG00101507	hypomagnesaemia	0.027090515941381454
+trial_2	pimozide	234	KG00098669	dysgeusias	0.02678069844841957
+trial_2	pimozide	286	KG00101110	Retention, Urinary	0.026441195979714394
+trial_2	pimozide	355	KG00110857	lymphocyte count decreased	0.026351578533649445
+trial_2	pimozide	136	KG00101582	Dry;skin	0.026338234543800354
+trial_2	pimozide	396	KG00100373	Embolism, Pulmonary	0.026250144466757774
+trial_2	pimozide	27	KG00099303	hyperkalaemia	0.026172349229454994
+trial_2	pimozide	147	KG00098000	atelectases	0.02605992741882801
+trial_2	pimozide	211	KG00100341	Pruritus NOS	0.0253945030272007
+trial_2	pimozide	249	KG00104430	hypoalbuminaemia	0.025385452434420586
+trial_2	pimozide	341	KG00101472	Gamma-glutamyltransferase increased	0.024817107245326042
+trial_2	pimozide	186	KG00101431	creatinine increased	0.024626491591334343
+trial_2	pimozide	122	KG00099321	Hypersensitivity NOS	0.024404339492321014
+trial_2	pimozide	121	KG00099190	haemorrhage	0.024299534037709236
+trial_2	pimozide	152	KG00099402	INCONTINENCE NOS	0.024251431226730347
+trial_2	pimozide	154	KG00099686	Lymphopenias	0.024203956127166748
+trial_2	pimozide	356	KG00112623	Infectious Lung Disorders	0.024110695347189903
+trial_2	pimozide	269	KG00100399	pyaemia	0.023923952132463455
+trial_2	pimozide	199	KG00098371	Rhinitis (chronic) NOS	0.022567108273506165
+trial_2	pimozide	508	KG00108565	blood glucose increased	0.022308899089694023
+trial_2	pimozide	221	KG00101207	peripheral oedema	0.02184695191681385
+trial_2	pimozide	164	KG00108827	ileus colon	0.021283740177750587
+trial_2	pimozide	92	KG00100926	Infections, Upper Respiratory	0.021125266328454018
+trial_2	pimozide	456	KG00099420	Influenzae	0.0210096575319767
+trial_2	pimozide	232	KG00097997	Ataxia NOS	0.020716091617941856
+trial_2	pimozide	118	KG00099011	Gastritis NOS	0.020676961168646812
+trial_2	pimozide	22	KG00098705	Edema (NOS)	0.02066030167043209
+trial_2	pimozide	153	KG00099579	lethargy	0.020536739379167557
+trial_2	pimozide	253	KG00100232	Pleural effusion NOS (disorder)	0.02039346843957901
+trial_2	pimozide	345	KG00103926	impairments memory	0.02027498371899128
+trial_2	pimozide	204	KG00098849	Esophagitis, Peptic	0.02021837793290615
+trial_2	pimozide	11	KG00097993	Asthma NOS	0.020141592249274254
+trial_2	pimozide	256	KG00100738	Tachycardia, Sinus	0.020093578845262527
+trial_2	pimozide	297	KG00099294	hypercholesterolaemia	0.019698109477758408
+trial_2	pimozide	1	KG00099959	Neutropenia NOS	0.01960468478500843

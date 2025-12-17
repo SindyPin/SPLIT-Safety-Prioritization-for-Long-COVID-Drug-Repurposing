@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	132	KG00101045	Gain, Weight	0.2753237783908844
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.20258784294128418
+trial_1	placebo	86	KG00098565	Depression, Mental	0.1705322265625
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.16989506781101227
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15604747831821442
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.15285086631774902
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13012787699699402
+trial_1	placebo	783	KG00106735	Acathisia	0.12342504411935806
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.116310253739357
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.11459759622812271
+trial_1	placebo	242	KG00100855	tremors	0.11153706163167953
+trial_1	placebo	21	KG00098675	dyspnoea	0.11139248311519623
+trial_1	placebo	66	KG00098642	drowsiness	0.11077433079481125
+trial_1	placebo	20	KG00098540	dehydration	0.0974300429224968
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09508135914802551
+trial_1	placebo	104	KG00097963	arthralgias	0.09243673831224442
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09083198010921478
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08819959312677383
+trial_1	placebo	87	KG00098599	diarrhoea	0.08800092339515686
+trial_1	placebo	466	KG00101205	fall	0.07990981638431549
+trial_1	placebo	262	KG00101199	agitation	0.07959143072366714
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.07560007274150848
+trial_1	placebo	102	KG00097916	anxieties	0.07513890415430069
+trial_1	placebo	228	KG00114657	Weight below normal	0.07451615482568741
+trial_1	placebo	85	KG00098474	coughs	0.07334538549184799
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07252997905015945
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07178575545549393
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.06852731108665466
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06703288853168488
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06678768247365952
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.06548941135406494
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06486562639474869
+trial_1	placebo	46	KG00099121	Headache NOS	0.06471046805381775
+trial_1	placebo	11	KG00097993	Asthma NOS	0.06266254186630249
+trial_1	placebo	114	KG00098933	fevers	0.05869845300912857
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.058476101607084274
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05807263031601906
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.056948866695165634
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.05621068924665451
+trial_1	placebo	456	KG00099420	Influenzae	0.053834594786167145
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.0536416694521904
+trial_1	placebo	281	KG00098869	extrapyramidal; disorder	0.053499527275562286
+trial_1	placebo	739	KG00100119	Paraphrenia, NOS	0.05317651480436325
+trial_1	placebo	68	KG00099901	nauseas	0.051716335117816925
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.05089498683810234
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.050001077353954315
+trial_1	placebo	116	KG00098964	Pain in foot	0.04981737956404686
+trial_1	placebo	81	KG00103828	Increased appetite (finding)	0.049759794026613235
+trial_1	placebo	333	KG00104019	DOPINESS	0.049747686833143234
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.049538906663656235
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04946542903780937
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04886385798454285
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04800541326403618
+trial_1	placebo	7	KG00097787	Aggressive Behaviour	0.04602948576211929
+trial_1	placebo	493	KG00098679	dystonias	0.04597741737961769
+trial_1	placebo	300	KG00101064	xerostomia	0.04594549909234047
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04594272002577782
+trial_1	placebo	239	KG00100128	pareses	0.04273774474859238
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.042723312973976135
+trial_1	placebo	290	KG00103881	Physical wandering	0.042305443435907364
+trial_1	placebo	933	KG00103917	Auditory Hallucinations	0.04215202480554581
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04122297838330269
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04105403274297714
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.04048674553632736
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04037505388259888
+trial_1	placebo	126	KG00100076	Pain NOS	0.040213022381067276
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03996198624372482
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03958844393491745
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03852974250912666
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.038491155952215195
+trial_1	placebo	310	KG00097940	Appendicitis NOS	0.036936238408088684
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03454086184501648
+trial_1	placebo	80	KG00100516	of saliva secretion	0.03410578891634941
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.033888306468725204
+trial_1	placebo	178	KG00099307	Type IV Hyperlipoproteinemia	0.03347769007086754
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.03337612375617027
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03317691758275032
+trial_1	placebo	280	KG00098670	DYSKINETIC SYNDROME	0.03308621421456337
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03278264030814171
+trial_1	placebo	5	KG00099169	haematuria	0.032478004693984985
+trial_1	placebo	63	KG00100707	suicide attempts	0.032321758568286896
+trial_1	placebo	203	KG00098661	dysarthrias	0.03226368874311447
+trial_1	placebo	269	KG00100399	pyaemia	0.031656794250011444
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030820854008197784
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03040788136422634
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02987425960600376
+trial_1	placebo	578	KG00097808	Intoxication, Chronic Alcoholic	0.02984875813126564
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029155554249882698
+trial_1	placebo	317	KG00098586	DIABETES MELLITUS NOS	0.02915181592106819
+trial_1	placebo	553	KG00100130	Parkinsons disease	0.029151033610105515
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02910298854112625
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.029078617691993713
+trial_1	placebo	363	KG00098184	burns injury	0.028504986315965652
+trial_1	placebo	342	KG00101570	intervals prolonged qt	0.02812355011701584
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02795715443789959
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.027676980942487717
+trial_1	placebo	339	KG00100334	proteinurias	0.027562519535422325
+trial_1	placebo	147	KG00098000	atelectases	0.027149420231580734
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027021508663892746
+trial_1	placebo	451	KG00101551	injection site pain	0.026898382231593132
+trial_2	paliperidone	132	KG00101045	Gain, Weight	0.2753237783908844
+trial_2	paliperidone	78	KG00099326	Hypertensive diseases	0.20258784294128418
+trial_2	paliperidone	86	KG00098565	Depression, Mental	0.1705322265625
+trial_2	paliperidone	173	KG00098172	Bronchopneumonia NOS	0.16989506781101227
+trial_2	paliperidone	17	KG00097991	Asthenia NOS	0.15604747831821442
+trial_2	paliperidone	79	KG00100317	Insomnia, Primary	0.15285086631774902
+trial_2	paliperidone	9	KG00098432	Confusion NOS	0.13012787699699402
+trial_2	paliperidone	783	KG00106735	Acathisia	0.12342504411935806
+trial_2	paliperidone	177	KG00099299	hyperglycaemia	0.116310253739357
+trial_2	paliperidone	151	KG00098274	Infarction, Cerebral	0.11459759622812271
+trial_2	paliperidone	242	KG00100855	tremors	0.11153706163167953
+trial_2	paliperidone	21	KG00098675	dyspnoea	0.11139248311519623
+trial_2	paliperidone	66	KG00098642	drowsiness	0.11077433079481125
+trial_2	paliperidone	20	KG00098540	dehydration	0.0974300429224968
+trial_2	paliperidone	77	KG00098450	Constipation NOS	0.09508135914802551
+trial_2	paliperidone	104	KG00097963	arthralgias	0.09243673831224442
+trial_2	paliperidone	189	KG00101580	Alanine aminotransferase increase	0.09083198010921478
+trial_2	paliperidone	49	KG00099902	nausea with vomiting	0.08819959312677383
+trial_2	paliperidone	87	KG00098599	diarrhoea	0.08800092339515686
+trial_2	paliperidone	466	KG00101205	fall	0.07990981638431549
+trial_2	paliperidone	262	KG00101199	agitation	0.07959143072366714
+trial_2	paliperidone	30	KG00099500	Acute Kidney Failure	0.07560007274150848
+trial_2	paliperidone	102	KG00097916	anxieties	0.07513890415430069
+trial_2	paliperidone	228	KG00114657	Weight below normal	0.07451615482568741
+trial_2	paliperidone	85	KG00098474	coughs	0.07334538549184799
+trial_2	paliperidone	64	KG00097734	Acrodermatitis, NOS	0.07252997905015945
+trial_2	paliperidone	29	KG00099354	hyponatraemia	0.07178575545549393
+trial_2	paliperidone	182	KG00100366	Disorders, Psychotic	0.06852731108665466
+trial_2	paliperidone	123	KG00099351	hypokalaemia	0.06703288853168488
+trial_2	paliperidone	76	KG00100450	Respiratory insufficiency, NOS	0.06678768247365952
+trial_2	paliperidone	199	KG00098371	Rhinitis (chronic) NOS	0.06548941135406494
+trial_2	paliperidone	188	KG00101579	Aspartate aminotransferase increase	0.06486562639474869
+trial_2	paliperidone	46	KG00099121	Headache NOS	0.06471046805381775
+trial_2	paliperidone	11	KG00097993	Asthma NOS	0.06266254186630249
+trial_2	paliperidone	114	KG00098933	fevers	0.05869845300912857
+trial_2	paliperidone	180	KG00099363	Hypotension NOS	0.058476101607084274
+trial_2	paliperidone	96	KG00101679	Unattended death NOS	0.05807263031601906
+trial_2	paliperidone	28	KG00099347	hypoglycaemia	0.056948866695165634
+trial_2	paliperidone	297	KG00099294	hypercholesterolaemia	0.05621068924665451
+trial_2	paliperidone	456	KG00099420	Influenzae	0.053834594786167145
+trial_2	paliperidone	422	KG00101429	Creatine phosphokinase increased	0.0536416694521904
+trial_2	paliperidone	281	KG00098869	extrapyramidal; disorder	0.053499527275562286
+trial_2	paliperidone	739	KG00100119	Paraphrenia, NOS	0.05317651480436325
+trial_2	paliperidone	68	KG00099901	nauseas	0.051716335117816925
+trial_2	paliperidone	131	KG00100948	Urinary tract infection (& [NOS])	0.05089498683810234
+trial_2	paliperidone	225	KG00104032	Suicidal tendencies	0.050001077353954315
+trial_2	paliperidone	116	KG00098964	Pain in foot	0.04981737956404686
+trial_2	paliperidone	81	KG00103828	Increased appetite (finding)	0.049759794026613235
+trial_2	paliperidone	333	KG00104019	DOPINESS	0.049747686833143234
+trial_2	paliperidone	92	KG00100926	Infections, Upper Respiratory	0.049538906663656235
+trial_2	paliperidone	200	KG00098539	Disorders, Deglutition	0.04946542903780937
+trial_2	paliperidone	61	KG00099501	Chronic Kidney Failure	0.04886385798454285
+trial_2	paliperidone	139	KG00098855	Sinusitis, Ethmoid	0.04800541326403618
+trial_2	paliperidone	7	KG00097787	Aggressive Behaviour	0.04602948576211929
+trial_2	paliperidone	493	KG00098679	dystonias	0.04597741737961769
+trial_2	paliperidone	300	KG00101064	xerostomia	0.04594549909234047
+trial_2	paliperidone	67	KG00098673	Dyspepsia, NOS	0.04594272002577782
+trial_2	paliperidone	239	KG00100128	pareses	0.04273774474859238
+trial_2	paliperidone	152	KG00099402	INCONTINENCE NOS	0.042723312973976135
+trial_2	paliperidone	290	KG00103881	Physical wandering	0.042305443435907364
+trial_2	paliperidone	933	KG00103917	Auditory Hallucinations	0.04215202480554581
+trial_2	paliperidone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04122297838330269
+trial_2	paliperidone	37	KG00097696	Cramps, Abdominal	0.04105403274297714
+trial_2	paliperidone	118	KG00099011	Gastritis NOS	0.04048674553632736
+trial_2	paliperidone	14	KG00097852	Anemia NOS	0.04037505388259888
+trial_2	paliperidone	126	KG00100076	Pain NOS	0.040213022381067276
+trial_2	paliperidone	36	KG00106434	Vision, Blurring Of	0.03996198624372482
+trial_2	paliperidone	350	KG00106765	decreased platelet count	0.03958844393491745
+trial_2	paliperidone	341	KG00101472	Gamma-glutamyltransferase increased	0.03852974250912666
+trial_2	paliperidone	243	KG00100947	Micturition frequency increased	0.038491155952215195
+trial_2	paliperidone	310	KG00097940	Appendicitis NOS	0.036936238408088684
+trial_2	paliperidone	221	KG00101207	peripheral oedema	0.03454086184501648
+trial_2	paliperidone	80	KG00100516	of saliva secretion	0.03410578891634941
+trial_2	paliperidone	69	KG00100082	Palpitations NOS	0.033888306468725204
+trial_2	paliperidone	178	KG00099307	Type IV Hyperlipoproteinemia	0.03347769007086754
+trial_2	paliperidone	394	KG00100243	Pneumonia, Aspiration	0.03337612375617027
+trial_2	paliperidone	138	KG00098796	epidemic vomiting syndrome	0.03317691758275032
+trial_2	paliperidone	280	KG00098670	DYSKINETIC SYNDROME	0.03308621421456337
+trial_2	paliperidone	18	KG00098307	Pain, Chest	0.03278264030814171
+trial_2	paliperidone	5	KG00099169	haematuria	0.032478004693984985
+trial_2	paliperidone	63	KG00100707	suicide attempts	0.032321758568286896
+trial_2	paliperidone	203	KG00098661	dysarthrias	0.03226368874311447
+trial_2	paliperidone	269	KG00100399	pyaemia	0.031656794250011444
+trial_2	paliperidone	191	KG00104055	Biliverdin increased	0.030820854008197784
+trial_2	paliperidone	508	KG00108565	blood glucose increased	0.03040788136422634
+trial_2	paliperidone	130	KG00100683	Stomatitis NOS	0.02987425960600376
+trial_2	paliperidone	578	KG00097808	Intoxication, Chronic Alcoholic	0.02984875813126564
+trial_2	paliperidone	211	KG00100341	Pruritus NOS	0.029155554249882698
+trial_2	paliperidone	317	KG00098586	DIABETES MELLITUS NOS	0.02915181592106819
+trial_2	paliperidone	553	KG00100130	Parkinsons disease	0.029151033610105515
+trial_2	paliperidone	122	KG00099321	Hypersensitivity NOS	0.02910298854112625
+trial_2	paliperidone	101	KG00097901	Anorexia NOS	0.029078617691993713
+trial_2	paliperidone	363	KG00098184	burns injury	0.028504986315965652
+trial_2	paliperidone	342	KG00101570	intervals prolonged qt	0.02812355011701584
+trial_2	paliperidone	286	KG00101110	Retention, Urinary	0.02795715443789959
+trial_2	paliperidone	98	KG00097718	Incised wound, NOS	0.027676980942487717
+trial_2	paliperidone	339	KG00100334	proteinurias	0.027562519535422325
+trial_2	paliperidone	147	KG00098000	atelectases	0.027149420231580734
+trial_2	paliperidone	441	KG00098262	cellulitis nos	0.027021508663892746
+trial_2	paliperidone	451	KG00101551	injection site pain	0.026898382231593132

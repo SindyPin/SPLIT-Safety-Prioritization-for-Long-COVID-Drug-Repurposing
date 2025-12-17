@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15724070370197296
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08539409935474396
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08538514375686646
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0791134163737297
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07567279785871506
+trial_1	placebo	20	KG00098540	dehydration	0.07158411294221878
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06656647473573685
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06566470116376877
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06349679082632065
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05939295515418053
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05788473039865494
+trial_1	placebo	228	KG00114657	Weight below normal	0.057771794497966766
+trial_1	placebo	21	KG00098675	dyspnoea	0.05756466090679169
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05687900260090828
+trial_1	placebo	46	KG00099121	Headache NOS	0.05513828992843628
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04991108551621437
+trial_1	placebo	85	KG00098474	coughs	0.04775429144501686
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04761969670653343
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04616358131170273
+trial_1	placebo	114	KG00098933	fevers	0.03869019076228142
+trial_1	placebo	126	KG00100076	Pain NOS	0.038076262921094894
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037603672593832016
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03741784021258354
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03731932118535042
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03572605177760124
+trial_1	placebo	68	KG00099901	nauseas	0.035482652485370636
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03471606224775314
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03407429903745651
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03392691910266876
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0332694947719574
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.033165059983730316
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03284350782632828
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.032768379896879196
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03190716728568077
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.030986610800027847
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03023250587284565
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030162472277879715
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030141131952404976
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.028877459466457367
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02852436527609825
+trial_1	placebo	269	KG00100399	pyaemia	0.028211476281285286
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.026963749900460243
+trial_1	placebo	121	KG00099190	haemorrhage	0.026487115770578384
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02556953951716423
+trial_1	placebo	5	KG00099169	haematuria	0.024789312854409218
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02398548275232315
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.023896876722574234
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.023382974788546562
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023296019062399864
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023062340915203094
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.022722823545336723
+trial_1	placebo	4	KG00098817	epistaxis	0.022709639742970467
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02261991612613201
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022450631484389305
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022165199741721153
+trial_1	placebo	102	KG00097916	anxieties	0.02213788591325283
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021625399589538574
+trial_1	placebo	147	KG00098000	atelectases	0.021356984972953796
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021195879206061363
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020939234644174576
+trial_1	placebo	104	KG00097963	arthralgias	0.0209221001714468
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020842446014285088
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020735913887619972
+trial_1	placebo	186	KG00101431	creatinine increased	0.02059529721736908
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020592253655195236
+trial_1	placebo	234	KG00098669	dysgeusias	0.020575448870658875
+trial_1	placebo	164	KG00108827	ileus colon	0.020343931391835213
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020319558680057526
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02019287459552288
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.020153574645519257
+trial_1	placebo	72	KG00103771	myalgias	0.020145125687122345
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01914748176932335
+trial_1	placebo	136	KG00101582	Dry;skin	0.01901666261255741
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01883886754512787
+trial_1	placebo	239	KG00100128	pareses	0.018835781142115593
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01879655383527279
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018744904547929764
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01845918968319893
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018390027806162834
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018130190670490265
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018028929829597473
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01767808385193348
+trial_1	placebo	262	KG00101199	agitation	0.017530232667922974
+trial_1	placebo	382	KG00099200	haemorrhoids	0.017221644520759583
+trial_1	placebo	154	KG00099686	Lymphopenias	0.017056042328476906
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.016999321058392525
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01688966155052185
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016794439405202866
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01670689694583416
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.016643673181533813
+trial_1	placebo	456	KG00099420	Influenzae	0.01646089367568493
+trial_1	placebo	466	KG00101205	fall	0.01634824648499489
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01617773249745369
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.016090059652924538
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.016014743596315384
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015936342999339104
+trial_1	placebo	132	KG00101045	Gain, Weight	0.015704577788710594
+trial_1	placebo	116	KG00098964	Pain in foot	0.015646997839212418
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015550955198705196
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.0154847651720047
+trial_2	quinapril	87	KG00098599	diarrhoea	0.15724070370197296
+trial_2	quinapril	123	KG00099351	hypokalaemia	0.08539409935474396
+trial_2	quinapril	78	KG00099326	Hypertensive diseases	0.08538514375686646
+trial_2	quinapril	173	KG00098172	Bronchopneumonia NOS	0.0791134163737297
+trial_2	quinapril	9	KG00098432	Confusion NOS	0.07567279785871506
+trial_2	quinapril	20	KG00098540	dehydration	0.07158411294221878
+trial_2	quinapril	177	KG00099299	hyperglycaemia	0.06656647473573685
+trial_2	quinapril	37	KG00097696	Cramps, Abdominal	0.06566470116376877
+trial_2	quinapril	17	KG00097991	Asthenia NOS	0.06349679082632065
+trial_2	quinapril	2	KG00100772	thrombocytopaenia	0.05939295515418053
+trial_2	quinapril	14	KG00097852	Anemia NOS	0.05788473039865494
+trial_2	quinapril	228	KG00114657	Weight below normal	0.057771794497966766
+trial_2	quinapril	21	KG00098675	dyspnoea	0.05756466090679169
+trial_2	quinapril	64	KG00097734	Acrodermatitis, NOS	0.05687900260090828
+trial_2	quinapril	46	KG00099121	Headache NOS	0.05513828992843628
+trial_2	quinapril	49	KG00099902	nausea with vomiting	0.04991108551621437
+trial_2	quinapril	85	KG00098474	coughs	0.04775429144501686
+trial_2	quinapril	67	KG00098673	Dyspepsia, NOS	0.04761969670653343
+trial_2	quinapril	151	KG00098274	Infarction, Cerebral	0.04616358131170273
+trial_2	quinapril	114	KG00098933	fevers	0.03869019076228142
+trial_2	quinapril	126	KG00100076	Pain NOS	0.038076262921094894
+trial_2	quinapril	61	KG00099501	Chronic Kidney Failure	0.037603672593832016
+trial_2	quinapril	180	KG00099363	Hypotension NOS	0.03741784021258354
+trial_2	quinapril	189	KG00101580	Alanine aminotransferase increase	0.03731932118535042
+trial_2	quinapril	188	KG00101579	Aspartate aminotransferase increase	0.03572605177760124
+trial_2	quinapril	68	KG00099901	nauseas	0.035482652485370636
+trial_2	quinapril	77	KG00098450	Constipation NOS	0.03471606224775314
+trial_2	quinapril	96	KG00101679	Unattended death NOS	0.03407429903745651
+trial_2	quinapril	79	KG00100317	Insomnia, Primary	0.03392691910266876
+trial_2	quinapril	350	KG00106765	decreased platelet count	0.0332694947719574
+trial_2	quinapril	101	KG00097901	Anorexia NOS	0.033165059983730316
+trial_2	quinapril	29	KG00099354	hyponatraemia	0.03284350782632828
+trial_2	quinapril	200	KG00098539	Disorders, Deglutition	0.032768379896879196
+trial_2	quinapril	142	KG00100923	Unspecified infectious and parasitic diseases	0.03190716728568077
+trial_2	quinapril	76	KG00100450	Respiratory insufficiency, NOS	0.030986610800027847
+trial_2	quinapril	86	KG00098565	Depression, Mental	0.03023250587284565
+trial_2	quinapril	131	KG00100948	Urinary tract infection (& [NOS])	0.030162472277879715
+trial_2	quinapril	130	KG00100683	Stomatitis NOS	0.030141131952404976
+trial_2	quinapril	122	KG00099321	Hypersensitivity NOS	0.028877459466457367
+trial_2	quinapril	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02852436527609825
+trial_2	quinapril	269	KG00100399	pyaemia	0.028211476281285286
+trial_2	quinapril	28	KG00099347	hypoglycaemia	0.026963749900460243
+trial_2	quinapril	121	KG00099190	haemorrhage	0.026487115770578384
+trial_2	quinapril	276	KG00099127	Arrest, Cardiac	0.02556953951716423
+trial_2	quinapril	5	KG00099169	haematuria	0.024789312854409218
+trial_2	quinapril	191	KG00104055	Biliverdin increased	0.02398548275232315
+trial_2	quinapril	243	KG00100947	Micturition frequency increased	0.023896876722574234
+trial_2	quinapril	356	KG00112623	Infectious Lung Disorders	0.023382974788546562
+trial_2	quinapril	18	KG00098307	Pain, Chest	0.023296019062399864
+trial_2	quinapril	30	KG00099500	Acute Kidney Failure	0.023062340915203094
+trial_2	quinapril	27	KG00099303	hyperkalaemia	0.022722823545336723
+trial_2	quinapril	4	KG00098817	epistaxis	0.022709639742970467
+trial_2	quinapril	138	KG00098796	epidemic vomiting syndrome	0.02261991612613201
+trial_2	quinapril	179	KG00099342	hypocalcaemia	0.022450631484389305
+trial_2	quinapril	396	KG00100373	Embolism, Pulmonary	0.022165199741721153
+trial_2	quinapril	102	KG00097916	anxieties	0.02213788591325283
+trial_2	quinapril	31	KG00099872	Infarction, Myocardial	0.021625399589538574
+trial_2	quinapril	147	KG00098000	atelectases	0.021356984972953796
+trial_2	quinapril	361	KG00098004	Fibrillation, Atrial	0.021195879206061363
+trial_2	quinapril	144	KG00099610	Leukopenia NOS	0.020939234644174576
+trial_2	quinapril	104	KG00097963	arthralgias	0.0209221001714468
+trial_2	quinapril	139	KG00098855	Sinusitis, Ethmoid	0.020842446014285088
+trial_2	quinapril	75	KG00100195	Dolens, Phlegmasia Alba	0.020735913887619972
+trial_2	quinapril	186	KG00101431	creatinine increased	0.02059529721736908
+trial_2	quinapril	261	KG00101559	raised alkaline phosphatase	0.020592253655195236
+trial_2	quinapril	234	KG00098669	dysgeusias	0.020575448870658875
+trial_2	quinapril	164	KG00108827	ileus colon	0.020343931391835213
+trial_2	quinapril	69	KG00100082	Palpitations NOS	0.020319558680057526
+trial_2	quinapril	194	KG00110727	Neutrophil Count Decreased	0.02019287459552288
+trial_2	quinapril	1	KG00099959	Neutropenia NOS	0.020153574645519257
+trial_2	quinapril	72	KG00103771	myalgias	0.020145125687122345
+trial_2	quinapril	288	KG00101223	hypophosphataemia	0.01914748176932335
+trial_2	quinapril	136	KG00101582	Dry;skin	0.01901666261255741
+trial_2	quinapril	441	KG00098262	cellulitis nos	0.01883886754512787
+trial_2	quinapril	239	KG00100128	pareses	0.018835781142115593
+trial_2	quinapril	92	KG00100926	Infections, Upper Respiratory	0.01879655383527279
+trial_2	quinapril	221	KG00101207	peripheral oedema	0.018744904547929764
+trial_2	quinapril	38	KG00098066	Binocular vision disorders	0.01845918968319893
+trial_2	quinapril	249	KG00104430	hypoalbuminaemia	0.018390027806162834
+trial_2	quinapril	11	KG00097993	Asthma NOS	0.018130190670490265
+trial_2	quinapril	253	KG00100232	Pleural effusion NOS (disorder)	0.018028929829597473
+trial_2	quinapril	33	KG00100094	Pancreatitis NOS	0.01767808385193348
+trial_2	quinapril	262	KG00101199	agitation	0.017530232667922974
+trial_2	quinapril	382	KG00099200	haemorrhoids	0.017221644520759583
+trial_2	quinapril	154	KG00099686	Lymphopenias	0.017056042328476906
+trial_2	quinapril	204	KG00098849	Esophagitis, Peptic	0.016999321058392525
+trial_2	quinapril	22	KG00098705	Edema (NOS)	0.01688966155052185
+trial_2	quinapril	211	KG00100341	Pruritus NOS	0.016794439405202866
+trial_2	quinapril	35	KG00101507	hypomagnesaemia	0.01670689694583416
+trial_2	quinapril	422	KG00101429	Creatine phosphokinase increased	0.016643673181533813
+trial_2	quinapril	456	KG00099420	Influenzae	0.01646089367568493
+trial_2	quinapril	466	KG00101205	fall	0.01634824648499489
+trial_2	quinapril	118	KG00099011	Gastritis NOS	0.01617773249745369
+trial_2	quinapril	371	KG00098517	Cystitis (NOS)	0.016090059652924538
+trial_2	quinapril	213	KG00100600	Infectious Skin Diseases	0.016014743596315384
+trial_2	quinapril	199	KG00098371	Rhinitis (chronic) NOS	0.015936342999339104
+trial_2	quinapril	132	KG00101045	Gain, Weight	0.015704577788710594
+trial_2	quinapril	116	KG00098964	Pain in foot	0.015646997839212418
+trial_2	quinapril	15	KG00097882	Angina pectoris NOS	0.015550955198705196
+trial_2	quinapril	297	KG00099294	hypercholesterolaemia	0.0154847651720047

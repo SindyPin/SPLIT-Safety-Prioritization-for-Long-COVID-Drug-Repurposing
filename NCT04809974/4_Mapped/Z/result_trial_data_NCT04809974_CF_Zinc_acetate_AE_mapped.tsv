@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15155459940433502
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0849686786532402
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08458289504051208
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08028668910264969
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07680395990610123
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07446800172328949
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07217420637607574
+trial_1	placebo	21	KG00098675	dyspnoea	0.0716371014714241
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07022659480571747
+trial_1	placebo	46	KG00099121	Headache NOS	0.0676230862736702
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06688646972179413
+trial_1	placebo	20	KG00098540	dehydration	0.06634745746850967
+trial_1	placebo	68	KG00099901	nauseas	0.06579370051622391
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05640309303998947
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05612623319029808
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05168936774134636
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05118878185749054
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04923222213983536
+trial_1	placebo	114	KG00098933	fevers	0.04877258464694023
+trial_1	placebo	126	KG00100076	Pain NOS	0.046948421746492386
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04655231162905693
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.044604312628507614
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04455307126045227
+trial_1	placebo	228	KG00114657	Weight below normal	0.04317749664187431
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.042203206568956375
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.040506310760974884
+trial_1	placebo	85	KG00098474	coughs	0.03906000405550003
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03819403424859047
+trial_1	placebo	72	KG00103771	myalgias	0.03815590962767601
+trial_1	placebo	147	KG00098000	atelectases	0.03739173710346222
+trial_1	placebo	5	KG00099169	haematuria	0.03731444850564003
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0368896909058094
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03613496199250221
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03603178635239601
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03437263146042824
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.034029170870780945
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03386293724179268
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03383012115955353
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03381647169589996
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03280903771519661
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.031763967126607895
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03149517625570297
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.031178582459688187
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.030338311567902565
+trial_1	placebo	234	KG00098669	dysgeusias	0.029920216649770737
+trial_1	placebo	104	KG00097963	arthralgias	0.029138827696442604
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02900257147848606
+trial_1	placebo	239	KG00100128	pareses	0.02886364609003067
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0279813501983881
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02765534073114395
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.026913709938526154
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02685723267495632
+trial_1	placebo	82	KG00097697	abdomen distended	0.026713844388723373
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026709889993071556
+trial_1	placebo	154	KG00099686	Lymphopenias	0.026675110682845116
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.02607874944806099
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025700636208057404
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025647448375821114
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025386495515704155
+trial_1	placebo	121	KG00099190	haemorrhage	0.02534148469567299
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.023951442912220955
+trial_1	placebo	441	KG00098262	cellulitis nos	0.023833170533180237
+trial_1	placebo	116	KG00098964	Pain in foot	0.02367468550801277
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023671409115195274
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023287422955036163
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02324371598660946
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.022813014686107635
+trial_1	placebo	100	KG00097815	alopecias	0.022696159780025482
+trial_1	placebo	269	KG00100399	pyaemia	0.02244693785905838
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022444134578108788
+trial_1	placebo	102	KG00097916	anxieties	0.022384433075785637
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02197989448904991
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021713493391871452
+trial_1	placebo	212	KG00100576	shivers	0.0216341782361269
+trial_1	placebo	4	KG00098817	epistaxis	0.021013183519244194
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02081926539540291
+trial_1	placebo	136	KG00101582	Dry;skin	0.020510869100689888
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020150747150182724
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.020080171525478363
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.020067961886525154
+trial_1	placebo	186	KG00101431	creatinine increased	0.02000301703810692
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019567660987377167
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019221719354391098
+trial_1	placebo	466	KG00101205	fall	0.018986517563462257
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018796760588884354
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01862994208931923
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01830236054956913
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01825394108891487
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018052946776151657
+trial_1	placebo	508	KG00108565	blood glucose increased	0.017462819814682007
+trial_1	placebo	503	KG00102612	low haemoglobin	0.017256155610084534
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.017199819907546043
+trial_1	placebo	164	KG00108827	ileus colon	0.017104074358940125
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.01705114170908928
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.016782240942120552
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01659056358039379
+trial_1	placebo	262	KG00101199	agitation	0.016477972269058228
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01620199717581272
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.016198068857192993
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.016104016453027725
+trial_2	zinc acetate	87	KG00098599	diarrhoea	0.15155459940433502
+trial_2	zinc acetate	177	KG00099299	hyperglycaemia	0.0849686786532402
+trial_2	zinc acetate	123	KG00099351	hypokalaemia	0.08458289504051208
+trial_2	zinc acetate	78	KG00099326	Hypertensive diseases	0.08028668910264969
+trial_2	zinc acetate	173	KG00098172	Bronchopneumonia NOS	0.07680395990610123
+trial_2	zinc acetate	64	KG00097734	Acrodermatitis, NOS	0.07446800172328949
+trial_2	zinc acetate	17	KG00097991	Asthenia NOS	0.07217420637607574
+trial_2	zinc acetate	21	KG00098675	dyspnoea	0.0716371014714241
+trial_2	zinc acetate	37	KG00097696	Cramps, Abdominal	0.07022659480571747
+trial_2	zinc acetate	46	KG00099121	Headache NOS	0.0676230862736702
+trial_2	zinc acetate	67	KG00098673	Dyspepsia, NOS	0.06688646972179413
+trial_2	zinc acetate	20	KG00098540	dehydration	0.06634745746850967
+trial_2	zinc acetate	68	KG00099901	nauseas	0.06579370051622391
+trial_2	zinc acetate	14	KG00097852	Anemia NOS	0.05640309303998947
+trial_2	zinc acetate	49	KG00099902	nausea with vomiting	0.05612623319029808
+trial_2	zinc acetate	9	KG00098432	Confusion NOS	0.05168936774134636
+trial_2	zinc acetate	2	KG00100772	thrombocytopaenia	0.05118878185749054
+trial_2	zinc acetate	200	KG00098539	Disorders, Deglutition	0.04923222213983536
+trial_2	zinc acetate	114	KG00098933	fevers	0.04877258464694023
+trial_2	zinc acetate	126	KG00100076	Pain NOS	0.046948421746492386
+trial_2	zinc acetate	77	KG00098450	Constipation NOS	0.04655231162905693
+trial_2	zinc acetate	101	KG00097901	Anorexia NOS	0.044604312628507614
+trial_2	zinc acetate	189	KG00101580	Alanine aminotransferase increase	0.04455307126045227
+trial_2	zinc acetate	228	KG00114657	Weight below normal	0.04317749664187431
+trial_2	zinc acetate	79	KG00100317	Insomnia, Primary	0.042203206568956375
+trial_2	zinc acetate	122	KG00099321	Hypersensitivity NOS	0.040506310760974884
+trial_2	zinc acetate	85	KG00098474	coughs	0.03906000405550003
+trial_2	zinc acetate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03819403424859047
+trial_2	zinc acetate	72	KG00103771	myalgias	0.03815590962767601
+trial_2	zinc acetate	147	KG00098000	atelectases	0.03739173710346222
+trial_2	zinc acetate	5	KG00099169	haematuria	0.03731444850564003
+trial_2	zinc acetate	188	KG00101579	Aspartate aminotransferase increase	0.0368896909058094
+trial_2	zinc acetate	243	KG00100947	Micturition frequency increased	0.03613496199250221
+trial_2	zinc acetate	350	KG00106765	decreased platelet count	0.03603178635239601
+trial_2	zinc acetate	28	KG00099347	hypoglycaemia	0.03437263146042824
+trial_2	zinc acetate	179	KG00099342	hypocalcaemia	0.034029170870780945
+trial_2	zinc acetate	29	KG00099354	hyponatraemia	0.03386293724179268
+trial_2	zinc acetate	76	KG00100450	Respiratory insufficiency, NOS	0.03383012115955353
+trial_2	zinc acetate	194	KG00110727	Neutrophil Count Decreased	0.03381647169589996
+trial_2	zinc acetate	86	KG00098565	Depression, Mental	0.03280903771519661
+trial_2	zinc acetate	96	KG00101679	Unattended death NOS	0.031763967126607895
+trial_2	zinc acetate	144	KG00099610	Leukopenia NOS	0.03149517625570297
+trial_2	zinc acetate	61	KG00099501	Chronic Kidney Failure	0.031178582459688187
+trial_2	zinc acetate	139	KG00098855	Sinusitis, Ethmoid	0.030338311567902565
+trial_2	zinc acetate	234	KG00098669	dysgeusias	0.029920216649770737
+trial_2	zinc acetate	104	KG00097963	arthralgias	0.029138827696442604
+trial_2	zinc acetate	131	KG00100948	Urinary tract infection (& [NOS])	0.02900257147848606
+trial_2	zinc acetate	239	KG00100128	pareses	0.02886364609003067
+trial_2	zinc acetate	1	KG00099959	Neutropenia NOS	0.0279813501983881
+trial_2	zinc acetate	142	KG00100923	Unspecified infectious and parasitic diseases	0.02765534073114395
+trial_2	zinc acetate	355	KG00110857	lymphocyte count decreased	0.026913709938526154
+trial_2	zinc acetate	396	KG00100373	Embolism, Pulmonary	0.02685723267495632
+trial_2	zinc acetate	82	KG00097697	abdomen distended	0.026713844388723373
+trial_2	zinc acetate	27	KG00099303	hyperkalaemia	0.026709889993071556
+trial_2	zinc acetate	154	KG00099686	Lymphopenias	0.026675110682845116
+trial_2	zinc acetate	151	KG00098274	Infarction, Cerebral	0.02607874944806099
+trial_2	zinc acetate	69	KG00100082	Palpitations NOS	0.025700636208057404
+trial_2	zinc acetate	38	KG00098066	Binocular vision disorders	0.025647448375821114
+trial_2	zinc acetate	276	KG00099127	Arrest, Cardiac	0.025386495515704155
+trial_2	zinc acetate	121	KG00099190	haemorrhage	0.02534148469567299
+trial_2	zinc acetate	180	KG00099363	Hypotension NOS	0.023951442912220955
+trial_2	zinc acetate	441	KG00098262	cellulitis nos	0.023833170533180237
+trial_2	zinc acetate	116	KG00098964	Pain in foot	0.02367468550801277
+trial_2	zinc acetate	18	KG00098307	Pain, Chest	0.023671409115195274
+trial_2	zinc acetate	92	KG00100926	Infections, Upper Respiratory	0.023287422955036163
+trial_2	zinc acetate	282	KG00099309	hypernatraemia	0.02324371598660946
+trial_2	zinc acetate	30	KG00099500	Acute Kidney Failure	0.022813014686107635
+trial_2	zinc acetate	100	KG00097815	alopecias	0.022696159780025482
+trial_2	zinc acetate	269	KG00100399	pyaemia	0.02244693785905838
+trial_2	zinc acetate	211	KG00100341	Pruritus NOS	0.022444134578108788
+trial_2	zinc acetate	102	KG00097916	anxieties	0.022384433075785637
+trial_2	zinc acetate	261	KG00101559	raised alkaline phosphatase	0.02197989448904991
+trial_2	zinc acetate	191	KG00104055	Biliverdin increased	0.021713493391871452
+trial_2	zinc acetate	212	KG00100576	shivers	0.0216341782361269
+trial_2	zinc acetate	4	KG00098817	epistaxis	0.021013183519244194
+trial_2	zinc acetate	253	KG00100232	Pleural effusion NOS (disorder)	0.02081926539540291
+trial_2	zinc acetate	136	KG00101582	Dry;skin	0.020510869100689888
+trial_2	zinc acetate	204	KG00098849	Esophagitis, Peptic	0.020150747150182724
+trial_2	zinc acetate	249	KG00104430	hypoalbuminaemia	0.020080171525478363
+trial_2	zinc acetate	130	KG00100683	Stomatitis NOS	0.020067961886525154
+trial_2	zinc acetate	186	KG00101431	creatinine increased	0.02000301703810692
+trial_2	zinc acetate	75	KG00100195	Dolens, Phlegmasia Alba	0.019567660987377167
+trial_2	zinc acetate	361	KG00098004	Fibrillation, Atrial	0.019221719354391098
+trial_2	zinc acetate	466	KG00101205	fall	0.018986517563462257
+trial_2	zinc acetate	36	KG00106434	Vision, Blurring Of	0.018796760588884354
+trial_2	zinc acetate	195	KG00097814	Atopic Rhinitis	0.01862994208931923
+trial_2	zinc acetate	288	KG00101223	hypophosphataemia	0.01830236054956913
+trial_2	zinc acetate	138	KG00098796	epidemic vomiting syndrome	0.01825394108891487
+trial_2	zinc acetate	31	KG00099872	Infarction, Myocardial	0.018052946776151657
+trial_2	zinc acetate	508	KG00108565	blood glucose increased	0.017462819814682007
+trial_2	zinc acetate	503	KG00102612	low haemoglobin	0.017256155610084534
+trial_2	zinc acetate	98	KG00097718	Incised wound, NOS	0.017199819907546043
+trial_2	zinc acetate	164	KG00108827	ileus colon	0.017104074358940125
+trial_2	zinc acetate	213	KG00100600	Infectious Skin Diseases	0.01705114170908928
+trial_2	zinc acetate	371	KG00098517	Cystitis (NOS)	0.016782240942120552
+trial_2	zinc acetate	35	KG00101507	hypomagnesaemia	0.01659056358039379
+trial_2	zinc acetate	262	KG00101199	agitation	0.016477972269058228
+trial_2	zinc acetate	454	KG00098286	Pain, Neck	0.01620199717581272
+trial_2	zinc acetate	33	KG00100094	Pancreatitis NOS	0.016198068857192993
+trial_2	zinc acetate	356	KG00112623	Infectious Lung Disorders	0.016104016453027725

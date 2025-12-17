@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1226731687784195
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11271543055772781
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1121249720454216
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10911645740270615
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08455091714859009
+trial_1	placebo	68	KG00099901	nauseas	0.08247549831867218
+trial_1	placebo	21	KG00098675	dyspnoea	0.08027512580156326
+trial_1	placebo	20	KG00098540	dehydration	0.07809026539325714
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07776471227407455
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07653691619634628
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07516475021839142
+trial_1	placebo	46	KG00099121	Headache NOS	0.07265026122331619
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06457988172769547
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06367101520299911
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06281046569347382
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05250886455178261
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04733242467045784
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04477536305785179
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.043771564960479736
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04139908775687218
+trial_1	placebo	239	KG00100128	pareses	0.04090413451194763
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.040826935321092606
+trial_1	placebo	228	KG00114657	Weight below normal	0.04072791337966919
+trial_1	placebo	126	KG00100076	Pain NOS	0.040699928998947144
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04054224118590355
+trial_1	placebo	86	KG00098565	Depression, Mental	0.040424443781375885
+trial_1	placebo	104	KG00097963	arthralgias	0.040269095450639725
+trial_1	placebo	350	KG00106765	decreased platelet count	0.039397742599248886
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03916316479444504
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03696833550930023
+trial_1	placebo	5	KG00099169	haematuria	0.035656023770570755
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03540101647377014
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03537910804152489
+trial_1	placebo	85	KG00098474	coughs	0.03533235937356949
+trial_1	placebo	114	KG00098933	fevers	0.03527209535241127
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.035181667655706406
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03411007300019264
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03394528105854988
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.033188071101903915
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03305455297231674
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03221309185028076
+trial_1	placebo	102	KG00097916	anxieties	0.03129199519753456
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.030614634975790977
+trial_1	placebo	116	KG00098964	Pain in foot	0.030232694000005722
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029978524893522263
+trial_1	placebo	72	KG00103771	myalgias	0.029560407623648643
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029545851051807404
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02954292483627796
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029032859951257706
+trial_1	placebo	82	KG00097697	abdomen distended	0.02805056981742382
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02801418863236904
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027585992589592934
+trial_1	placebo	234	KG00098669	dysgeusias	0.027401581406593323
+trial_1	placebo	147	KG00098000	atelectases	0.02714901603758335
+trial_1	placebo	66	KG00098642	drowsiness	0.026278717443346977
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.024554988369345665
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.024549297988414764
+trial_1	placebo	454	KG00098286	Pain, Neck	0.024541595950722694
+trial_1	placebo	466	KG00101205	fall	0.024216104298830032
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024199049919843674
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.024163158610463142
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023857366293668747
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02366790361702442
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.023509737104177475
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.022957222536206245
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.022925766184926033
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022889945656061172
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022693997249007225
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022661859169602394
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022607214748859406
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02217119373381138
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.021512601524591446
+trial_1	placebo	269	KG00100399	pyaemia	0.02144630067050457
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021415727213025093
+trial_1	placebo	262	KG00101199	agitation	0.02129972353577614
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021275021135807037
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021262647584080696
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020992623642086983
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02076595649123192
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02037927508354187
+trial_1	placebo	164	KG00108827	ileus colon	0.020241135731339455
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019825797528028488
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.01950884610414505
+trial_1	placebo	132	KG00101045	Gain, Weight	0.019285183399915695
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019021332263946533
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01888399012386799
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018871545791625977
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01887134648859501
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01866665855050087
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01857778988778591
+trial_1	placebo	242	KG00100855	tremors	0.01849081926047802
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018399791792035103
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.018301427364349365
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01819985918700695
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018162105232477188
+trial_1	placebo	153	KG00099579	lethargy	0.018157294020056725
+trial_1	placebo	456	KG00099420	Influenzae	0.018146224319934845
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018005460500717163
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.017940668389201164
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.017840707674622536
+trial_2	zolmitriptan	87	KG00098599	diarrhoea	0.1226731687784195
+trial_2	zolmitriptan	9	KG00098432	Confusion NOS	0.11271543055772781
+trial_2	zolmitriptan	78	KG00099326	Hypertensive diseases	0.1121249720454216
+trial_2	zolmitriptan	17	KG00097991	Asthenia NOS	0.10911645740270615
+trial_2	zolmitriptan	49	KG00099902	nausea with vomiting	0.08455091714859009
+trial_2	zolmitriptan	68	KG00099901	nauseas	0.08247549831867218
+trial_2	zolmitriptan	21	KG00098675	dyspnoea	0.08027512580156326
+trial_2	zolmitriptan	20	KG00098540	dehydration	0.07809026539325714
+trial_2	zolmitriptan	173	KG00098172	Bronchopneumonia NOS	0.07776471227407455
+trial_2	zolmitriptan	123	KG00099351	hypokalaemia	0.07653691619634628
+trial_2	zolmitriptan	177	KG00099299	hyperglycaemia	0.07516475021839142
+trial_2	zolmitriptan	46	KG00099121	Headache NOS	0.07265026122331619
+trial_2	zolmitriptan	77	KG00098450	Constipation NOS	0.06457988172769547
+trial_2	zolmitriptan	79	KG00100317	Insomnia, Primary	0.06367101520299911
+trial_2	zolmitriptan	67	KG00098673	Dyspepsia, NOS	0.06281046569347382
+trial_2	zolmitriptan	37	KG00097696	Cramps, Abdominal	0.05250886455178261
+trial_2	zolmitriptan	200	KG00098539	Disorders, Deglutition	0.04733242467045784
+trial_2	zolmitriptan	189	KG00101580	Alanine aminotransferase increase	0.04477536305785179
+trial_2	zolmitriptan	64	KG00097734	Acrodermatitis, NOS	0.043771564960479736
+trial_2	zolmitriptan	14	KG00097852	Anemia NOS	0.04139908775687218
+trial_2	zolmitriptan	239	KG00100128	pareses	0.04090413451194763
+trial_2	zolmitriptan	188	KG00101579	Aspartate aminotransferase increase	0.040826935321092606
+trial_2	zolmitriptan	228	KG00114657	Weight below normal	0.04072791337966919
+trial_2	zolmitriptan	126	KG00100076	Pain NOS	0.040699928998947144
+trial_2	zolmitriptan	151	KG00098274	Infarction, Cerebral	0.04054224118590355
+trial_2	zolmitriptan	86	KG00098565	Depression, Mental	0.040424443781375885
+trial_2	zolmitriptan	104	KG00097963	arthralgias	0.040269095450639725
+trial_2	zolmitriptan	350	KG00106765	decreased platelet count	0.039397742599248886
+trial_2	zolmitriptan	29	KG00099354	hyponatraemia	0.03916316479444504
+trial_2	zolmitriptan	243	KG00100947	Micturition frequency increased	0.03696833550930023
+trial_2	zolmitriptan	5	KG00099169	haematuria	0.035656023770570755
+trial_2	zolmitriptan	101	KG00097901	Anorexia NOS	0.03540101647377014
+trial_2	zolmitriptan	76	KG00100450	Respiratory insufficiency, NOS	0.03537910804152489
+trial_2	zolmitriptan	85	KG00098474	coughs	0.03533235937356949
+trial_2	zolmitriptan	114	KG00098933	fevers	0.03527209535241127
+trial_2	zolmitriptan	180	KG00099363	Hypotension NOS	0.035181667655706406
+trial_2	zolmitriptan	2	KG00100772	thrombocytopaenia	0.03411007300019264
+trial_2	zolmitriptan	18	KG00098307	Pain, Chest	0.03394528105854988
+trial_2	zolmitriptan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.033188071101903915
+trial_2	zolmitriptan	61	KG00099501	Chronic Kidney Failure	0.03305455297231674
+trial_2	zolmitriptan	396	KG00100373	Embolism, Pulmonary	0.03221309185028076
+trial_2	zolmitriptan	102	KG00097916	anxieties	0.03129199519753456
+trial_2	zolmitriptan	38	KG00098066	Binocular vision disorders	0.030614634975790977
+trial_2	zolmitriptan	116	KG00098964	Pain in foot	0.030232694000005722
+trial_2	zolmitriptan	131	KG00100948	Urinary tract infection (& [NOS])	0.029978524893522263
+trial_2	zolmitriptan	72	KG00103771	myalgias	0.029560407623648643
+trial_2	zolmitriptan	30	KG00099500	Acute Kidney Failure	0.029545851051807404
+trial_2	zolmitriptan	28	KG00099347	hypoglycaemia	0.02954292483627796
+trial_2	zolmitriptan	139	KG00098855	Sinusitis, Ethmoid	0.029032859951257706
+trial_2	zolmitriptan	82	KG00097697	abdomen distended	0.02805056981742382
+trial_2	zolmitriptan	36	KG00106434	Vision, Blurring Of	0.02801418863236904
+trial_2	zolmitriptan	69	KG00100082	Palpitations NOS	0.027585992589592934
+trial_2	zolmitriptan	234	KG00098669	dysgeusias	0.027401581406593323
+trial_2	zolmitriptan	147	KG00098000	atelectases	0.02714901603758335
+trial_2	zolmitriptan	66	KG00098642	drowsiness	0.026278717443346977
+trial_2	zolmitriptan	96	KG00101679	Unattended death NOS	0.024554988369345665
+trial_2	zolmitriptan	179	KG00099342	hypocalcaemia	0.024549297988414764
+trial_2	zolmitriptan	454	KG00098286	Pain, Neck	0.024541595950722694
+trial_2	zolmitriptan	466	KG00101205	fall	0.024216104298830032
+trial_2	zolmitriptan	211	KG00100341	Pruritus NOS	0.024199049919843674
+trial_2	zolmitriptan	122	KG00099321	Hypersensitivity NOS	0.024163158610463142
+trial_2	zolmitriptan	75	KG00100195	Dolens, Phlegmasia Alba	0.023857366293668747
+trial_2	zolmitriptan	441	KG00098262	cellulitis nos	0.02366790361702442
+trial_2	zolmitriptan	166	KG00099773	menopausal syndrome	0.023509737104177475
+trial_2	zolmitriptan	261	KG00101559	raised alkaline phosphatase	0.022957222536206245
+trial_2	zolmitriptan	27	KG00099303	hyperkalaemia	0.022925766184926033
+trial_2	zolmitriptan	286	KG00101110	Retention, Urinary	0.022889945656061172
+trial_2	zolmitriptan	204	KG00098849	Esophagitis, Peptic	0.022693997249007225
+trial_2	zolmitriptan	194	KG00110727	Neutrophil Count Decreased	0.022661859169602394
+trial_2	zolmitriptan	361	KG00098004	Fibrillation, Atrial	0.022607214748859406
+trial_2	zolmitriptan	221	KG00101207	peripheral oedema	0.02217119373381138
+trial_2	zolmitriptan	422	KG00101429	Creatine phosphokinase increased	0.021512601524591446
+trial_2	zolmitriptan	269	KG00100399	pyaemia	0.02144630067050457
+trial_2	zolmitriptan	130	KG00100683	Stomatitis NOS	0.021415727213025093
+trial_2	zolmitriptan	262	KG00101199	agitation	0.02129972353577614
+trial_2	zolmitriptan	508	KG00108565	blood glucose increased	0.021275021135807037
+trial_2	zolmitriptan	191	KG00104055	Biliverdin increased	0.021262647584080696
+trial_2	zolmitriptan	276	KG00099127	Arrest, Cardiac	0.020992623642086983
+trial_2	zolmitriptan	199	KG00098371	Rhinitis (chronic) NOS	0.02076595649123192
+trial_2	zolmitriptan	355	KG00110857	lymphocyte count decreased	0.02037927508354187
+trial_2	zolmitriptan	164	KG00108827	ileus colon	0.020241135731339455
+trial_2	zolmitriptan	144	KG00099610	Leukopenia NOS	0.019825797528028488
+trial_2	zolmitriptan	218	KG00100801	Tinnitus NOS	0.01950884610414505
+trial_2	zolmitriptan	132	KG00101045	Gain, Weight	0.019285183399915695
+trial_2	zolmitriptan	249	KG00104430	hypoalbuminaemia	0.019021332263946533
+trial_2	zolmitriptan	154	KG00099686	Lymphopenias	0.01888399012386799
+trial_2	zolmitriptan	15	KG00097882	Angina pectoris NOS	0.018871545791625977
+trial_2	zolmitriptan	98	KG00097718	Incised wound, NOS	0.01887134648859501
+trial_2	zolmitriptan	282	KG00099309	hypernatraemia	0.01866665855050087
+trial_2	zolmitriptan	163	KG00104050	bowel obstructions small	0.01857778988778591
+trial_2	zolmitriptan	242	KG00100855	tremors	0.01849081926047802
+trial_2	zolmitriptan	11	KG00097993	Asthma NOS	0.018399791792035103
+trial_2	zolmitriptan	371	KG00098517	Cystitis (NOS)	0.018301427364349365
+trial_2	zolmitriptan	31	KG00099872	Infarction, Myocardial	0.01819985918700695
+trial_2	zolmitriptan	253	KG00100232	Pleural effusion NOS (disorder)	0.018162105232477188
+trial_2	zolmitriptan	153	KG00099579	lethargy	0.018157294020056725
+trial_2	zolmitriptan	456	KG00099420	Influenzae	0.018146224319934845
+trial_2	zolmitriptan	142	KG00100923	Unspecified infectious and parasitic diseases	0.018005460500717163
+trial_2	zolmitriptan	35	KG00101507	hypomagnesaemia	0.017940668389201164
+trial_2	zolmitriptan	341	KG00101472	Gamma-glutamyltransferase increased	0.017840707674622536

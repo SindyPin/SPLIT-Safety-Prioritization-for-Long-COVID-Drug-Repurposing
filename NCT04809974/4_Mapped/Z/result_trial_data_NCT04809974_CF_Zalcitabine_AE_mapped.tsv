@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.11895120143890381
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10700184106826782
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08559051156044006
+trial_1	placebo	68	KG00099901	nauseas	0.08194536715745926
+trial_1	placebo	20	KG00098540	dehydration	0.08151659369468689
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08012464642524719
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07678553462028503
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07174155116081238
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06982094049453735
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06811998784542084
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06330549716949463
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.055971480906009674
+trial_1	placebo	14	KG00097852	Anemia NOS	0.055680107325315475
+trial_1	placebo	21	KG00098675	dyspnoea	0.05561139062047005
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05401093140244484
+trial_1	placebo	46	KG00099121	Headache NOS	0.053201742470264435
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.051895301789045334
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.051276836544275284
+trial_1	placebo	114	KG00098933	fevers	0.04831235483288765
+trial_1	placebo	228	KG00114657	Weight below normal	0.04527910053730011
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.044924065470695496
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04253217577934265
+trial_1	placebo	126	KG00100076	Pain NOS	0.042495857924222946
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04189338907599449
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.040179431438446045
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03764956817030907
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0368657261133194
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03642236441373825
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03581623733043671
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03574247285723686
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03466366231441498
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03449907898902893
+trial_1	placebo	85	KG00098474	coughs	0.033151473850011826
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03279425576329231
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03064941242337227
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02930392138659954
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02919297106564045
+trial_1	placebo	147	KG00098000	atelectases	0.02919251285493374
+trial_1	placebo	269	KG00100399	pyaemia	0.028707634657621384
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02851288393139839
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.028123779222369194
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027727289125323296
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.027440669015049934
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02721458487212658
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026972727850079536
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0268112663179636
+trial_1	placebo	5	KG00099169	haematuria	0.025928106158971786
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02569366805255413
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02561059407889843
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02513052523136139
+trial_1	placebo	104	KG00097963	arthralgias	0.02454347535967827
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02446315996348858
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.024171147495508194
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.023603111505508423
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.023602085188031197
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02346993051469326
+trial_1	placebo	239	KG00100128	pareses	0.022180939093232155
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.022063765674829483
+trial_1	placebo	116	KG00098964	Pain in foot	0.02195494808256626
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.020696697756648064
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.020623015239834785
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02024124749004841
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02021314576268196
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02005474455654621
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0197617020457983
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.019633378833532333
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01958288811147213
+trial_1	placebo	186	KG00101431	creatinine increased	0.019451839849352837
+trial_1	placebo	82	KG00097697	abdomen distended	0.01871895231306553
+trial_1	placebo	221	KG00101207	peripheral oedema	0.018688268959522247
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018557239323854446
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01847163401544094
+trial_1	placebo	72	KG00103771	myalgias	0.018353406339883804
+trial_1	placebo	102	KG00097916	anxieties	0.018338490277528763
+trial_1	placebo	466	KG00101205	fall	0.018143296241760254
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.017767544835805893
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01760733313858509
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01735551655292511
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.017064303159713745
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01698317565023899
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.016807302832603455
+trial_1	placebo	503	KG00102612	low haemoglobin	0.016407188028097153
+trial_1	placebo	121	KG00099190	haemorrhage	0.016336364671587944
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01625349558889866
+trial_1	placebo	234	KG00098669	dysgeusias	0.01594736985862255
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01587509550154209
+trial_1	placebo	164	KG00108827	ileus colon	0.015796862542629242
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015402523800730705
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.014992086216807365
+trial_1	placebo	132	KG00101045	Gain, Weight	0.014956973493099213
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.014761088415980339
+trial_1	placebo	154	KG00099686	Lymphopenias	0.014492705464363098
+trial_1	placebo	4	KG00098817	epistaxis	0.014446325600147247
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.014218161813914776
+trial_1	placebo	456	KG00099420	Influenzae	0.013675995171070099
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.013319005258381367
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.01290927641093731
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01279306598007679
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01268371008336544
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.012666171416640282
+trial_2	zalcitabine	87	KG00098599	diarrhoea	0.11895120143890381
+trial_2	zalcitabine	78	KG00099326	Hypertensive diseases	0.10700184106826782
+trial_2	zalcitabine	173	KG00098172	Bronchopneumonia NOS	0.08559051156044006
+trial_2	zalcitabine	68	KG00099901	nauseas	0.08194536715745926
+trial_2	zalcitabine	20	KG00098540	dehydration	0.08151659369468689
+trial_2	zalcitabine	9	KG00098432	Confusion NOS	0.08012464642524719
+trial_2	zalcitabine	123	KG00099351	hypokalaemia	0.07678553462028503
+trial_2	zalcitabine	49	KG00099902	nausea with vomiting	0.07174155116081238
+trial_2	zalcitabine	177	KG00099299	hyperglycaemia	0.06982094049453735
+trial_2	zalcitabine	189	KG00101580	Alanine aminotransferase increase	0.06811998784542084
+trial_2	zalcitabine	17	KG00097991	Asthenia NOS	0.06330549716949463
+trial_2	zalcitabine	37	KG00097696	Cramps, Abdominal	0.055971480906009674
+trial_2	zalcitabine	14	KG00097852	Anemia NOS	0.055680107325315475
+trial_2	zalcitabine	21	KG00098675	dyspnoea	0.05561139062047005
+trial_2	zalcitabine	77	KG00098450	Constipation NOS	0.05401093140244484
+trial_2	zalcitabine	46	KG00099121	Headache NOS	0.053201742470264435
+trial_2	zalcitabine	188	KG00101579	Aspartate aminotransferase increase	0.051895301789045334
+trial_2	zalcitabine	2	KG00100772	thrombocytopaenia	0.051276836544275284
+trial_2	zalcitabine	114	KG00098933	fevers	0.04831235483288765
+trial_2	zalcitabine	228	KG00114657	Weight below normal	0.04527910053730011
+trial_2	zalcitabine	64	KG00097734	Acrodermatitis, NOS	0.044924065470695496
+trial_2	zalcitabine	61	KG00099501	Chronic Kidney Failure	0.04253217577934265
+trial_2	zalcitabine	126	KG00100076	Pain NOS	0.042495857924222946
+trial_2	zalcitabine	29	KG00099354	hyponatraemia	0.04189338907599449
+trial_2	zalcitabine	151	KG00098274	Infarction, Cerebral	0.040179431438446045
+trial_2	zalcitabine	79	KG00100317	Insomnia, Primary	0.03764956817030907
+trial_2	zalcitabine	67	KG00098673	Dyspepsia, NOS	0.0368657261133194
+trial_2	zalcitabine	86	KG00098565	Depression, Mental	0.03642236441373825
+trial_2	zalcitabine	30	KG00099500	Acute Kidney Failure	0.03581623733043671
+trial_2	zalcitabine	180	KG00099363	Hypotension NOS	0.03574247285723686
+trial_2	zalcitabine	200	KG00098539	Disorders, Deglutition	0.03466366231441498
+trial_2	zalcitabine	350	KG00106765	decreased platelet count	0.03449907898902893
+trial_2	zalcitabine	85	KG00098474	coughs	0.033151473850011826
+trial_2	zalcitabine	76	KG00100450	Respiratory insufficiency, NOS	0.03279425576329231
+trial_2	zalcitabine	396	KG00100373	Embolism, Pulmonary	0.03064941242337227
+trial_2	zalcitabine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02930392138659954
+trial_2	zalcitabine	194	KG00110727	Neutrophil Count Decreased	0.02919297106564045
+trial_2	zalcitabine	147	KG00098000	atelectases	0.02919251285493374
+trial_2	zalcitabine	269	KG00100399	pyaemia	0.028707634657621384
+trial_2	zalcitabine	131	KG00100948	Urinary tract infection (& [NOS])	0.02851288393139839
+trial_2	zalcitabine	101	KG00097901	Anorexia NOS	0.028123779222369194
+trial_2	zalcitabine	441	KG00098262	cellulitis nos	0.027727289125323296
+trial_2	zalcitabine	28	KG00099347	hypoglycaemia	0.027440669015049934
+trial_2	zalcitabine	38	KG00098066	Binocular vision disorders	0.02721458487212658
+trial_2	zalcitabine	96	KG00101679	Unattended death NOS	0.026972727850079536
+trial_2	zalcitabine	1	KG00099959	Neutropenia NOS	0.0268112663179636
+trial_2	zalcitabine	5	KG00099169	haematuria	0.025928106158971786
+trial_2	zalcitabine	122	KG00099321	Hypersensitivity NOS	0.02569366805255413
+trial_2	zalcitabine	75	KG00100195	Dolens, Phlegmasia Alba	0.02561059407889843
+trial_2	zalcitabine	144	KG00099610	Leukopenia NOS	0.02513052523136139
+trial_2	zalcitabine	104	KG00097963	arthralgias	0.02454347535967827
+trial_2	zalcitabine	139	KG00098855	Sinusitis, Ethmoid	0.02446315996348858
+trial_2	zalcitabine	191	KG00104055	Biliverdin increased	0.024171147495508194
+trial_2	zalcitabine	27	KG00099303	hyperkalaemia	0.023603111505508423
+trial_2	zalcitabine	142	KG00100923	Unspecified infectious and parasitic diseases	0.023602085188031197
+trial_2	zalcitabine	18	KG00098307	Pain, Chest	0.02346993051469326
+trial_2	zalcitabine	239	KG00100128	pareses	0.022180939093232155
+trial_2	zalcitabine	261	KG00101559	raised alkaline phosphatase	0.022063765674829483
+trial_2	zalcitabine	116	KG00098964	Pain in foot	0.02195494808256626
+trial_2	zalcitabine	138	KG00098796	epidemic vomiting syndrome	0.020696697756648064
+trial_2	zalcitabine	243	KG00100947	Micturition frequency increased	0.020623015239834785
+trial_2	zalcitabine	276	KG00099127	Arrest, Cardiac	0.02024124749004841
+trial_2	zalcitabine	179	KG00099342	hypocalcaemia	0.02021314576268196
+trial_2	zalcitabine	253	KG00100232	Pleural effusion NOS (disorder)	0.02005474455654621
+trial_2	zalcitabine	361	KG00098004	Fibrillation, Atrial	0.0197617020457983
+trial_2	zalcitabine	31	KG00099872	Infarction, Myocardial	0.019633378833532333
+trial_2	zalcitabine	130	KG00100683	Stomatitis NOS	0.01958288811147213
+trial_2	zalcitabine	186	KG00101431	creatinine increased	0.019451839849352837
+trial_2	zalcitabine	82	KG00097697	abdomen distended	0.01871895231306553
+trial_2	zalcitabine	221	KG00101207	peripheral oedema	0.018688268959522247
+trial_2	zalcitabine	69	KG00100082	Palpitations NOS	0.018557239323854446
+trial_2	zalcitabine	282	KG00099309	hypernatraemia	0.01847163401544094
+trial_2	zalcitabine	72	KG00103771	myalgias	0.018353406339883804
+trial_2	zalcitabine	102	KG00097916	anxieties	0.018338490277528763
+trial_2	zalcitabine	466	KG00101205	fall	0.018143296241760254
+trial_2	zalcitabine	199	KG00098371	Rhinitis (chronic) NOS	0.017767544835805893
+trial_2	zalcitabine	211	KG00100341	Pruritus NOS	0.01760733313858509
+trial_2	zalcitabine	204	KG00098849	Esophagitis, Peptic	0.01735551655292511
+trial_2	zalcitabine	92	KG00100926	Infections, Upper Respiratory	0.017064303159713745
+trial_2	zalcitabine	11	KG00097993	Asthma NOS	0.01698317565023899
+trial_2	zalcitabine	35	KG00101507	hypomagnesaemia	0.016807302832603455
+trial_2	zalcitabine	503	KG00102612	low haemoglobin	0.016407188028097153
+trial_2	zalcitabine	121	KG00099190	haemorrhage	0.016336364671587944
+trial_2	zalcitabine	36	KG00106434	Vision, Blurring Of	0.01625349558889866
+trial_2	zalcitabine	234	KG00098669	dysgeusias	0.01594736985862255
+trial_2	zalcitabine	249	KG00104430	hypoalbuminaemia	0.01587509550154209
+trial_2	zalcitabine	164	KG00108827	ileus colon	0.015796862542629242
+trial_2	zalcitabine	286	KG00101110	Retention, Urinary	0.015402523800730705
+trial_2	zalcitabine	195	KG00097814	Atopic Rhinitis	0.014992086216807365
+trial_2	zalcitabine	132	KG00101045	Gain, Weight	0.014956973493099213
+trial_2	zalcitabine	118	KG00099011	Gastritis NOS	0.014761088415980339
+trial_2	zalcitabine	154	KG00099686	Lymphopenias	0.014492705464363098
+trial_2	zalcitabine	4	KG00098817	epistaxis	0.014446325600147247
+trial_2	zalcitabine	268	KG00099557	Heart Failure, Left-Sided	0.014218161813914776
+trial_2	zalcitabine	456	KG00099420	Influenzae	0.013675995171070099
+trial_2	zalcitabine	394	KG00100243	Pneumonia, Aspiration	0.013319005258381367
+trial_2	zalcitabine	97	KG00104198	LIVER ENZYME ELEVATED	0.01290927641093731
+trial_2	zalcitabine	508	KG00108565	blood glucose increased	0.01279306598007679
+trial_2	zalcitabine	371	KG00098517	Cystitis (NOS)	0.01268371008336544
+trial_2	zalcitabine	33	KG00100094	Pancreatitis NOS	0.012666171416640282

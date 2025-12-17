@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	132	KG00101045	Gain, Weight	0.15620747208595276
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13306675851345062
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1097041666507721
+trial_1	placebo	9	KG00098432	Confusion NOS	0.101125568151474
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08781001716852188
+trial_1	placebo	86	KG00098565	Depression, Mental	0.08616959303617477
+trial_1	placebo	87	KG00098599	diarrhoea	0.08532500267028809
+trial_1	placebo	66	KG00098642	drowsiness	0.08062119781970978
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07985398173332214
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07977163791656494
+trial_1	placebo	21	KG00098675	dyspnoea	0.07294285297393799
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06832346320152283
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06480306386947632
+trial_1	placebo	242	KG00100855	tremors	0.06298080831766129
+trial_1	placebo	46	KG00099121	Headache NOS	0.062094930559396744
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.061294037848711014
+trial_1	placebo	20	KG00098540	dehydration	0.05998549610376358
+trial_1	placebo	228	KG00114657	Weight below normal	0.05605243891477585
+trial_1	placebo	262	KG00101199	agitation	0.051119592040777206
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.050453197211027145
+trial_1	placebo	68	KG00099901	nauseas	0.0496276319026947
+trial_1	placebo	300	KG00101064	xerostomia	0.049606602638959885
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0475662536919117
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.047031745314598083
+trial_1	placebo	104	KG00097963	arthralgias	0.046758249402046204
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.046615369617938995
+trial_1	placebo	102	KG00097916	anxieties	0.04548078402876854
+trial_1	placebo	123	KG00099351	hypokalaemia	0.044351015239953995
+trial_1	placebo	85	KG00098474	coughs	0.04184972494840622
+trial_1	placebo	783	KG00106735	Acathisia	0.04169534891843796
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04150901362299919
+trial_1	placebo	466	KG00101205	fall	0.041225336492061615
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.037971340119838715
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.036589059978723526
+trial_1	placebo	333	KG00104019	DOPINESS	0.03535234555602074
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03520529717206955
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03515895456075668
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.034159161150455475
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03314291685819626
+trial_1	placebo	114	KG00098933	fevers	0.03206825628876686
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.031966906040906906
+trial_1	placebo	126	KG00100076	Pain NOS	0.03189597651362419
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.031050438061356544
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.030906502157449722
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03083723783493042
+trial_1	placebo	81	KG00103828	Increased appetite (finding)	0.030110057443380356
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.029162690043449402
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.028657102957367897
+trial_1	placebo	239	KG00100128	pareses	0.028453906998038292
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02825249172747135
+trial_1	placebo	11	KG00097993	Asthma NOS	0.027548206970095634
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.027120959013700485
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02704659476876259
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02660648338496685
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026373187080025673
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02607959695160389
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026007821783423424
+trial_1	placebo	116	KG00098964	Pain in foot	0.025777654722332954
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.025456078350543976
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.025236601009964943
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02385786734521389
+trial_1	placebo	456	KG00099420	Influenzae	0.023839078843593597
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023650864139199257
+trial_1	placebo	290	KG00103881	Physical wandering	0.023434864357113838
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02264324203133583
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.022452563047409058
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.021758506074547768
+trial_1	placebo	7	KG00097787	Aggressive Behaviour	0.020812656730413437
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02066570147871971
+trial_1	placebo	739	KG00100119	Paraphrenia, NOS	0.019872022792696953
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01978744938969612
+trial_1	placebo	80	KG00100516	of saliva secretion	0.019593551754951477
+trial_1	placebo	281	KG00098869	extrapyramidal; disorder	0.019557476043701172
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.019404258579015732
+trial_1	placebo	5	KG00099169	haematuria	0.019299913197755814
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019181424751877785
+trial_1	placebo	345	KG00103926	impairments memory	0.01904626563191414
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01903029903769493
+trial_1	placebo	121	KG00099190	haemorrhage	0.018963025882840157
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.018939979374408722
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018835939466953278
+trial_1	placebo	508	KG00108565	blood glucose increased	0.018703633919358253
+trial_1	placebo	493	KG00098679	dystonias	0.018648263067007065
+trial_1	placebo	269	KG00100399	pyaemia	0.018565448001027107
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018051734194159508
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01796276867389679
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.017603185027837753
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.017517540603876114
+trial_1	placebo	178	KG00099307	Type IV Hyperlipoproteinemia	0.017284683883190155
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01696200668811798
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.016919275745749474
+trial_1	placebo	147	KG00098000	atelectases	0.016834722831845284
+trial_1	placebo	342	KG00101570	intervals prolonged qt	0.01677553728222847
+trial_1	placebo	63	KG00100707	suicide attempts	0.01666092872619629
+trial_1	placebo	441	KG00098262	cellulitis nos	0.016494208946824074
+trial_1	placebo	136	KG00101582	Dry;skin	0.01633359119296074
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.016187554225325584
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.016159595921635628
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.01613835245370865
+trial_1	placebo	933	KG00103917	Auditory Hallucinations	0.016032299026846886
+trial_2	ziprasidone	132	KG00101045	Gain, Weight	0.15620747208595276
+trial_2	ziprasidone	17	KG00097991	Asthenia NOS	0.13306675851345062
+trial_2	ziprasidone	78	KG00099326	Hypertensive diseases	0.1097041666507721
+trial_2	ziprasidone	9	KG00098432	Confusion NOS	0.101125568151474
+trial_2	ziprasidone	79	KG00100317	Insomnia, Primary	0.08781001716852188
+trial_2	ziprasidone	86	KG00098565	Depression, Mental	0.08616959303617477
+trial_2	ziprasidone	87	KG00098599	diarrhoea	0.08532500267028809
+trial_2	ziprasidone	66	KG00098642	drowsiness	0.08062119781970978
+trial_2	ziprasidone	177	KG00099299	hyperglycaemia	0.07985398173332214
+trial_2	ziprasidone	173	KG00098172	Bronchopneumonia NOS	0.07977163791656494
+trial_2	ziprasidone	21	KG00098675	dyspnoea	0.07294285297393799
+trial_2	ziprasidone	77	KG00098450	Constipation NOS	0.06832346320152283
+trial_2	ziprasidone	49	KG00099902	nausea with vomiting	0.06480306386947632
+trial_2	ziprasidone	242	KG00100855	tremors	0.06298080831766129
+trial_2	ziprasidone	46	KG00099121	Headache NOS	0.062094930559396744
+trial_2	ziprasidone	151	KG00098274	Infarction, Cerebral	0.061294037848711014
+trial_2	ziprasidone	20	KG00098540	dehydration	0.05998549610376358
+trial_2	ziprasidone	228	KG00114657	Weight below normal	0.05605243891477585
+trial_2	ziprasidone	262	KG00101199	agitation	0.051119592040777206
+trial_2	ziprasidone	189	KG00101580	Alanine aminotransferase increase	0.050453197211027145
+trial_2	ziprasidone	68	KG00099901	nauseas	0.0496276319026947
+trial_2	ziprasidone	300	KG00101064	xerostomia	0.049606602638959885
+trial_2	ziprasidone	29	KG00099354	hyponatraemia	0.0475662536919117
+trial_2	ziprasidone	64	KG00097734	Acrodermatitis, NOS	0.047031745314598083
+trial_2	ziprasidone	104	KG00097963	arthralgias	0.046758249402046204
+trial_2	ziprasidone	96	KG00101679	Unattended death NOS	0.046615369617938995
+trial_2	ziprasidone	102	KG00097916	anxieties	0.04548078402876854
+trial_2	ziprasidone	123	KG00099351	hypokalaemia	0.044351015239953995
+trial_2	ziprasidone	85	KG00098474	coughs	0.04184972494840622
+trial_2	ziprasidone	783	KG00106735	Acathisia	0.04169534891843796
+trial_2	ziprasidone	67	KG00098673	Dyspepsia, NOS	0.04150901362299919
+trial_2	ziprasidone	466	KG00101205	fall	0.041225336492061615
+trial_2	ziprasidone	28	KG00099347	hypoglycaemia	0.037971340119838715
+trial_2	ziprasidone	76	KG00100450	Respiratory insufficiency, NOS	0.036589059978723526
+trial_2	ziprasidone	333	KG00104019	DOPINESS	0.03535234555602074
+trial_2	ziprasidone	180	KG00099363	Hypotension NOS	0.03520529717206955
+trial_2	ziprasidone	188	KG00101579	Aspartate aminotransferase increase	0.03515895456075668
+trial_2	ziprasidone	37	KG00097696	Cramps, Abdominal	0.034159161150455475
+trial_2	ziprasidone	30	KG00099500	Acute Kidney Failure	0.03314291685819626
+trial_2	ziprasidone	114	KG00098933	fevers	0.03206825628876686
+trial_2	ziprasidone	36	KG00106434	Vision, Blurring Of	0.031966906040906906
+trial_2	ziprasidone	126	KG00100076	Pain NOS	0.03189597651362419
+trial_2	ziprasidone	101	KG00097901	Anorexia NOS	0.031050438061356544
+trial_2	ziprasidone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.030906502157449722
+trial_2	ziprasidone	200	KG00098539	Disorders, Deglutition	0.03083723783493042
+trial_2	ziprasidone	81	KG00103828	Increased appetite (finding)	0.030110057443380356
+trial_2	ziprasidone	61	KG00099501	Chronic Kidney Failure	0.029162690043449402
+trial_2	ziprasidone	182	KG00100366	Disorders, Psychotic	0.028657102957367897
+trial_2	ziprasidone	239	KG00100128	pareses	0.028453906998038292
+trial_2	ziprasidone	131	KG00100948	Urinary tract infection (& [NOS])	0.02825249172747135
+trial_2	ziprasidone	11	KG00097993	Asthma NOS	0.027548206970095634
+trial_2	ziprasidone	199	KG00098371	Rhinitis (chronic) NOS	0.027120959013700485
+trial_2	ziprasidone	152	KG00099402	INCONTINENCE NOS	0.02704659476876259
+trial_2	ziprasidone	14	KG00097852	Anemia NOS	0.02660648338496685
+trial_2	ziprasidone	18	KG00098307	Pain, Chest	0.026373187080025673
+trial_2	ziprasidone	422	KG00101429	Creatine phosphokinase increased	0.02607959695160389
+trial_2	ziprasidone	350	KG00106765	decreased platelet count	0.026007821783423424
+trial_2	ziprasidone	116	KG00098964	Pain in foot	0.025777654722332954
+trial_2	ziprasidone	243	KG00100947	Micturition frequency increased	0.025456078350543976
+trial_2	ziprasidone	225	KG00104032	Suicidal tendencies	0.025236601009964943
+trial_2	ziprasidone	297	KG00099294	hypercholesterolaemia	0.02385786734521389
+trial_2	ziprasidone	456	KG00099420	Influenzae	0.023839078843593597
+trial_2	ziprasidone	139	KG00098855	Sinusitis, Ethmoid	0.023650864139199257
+trial_2	ziprasidone	290	KG00103881	Physical wandering	0.023434864357113838
+trial_2	ziprasidone	191	KG00104055	Biliverdin increased	0.02264324203133583
+trial_2	ziprasidone	92	KG00100926	Infections, Upper Respiratory	0.022452563047409058
+trial_2	ziprasidone	118	KG00099011	Gastritis NOS	0.021758506074547768
+trial_2	ziprasidone	7	KG00097787	Aggressive Behaviour	0.020812656730413437
+trial_2	ziprasidone	69	KG00100082	Palpitations NOS	0.02066570147871971
+trial_2	ziprasidone	739	KG00100119	Paraphrenia, NOS	0.019872022792696953
+trial_2	ziprasidone	221	KG00101207	peripheral oedema	0.01978744938969612
+trial_2	ziprasidone	80	KG00100516	of saliva secretion	0.019593551754951477
+trial_2	ziprasidone	281	KG00098869	extrapyramidal; disorder	0.019557476043701172
+trial_2	ziprasidone	22	KG00098705	Edema (NOS)	0.019404258579015732
+trial_2	ziprasidone	5	KG00099169	haematuria	0.019299913197755814
+trial_2	ziprasidone	142	KG00100923	Unspecified infectious and parasitic diseases	0.019181424751877785
+trial_2	ziprasidone	345	KG00103926	impairments memory	0.01904626563191414
+trial_2	ziprasidone	122	KG00099321	Hypersensitivity NOS	0.01903029903769493
+trial_2	ziprasidone	121	KG00099190	haemorrhage	0.018963025882840157
+trial_2	ziprasidone	341	KG00101472	Gamma-glutamyltransferase increased	0.018939979374408722
+trial_2	ziprasidone	27	KG00099303	hyperkalaemia	0.018835939466953278
+trial_2	ziprasidone	508	KG00108565	blood glucose increased	0.018703633919358253
+trial_2	ziprasidone	493	KG00098679	dystonias	0.018648263067007065
+trial_2	ziprasidone	269	KG00100399	pyaemia	0.018565448001027107
+trial_2	ziprasidone	138	KG00098796	epidemic vomiting syndrome	0.018051734194159508
+trial_2	ziprasidone	211	KG00100341	Pruritus NOS	0.01796276867389679
+trial_2	ziprasidone	286	KG00101110	Retention, Urinary	0.017603185027837753
+trial_2	ziprasidone	38	KG00098066	Binocular vision disorders	0.017517540603876114
+trial_2	ziprasidone	178	KG00099307	Type IV Hyperlipoproteinemia	0.017284683883190155
+trial_2	ziprasidone	261	KG00101559	raised alkaline phosphatase	0.01696200668811798
+trial_2	ziprasidone	394	KG00100243	Pneumonia, Aspiration	0.016919275745749474
+trial_2	ziprasidone	147	KG00098000	atelectases	0.016834722831845284
+trial_2	ziprasidone	342	KG00101570	intervals prolonged qt	0.01677553728222847
+trial_2	ziprasidone	63	KG00100707	suicide attempts	0.01666092872619629
+trial_2	ziprasidone	441	KG00098262	cellulitis nos	0.016494208946824074
+trial_2	ziprasidone	136	KG00101582	Dry;skin	0.01633359119296074
+trial_2	ziprasidone	396	KG00100373	Embolism, Pulmonary	0.016187554225325584
+trial_2	ziprasidone	130	KG00100683	Stomatitis NOS	0.016159595921635628
+trial_2	ziprasidone	166	KG00099773	menopausal syndrome	0.01613835245370865
+trial_2	ziprasidone	933	KG00103917	Auditory Hallucinations	0.016032299026846886

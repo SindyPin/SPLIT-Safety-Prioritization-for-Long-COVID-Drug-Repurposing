@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.21904852986335754
+trial_1	placebo	87	KG00098599	diarrhoea	0.18804648518562317
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.16808263957500458
+trial_1	placebo	68	KG00099901	nauseas	0.1455606371164322
+trial_1	placebo	77	KG00098450	Constipation NOS	0.14176876842975616
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12774910032749176
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.12120189517736435
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11008990556001663
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10386152565479279
+trial_1	placebo	228	KG00114657	Weight below normal	0.08901779353618622
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08790238946676254
+trial_1	placebo	46	KG00099121	Headache NOS	0.07665213942527771
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07551119476556778
+trial_1	placebo	21	KG00098675	dyspnoea	0.07432372868061066
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06957492232322693
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06609682738780975
+trial_1	placebo	20	KG00098540	dehydration	0.06518237292766571
+trial_1	placebo	300	KG00101064	xerostomia	0.0638154000043869
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05567363649606705
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05495117977261543
+trial_1	placebo	66	KG00098642	drowsiness	0.05435623973608017
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05381166189908981
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05380237475037575
+trial_1	placebo	102	KG00097916	anxieties	0.05126607418060303
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04989094287157059
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04959607869386673
+trial_1	placebo	239	KG00100128	pareses	0.046743057668209076
+trial_1	placebo	126	KG00100076	Pain NOS	0.04368365928530693
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04179420694708824
+trial_1	placebo	114	KG00098933	fevers	0.041358139365911484
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04085967317223549
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04084891080856323
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.039448194205760956
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03930017724633217
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.038361284881830215
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03790312632918358
+trial_1	placebo	104	KG00097963	arthralgias	0.03787382319569588
+trial_1	placebo	85	KG00098474	coughs	0.036737628281116486
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03518208861351013
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0331304594874382
+trial_1	placebo	242	KG00100855	tremors	0.032994162291288376
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.032506585121154785
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03242107853293419
+trial_1	placebo	234	KG00098669	dysgeusias	0.03230816870927811
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.030467456206679344
+trial_1	placebo	262	KG00101199	agitation	0.03046654537320137
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02995375543832779
+trial_1	placebo	466	KG00101205	fall	0.02976013533771038
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02893528901040554
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.028890373185276985
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028591511771082878
+trial_1	placebo	116	KG00098964	Pain in foot	0.02854679524898529
+trial_1	placebo	5	KG00099169	haematuria	0.02784552611410618
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027843015268445015
+trial_1	placebo	221	KG00101207	peripheral oedema	0.027710041031241417
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.027017803862690926
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02696865424513817
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02607923373579979
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02607259713113308
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026066021993756294
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.025958562269806862
+trial_1	placebo	82	KG00097697	abdomen distended	0.025415901094675064
+trial_1	placebo	72	KG00103771	myalgias	0.025094611570239067
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.024787195026874542
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024654779583215714
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02443595416843891
+trial_1	placebo	18	KG00098307	Pain, Chest	0.024015316739678383
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02296881191432476
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.022854970768094063
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022701125591993332
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022687779739499092
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022282637655735016
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.022228429093956947
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.0221339613199234
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.021864857524633408
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02145838923752308
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.021385490894317627
+trial_1	placebo	456	KG00099420	Influenzae	0.021356550976634026
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02071460895240307
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02066507376730442
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.020311255007982254
+trial_1	placebo	269	KG00100399	pyaemia	0.02029469422996044
+trial_1	placebo	345	KG00103926	impairments memory	0.020105231553316116
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.020101869478821754
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01985900290310383
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.019570929929614067
+trial_1	placebo	147	KG00098000	atelectases	0.0195621307939291
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018671058118343353
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.018618181347846985
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018549442291259766
+trial_1	placebo	339	KG00100334	proteinurias	0.01842815987765789
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018226277083158493
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01804230362176895
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.017864318564534187
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.017837591469287872
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.0176161527633667
+trial_1	placebo	186	KG00101431	creatinine increased	0.017408553510904312
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.017114201560616493
+trial_1	placebo	4	KG00098817	epistaxis	0.0170244462788105
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.016577770933508873
+trial_2	milnacipran	9	KG00098432	Confusion NOS	0.21904852986335754
+trial_2	milnacipran	87	KG00098599	diarrhoea	0.18804648518562317
+trial_2	milnacipran	17	KG00097991	Asthenia NOS	0.16808263957500458
+trial_2	milnacipran	68	KG00099901	nauseas	0.1455606371164322
+trial_2	milnacipran	77	KG00098450	Constipation NOS	0.14176876842975616
+trial_2	milnacipran	78	KG00099326	Hypertensive diseases	0.12774910032749176
+trial_2	milnacipran	101	KG00097901	Anorexia NOS	0.12120189517736435
+trial_2	milnacipran	79	KG00100317	Insomnia, Primary	0.11008990556001663
+trial_2	milnacipran	49	KG00099902	nausea with vomiting	0.10386152565479279
+trial_2	milnacipran	228	KG00114657	Weight below normal	0.08901779353618622
+trial_2	milnacipran	173	KG00098172	Bronchopneumonia NOS	0.08790238946676254
+trial_2	milnacipran	46	KG00099121	Headache NOS	0.07665213942527771
+trial_2	milnacipran	177	KG00099299	hyperglycaemia	0.07551119476556778
+trial_2	milnacipran	21	KG00098675	dyspnoea	0.07432372868061066
+trial_2	milnacipran	37	KG00097696	Cramps, Abdominal	0.06957492232322693
+trial_2	milnacipran	123	KG00099351	hypokalaemia	0.06609682738780975
+trial_2	milnacipran	20	KG00098540	dehydration	0.06518237292766571
+trial_2	milnacipran	300	KG00101064	xerostomia	0.0638154000043869
+trial_2	milnacipran	67	KG00098673	Dyspepsia, NOS	0.05567363649606705
+trial_2	milnacipran	86	KG00098565	Depression, Mental	0.05495117977261543
+trial_2	milnacipran	66	KG00098642	drowsiness	0.05435623973608017
+trial_2	milnacipran	64	KG00097734	Acrodermatitis, NOS	0.05381166189908981
+trial_2	milnacipran	132	KG00101045	Gain, Weight	0.05380237475037575
+trial_2	milnacipran	102	KG00097916	anxieties	0.05126607418060303
+trial_2	milnacipran	151	KG00098274	Infarction, Cerebral	0.04989094287157059
+trial_2	milnacipran	189	KG00101580	Alanine aminotransferase increase	0.04959607869386673
+trial_2	milnacipran	239	KG00100128	pareses	0.046743057668209076
+trial_2	milnacipran	126	KG00100076	Pain NOS	0.04368365928530693
+trial_2	milnacipran	188	KG00101579	Aspartate aminotransferase increase	0.04179420694708824
+trial_2	milnacipran	114	KG00098933	fevers	0.041358139365911484
+trial_2	milnacipran	180	KG00099363	Hypotension NOS	0.04085967317223549
+trial_2	milnacipran	29	KG00099354	hyponatraemia	0.04084891080856323
+trial_2	milnacipran	200	KG00098539	Disorders, Deglutition	0.039448194205760956
+trial_2	milnacipran	243	KG00100947	Micturition frequency increased	0.03930017724633217
+trial_2	milnacipran	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.038361284881830215
+trial_2	milnacipran	14	KG00097852	Anemia NOS	0.03790312632918358
+trial_2	milnacipran	104	KG00097963	arthralgias	0.03787382319569588
+trial_2	milnacipran	85	KG00098474	coughs	0.036737628281116486
+trial_2	milnacipran	76	KG00100450	Respiratory insufficiency, NOS	0.03518208861351013
+trial_2	milnacipran	350	KG00106765	decreased platelet count	0.0331304594874382
+trial_2	milnacipran	242	KG00100855	tremors	0.032994162291288376
+trial_2	milnacipran	89	KG00099301	Hyperhidrosis (disorder)	0.032506585121154785
+trial_2	milnacipran	36	KG00106434	Vision, Blurring Of	0.03242107853293419
+trial_2	milnacipran	234	KG00098669	dysgeusias	0.03230816870927811
+trial_2	milnacipran	69	KG00100082	Palpitations NOS	0.030467456206679344
+trial_2	milnacipran	262	KG00101199	agitation	0.03046654537320137
+trial_2	milnacipran	199	KG00098371	Rhinitis (chronic) NOS	0.02995375543832779
+trial_2	milnacipran	466	KG00101205	fall	0.02976013533771038
+trial_2	milnacipran	61	KG00099501	Chronic Kidney Failure	0.02893528901040554
+trial_2	milnacipran	38	KG00098066	Binocular vision disorders	0.028890373185276985
+trial_2	milnacipran	361	KG00098004	Fibrillation, Atrial	0.028591511771082878
+trial_2	milnacipran	116	KG00098964	Pain in foot	0.02854679524898529
+trial_2	milnacipran	5	KG00099169	haematuria	0.02784552611410618
+trial_2	milnacipran	131	KG00100948	Urinary tract infection (& [NOS])	0.027843015268445015
+trial_2	milnacipran	221	KG00101207	peripheral oedema	0.027710041031241417
+trial_2	milnacipran	30	KG00099500	Acute Kidney Failure	0.027017803862690926
+trial_2	milnacipran	261	KG00101559	raised alkaline phosphatase	0.02696865424513817
+trial_2	milnacipran	28	KG00099347	hypoglycaemia	0.02607923373579979
+trial_2	milnacipran	2	KG00100772	thrombocytopaenia	0.02607259713113308
+trial_2	milnacipran	96	KG00101679	Unattended death NOS	0.026066021993756294
+trial_2	milnacipran	139	KG00098855	Sinusitis, Ethmoid	0.025958562269806862
+trial_2	milnacipran	82	KG00097697	abdomen distended	0.025415901094675064
+trial_2	milnacipran	72	KG00103771	myalgias	0.025094611570239067
+trial_2	milnacipran	179	KG00099342	hypocalcaemia	0.024787195026874542
+trial_2	milnacipran	396	KG00100373	Embolism, Pulmonary	0.024654779583215714
+trial_2	milnacipran	191	KG00104055	Biliverdin increased	0.02443595416843891
+trial_2	milnacipran	18	KG00098307	Pain, Chest	0.024015316739678383
+trial_2	milnacipran	122	KG00099321	Hypersensitivity NOS	0.02296881191432476
+trial_2	milnacipran	92	KG00100926	Infections, Upper Respiratory	0.022854970768094063
+trial_2	milnacipran	130	KG00100683	Stomatitis NOS	0.022701125591993332
+trial_2	milnacipran	441	KG00098262	cellulitis nos	0.022687779739499092
+trial_2	milnacipran	204	KG00098849	Esophagitis, Peptic	0.022282637655735016
+trial_2	milnacipran	27	KG00099303	hyperkalaemia	0.022228429093956947
+trial_2	milnacipran	249	KG00104430	hypoalbuminaemia	0.0221339613199234
+trial_2	milnacipran	194	KG00110727	Neutrophil Count Decreased	0.021864857524633408
+trial_2	milnacipran	211	KG00100341	Pruritus NOS	0.02145838923752308
+trial_2	milnacipran	218	KG00100801	Tinnitus NOS	0.021385490894317627
+trial_2	milnacipran	456	KG00099420	Influenzae	0.021356550976634026
+trial_2	milnacipran	35	KG00101507	hypomagnesaemia	0.02071460895240307
+trial_2	milnacipran	286	KG00101110	Retention, Urinary	0.02066507376730442
+trial_2	milnacipran	355	KG00110857	lymphocyte count decreased	0.020311255007982254
+trial_2	milnacipran	269	KG00100399	pyaemia	0.02029469422996044
+trial_2	milnacipran	345	KG00103926	impairments memory	0.020105231553316116
+trial_2	milnacipran	422	KG00101429	Creatine phosphokinase increased	0.020101869478821754
+trial_2	milnacipran	22	KG00098705	Edema (NOS)	0.01985900290310383
+trial_2	milnacipran	166	KG00099773	menopausal syndrome	0.019570929929614067
+trial_2	milnacipran	147	KG00098000	atelectases	0.0195621307939291
+trial_2	milnacipran	11	KG00097993	Asthma NOS	0.018671058118343353
+trial_2	milnacipran	75	KG00100195	Dolens, Phlegmasia Alba	0.018618181347846985
+trial_2	milnacipran	15	KG00097882	Angina pectoris NOS	0.018549442291259766
+trial_2	milnacipran	339	KG00100334	proteinurias	0.01842815987765789
+trial_2	milnacipran	138	KG00098796	epidemic vomiting syndrome	0.018226277083158493
+trial_2	milnacipran	98	KG00097718	Incised wound, NOS	0.01804230362176895
+trial_2	milnacipran	133	KG00101370	neuropathies sensory	0.017864318564534187
+trial_2	milnacipran	288	KG00101223	hypophosphataemia	0.017837591469287872
+trial_2	milnacipran	118	KG00099011	Gastritis NOS	0.0176161527633667
+trial_2	milnacipran	186	KG00101431	creatinine increased	0.017408553510904312
+trial_2	milnacipran	256	KG00100738	Tachycardia, Sinus	0.017114201560616493
+trial_2	milnacipran	4	KG00098817	epistaxis	0.0170244462788105
+trial_2	milnacipran	31	KG00099872	Infarction, Myocardial	0.016577770933508873

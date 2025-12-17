@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1854553520679474
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.18332362174987793
+trial_1	placebo	87	KG00098599	diarrhoea	0.1656184196472168
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12615251541137695
+trial_1	placebo	66	KG00098642	drowsiness	0.10827752202749252
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10514304041862488
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10161209851503372
+trial_1	placebo	68	KG00099901	nauseas	0.1004573255777359
+trial_1	placebo	132	KG00101045	Gain, Weight	0.09866242855787277
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09412720799446106
+trial_1	placebo	300	KG00101064	xerostomia	0.0893859937787056
+trial_1	placebo	46	KG00099121	Headache NOS	0.08261832594871521
+trial_1	placebo	20	KG00098540	dehydration	0.07657086104154587
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07534540444612503
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0750008225440979
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0736960917711258
+trial_1	placebo	228	KG00114657	Weight below normal	0.07181937992572784
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06839870661497116
+trial_1	placebo	21	KG00098675	dyspnoea	0.06810177117586136
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06354986876249313
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06154962256550789
+trial_1	placebo	102	KG00097916	anxieties	0.053630392998456955
+trial_1	placebo	242	KG00100855	tremors	0.053625673055648804
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05261795595288277
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05018201097846031
+trial_1	placebo	85	KG00098474	coughs	0.04797505587339401
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04744673892855644
+trial_1	placebo	104	KG00097963	arthralgias	0.04630567133426666
+trial_1	placebo	114	KG00098933	fevers	0.04451918601989746
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04400236904621124
+trial_1	placebo	262	KG00101199	agitation	0.04123730584979057
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0396735779941082
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03840269148349762
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03795609623193741
+trial_1	placebo	239	KG00100128	pareses	0.0378967821598053
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.037878718227148056
+trial_1	placebo	126	KG00100076	Pain NOS	0.037508971989154816
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03710256144404411
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03673538565635681
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03518836200237274
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03357139974832535
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03268535062670708
+trial_1	placebo	466	KG00101205	fall	0.03253987058997154
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03139235079288483
+trial_1	placebo	14	KG00097852	Anemia NOS	0.030778728425502777
+trial_1	placebo	350	KG00106765	decreased platelet count	0.030143458396196365
+trial_1	placebo	116	KG00098964	Pain in foot	0.029766187071800232
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02873198501765728
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.028149329125881195
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.027742762118577957
+trial_1	placebo	82	KG00097697	abdomen distended	0.027633748948574066
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.026954293251037598
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026938114315271378
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.026556799188256264
+trial_1	placebo	456	KG00099420	Influenzae	0.026142941787838936
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02605704963207245
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025532787665724754
+trial_1	placebo	333	KG00104019	DOPINESS	0.025349130854010582
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.025314759463071823
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025168923661112785
+trial_1	placebo	5	KG00099169	haematuria	0.025046830996870995
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024015244096517563
+trial_1	placebo	234	KG00098669	dysgeusias	0.02342093177139759
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.023325374349951744
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02314065583050251
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022990545257925987
+trial_1	placebo	345	KG00103926	impairments memory	0.02224935218691826
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.022226562723517418
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022219005972146988
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.022036241367459297
+trial_1	placebo	11	KG00097993	Asthma NOS	0.022033696994185448
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.022010307759046555
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021965056657791138
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021738160401582718
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.021657757461071014
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.021496843546628952
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02133326418697834
+trial_1	placebo	81	KG00103828	Increased appetite (finding)	0.021253341808915138
+trial_1	placebo	72	KG00103771	myalgias	0.021242359653115273
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021231427788734436
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020711999386548996
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019814496859908104
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.01979280821979046
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019703399389982224
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.019635304808616638
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019318390637636185
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.019314290955662727
+trial_1	placebo	153	KG00099579	lethargy	0.01927647367119789
+trial_1	placebo	165	KG00098537	Libido Decreased	0.019123826175928116
+trial_1	placebo	136	KG00101582	Dry;skin	0.019060388207435608
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01895998790860176
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.018742702901363373
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018457399681210518
+trial_1	placebo	290	KG00103881	Physical wandering	0.01839161477982998
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018232887610793114
+trial_1	placebo	382	KG00099200	haemorrhoids	0.017676081508398056
+trial_1	placebo	182	KG00100366	Disorders, Psychotic	0.017584772780537605
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01739349402487278
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.017361536622047424
+trial_1	placebo	783	KG00106735	Acathisia	0.017078984528779984
+trial_2	mirtazapine	9	KG00098432	Confusion NOS	0.1854553520679474
+trial_2	mirtazapine	17	KG00097991	Asthenia NOS	0.18332362174987793
+trial_2	mirtazapine	87	KG00098599	diarrhoea	0.1656184196472168
+trial_2	mirtazapine	77	KG00098450	Constipation NOS	0.12615251541137695
+trial_2	mirtazapine	66	KG00098642	drowsiness	0.10827752202749252
+trial_2	mirtazapine	79	KG00100317	Insomnia, Primary	0.10514304041862488
+trial_2	mirtazapine	78	KG00099326	Hypertensive diseases	0.10161209851503372
+trial_2	mirtazapine	68	KG00099901	nauseas	0.1004573255777359
+trial_2	mirtazapine	132	KG00101045	Gain, Weight	0.09866242855787277
+trial_2	mirtazapine	49	KG00099902	nausea with vomiting	0.09412720799446106
+trial_2	mirtazapine	300	KG00101064	xerostomia	0.0893859937787056
+trial_2	mirtazapine	46	KG00099121	Headache NOS	0.08261832594871521
+trial_2	mirtazapine	20	KG00098540	dehydration	0.07657086104154587
+trial_2	mirtazapine	177	KG00099299	hyperglycaemia	0.07534540444612503
+trial_2	mirtazapine	173	KG00098172	Bronchopneumonia NOS	0.0750008225440979
+trial_2	mirtazapine	86	KG00098565	Depression, Mental	0.0736960917711258
+trial_2	mirtazapine	228	KG00114657	Weight below normal	0.07181937992572784
+trial_2	mirtazapine	101	KG00097901	Anorexia NOS	0.06839870661497116
+trial_2	mirtazapine	21	KG00098675	dyspnoea	0.06810177117586136
+trial_2	mirtazapine	67	KG00098673	Dyspepsia, NOS	0.06354986876249313
+trial_2	mirtazapine	37	KG00097696	Cramps, Abdominal	0.06154962256550789
+trial_2	mirtazapine	102	KG00097916	anxieties	0.053630392998456955
+trial_2	mirtazapine	242	KG00100855	tremors	0.053625673055648804
+trial_2	mirtazapine	151	KG00098274	Infarction, Cerebral	0.05261795595288277
+trial_2	mirtazapine	123	KG00099351	hypokalaemia	0.05018201097846031
+trial_2	mirtazapine	85	KG00098474	coughs	0.04797505587339401
+trial_2	mirtazapine	189	KG00101580	Alanine aminotransferase increase	0.04744673892855644
+trial_2	mirtazapine	104	KG00097963	arthralgias	0.04630567133426666
+trial_2	mirtazapine	114	KG00098933	fevers	0.04451918601989746
+trial_2	mirtazapine	64	KG00097734	Acrodermatitis, NOS	0.04400236904621124
+trial_2	mirtazapine	262	KG00101199	agitation	0.04123730584979057
+trial_2	mirtazapine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0396735779941082
+trial_2	mirtazapine	36	KG00106434	Vision, Blurring Of	0.03840269148349762
+trial_2	mirtazapine	29	KG00099354	hyponatraemia	0.03795609623193741
+trial_2	mirtazapine	239	KG00100128	pareses	0.0378967821598053
+trial_2	mirtazapine	188	KG00101579	Aspartate aminotransferase increase	0.037878718227148056
+trial_2	mirtazapine	126	KG00100076	Pain NOS	0.037508971989154816
+trial_2	mirtazapine	200	KG00098539	Disorders, Deglutition	0.03710256144404411
+trial_2	mirtazapine	243	KG00100947	Micturition frequency increased	0.03673538565635681
+trial_2	mirtazapine	180	KG00099363	Hypotension NOS	0.03518836200237274
+trial_2	mirtazapine	199	KG00098371	Rhinitis (chronic) NOS	0.03357139974832535
+trial_2	mirtazapine	96	KG00101679	Unattended death NOS	0.03268535062670708
+trial_2	mirtazapine	466	KG00101205	fall	0.03253987058997154
+trial_2	mirtazapine	18	KG00098307	Pain, Chest	0.03139235079288483
+trial_2	mirtazapine	14	KG00097852	Anemia NOS	0.030778728425502777
+trial_2	mirtazapine	350	KG00106765	decreased platelet count	0.030143458396196365
+trial_2	mirtazapine	116	KG00098964	Pain in foot	0.029766187071800232
+trial_2	mirtazapine	131	KG00100948	Urinary tract infection (& [NOS])	0.02873198501765728
+trial_2	mirtazapine	422	KG00101429	Creatine phosphokinase increased	0.028149329125881195
+trial_2	mirtazapine	28	KG00099347	hypoglycaemia	0.027742762118577957
+trial_2	mirtazapine	82	KG00097697	abdomen distended	0.027633748948574066
+trial_2	mirtazapine	89	KG00099301	Hyperhidrosis (disorder)	0.026954293251037598
+trial_2	mirtazapine	30	KG00099500	Acute Kidney Failure	0.026938114315271378
+trial_2	mirtazapine	76	KG00100450	Respiratory insufficiency, NOS	0.026556799188256264
+trial_2	mirtazapine	456	KG00099420	Influenzae	0.026142941787838936
+trial_2	mirtazapine	139	KG00098855	Sinusitis, Ethmoid	0.02605704963207245
+trial_2	mirtazapine	92	KG00100926	Infections, Upper Respiratory	0.025532787665724754
+trial_2	mirtazapine	333	KG00104019	DOPINESS	0.025349130854010582
+trial_2	mirtazapine	191	KG00104055	Biliverdin increased	0.025314759463071823
+trial_2	mirtazapine	69	KG00100082	Palpitations NOS	0.025168923661112785
+trial_2	mirtazapine	5	KG00099169	haematuria	0.025046830996870995
+trial_2	mirtazapine	38	KG00098066	Binocular vision disorders	0.024015244096517563
+trial_2	mirtazapine	234	KG00098669	dysgeusias	0.02342093177139759
+trial_2	mirtazapine	61	KG00099501	Chronic Kidney Failure	0.023325374349951744
+trial_2	mirtazapine	261	KG00101559	raised alkaline phosphatase	0.02314065583050251
+trial_2	mirtazapine	204	KG00098849	Esophagitis, Peptic	0.022990545257925987
+trial_2	mirtazapine	345	KG00103926	impairments memory	0.02224935218691826
+trial_2	mirtazapine	122	KG00099321	Hypersensitivity NOS	0.022226562723517418
+trial_2	mirtazapine	166	KG00099773	menopausal syndrome	0.022219005972146988
+trial_2	mirtazapine	94	KG00103829	abdominal discomfort	0.022036241367459297
+trial_2	mirtazapine	11	KG00097993	Asthma NOS	0.022033696994185448
+trial_2	mirtazapine	138	KG00098796	epidemic vomiting syndrome	0.022010307759046555
+trial_2	mirtazapine	286	KG00101110	Retention, Urinary	0.021965056657791138
+trial_2	mirtazapine	130	KG00100683	Stomatitis NOS	0.021738160401582718
+trial_2	mirtazapine	118	KG00099011	Gastritis NOS	0.021657757461071014
+trial_2	mirtazapine	225	KG00104032	Suicidal tendencies	0.021496843546628952
+trial_2	mirtazapine	152	KG00099402	INCONTINENCE NOS	0.02133326418697834
+trial_2	mirtazapine	81	KG00103828	Increased appetite (finding)	0.021253341808915138
+trial_2	mirtazapine	72	KG00103771	myalgias	0.021242359653115273
+trial_2	mirtazapine	211	KG00100341	Pruritus NOS	0.021231427788734436
+trial_2	mirtazapine	22	KG00098705	Edema (NOS)	0.020711999386548996
+trial_2	mirtazapine	221	KG00101207	peripheral oedema	0.019814496859908104
+trial_2	mirtazapine	235	KG00098682	Dysuria NOS	0.01979280821979046
+trial_2	mirtazapine	508	KG00108565	blood glucose increased	0.019703399389982224
+trial_2	mirtazapine	2	KG00100772	thrombocytopaenia	0.019635304808616638
+trial_2	mirtazapine	194	KG00110727	Neutrophil Count Decreased	0.019318390637636185
+trial_2	mirtazapine	341	KG00101472	Gamma-glutamyltransferase increased	0.019314290955662727
+trial_2	mirtazapine	153	KG00099579	lethargy	0.01927647367119789
+trial_2	mirtazapine	165	KG00098537	Libido Decreased	0.019123826175928116
+trial_2	mirtazapine	136	KG00101582	Dry;skin	0.019060388207435608
+trial_2	mirtazapine	396	KG00100373	Embolism, Pulmonary	0.01895998790860176
+trial_2	mirtazapine	297	KG00099294	hypercholesterolaemia	0.018742702901363373
+trial_2	mirtazapine	27	KG00099303	hyperkalaemia	0.018457399681210518
+trial_2	mirtazapine	290	KG00103881	Physical wandering	0.01839161477982998
+trial_2	mirtazapine	15	KG00097882	Angina pectoris NOS	0.018232887610793114
+trial_2	mirtazapine	382	KG00099200	haemorrhoids	0.017676081508398056
+trial_2	mirtazapine	182	KG00100366	Disorders, Psychotic	0.017584772780537605
+trial_2	mirtazapine	371	KG00098517	Cystitis (NOS)	0.01739349402487278
+trial_2	mirtazapine	256	KG00100738	Tachycardia, Sinus	0.017361536622047424
+trial_2	mirtazapine	783	KG00106735	Acathisia	0.017078984528779984

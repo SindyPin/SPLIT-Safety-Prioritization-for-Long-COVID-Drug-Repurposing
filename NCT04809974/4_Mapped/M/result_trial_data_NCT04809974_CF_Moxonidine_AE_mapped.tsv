@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.13208825886249542
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11363748461008072
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09440244734287262
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08594512939453125
+trial_1	placebo	20	KG00098540	dehydration	0.07876595109701157
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07340914756059647
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07232765853404999
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07169108092784882
+trial_1	placebo	46	KG00099121	Headache NOS	0.06750884652137756
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06471039354801178
+trial_1	placebo	21	KG00098675	dyspnoea	0.05615464225411415
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05404963344335556
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05369267240166664
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05363006517291069
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.053325105458498
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05134773999452591
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04842932149767876
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.048020265996456146
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.047571782022714615
+trial_1	placebo	68	KG00099901	nauseas	0.046639081090688705
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04662588983774185
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04662525653839111
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04649805650115013
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04631359875202179
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04541369900107384
+trial_1	placebo	228	KG00114657	Weight below normal	0.043207839131355286
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04295431450009346
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.042946361005306244
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04239645227789879
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04110207036137581
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04106052592396736
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0409417599439621
+trial_1	placebo	126	KG00100076	Pain NOS	0.039679210633039474
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03950425237417221
+trial_1	placebo	239	KG00100128	pareses	0.03948533162474632
+trial_1	placebo	147	KG00098000	atelectases	0.037511639297008514
+trial_1	placebo	5	KG00099169	haematuria	0.036999769508838654
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.0347849577665329
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03437793254852295
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.034170590341091156
+trial_1	placebo	114	KG00098933	fevers	0.03388739004731178
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03387468680739403
+trial_1	placebo	121	KG00099190	haemorrhage	0.03387304022908211
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03313620388507843
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.032365232706069946
+trial_1	placebo	104	KG00097963	arthralgias	0.032104089856147766
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03161199390888214
+trial_1	placebo	72	KG00103771	myalgias	0.03153751790523529
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.031362347304821014
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03092043474316597
+trial_1	placebo	164	KG00108827	ileus colon	0.03039691224694252
+trial_1	placebo	282	KG00099309	hypernatraemia	0.029695607721805573
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.029604768380522728
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029483262449502945
+trial_1	placebo	466	KG00101205	fall	0.027697937563061714
+trial_1	placebo	102	KG00097916	anxieties	0.027644315734505653
+trial_1	placebo	85	KG00098474	coughs	0.027456674724817276
+trial_1	placebo	82	KG00097697	abdomen distended	0.026951761916279793
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.026933154091238976
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026372121647000313
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0258542001247406
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.025338241830468178
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.025289233773946762
+trial_1	placebo	269	KG00100399	pyaemia	0.02517356351017952
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.024837277829647064
+trial_1	placebo	132	KG00101045	Gain, Weight	0.024700766429305077
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.024649998173117638
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02464311011135578
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.024027954787015915
+trial_1	placebo	441	KG00098262	cellulitis nos	0.024022046476602554
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02302243746817112
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02289724163711071
+trial_1	placebo	116	KG00098964	Pain in foot	0.02288963831961155
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022748759016394615
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022662650793790817
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.022642819210886955
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02252672240138054
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.022243693470954895
+trial_1	placebo	262	KG00101199	agitation	0.02214367501437664
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02189074642956257
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.021792486310005188
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0216060783714056
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.021443713456392288
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02141307108104229
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02121734246611595
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021167179569602013
+trial_1	placebo	234	KG00098669	dysgeusias	0.020847557112574577
+trial_1	placebo	382	KG00099200	haemorrhoids	0.020831521600484848
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.020814931020140648
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020741239190101624
+trial_1	placebo	221	KG00101207	peripheral oedema	0.020703762769699097
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020577246323227882
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.020542524755001068
+trial_1	placebo	186	KG00101431	creatinine increased	0.020424608141183853
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01982533372938633
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.019629646092653275
+trial_1	placebo	4	KG00098817	epistaxis	0.019575098529458046
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01955718733370304
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.019508101046085358
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.019432218745350838
+trial_2	moxonidine	87	KG00098599	diarrhoea	0.13208825886249542
+trial_2	moxonidine	78	KG00099326	Hypertensive diseases	0.11363748461008072
+trial_2	moxonidine	123	KG00099351	hypokalaemia	0.09440244734287262
+trial_2	moxonidine	177	KG00099299	hyperglycaemia	0.08594512939453125
+trial_2	moxonidine	20	KG00098540	dehydration	0.07876595109701157
+trial_2	moxonidine	9	KG00098432	Confusion NOS	0.07340914756059647
+trial_2	moxonidine	67	KG00098673	Dyspepsia, NOS	0.07232765853404999
+trial_2	moxonidine	17	KG00097991	Asthenia NOS	0.07169108092784882
+trial_2	moxonidine	46	KG00099121	Headache NOS	0.06750884652137756
+trial_2	moxonidine	173	KG00098172	Bronchopneumonia NOS	0.06471039354801178
+trial_2	moxonidine	21	KG00098675	dyspnoea	0.05615464225411415
+trial_2	moxonidine	77	KG00098450	Constipation NOS	0.05404963344335556
+trial_2	moxonidine	200	KG00098539	Disorders, Deglutition	0.05369267240166664
+trial_2	moxonidine	189	KG00101580	Alanine aminotransferase increase	0.05363006517291069
+trial_2	moxonidine	37	KG00097696	Cramps, Abdominal	0.053325105458498
+trial_2	moxonidine	29	KG00099354	hyponatraemia	0.05134773999452591
+trial_2	moxonidine	188	KG00101579	Aspartate aminotransferase increase	0.04842932149767876
+trial_2	moxonidine	243	KG00100947	Micturition frequency increased	0.048020265996456146
+trial_2	moxonidine	180	KG00099363	Hypotension NOS	0.047571782022714615
+trial_2	moxonidine	68	KG00099901	nauseas	0.046639081090688705
+trial_2	moxonidine	350	KG00106765	decreased platelet count	0.04662588983774185
+trial_2	moxonidine	79	KG00100317	Insomnia, Primary	0.04662525653839111
+trial_2	moxonidine	76	KG00100450	Respiratory insufficiency, NOS	0.04649805650115013
+trial_2	moxonidine	179	KG00099342	hypocalcaemia	0.04631359875202179
+trial_2	moxonidine	49	KG00099902	nausea with vomiting	0.04541369900107384
+trial_2	moxonidine	228	KG00114657	Weight below normal	0.043207839131355286
+trial_2	moxonidine	14	KG00097852	Anemia NOS	0.04295431450009346
+trial_2	moxonidine	28	KG00099347	hypoglycaemia	0.042946361005306244
+trial_2	moxonidine	27	KG00099303	hyperkalaemia	0.04239645227789879
+trial_2	moxonidine	61	KG00099501	Chronic Kidney Failure	0.04110207036137581
+trial_2	moxonidine	2	KG00100772	thrombocytopaenia	0.04106052592396736
+trial_2	moxonidine	151	KG00098274	Infarction, Cerebral	0.0409417599439621
+trial_2	moxonidine	126	KG00100076	Pain NOS	0.039679210633039474
+trial_2	moxonidine	64	KG00097734	Acrodermatitis, NOS	0.03950425237417221
+trial_2	moxonidine	239	KG00100128	pareses	0.03948533162474632
+trial_2	moxonidine	147	KG00098000	atelectases	0.037511639297008514
+trial_2	moxonidine	5	KG00099169	haematuria	0.036999769508838654
+trial_2	moxonidine	276	KG00099127	Arrest, Cardiac	0.0347849577665329
+trial_2	moxonidine	122	KG00099321	Hypersensitivity NOS	0.03437793254852295
+trial_2	moxonidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.034170590341091156
+trial_2	moxonidine	114	KG00098933	fevers	0.03388739004731178
+trial_2	moxonidine	86	KG00098565	Depression, Mental	0.03387468680739403
+trial_2	moxonidine	121	KG00099190	haemorrhage	0.03387304022908211
+trial_2	moxonidine	101	KG00097901	Anorexia NOS	0.03313620388507843
+trial_2	moxonidine	30	KG00099500	Acute Kidney Failure	0.032365232706069946
+trial_2	moxonidine	104	KG00097963	arthralgias	0.032104089856147766
+trial_2	moxonidine	18	KG00098307	Pain, Chest	0.03161199390888214
+trial_2	moxonidine	72	KG00103771	myalgias	0.03153751790523529
+trial_2	moxonidine	96	KG00101679	Unattended death NOS	0.031362347304821014
+trial_2	moxonidine	38	KG00098066	Binocular vision disorders	0.03092043474316597
+trial_2	moxonidine	164	KG00108827	ileus colon	0.03039691224694252
+trial_2	moxonidine	282	KG00099309	hypernatraemia	0.029695607721805573
+trial_2	moxonidine	35	KG00101507	hypomagnesaemia	0.029604768380522728
+trial_2	moxonidine	69	KG00100082	Palpitations NOS	0.029483262449502945
+trial_2	moxonidine	466	KG00101205	fall	0.027697937563061714
+trial_2	moxonidine	102	KG00097916	anxieties	0.027644315734505653
+trial_2	moxonidine	85	KG00098474	coughs	0.027456674724817276
+trial_2	moxonidine	82	KG00097697	abdomen distended	0.026951761916279793
+trial_2	moxonidine	191	KG00104055	Biliverdin increased	0.026933154091238976
+trial_2	moxonidine	396	KG00100373	Embolism, Pulmonary	0.026372121647000313
+trial_2	moxonidine	253	KG00100232	Pleural effusion NOS (disorder)	0.0258542001247406
+trial_2	moxonidine	355	KG00110857	lymphocyte count decreased	0.025338241830468178
+trial_2	moxonidine	249	KG00104430	hypoalbuminaemia	0.025289233773946762
+trial_2	moxonidine	269	KG00100399	pyaemia	0.02517356351017952
+trial_2	moxonidine	256	KG00100738	Tachycardia, Sinus	0.024837277829647064
+trial_2	moxonidine	132	KG00101045	Gain, Weight	0.024700766429305077
+trial_2	moxonidine	371	KG00098517	Cystitis (NOS)	0.024649998173117638
+trial_2	moxonidine	194	KG00110727	Neutrophil Count Decreased	0.02464311011135578
+trial_2	moxonidine	286	KG00101110	Retention, Urinary	0.024027954787015915
+trial_2	moxonidine	441	KG00098262	cellulitis nos	0.024022046476602554
+trial_2	moxonidine	131	KG00100948	Urinary tract infection (& [NOS])	0.02302243746817112
+trial_2	moxonidine	361	KG00098004	Fibrillation, Atrial	0.02289724163711071
+trial_2	moxonidine	116	KG00098964	Pain in foot	0.02288963831961155
+trial_2	moxonidine	142	KG00100923	Unspecified infectious and parasitic diseases	0.022748759016394615
+trial_2	moxonidine	75	KG00100195	Dolens, Phlegmasia Alba	0.022662650793790817
+trial_2	moxonidine	261	KG00101559	raised alkaline phosphatase	0.022642819210886955
+trial_2	moxonidine	31	KG00099872	Infarction, Myocardial	0.02252672240138054
+trial_2	moxonidine	288	KG00101223	hypophosphataemia	0.022243693470954895
+trial_2	moxonidine	262	KG00101199	agitation	0.02214367501437664
+trial_2	moxonidine	268	KG00099557	Heart Failure, Left-Sided	0.02189074642956257
+trial_2	moxonidine	394	KG00100243	Pneumonia, Aspiration	0.021792486310005188
+trial_2	moxonidine	36	KG00106434	Vision, Blurring Of	0.0216060783714056
+trial_2	moxonidine	422	KG00101429	Creatine phosphokinase increased	0.021443713456392288
+trial_2	moxonidine	33	KG00100094	Pancreatitis NOS	0.02141307108104229
+trial_2	moxonidine	152	KG00099402	INCONTINENCE NOS	0.02121734246611595
+trial_2	moxonidine	204	KG00098849	Esophagitis, Peptic	0.021167179569602013
+trial_2	moxonidine	234	KG00098669	dysgeusias	0.020847557112574577
+trial_2	moxonidine	382	KG00099200	haemorrhoids	0.020831521600484848
+trial_2	moxonidine	139	KG00098855	Sinusitis, Ethmoid	0.020814931020140648
+trial_2	moxonidine	144	KG00099610	Leukopenia NOS	0.020741239190101624
+trial_2	moxonidine	221	KG00101207	peripheral oedema	0.020703762769699097
+trial_2	moxonidine	22	KG00098705	Edema (NOS)	0.020577246323227882
+trial_2	moxonidine	400	KG00100925	Upper gastrointestinal haemorrhage	0.020542524755001068
+trial_2	moxonidine	186	KG00101431	creatinine increased	0.020424608141183853
+trial_2	moxonidine	508	KG00108565	blood glucose increased	0.01982533372938633
+trial_2	moxonidine	183	KG00100449	Adult Respiratory Distress Syndrome	0.019629646092653275
+trial_2	moxonidine	4	KG00098817	epistaxis	0.019575098529458046
+trial_2	moxonidine	98	KG00097718	Incised wound, NOS	0.01955718733370304
+trial_2	moxonidine	356	KG00112623	Infectious Lung Disorders	0.019508101046085358
+trial_2	moxonidine	271	KG00103813	reflex bradycardia	0.019432218745350838

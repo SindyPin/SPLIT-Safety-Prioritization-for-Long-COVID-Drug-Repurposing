@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.054435890167951584
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.041918352246284485
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.035169851034879684
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03454967215657234
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.03452780097723007
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03354600816965103
+trial_1	placebo	9	KG00098432	Confusion NOS	0.03043663688004017
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.02724408730864525
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026434917002916336
+trial_1	placebo	46	KG00099121	Headache NOS	0.02563565969467163
+trial_1	placebo	21	KG00098675	dyspnoea	0.025019867345690727
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.024700749665498734
+trial_1	placebo	147	KG00098000	atelectases	0.024595368653535843
+trial_1	placebo	14	KG00097852	Anemia NOS	0.023881958797574043
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.023322174325585365
+trial_1	placebo	20	KG00098540	dehydration	0.022349271923303604
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.022229386493563652
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021201498806476593
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.020585935562849045
+trial_1	placebo	114	KG00098933	fevers	0.019720731303095818
+trial_1	placebo	269	KG00100399	pyaemia	0.019620638340711594
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01920800656080246
+trial_1	placebo	126	KG00100076	Pain NOS	0.01898004859685898
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.018377477303147316
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01815882883965969
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.017056681215763092
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.016868986189365387
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.016689609736204147
+trial_1	placebo	85	KG00098474	coughs	0.01653488352894783
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016477052122354507
+trial_1	placebo	77	KG00098450	Constipation NOS	0.015997665002942085
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.015845153480768204
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015721119940280914
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.015563858672976494
+trial_1	placebo	68	KG00099901	nauseas	0.01530742458999157
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014522935263812542
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01385027077049017
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.013741202652454376
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.013719473965466022
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.013688035309314728
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.013315428048372269
+trial_1	placebo	29	KG00099354	hyponatraemia	0.013308418914675713
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.013267194852232933
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.013217161409556866
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.013151444494724274
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.013111487030982971
+trial_1	placebo	121	KG00099190	haemorrhage	0.012937761843204498
+trial_1	placebo	5	KG00099169	haematuria	0.012849180959165096
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.012739639729261398
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01241080928593874
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.012306354939937592
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01174911204725504
+trial_1	placebo	86	KG00098565	Depression, Mental	0.011374060995876789
+trial_1	placebo	350	KG00106765	decreased platelet count	0.011096114292740822
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.011089544743299484
+trial_1	placebo	228	KG00114657	Weight below normal	0.011072734370827675
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.010759491473436356
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.010675542056560516
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.010535312816500664
+trial_1	placebo	104	KG00097963	arthralgias	0.01047717034816742
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.009955905377864838
+trial_1	placebo	4	KG00098817	epistaxis	0.009803617373108864
+trial_1	placebo	164	KG00108827	ileus colon	0.00973410066217184
+trial_1	placebo	18	KG00098307	Pain, Chest	0.009583606384694576
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.00957979541271925
+trial_1	placebo	221	KG00101207	peripheral oedema	0.009521743282675743
+trial_1	placebo	282	KG00099309	hypernatraemia	0.009353517554700375
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.009323159232735634
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.009266099892556667
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.00900172721594572
+trial_1	placebo	234	KG00098669	dysgeusias	0.00899355486035347
+trial_1	placebo	72	KG00103771	myalgias	0.008810505270957947
+trial_1	placebo	102	KG00097916	anxieties	0.008785252459347248
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.008776163682341576
+trial_1	placebo	186	KG00101431	creatinine increased	0.008667504414916039
+trial_1	placebo	136	KG00101582	Dry;skin	0.008454764261841774
+trial_1	placebo	239	KG00100128	pareses	0.008318559266626835
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.008219036273658276
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.008193964138627052
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.008193964138627052
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.008090403862297535
+trial_1	placebo	713	KG00107657	distressed respiratory	0.008029000833630562
+trial_1	placebo	11	KG00097993	Asthma NOS	0.007993861101567745
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.00796112883836031
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.007933124899864197
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.007899896241724491
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.007850348949432373
+trial_1	placebo	82	KG00097697	abdomen distended	0.007824597880244255
+trial_1	placebo	398	KG00100580	Shock, Septic	0.007647705264389515
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.007628555875271559
+trial_1	placebo	257	KG00100922	Erythema NOS	0.007625700905919075
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.007601926103234291
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.007601331919431686
+trial_1	placebo	25	KG00099134	congestive failures heart	0.007518365513533354
+trial_1	placebo	116	KG00098964	Pain in foot	0.007493985816836357
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.007487647235393524
+trial_1	placebo	71	KG00100958	urticarias	0.007441132329404354
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.007412722799926996
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.007377388887107372
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.007311473600566387
+trial_2	mupirocin	87	KG00098599	diarrhoea	0.054435890167951584
+trial_2	mupirocin	173	KG00098172	Bronchopneumonia NOS	0.041918352246284485
+trial_2	mupirocin	78	KG00099326	Hypertensive diseases	0.035169851034879684
+trial_2	mupirocin	123	KG00099351	hypokalaemia	0.03454967215657234
+trial_2	mupirocin	177	KG00099299	hyperglycaemia	0.03452780097723007
+trial_2	mupirocin	64	KG00097734	Acrodermatitis, NOS	0.03354600816965103
+trial_2	mupirocin	9	KG00098432	Confusion NOS	0.03043663688004017
+trial_2	mupirocin	37	KG00097696	Cramps, Abdominal	0.02724408730864525
+trial_2	mupirocin	61	KG00099501	Chronic Kidney Failure	0.026434917002916336
+trial_2	mupirocin	46	KG00099121	Headache NOS	0.02563565969467163
+trial_2	mupirocin	21	KG00098675	dyspnoea	0.025019867345690727
+trial_2	mupirocin	76	KG00100450	Respiratory insufficiency, NOS	0.024700749665498734
+trial_2	mupirocin	147	KG00098000	atelectases	0.024595368653535843
+trial_2	mupirocin	14	KG00097852	Anemia NOS	0.023881958797574043
+trial_2	mupirocin	180	KG00099363	Hypotension NOS	0.023322174325585365
+trial_2	mupirocin	20	KG00098540	dehydration	0.022349271923303604
+trial_2	mupirocin	151	KG00098274	Infarction, Cerebral	0.022229386493563652
+trial_2	mupirocin	30	KG00099500	Acute Kidney Failure	0.021201498806476593
+trial_2	mupirocin	96	KG00101679	Unattended death NOS	0.020585935562849045
+trial_2	mupirocin	114	KG00098933	fevers	0.019720731303095818
+trial_2	mupirocin	269	KG00100399	pyaemia	0.019620638340711594
+trial_2	mupirocin	276	KG00099127	Arrest, Cardiac	0.01920800656080246
+trial_2	mupirocin	126	KG00100076	Pain NOS	0.01898004859685898
+trial_2	mupirocin	49	KG00099902	nausea with vomiting	0.018377477303147316
+trial_2	mupirocin	396	KG00100373	Embolism, Pulmonary	0.01815882883965969
+trial_2	mupirocin	17	KG00097991	Asthenia NOS	0.017056681215763092
+trial_2	mupirocin	2	KG00100772	thrombocytopaenia	0.016868986189365387
+trial_2	mupirocin	189	KG00101580	Alanine aminotransferase increase	0.016689609736204147
+trial_2	mupirocin	85	KG00098474	coughs	0.01653488352894783
+trial_2	mupirocin	142	KG00100923	Unspecified infectious and parasitic diseases	0.016477052122354507
+trial_2	mupirocin	77	KG00098450	Constipation NOS	0.015997665002942085
+trial_2	mupirocin	79	KG00100317	Insomnia, Primary	0.015845153480768204
+trial_2	mupirocin	31	KG00099872	Infarction, Myocardial	0.015721119940280914
+trial_2	mupirocin	188	KG00101579	Aspartate aminotransferase increase	0.015563858672976494
+trial_2	mupirocin	68	KG00099901	nauseas	0.01530742458999157
+trial_2	mupirocin	441	KG00098262	cellulitis nos	0.014522935263812542
+trial_2	mupirocin	92	KG00100926	Infections, Upper Respiratory	0.01385027077049017
+trial_2	mupirocin	200	KG00098539	Disorders, Deglutition	0.013741202652454376
+trial_2	mupirocin	131	KG00100948	Urinary tract infection (& [NOS])	0.013719473965466022
+trial_2	mupirocin	211	KG00100341	Pruritus NOS	0.013688035309314728
+trial_2	mupirocin	253	KG00100232	Pleural effusion NOS (disorder)	0.013315428048372269
+trial_2	mupirocin	29	KG00099354	hyponatraemia	0.013308418914675713
+trial_2	mupirocin	67	KG00098673	Dyspepsia, NOS	0.013267194852232933
+trial_2	mupirocin	69	KG00100082	Palpitations NOS	0.013217161409556866
+trial_2	mupirocin	122	KG00099321	Hypersensitivity NOS	0.013151444494724274
+trial_2	mupirocin	75	KG00100195	Dolens, Phlegmasia Alba	0.013111487030982971
+trial_2	mupirocin	121	KG00099190	haemorrhage	0.012937761843204498
+trial_2	mupirocin	5	KG00099169	haematuria	0.012849180959165096
+trial_2	mupirocin	28	KG00099347	hypoglycaemia	0.012739639729261398
+trial_2	mupirocin	361	KG00098004	Fibrillation, Atrial	0.01241080928593874
+trial_2	mupirocin	27	KG00099303	hyperkalaemia	0.012306354939937592
+trial_2	mupirocin	179	KG00099342	hypocalcaemia	0.01174911204725504
+trial_2	mupirocin	86	KG00098565	Depression, Mental	0.011374060995876789
+trial_2	mupirocin	350	KG00106765	decreased platelet count	0.011096114292740822
+trial_2	mupirocin	130	KG00100683	Stomatitis NOS	0.011089544743299484
+trial_2	mupirocin	228	KG00114657	Weight below normal	0.011072734370827675
+trial_2	mupirocin	243	KG00100947	Micturition frequency increased	0.010759491473436356
+trial_2	mupirocin	249	KG00104430	hypoalbuminaemia	0.010675542056560516
+trial_2	mupirocin	138	KG00098796	epidemic vomiting syndrome	0.010535312816500664
+trial_2	mupirocin	104	KG00097963	arthralgias	0.01047717034816742
+trial_2	mupirocin	35	KG00101507	hypomagnesaemia	0.009955905377864838
+trial_2	mupirocin	4	KG00098817	epistaxis	0.009803617373108864
+trial_2	mupirocin	164	KG00108827	ileus colon	0.00973410066217184
+trial_2	mupirocin	18	KG00098307	Pain, Chest	0.009583606384694576
+trial_2	mupirocin	494	KG00099838	Organ Failure, Multiple	0.00957979541271925
+trial_2	mupirocin	221	KG00101207	peripheral oedema	0.009521743282675743
+trial_2	mupirocin	282	KG00099309	hypernatraemia	0.009353517554700375
+trial_2	mupirocin	199	KG00098371	Rhinitis (chronic) NOS	0.009323159232735634
+trial_2	mupirocin	40	KG00098092	Blepharoconjunctivitis NOS	0.009266099892556667
+trial_2	mupirocin	191	KG00104055	Biliverdin increased	0.00900172721594572
+trial_2	mupirocin	234	KG00098669	dysgeusias	0.00899355486035347
+trial_2	mupirocin	72	KG00103771	myalgias	0.008810505270957947
+trial_2	mupirocin	102	KG00097916	anxieties	0.008785252459347248
+trial_2	mupirocin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.008776163682341576
+trial_2	mupirocin	186	KG00101431	creatinine increased	0.008667504414916039
+trial_2	mupirocin	136	KG00101582	Dry;skin	0.008454764261841774
+trial_2	mupirocin	239	KG00100128	pareses	0.008318559266626835
+trial_2	mupirocin	15	KG00097882	Angina pectoris NOS	0.008219036273658276
+trial_2	mupirocin	38	KG00098066	Binocular vision disorders	0.008193964138627052
+trial_2	mupirocin	268	KG00099557	Heart Failure, Left-Sided	0.008193964138627052
+trial_2	mupirocin	261	KG00101559	raised alkaline phosphatase	0.008090403862297535
+trial_2	mupirocin	713	KG00107657	distressed respiratory	0.008029000833630562
+trial_2	mupirocin	11	KG00097993	Asthma NOS	0.007993861101567745
+trial_2	mupirocin	183	KG00100449	Adult Respiratory Distress Syndrome	0.00796112883836031
+trial_2	mupirocin	139	KG00098855	Sinusitis, Ethmoid	0.007933124899864197
+trial_2	mupirocin	356	KG00112623	Infectious Lung Disorders	0.007899896241724491
+trial_2	mupirocin	883	KG00107760	Neonatal cardiorespiratory arrest	0.007850348949432373
+trial_2	mupirocin	82	KG00097697	abdomen distended	0.007824597880244255
+trial_2	mupirocin	398	KG00100580	Shock, Septic	0.007647705264389515
+trial_2	mupirocin	195	KG00097814	Atopic Rhinitis	0.007628555875271559
+trial_2	mupirocin	257	KG00100922	Erythema NOS	0.007625700905919075
+trial_2	mupirocin	286	KG00101110	Retention, Urinary	0.007601926103234291
+trial_2	mupirocin	288	KG00101223	hypophosphataemia	0.007601331919431686
+trial_2	mupirocin	25	KG00099134	congestive failures heart	0.007518365513533354
+trial_2	mupirocin	116	KG00098964	Pain in foot	0.007493985816836357
+trial_2	mupirocin	118	KG00099011	Gastritis NOS	0.007487647235393524
+trial_2	mupirocin	71	KG00100958	urticarias	0.007441132329404354
+trial_2	mupirocin	1	KG00099959	Neutropenia NOS	0.007412722799926996
+trial_2	mupirocin	194	KG00110727	Neutrophil Count Decreased	0.007377388887107372
+trial_2	mupirocin	394	KG00100243	Pneumonia, Aspiration	0.007311473600566387

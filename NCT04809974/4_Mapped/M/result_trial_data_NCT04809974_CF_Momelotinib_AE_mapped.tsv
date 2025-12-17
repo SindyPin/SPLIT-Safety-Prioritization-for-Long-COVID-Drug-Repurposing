@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.4117344319820404
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.379313588142395
+trial_1	placebo	123	KG00099351	hypokalaemia	0.34203532338142395
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.3166554570198059
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2962527573108673
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.24075110256671906
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.2382805049419403
+trial_1	placebo	21	KG00098675	dyspnoea	0.23709680140018463
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.2300737351179123
+trial_1	placebo	20	KG00098540	dehydration	0.22693127393722534
+trial_1	placebo	68	KG00099901	nauseas	0.22662700712680817
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.22093559801578522
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.21430781483650208
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.2100895792245865
+trial_1	placebo	77	KG00098450	Constipation NOS	0.19472067058086395
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1899365931749344
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.18981221318244934
+trial_1	placebo	46	KG00099121	Headache NOS	0.1890079826116562
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.18483400344848633
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1785474717617035
+trial_1	placebo	228	KG00114657	Weight below normal	0.16948172450065613
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.16747786104679108
+trial_1	placebo	114	KG00098933	fevers	0.16713201999664307
+trial_1	placebo	350	KG00106765	decreased platelet count	0.1584421545267105
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.15389077365398407
+trial_1	placebo	104	KG00097963	arthralgias	0.14701829850673676
+trial_1	placebo	72	KG00103771	myalgias	0.1460646539926529
+trial_1	placebo	126	KG00100076	Pain NOS	0.14601993560791016
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.14537151157855988
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.1436673402786255
+trial_1	placebo	5	KG00099169	haematuria	0.14222581684589386
+trial_1	placebo	239	KG00100128	pareses	0.13995377719402313
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.1389213651418686
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.13890327513217926
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.13512203097343445
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.13439802825450897
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.13412407040596008
+trial_1	placebo	85	KG00098474	coughs	0.12973926961421967
+trial_1	placebo	29	KG00099354	hyponatraemia	0.12862607836723328
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.1280428171157837
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.12770886719226837
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.11932382732629776
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.11925613135099411
+trial_1	placebo	116	KG00098964	Pain in foot	0.11818118393421173
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.11712713539600372
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.11401878297328949
+trial_1	placebo	212	KG00100576	shivers	0.11240749061107635
+trial_1	placebo	102	KG00097916	anxieties	0.11200131475925446
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.11118363589048386
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.11017681658267975
+trial_1	placebo	441	KG00098262	cellulitis nos	0.10946875065565109
+trial_1	placebo	18	KG00098307	Pain, Chest	0.1082271859049797
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.10766574740409851
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.10732778161764145
+trial_1	placebo	82	KG00097697	abdomen distended	0.10517914593219757
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.10279182344675064
+trial_1	placebo	136	KG00101582	Dry;skin	0.10181163996458054
+trial_1	placebo	186	KG00101431	creatinine increased	0.10128790140151978
+trial_1	placebo	466	KG00101205	fall	0.0989055410027504
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.09490932524204254
+trial_1	placebo	86	KG00098565	Depression, Mental	0.09443724155426025
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.09401854872703552
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.09386435896158218
+trial_1	placebo	4	KG00098817	epistaxis	0.09381715953350067
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.09054573625326157
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.08878400176763535
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.08800909668207169
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.08740068972110748
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.08736291527748108
+trial_1	placebo	282	KG00099309	hypernatraemia	0.08724602311849594
+trial_1	placebo	454	KG00098286	Pain, Neck	0.08634301275014877
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.08578626811504364
+trial_1	placebo	257	KG00100922	Erythema NOS	0.08434966206550598
+trial_1	placebo	147	KG00098000	atelectases	0.08412212133407593
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.08374375849962234
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.08250866830348969
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.08244301378726959
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0804818645119667
+trial_1	placebo	269	KG00100399	pyaemia	0.08041522651910782
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.07947991043329239
+trial_1	placebo	221	KG00101207	peripheral oedema	0.078301802277565
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.07767757028341293
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.07550929486751556
+trial_1	placebo	382	KG00099200	haemorrhoids	0.07504035532474518
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.07470778375864029
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.07401120662689209
+trial_1	placebo	100	KG00097815	alopecias	0.07395650446414948
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.07348261028528214
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.07253696024417877
+trial_1	placebo	535	KG00098309	chest pains wall	0.07124441117048264
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.0707571879029274
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.07020468264818192
+trial_1	placebo	234	KG00098669	dysgeusias	0.06975927203893661
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.06918510049581528
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.06808657199144363
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06731676310300827
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.06613176316022873
+trial_1	placebo	508	KG00108565	blood glucose increased	0.0660751536488533
+trial_1	placebo	351	KG00107159	Maculopapular Lesion	0.06543967127799988
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.0649523213505745
+trial_2	momelotinib	87	KG00098599	diarrhoea	0.4117344319820404
+trial_2	momelotinib	189	KG00101580	Alanine aminotransferase increase	0.379313588142395
+trial_2	momelotinib	123	KG00099351	hypokalaemia	0.34203532338142395
+trial_2	momelotinib	188	KG00101579	Aspartate aminotransferase increase	0.3166554570198059
+trial_2	momelotinib	78	KG00099326	Hypertensive diseases	0.2962527573108673
+trial_2	momelotinib	37	KG00097696	Cramps, Abdominal	0.24075110256671906
+trial_2	momelotinib	173	KG00098172	Bronchopneumonia NOS	0.2382805049419403
+trial_2	momelotinib	21	KG00098675	dyspnoea	0.23709680140018463
+trial_2	momelotinib	17	KG00097991	Asthenia NOS	0.2300737351179123
+trial_2	momelotinib	20	KG00098540	dehydration	0.22693127393722534
+trial_2	momelotinib	68	KG00099901	nauseas	0.22662700712680817
+trial_2	momelotinib	67	KG00098673	Dyspepsia, NOS	0.22093559801578522
+trial_2	momelotinib	64	KG00097734	Acrodermatitis, NOS	0.21430781483650208
+trial_2	momelotinib	177	KG00099299	hyperglycaemia	0.2100895792245865
+trial_2	momelotinib	77	KG00098450	Constipation NOS	0.19472067058086395
+trial_2	momelotinib	14	KG00097852	Anemia NOS	0.1899365931749344
+trial_2	momelotinib	243	KG00100947	Micturition frequency increased	0.18981221318244934
+trial_2	momelotinib	46	KG00099121	Headache NOS	0.1890079826116562
+trial_2	momelotinib	49	KG00099902	nausea with vomiting	0.18483400344848633
+trial_2	momelotinib	9	KG00098432	Confusion NOS	0.1785474717617035
+trial_2	momelotinib	228	KG00114657	Weight below normal	0.16948172450065613
+trial_2	momelotinib	200	KG00098539	Disorders, Deglutition	0.16747786104679108
+trial_2	momelotinib	114	KG00098933	fevers	0.16713201999664307
+trial_2	momelotinib	350	KG00106765	decreased platelet count	0.1584421545267105
+trial_2	momelotinib	101	KG00097901	Anorexia NOS	0.15389077365398407
+trial_2	momelotinib	104	KG00097963	arthralgias	0.14701829850673676
+trial_2	momelotinib	72	KG00103771	myalgias	0.1460646539926529
+trial_2	momelotinib	126	KG00100076	Pain NOS	0.14601993560791016
+trial_2	momelotinib	79	KG00100317	Insomnia, Primary	0.14537151157855988
+trial_2	momelotinib	179	KG00099342	hypocalcaemia	0.1436673402786255
+trial_2	momelotinib	5	KG00099169	haematuria	0.14222581684589386
+trial_2	momelotinib	239	KG00100128	pareses	0.13995377719402313
+trial_2	momelotinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.1389213651418686
+trial_2	momelotinib	2	KG00100772	thrombocytopaenia	0.13890327513217926
+trial_2	momelotinib	76	KG00100450	Respiratory insufficiency, NOS	0.13512203097343445
+trial_2	momelotinib	261	KG00101559	raised alkaline phosphatase	0.13439802825450897
+trial_2	momelotinib	191	KG00104055	Biliverdin increased	0.13412407040596008
+trial_2	momelotinib	85	KG00098474	coughs	0.12973926961421967
+trial_2	momelotinib	29	KG00099354	hyponatraemia	0.12862607836723328
+trial_2	momelotinib	131	KG00100948	Urinary tract infection (& [NOS])	0.1280428171157837
+trial_2	momelotinib	194	KG00110727	Neutrophil Count Decreased	0.12770886719226837
+trial_2	momelotinib	30	KG00099500	Acute Kidney Failure	0.11932382732629776
+trial_2	momelotinib	27	KG00099303	hyperkalaemia	0.11925613135099411
+trial_2	momelotinib	116	KG00098964	Pain in foot	0.11818118393421173
+trial_2	momelotinib	69	KG00100082	Palpitations NOS	0.11712713539600372
+trial_2	momelotinib	355	KG00110857	lymphocyte count decreased	0.11401878297328949
+trial_2	momelotinib	212	KG00100576	shivers	0.11240749061107635
+trial_2	momelotinib	102	KG00097916	anxieties	0.11200131475925446
+trial_2	momelotinib	35	KG00101507	hypomagnesaemia	0.11118363589048386
+trial_2	momelotinib	204	KG00098849	Esophagitis, Peptic	0.11017681658267975
+trial_2	momelotinib	441	KG00098262	cellulitis nos	0.10946875065565109
+trial_2	momelotinib	18	KG00098307	Pain, Chest	0.1082271859049797
+trial_2	momelotinib	38	KG00098066	Binocular vision disorders	0.10766574740409851
+trial_2	momelotinib	180	KG00099363	Hypotension NOS	0.10732778161764145
+trial_2	momelotinib	82	KG00097697	abdomen distended	0.10517914593219757
+trial_2	momelotinib	341	KG00101472	Gamma-glutamyltransferase increased	0.10279182344675064
+trial_2	momelotinib	136	KG00101582	Dry;skin	0.10181163996458054
+trial_2	momelotinib	186	KG00101431	creatinine increased	0.10128790140151978
+trial_2	momelotinib	466	KG00101205	fall	0.0989055410027504
+trial_2	momelotinib	139	KG00098855	Sinusitis, Ethmoid	0.09490932524204254
+trial_2	momelotinib	86	KG00098565	Depression, Mental	0.09443724155426025
+trial_2	momelotinib	211	KG00100341	Pruritus NOS	0.09401854872703552
+trial_2	momelotinib	396	KG00100373	Embolism, Pulmonary	0.09386435896158218
+trial_2	momelotinib	4	KG00098817	epistaxis	0.09381715953350067
+trial_2	momelotinib	28	KG00099347	hypoglycaemia	0.09054573625326157
+trial_2	momelotinib	61	KG00099501	Chronic Kidney Failure	0.08878400176763535
+trial_2	momelotinib	253	KG00100232	Pleural effusion NOS (disorder)	0.08800909668207169
+trial_2	momelotinib	130	KG00100683	Stomatitis NOS	0.08740068972110748
+trial_2	momelotinib	98	KG00097718	Incised wound, NOS	0.08736291527748108
+trial_2	momelotinib	282	KG00099309	hypernatraemia	0.08724602311849594
+trial_2	momelotinib	454	KG00098286	Pain, Neck	0.08634301275014877
+trial_2	momelotinib	288	KG00101223	hypophosphataemia	0.08578626811504364
+trial_2	momelotinib	257	KG00100922	Erythema NOS	0.08434966206550598
+trial_2	momelotinib	147	KG00098000	atelectases	0.08412212133407593
+trial_2	momelotinib	249	KG00104430	hypoalbuminaemia	0.08374375849962234
+trial_2	momelotinib	144	KG00099610	Leukopenia NOS	0.08250866830348969
+trial_2	momelotinib	92	KG00100926	Infections, Upper Respiratory	0.08244301378726959
+trial_2	momelotinib	33	KG00100094	Pancreatitis NOS	0.0804818645119667
+trial_2	momelotinib	269	KG00100399	pyaemia	0.08041522651910782
+trial_2	momelotinib	122	KG00099321	Hypersensitivity NOS	0.07947991043329239
+trial_2	momelotinib	221	KG00101207	peripheral oedema	0.078301802277565
+trial_2	momelotinib	36	KG00106434	Vision, Blurring Of	0.07767757028341293
+trial_2	momelotinib	276	KG00099127	Arrest, Cardiac	0.07550929486751556
+trial_2	momelotinib	382	KG00099200	haemorrhoids	0.07504035532474518
+trial_2	momelotinib	97	KG00104198	LIVER ENZYME ELEVATED	0.07470778375864029
+trial_2	momelotinib	108	KG00098479	Cramp, Limb	0.07401120662689209
+trial_2	momelotinib	100	KG00097815	alopecias	0.07395650446414948
+trial_2	momelotinib	361	KG00098004	Fibrillation, Atrial	0.07348261028528214
+trial_2	momelotinib	371	KG00098517	Cystitis (NOS)	0.07253696024417877
+trial_2	momelotinib	535	KG00098309	chest pains wall	0.07124441117048264
+trial_2	momelotinib	256	KG00100738	Tachycardia, Sinus	0.0707571879029274
+trial_2	momelotinib	352	KG00107658	NON-CARDIAC CHEST PAIN	0.07020468264818192
+trial_2	momelotinib	234	KG00098669	dysgeusias	0.06975927203893661
+trial_2	momelotinib	286	KG00101110	Retention, Urinary	0.06918510049581528
+trial_2	momelotinib	297	KG00099294	hypercholesterolaemia	0.06808657199144363
+trial_2	momelotinib	151	KG00098274	Infarction, Cerebral	0.06731676310300827
+trial_2	momelotinib	94	KG00103829	abdominal discomfort	0.06613176316022873
+trial_2	momelotinib	508	KG00108565	blood glucose increased	0.0660751536488533
+trial_2	momelotinib	351	KG00107159	Maculopapular Lesion	0.06543967127799988
+trial_2	momelotinib	422	KG00101429	Creatine phosphokinase increased	0.0649523213505745

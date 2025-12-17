@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	77	KG00098450	Constipation NOS	0.3026580214500427
+trial_1	placebo	87	KG00098599	diarrhoea	0.3016405403614044
+trial_1	placebo	68	KG00099901	nauseas	0.26491397619247437
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.24617944657802582
+trial_1	placebo	9	KG00098432	Confusion NOS	0.23229102790355682
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.22081011533737183
+trial_1	placebo	123	KG00099351	hypokalaemia	0.17755943536758423
+trial_1	placebo	20	KG00098540	dehydration	0.17441511154174805
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.15331707894802094
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14772453904151917
+trial_1	placebo	46	KG00099121	Headache NOS	0.1326332837343216
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.12864795327186584
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12848636507987976
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.12600810825824738
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.12461480498313904
+trial_1	placebo	21	KG00098675	dyspnoea	0.12282180041074753
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1184418648481369
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11843213438987732
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.11666718870401382
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.1161370798945427
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.11498142778873444
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1130211129784584
+trial_1	placebo	239	KG00100128	pareses	0.09332091361284256
+trial_1	placebo	5	KG00099169	haematuria	0.09311369806528091
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.09118727594614029
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.09102661907672882
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0907943993806839
+trial_1	placebo	300	KG00101064	xerostomia	0.08814050257205963
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.08728127926588058
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.08282390981912613
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08093032240867615
+trial_1	placebo	82	KG00097697	abdomen distended	0.079716257750988
+trial_1	placebo	228	KG00114657	Weight below normal	0.07765545696020126
+trial_1	placebo	164	KG00108827	ileus colon	0.07733798027038574
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.07725054025650024
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0772232711315155
+trial_1	placebo	126	KG00100076	Pain NOS	0.07713218778371811
+trial_1	placebo	18	KG00098307	Pain, Chest	0.07642708718776703
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07550089061260223
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07527928799390793
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07234575599431992
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07196420431137085
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07164990156888962
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.07014252990484238
+trial_1	placebo	114	KG00098933	fevers	0.06794366240501404
+trial_1	placebo	102	KG00097916	anxieties	0.06581906974315643
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.06535214185714722
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0642511174082756
+trial_1	placebo	85	KG00098474	coughs	0.062232498079538345
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.06210028752684593
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.06139185652136803
+trial_1	placebo	104	KG00097963	arthralgias	0.06073378026485443
+trial_1	placebo	147	KG00098000	atelectases	0.06034217029809952
+trial_1	placebo	116	KG00098964	Pain in foot	0.060076579451560974
+trial_1	placebo	466	KG00101205	fall	0.06001414358615875
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.05965857952833176
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.058847278356552124
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.05872972309589386
+trial_1	placebo	186	KG00101431	creatinine increased	0.058440882712602615
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.05789899080991745
+trial_1	placebo	382	KG00099200	haemorrhoids	0.05600377917289734
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05588596686720848
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0553533211350441
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05507563427090645
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.05497731268405914
+trial_1	placebo	441	KG00098262	cellulitis nos	0.05459228530526161
+trial_1	placebo	454	KG00098286	Pain, Neck	0.053447384387254715
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.05325580760836601
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.052654314786195755
+trial_1	placebo	352	KG00107658	NON-CARDIAC CHEST PAIN	0.051544878631830215
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.051054056733846664
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05091724172234535
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.050631601363420486
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05010059475898743
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.05001258850097656
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.049427978694438934
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0486588291823864
+trial_1	placebo	269	KG00100399	pyaemia	0.047407131642103195
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.047035325318574905
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.04689999297261238
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.046894848346710205
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.046397265046834946
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04620615020394325
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.04564317688345909
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04561512917280197
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.045333631336688995
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.044992294162511826
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.04423181712627411
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.04416194185614586
+trial_1	placebo	508	KG00108565	blood glucose increased	0.043432701379060745
+trial_1	placebo	212	KG00100576	shivers	0.04267657920718193
+trial_1	placebo	3	KG00099365	Orthostatic Hypotension	0.04133854806423187
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04072628915309906
+trial_1	placebo	203	KG00098661	dysarthrias	0.040040530264377594
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03993652015924454
+trial_1	placebo	234	KG00098669	dysgeusias	0.03983170911669731
+trial_1	placebo	25	KG00099134	congestive failures heart	0.03928627073764801
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03926438093185425
+trial_1	placebo	72	KG00103771	myalgias	0.039247289299964905
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.039087776094675064
+trial_2	mirabegron	77	KG00098450	Constipation NOS	0.3026580214500427
+trial_2	mirabegron	87	KG00098599	diarrhoea	0.3016405403614044
+trial_2	mirabegron	68	KG00099901	nauseas	0.26491397619247437
+trial_2	mirabegron	78	KG00099326	Hypertensive diseases	0.24617944657802582
+trial_2	mirabegron	9	KG00098432	Confusion NOS	0.23229102790355682
+trial_2	mirabegron	49	KG00099902	nausea with vomiting	0.22081011533737183
+trial_2	mirabegron	123	KG00099351	hypokalaemia	0.17755943536758423
+trial_2	mirabegron	20	KG00098540	dehydration	0.17441511154174805
+trial_2	mirabegron	101	KG00097901	Anorexia NOS	0.15331707894802094
+trial_2	mirabegron	17	KG00097991	Asthenia NOS	0.14772453904151917
+trial_2	mirabegron	46	KG00099121	Headache NOS	0.1326332837343216
+trial_2	mirabegron	67	KG00098673	Dyspepsia, NOS	0.12864795327186584
+trial_2	mirabegron	173	KG00098172	Bronchopneumonia NOS	0.12848636507987976
+trial_2	mirabegron	243	KG00100947	Micturition frequency increased	0.12600810825824738
+trial_2	mirabegron	79	KG00100317	Insomnia, Primary	0.12461480498313904
+trial_2	mirabegron	21	KG00098675	dyspnoea	0.12282180041074753
+trial_2	mirabegron	177	KG00099299	hyperglycaemia	0.1184418648481369
+trial_2	mirabegron	37	KG00097696	Cramps, Abdominal	0.11843213438987732
+trial_2	mirabegron	200	KG00098539	Disorders, Deglutition	0.11666718870401382
+trial_2	mirabegron	286	KG00101110	Retention, Urinary	0.1161370798945427
+trial_2	mirabegron	188	KG00101579	Aspartate aminotransferase increase	0.11498142778873444
+trial_2	mirabegron	189	KG00101580	Alanine aminotransferase increase	0.1130211129784584
+trial_2	mirabegron	239	KG00100128	pareses	0.09332091361284256
+trial_2	mirabegron	5	KG00099169	haematuria	0.09311369806528091
+trial_2	mirabegron	151	KG00098274	Infarction, Cerebral	0.09118727594614029
+trial_2	mirabegron	204	KG00098849	Esophagitis, Peptic	0.09102661907672882
+trial_2	mirabegron	30	KG00099500	Acute Kidney Failure	0.0907943993806839
+trial_2	mirabegron	300	KG00101064	xerostomia	0.08814050257205963
+trial_2	mirabegron	38	KG00098066	Binocular vision disorders	0.08728127926588058
+trial_2	mirabegron	396	KG00100373	Embolism, Pulmonary	0.08282390981912613
+trial_2	mirabegron	350	KG00106765	decreased platelet count	0.08093032240867615
+trial_2	mirabegron	82	KG00097697	abdomen distended	0.079716257750988
+trial_2	mirabegron	228	KG00114657	Weight below normal	0.07765545696020126
+trial_2	mirabegron	164	KG00108827	ileus colon	0.07733798027038574
+trial_2	mirabegron	261	KG00101559	raised alkaline phosphatase	0.07725054025650024
+trial_2	mirabegron	180	KG00099363	Hypotension NOS	0.0772232711315155
+trial_2	mirabegron	126	KG00100076	Pain NOS	0.07713218778371811
+trial_2	mirabegron	18	KG00098307	Pain, Chest	0.07642708718776703
+trial_2	mirabegron	61	KG00099501	Chronic Kidney Failure	0.07550089061260223
+trial_2	mirabegron	29	KG00099354	hyponatraemia	0.07527928799390793
+trial_2	mirabegron	64	KG00097734	Acrodermatitis, NOS	0.07234575599431992
+trial_2	mirabegron	86	KG00098565	Depression, Mental	0.07196420431137085
+trial_2	mirabegron	14	KG00097852	Anemia NOS	0.07164990156888962
+trial_2	mirabegron	131	KG00100948	Urinary tract infection (& [NOS])	0.07014252990484238
+trial_2	mirabegron	114	KG00098933	fevers	0.06794366240501404
+trial_2	mirabegron	102	KG00097916	anxieties	0.06581906974315643
+trial_2	mirabegron	35	KG00101507	hypomagnesaemia	0.06535214185714722
+trial_2	mirabegron	76	KG00100450	Respiratory insufficiency, NOS	0.0642511174082756
+trial_2	mirabegron	85	KG00098474	coughs	0.062232498079538345
+trial_2	mirabegron	235	KG00098682	Dysuria NOS	0.06210028752684593
+trial_2	mirabegron	69	KG00100082	Palpitations NOS	0.06139185652136803
+trial_2	mirabegron	104	KG00097963	arthralgias	0.06073378026485443
+trial_2	mirabegron	147	KG00098000	atelectases	0.06034217029809952
+trial_2	mirabegron	116	KG00098964	Pain in foot	0.060076579451560974
+trial_2	mirabegron	466	KG00101205	fall	0.06001414358615875
+trial_2	mirabegron	211	KG00100341	Pruritus NOS	0.05965857952833176
+trial_2	mirabegron	371	KG00098517	Cystitis (NOS)	0.058847278356552124
+trial_2	mirabegron	166	KG00099773	menopausal syndrome	0.05872972309589386
+trial_2	mirabegron	186	KG00101431	creatinine increased	0.058440882712602615
+trial_2	mirabegron	15	KG00097882	Angina pectoris NOS	0.05789899080991745
+trial_2	mirabegron	382	KG00099200	haemorrhoids	0.05600377917289734
+trial_2	mirabegron	276	KG00099127	Arrest, Cardiac	0.05588596686720848
+trial_2	mirabegron	27	KG00099303	hyperkalaemia	0.0553533211350441
+trial_2	mirabegron	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05507563427090645
+trial_2	mirabegron	89	KG00099301	Hyperhidrosis (disorder)	0.05497731268405914
+trial_2	mirabegron	441	KG00098262	cellulitis nos	0.05459228530526161
+trial_2	mirabegron	454	KG00098286	Pain, Neck	0.053447384387254715
+trial_2	mirabegron	191	KG00104055	Biliverdin increased	0.05325580760836601
+trial_2	mirabegron	75	KG00100195	Dolens, Phlegmasia Alba	0.052654314786195755
+trial_2	mirabegron	352	KG00107658	NON-CARDIAC CHEST PAIN	0.051544878631830215
+trial_2	mirabegron	361	KG00098004	Fibrillation, Atrial	0.051054056733846664
+trial_2	mirabegron	139	KG00098855	Sinusitis, Ethmoid	0.05091724172234535
+trial_2	mirabegron	36	KG00106434	Vision, Blurring Of	0.050631601363420486
+trial_2	mirabegron	179	KG00099342	hypocalcaemia	0.05010059475898743
+trial_2	mirabegron	31	KG00099872	Infarction, Myocardial	0.05001258850097656
+trial_2	mirabegron	253	KG00100232	Pleural effusion NOS (disorder)	0.049427978694438934
+trial_2	mirabegron	221	KG00101207	peripheral oedema	0.0486588291823864
+trial_2	mirabegron	269	KG00100399	pyaemia	0.047407131642103195
+trial_2	mirabegron	94	KG00103829	abdominal discomfort	0.047035325318574905
+trial_2	mirabegron	341	KG00101472	Gamma-glutamyltransferase increased	0.04689999297261238
+trial_2	mirabegron	163	KG00104050	bowel obstructions small	0.046894848346710205
+trial_2	mirabegron	394	KG00100243	Pneumonia, Aspiration	0.046397265046834946
+trial_2	mirabegron	28	KG00099347	hypoglycaemia	0.04620615020394325
+trial_2	mirabegron	199	KG00098371	Rhinitis (chronic) NOS	0.04564317688345909
+trial_2	mirabegron	2	KG00100772	thrombocytopaenia	0.04561512917280197
+trial_2	mirabegron	256	KG00100738	Tachycardia, Sinus	0.045333631336688995
+trial_2	mirabegron	422	KG00101429	Creatine phosphokinase increased	0.044992294162511826
+trial_2	mirabegron	138	KG00098796	epidemic vomiting syndrome	0.04423181712627411
+trial_2	mirabegron	118	KG00099011	Gastritis NOS	0.04416194185614586
+trial_2	mirabegron	508	KG00108565	blood glucose increased	0.043432701379060745
+trial_2	mirabegron	212	KG00100576	shivers	0.04267657920718193
+trial_2	mirabegron	3	KG00099365	Orthostatic Hypotension	0.04133854806423187
+trial_2	mirabegron	96	KG00101679	Unattended death NOS	0.04072628915309906
+trial_2	mirabegron	203	KG00098661	dysarthrias	0.040040530264377594
+trial_2	mirabegron	33	KG00100094	Pancreatitis NOS	0.03993652015924454
+trial_2	mirabegron	234	KG00098669	dysgeusias	0.03983170911669731
+trial_2	mirabegron	25	KG00099134	congestive failures heart	0.03928627073764801
+trial_2	mirabegron	249	KG00104430	hypoalbuminaemia	0.03926438093185425
+trial_2	mirabegron	72	KG00103771	myalgias	0.039247289299964905
+trial_2	mirabegron	22	KG00098705	Edema (NOS)	0.039087776094675064

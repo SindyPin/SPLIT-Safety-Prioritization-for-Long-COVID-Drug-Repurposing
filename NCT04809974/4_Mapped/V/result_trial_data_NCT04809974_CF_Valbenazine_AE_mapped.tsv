@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17973941564559937
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14231649041175842
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13040272891521454
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12199563533067703
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11919984221458435
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0998852550983429
+trial_1	placebo	68	KG00099901	nauseas	0.09906081855297089
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09520065784454346
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09446295350790024
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09268162399530411
+trial_1	placebo	20	KG00098540	dehydration	0.0924004390835762
+trial_1	placebo	21	KG00098675	dyspnoea	0.08456286042928696
+trial_1	placebo	228	KG00114657	Weight below normal	0.08372391015291214
+trial_1	placebo	46	KG00099121	Headache NOS	0.07863668352365494
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07341272383928299
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07087487727403641
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06883848458528519
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06789889931678772
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06489607691764832
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06484626233577728
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0615069717168808
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05808648094534874
+trial_1	placebo	102	KG00097916	anxieties	0.05554070696234703
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05501832440495491
+trial_1	placebo	104	KG00097963	arthralgias	0.05468067154288292
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05418066680431366
+trial_1	placebo	85	KG00098474	coughs	0.053761571645736694
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05174548178911209
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04927194491028786
+trial_1	placebo	239	KG00100128	pareses	0.049190688878297806
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0478769950568676
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04530474916100502
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04525347426533699
+trial_1	placebo	114	KG00098933	fevers	0.04428645968437195
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04415442422032356
+trial_1	placebo	466	KG00101205	fall	0.043055590242147446
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04210991784930229
+trial_1	placebo	126	KG00100076	Pain NOS	0.04176931083202362
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.040020886808633804
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03957422077655792
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.039537928998470306
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.038636110723018646
+trial_1	placebo	262	KG00101199	agitation	0.03838038444519043
+trial_1	placebo	116	KG00098964	Pain in foot	0.038366783410310745
+trial_1	placebo	66	KG00098642	drowsiness	0.03792494907975197
+trial_1	placebo	350	KG00106765	decreased platelet count	0.037180084735155106
+trial_1	placebo	242	KG00100855	tremors	0.035644106566905975
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03508377820253372
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03504052385687828
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03418545797467232
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.034145332872867584
+trial_1	placebo	300	KG00101064	xerostomia	0.03196188807487488
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.031928710639476776
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03149724006652832
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03132874146103859
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03117181919515133
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.030443094670772552
+trial_1	placebo	82	KG00097697	abdomen distended	0.030244633555412292
+trial_1	placebo	456	KG00099420	Influenzae	0.029792632907629013
+trial_1	placebo	5	KG00099169	haematuria	0.029656654223799706
+trial_1	placebo	72	KG00103771	myalgias	0.029541928321123123
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02929302677512169
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029196377843618393
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02845650538802147
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02843700721859932
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02830852009356022
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02805923856794834
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.026886360719799995
+trial_1	placebo	11	KG00097993	Asthma NOS	0.026190772652626038
+trial_1	placebo	269	KG00100399	pyaemia	0.025843368843197823
+trial_1	placebo	147	KG00098000	atelectases	0.02581934630870819
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.025321993976831436
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.025210179388523102
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.025158556178212166
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024507533758878708
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.024212684482336044
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.024135306477546692
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02392643503844738
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023722169920802116
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.023669032379984856
+trial_1	placebo	508	KG00108565	blood glucose increased	0.023602761328220367
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.023523254320025444
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0232860017567873
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023005742579698563
+trial_1	placebo	164	KG00108827	ileus colon	0.022967444732785225
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022927431389689445
+trial_1	placebo	153	KG00099579	lethargy	0.022837016731500626
+trial_1	placebo	221	KG00101207	peripheral oedema	0.022725243121385574
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022678403183817863
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.022482410073280334
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022420156747102737
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02171274833381176
+trial_1	placebo	234	KG00098669	dysgeusias	0.02138672024011612
+trial_1	placebo	345	KG00103926	impairments memory	0.02138611674308777
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.021332332864403725
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021145297214388847
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.021098900586366653
+trial_1	placebo	282	KG00099309	hypernatraemia	0.021097751334309578
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.0207802876830101
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020488828420639038
+trial_2	valbenazine	87	KG00098599	diarrhoea	0.17973941564559937
+trial_2	valbenazine	9	KG00098432	Confusion NOS	0.14231649041175842
+trial_2	valbenazine	17	KG00097991	Asthenia NOS	0.13040272891521454
+trial_2	valbenazine	78	KG00099326	Hypertensive diseases	0.12199563533067703
+trial_2	valbenazine	173	KG00098172	Bronchopneumonia NOS	0.11919984221458435
+trial_2	valbenazine	49	KG00099902	nausea with vomiting	0.0998852550983429
+trial_2	valbenazine	68	KG00099901	nauseas	0.09906081855297089
+trial_2	valbenazine	77	KG00098450	Constipation NOS	0.09520065784454346
+trial_2	valbenazine	79	KG00100317	Insomnia, Primary	0.09446295350790024
+trial_2	valbenazine	177	KG00099299	hyperglycaemia	0.09268162399530411
+trial_2	valbenazine	20	KG00098540	dehydration	0.0924004390835762
+trial_2	valbenazine	21	KG00098675	dyspnoea	0.08456286042928696
+trial_2	valbenazine	228	KG00114657	Weight below normal	0.08372391015291214
+trial_2	valbenazine	46	KG00099121	Headache NOS	0.07863668352365494
+trial_2	valbenazine	37	KG00097696	Cramps, Abdominal	0.07341272383928299
+trial_2	valbenazine	123	KG00099351	hypokalaemia	0.07087487727403641
+trial_2	valbenazine	189	KG00101580	Alanine aminotransferase increase	0.06883848458528519
+trial_2	valbenazine	86	KG00098565	Depression, Mental	0.06789889931678772
+trial_2	valbenazine	64	KG00097734	Acrodermatitis, NOS	0.06489607691764832
+trial_2	valbenazine	67	KG00098673	Dyspepsia, NOS	0.06484626233577728
+trial_2	valbenazine	188	KG00101579	Aspartate aminotransferase increase	0.0615069717168808
+trial_2	valbenazine	101	KG00097901	Anorexia NOS	0.05808648094534874
+trial_2	valbenazine	102	KG00097916	anxieties	0.05554070696234703
+trial_2	valbenazine	151	KG00098274	Infarction, Cerebral	0.05501832440495491
+trial_2	valbenazine	104	KG00097963	arthralgias	0.05468067154288292
+trial_2	valbenazine	200	KG00098539	Disorders, Deglutition	0.05418066680431366
+trial_2	valbenazine	85	KG00098474	coughs	0.053761571645736694
+trial_2	valbenazine	14	KG00097852	Anemia NOS	0.05174548178911209
+trial_2	valbenazine	76	KG00100450	Respiratory insufficiency, NOS	0.04927194491028786
+trial_2	valbenazine	239	KG00100128	pareses	0.049190688878297806
+trial_2	valbenazine	29	KG00099354	hyponatraemia	0.0478769950568676
+trial_2	valbenazine	243	KG00100947	Micturition frequency increased	0.04530474916100502
+trial_2	valbenazine	132	KG00101045	Gain, Weight	0.04525347426533699
+trial_2	valbenazine	114	KG00098933	fevers	0.04428645968437195
+trial_2	valbenazine	180	KG00099363	Hypotension NOS	0.04415442422032356
+trial_2	valbenazine	466	KG00101205	fall	0.043055590242147446
+trial_2	valbenazine	131	KG00100948	Urinary tract infection (& [NOS])	0.04210991784930229
+trial_2	valbenazine	126	KG00100076	Pain NOS	0.04176931083202362
+trial_2	valbenazine	30	KG00099500	Acute Kidney Failure	0.040020886808633804
+trial_2	valbenazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03957422077655792
+trial_2	valbenazine	139	KG00098855	Sinusitis, Ethmoid	0.039537928998470306
+trial_2	valbenazine	28	KG00099347	hypoglycaemia	0.038636110723018646
+trial_2	valbenazine	262	KG00101199	agitation	0.03838038444519043
+trial_2	valbenazine	116	KG00098964	Pain in foot	0.038366783410310745
+trial_2	valbenazine	66	KG00098642	drowsiness	0.03792494907975197
+trial_2	valbenazine	350	KG00106765	decreased platelet count	0.037180084735155106
+trial_2	valbenazine	242	KG00100855	tremors	0.035644106566905975
+trial_2	valbenazine	61	KG00099501	Chronic Kidney Failure	0.03508377820253372
+trial_2	valbenazine	36	KG00106434	Vision, Blurring Of	0.03504052385687828
+trial_2	valbenazine	69	KG00100082	Palpitations NOS	0.03418545797467232
+trial_2	valbenazine	38	KG00098066	Binocular vision disorders	0.034145332872867584
+trial_2	valbenazine	300	KG00101064	xerostomia	0.03196188807487488
+trial_2	valbenazine	92	KG00100926	Infections, Upper Respiratory	0.031928710639476776
+trial_2	valbenazine	199	KG00098371	Rhinitis (chronic) NOS	0.03149724006652832
+trial_2	valbenazine	96	KG00101679	Unattended death NOS	0.03132874146103859
+trial_2	valbenazine	122	KG00099321	Hypersensitivity NOS	0.03117181919515133
+trial_2	valbenazine	2	KG00100772	thrombocytopaenia	0.030443094670772552
+trial_2	valbenazine	82	KG00097697	abdomen distended	0.030244633555412292
+trial_2	valbenazine	456	KG00099420	Influenzae	0.029792632907629013
+trial_2	valbenazine	5	KG00099169	haematuria	0.029656654223799706
+trial_2	valbenazine	72	KG00103771	myalgias	0.029541928321123123
+trial_2	valbenazine	18	KG00098307	Pain, Chest	0.02929302677512169
+trial_2	valbenazine	396	KG00100373	Embolism, Pulmonary	0.029196377843618393
+trial_2	valbenazine	361	KG00098004	Fibrillation, Atrial	0.02845650538802147
+trial_2	valbenazine	422	KG00101429	Creatine phosphokinase increased	0.02843700721859932
+trial_2	valbenazine	341	KG00101472	Gamma-glutamyltransferase increased	0.02830852009356022
+trial_2	valbenazine	441	KG00098262	cellulitis nos	0.02805923856794834
+trial_2	valbenazine	204	KG00098849	Esophagitis, Peptic	0.026886360719799995
+trial_2	valbenazine	11	KG00097993	Asthma NOS	0.026190772652626038
+trial_2	valbenazine	269	KG00100399	pyaemia	0.025843368843197823
+trial_2	valbenazine	147	KG00098000	atelectases	0.02581934630870819
+trial_2	valbenazine	194	KG00110727	Neutrophil Count Decreased	0.025321993976831436
+trial_2	valbenazine	138	KG00098796	epidemic vomiting syndrome	0.025210179388523102
+trial_2	valbenazine	225	KG00104032	Suicidal tendencies	0.025158556178212166
+trial_2	valbenazine	75	KG00100195	Dolens, Phlegmasia Alba	0.024507533758878708
+trial_2	valbenazine	355	KG00110857	lymphocyte count decreased	0.024212684482336044
+trial_2	valbenazine	27	KG00099303	hyperkalaemia	0.024135306477546692
+trial_2	valbenazine	15	KG00097882	Angina pectoris NOS	0.02392643503844738
+trial_2	valbenazine	261	KG00101559	raised alkaline phosphatase	0.023722169920802116
+trial_2	valbenazine	211	KG00100341	Pruritus NOS	0.023669032379984856
+trial_2	valbenazine	508	KG00108565	blood glucose increased	0.023602761328220367
+trial_2	valbenazine	98	KG00097718	Incised wound, NOS	0.023523254320025444
+trial_2	valbenazine	286	KG00101110	Retention, Urinary	0.0232860017567873
+trial_2	valbenazine	118	KG00099011	Gastritis NOS	0.023005742579698563
+trial_2	valbenazine	164	KG00108827	ileus colon	0.022967444732785225
+trial_2	valbenazine	179	KG00099342	hypocalcaemia	0.022927431389689445
+trial_2	valbenazine	153	KG00099579	lethargy	0.022837016731500626
+trial_2	valbenazine	221	KG00101207	peripheral oedema	0.022725243121385574
+trial_2	valbenazine	33	KG00100094	Pancreatitis NOS	0.022678403183817863
+trial_2	valbenazine	232	KG00097997	Ataxia NOS	0.022482410073280334
+trial_2	valbenazine	276	KG00099127	Arrest, Cardiac	0.022420156747102737
+trial_2	valbenazine	256	KG00100738	Tachycardia, Sinus	0.02171274833381176
+trial_2	valbenazine	234	KG00098669	dysgeusias	0.02138672024011612
+trial_2	valbenazine	345	KG00103926	impairments memory	0.02138611674308777
+trial_2	valbenazine	97	KG00104198	LIVER ENZYME ELEVATED	0.021332332864403725
+trial_2	valbenazine	31	KG00099872	Infarction, Myocardial	0.021145297214388847
+trial_2	valbenazine	394	KG00100243	Pneumonia, Aspiration	0.021098900586366653
+trial_2	valbenazine	282	KG00099309	hypernatraemia	0.021097751334309578
+trial_2	valbenazine	152	KG00099402	INCONTINENCE NOS	0.0207802876830101
+trial_2	valbenazine	371	KG00098517	Cystitis (NOS)	0.020488828420639038

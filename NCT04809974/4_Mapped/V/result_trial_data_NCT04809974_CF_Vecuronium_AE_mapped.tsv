@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06870077550411224
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06567223370075226
+trial_1	placebo	68	KG00099901	nauseas	0.06423667818307877
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06416884064674377
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06267853081226349
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06019580364227295
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.051900073885917664
+trial_1	placebo	46	KG00099121	Headache NOS	0.048235706984996796
+trial_1	placebo	123	KG00099351	hypokalaemia	0.048209141939878464
+trial_1	placebo	87	KG00098599	diarrhoea	0.04782821983098984
+trial_1	placebo	21	KG00098675	dyspnoea	0.04658913239836693
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04225955903530121
+trial_1	placebo	20	KG00098540	dehydration	0.03988323360681534
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03914030268788338
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.038857780396938324
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03688640892505646
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03582450747489929
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.033250972628593445
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03309589624404907
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03182787448167801
+trial_1	placebo	126	KG00100076	Pain NOS	0.031181296333670616
+trial_1	placebo	147	KG00098000	atelectases	0.030883995816111565
+trial_1	placebo	114	KG00098933	fevers	0.029759420081973076
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.029449988156557083
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.027103040367364883
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.026540866121649742
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02653670683503151
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.025459930300712585
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02462725155055523
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02455323189496994
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02350992150604725
+trial_1	placebo	104	KG00097963	arthralgias	0.02346920594573021
+trial_1	placebo	5	KG00099169	haematuria	0.02346585877239704
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02326480858027935
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.022795269265770912
+trial_1	placebo	269	KG00100399	pyaemia	0.02107737772166729
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020837003365159035
+trial_1	placebo	29	KG00099354	hyponatraemia	0.020830495283007622
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.020592311397194862
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020428430289030075
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.019936827942728996
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019534900784492493
+trial_1	placebo	121	KG00099190	haemorrhage	0.019153974950313568
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01908649131655693
+trial_1	placebo	86	KG00098565	Depression, Mental	0.01906031183898449
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01889185793697834
+trial_1	placebo	350	KG00106765	decreased platelet count	0.018268391489982605
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018143361434340477
+trial_1	placebo	72	KG00103771	myalgias	0.017917823046445847
+trial_1	placebo	85	KG00098474	coughs	0.017761271446943283
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01774420216679573
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01758018508553505
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.017003893852233887
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016804182901978493
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01677151955664158
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.016504058614373207
+trial_1	placebo	164	KG00108827	ileus colon	0.0162049550563097
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01616925746202469
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.016135474666953087
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01569030061364174
+trial_1	placebo	102	KG00097916	anxieties	0.01567290723323822
+trial_1	placebo	116	KG00098964	Pain in foot	0.015567051246762276
+trial_1	placebo	239	KG00100128	pareses	0.01528007909655571
+trial_1	placebo	228	KG00114657	Weight below normal	0.014846188947558403
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.014644135721027851
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.014499116688966751
+trial_1	placebo	221	KG00101207	peripheral oedema	0.014204366132616997
+trial_1	placebo	82	KG00097697	abdomen distended	0.01416721660643816
+trial_1	placebo	466	KG00101205	fall	0.014070532284677029
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013944914564490318
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.013851032592356205
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.013488570228219032
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.013230948708951473
+trial_1	placebo	282	KG00099309	hypernatraemia	0.012809330597519875
+trial_1	placebo	11	KG00097993	Asthma NOS	0.012572932057082653
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012506631202995777
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.01183816697448492
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011635027825832367
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011597717180848122
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.011501098982989788
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.011332014575600624
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01124649029225111
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01124388724565506
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.011204123497009277
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01076351199299097
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.010371827520430088
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.010313759557902813
+trial_1	placebo	262	KG00101199	agitation	0.01016771886497736
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.010004877112805843
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.009947989135980606
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.009739129804074764
+trial_1	placebo	234	KG00098669	dysgeusias	0.00967604573816061
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.009619968011975288
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.009564976207911968
+trial_1	placebo	713	KG00107657	distressed respiratory	0.0095132477581501
+trial_1	placebo	419	KG00100282	Hemorrhage, Postoperative	0.00948081724345684
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.00930821429938078
+trial_1	placebo	186	KG00101431	creatinine increased	0.009307097643613815
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.009259081445634365
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.009158196859061718
+trial_2	vecuronium	173	KG00098172	Bronchopneumonia NOS	0.06870077550411224
+trial_2	vecuronium	78	KG00099326	Hypertensive diseases	0.06567223370075226
+trial_2	vecuronium	68	KG00099901	nauseas	0.06423667818307877
+trial_2	vecuronium	9	KG00098432	Confusion NOS	0.06416884064674377
+trial_2	vecuronium	49	KG00099902	nausea with vomiting	0.06267853081226349
+trial_2	vecuronium	77	KG00098450	Constipation NOS	0.06019580364227295
+trial_2	vecuronium	177	KG00099299	hyperglycaemia	0.051900073885917664
+trial_2	vecuronium	46	KG00099121	Headache NOS	0.048235706984996796
+trial_2	vecuronium	123	KG00099351	hypokalaemia	0.048209141939878464
+trial_2	vecuronium	87	KG00098599	diarrhoea	0.04782821983098984
+trial_2	vecuronium	21	KG00098675	dyspnoea	0.04658913239836693
+trial_2	vecuronium	151	KG00098274	Infarction, Cerebral	0.04225955903530121
+trial_2	vecuronium	20	KG00098540	dehydration	0.03988323360681534
+trial_2	vecuronium	79	KG00100317	Insomnia, Primary	0.03914030268788338
+trial_2	vecuronium	17	KG00097991	Asthenia NOS	0.038857780396938324
+trial_2	vecuronium	180	KG00099363	Hypotension NOS	0.03688640892505646
+trial_2	vecuronium	14	KG00097852	Anemia NOS	0.03582450747489929
+trial_2	vecuronium	396	KG00100373	Embolism, Pulmonary	0.033250972628593445
+trial_2	vecuronium	76	KG00100450	Respiratory insufficiency, NOS	0.03309589624404907
+trial_2	vecuronium	30	KG00099500	Acute Kidney Failure	0.03182787448167801
+trial_2	vecuronium	126	KG00100076	Pain NOS	0.031181296333670616
+trial_2	vecuronium	147	KG00098000	atelectases	0.030883995816111565
+trial_2	vecuronium	114	KG00098933	fevers	0.029759420081973076
+trial_2	vecuronium	61	KG00099501	Chronic Kidney Failure	0.029449988156557083
+trial_2	vecuronium	37	KG00097696	Cramps, Abdominal	0.027103040367364883
+trial_2	vecuronium	67	KG00098673	Dyspepsia, NOS	0.026540866121649742
+trial_2	vecuronium	96	KG00101679	Unattended death NOS	0.02653670683503151
+trial_2	vecuronium	2	KG00100772	thrombocytopaenia	0.025459930300712585
+trial_2	vecuronium	200	KG00098539	Disorders, Deglutition	0.02462725155055523
+trial_2	vecuronium	31	KG00099872	Infarction, Myocardial	0.02455323189496994
+trial_2	vecuronium	18	KG00098307	Pain, Chest	0.02350992150604725
+trial_2	vecuronium	104	KG00097963	arthralgias	0.02346920594573021
+trial_2	vecuronium	5	KG00099169	haematuria	0.02346585877239704
+trial_2	vecuronium	189	KG00101580	Alanine aminotransferase increase	0.02326480858027935
+trial_2	vecuronium	64	KG00097734	Acrodermatitis, NOS	0.022795269265770912
+trial_2	vecuronium	269	KG00100399	pyaemia	0.02107737772166729
+trial_2	vecuronium	276	KG00099127	Arrest, Cardiac	0.020837003365159035
+trial_2	vecuronium	29	KG00099354	hyponatraemia	0.020830495283007622
+trial_2	vecuronium	188	KG00101579	Aspartate aminotransferase increase	0.020592311397194862
+trial_2	vecuronium	361	KG00098004	Fibrillation, Atrial	0.020428430289030075
+trial_2	vecuronium	131	KG00100948	Urinary tract infection (& [NOS])	0.019936827942728996
+trial_2	vecuronium	75	KG00100195	Dolens, Phlegmasia Alba	0.019534900784492493
+trial_2	vecuronium	121	KG00099190	haemorrhage	0.019153974950313568
+trial_2	vecuronium	441	KG00098262	cellulitis nos	0.01908649131655693
+trial_2	vecuronium	86	KG00098565	Depression, Mental	0.01906031183898449
+trial_2	vecuronium	211	KG00100341	Pruritus NOS	0.01889185793697834
+trial_2	vecuronium	350	KG00106765	decreased platelet count	0.018268391489982605
+trial_2	vecuronium	286	KG00101110	Retention, Urinary	0.018143361434340477
+trial_2	vecuronium	72	KG00103771	myalgias	0.017917823046445847
+trial_2	vecuronium	85	KG00098474	coughs	0.017761271446943283
+trial_2	vecuronium	253	KG00100232	Pleural effusion NOS (disorder)	0.01774420216679573
+trial_2	vecuronium	15	KG00097882	Angina pectoris NOS	0.01758018508553505
+trial_2	vecuronium	28	KG00099347	hypoglycaemia	0.017003893852233887
+trial_2	vecuronium	142	KG00100923	Unspecified infectious and parasitic diseases	0.016804182901978493
+trial_2	vecuronium	38	KG00098066	Binocular vision disorders	0.01677151955664158
+trial_2	vecuronium	101	KG00097901	Anorexia NOS	0.016504058614373207
+trial_2	vecuronium	164	KG00108827	ileus colon	0.0162049550563097
+trial_2	vecuronium	27	KG00099303	hyperkalaemia	0.01616925746202469
+trial_2	vecuronium	69	KG00100082	Palpitations NOS	0.016135474666953087
+trial_2	vecuronium	122	KG00099321	Hypersensitivity NOS	0.01569030061364174
+trial_2	vecuronium	102	KG00097916	anxieties	0.01567290723323822
+trial_2	vecuronium	116	KG00098964	Pain in foot	0.015567051246762276
+trial_2	vecuronium	239	KG00100128	pareses	0.01528007909655571
+trial_2	vecuronium	228	KG00114657	Weight below normal	0.014846188947558403
+trial_2	vecuronium	243	KG00100947	Micturition frequency increased	0.014644135721027851
+trial_2	vecuronium	139	KG00098855	Sinusitis, Ethmoid	0.014499116688966751
+trial_2	vecuronium	221	KG00101207	peripheral oedema	0.014204366132616997
+trial_2	vecuronium	82	KG00097697	abdomen distended	0.01416721660643816
+trial_2	vecuronium	466	KG00101205	fall	0.014070532284677029
+trial_2	vecuronium	25	KG00099134	congestive failures heart	0.013944914564490318
+trial_2	vecuronium	394	KG00100243	Pneumonia, Aspiration	0.013851032592356205
+trial_2	vecuronium	268	KG00099557	Heart Failure, Left-Sided	0.013488570228219032
+trial_2	vecuronium	179	KG00099342	hypocalcaemia	0.013230948708951473
+trial_2	vecuronium	282	KG00099309	hypernatraemia	0.012809330597519875
+trial_2	vecuronium	11	KG00097993	Asthma NOS	0.012572932057082653
+trial_2	vecuronium	118	KG00099011	Gastritis NOS	0.012506631202995777
+trial_2	vecuronium	271	KG00103813	reflex bradycardia	0.01183816697448492
+trial_2	vecuronium	33	KG00100094	Pancreatitis NOS	0.011635027825832367
+trial_2	vecuronium	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011597717180848122
+trial_2	vecuronium	22	KG00098705	Edema (NOS)	0.011501098982989788
+trial_2	vecuronium	138	KG00098796	epidemic vomiting syndrome	0.011332014575600624
+trial_2	vecuronium	204	KG00098849	Esophagitis, Peptic	0.01124649029225111
+trial_2	vecuronium	261	KG00101559	raised alkaline phosphatase	0.01124388724565506
+trial_2	vecuronium	249	KG00104430	hypoalbuminaemia	0.011204123497009277
+trial_2	vecuronium	35	KG00101507	hypomagnesaemia	0.01076351199299097
+trial_2	vecuronium	163	KG00104050	bowel obstructions small	0.010371827520430088
+trial_2	vecuronium	98	KG00097718	Incised wound, NOS	0.010313759557902813
+trial_2	vecuronium	262	KG00101199	agitation	0.01016771886497736
+trial_2	vecuronium	144	KG00099610	Leukopenia NOS	0.010004877112805843
+trial_2	vecuronium	191	KG00104055	Biliverdin increased	0.009947989135980606
+trial_2	vecuronium	366	KG00098275	Attack, Transient Ischemic	0.009739129804074764
+trial_2	vecuronium	234	KG00098669	dysgeusias	0.00967604573816061
+trial_2	vecuronium	92	KG00100926	Infections, Upper Respiratory	0.009619968011975288
+trial_2	vecuronium	371	KG00098517	Cystitis (NOS)	0.009564976207911968
+trial_2	vecuronium	713	KG00107657	distressed respiratory	0.0095132477581501
+trial_2	vecuronium	419	KG00100282	Hemorrhage, Postoperative	0.00948081724345684
+trial_2	vecuronium	130	KG00100683	Stomatitis NOS	0.00930821429938078
+trial_2	vecuronium	186	KG00101431	creatinine increased	0.009307097643613815
+trial_2	vecuronium	19	KG00098331	Cholecystitis NOS	0.009259081445634365
+trial_2	vecuronium	254	KG00100774	Thrombosis NOS	0.009158196859061718

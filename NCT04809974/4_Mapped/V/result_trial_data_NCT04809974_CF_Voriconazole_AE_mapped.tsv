@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19987308979034424
+trial_1	placebo	123	KG00099351	hypokalaemia	0.15258772671222687
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1314374953508377
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.1188720166683197
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11647183448076248
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10948379337787628
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1070748120546341
+trial_1	placebo	20	KG00098540	dehydration	0.10419033467769623
+trial_1	placebo	21	KG00098675	dyspnoea	0.10282543301582336
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09748581796884537
+trial_1	placebo	46	KG00099121	Headache NOS	0.09591100364923477
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09356430172920227
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.08052466809749603
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07486844062805176
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07225597649812698
+trial_1	placebo	228	KG00114657	Weight below normal	0.07205846160650253
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0704667866230011
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06470406800508499
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0623878613114357
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06039277836680412
+trial_1	placebo	85	KG00098474	coughs	0.05931074544787407
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05846058949828148
+trial_1	placebo	126	KG00100076	Pain NOS	0.05837605148553848
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05622737482190132
+trial_1	placebo	68	KG00099901	nauseas	0.05621190741658211
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.056125741451978683
+trial_1	placebo	114	KG00098933	fevers	0.055855970829725266
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05565160512924194
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0553520992398262
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.05427534878253937
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.053572990000247955
+trial_1	placebo	147	KG00098000	atelectases	0.0518721342086792
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05166461691260338
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05165565758943558
+trial_1	placebo	104	KG00097963	arthralgias	0.050108663737773895
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04935295507311821
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.048930779099464417
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04803488403558731
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04760327562689781
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0473688505589962
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04710344597697258
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04698798432946205
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04657654091715813
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04645813629031181
+trial_1	placebo	239	KG00100128	pareses	0.046093638986349106
+trial_1	placebo	136	KG00101582	Dry;skin	0.04475954920053482
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.044585466384887695
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04439910128712654
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.043571218848228455
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0430053286254406
+trial_1	placebo	5	KG00099169	haematuria	0.04268006607890129
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04216441512107849
+trial_1	placebo	269	KG00100399	pyaemia	0.0413169264793396
+trial_1	placebo	72	KG00103771	myalgias	0.040788695216178894
+trial_1	placebo	186	KG00101431	creatinine increased	0.040658168494701385
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04040411487221718
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.039621543139219284
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03712683543562889
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.036580294370651245
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.036442335695028305
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03571941331028938
+trial_1	placebo	234	KG00098669	dysgeusias	0.03540656715631485
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03489076718688011
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03483746573328972
+trial_1	placebo	116	KG00098964	Pain in foot	0.03451322764158249
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03444775938987732
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.034030769020318985
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03396327421069145
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0338272787630558
+trial_1	placebo	121	KG00099190	haemorrhage	0.03348451852798462
+trial_1	placebo	82	KG00097697	abdomen distended	0.031726986169815063
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03116755746304989
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03008856065571308
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029607629403471947
+trial_1	placebo	102	KG00097916	anxieties	0.02881968580186367
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.028751138597726822
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.027592862024903297
+trial_1	placebo	132	KG00101045	Gain, Weight	0.025984177365899086
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.025759732350707054
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025743745267391205
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02554038166999817
+trial_1	placebo	164	KG00108827	ileus colon	0.025433694943785667
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025041108950972557
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024924075230956078
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.0241478830575943
+trial_1	placebo	4	KG00098817	epistaxis	0.024112973362207413
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023485923185944557
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023480920121073723
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02344745583832264
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.023344609886407852
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022986557334661484
+trial_1	placebo	343	KG00102674	Eruptions, Acneiform	0.022592686116695404
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022335050627589226
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.022301828488707542
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02228296548128128
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.022255290299654007
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022097058594226837
+trial_1	placebo	257	KG00100922	Erythema NOS	0.022006947547197342
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.022003356367349625
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02185472659766674
+trial_2	voriconazole	87	KG00098599	diarrhoea	0.19987308979034424
+trial_2	voriconazole	123	KG00099351	hypokalaemia	0.15258772671222687
+trial_2	voriconazole	78	KG00099326	Hypertensive diseases	0.1314374953508377
+trial_2	voriconazole	64	KG00097734	Acrodermatitis, NOS	0.1188720166683197
+trial_2	voriconazole	177	KG00099299	hyperglycaemia	0.11647183448076248
+trial_2	voriconazole	17	KG00097991	Asthenia NOS	0.10948379337787628
+trial_2	voriconazole	9	KG00098432	Confusion NOS	0.1070748120546341
+trial_2	voriconazole	20	KG00098540	dehydration	0.10419033467769623
+trial_2	voriconazole	21	KG00098675	dyspnoea	0.10282543301582336
+trial_2	voriconazole	173	KG00098172	Bronchopneumonia NOS	0.09748581796884537
+trial_2	voriconazole	46	KG00099121	Headache NOS	0.09591100364923477
+trial_2	voriconazole	189	KG00101580	Alanine aminotransferase increase	0.09356430172920227
+trial_2	voriconazole	188	KG00101579	Aspartate aminotransferase increase	0.08052466809749603
+trial_2	voriconazole	29	KG00099354	hyponatraemia	0.07486844062805176
+trial_2	voriconazole	14	KG00097852	Anemia NOS	0.07225597649812698
+trial_2	voriconazole	228	KG00114657	Weight below normal	0.07205846160650253
+trial_2	voriconazole	37	KG00097696	Cramps, Abdominal	0.0704667866230011
+trial_2	voriconazole	200	KG00098539	Disorders, Deglutition	0.06470406800508499
+trial_2	voriconazole	350	KG00106765	decreased platelet count	0.0623878613114357
+trial_2	voriconazole	67	KG00098673	Dyspepsia, NOS	0.06039277836680412
+trial_2	voriconazole	85	KG00098474	coughs	0.05931074544787407
+trial_2	voriconazole	76	KG00100450	Respiratory insufficiency, NOS	0.05846058949828148
+trial_2	voriconazole	126	KG00100076	Pain NOS	0.05837605148553848
+trial_2	voriconazole	49	KG00099902	nausea with vomiting	0.05622737482190132
+trial_2	voriconazole	68	KG00099901	nauseas	0.05621190741658211
+trial_2	voriconazole	243	KG00100947	Micturition frequency increased	0.056125741451978683
+trial_2	voriconazole	114	KG00098933	fevers	0.055855970829725266
+trial_2	voriconazole	2	KG00100772	thrombocytopaenia	0.05565160512924194
+trial_2	voriconazole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0553520992398262
+trial_2	voriconazole	191	KG00104055	Biliverdin increased	0.05427534878253937
+trial_2	voriconazole	79	KG00100317	Insomnia, Primary	0.053572990000247955
+trial_2	voriconazole	147	KG00098000	atelectases	0.0518721342086792
+trial_2	voriconazole	96	KG00101679	Unattended death NOS	0.05166461691260338
+trial_2	voriconazole	61	KG00099501	Chronic Kidney Failure	0.05165565758943558
+trial_2	voriconazole	104	KG00097963	arthralgias	0.050108663737773895
+trial_2	voriconazole	151	KG00098274	Infarction, Cerebral	0.04935295507311821
+trial_2	voriconazole	35	KG00101507	hypomagnesaemia	0.048930779099464417
+trial_2	voriconazole	249	KG00104430	hypoalbuminaemia	0.04803488403558731
+trial_2	voriconazole	30	KG00099500	Acute Kidney Failure	0.04760327562689781
+trial_2	voriconazole	27	KG00099303	hyperkalaemia	0.0473688505589962
+trial_2	voriconazole	36	KG00106434	Vision, Blurring Of	0.04710344597697258
+trial_2	voriconazole	28	KG00099347	hypoglycaemia	0.04698798432946205
+trial_2	voriconazole	179	KG00099342	hypocalcaemia	0.04657654091715813
+trial_2	voriconazole	396	KG00100373	Embolism, Pulmonary	0.04645813629031181
+trial_2	voriconazole	239	KG00100128	pareses	0.046093638986349106
+trial_2	voriconazole	136	KG00101582	Dry;skin	0.04475954920053482
+trial_2	voriconazole	180	KG00099363	Hypotension NOS	0.044585466384887695
+trial_2	voriconazole	77	KG00098450	Constipation NOS	0.04439910128712654
+trial_2	voriconazole	261	KG00101559	raised alkaline phosphatase	0.043571218848228455
+trial_2	voriconazole	86	KG00098565	Depression, Mental	0.0430053286254406
+trial_2	voriconazole	5	KG00099169	haematuria	0.04268006607890129
+trial_2	voriconazole	131	KG00100948	Urinary tract infection (& [NOS])	0.04216441512107849
+trial_2	voriconazole	269	KG00100399	pyaemia	0.0413169264793396
+trial_2	voriconazole	72	KG00103771	myalgias	0.040788695216178894
+trial_2	voriconazole	186	KG00101431	creatinine increased	0.040658168494701385
+trial_2	voriconazole	130	KG00100683	Stomatitis NOS	0.04040411487221718
+trial_2	voriconazole	142	KG00100923	Unspecified infectious and parasitic diseases	0.039621543139219284
+trial_2	voriconazole	194	KG00110727	Neutrophil Count Decreased	0.03712683543562889
+trial_2	voriconazole	356	KG00112623	Infectious Lung Disorders	0.036580294370651245
+trial_2	voriconazole	355	KG00110857	lymphocyte count decreased	0.036442335695028305
+trial_2	voriconazole	18	KG00098307	Pain, Chest	0.03571941331028938
+trial_2	voriconazole	234	KG00098669	dysgeusias	0.03540656715631485
+trial_2	voriconazole	288	KG00101223	hypophosphataemia	0.03489076718688011
+trial_2	voriconazole	38	KG00098066	Binocular vision disorders	0.03483746573328972
+trial_2	voriconazole	116	KG00098964	Pain in foot	0.03451322764158249
+trial_2	voriconazole	139	KG00098855	Sinusitis, Ethmoid	0.03444775938987732
+trial_2	voriconazole	122	KG00099321	Hypersensitivity NOS	0.034030769020318985
+trial_2	voriconazole	276	KG00099127	Arrest, Cardiac	0.03396327421069145
+trial_2	voriconazole	101	KG00097901	Anorexia NOS	0.0338272787630558
+trial_2	voriconazole	121	KG00099190	haemorrhage	0.03348451852798462
+trial_2	voriconazole	82	KG00097697	abdomen distended	0.031726986169815063
+trial_2	voriconazole	282	KG00099309	hypernatraemia	0.03116755746304989
+trial_2	voriconazole	154	KG00099686	Lymphopenias	0.03008856065571308
+trial_2	voriconazole	441	KG00098262	cellulitis nos	0.029607629403471947
+trial_2	voriconazole	102	KG00097916	anxieties	0.02881968580186367
+trial_2	voriconazole	69	KG00100082	Palpitations NOS	0.028751138597726822
+trial_2	voriconazole	211	KG00100341	Pruritus NOS	0.027592862024903297
+trial_2	voriconazole	132	KG00101045	Gain, Weight	0.025984177365899086
+trial_2	voriconazole	253	KG00100232	Pleural effusion NOS (disorder)	0.025759732350707054
+trial_2	voriconazole	341	KG00101472	Gamma-glutamyltransferase increased	0.025743745267391205
+trial_2	voriconazole	1	KG00099959	Neutropenia NOS	0.02554038166999817
+trial_2	voriconazole	164	KG00108827	ileus colon	0.025433694943785667
+trial_2	voriconazole	286	KG00101110	Retention, Urinary	0.025041108950972557
+trial_2	voriconazole	75	KG00100195	Dolens, Phlegmasia Alba	0.024924075230956078
+trial_2	voriconazole	494	KG00099838	Organ Failure, Multiple	0.0241478830575943
+trial_2	voriconazole	4	KG00098817	epistaxis	0.024112973362207413
+trial_2	voriconazole	221	KG00101207	peripheral oedema	0.023485923185944557
+trial_2	voriconazole	92	KG00100926	Infections, Upper Respiratory	0.023480920121073723
+trial_2	voriconazole	297	KG00099294	hypercholesterolaemia	0.02344745583832264
+trial_2	voriconazole	138	KG00098796	epidemic vomiting syndrome	0.023344609886407852
+trial_2	voriconazole	508	KG00108565	blood glucose increased	0.022986557334661484
+trial_2	voriconazole	343	KG00102674	Eruptions, Acneiform	0.022592686116695404
+trial_2	voriconazole	204	KG00098849	Esophagitis, Peptic	0.022335050627589226
+trial_2	voriconazole	422	KG00101429	Creatine phosphokinase increased	0.022301828488707542
+trial_2	voriconazole	195	KG00097814	Atopic Rhinitis	0.02228296548128128
+trial_2	voriconazole	246	KG00103338	Aspartate Aminotransferase Measurement	0.022255290299654007
+trial_2	voriconazole	144	KG00099610	Leukopenia NOS	0.022097058594226837
+trial_2	voriconazole	257	KG00100922	Erythema NOS	0.022006947547197342
+trial_2	voriconazole	213	KG00100600	Infectious Skin Diseases	0.022003356367349625
+trial_2	voriconazole	454	KG00098286	Pain, Neck	0.02185472659766674

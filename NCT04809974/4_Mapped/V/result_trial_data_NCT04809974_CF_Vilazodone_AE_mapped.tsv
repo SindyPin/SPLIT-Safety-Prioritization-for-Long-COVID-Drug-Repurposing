@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.28637364506721497
+trial_1	placebo	68	KG00099901	nauseas	0.27078932523727417
+trial_1	placebo	9	KG00098432	Confusion NOS	0.23075652122497559
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.19300855696201324
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.18993479013442993
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.1886206865310669
+trial_1	placebo	77	KG00098450	Constipation NOS	0.17741608619689941
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.17595550417900085
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12247421592473984
+trial_1	placebo	300	KG00101064	xerostomia	0.1184723973274231
+trial_1	placebo	228	KG00114657	Weight below normal	0.10891589522361755
+trial_1	placebo	46	KG00099121	Headache NOS	0.10192041844129562
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08944541960954666
+trial_1	placebo	20	KG00098540	dehydration	0.08198802173137665
+trial_1	placebo	102	KG00097916	anxieties	0.0791468620300293
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07532893121242523
+trial_1	placebo	66	KG00098642	drowsiness	0.07315203547477722
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0710865780711174
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06923961639404297
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06913426518440247
+trial_1	placebo	21	KG00098675	dyspnoea	0.06772877275943756
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.062132902443408966
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06175325810909271
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.061683088541030884
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05743395537137985
+trial_1	placebo	132	KG00101045	Gain, Weight	0.055219076573848724
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0531233511865139
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.052695371210575104
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.04892271012067795
+trial_1	placebo	104	KG00097963	arthralgias	0.0474654957652092
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04673256352543831
+trial_1	placebo	114	KG00098933	fevers	0.041937995702028275
+trial_1	placebo	85	KG00098474	coughs	0.041447144001722336
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04128386080265045
+trial_1	placebo	239	KG00100128	pareses	0.040572430938482285
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04049430415034294
+trial_1	placebo	82	KG00097697	abdomen distended	0.03992395102977753
+trial_1	placebo	242	KG00100855	tremors	0.03976688161492348
+trial_1	placebo	29	KG00099354	hyponatraemia	0.039506733417510986
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03939654305577278
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03888576850295067
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03582150861620903
+trial_1	placebo	262	KG00101199	agitation	0.0357506200671196
+trial_1	placebo	126	KG00100076	Pain NOS	0.034975405782461166
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.034798718988895416
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.033784251660108566
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03376206383109093
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03355823829770088
+trial_1	placebo	234	KG00098669	dysgeusias	0.031969502568244934
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03189268708229065
+trial_1	placebo	116	KG00098964	Pain in foot	0.03171251714229584
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03127918019890785
+trial_1	placebo	350	KG00106765	decreased platelet count	0.031126786023378372
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030873356387019157
+trial_1	placebo	14	KG00097852	Anemia NOS	0.030421901494264603
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030282873660326004
+trial_1	placebo	466	KG00101205	fall	0.029458479955792427
+trial_1	placebo	456	KG00099420	Influenzae	0.029225517064332962
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0291435644030571
+trial_1	placebo	5	KG00099169	haematuria	0.02903222106397152
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.028589406982064247
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.027704615145921707
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.026994075626134872
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026864277198910713
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.026695922017097473
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025934001430869102
+trial_1	placebo	165	KG00098537	Libido Decreased	0.025605347007513046
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0253421813249588
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.024782326072454453
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.024409811943769455
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.024260740727186203
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02421756274998188
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023956315591931343
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.023804958909749985
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.023658903315663338
+trial_1	placebo	345	KG00103926	impairments memory	0.023419005796313286
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02337740547955036
+trial_1	placebo	136	KG00101582	Dry;skin	0.02277197688817978
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.022691216319799423
+trial_1	placebo	72	KG00103771	myalgias	0.022595709189772606
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02218506671488285
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.022043069824576378
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02147367224097252
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02142973057925701
+trial_1	placebo	382	KG00099200	haemorrhoids	0.021272525191307068
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021123655140399933
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.020925721153616905
+trial_1	placebo	164	KG00108827	ileus colon	0.020570125430822372
+trial_1	placebo	346	KG00104029	IMPOTENTIA ERIGENDI	0.020484808832406998
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02020910382270813
+trial_1	placebo	186	KG00101431	creatinine increased	0.019928866997361183
+trial_1	placebo	524	KG00100611	Sleeping disturbances	0.019614262506365776
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01956821233034134
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.019490286707878113
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.019446635618805885
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019238242879509926
+trial_1	placebo	153	KG00099579	lethargy	0.01898028329014778
+trial_1	placebo	363	KG00098184	burns injury	0.018932556733489037
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.018594367429614067
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.018567629158496857
+trial_2	vilazodone	87	KG00098599	diarrhoea	0.28637364506721497
+trial_2	vilazodone	68	KG00099901	nauseas	0.27078932523727417
+trial_2	vilazodone	9	KG00098432	Confusion NOS	0.23075652122497559
+trial_2	vilazodone	101	KG00097901	Anorexia NOS	0.19300855696201324
+trial_2	vilazodone	17	KG00097991	Asthenia NOS	0.18993479013442993
+trial_2	vilazodone	79	KG00100317	Insomnia, Primary	0.1886206865310669
+trial_2	vilazodone	77	KG00098450	Constipation NOS	0.17741608619689941
+trial_2	vilazodone	49	KG00099902	nausea with vomiting	0.17595550417900085
+trial_2	vilazodone	78	KG00099326	Hypertensive diseases	0.12247421592473984
+trial_2	vilazodone	300	KG00101064	xerostomia	0.1184723973274231
+trial_2	vilazodone	228	KG00114657	Weight below normal	0.10891589522361755
+trial_2	vilazodone	46	KG00099121	Headache NOS	0.10192041844129562
+trial_2	vilazodone	37	KG00097696	Cramps, Abdominal	0.08944541960954666
+trial_2	vilazodone	20	KG00098540	dehydration	0.08198802173137665
+trial_2	vilazodone	102	KG00097916	anxieties	0.0791468620300293
+trial_2	vilazodone	177	KG00099299	hyperglycaemia	0.07532893121242523
+trial_2	vilazodone	66	KG00098642	drowsiness	0.07315203547477722
+trial_2	vilazodone	86	KG00098565	Depression, Mental	0.0710865780711174
+trial_2	vilazodone	173	KG00098172	Bronchopneumonia NOS	0.06923961639404297
+trial_2	vilazodone	67	KG00098673	Dyspepsia, NOS	0.06913426518440247
+trial_2	vilazodone	21	KG00098675	dyspnoea	0.06772877275943756
+trial_2	vilazodone	89	KG00099301	Hyperhidrosis (disorder)	0.062132902443408966
+trial_2	vilazodone	123	KG00099351	hypokalaemia	0.06175325810909271
+trial_2	vilazodone	189	KG00101580	Alanine aminotransferase increase	0.061683088541030884
+trial_2	vilazodone	243	KG00100947	Micturition frequency increased	0.05743395537137985
+trial_2	vilazodone	132	KG00101045	Gain, Weight	0.055219076573848724
+trial_2	vilazodone	151	KG00098274	Infarction, Cerebral	0.0531233511865139
+trial_2	vilazodone	64	KG00097734	Acrodermatitis, NOS	0.052695371210575104
+trial_2	vilazodone	199	KG00098371	Rhinitis (chronic) NOS	0.04892271012067795
+trial_2	vilazodone	104	KG00097963	arthralgias	0.0474654957652092
+trial_2	vilazodone	188	KG00101579	Aspartate aminotransferase increase	0.04673256352543831
+trial_2	vilazodone	114	KG00098933	fevers	0.041937995702028275
+trial_2	vilazodone	85	KG00098474	coughs	0.041447144001722336
+trial_2	vilazodone	200	KG00098539	Disorders, Deglutition	0.04128386080265045
+trial_2	vilazodone	239	KG00100128	pareses	0.040572430938482285
+trial_2	vilazodone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04049430415034294
+trial_2	vilazodone	82	KG00097697	abdomen distended	0.03992395102977753
+trial_2	vilazodone	242	KG00100855	tremors	0.03976688161492348
+trial_2	vilazodone	29	KG00099354	hyponatraemia	0.039506733417510986
+trial_2	vilazodone	69	KG00100082	Palpitations NOS	0.03939654305577278
+trial_2	vilazodone	180	KG00099363	Hypotension NOS	0.03888576850295067
+trial_2	vilazodone	204	KG00098849	Esophagitis, Peptic	0.03582150861620903
+trial_2	vilazodone	262	KG00101199	agitation	0.0357506200671196
+trial_2	vilazodone	126	KG00100076	Pain NOS	0.034975405782461166
+trial_2	vilazodone	261	KG00101559	raised alkaline phosphatase	0.034798718988895416
+trial_2	vilazodone	166	KG00099773	menopausal syndrome	0.033784251660108566
+trial_2	vilazodone	38	KG00098066	Binocular vision disorders	0.03376206383109093
+trial_2	vilazodone	36	KG00106434	Vision, Blurring Of	0.03355823829770088
+trial_2	vilazodone	234	KG00098669	dysgeusias	0.031969502568244934
+trial_2	vilazodone	139	KG00098855	Sinusitis, Ethmoid	0.03189268708229065
+trial_2	vilazodone	116	KG00098964	Pain in foot	0.03171251714229584
+trial_2	vilazodone	422	KG00101429	Creatine phosphokinase increased	0.03127918019890785
+trial_2	vilazodone	350	KG00106765	decreased platelet count	0.031126786023378372
+trial_2	vilazodone	191	KG00104055	Biliverdin increased	0.030873356387019157
+trial_2	vilazodone	14	KG00097852	Anemia NOS	0.030421901494264603
+trial_2	vilazodone	18	KG00098307	Pain, Chest	0.030282873660326004
+trial_2	vilazodone	466	KG00101205	fall	0.029458479955792427
+trial_2	vilazodone	456	KG00099420	Influenzae	0.029225517064332962
+trial_2	vilazodone	286	KG00101110	Retention, Urinary	0.0291435644030571
+trial_2	vilazodone	5	KG00099169	haematuria	0.02903222106397152
+trial_2	vilazodone	211	KG00100341	Pruritus NOS	0.028589406982064247
+trial_2	vilazodone	138	KG00098796	epidemic vomiting syndrome	0.027704615145921707
+trial_2	vilazodone	235	KG00098682	Dysuria NOS	0.026994075626134872
+trial_2	vilazodone	131	KG00100948	Urinary tract infection (& [NOS])	0.026864277198910713
+trial_2	vilazodone	94	KG00103829	abdominal discomfort	0.026695922017097473
+trial_2	vilazodone	92	KG00100926	Infections, Upper Respiratory	0.025934001430869102
+trial_2	vilazodone	165	KG00098537	Libido Decreased	0.025605347007513046
+trial_2	vilazodone	76	KG00100450	Respiratory insufficiency, NOS	0.0253421813249588
+trial_2	vilazodone	61	KG00099501	Chronic Kidney Failure	0.024782326072454453
+trial_2	vilazodone	30	KG00099500	Acute Kidney Failure	0.024409811943769455
+trial_2	vilazodone	361	KG00098004	Fibrillation, Atrial	0.024260740727186203
+trial_2	vilazodone	130	KG00100683	Stomatitis NOS	0.02421756274998188
+trial_2	vilazodone	118	KG00099011	Gastritis NOS	0.023956315591931343
+trial_2	vilazodone	96	KG00101679	Unattended death NOS	0.023804958909749985
+trial_2	vilazodone	218	KG00100801	Tinnitus NOS	0.023658903315663338
+trial_2	vilazodone	345	KG00103926	impairments memory	0.023419005796313286
+trial_2	vilazodone	28	KG00099347	hypoglycaemia	0.02337740547955036
+trial_2	vilazodone	136	KG00101582	Dry;skin	0.02277197688817978
+trial_2	vilazodone	225	KG00104032	Suicidal tendencies	0.022691216319799423
+trial_2	vilazodone	72	KG00103771	myalgias	0.022595709189772606
+trial_2	vilazodone	371	KG00098517	Cystitis (NOS)	0.02218506671488285
+trial_2	vilazodone	341	KG00101472	Gamma-glutamyltransferase increased	0.022043069824576378
+trial_2	vilazodone	396	KG00100373	Embolism, Pulmonary	0.02147367224097252
+trial_2	vilazodone	11	KG00097993	Asthma NOS	0.02142973057925701
+trial_2	vilazodone	382	KG00099200	haemorrhoids	0.021272525191307068
+trial_2	vilazodone	122	KG00099321	Hypersensitivity NOS	0.021123655140399933
+trial_2	vilazodone	15	KG00097882	Angina pectoris NOS	0.020925721153616905
+trial_2	vilazodone	164	KG00108827	ileus colon	0.020570125430822372
+trial_2	vilazodone	346	KG00104029	IMPOTENTIA ERIGENDI	0.020484808832406998
+trial_2	vilazodone	27	KG00099303	hyperkalaemia	0.02020910382270813
+trial_2	vilazodone	186	KG00101431	creatinine increased	0.019928866997361183
+trial_2	vilazodone	524	KG00100611	Sleeping disturbances	0.019614262506365776
+trial_2	vilazodone	441	KG00098262	cellulitis nos	0.01956821233034134
+trial_2	vilazodone	98	KG00097718	Incised wound, NOS	0.019490286707878113
+trial_2	vilazodone	297	KG00099294	hypercholesterolaemia	0.019446635618805885
+trial_2	vilazodone	221	KG00101207	peripheral oedema	0.019238242879509926
+trial_2	vilazodone	153	KG00099579	lethargy	0.01898028329014778
+trial_2	vilazodone	363	KG00098184	burns injury	0.018932556733489037
+trial_2	vilazodone	33	KG00100094	Pancreatitis NOS	0.018594367429614067
+trial_2	vilazodone	256	KG00100738	Tachycardia, Sinus	0.018567629158496857

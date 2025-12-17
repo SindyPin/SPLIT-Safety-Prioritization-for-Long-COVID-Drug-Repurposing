@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18925316631793976
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12447293102741241
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12436643987894058
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08961217105388641
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0851011797785759
+trial_1	placebo	228	KG00114657	Weight below normal	0.0836956575512886
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08169761300086975
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08063479512929916
+trial_1	placebo	46	KG00099121	Headache NOS	0.07286021113395691
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0668928325176239
+trial_1	placebo	68	KG00099901	nauseas	0.061404965817928314
+trial_1	placebo	20	KG00098540	dehydration	0.06046895310282707
+trial_1	placebo	132	KG00101045	Gain, Weight	0.058036334812641144
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05707749351859093
+trial_1	placebo	123	KG00099351	hypokalaemia	0.056935396045446396
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0563870407640934
+trial_1	placebo	86	KG00098565	Depression, Mental	0.055774934589862823
+trial_1	placebo	21	KG00098675	dyspnoea	0.05513712391257286
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.054986998438835144
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05283227562904358
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04949679225683212
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04384030029177666
+trial_1	placebo	114	KG00098933	fevers	0.0410258024930954
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04031509533524513
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03903091698884964
+trial_1	placebo	126	KG00100076	Pain NOS	0.03774506226181984
+trial_1	placebo	85	KG00098474	coughs	0.03703741356730461
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03687749058008194
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03617069870233536
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03569876775145531
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03530050069093704
+trial_1	placebo	239	KG00100128	pareses	0.03403675556182861
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03258658945560455
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03163016587495804
+trial_1	placebo	104	KG00097963	arthralgias	0.03135393187403679
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.031194588169455528
+trial_1	placebo	102	KG00097916	anxieties	0.030864134430885315
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03080698847770691
+trial_1	placebo	350	KG00106765	decreased platelet count	0.030064275488257408
+trial_1	placebo	242	KG00100855	tremors	0.02955334633588791
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02818184159696102
+trial_1	placebo	72	KG00103771	myalgias	0.027577681466937065
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02731708064675331
+trial_1	placebo	66	KG00098642	drowsiness	0.027241773903369904
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.027107561007142067
+trial_1	placebo	262	KG00101199	agitation	0.027088172733783722
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026929162442684174
+trial_1	placebo	466	KG00101205	fall	0.025269342586398125
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02507411129772663
+trial_1	placebo	18	KG00098307	Pain, Chest	0.025066593661904335
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.024793364107608795
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.024525033310055733
+trial_1	placebo	234	KG00098669	dysgeusias	0.024322720244526863
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.024258805438876152
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.023754969239234924
+trial_1	placebo	5	KG00099169	haematuria	0.023669149726629257
+trial_1	placebo	116	KG00098964	Pain in foot	0.02354270964860916
+trial_1	placebo	136	KG00101582	Dry;skin	0.023339763283729553
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023187531158328056
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.023004479706287384
+trial_1	placebo	300	KG00101064	xerostomia	0.022912902757525444
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.022568218410015106
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.022558489814400673
+trial_1	placebo	147	KG00098000	atelectases	0.021607786417007446
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02151188999414444
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021023843437433243
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.020974142476916313
+trial_1	placebo	121	KG00099190	haemorrhage	0.020804373547434807
+trial_1	placebo	82	KG00097697	abdomen distended	0.020764384418725967
+trial_1	placebo	269	KG00100399	pyaemia	0.020646026358008385
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02045479230582714
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020343009382486343
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01957491599023342
+trial_1	placebo	154	KG00099686	Lymphopenias	0.019243422895669937
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019222285598516464
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01886911690235138
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.018718194216489792
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018703915178775787
+trial_1	placebo	4	KG00098817	epistaxis	0.018546603620052338
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018430350348353386
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017736971378326416
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01772429049015045
+trial_1	placebo	11	KG00097993	Asthma NOS	0.017273735255002975
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017256058752536774
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01712893322110176
+trial_1	placebo	345	KG00103926	impairments memory	0.01695885695517063
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.016695057973265648
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.016378017142415047
+trial_1	placebo	221	KG00101207	peripheral oedema	0.016299596056342125
+trial_1	placebo	456	KG00099420	Influenzae	0.016200827434659004
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.016136012971401215
+trial_1	placebo	100	KG00097815	alopecias	0.01601366139948368
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.015969347208738327
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015867557376623154
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01576157659292221
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015433475375175476
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.015221222303807735
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01489268708974123
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01487707532942295
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.014646647498011589
+trial_2	valproic acid	87	KG00098599	diarrhoea	0.18925316631793976
+trial_2	valproic acid	9	KG00098432	Confusion NOS	0.12447293102741241
+trial_2	valproic acid	17	KG00097991	Asthenia NOS	0.12436643987894058
+trial_2	valproic acid	173	KG00098172	Bronchopneumonia NOS	0.08961217105388641
+trial_2	valproic acid	64	KG00097734	Acrodermatitis, NOS	0.0851011797785759
+trial_2	valproic acid	228	KG00114657	Weight below normal	0.0836956575512886
+trial_2	valproic acid	78	KG00099326	Hypertensive diseases	0.08169761300086975
+trial_2	valproic acid	177	KG00099299	hyperglycaemia	0.08063479512929916
+trial_2	valproic acid	46	KG00099121	Headache NOS	0.07286021113395691
+trial_2	valproic acid	67	KG00098673	Dyspepsia, NOS	0.0668928325176239
+trial_2	valproic acid	68	KG00099901	nauseas	0.061404965817928314
+trial_2	valproic acid	20	KG00098540	dehydration	0.06046895310282707
+trial_2	valproic acid	132	KG00101045	Gain, Weight	0.058036334812641144
+trial_2	valproic acid	77	KG00098450	Constipation NOS	0.05707749351859093
+trial_2	valproic acid	123	KG00099351	hypokalaemia	0.056935396045446396
+trial_2	valproic acid	37	KG00097696	Cramps, Abdominal	0.0563870407640934
+trial_2	valproic acid	86	KG00098565	Depression, Mental	0.055774934589862823
+trial_2	valproic acid	21	KG00098675	dyspnoea	0.05513712391257286
+trial_2	valproic acid	49	KG00099902	nausea with vomiting	0.054986998438835144
+trial_2	valproic acid	79	KG00100317	Insomnia, Primary	0.05283227562904358
+trial_2	valproic acid	151	KG00098274	Infarction, Cerebral	0.04949679225683212
+trial_2	valproic acid	101	KG00097901	Anorexia NOS	0.04384030029177666
+trial_2	valproic acid	114	KG00098933	fevers	0.0410258024930954
+trial_2	valproic acid	189	KG00101580	Alanine aminotransferase increase	0.04031509533524513
+trial_2	valproic acid	29	KG00099354	hyponatraemia	0.03903091698884964
+trial_2	valproic acid	126	KG00100076	Pain NOS	0.03774506226181984
+trial_2	valproic acid	85	KG00098474	coughs	0.03703741356730461
+trial_2	valproic acid	96	KG00101679	Unattended death NOS	0.03687749058008194
+trial_2	valproic acid	14	KG00097852	Anemia NOS	0.03617069870233536
+trial_2	valproic acid	200	KG00098539	Disorders, Deglutition	0.03569876775145531
+trial_2	valproic acid	76	KG00100450	Respiratory insufficiency, NOS	0.03530050069093704
+trial_2	valproic acid	239	KG00100128	pareses	0.03403675556182861
+trial_2	valproic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03258658945560455
+trial_2	valproic acid	2	KG00100772	thrombocytopaenia	0.03163016587495804
+trial_2	valproic acid	104	KG00097963	arthralgias	0.03135393187403679
+trial_2	valproic acid	180	KG00099363	Hypotension NOS	0.031194588169455528
+trial_2	valproic acid	102	KG00097916	anxieties	0.030864134430885315
+trial_2	valproic acid	188	KG00101579	Aspartate aminotransferase increase	0.03080698847770691
+trial_2	valproic acid	350	KG00106765	decreased platelet count	0.030064275488257408
+trial_2	valproic acid	242	KG00100855	tremors	0.02955334633588791
+trial_2	valproic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.02818184159696102
+trial_2	valproic acid	72	KG00103771	myalgias	0.027577681466937065
+trial_2	valproic acid	28	KG00099347	hypoglycaemia	0.02731708064675331
+trial_2	valproic acid	66	KG00098642	drowsiness	0.027241773903369904
+trial_2	valproic acid	30	KG00099500	Acute Kidney Failure	0.027107561007142067
+trial_2	valproic acid	262	KG00101199	agitation	0.027088172733783722
+trial_2	valproic acid	36	KG00106434	Vision, Blurring Of	0.026929162442684174
+trial_2	valproic acid	466	KG00101205	fall	0.025269342586398125
+trial_2	valproic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.02507411129772663
+trial_2	valproic acid	18	KG00098307	Pain, Chest	0.025066593661904335
+trial_2	valproic acid	61	KG00099501	Chronic Kidney Failure	0.024793364107608795
+trial_2	valproic acid	194	KG00110727	Neutrophil Count Decreased	0.024525033310055733
+trial_2	valproic acid	234	KG00098669	dysgeusias	0.024322720244526863
+trial_2	valproic acid	191	KG00104055	Biliverdin increased	0.024258805438876152
+trial_2	valproic acid	243	KG00100947	Micturition frequency increased	0.023754969239234924
+trial_2	valproic acid	5	KG00099169	haematuria	0.023669149726629257
+trial_2	valproic acid	116	KG00098964	Pain in foot	0.02354270964860916
+trial_2	valproic acid	136	KG00101582	Dry;skin	0.023339763283729553
+trial_2	valproic acid	139	KG00098855	Sinusitis, Ethmoid	0.023187531158328056
+trial_2	valproic acid	122	KG00099321	Hypersensitivity NOS	0.023004479706287384
+trial_2	valproic acid	300	KG00101064	xerostomia	0.022912902757525444
+trial_2	valproic acid	1	KG00099959	Neutropenia NOS	0.022568218410015106
+trial_2	valproic acid	27	KG00099303	hyperkalaemia	0.022558489814400673
+trial_2	valproic acid	147	KG00098000	atelectases	0.021607786417007446
+trial_2	valproic acid	179	KG00099342	hypocalcaemia	0.02151188999414444
+trial_2	valproic acid	396	KG00100373	Embolism, Pulmonary	0.021023843437433243
+trial_2	valproic acid	170	KG00108926	Neutropenia, Febrile	0.020974142476916313
+trial_2	valproic acid	121	KG00099190	haemorrhage	0.020804373547434807
+trial_2	valproic acid	82	KG00097697	abdomen distended	0.020764384418725967
+trial_2	valproic acid	269	KG00100399	pyaemia	0.020646026358008385
+trial_2	valproic acid	361	KG00098004	Fibrillation, Atrial	0.02045479230582714
+trial_2	valproic acid	441	KG00098262	cellulitis nos	0.020343009382486343
+trial_2	valproic acid	92	KG00100926	Infections, Upper Respiratory	0.01957491599023342
+trial_2	valproic acid	154	KG00099686	Lymphopenias	0.019243422895669937
+trial_2	valproic acid	38	KG00098066	Binocular vision disorders	0.019222285598516464
+trial_2	valproic acid	249	KG00104430	hypoalbuminaemia	0.01886911690235138
+trial_2	valproic acid	144	KG00099610	Leukopenia NOS	0.018718194216489792
+trial_2	valproic acid	211	KG00100341	Pruritus NOS	0.018703915178775787
+trial_2	valproic acid	4	KG00098817	epistaxis	0.018546603620052338
+trial_2	valproic acid	69	KG00100082	Palpitations NOS	0.018430350348353386
+trial_2	valproic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.017736971378326416
+trial_2	valproic acid	288	KG00101223	hypophosphataemia	0.01772429049015045
+trial_2	valproic acid	11	KG00097993	Asthma NOS	0.017273735255002975
+trial_2	valproic acid	130	KG00100683	Stomatitis NOS	0.017256058752536774
+trial_2	valproic acid	282	KG00099309	hypernatraemia	0.01712893322110176
+trial_2	valproic acid	345	KG00103926	impairments memory	0.01695885695517063
+trial_2	valproic acid	355	KG00110857	lymphocyte count decreased	0.016695057973265648
+trial_2	valproic acid	15	KG00097882	Angina pectoris NOS	0.016378017142415047
+trial_2	valproic acid	221	KG00101207	peripheral oedema	0.016299596056342125
+trial_2	valproic acid	456	KG00099420	Influenzae	0.016200827434659004
+trial_2	valproic acid	276	KG00099127	Arrest, Cardiac	0.016136012971401215
+trial_2	valproic acid	100	KG00097815	alopecias	0.01601366139948368
+trial_2	valproic acid	204	KG00098849	Esophagitis, Peptic	0.015969347208738327
+trial_2	valproic acid	35	KG00101507	hypomagnesaemia	0.015867557376623154
+trial_2	valproic acid	199	KG00098371	Rhinitis (chronic) NOS	0.01576157659292221
+trial_2	valproic acid	31	KG00099872	Infarction, Myocardial	0.015433475375175476
+trial_2	valproic acid	133	KG00101370	neuropathies sensory	0.015221222303807735
+trial_2	valproic acid	22	KG00098705	Edema (NOS)	0.01489268708974123
+trial_2	valproic acid	261	KG00101559	raised alkaline phosphatase	0.01487707532942295
+trial_2	valproic acid	232	KG00097997	Ataxia NOS	0.014646647498011589

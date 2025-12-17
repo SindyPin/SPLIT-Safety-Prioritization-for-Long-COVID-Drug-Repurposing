@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	68	KG00099901	nauseas	0.23407556116580963
+trial_1	placebo	9	KG00098432	Confusion NOS	0.18190397322177887
+trial_1	placebo	87	KG00098599	diarrhoea	0.17676062881946564
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.16766928136348724
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.16248245537281036
+trial_1	placebo	77	KG00098450	Constipation NOS	0.15502440929412842
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14792543649673462
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.14208906888961792
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14078742265701294
+trial_1	placebo	228	KG00114657	Weight below normal	0.08920644968748093
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07946538180112839
+trial_1	placebo	20	KG00098540	dehydration	0.07943373918533325
+trial_1	placebo	300	KG00101064	xerostomia	0.07939936220645905
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07939767092466354
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07688193023204803
+trial_1	placebo	46	KG00099121	Headache NOS	0.07477205246686935
+trial_1	placebo	21	KG00098675	dyspnoea	0.06928221881389618
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0685034990310669
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0646623745560646
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06429318338632584
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06064101308584213
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.056326281279325485
+trial_1	placebo	102	KG00097916	anxieties	0.055398982018232346
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05157290771603584
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04746166616678238
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0471268892288208
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04492795839905739
+trial_1	placebo	66	KG00098642	drowsiness	0.0446191169321537
+trial_1	placebo	104	KG00097963	arthralgias	0.04430055990815163
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.042917653918266296
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.041747692972421646
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.04119383171200752
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.04050109535455704
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03906160593032837
+trial_1	placebo	114	KG00098933	fevers	0.038100484758615494
+trial_1	placebo	85	KG00098474	coughs	0.03751305118203163
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03724592551589012
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03684093430638313
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03612860292196274
+trial_1	placebo	242	KG00100855	tremors	0.03575574606657028
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.034691598266363144
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.034668754786252975
+trial_1	placebo	126	KG00100076	Pain NOS	0.0336897037923336
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03286382555961609
+trial_1	placebo	262	KG00101199	agitation	0.03263399004936218
+trial_1	placebo	239	KG00100128	pareses	0.03218729794025421
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030787654221057892
+trial_1	placebo	14	KG00097852	Anemia NOS	0.030743177980184555
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03055368922650814
+trial_1	placebo	466	KG00101205	fall	0.03043307550251484
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03038974478840828
+trial_1	placebo	350	KG00106765	decreased platelet count	0.030120806768536568
+trial_1	placebo	5	KG00099169	haematuria	0.029940254986286163
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.028771739453077316
+trial_1	placebo	234	KG00098669	dysgeusias	0.02791956439614296
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.027549579739570618
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027391036972403526
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.027385840192437172
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026968548074364662
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026795202866196632
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.026096437126398087
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02602219022810459
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.025904633104801178
+trial_1	placebo	116	KG00098964	Pain in foot	0.025663109496235847
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02536238171160221
+trial_1	placebo	82	KG00097697	abdomen distended	0.025278987362980843
+trial_1	placebo	147	KG00098000	atelectases	0.02523639425635338
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02509375289082527
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0247636865824461
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02444710209965706
+trial_1	placebo	11	KG00097993	Asthma NOS	0.024296538904309273
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.02421441487967968
+trial_1	placebo	456	KG00099420	Influenzae	0.02412712574005127
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.023572707548737526
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.023378925397992134
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023069288581609726
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02278401143848896
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02272379770874977
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022441120818257332
+trial_1	placebo	269	KG00100399	pyaemia	0.022134071215987206
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021431175991892815
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02136940136551857
+trial_1	placebo	164	KG00108827	ileus colon	0.021060116589069366
+trial_1	placebo	136	KG00101582	Dry;skin	0.0210577342659235
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020853295922279358
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02068737894296646
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.020219694823026657
+trial_1	placebo	72	KG00103771	myalgias	0.0199600737541914
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.019718801602721214
+trial_1	placebo	339	KG00100334	proteinurias	0.01969466544687748
+trial_1	placebo	345	KG00103926	impairments memory	0.019513681530952454
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019417231902480125
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0193305816501379
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.018969720229506493
+trial_1	placebo	165	KG00098537	Libido Decreased	0.018936503678560257
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.018817279487848282
+trial_1	placebo	363	KG00098184	burns injury	0.018521111458539963
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01839745230972767
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.01806136779487133
+trial_1	placebo	212	KG00100576	shivers	0.018042096868157387
+trial_2	vortioxetine	68	KG00099901	nauseas	0.23407556116580963
+trial_2	vortioxetine	9	KG00098432	Confusion NOS	0.18190397322177887
+trial_2	vortioxetine	87	KG00098599	diarrhoea	0.17676062881946564
+trial_2	vortioxetine	49	KG00099902	nausea with vomiting	0.16766928136348724
+trial_2	vortioxetine	79	KG00100317	Insomnia, Primary	0.16248245537281036
+trial_2	vortioxetine	77	KG00098450	Constipation NOS	0.15502440929412842
+trial_2	vortioxetine	78	KG00099326	Hypertensive diseases	0.14792543649673462
+trial_2	vortioxetine	101	KG00097901	Anorexia NOS	0.14208906888961792
+trial_2	vortioxetine	17	KG00097991	Asthenia NOS	0.14078742265701294
+trial_2	vortioxetine	228	KG00114657	Weight below normal	0.08920644968748093
+trial_2	vortioxetine	177	KG00099299	hyperglycaemia	0.07946538180112839
+trial_2	vortioxetine	20	KG00098540	dehydration	0.07943373918533325
+trial_2	vortioxetine	300	KG00101064	xerostomia	0.07939936220645905
+trial_2	vortioxetine	173	KG00098172	Bronchopneumonia NOS	0.07939767092466354
+trial_2	vortioxetine	123	KG00099351	hypokalaemia	0.07688193023204803
+trial_2	vortioxetine	46	KG00099121	Headache NOS	0.07477205246686935
+trial_2	vortioxetine	21	KG00098675	dyspnoea	0.06928221881389618
+trial_2	vortioxetine	64	KG00097734	Acrodermatitis, NOS	0.0685034990310669
+trial_2	vortioxetine	189	KG00101580	Alanine aminotransferase increase	0.0646623745560646
+trial_2	vortioxetine	86	KG00098565	Depression, Mental	0.06429318338632584
+trial_2	vortioxetine	151	KG00098274	Infarction, Cerebral	0.06064101308584213
+trial_2	vortioxetine	37	KG00097696	Cramps, Abdominal	0.056326281279325485
+trial_2	vortioxetine	102	KG00097916	anxieties	0.055398982018232346
+trial_2	vortioxetine	132	KG00101045	Gain, Weight	0.05157290771603584
+trial_2	vortioxetine	188	KG00101579	Aspartate aminotransferase increase	0.04746166616678238
+trial_2	vortioxetine	67	KG00098673	Dyspepsia, NOS	0.0471268892288208
+trial_2	vortioxetine	29	KG00099354	hyponatraemia	0.04492795839905739
+trial_2	vortioxetine	66	KG00098642	drowsiness	0.0446191169321537
+trial_2	vortioxetine	104	KG00097963	arthralgias	0.04430055990815163
+trial_2	vortioxetine	243	KG00100947	Micturition frequency increased	0.042917653918266296
+trial_2	vortioxetine	180	KG00099363	Hypotension NOS	0.041747692972421646
+trial_2	vortioxetine	199	KG00098371	Rhinitis (chronic) NOS	0.04119383171200752
+trial_2	vortioxetine	89	KG00099301	Hyperhidrosis (disorder)	0.04050109535455704
+trial_2	vortioxetine	200	KG00098539	Disorders, Deglutition	0.03906160593032837
+trial_2	vortioxetine	114	KG00098933	fevers	0.038100484758615494
+trial_2	vortioxetine	85	KG00098474	coughs	0.03751305118203163
+trial_2	vortioxetine	211	KG00100341	Pruritus NOS	0.03724592551589012
+trial_2	vortioxetine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03684093430638313
+trial_2	vortioxetine	69	KG00100082	Palpitations NOS	0.03612860292196274
+trial_2	vortioxetine	242	KG00100855	tremors	0.03575574606657028
+trial_2	vortioxetine	261	KG00101559	raised alkaline phosphatase	0.034691598266363144
+trial_2	vortioxetine	76	KG00100450	Respiratory insufficiency, NOS	0.034668754786252975
+trial_2	vortioxetine	126	KG00100076	Pain NOS	0.0336897037923336
+trial_2	vortioxetine	38	KG00098066	Binocular vision disorders	0.03286382555961609
+trial_2	vortioxetine	262	KG00101199	agitation	0.03263399004936218
+trial_2	vortioxetine	239	KG00100128	pareses	0.03218729794025421
+trial_2	vortioxetine	30	KG00099500	Acute Kidney Failure	0.030787654221057892
+trial_2	vortioxetine	14	KG00097852	Anemia NOS	0.030743177980184555
+trial_2	vortioxetine	28	KG00099347	hypoglycaemia	0.03055368922650814
+trial_2	vortioxetine	466	KG00101205	fall	0.03043307550251484
+trial_2	vortioxetine	139	KG00098855	Sinusitis, Ethmoid	0.03038974478840828
+trial_2	vortioxetine	350	KG00106765	decreased platelet count	0.030120806768536568
+trial_2	vortioxetine	5	KG00099169	haematuria	0.029940254986286163
+trial_2	vortioxetine	61	KG00099501	Chronic Kidney Failure	0.028771739453077316
+trial_2	vortioxetine	234	KG00098669	dysgeusias	0.02791956439614296
+trial_2	vortioxetine	191	KG00104055	Biliverdin increased	0.027549579739570618
+trial_2	vortioxetine	131	KG00100948	Urinary tract infection (& [NOS])	0.027391036972403526
+trial_2	vortioxetine	130	KG00100683	Stomatitis NOS	0.027385840192437172
+trial_2	vortioxetine	96	KG00101679	Unattended death NOS	0.026968548074364662
+trial_2	vortioxetine	286	KG00101110	Retention, Urinary	0.026795202866196632
+trial_2	vortioxetine	138	KG00098796	epidemic vomiting syndrome	0.026096437126398087
+trial_2	vortioxetine	36	KG00106434	Vision, Blurring Of	0.02602219022810459
+trial_2	vortioxetine	204	KG00098849	Esophagitis, Peptic	0.025904633104801178
+trial_2	vortioxetine	116	KG00098964	Pain in foot	0.025663109496235847
+trial_2	vortioxetine	422	KG00101429	Creatine phosphokinase increased	0.02536238171160221
+trial_2	vortioxetine	82	KG00097697	abdomen distended	0.025278987362980843
+trial_2	vortioxetine	147	KG00098000	atelectases	0.02523639425635338
+trial_2	vortioxetine	122	KG00099321	Hypersensitivity NOS	0.02509375289082527
+trial_2	vortioxetine	396	KG00100373	Embolism, Pulmonary	0.0247636865824461
+trial_2	vortioxetine	18	KG00098307	Pain, Chest	0.02444710209965706
+trial_2	vortioxetine	11	KG00097993	Asthma NOS	0.024296538904309273
+trial_2	vortioxetine	225	KG00104032	Suicidal tendencies	0.02421441487967968
+trial_2	vortioxetine	456	KG00099420	Influenzae	0.02412712574005127
+trial_2	vortioxetine	341	KG00101472	Gamma-glutamyltransferase increased	0.023572707548737526
+trial_2	vortioxetine	31	KG00099872	Infarction, Myocardial	0.023378925397992134
+trial_2	vortioxetine	118	KG00099011	Gastritis NOS	0.023069288581609726
+trial_2	vortioxetine	166	KG00099773	menopausal syndrome	0.02278401143848896
+trial_2	vortioxetine	441	KG00098262	cellulitis nos	0.02272379770874977
+trial_2	vortioxetine	361	KG00098004	Fibrillation, Atrial	0.022441120818257332
+trial_2	vortioxetine	269	KG00100399	pyaemia	0.022134071215987206
+trial_2	vortioxetine	297	KG00099294	hypercholesterolaemia	0.021431175991892815
+trial_2	vortioxetine	92	KG00100926	Infections, Upper Respiratory	0.02136940136551857
+trial_2	vortioxetine	164	KG00108827	ileus colon	0.021060116589069366
+trial_2	vortioxetine	136	KG00101582	Dry;skin	0.0210577342659235
+trial_2	vortioxetine	371	KG00098517	Cystitis (NOS)	0.020853295922279358
+trial_2	vortioxetine	27	KG00099303	hyperkalaemia	0.02068737894296646
+trial_2	vortioxetine	235	KG00098682	Dysuria NOS	0.020219694823026657
+trial_2	vortioxetine	72	KG00103771	myalgias	0.0199600737541914
+trial_2	vortioxetine	249	KG00104430	hypoalbuminaemia	0.019718801602721214
+trial_2	vortioxetine	339	KG00100334	proteinurias	0.01969466544687748
+trial_2	vortioxetine	345	KG00103926	impairments memory	0.019513681530952454
+trial_2	vortioxetine	15	KG00097882	Angina pectoris NOS	0.019417231902480125
+trial_2	vortioxetine	394	KG00100243	Pneumonia, Aspiration	0.0193305816501379
+trial_2	vortioxetine	179	KG00099342	hypocalcaemia	0.018969720229506493
+trial_2	vortioxetine	165	KG00098537	Libido Decreased	0.018936503678560257
+trial_2	vortioxetine	98	KG00097718	Incised wound, NOS	0.018817279487848282
+trial_2	vortioxetine	363	KG00098184	burns injury	0.018521111458539963
+trial_2	vortioxetine	33	KG00100094	Pancreatitis NOS	0.01839745230972767
+trial_2	vortioxetine	218	KG00100801	Tinnitus NOS	0.01806136779487133
+trial_2	vortioxetine	212	KG00100576	shivers	0.018042096868157387

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15367615222930908
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09096267819404602
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0836174264550209
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06900165230035782
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06287911534309387
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06210586801171303
+trial_1	placebo	68	KG00099901	nauseas	0.059582121670246124
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05822179839015007
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05626055598258972
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05625159665942192
+trial_1	placebo	20	KG00098540	dehydration	0.05393841117620468
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05370958521962166
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05149650201201439
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04969391971826553
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04833173751831055
+trial_1	placebo	46	KG00099121	Headache NOS	0.047324515879154205
+trial_1	placebo	147	KG00098000	atelectases	0.04716522991657257
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.046690698713064194
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04548736289143562
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04353050887584686
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04286283627152443
+trial_1	placebo	21	KG00098675	dyspnoea	0.04134861379861832
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04125697910785675
+trial_1	placebo	269	KG00100399	pyaemia	0.0405617393553257
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03884271904826164
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.037145454436540604
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.037000544369220734
+trial_1	placebo	114	KG00098933	fevers	0.0358307883143425
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03461294248700142
+trial_1	placebo	5	KG00099169	haematuria	0.034000929445028305
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03392813727259636
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.032756220549345016
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03157494589686394
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.030694693326950073
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.030381036922335625
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.029805826023221016
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02935190126299858
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.029193896800279617
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.028284655883908272
+trial_1	placebo	228	KG00114657	Weight below normal	0.02802160196006298
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02778751216828823
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.026930199936032295
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.026476023718714714
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.025295216590166092
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025201210752129555
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024997299537062645
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.024786705151200294
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024746086448431015
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.024328796193003654
+trial_1	placebo	126	KG00100076	Pain NOS	0.024201607331633568
+trial_1	placebo	186	KG00101431	creatinine increased	0.02402612753212452
+trial_1	placebo	234	KG00098669	dysgeusias	0.023942749947309494
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.023561451584100723
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02336079254746437
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.023226050660014153
+trial_1	placebo	164	KG00108827	ileus colon	0.022722257301211357
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.022272709757089615
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02214089408516884
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.0221402645111084
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02123461477458477
+trial_1	placebo	82	KG00097697	abdomen distended	0.020942673087120056
+trial_1	placebo	85	KG00098474	coughs	0.02043910138309002
+trial_1	placebo	282	KG00099309	hypernatraemia	0.020368868485093117
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01986045390367508
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019441016018390656
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01942180097103119
+trial_1	placebo	239	KG00100128	pareses	0.019076218828558922
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01882021315395832
+trial_1	placebo	18	KG00098307	Pain, Chest	0.01841067522764206
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018144775182008743
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01812935434281826
+trial_1	placebo	86	KG00098565	Depression, Mental	0.017901845276355743
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.017184801399707794
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.016880780458450317
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.016816334798932076
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.016721151769161224
+trial_1	placebo	4	KG00098817	epistaxis	0.016718847677111626
+trial_1	placebo	104	KG00097963	arthralgias	0.016687871888279915
+trial_1	placebo	257	KG00100922	Erythema NOS	0.01668488420546055
+trial_1	placebo	72	KG00103771	myalgias	0.016637267544865608
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.016611535102128983
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01644514501094818
+trial_1	placebo	102	KG00097916	anxieties	0.01626846194267273
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016256103292107582
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01610330492258072
+trial_1	placebo	121	KG00099190	haemorrhage	0.015974855050444603
+trial_1	placebo	713	KG00107657	distressed respiratory	0.0153719587251544
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.015337389893829823
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.015029283240437508
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.014904809184372425
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.014865227043628693
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.01479152962565422
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.014735335484147072
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.014698764309287071
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.014501691795885563
+trial_1	placebo	136	KG00101582	Dry;skin	0.014481397345662117
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.014447363093495369
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014213196001946926
+trial_1	placebo	503	KG00102612	low haemoglobin	0.014187736436724663
+trial_1	placebo	116	KG00098964	Pain in foot	0.014171533286571503
+trial_2	vancomycin	87	KG00098599	diarrhoea	0.15367615222930908
+trial_2	vancomycin	123	KG00099351	hypokalaemia	0.09096267819404602
+trial_2	vancomycin	78	KG00099326	Hypertensive diseases	0.0836174264550209
+trial_2	vancomycin	173	KG00098172	Bronchopneumonia NOS	0.06900165230035782
+trial_2	vancomycin	189	KG00101580	Alanine aminotransferase increase	0.06287911534309387
+trial_2	vancomycin	9	KG00098432	Confusion NOS	0.06210586801171303
+trial_2	vancomycin	68	KG00099901	nauseas	0.059582121670246124
+trial_2	vancomycin	64	KG00097734	Acrodermatitis, NOS	0.05822179839015007
+trial_2	vancomycin	188	KG00101579	Aspartate aminotransferase increase	0.05626055598258972
+trial_2	vancomycin	177	KG00099299	hyperglycaemia	0.05625159665942192
+trial_2	vancomycin	20	KG00098540	dehydration	0.05393841117620468
+trial_2	vancomycin	37	KG00097696	Cramps, Abdominal	0.05370958521962166
+trial_2	vancomycin	49	KG00099902	nausea with vomiting	0.05149650201201439
+trial_2	vancomycin	276	KG00099127	Arrest, Cardiac	0.04969391971826553
+trial_2	vancomycin	61	KG00099501	Chronic Kidney Failure	0.04833173751831055
+trial_2	vancomycin	46	KG00099121	Headache NOS	0.047324515879154205
+trial_2	vancomycin	147	KG00098000	atelectases	0.04716522991657257
+trial_2	vancomycin	30	KG00099500	Acute Kidney Failure	0.046690698713064194
+trial_2	vancomycin	14	KG00097852	Anemia NOS	0.04548736289143562
+trial_2	vancomycin	2	KG00100772	thrombocytopaenia	0.04353050887584686
+trial_2	vancomycin	76	KG00100450	Respiratory insufficiency, NOS	0.04286283627152443
+trial_2	vancomycin	21	KG00098675	dyspnoea	0.04134861379861832
+trial_2	vancomycin	396	KG00100373	Embolism, Pulmonary	0.04125697910785675
+trial_2	vancomycin	269	KG00100399	pyaemia	0.0405617393553257
+trial_2	vancomycin	77	KG00098450	Constipation NOS	0.03884271904826164
+trial_2	vancomycin	151	KG00098274	Infarction, Cerebral	0.037145454436540604
+trial_2	vancomycin	180	KG00099363	Hypotension NOS	0.037000544369220734
+trial_2	vancomycin	114	KG00098933	fevers	0.0358307883143425
+trial_2	vancomycin	17	KG00097991	Asthenia NOS	0.03461294248700142
+trial_2	vancomycin	5	KG00099169	haematuria	0.034000929445028305
+trial_2	vancomycin	67	KG00098673	Dyspepsia, NOS	0.03392813727259636
+trial_2	vancomycin	200	KG00098539	Disorders, Deglutition	0.032756220549345016
+trial_2	vancomycin	350	KG00106765	decreased platelet count	0.03157494589686394
+trial_2	vancomycin	79	KG00100317	Insomnia, Primary	0.030694693326950073
+trial_2	vancomycin	27	KG00099303	hyperkalaemia	0.030381036922335625
+trial_2	vancomycin	75	KG00100195	Dolens, Phlegmasia Alba	0.029805826023221016
+trial_2	vancomycin	29	KG00099354	hyponatraemia	0.02935190126299858
+trial_2	vancomycin	31	KG00099872	Infarction, Myocardial	0.029193896800279617
+trial_2	vancomycin	35	KG00101507	hypomagnesaemia	0.028284655883908272
+trial_2	vancomycin	228	KG00114657	Weight below normal	0.02802160196006298
+trial_2	vancomycin	96	KG00101679	Unattended death NOS	0.02778751216828823
+trial_2	vancomycin	191	KG00104055	Biliverdin increased	0.026930199936032295
+trial_2	vancomycin	179	KG00099342	hypocalcaemia	0.026476023718714714
+trial_2	vancomycin	253	KG00100232	Pleural effusion NOS (disorder)	0.025295216590166092
+trial_2	vancomycin	142	KG00100923	Unspecified infectious and parasitic diseases	0.025201210752129555
+trial_2	vancomycin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024997299537062645
+trial_2	vancomycin	261	KG00101559	raised alkaline phosphatase	0.024786705151200294
+trial_2	vancomycin	131	KG00100948	Urinary tract infection (& [NOS])	0.024746086448431015
+trial_2	vancomycin	101	KG00097901	Anorexia NOS	0.024328796193003654
+trial_2	vancomycin	126	KG00100076	Pain NOS	0.024201607331633568
+trial_2	vancomycin	186	KG00101431	creatinine increased	0.02402612753212452
+trial_2	vancomycin	234	KG00098669	dysgeusias	0.023942749947309494
+trial_2	vancomycin	243	KG00100947	Micturition frequency increased	0.023561451584100723
+trial_2	vancomycin	441	KG00098262	cellulitis nos	0.02336079254746437
+trial_2	vancomycin	211	KG00100341	Pruritus NOS	0.023226050660014153
+trial_2	vancomycin	164	KG00108827	ileus colon	0.022722257301211357
+trial_2	vancomycin	494	KG00099838	Organ Failure, Multiple	0.022272709757089615
+trial_2	vancomycin	361	KG00098004	Fibrillation, Atrial	0.02214089408516884
+trial_2	vancomycin	130	KG00100683	Stomatitis NOS	0.0221402645111084
+trial_2	vancomycin	249	KG00104430	hypoalbuminaemia	0.02123461477458477
+trial_2	vancomycin	82	KG00097697	abdomen distended	0.020942673087120056
+trial_2	vancomycin	85	KG00098474	coughs	0.02043910138309002
+trial_2	vancomycin	282	KG00099309	hypernatraemia	0.020368868485093117
+trial_2	vancomycin	69	KG00100082	Palpitations NOS	0.01986045390367508
+trial_2	vancomycin	194	KG00110727	Neutrophil Count Decreased	0.019441016018390656
+trial_2	vancomycin	288	KG00101223	hypophosphataemia	0.01942180097103119
+trial_2	vancomycin	239	KG00100128	pareses	0.019076218828558922
+trial_2	vancomycin	38	KG00098066	Binocular vision disorders	0.01882021315395832
+trial_2	vancomycin	18	KG00098307	Pain, Chest	0.01841067522764206
+trial_2	vancomycin	28	KG00099347	hypoglycaemia	0.018144775182008743
+trial_2	vancomycin	144	KG00099610	Leukopenia NOS	0.01812935434281826
+trial_2	vancomycin	86	KG00098565	Depression, Mental	0.017901845276355743
+trial_2	vancomycin	1	KG00099959	Neutropenia NOS	0.017184801399707794
+trial_2	vancomycin	97	KG00104198	LIVER ENZYME ELEVATED	0.016880780458450317
+trial_2	vancomycin	422	KG00101429	Creatine phosphokinase increased	0.016816334798932076
+trial_2	vancomycin	92	KG00100926	Infections, Upper Respiratory	0.016721151769161224
+trial_2	vancomycin	4	KG00098817	epistaxis	0.016718847677111626
+trial_2	vancomycin	104	KG00097963	arthralgias	0.016687871888279915
+trial_2	vancomycin	257	KG00100922	Erythema NOS	0.01668488420546055
+trial_2	vancomycin	72	KG00103771	myalgias	0.016637267544865608
+trial_2	vancomycin	122	KG00099321	Hypersensitivity NOS	0.016611535102128983
+trial_2	vancomycin	341	KG00101472	Gamma-glutamyltransferase increased	0.01644514501094818
+trial_2	vancomycin	102	KG00097916	anxieties	0.01626846194267273
+trial_2	vancomycin	138	KG00098796	epidemic vomiting syndrome	0.016256103292107582
+trial_2	vancomycin	286	KG00101110	Retention, Urinary	0.01610330492258072
+trial_2	vancomycin	121	KG00099190	haemorrhage	0.015974855050444603
+trial_2	vancomycin	713	KG00107657	distressed respiratory	0.0153719587251544
+trial_2	vancomycin	183	KG00100449	Adult Respiratory Distress Syndrome	0.015337389893829823
+trial_2	vancomycin	394	KG00100243	Pneumonia, Aspiration	0.015029283240437508
+trial_2	vancomycin	355	KG00110857	lymphocyte count decreased	0.014904809184372425
+trial_2	vancomycin	268	KG00099557	Heart Failure, Left-Sided	0.014865227043628693
+trial_2	vancomycin	883	KG00107760	Neonatal cardiorespiratory arrest	0.01479152962565422
+trial_2	vancomycin	356	KG00112623	Infectious Lung Disorders	0.014735335484147072
+trial_2	vancomycin	33	KG00100094	Pancreatitis NOS	0.014698764309287071
+trial_2	vancomycin	747	KG00101527	Liver function tests abnormal (finding)	0.014501691795885563
+trial_2	vancomycin	136	KG00101582	Dry;skin	0.014481397345662117
+trial_2	vancomycin	561	KG00104180	Diarrhoea, Clostridium difficile	0.014447363093495369
+trial_2	vancomycin	204	KG00098849	Esophagitis, Peptic	0.014213196001946926
+trial_2	vancomycin	503	KG00102612	low haemoglobin	0.014187736436724663
+trial_2	vancomycin	116	KG00098964	Pain in foot	0.014171533286571503

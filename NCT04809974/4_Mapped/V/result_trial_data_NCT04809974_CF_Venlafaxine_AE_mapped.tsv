@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.24360932409763336
+trial_1	placebo	9	KG00098432	Confusion NOS	0.2159079611301422
+trial_1	placebo	68	KG00099901	nauseas	0.19819287955760956
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.17712809145450592
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.17335793375968933
+trial_1	placebo	77	KG00098450	Constipation NOS	0.1439417004585266
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.13218261301517487
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11842207610607147
+trial_1	placebo	228	KG00114657	Weight below normal	0.10394463688135147
+trial_1	placebo	300	KG00101064	xerostomia	0.1022639200091362
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09243257343769073
+trial_1	placebo	46	KG00099121	Headache NOS	0.07722226530313492
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07464322447776794
+trial_1	placebo	20	KG00098540	dehydration	0.06627598404884338
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06394170969724655
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06169085577130318
+trial_1	placebo	21	KG00098675	dyspnoea	0.05859305337071419
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05814185366034508
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05799093097448349
+trial_1	placebo	66	KG00098642	drowsiness	0.0552673414349556
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0541185662150383
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.054059818387031555
+trial_1	placebo	86	KG00098565	Depression, Mental	0.053590256720781326
+trial_1	placebo	102	KG00097916	anxieties	0.05333351716399193
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.05329226702451706
+trial_1	placebo	132	KG00101045	Gain, Weight	0.050558559596538544
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04956291243433952
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04059918597340584
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04007939621806145
+trial_1	placebo	114	KG00098933	fevers	0.039844222366809845
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03811701014637947
+trial_1	placebo	239	KG00100128	pareses	0.0373707078397274
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03719858452677727
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03700642287731171
+trial_1	placebo	242	KG00100855	tremors	0.0369231142103672
+trial_1	placebo	126	KG00100076	Pain NOS	0.03596929833292961
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03559093177318573
+trial_1	placebo	85	KG00098474	coughs	0.03480442240834236
+trial_1	placebo	262	KG00101199	agitation	0.03421395644545555
+trial_1	placebo	234	KG00098669	dysgeusias	0.03409108892083168
+trial_1	placebo	104	KG00097963	arthralgias	0.03397216275334358
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03374113142490387
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03145221620798111
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03083004243671894
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.030216852203011513
+trial_1	placebo	350	KG00106765	decreased platelet count	0.027524245902895927
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.027436334639787674
+trial_1	placebo	82	KG00097697	abdomen distended	0.027211599051952362
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026895858347415924
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02687963843345642
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02623835578560829
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02493172697722912
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02448226325213909
+trial_1	placebo	72	KG00103771	myalgias	0.02439679019153118
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.0243225060403347
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.023377668112516403
+trial_1	placebo	116	KG00098964	Pain in foot	0.02264983206987381
+trial_1	placebo	466	KG00101205	fall	0.022634854540228844
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.022518377751111984
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022290971130132675
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.022155124694108963
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02166013792157173
+trial_1	placebo	345	KG00103926	impairments memory	0.021357139572501183
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021015115082263947
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02062656171619892
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02054988592863083
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.020524773746728897
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02049633115530014
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0204894058406353
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.020324528217315674
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.019977141171693802
+trial_1	placebo	5	KG00099169	haematuria	0.019898537546396255
+trial_1	placebo	165	KG00098537	Libido Decreased	0.0198262557387352
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01966281421482563
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.019301623106002808
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.019122909754514694
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.01879284717142582
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.018628539517521858
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01848849654197693
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.018409496173262596
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018295712769031525
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018191156908869743
+trial_1	placebo	136	KG00101582	Dry;skin	0.018178945407271385
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01795894280076027
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.017691420391201973
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017556292936205864
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0174937155097723
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01744011417031288
+trial_1	placebo	456	KG00099420	Influenzae	0.017359331250190735
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.016854891553521156
+trial_1	placebo	164	KG00108827	ileus colon	0.016829773783683777
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016798093914985657
+trial_1	placebo	186	KG00101431	creatinine increased	0.01669236458837986
+trial_1	placebo	11	KG00097993	Asthma NOS	0.016369378194212914
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01610274612903595
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01600189320743084
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01600184664130211
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.015862034633755684
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01581316627562046
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.015604428015649319
+trial_2	venlafaxine	87	KG00098599	diarrhoea	0.24360932409763336
+trial_2	venlafaxine	9	KG00098432	Confusion NOS	0.2159079611301422
+trial_2	venlafaxine	68	KG00099901	nauseas	0.19819287955760956
+trial_2	venlafaxine	17	KG00097991	Asthenia NOS	0.17712809145450592
+trial_2	venlafaxine	101	KG00097901	Anorexia NOS	0.17335793375968933
+trial_2	venlafaxine	77	KG00098450	Constipation NOS	0.1439417004585266
+trial_2	venlafaxine	79	KG00100317	Insomnia, Primary	0.13218261301517487
+trial_2	venlafaxine	49	KG00099902	nausea with vomiting	0.11842207610607147
+trial_2	venlafaxine	228	KG00114657	Weight below normal	0.10394463688135147
+trial_2	venlafaxine	300	KG00101064	xerostomia	0.1022639200091362
+trial_2	venlafaxine	78	KG00099326	Hypertensive diseases	0.09243257343769073
+trial_2	venlafaxine	46	KG00099121	Headache NOS	0.07722226530313492
+trial_2	venlafaxine	37	KG00097696	Cramps, Abdominal	0.07464322447776794
+trial_2	venlafaxine	20	KG00098540	dehydration	0.06627598404884338
+trial_2	venlafaxine	177	KG00099299	hyperglycaemia	0.06394170969724655
+trial_2	venlafaxine	67	KG00098673	Dyspepsia, NOS	0.06169085577130318
+trial_2	venlafaxine	21	KG00098675	dyspnoea	0.05859305337071419
+trial_2	venlafaxine	123	KG00099351	hypokalaemia	0.05814185366034508
+trial_2	venlafaxine	173	KG00098172	Bronchopneumonia NOS	0.05799093097448349
+trial_2	venlafaxine	66	KG00098642	drowsiness	0.0552673414349556
+trial_2	venlafaxine	64	KG00097734	Acrodermatitis, NOS	0.0541185662150383
+trial_2	venlafaxine	189	KG00101580	Alanine aminotransferase increase	0.054059818387031555
+trial_2	venlafaxine	86	KG00098565	Depression, Mental	0.053590256720781326
+trial_2	venlafaxine	102	KG00097916	anxieties	0.05333351716399193
+trial_2	venlafaxine	89	KG00099301	Hyperhidrosis (disorder)	0.05329226702451706
+trial_2	venlafaxine	132	KG00101045	Gain, Weight	0.050558559596538544
+trial_2	venlafaxine	243	KG00100947	Micturition frequency increased	0.04956291243433952
+trial_2	venlafaxine	151	KG00098274	Infarction, Cerebral	0.04059918597340584
+trial_2	venlafaxine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04007939621806145
+trial_2	venlafaxine	114	KG00098933	fevers	0.039844222366809845
+trial_2	venlafaxine	188	KG00101579	Aspartate aminotransferase increase	0.03811701014637947
+trial_2	venlafaxine	239	KG00100128	pareses	0.0373707078397274
+trial_2	venlafaxine	36	KG00106434	Vision, Blurring Of	0.03719858452677727
+trial_2	venlafaxine	29	KG00099354	hyponatraemia	0.03700642287731171
+trial_2	venlafaxine	242	KG00100855	tremors	0.0369231142103672
+trial_2	venlafaxine	126	KG00100076	Pain NOS	0.03596929833292961
+trial_2	venlafaxine	200	KG00098539	Disorders, Deglutition	0.03559093177318573
+trial_2	venlafaxine	85	KG00098474	coughs	0.03480442240834236
+trial_2	venlafaxine	262	KG00101199	agitation	0.03421395644545555
+trial_2	venlafaxine	234	KG00098669	dysgeusias	0.03409108892083168
+trial_2	venlafaxine	104	KG00097963	arthralgias	0.03397216275334358
+trial_2	venlafaxine	69	KG00100082	Palpitations NOS	0.03374113142490387
+trial_2	venlafaxine	180	KG00099363	Hypotension NOS	0.03145221620798111
+trial_2	venlafaxine	14	KG00097852	Anemia NOS	0.03083004243671894
+trial_2	venlafaxine	261	KG00101559	raised alkaline phosphatase	0.030216852203011513
+trial_2	venlafaxine	350	KG00106765	decreased platelet count	0.027524245902895927
+trial_2	venlafaxine	199	KG00098371	Rhinitis (chronic) NOS	0.027436334639787674
+trial_2	venlafaxine	82	KG00097697	abdomen distended	0.027211599051952362
+trial_2	venlafaxine	18	KG00098307	Pain, Chest	0.026895858347415924
+trial_2	venlafaxine	38	KG00098066	Binocular vision disorders	0.02687963843345642
+trial_2	venlafaxine	191	KG00104055	Biliverdin increased	0.02623835578560829
+trial_2	venlafaxine	122	KG00099321	Hypersensitivity NOS	0.02493172697722912
+trial_2	venlafaxine	96	KG00101679	Unattended death NOS	0.02448226325213909
+trial_2	venlafaxine	72	KG00103771	myalgias	0.02439679019153118
+trial_2	venlafaxine	218	KG00100801	Tinnitus NOS	0.0243225060403347
+trial_2	venlafaxine	166	KG00099773	menopausal syndrome	0.023377668112516403
+trial_2	venlafaxine	116	KG00098964	Pain in foot	0.02264983206987381
+trial_2	venlafaxine	466	KG00101205	fall	0.022634854540228844
+trial_2	venlafaxine	76	KG00100450	Respiratory insufficiency, NOS	0.022518377751111984
+trial_2	venlafaxine	286	KG00101110	Retention, Urinary	0.022290971130132675
+trial_2	venlafaxine	139	KG00098855	Sinusitis, Ethmoid	0.022155124694108963
+trial_2	venlafaxine	204	KG00098849	Esophagitis, Peptic	0.02166013792157173
+trial_2	venlafaxine	345	KG00103926	impairments memory	0.021357139572501183
+trial_2	venlafaxine	130	KG00100683	Stomatitis NOS	0.021015115082263947
+trial_2	venlafaxine	28	KG00099347	hypoglycaemia	0.02062656171619892
+trial_2	venlafaxine	133	KG00101370	neuropathies sensory	0.02054988592863083
+trial_2	venlafaxine	131	KG00100948	Urinary tract infection (& [NOS])	0.020524773746728897
+trial_2	venlafaxine	61	KG00099501	Chronic Kidney Failure	0.02049633115530014
+trial_2	venlafaxine	361	KG00098004	Fibrillation, Atrial	0.0204894058406353
+trial_2	venlafaxine	138	KG00098796	epidemic vomiting syndrome	0.020324528217315674
+trial_2	venlafaxine	422	KG00101429	Creatine phosphokinase increased	0.019977141171693802
+trial_2	venlafaxine	5	KG00099169	haematuria	0.019898537546396255
+trial_2	venlafaxine	165	KG00098537	Libido Decreased	0.0198262557387352
+trial_2	venlafaxine	211	KG00100341	Pruritus NOS	0.01966281421482563
+trial_2	venlafaxine	22	KG00098705	Edema (NOS)	0.019301623106002808
+trial_2	venlafaxine	118	KG00099011	Gastritis NOS	0.019122909754514694
+trial_2	venlafaxine	235	KG00098682	Dysuria NOS	0.01879284717142582
+trial_2	venlafaxine	2	KG00100772	thrombocytopaenia	0.018628539517521858
+trial_2	venlafaxine	396	KG00100373	Embolism, Pulmonary	0.01848849654197693
+trial_2	venlafaxine	94	KG00103829	abdominal discomfort	0.018409496173262596
+trial_2	venlafaxine	92	KG00100926	Infections, Upper Respiratory	0.018295712769031525
+trial_2	venlafaxine	249	KG00104430	hypoalbuminaemia	0.018191156908869743
+trial_2	venlafaxine	136	KG00101582	Dry;skin	0.018178945407271385
+trial_2	venlafaxine	371	KG00098517	Cystitis (NOS)	0.01795894280076027
+trial_2	venlafaxine	30	KG00099500	Acute Kidney Failure	0.017691420391201973
+trial_2	venlafaxine	194	KG00110727	Neutrophil Count Decreased	0.017556292936205864
+trial_2	venlafaxine	355	KG00110857	lymphocyte count decreased	0.0174937155097723
+trial_2	venlafaxine	221	KG00101207	peripheral oedema	0.01744011417031288
+trial_2	venlafaxine	456	KG00099420	Influenzae	0.017359331250190735
+trial_2	venlafaxine	179	KG00099342	hypocalcaemia	0.016854891553521156
+trial_2	venlafaxine	164	KG00108827	ileus colon	0.016829773783683777
+trial_2	venlafaxine	142	KG00100923	Unspecified infectious and parasitic diseases	0.016798093914985657
+trial_2	venlafaxine	186	KG00101431	creatinine increased	0.01669236458837986
+trial_2	venlafaxine	11	KG00097993	Asthma NOS	0.016369378194212914
+trial_2	venlafaxine	441	KG00098262	cellulitis nos	0.01610274612903595
+trial_2	venlafaxine	75	KG00100195	Dolens, Phlegmasia Alba	0.01600189320743084
+trial_2	venlafaxine	152	KG00099402	INCONTINENCE NOS	0.01600184664130211
+trial_2	venlafaxine	27	KG00099303	hyperkalaemia	0.015862034633755684
+trial_2	venlafaxine	35	KG00101507	hypomagnesaemia	0.01581316627562046
+trial_2	venlafaxine	225	KG00104032	Suicidal tendencies	0.015604428015649319

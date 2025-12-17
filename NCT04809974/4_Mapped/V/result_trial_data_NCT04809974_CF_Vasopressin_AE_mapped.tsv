@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.17048755288124084
+trial_1	placebo	46	KG00099121	Headache NOS	0.10006069391965866
+trial_1	placebo	87	KG00098599	diarrhoea	0.09925687313079834
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08729822188615799
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08441507071256638
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07997389137744904
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07547120749950409
+trial_1	placebo	21	KG00098675	dyspnoea	0.07312201708555222
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07237941026687622
+trial_1	placebo	68	KG00099901	nauseas	0.06238709017634392
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06149021163582802
+trial_1	placebo	20	KG00098540	dehydration	0.05892544984817505
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05815413221716881
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05403736233711243
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05253947526216507
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04956497997045517
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.048400454223155975
+trial_1	placebo	77	KG00098450	Constipation NOS	0.047877777367830276
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04671761021018028
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04660477489233017
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04637034982442856
+trial_1	placebo	126	KG00100076	Pain NOS	0.04594206064939499
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.045662056654691696
+trial_1	placebo	29	KG00099354	hyponatraemia	0.045629143714904785
+trial_1	placebo	14	KG00097852	Anemia NOS	0.045574452728033066
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04474182799458504
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0430079810321331
+trial_1	placebo	114	KG00098933	fevers	0.04254743084311485
+trial_1	placebo	147	KG00098000	atelectases	0.04191966727375984
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.040360912680625916
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03933452069759369
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.039216913282871246
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03870588168501854
+trial_1	placebo	228	KG00114657	Weight below normal	0.038327958434820175
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.038028784096241
+trial_1	placebo	104	KG00097963	arthralgias	0.03762473165988922
+trial_1	placebo	85	KG00098474	coughs	0.03740030154585838
+trial_1	placebo	5	KG00099169	haematuria	0.036266669631004333
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.036263566464185715
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03612508252263069
+trial_1	placebo	239	KG00100128	pareses	0.035484690219163895
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03497397527098656
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.034297943115234375
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03410714864730835
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03403306379914284
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0330936461687088
+trial_1	placebo	269	KG00100399	pyaemia	0.03307788446545601
+trial_1	placebo	282	KG00099309	hypernatraemia	0.031200792640447617
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029594870284199715
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02936454303562641
+trial_1	placebo	121	KG00099190	haemorrhage	0.029360461980104446
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.029323412105441093
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028709737583994865
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02849593013525009
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.027748268097639084
+trial_1	placebo	102	KG00097916	anxieties	0.0272976066917181
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02706478163599968
+trial_1	placebo	116	KG00098964	Pain in foot	0.02689095214009285
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.026744160801172256
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02670172229409218
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026350438594818115
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025810977444052696
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.024649128317832947
+trial_1	placebo	212	KG00100576	shivers	0.024564683437347412
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024526767432689667
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02441413328051567
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.024379121139645576
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024274460971355438
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02425200492143631
+trial_1	placebo	164	KG00108827	ileus colon	0.024032337591052055
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.023922866210341454
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023389160633087158
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.023357734084129333
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.023280834779143333
+trial_1	placebo	234	KG00098669	dysgeusias	0.023185383528470993
+trial_1	placebo	72	KG00103771	myalgias	0.023068498820066452
+trial_1	placebo	466	KG00101205	fall	0.02234712615609169
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022201603278517723
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021962618455290794
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02192714810371399
+trial_1	placebo	262	KG00101199	agitation	0.021787693724036217
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02174600400030613
+trial_1	placebo	82	KG00097697	abdomen distended	0.02172558568418026
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021561142057180405
+trial_1	placebo	339	KG00100334	proteinurias	0.02154582180082798
+trial_1	placebo	4	KG00098817	epistaxis	0.021164216101169586
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02102464623749256
+trial_1	placebo	451	KG00101551	injection site pain	0.020138787105679512
+trial_1	placebo	25	KG00099134	congestive failures heart	0.019960517063736916
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.019925227388739586
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01971699483692646
+trial_1	placebo	713	KG00107657	distressed respiratory	0.01970048062503338
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.019620243459939957
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01943400874733925
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01907535269856453
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.018905341625213623
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.018615122884511948
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018407711759209633
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.018243808299303055
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018150078132748604
+trial_2	vasopressin	78	KG00099326	Hypertensive diseases	0.17048755288124084
+trial_2	vasopressin	46	KG00099121	Headache NOS	0.10006069391965866
+trial_2	vasopressin	87	KG00098599	diarrhoea	0.09925687313079834
+trial_2	vasopressin	177	KG00099299	hyperglycaemia	0.08729822188615799
+trial_2	vasopressin	123	KG00099351	hypokalaemia	0.08441507071256638
+trial_2	vasopressin	9	KG00098432	Confusion NOS	0.07997389137744904
+trial_2	vasopressin	17	KG00097991	Asthenia NOS	0.07547120749950409
+trial_2	vasopressin	21	KG00098675	dyspnoea	0.07312201708555222
+trial_2	vasopressin	173	KG00098172	Bronchopneumonia NOS	0.07237941026687622
+trial_2	vasopressin	68	KG00099901	nauseas	0.06238709017634392
+trial_2	vasopressin	49	KG00099902	nausea with vomiting	0.06149021163582802
+trial_2	vasopressin	20	KG00098540	dehydration	0.05892544984817505
+trial_2	vasopressin	79	KG00100317	Insomnia, Primary	0.05815413221716881
+trial_2	vasopressin	200	KG00098539	Disorders, Deglutition	0.05403736233711243
+trial_2	vasopressin	37	KG00097696	Cramps, Abdominal	0.05253947526216507
+trial_2	vasopressin	64	KG00097734	Acrodermatitis, NOS	0.04956497997045517
+trial_2	vasopressin	67	KG00098673	Dyspepsia, NOS	0.048400454223155975
+trial_2	vasopressin	77	KG00098450	Constipation NOS	0.047877777367830276
+trial_2	vasopressin	76	KG00100450	Respiratory insufficiency, NOS	0.04671761021018028
+trial_2	vasopressin	2	KG00100772	thrombocytopaenia	0.04660477489233017
+trial_2	vasopressin	61	KG00099501	Chronic Kidney Failure	0.04637034982442856
+trial_2	vasopressin	126	KG00100076	Pain NOS	0.04594206064939499
+trial_2	vasopressin	180	KG00099363	Hypotension NOS	0.045662056654691696
+trial_2	vasopressin	29	KG00099354	hyponatraemia	0.045629143714904785
+trial_2	vasopressin	14	KG00097852	Anemia NOS	0.045574452728033066
+trial_2	vasopressin	350	KG00106765	decreased platelet count	0.04474182799458504
+trial_2	vasopressin	28	KG00099347	hypoglycaemia	0.0430079810321331
+trial_2	vasopressin	114	KG00098933	fevers	0.04254743084311485
+trial_2	vasopressin	147	KG00098000	atelectases	0.04191966727375984
+trial_2	vasopressin	27	KG00099303	hyperkalaemia	0.040360912680625916
+trial_2	vasopressin	151	KG00098274	Infarction, Cerebral	0.03933452069759369
+trial_2	vasopressin	189	KG00101580	Alanine aminotransferase increase	0.039216913282871246
+trial_2	vasopressin	179	KG00099342	hypocalcaemia	0.03870588168501854
+trial_2	vasopressin	228	KG00114657	Weight below normal	0.038327958434820175
+trial_2	vasopressin	188	KG00101579	Aspartate aminotransferase increase	0.038028784096241
+trial_2	vasopressin	104	KG00097963	arthralgias	0.03762473165988922
+trial_2	vasopressin	85	KG00098474	coughs	0.03740030154585838
+trial_2	vasopressin	5	KG00099169	haematuria	0.036266669631004333
+trial_2	vasopressin	30	KG00099500	Acute Kidney Failure	0.036263566464185715
+trial_2	vasopressin	276	KG00099127	Arrest, Cardiac	0.03612508252263069
+trial_2	vasopressin	239	KG00100128	pareses	0.035484690219163895
+trial_2	vasopressin	96	KG00101679	Unattended death NOS	0.03497397527098656
+trial_2	vasopressin	243	KG00100947	Micturition frequency increased	0.034297943115234375
+trial_2	vasopressin	86	KG00098565	Depression, Mental	0.03410714864730835
+trial_2	vasopressin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03403306379914284
+trial_2	vasopressin	122	KG00099321	Hypersensitivity NOS	0.0330936461687088
+trial_2	vasopressin	269	KG00100399	pyaemia	0.03307788446545601
+trial_2	vasopressin	282	KG00099309	hypernatraemia	0.031200792640447617
+trial_2	vasopressin	131	KG00100948	Urinary tract infection (& [NOS])	0.029594870284199715
+trial_2	vasopressin	69	KG00100082	Palpitations NOS	0.02936454303562641
+trial_2	vasopressin	121	KG00099190	haemorrhage	0.029360461980104446
+trial_2	vasopressin	101	KG00097901	Anorexia NOS	0.029323412105441093
+trial_2	vasopressin	31	KG00099872	Infarction, Myocardial	0.028709737583994865
+trial_2	vasopressin	396	KG00100373	Embolism, Pulmonary	0.02849593013525009
+trial_2	vasopressin	139	KG00098855	Sinusitis, Ethmoid	0.027748268097639084
+trial_2	vasopressin	102	KG00097916	anxieties	0.0272976066917181
+trial_2	vasopressin	194	KG00110727	Neutrophil Count Decreased	0.02706478163599968
+trial_2	vasopressin	116	KG00098964	Pain in foot	0.02689095214009285
+trial_2	vasopressin	38	KG00098066	Binocular vision disorders	0.026744160801172256
+trial_2	vasopressin	441	KG00098262	cellulitis nos	0.02670172229409218
+trial_2	vasopressin	18	KG00098307	Pain, Chest	0.026350438594818115
+trial_2	vasopressin	142	KG00100923	Unspecified infectious and parasitic diseases	0.025810977444052696
+trial_2	vasopressin	253	KG00100232	Pleural effusion NOS (disorder)	0.024649128317832947
+trial_2	vasopressin	212	KG00100576	shivers	0.024564683437347412
+trial_2	vasopressin	249	KG00104430	hypoalbuminaemia	0.024526767432689667
+trial_2	vasopressin	35	KG00101507	hypomagnesaemia	0.02441413328051567
+trial_2	vasopressin	355	KG00110857	lymphocyte count decreased	0.024379121139645576
+trial_2	vasopressin	211	KG00100341	Pruritus NOS	0.024274460971355438
+trial_2	vasopressin	144	KG00099610	Leukopenia NOS	0.02425200492143631
+trial_2	vasopressin	164	KG00108827	ileus colon	0.024032337591052055
+trial_2	vasopressin	75	KG00100195	Dolens, Phlegmasia Alba	0.023922866210341454
+trial_2	vasopressin	92	KG00100926	Infections, Upper Respiratory	0.023389160633087158
+trial_2	vasopressin	288	KG00101223	hypophosphataemia	0.023357734084129333
+trial_2	vasopressin	268	KG00099557	Heart Failure, Left-Sided	0.023280834779143333
+trial_2	vasopressin	234	KG00098669	dysgeusias	0.023185383528470993
+trial_2	vasopressin	72	KG00103771	myalgias	0.023068498820066452
+trial_2	vasopressin	466	KG00101205	fall	0.02234712615609169
+trial_2	vasopressin	166	KG00099773	menopausal syndrome	0.022201603278517723
+trial_2	vasopressin	361	KG00098004	Fibrillation, Atrial	0.021962618455290794
+trial_2	vasopressin	191	KG00104055	Biliverdin increased	0.02192714810371399
+trial_2	vasopressin	262	KG00101199	agitation	0.021787693724036217
+trial_2	vasopressin	454	KG00098286	Pain, Neck	0.02174600400030613
+trial_2	vasopressin	82	KG00097697	abdomen distended	0.02172558568418026
+trial_2	vasopressin	36	KG00106434	Vision, Blurring Of	0.021561142057180405
+trial_2	vasopressin	339	KG00100334	proteinurias	0.02154582180082798
+trial_2	vasopressin	4	KG00098817	epistaxis	0.021164216101169586
+trial_2	vasopressin	130	KG00100683	Stomatitis NOS	0.02102464623749256
+trial_2	vasopressin	451	KG00101551	injection site pain	0.020138787105679512
+trial_2	vasopressin	25	KG00099134	congestive failures heart	0.019960517063736916
+trial_2	vasopressin	394	KG00100243	Pneumonia, Aspiration	0.019925227388739586
+trial_2	vasopressin	261	KG00101559	raised alkaline phosphatase	0.01971699483692646
+trial_2	vasopressin	713	KG00107657	distressed respiratory	0.01970048062503338
+trial_2	vasopressin	256	KG00100738	Tachycardia, Sinus	0.019620243459939957
+trial_2	vasopressin	163	KG00104050	bowel obstructions small	0.01943400874733925
+trial_2	vasopressin	286	KG00101110	Retention, Urinary	0.01907535269856453
+trial_2	vasopressin	494	KG00099838	Organ Failure, Multiple	0.018905341625213623
+trial_2	vasopressin	183	KG00100449	Adult Respiratory Distress Syndrome	0.018615122884511948
+trial_2	vasopressin	11	KG00097993	Asthma NOS	0.018407711759209633
+trial_2	vasopressin	1	KG00099959	Neutropenia NOS	0.018243808299303055
+trial_2	vasopressin	15	KG00097882	Angina pectoris NOS	0.018150078132748604

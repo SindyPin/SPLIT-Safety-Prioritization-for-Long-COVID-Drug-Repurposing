@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17052814364433289
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1243244931101799
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11670410633087158
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11164341121912003
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08979043364524841
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0895502120256424
+trial_1	placebo	228	KG00114657	Weight below normal	0.08811986446380615
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08513069897890091
+trial_1	placebo	20	KG00098540	dehydration	0.08023375272750854
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07922430336475372
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07918716222047806
+trial_1	placebo	21	KG00098675	dyspnoea	0.07559376955032349
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07393063604831696
+trial_1	placebo	46	KG00099121	Headache NOS	0.07218589633703232
+trial_1	placebo	68	KG00099901	nauseas	0.07178141921758652
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07085899263620377
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07009292393922806
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0668528601527214
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06377877295017242
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06368878483772278
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05559060350060463
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05509288236498833
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.054167669266462326
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05410885810852051
+trial_1	placebo	114	KG00098933	fevers	0.05262473225593567
+trial_1	placebo	29	KG00099354	hyponatraemia	0.051486991345882416
+trial_1	placebo	239	KG00100128	pareses	0.05032355338335037
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04997101426124573
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04860047250986099
+trial_1	placebo	104	KG00097963	arthralgias	0.04757915064692497
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04755214974284172
+trial_1	placebo	126	KG00100076	Pain NOS	0.0470021553337574
+trial_1	placebo	85	KG00098474	coughs	0.046688154339790344
+trial_1	placebo	102	KG00097916	anxieties	0.0454719215631485
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04347221925854683
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04340602457523346
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04313184320926666
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04092758148908615
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04062443599104881
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03699798509478569
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.036170583218336105
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.035808902233839035
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03559437766671181
+trial_1	placebo	72	KG00103771	myalgias	0.03522656857967377
+trial_1	placebo	5	KG00099169	haematuria	0.035014260560274124
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03362758830189705
+trial_1	placebo	147	KG00098000	atelectases	0.03304840251803398
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0328303761780262
+trial_1	placebo	262	KG00101199	agitation	0.032816268503665924
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03238533064723015
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.032170362770557404
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.032102856785058975
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.031541820615530014
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03131573647260666
+trial_1	placebo	132	KG00101045	Gain, Weight	0.031180158257484436
+trial_1	placebo	466	KG00101205	fall	0.02977304719388485
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029282545670866966
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02823927439749241
+trial_1	placebo	164	KG00108827	ileus colon	0.028073806315660477
+trial_1	placebo	282	KG00099309	hypernatraemia	0.027446966618299484
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027004709467291832
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02693764679133892
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0269304346293211
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.026594126597046852
+trial_1	placebo	300	KG00101064	xerostomia	0.02648751065135002
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026450011879205704
+trial_1	placebo	116	KG00098964	Pain in foot	0.026403384283185005
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02624976634979248
+trial_1	placebo	234	KG00098669	dysgeusias	0.02610023505985737
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.025738924741744995
+trial_1	placebo	269	KG00100399	pyaemia	0.025283746421337128
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.025262659415602684
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025205524638295174
+trial_1	placebo	242	KG00100855	tremors	0.02505533955991268
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02433435060083866
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02419291064143181
+trial_1	placebo	66	KG00098642	drowsiness	0.02410385198891163
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023510487750172615
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02346891351044178
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.023363187909126282
+trial_1	placebo	82	KG00097697	abdomen distended	0.023342713713645935
+trial_1	placebo	121	KG00099190	haemorrhage	0.023291494697332382
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023093270137906075
+trial_1	placebo	154	KG00099686	Lymphopenias	0.023040467873215675
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022809863090515137
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022628482431173325
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022145705297589302
+trial_1	placebo	186	KG00101431	creatinine increased	0.02195919305086136
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021775249391794205
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.021742623299360275
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021651912480592728
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02140306681394577
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.021333910524845123
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021332262083888054
+trial_1	placebo	456	KG00099420	Influenzae	0.021294809877872467
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02129439078271389
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021293746307492256
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020450914278626442
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02041003108024597
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02010255493223667
+trial_2	viloxazine	87	KG00098599	diarrhoea	0.17052814364433289
+trial_2	viloxazine	78	KG00099326	Hypertensive diseases	0.1243244931101799
+trial_2	viloxazine	9	KG00098432	Confusion NOS	0.11670410633087158
+trial_2	viloxazine	17	KG00097991	Asthenia NOS	0.11164341121912003
+trial_2	viloxazine	123	KG00099351	hypokalaemia	0.08979043364524841
+trial_2	viloxazine	177	KG00099299	hyperglycaemia	0.0895502120256424
+trial_2	viloxazine	228	KG00114657	Weight below normal	0.08811986446380615
+trial_2	viloxazine	173	KG00098172	Bronchopneumonia NOS	0.08513069897890091
+trial_2	viloxazine	20	KG00098540	dehydration	0.08023375272750854
+trial_2	viloxazine	79	KG00100317	Insomnia, Primary	0.07922430336475372
+trial_2	viloxazine	77	KG00098450	Constipation NOS	0.07918716222047806
+trial_2	viloxazine	21	KG00098675	dyspnoea	0.07559376955032349
+trial_2	viloxazine	37	KG00097696	Cramps, Abdominal	0.07393063604831696
+trial_2	viloxazine	46	KG00099121	Headache NOS	0.07218589633703232
+trial_2	viloxazine	68	KG00099901	nauseas	0.07178141921758652
+trial_2	viloxazine	189	KG00101580	Alanine aminotransferase increase	0.07085899263620377
+trial_2	viloxazine	64	KG00097734	Acrodermatitis, NOS	0.07009292393922806
+trial_2	viloxazine	49	KG00099902	nausea with vomiting	0.0668528601527214
+trial_2	viloxazine	101	KG00097901	Anorexia NOS	0.06377877295017242
+trial_2	viloxazine	188	KG00101579	Aspartate aminotransferase increase	0.06368878483772278
+trial_2	viloxazine	200	KG00098539	Disorders, Deglutition	0.05559060350060463
+trial_2	viloxazine	67	KG00098673	Dyspepsia, NOS	0.05509288236498833
+trial_2	viloxazine	243	KG00100947	Micturition frequency increased	0.054167669266462326
+trial_2	viloxazine	86	KG00098565	Depression, Mental	0.05410885810852051
+trial_2	viloxazine	114	KG00098933	fevers	0.05262473225593567
+trial_2	viloxazine	29	KG00099354	hyponatraemia	0.051486991345882416
+trial_2	viloxazine	239	KG00100128	pareses	0.05032355338335037
+trial_2	viloxazine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04997101426124573
+trial_2	viloxazine	350	KG00106765	decreased platelet count	0.04860047250986099
+trial_2	viloxazine	104	KG00097963	arthralgias	0.04757915064692497
+trial_2	viloxazine	14	KG00097852	Anemia NOS	0.04755214974284172
+trial_2	viloxazine	126	KG00100076	Pain NOS	0.0470021553337574
+trial_2	viloxazine	85	KG00098474	coughs	0.046688154339790344
+trial_2	viloxazine	102	KG00097916	anxieties	0.0454719215631485
+trial_2	viloxazine	151	KG00098274	Infarction, Cerebral	0.04347221925854683
+trial_2	viloxazine	2	KG00100772	thrombocytopaenia	0.04340602457523346
+trial_2	viloxazine	76	KG00100450	Respiratory insufficiency, NOS	0.04313184320926666
+trial_2	viloxazine	179	KG00099342	hypocalcaemia	0.04092758148908615
+trial_2	viloxazine	180	KG00099363	Hypotension NOS	0.04062443599104881
+trial_2	viloxazine	122	KG00099321	Hypersensitivity NOS	0.03699798509478569
+trial_2	viloxazine	96	KG00101679	Unattended death NOS	0.036170583218336105
+trial_2	viloxazine	61	KG00099501	Chronic Kidney Failure	0.035808902233839035
+trial_2	viloxazine	69	KG00100082	Palpitations NOS	0.03559437766671181
+trial_2	viloxazine	72	KG00103771	myalgias	0.03522656857967377
+trial_2	viloxazine	5	KG00099169	haematuria	0.035014260560274124
+trial_2	viloxazine	38	KG00098066	Binocular vision disorders	0.03362758830189705
+trial_2	viloxazine	147	KG00098000	atelectases	0.03304840251803398
+trial_2	viloxazine	30	KG00099500	Acute Kidney Failure	0.0328303761780262
+trial_2	viloxazine	262	KG00101199	agitation	0.032816268503665924
+trial_2	viloxazine	194	KG00110727	Neutrophil Count Decreased	0.03238533064723015
+trial_2	viloxazine	27	KG00099303	hyperkalaemia	0.032170362770557404
+trial_2	viloxazine	28	KG00099347	hypoglycaemia	0.032102856785058975
+trial_2	viloxazine	261	KG00101559	raised alkaline phosphatase	0.031541820615530014
+trial_2	viloxazine	355	KG00110857	lymphocyte count decreased	0.03131573647260666
+trial_2	viloxazine	132	KG00101045	Gain, Weight	0.031180158257484436
+trial_2	viloxazine	466	KG00101205	fall	0.02977304719388485
+trial_2	viloxazine	139	KG00098855	Sinusitis, Ethmoid	0.029282545670866966
+trial_2	viloxazine	191	KG00104055	Biliverdin increased	0.02823927439749241
+trial_2	viloxazine	164	KG00108827	ileus colon	0.028073806315660477
+trial_2	viloxazine	282	KG00099309	hypernatraemia	0.027446966618299484
+trial_2	viloxazine	249	KG00104430	hypoalbuminaemia	0.027004709467291832
+trial_2	viloxazine	396	KG00100373	Embolism, Pulmonary	0.02693764679133892
+trial_2	viloxazine	131	KG00100948	Urinary tract infection (& [NOS])	0.0269304346293211
+trial_2	viloxazine	35	KG00101507	hypomagnesaemia	0.026594126597046852
+trial_2	viloxazine	300	KG00101064	xerostomia	0.02648751065135002
+trial_2	viloxazine	18	KG00098307	Pain, Chest	0.026450011879205704
+trial_2	viloxazine	116	KG00098964	Pain in foot	0.026403384283185005
+trial_2	viloxazine	36	KG00106434	Vision, Blurring Of	0.02624976634979248
+trial_2	viloxazine	234	KG00098669	dysgeusias	0.02610023505985737
+trial_2	viloxazine	256	KG00100738	Tachycardia, Sinus	0.025738924741744995
+trial_2	viloxazine	269	KG00100399	pyaemia	0.025283746421337128
+trial_2	viloxazine	199	KG00098371	Rhinitis (chronic) NOS	0.025262659415602684
+trial_2	viloxazine	92	KG00100926	Infections, Upper Respiratory	0.025205524638295174
+trial_2	viloxazine	242	KG00100855	tremors	0.02505533955991268
+trial_2	viloxazine	276	KG00099127	Arrest, Cardiac	0.02433435060083866
+trial_2	viloxazine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02419291064143181
+trial_2	viloxazine	66	KG00098642	drowsiness	0.02410385198891163
+trial_2	viloxazine	286	KG00101110	Retention, Urinary	0.023510487750172615
+trial_2	viloxazine	341	KG00101472	Gamma-glutamyltransferase increased	0.02346891351044178
+trial_2	viloxazine	356	KG00112623	Infectious Lung Disorders	0.023363187909126282
+trial_2	viloxazine	82	KG00097697	abdomen distended	0.023342713713645935
+trial_2	viloxazine	121	KG00099190	haemorrhage	0.023291494697332382
+trial_2	viloxazine	361	KG00098004	Fibrillation, Atrial	0.023093270137906075
+trial_2	viloxazine	154	KG00099686	Lymphopenias	0.023040467873215675
+trial_2	viloxazine	441	KG00098262	cellulitis nos	0.022809863090515137
+trial_2	viloxazine	253	KG00100232	Pleural effusion NOS (disorder)	0.022628482431173325
+trial_2	viloxazine	144	KG00099610	Leukopenia NOS	0.022145705297589302
+trial_2	viloxazine	186	KG00101431	creatinine increased	0.02195919305086136
+trial_2	viloxazine	1	KG00099959	Neutropenia NOS	0.021775249391794205
+trial_2	viloxazine	422	KG00101429	Creatine phosphokinase increased	0.021742623299360275
+trial_2	viloxazine	130	KG00100683	Stomatitis NOS	0.021651912480592728
+trial_2	viloxazine	288	KG00101223	hypophosphataemia	0.02140306681394577
+trial_2	viloxazine	218	KG00100801	Tinnitus NOS	0.021333910524845123
+trial_2	viloxazine	98	KG00097718	Incised wound, NOS	0.021332262083888054
+trial_2	viloxazine	456	KG00099420	Influenzae	0.021294809877872467
+trial_2	viloxazine	75	KG00100195	Dolens, Phlegmasia Alba	0.02129439078271389
+trial_2	viloxazine	371	KG00098517	Cystitis (NOS)	0.021293746307492256
+trial_2	viloxazine	211	KG00100341	Pruritus NOS	0.020450914278626442
+trial_2	viloxazine	118	KG00099011	Gastritis NOS	0.02041003108024597
+trial_2	viloxazine	508	KG00108565	blood glucose increased	0.02010255493223667

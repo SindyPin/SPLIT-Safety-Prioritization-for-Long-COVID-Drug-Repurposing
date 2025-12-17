@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18600457906723022
+trial_1	placebo	46	KG00099121	Headache NOS	0.138708233833313
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13730093836784363
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.13071486353874207
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10939858108758926
+trial_1	placebo	21	KG00098675	dyspnoea	0.1069236621260643
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09382664412260056
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08875902742147446
+trial_1	placebo	20	KG00098540	dehydration	0.08717585355043411
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0828704684972763
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0811041072010994
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.079994335770607
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0689140036702156
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06864309310913086
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0685652568936348
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06800227612257004
+trial_1	placebo	85	KG00098474	coughs	0.06650923937559128
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.06228938326239586
+trial_1	placebo	228	KG00114657	Weight below normal	0.05883781611919403
+trial_1	placebo	116	KG00098964	Pain in foot	0.058430884033441544
+trial_1	placebo	126	KG00100076	Pain NOS	0.05815979838371277
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05770925432443619
+trial_1	placebo	104	KG00097963	arthralgias	0.05328017845749855
+trial_1	placebo	68	KG00099901	nauseas	0.05312221869826317
+trial_1	placebo	72	KG00103771	myalgias	0.05133792385458946
+trial_1	placebo	114	KG00098933	fevers	0.04905031993985176
+trial_1	placebo	4	KG00098817	epistaxis	0.048566702753305435
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.048350799828767776
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.048250336199998856
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04771510139107704
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04613809660077095
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04316014051437378
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04213666170835495
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.041849952191114426
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04163108766078949
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04153000935912132
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04109107702970505
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04108064994215965
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04051363095641136
+trial_1	placebo	11	KG00097993	Asthma NOS	0.04050244390964508
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04021377116441727
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03940798342227936
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037950191646814346
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03768833354115486
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03758258372545242
+trial_1	placebo	5	KG00099169	haematuria	0.03714308515191078
+trial_1	placebo	205	KG00098955	Flushed	0.03694571927189827
+trial_1	placebo	136	KG00101582	Dry;skin	0.035080380737781525
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03358979895710945
+trial_1	placebo	456	KG00099420	Influenzae	0.03295876830816269
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.032932981848716736
+trial_1	placebo	382	KG00099200	haemorrhoids	0.03285825625061989
+trial_1	placebo	77	KG00098450	Constipation NOS	0.032437581568956375
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03213820978999138
+trial_1	placebo	234	KG00098669	dysgeusias	0.03178905323147774
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03139284625649452
+trial_1	placebo	82	KG00097697	abdomen distended	0.030896512791514397
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.030716009438037872
+trial_1	placebo	239	KG00100128	pareses	0.030604805797338486
+trial_1	placebo	350	KG00106765	decreased platelet count	0.030603641644120216
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0304971095174551
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03021748550236225
+trial_1	placebo	339	KG00100334	proteinurias	0.030137240886688232
+trial_1	placebo	454	KG00098286	Pain, Neck	0.029665788635611534
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.029085854068398476
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02900061011314392
+trial_1	placebo	147	KG00098000	atelectases	0.028115153312683105
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02789776772260666
+trial_1	placebo	269	KG00100399	pyaemia	0.027248423546552658
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02702539786696434
+trial_1	placebo	208	KG00099896	Nasal congestion (finding)	0.02669931761920452
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.026453662663698196
+trial_1	placebo	121	KG00099190	haemorrhage	0.026373596861958504
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026159165427088737
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02606021985411644
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02571556344628334
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.025711705908179283
+trial_1	placebo	102	KG00097916	anxieties	0.025455743074417114
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02536351978778839
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02521510235965252
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025213180109858513
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02512546256184578
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02500211074948311
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.024987531825900078
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.024205707013607025
+trial_1	placebo	466	KG00101205	fall	0.024101946502923965
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024061445146799088
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.024012891575694084
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02397765778005123
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.023844588547945023
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.023318972438573837
+trial_1	placebo	262	KG00101199	agitation	0.023210834711790085
+trial_1	placebo	25	KG00099134	congestive failures heart	0.022703444585204124
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.02199319377541542
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021929200738668442
+trial_1	placebo	186	KG00101431	creatinine increased	0.021642157807946205
+trial_1	placebo	53	KG00101550	Pain in eyes	0.021433880552649498
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.02133055590093136
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021170932799577713
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.021009299904108047
+trial_2	vardenafil	87	KG00098599	diarrhoea	0.18600457906723022
+trial_2	vardenafil	46	KG00099121	Headache NOS	0.138708233833313
+trial_2	vardenafil	78	KG00099326	Hypertensive diseases	0.13730093836784363
+trial_2	vardenafil	67	KG00098673	Dyspepsia, NOS	0.13071486353874207
+trial_2	vardenafil	173	KG00098172	Bronchopneumonia NOS	0.10939858108758926
+trial_2	vardenafil	21	KG00098675	dyspnoea	0.1069236621260643
+trial_2	vardenafil	123	KG00099351	hypokalaemia	0.09382664412260056
+trial_2	vardenafil	9	KG00098432	Confusion NOS	0.08875902742147446
+trial_2	vardenafil	20	KG00098540	dehydration	0.08717585355043411
+trial_2	vardenafil	17	KG00097991	Asthenia NOS	0.0828704684972763
+trial_2	vardenafil	37	KG00097696	Cramps, Abdominal	0.0811041072010994
+trial_2	vardenafil	79	KG00100317	Insomnia, Primary	0.079994335770607
+trial_2	vardenafil	14	KG00097852	Anemia NOS	0.0689140036702156
+trial_2	vardenafil	177	KG00099299	hyperglycaemia	0.06864309310913086
+trial_2	vardenafil	18	KG00098307	Pain, Chest	0.0685652568936348
+trial_2	vardenafil	64	KG00097734	Acrodermatitis, NOS	0.06800227612257004
+trial_2	vardenafil	85	KG00098474	coughs	0.06650923937559128
+trial_2	vardenafil	139	KG00098855	Sinusitis, Ethmoid	0.06228938326239586
+trial_2	vardenafil	228	KG00114657	Weight below normal	0.05883781611919403
+trial_2	vardenafil	116	KG00098964	Pain in foot	0.058430884033441544
+trial_2	vardenafil	126	KG00100076	Pain NOS	0.05815979838371277
+trial_2	vardenafil	200	KG00098539	Disorders, Deglutition	0.05770925432443619
+trial_2	vardenafil	104	KG00097963	arthralgias	0.05328017845749855
+trial_2	vardenafil	68	KG00099901	nauseas	0.05312221869826317
+trial_2	vardenafil	72	KG00103771	myalgias	0.05133792385458946
+trial_2	vardenafil	114	KG00098933	fevers	0.04905031993985176
+trial_2	vardenafil	4	KG00098817	epistaxis	0.048566702753305435
+trial_2	vardenafil	204	KG00098849	Esophagitis, Peptic	0.048350799828767776
+trial_2	vardenafil	151	KG00098274	Infarction, Cerebral	0.048250336199998856
+trial_2	vardenafil	36	KG00106434	Vision, Blurring Of	0.04771510139107704
+trial_2	vardenafil	49	KG00099902	nausea with vomiting	0.04613809660077095
+trial_2	vardenafil	101	KG00097901	Anorexia NOS	0.04316014051437378
+trial_2	vardenafil	131	KG00100948	Urinary tract infection (& [NOS])	0.04213666170835495
+trial_2	vardenafil	138	KG00098796	epidemic vomiting syndrome	0.041849952191114426
+trial_2	vardenafil	86	KG00098565	Depression, Mental	0.04163108766078949
+trial_2	vardenafil	76	KG00100450	Respiratory insufficiency, NOS	0.04153000935912132
+trial_2	vardenafil	243	KG00100947	Micturition frequency increased	0.04109107702970505
+trial_2	vardenafil	180	KG00099363	Hypotension NOS	0.04108064994215965
+trial_2	vardenafil	69	KG00100082	Palpitations NOS	0.04051363095641136
+trial_2	vardenafil	11	KG00097993	Asthma NOS	0.04050244390964508
+trial_2	vardenafil	28	KG00099347	hypoglycaemia	0.04021377116441727
+trial_2	vardenafil	396	KG00100373	Embolism, Pulmonary	0.03940798342227936
+trial_2	vardenafil	61	KG00099501	Chronic Kidney Failure	0.037950191646814346
+trial_2	vardenafil	122	KG00099321	Hypersensitivity NOS	0.03768833354115486
+trial_2	vardenafil	96	KG00101679	Unattended death NOS	0.03758258372545242
+trial_2	vardenafil	5	KG00099169	haematuria	0.03714308515191078
+trial_2	vardenafil	205	KG00098955	Flushed	0.03694571927189827
+trial_2	vardenafil	136	KG00101582	Dry;skin	0.035080380737781525
+trial_2	vardenafil	441	KG00098262	cellulitis nos	0.03358979895710945
+trial_2	vardenafil	456	KG00099420	Influenzae	0.03295876830816269
+trial_2	vardenafil	276	KG00099127	Arrest, Cardiac	0.032932981848716736
+trial_2	vardenafil	382	KG00099200	haemorrhoids	0.03285825625061989
+trial_2	vardenafil	77	KG00098450	Constipation NOS	0.032437581568956375
+trial_2	vardenafil	142	KG00100923	Unspecified infectious and parasitic diseases	0.03213820978999138
+trial_2	vardenafil	234	KG00098669	dysgeusias	0.03178905323147774
+trial_2	vardenafil	38	KG00098066	Binocular vision disorders	0.03139284625649452
+trial_2	vardenafil	82	KG00097697	abdomen distended	0.030896512791514397
+trial_2	vardenafil	189	KG00101580	Alanine aminotransferase increase	0.030716009438037872
+trial_2	vardenafil	239	KG00100128	pareses	0.030604805797338486
+trial_2	vardenafil	350	KG00106765	decreased platelet count	0.030603641644120216
+trial_2	vardenafil	29	KG00099354	hyponatraemia	0.0304971095174551
+trial_2	vardenafil	188	KG00101579	Aspartate aminotransferase increase	0.03021748550236225
+trial_2	vardenafil	339	KG00100334	proteinurias	0.030137240886688232
+trial_2	vardenafil	454	KG00098286	Pain, Neck	0.029665788635611534
+trial_2	vardenafil	2	KG00100772	thrombocytopaenia	0.029085854068398476
+trial_2	vardenafil	221	KG00101207	peripheral oedema	0.02900061011314392
+trial_2	vardenafil	147	KG00098000	atelectases	0.028115153312683105
+trial_2	vardenafil	92	KG00100926	Infections, Upper Respiratory	0.02789776772260666
+trial_2	vardenafil	269	KG00100399	pyaemia	0.027248423546552658
+trial_2	vardenafil	508	KG00108565	blood glucose increased	0.02702539786696434
+trial_2	vardenafil	208	KG00099896	Nasal congestion (finding)	0.02669931761920452
+trial_2	vardenafil	31	KG00099872	Infarction, Myocardial	0.026453662663698196
+trial_2	vardenafil	121	KG00099190	haemorrhage	0.026373596861958504
+trial_2	vardenafil	30	KG00099500	Acute Kidney Failure	0.026159165427088737
+trial_2	vardenafil	356	KG00112623	Infectious Lung Disorders	0.02606021985411644
+trial_2	vardenafil	22	KG00098705	Edema (NOS)	0.02571556344628334
+trial_2	vardenafil	108	KG00098479	Cramp, Limb	0.025711705908179283
+trial_2	vardenafil	102	KG00097916	anxieties	0.025455743074417114
+trial_2	vardenafil	195	KG00097814	Atopic Rhinitis	0.02536351978778839
+trial_2	vardenafil	130	KG00100683	Stomatitis NOS	0.02521510235965252
+trial_2	vardenafil	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025213180109858513
+trial_2	vardenafil	132	KG00101045	Gain, Weight	0.02512546256184578
+trial_2	vardenafil	191	KG00104055	Biliverdin increased	0.02500211074948311
+trial_2	vardenafil	118	KG00099011	Gastritis NOS	0.024987531825900078
+trial_2	vardenafil	361	KG00098004	Fibrillation, Atrial	0.024205707013607025
+trial_2	vardenafil	466	KG00101205	fall	0.024101946502923965
+trial_2	vardenafil	75	KG00100195	Dolens, Phlegmasia Alba	0.024061445146799088
+trial_2	vardenafil	286	KG00101110	Retention, Urinary	0.024012891575694084
+trial_2	vardenafil	257	KG00100922	Erythema NOS	0.02397765778005123
+trial_2	vardenafil	199	KG00098371	Rhinitis (chronic) NOS	0.023844588547945023
+trial_2	vardenafil	27	KG00099303	hyperkalaemia	0.023318972438573837
+trial_2	vardenafil	262	KG00101199	agitation	0.023210834711790085
+trial_2	vardenafil	25	KG00099134	congestive failures heart	0.022703444585204124
+trial_2	vardenafil	271	KG00103813	reflex bradycardia	0.02199319377541542
+trial_2	vardenafil	211	KG00100341	Pruritus NOS	0.021929200738668442
+trial_2	vardenafil	186	KG00101431	creatinine increased	0.021642157807946205
+trial_2	vardenafil	53	KG00101550	Pain in eyes	0.021433880552649498
+trial_2	vardenafil	40	KG00098092	Blepharoconjunctivitis NOS	0.02133055590093136
+trial_2	vardenafil	15	KG00097882	Angina pectoris NOS	0.021170932799577713
+trial_2	vardenafil	422	KG00101429	Creatine phosphokinase increased	0.021009299904108047

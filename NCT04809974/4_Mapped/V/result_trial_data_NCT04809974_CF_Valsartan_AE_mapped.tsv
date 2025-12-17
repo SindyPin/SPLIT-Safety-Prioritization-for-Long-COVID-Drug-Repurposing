@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.21437668800354004
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2042650282382965
+trial_1	placebo	123	KG00099351	hypokalaemia	0.18309450149536133
+trial_1	placebo	20	KG00098540	dehydration	0.18122662603855133
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.16400904953479767
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12819215655326843
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11280262470245361
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11251039057970047
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09970234334468842
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.09804175049066544
+trial_1	placebo	21	KG00098675	dyspnoea	0.09712087363004684
+trial_1	placebo	85	KG00098474	coughs	0.09511515498161316
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08958198130130768
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.08695685118436813
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08264946192502975
+trial_1	placebo	228	KG00114657	Weight below normal	0.08003108203411102
+trial_1	placebo	46	KG00099121	Headache NOS	0.07907472550868988
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07582075148820877
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07441004365682602
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07422638684511185
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.07098852843046188
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0692669227719307
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06854000687599182
+trial_1	placebo	114	KG00098933	fevers	0.06805264949798584
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06698848307132721
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0645730122923851
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06405919045209885
+trial_1	placebo	121	KG00099190	haemorrhage	0.061000414192676544
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0606289766728878
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.06006350740790367
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.059231434017419815
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05898379161953926
+trial_1	placebo	104	KG00097963	arthralgias	0.058759961277246475
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.057853925973176956
+trial_1	placebo	126	KG00100076	Pain NOS	0.057341109961271286
+trial_1	placebo	164	KG00108827	ileus colon	0.05661766231060028
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05629188194870949
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05488855391740799
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05430424213409424
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.054226428270339966
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05357404053211212
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.0529123991727829
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.052855636924505234
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04960836470127106
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04853004217147827
+trial_1	placebo	269	KG00100399	pyaemia	0.04800060763955116
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04774920642375946
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04621100425720215
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04491308704018593
+trial_1	placebo	5	KG00099169	haematuria	0.044749993830919266
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0445575974881649
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.04360107704997063
+trial_1	placebo	239	KG00100128	pareses	0.043045274913311005
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.042909830808639526
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.042584069073200226
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04251633957028389
+trial_1	placebo	186	KG00101431	creatinine increased	0.041647374629974365
+trial_1	placebo	147	KG00098000	atelectases	0.04015384241938591
+trial_1	placebo	72	KG00103771	myalgias	0.03906913474202156
+trial_1	placebo	132	KG00101045	Gain, Weight	0.038940783590078354
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.03859894350171089
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03826867416501045
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.038160499185323715
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03808073326945305
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03789548575878143
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03787870332598686
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03746899962425232
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03720983862876892
+trial_1	placebo	68	KG00099901	nauseas	0.03699009492993355
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03586913272738457
+trial_1	placebo	456	KG00099420	Influenzae	0.03576221689581871
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03554176539182663
+trial_1	placebo	4	KG00098817	epistaxis	0.03540433198213577
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.035362642258405685
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03533487021923065
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03510027751326561
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.03495298698544502
+trial_1	placebo	466	KG00101205	fall	0.034585777670145035
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03441079333424568
+trial_1	placebo	339	KG00100334	proteinurias	0.03425656259059906
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03374204784631729
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03361504524946213
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.033397428691387177
+trial_1	placebo	102	KG00097916	anxieties	0.03319019451737404
+trial_1	placebo	382	KG00099200	haemorrhoids	0.03306165710091591
+trial_1	placebo	116	KG00098964	Pain in foot	0.03213539347052574
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03185976669192314
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03165652975440025
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.03145540505647659
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03131524845957756
+trial_1	placebo	393	KG00100182	Peritonitis NOS	0.03095039166510105
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03090568445622921
+trial_1	placebo	310	KG00097940	Appendicitis NOS	0.030780227854847908
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.030677950009703636
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03067406639456749
+trial_1	placebo	262	KG00101199	agitation	0.030399823561310768
+trial_1	placebo	23	KG00098974	Multiple Fractures	0.02995298057794571
+trial_1	placebo	282	KG00099309	hypernatraemia	0.029901476576924324
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.029862647876143456
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02984217181801796
+trial_2	valsartan	87	KG00098599	diarrhoea	0.21437668800354004
+trial_2	valsartan	78	KG00099326	Hypertensive diseases	0.2042650282382965
+trial_2	valsartan	123	KG00099351	hypokalaemia	0.18309450149536133
+trial_2	valsartan	20	KG00098540	dehydration	0.18122662603855133
+trial_2	valsartan	173	KG00098172	Bronchopneumonia NOS	0.16400904953479767
+trial_2	valsartan	177	KG00099299	hyperglycaemia	0.12819215655326843
+trial_2	valsartan	9	KG00098432	Confusion NOS	0.11280262470245361
+trial_2	valsartan	17	KG00097991	Asthenia NOS	0.11251039057970047
+trial_2	valsartan	37	KG00097696	Cramps, Abdominal	0.09970234334468842
+trial_2	valsartan	180	KG00099363	Hypotension NOS	0.09804175049066544
+trial_2	valsartan	21	KG00098675	dyspnoea	0.09712087363004684
+trial_2	valsartan	85	KG00098474	coughs	0.09511515498161316
+trial_2	valsartan	14	KG00097852	Anemia NOS	0.08958198130130768
+trial_2	valsartan	151	KG00098274	Infarction, Cerebral	0.08695685118436813
+trial_2	valsartan	29	KG00099354	hyponatraemia	0.08264946192502975
+trial_2	valsartan	228	KG00114657	Weight below normal	0.08003108203411102
+trial_2	valsartan	46	KG00099121	Headache NOS	0.07907472550868988
+trial_2	valsartan	2	KG00100772	thrombocytopaenia	0.07582075148820877
+trial_2	valsartan	189	KG00101580	Alanine aminotransferase increase	0.07441004365682602
+trial_2	valsartan	200	KG00098539	Disorders, Deglutition	0.07422638684511185
+trial_2	valsartan	76	KG00100450	Respiratory insufficiency, NOS	0.07098852843046188
+trial_2	valsartan	350	KG00106765	decreased platelet count	0.0692669227719307
+trial_2	valsartan	61	KG00099501	Chronic Kidney Failure	0.06854000687599182
+trial_2	valsartan	114	KG00098933	fevers	0.06805264949798584
+trial_2	valsartan	28	KG00099347	hypoglycaemia	0.06698848307132721
+trial_2	valsartan	67	KG00098673	Dyspepsia, NOS	0.0645730122923851
+trial_2	valsartan	188	KG00101579	Aspartate aminotransferase increase	0.06405919045209885
+trial_2	valsartan	121	KG00099190	haemorrhage	0.061000414192676544
+trial_2	valsartan	96	KG00101679	Unattended death NOS	0.0606289766728878
+trial_2	valsartan	122	KG00099321	Hypersensitivity NOS	0.06006350740790367
+trial_2	valsartan	27	KG00099303	hyperkalaemia	0.059231434017419815
+trial_2	valsartan	49	KG00099902	nausea with vomiting	0.05898379161953926
+trial_2	valsartan	104	KG00097963	arthralgias	0.058759961277246475
+trial_2	valsartan	142	KG00100923	Unspecified infectious and parasitic diseases	0.057853925973176956
+trial_2	valsartan	126	KG00100076	Pain NOS	0.057341109961271286
+trial_2	valsartan	164	KG00108827	ileus colon	0.05661766231060028
+trial_2	valsartan	64	KG00097734	Acrodermatitis, NOS	0.05629188194870949
+trial_2	valsartan	243	KG00100947	Micturition frequency increased	0.05488855391740799
+trial_2	valsartan	86	KG00098565	Depression, Mental	0.05430424213409424
+trial_2	valsartan	179	KG00099342	hypocalcaemia	0.054226428270339966
+trial_2	valsartan	77	KG00098450	Constipation NOS	0.05357404053211212
+trial_2	valsartan	356	KG00112623	Infectious Lung Disorders	0.0529123991727829
+trial_2	valsartan	138	KG00098796	epidemic vomiting syndrome	0.052855636924505234
+trial_2	valsartan	276	KG00099127	Arrest, Cardiac	0.04960836470127106
+trial_2	valsartan	131	KG00100948	Urinary tract infection (& [NOS])	0.04853004217147827
+trial_2	valsartan	269	KG00100399	pyaemia	0.04800060763955116
+trial_2	valsartan	130	KG00100683	Stomatitis NOS	0.04774920642375946
+trial_2	valsartan	79	KG00100317	Insomnia, Primary	0.04621100425720215
+trial_2	valsartan	30	KG00099500	Acute Kidney Failure	0.04491308704018593
+trial_2	valsartan	5	KG00099169	haematuria	0.044749993830919266
+trial_2	valsartan	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0445575974881649
+trial_2	valsartan	361	KG00098004	Fibrillation, Atrial	0.04360107704997063
+trial_2	valsartan	239	KG00100128	pareses	0.043045274913311005
+trial_2	valsartan	31	KG00099872	Infarction, Myocardial	0.042909830808639526
+trial_2	valsartan	139	KG00098855	Sinusitis, Ethmoid	0.042584069073200226
+trial_2	valsartan	18	KG00098307	Pain, Chest	0.04251633957028389
+trial_2	valsartan	186	KG00101431	creatinine increased	0.041647374629974365
+trial_2	valsartan	147	KG00098000	atelectases	0.04015384241938591
+trial_2	valsartan	72	KG00103771	myalgias	0.03906913474202156
+trial_2	valsartan	132	KG00101045	Gain, Weight	0.038940783590078354
+trial_2	valsartan	118	KG00099011	Gastritis NOS	0.03859894350171089
+trial_2	valsartan	101	KG00097901	Anorexia NOS	0.03826867416501045
+trial_2	valsartan	194	KG00110727	Neutrophil Count Decreased	0.038160499185323715
+trial_2	valsartan	92	KG00100926	Infections, Upper Respiratory	0.03808073326945305
+trial_2	valsartan	35	KG00101507	hypomagnesaemia	0.03789548575878143
+trial_2	valsartan	371	KG00098517	Cystitis (NOS)	0.03787870332598686
+trial_2	valsartan	249	KG00104430	hypoalbuminaemia	0.03746899962425232
+trial_2	valsartan	221	KG00101207	peripheral oedema	0.03720983862876892
+trial_2	valsartan	68	KG00099901	nauseas	0.03699009492993355
+trial_2	valsartan	144	KG00099610	Leukopenia NOS	0.03586913272738457
+trial_2	valsartan	456	KG00099420	Influenzae	0.03576221689581871
+trial_2	valsartan	396	KG00100373	Embolism, Pulmonary	0.03554176539182663
+trial_2	valsartan	4	KG00098817	epistaxis	0.03540433198213577
+trial_2	valsartan	199	KG00098371	Rhinitis (chronic) NOS	0.035362642258405685
+trial_2	valsartan	253	KG00100232	Pleural effusion NOS (disorder)	0.03533487021923065
+trial_2	valsartan	11	KG00097993	Asthma NOS	0.03510027751326561
+trial_2	valsartan	22	KG00098705	Edema (NOS)	0.03495298698544502
+trial_2	valsartan	466	KG00101205	fall	0.034585777670145035
+trial_2	valsartan	288	KG00101223	hypophosphataemia	0.03441079333424568
+trial_2	valsartan	339	KG00100334	proteinurias	0.03425656259059906
+trial_2	valsartan	33	KG00100094	Pancreatitis NOS	0.03374204784631729
+trial_2	valsartan	38	KG00098066	Binocular vision disorders	0.03361504524946213
+trial_2	valsartan	261	KG00101559	raised alkaline phosphatase	0.033397428691387177
+trial_2	valsartan	102	KG00097916	anxieties	0.03319019451737404
+trial_2	valsartan	382	KG00099200	haemorrhoids	0.03306165710091591
+trial_2	valsartan	116	KG00098964	Pain in foot	0.03213539347052574
+trial_2	valsartan	191	KG00104055	Biliverdin increased	0.03185976669192314
+trial_2	valsartan	154	KG00099686	Lymphopenias	0.03165652975440025
+trial_2	valsartan	152	KG00099402	INCONTINENCE NOS	0.03145540505647659
+trial_2	valsartan	133	KG00101370	neuropathies sensory	0.03131524845957756
+trial_2	valsartan	393	KG00100182	Peritonitis NOS	0.03095039166510105
+trial_2	valsartan	256	KG00100738	Tachycardia, Sinus	0.03090568445622921
+trial_2	valsartan	310	KG00097940	Appendicitis NOS	0.030780227854847908
+trial_2	valsartan	394	KG00100243	Pneumonia, Aspiration	0.030677950009703636
+trial_2	valsartan	75	KG00100195	Dolens, Phlegmasia Alba	0.03067406639456749
+trial_2	valsartan	262	KG00101199	agitation	0.030399823561310768
+trial_2	valsartan	23	KG00098974	Multiple Fractures	0.02995298057794571
+trial_2	valsartan	282	KG00099309	hypernatraemia	0.029901476576924324
+trial_2	valsartan	213	KG00100600	Infectious Skin Diseases	0.029862647876143456
+trial_2	valsartan	254	KG00100774	Thrombosis NOS	0.02984217181801796

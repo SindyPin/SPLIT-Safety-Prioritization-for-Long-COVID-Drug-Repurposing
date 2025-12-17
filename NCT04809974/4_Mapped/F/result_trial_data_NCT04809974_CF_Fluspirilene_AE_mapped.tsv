@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18585312366485596
+trial_1	placebo	87	KG00098599	diarrhoea	0.17760463058948517
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.16476352512836456
+trial_1	placebo	9	KG00098432	Confusion NOS	0.15451516211032867
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13382238149642944
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12401114404201508
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12020678073167801
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11884477734565735
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1152564287185669
+trial_1	placebo	20	KG00098540	dehydration	0.11086352169513702
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10243344306945801
+trial_1	placebo	228	KG00114657	Weight below normal	0.09600487351417542
+trial_1	placebo	86	KG00098565	Depression, Mental	0.09422418475151062
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09253895282745361
+trial_1	placebo	68	KG00099901	nauseas	0.08980576694011688
+trial_1	placebo	21	KG00098675	dyspnoea	0.08819898217916489
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0876927301287651
+trial_1	placebo	46	KG00099121	Headache NOS	0.08738289028406143
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08711390942335129
+trial_1	placebo	104	KG00097963	arthralgias	0.08408202230930328
+trial_1	placebo	132	KG00101045	Gain, Weight	0.08242723345756531
+trial_1	placebo	114	KG00098933	fevers	0.07720282673835754
+trial_1	placebo	239	KG00100128	pareses	0.07399141788482666
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07335183769464493
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07189323753118515
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0712195634841919
+trial_1	placebo	85	KG00098474	coughs	0.06967784464359283
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0693284124135971
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06877690553665161
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06841922551393509
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0674944669008255
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06361925601959229
+trial_1	placebo	102	KG00097916	anxieties	0.06324827671051025
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.061996083706617355
+trial_1	placebo	14	KG00097852	Anemia NOS	0.060799095779657364
+trial_1	placebo	350	KG00106765	decreased platelet count	0.059462688863277435
+trial_1	placebo	126	KG00100076	Pain NOS	0.056581318378448486
+trial_1	placebo	466	KG00101205	fall	0.05455553159117699
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05443381518125534
+trial_1	placebo	262	KG00101199	agitation	0.053219083696603775
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.053025152534246445
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05083345249295235
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05023376643657684
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05011577531695366
+trial_1	placebo	116	KG00098964	Pain in foot	0.0496501550078392
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04787268862128258
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04717368632555008
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04687964916229248
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04638587310910225
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04590790346264839
+trial_1	placebo	456	KG00099420	Influenzae	0.044694934040308
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.044368259608745575
+trial_1	placebo	66	KG00098642	drowsiness	0.04423630237579346
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0442211776971817
+trial_1	placebo	242	KG00100855	tremors	0.04414923116564751
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04296295344829559
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04246162623167038
+trial_1	placebo	5	KG00099169	haematuria	0.041526004672050476
+trial_1	placebo	72	KG00103771	myalgias	0.04152209684252739
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.041469283401966095
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04094807431101799
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04071854054927826
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.039155200123786926
+trial_1	placebo	300	KG00101064	xerostomia	0.03881446644663811
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0378011018037796
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.037130288779735565
+trial_1	placebo	164	KG00108827	ileus colon	0.03678226098418236
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03632728010416031
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03585347160696983
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03580310940742493
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03547243773937225
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.035160042345523834
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03506483882665634
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03497885912656784
+trial_1	placebo	508	KG00108565	blood glucose increased	0.033797487616539
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.03364107385277748
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03343364596366882
+trial_1	placebo	147	KG00098000	atelectases	0.03318620100617409
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.03312784805893898
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.03231744095683098
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.0322260819375515
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03219040855765343
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.031652480363845825
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03120213933289051
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.031096545979380608
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.031005866825580597
+trial_1	placebo	269	KG00100399	pyaemia	0.030772875994443893
+trial_1	placebo	363	KG00098184	burns injury	0.030755408108234406
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.030444370582699776
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.030326012521982193
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.03004332259297371
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.029962660744786263
+trial_1	placebo	82	KG00097697	abdomen distended	0.029910363256931305
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029892072081565857
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02923388034105301
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.029093604534864426
+trial_1	placebo	153	KG00099579	lethargy	0.028895340859889984
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028844308108091354
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.028457429260015488
+trial_1	placebo	203	KG00098661	dysarthrias	0.02845066413283348
+trial_2	fluspirilene	78	KG00099326	Hypertensive diseases	0.18585312366485596
+trial_2	fluspirilene	87	KG00098599	diarrhoea	0.17760463058948517
+trial_2	fluspirilene	17	KG00097991	Asthenia NOS	0.16476352512836456
+trial_2	fluspirilene	9	KG00098432	Confusion NOS	0.15451516211032867
+trial_2	fluspirilene	177	KG00099299	hyperglycaemia	0.13382238149642944
+trial_2	fluspirilene	77	KG00098450	Constipation NOS	0.12401114404201508
+trial_2	fluspirilene	173	KG00098172	Bronchopneumonia NOS	0.12020678073167801
+trial_2	fluspirilene	79	KG00100317	Insomnia, Primary	0.11884477734565735
+trial_2	fluspirilene	189	KG00101580	Alanine aminotransferase increase	0.1152564287185669
+trial_2	fluspirilene	20	KG00098540	dehydration	0.11086352169513702
+trial_2	fluspirilene	188	KG00101579	Aspartate aminotransferase increase	0.10243344306945801
+trial_2	fluspirilene	228	KG00114657	Weight below normal	0.09600487351417542
+trial_2	fluspirilene	86	KG00098565	Depression, Mental	0.09422418475151062
+trial_2	fluspirilene	123	KG00099351	hypokalaemia	0.09253895282745361
+trial_2	fluspirilene	68	KG00099901	nauseas	0.08980576694011688
+trial_2	fluspirilene	21	KG00098675	dyspnoea	0.08819898217916489
+trial_2	fluspirilene	49	KG00099902	nausea with vomiting	0.0876927301287651
+trial_2	fluspirilene	46	KG00099121	Headache NOS	0.08738289028406143
+trial_2	fluspirilene	37	KG00097696	Cramps, Abdominal	0.08711390942335129
+trial_2	fluspirilene	104	KG00097963	arthralgias	0.08408202230930328
+trial_2	fluspirilene	132	KG00101045	Gain, Weight	0.08242723345756531
+trial_2	fluspirilene	114	KG00098933	fevers	0.07720282673835754
+trial_2	fluspirilene	239	KG00100128	pareses	0.07399141788482666
+trial_2	fluspirilene	64	KG00097734	Acrodermatitis, NOS	0.07335183769464493
+trial_2	fluspirilene	200	KG00098539	Disorders, Deglutition	0.07189323753118515
+trial_2	fluspirilene	151	KG00098274	Infarction, Cerebral	0.0712195634841919
+trial_2	fluspirilene	85	KG00098474	coughs	0.06967784464359283
+trial_2	fluspirilene	67	KG00098673	Dyspepsia, NOS	0.0693284124135971
+trial_2	fluspirilene	243	KG00100947	Micturition frequency increased	0.06877690553665161
+trial_2	fluspirilene	29	KG00099354	hyponatraemia	0.06841922551393509
+trial_2	fluspirilene	101	KG00097901	Anorexia NOS	0.0674944669008255
+trial_2	fluspirilene	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06361925601959229
+trial_2	fluspirilene	102	KG00097916	anxieties	0.06324827671051025
+trial_2	fluspirilene	139	KG00098855	Sinusitis, Ethmoid	0.061996083706617355
+trial_2	fluspirilene	14	KG00097852	Anemia NOS	0.060799095779657364
+trial_2	fluspirilene	350	KG00106765	decreased platelet count	0.059462688863277435
+trial_2	fluspirilene	126	KG00100076	Pain NOS	0.056581318378448486
+trial_2	fluspirilene	466	KG00101205	fall	0.05455553159117699
+trial_2	fluspirilene	122	KG00099321	Hypersensitivity NOS	0.05443381518125534
+trial_2	fluspirilene	262	KG00101199	agitation	0.053219083696603775
+trial_2	fluspirilene	38	KG00098066	Binocular vision disorders	0.053025152534246445
+trial_2	fluspirilene	30	KG00099500	Acute Kidney Failure	0.05083345249295235
+trial_2	fluspirilene	76	KG00100450	Respiratory insufficiency, NOS	0.05023376643657684
+trial_2	fluspirilene	180	KG00099363	Hypotension NOS	0.05011577531695366
+trial_2	fluspirilene	116	KG00098964	Pain in foot	0.0496501550078392
+trial_2	fluspirilene	92	KG00100926	Infections, Upper Respiratory	0.04787268862128258
+trial_2	fluspirilene	131	KG00100948	Urinary tract infection (& [NOS])	0.04717368632555008
+trial_2	fluspirilene	28	KG00099347	hypoglycaemia	0.04687964916229248
+trial_2	fluspirilene	96	KG00101679	Unattended death NOS	0.04638587310910225
+trial_2	fluspirilene	179	KG00099342	hypocalcaemia	0.04590790346264839
+trial_2	fluspirilene	456	KG00099420	Influenzae	0.044694934040308
+trial_2	fluspirilene	2	KG00100772	thrombocytopaenia	0.044368259608745575
+trial_2	fluspirilene	66	KG00098642	drowsiness	0.04423630237579346
+trial_2	fluspirilene	36	KG00106434	Vision, Blurring Of	0.0442211776971817
+trial_2	fluspirilene	242	KG00100855	tremors	0.04414923116564751
+trial_2	fluspirilene	61	KG00099501	Chronic Kidney Failure	0.04296295344829559
+trial_2	fluspirilene	27	KG00099303	hyperkalaemia	0.04246162623167038
+trial_2	fluspirilene	5	KG00099169	haematuria	0.041526004672050476
+trial_2	fluspirilene	72	KG00103771	myalgias	0.04152209684252739
+trial_2	fluspirilene	341	KG00101472	Gamma-glutamyltransferase increased	0.041469283401966095
+trial_2	fluspirilene	194	KG00110727	Neutrophil Count Decreased	0.04094807431101799
+trial_2	fluspirilene	261	KG00101559	raised alkaline phosphatase	0.04071854054927826
+trial_2	fluspirilene	199	KG00098371	Rhinitis (chronic) NOS	0.039155200123786926
+trial_2	fluspirilene	300	KG00101064	xerostomia	0.03881446644663811
+trial_2	fluspirilene	355	KG00110857	lymphocyte count decreased	0.0378011018037796
+trial_2	fluspirilene	396	KG00100373	Embolism, Pulmonary	0.037130288779735565
+trial_2	fluspirilene	164	KG00108827	ileus colon	0.03678226098418236
+trial_2	fluspirilene	256	KG00100738	Tachycardia, Sinus	0.03632728010416031
+trial_2	fluspirilene	422	KG00101429	Creatine phosphokinase increased	0.03585347160696983
+trial_2	fluspirilene	69	KG00100082	Palpitations NOS	0.03580310940742493
+trial_2	fluspirilene	18	KG00098307	Pain, Chest	0.03547243773937225
+trial_2	fluspirilene	297	KG00099294	hypercholesterolaemia	0.035160042345523834
+trial_2	fluspirilene	138	KG00098796	epidemic vomiting syndrome	0.03506483882665634
+trial_2	fluspirilene	11	KG00097993	Asthma NOS	0.03497885912656784
+trial_2	fluspirilene	508	KG00108565	blood glucose increased	0.033797487616539
+trial_2	fluspirilene	118	KG00099011	Gastritis NOS	0.03364107385277748
+trial_2	fluspirilene	97	KG00104198	LIVER ENZYME ELEVATED	0.03343364596366882
+trial_2	fluspirilene	147	KG00098000	atelectases	0.03318620100617409
+trial_2	fluspirilene	232	KG00097997	Ataxia NOS	0.03312784805893898
+trial_2	fluspirilene	152	KG00099402	INCONTINENCE NOS	0.03231744095683098
+trial_2	fluspirilene	204	KG00098849	Esophagitis, Peptic	0.0322260819375515
+trial_2	fluspirilene	282	KG00099309	hypernatraemia	0.03219040855765343
+trial_2	fluspirilene	276	KG00099127	Arrest, Cardiac	0.031652480363845825
+trial_2	fluspirilene	166	KG00099773	menopausal syndrome	0.03120213933289051
+trial_2	fluspirilene	286	KG00101110	Retention, Urinary	0.031096545979380608
+trial_2	fluspirilene	394	KG00100243	Pneumonia, Aspiration	0.031005866825580597
+trial_2	fluspirilene	269	KG00100399	pyaemia	0.030772875994443893
+trial_2	fluspirilene	363	KG00098184	burns injury	0.030755408108234406
+trial_2	fluspirilene	371	KG00098517	Cystitis (NOS)	0.030444370582699776
+trial_2	fluspirilene	33	KG00100094	Pancreatitis NOS	0.030326012521982193
+trial_2	fluspirilene	15	KG00097882	Angina pectoris NOS	0.03004332259297371
+trial_2	fluspirilene	225	KG00104032	Suicidal tendencies	0.029962660744786263
+trial_2	fluspirilene	82	KG00097697	abdomen distended	0.029910363256931305
+trial_2	fluspirilene	441	KG00098262	cellulitis nos	0.029892072081565857
+trial_2	fluspirilene	75	KG00100195	Dolens, Phlegmasia Alba	0.02923388034105301
+trial_2	fluspirilene	35	KG00101507	hypomagnesaemia	0.029093604534864426
+trial_2	fluspirilene	153	KG00099579	lethargy	0.028895340859889984
+trial_2	fluspirilene	191	KG00104055	Biliverdin increased	0.028844308108091354
+trial_2	fluspirilene	142	KG00100923	Unspecified infectious and parasitic diseases	0.028457429260015488
+trial_2	fluspirilene	203	KG00098661	dysarthrias	0.02845066413283348

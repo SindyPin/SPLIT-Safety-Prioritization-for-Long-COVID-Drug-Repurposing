@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1148524284362793
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09149671345949173
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08779468387365341
+trial_1	placebo	68	KG00099901	nauseas	0.08400340378284454
+trial_1	placebo	123	KG00099351	hypokalaemia	0.080134816467762
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0707903802394867
+trial_1	placebo	46	KG00099121	Headache NOS	0.07039543986320496
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0697520449757576
+trial_1	placebo	20	KG00098540	dehydration	0.06650428473949432
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05704198405146599
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.053111881017684937
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.050932276993989944
+trial_1	placebo	77	KG00098450	Constipation NOS	0.048381704837083817
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04727526754140854
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04671218618750572
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04666334018111229
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04368787258863449
+trial_1	placebo	21	KG00098675	dyspnoea	0.04312039911746979
+trial_1	placebo	114	KG00098933	fevers	0.042253464460372925
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.041881807148456573
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04085996374487877
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04076141491532326
+trial_1	placebo	126	KG00100076	Pain NOS	0.03984183818101883
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03826242685317993
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03776651620864868
+trial_1	placebo	228	KG00114657	Weight below normal	0.03615831583738327
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.035956982523202896
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03415120765566826
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03343295305967331
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03303723782300949
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03227653354406357
+trial_1	placebo	5	KG00099169	haematuria	0.031987857073545456
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03146744892001152
+trial_1	placebo	164	KG00108827	ileus colon	0.0312604196369648
+trial_1	placebo	85	KG00098474	coughs	0.03096301481127739
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0309046171605587
+trial_1	placebo	147	KG00098000	atelectases	0.030246060341596603
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02945741079747677
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02932652086019516
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.028278276324272156
+trial_1	placebo	86	KG00098565	Depression, Mental	0.027316534891724586
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.026698853820562363
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02644687332212925
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026351185515522957
+trial_1	placebo	104	KG00097963	arthralgias	0.026167601346969604
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026157397776842117
+trial_1	placebo	72	KG00103771	myalgias	0.025568457320332527
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02528362162411213
+trial_1	placebo	102	KG00097916	anxieties	0.024989154189825058
+trial_1	placebo	18	KG00098307	Pain, Chest	0.024256620556116104
+trial_1	placebo	239	KG00100128	pareses	0.024203112348914146
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02405809611082077
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02394130639731884
+trial_1	placebo	121	KG00099190	haemorrhage	0.023938030004501343
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02382362075150013
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02311699092388153
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023043759167194366
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022360878065228462
+trial_1	placebo	82	KG00097697	abdomen distended	0.022095369175076485
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022059384733438492
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02198129892349243
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021523350849747658
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021212689578533173
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.020967133343219757
+trial_1	placebo	269	KG00100399	pyaemia	0.020930258557200432
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020667746663093567
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02038065530359745
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020298762246966362
+trial_1	placebo	186	KG00101431	creatinine increased	0.01978760026395321
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01969943568110466
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019693713635206223
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01956847496330738
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.019347280263900757
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019345438107848167
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01902087777853012
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01885400153696537
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.018713995814323425
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018596194684505463
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.018403084948658943
+trial_1	placebo	212	KG00100576	shivers	0.017850518226623535
+trial_1	placebo	262	KG00101199	agitation	0.017513733357191086
+trial_1	placebo	116	KG00098964	Pain in foot	0.017354363575577736
+trial_1	placebo	154	KG00099686	Lymphopenias	0.017197981476783752
+trial_1	placebo	234	KG00098669	dysgeusias	0.017072349786758423
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01695915125310421
+trial_1	placebo	508	KG00108565	blood glucose increased	0.016865324229002
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.016741469502449036
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01671162061393261
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016355080530047417
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.016144797205924988
+trial_1	placebo	466	KG00101205	fall	0.016080353409051895
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.015976158902049065
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.015887264162302017
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01580832153558731
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.015492704696953297
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.015466892160475254
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01535891555249691
+trial_1	placebo	454	KG00098286	Pain, Neck	0.015346257016062737
+trial_1	placebo	363	KG00098184	burns injury	0.015003891661763191
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.014835878275334835
+trial_2	fenoterol	87	KG00098599	diarrhoea	0.1148524284362793
+trial_2	fenoterol	49	KG00099902	nausea with vomiting	0.09149671345949173
+trial_2	fenoterol	78	KG00099326	Hypertensive diseases	0.08779468387365341
+trial_2	fenoterol	68	KG00099901	nauseas	0.08400340378284454
+trial_2	fenoterol	123	KG00099351	hypokalaemia	0.080134816467762
+trial_2	fenoterol	177	KG00099299	hyperglycaemia	0.0707903802394867
+trial_2	fenoterol	46	KG00099121	Headache NOS	0.07039543986320496
+trial_2	fenoterol	17	KG00097991	Asthenia NOS	0.0697520449757576
+trial_2	fenoterol	20	KG00098540	dehydration	0.06650428473949432
+trial_2	fenoterol	9	KG00098432	Confusion NOS	0.05704198405146599
+trial_2	fenoterol	79	KG00100317	Insomnia, Primary	0.053111881017684937
+trial_2	fenoterol	173	KG00098172	Bronchopneumonia NOS	0.050932276993989944
+trial_2	fenoterol	77	KG00098450	Constipation NOS	0.048381704837083817
+trial_2	fenoterol	67	KG00098673	Dyspepsia, NOS	0.04727526754140854
+trial_2	fenoterol	189	KG00101580	Alanine aminotransferase increase	0.04671218618750572
+trial_2	fenoterol	37	KG00097696	Cramps, Abdominal	0.04666334018111229
+trial_2	fenoterol	200	KG00098539	Disorders, Deglutition	0.04368787258863449
+trial_2	fenoterol	21	KG00098675	dyspnoea	0.04312039911746979
+trial_2	fenoterol	114	KG00098933	fevers	0.042253464460372925
+trial_2	fenoterol	101	KG00097901	Anorexia NOS	0.041881807148456573
+trial_2	fenoterol	188	KG00101579	Aspartate aminotransferase increase	0.04085996374487877
+trial_2	fenoterol	14	KG00097852	Anemia NOS	0.04076141491532326
+trial_2	fenoterol	126	KG00100076	Pain NOS	0.03984183818101883
+trial_2	fenoterol	350	KG00106765	decreased platelet count	0.03826242685317993
+trial_2	fenoterol	64	KG00097734	Acrodermatitis, NOS	0.03776651620864868
+trial_2	fenoterol	228	KG00114657	Weight below normal	0.03615831583738327
+trial_2	fenoterol	2	KG00100772	thrombocytopaenia	0.035956982523202896
+trial_2	fenoterol	61	KG00099501	Chronic Kidney Failure	0.03415120765566826
+trial_2	fenoterol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03343295305967331
+trial_2	fenoterol	29	KG00099354	hyponatraemia	0.03303723782300949
+trial_2	fenoterol	243	KG00100947	Micturition frequency increased	0.03227653354406357
+trial_2	fenoterol	5	KG00099169	haematuria	0.031987857073545456
+trial_2	fenoterol	179	KG00099342	hypocalcaemia	0.03146744892001152
+trial_2	fenoterol	164	KG00108827	ileus colon	0.0312604196369648
+trial_2	fenoterol	85	KG00098474	coughs	0.03096301481127739
+trial_2	fenoterol	122	KG00099321	Hypersensitivity NOS	0.0309046171605587
+trial_2	fenoterol	147	KG00098000	atelectases	0.030246060341596603
+trial_2	fenoterol	180	KG00099363	Hypotension NOS	0.02945741079747677
+trial_2	fenoterol	28	KG00099347	hypoglycaemia	0.02932652086019516
+trial_2	fenoterol	76	KG00100450	Respiratory insufficiency, NOS	0.028278276324272156
+trial_2	fenoterol	86	KG00098565	Depression, Mental	0.027316534891724586
+trial_2	fenoterol	151	KG00098274	Infarction, Cerebral	0.026698853820562363
+trial_2	fenoterol	27	KG00099303	hyperkalaemia	0.02644687332212925
+trial_2	fenoterol	96	KG00101679	Unattended death NOS	0.026351185515522957
+trial_2	fenoterol	104	KG00097963	arthralgias	0.026167601346969604
+trial_2	fenoterol	261	KG00101559	raised alkaline phosphatase	0.026157397776842117
+trial_2	fenoterol	72	KG00103771	myalgias	0.025568457320332527
+trial_2	fenoterol	38	KG00098066	Binocular vision disorders	0.02528362162411213
+trial_2	fenoterol	102	KG00097916	anxieties	0.024989154189825058
+trial_2	fenoterol	18	KG00098307	Pain, Chest	0.024256620556116104
+trial_2	fenoterol	239	KG00100128	pareses	0.024203112348914146
+trial_2	fenoterol	276	KG00099127	Arrest, Cardiac	0.02405809611082077
+trial_2	fenoterol	69	KG00100082	Palpitations NOS	0.02394130639731884
+trial_2	fenoterol	121	KG00099190	haemorrhage	0.023938030004501343
+trial_2	fenoterol	142	KG00100923	Unspecified infectious and parasitic diseases	0.02382362075150013
+trial_2	fenoterol	194	KG00110727	Neutrophil Count Decreased	0.02311699092388153
+trial_2	fenoterol	30	KG00099500	Acute Kidney Failure	0.023043759167194366
+trial_2	fenoterol	191	KG00104055	Biliverdin increased	0.022360878065228462
+trial_2	fenoterol	82	KG00097697	abdomen distended	0.022095369175076485
+trial_2	fenoterol	282	KG00099309	hypernatraemia	0.022059384733438492
+trial_2	fenoterol	139	KG00098855	Sinusitis, Ethmoid	0.02198129892349243
+trial_2	fenoterol	396	KG00100373	Embolism, Pulmonary	0.021523350849747658
+trial_2	fenoterol	35	KG00101507	hypomagnesaemia	0.021212689578533173
+trial_2	fenoterol	131	KG00100948	Urinary tract infection (& [NOS])	0.020967133343219757
+trial_2	fenoterol	269	KG00100399	pyaemia	0.020930258557200432
+trial_2	fenoterol	211	KG00100341	Pruritus NOS	0.020667746663093567
+trial_2	fenoterol	441	KG00098262	cellulitis nos	0.02038065530359745
+trial_2	fenoterol	371	KG00098517	Cystitis (NOS)	0.020298762246966362
+trial_2	fenoterol	186	KG00101431	creatinine increased	0.01978760026395321
+trial_2	fenoterol	253	KG00100232	Pleural effusion NOS (disorder)	0.01969943568110466
+trial_2	fenoterol	75	KG00100195	Dolens, Phlegmasia Alba	0.019693713635206223
+trial_2	fenoterol	249	KG00104430	hypoalbuminaemia	0.01956847496330738
+trial_2	fenoterol	355	KG00110857	lymphocyte count decreased	0.019347280263900757
+trial_2	fenoterol	144	KG00099610	Leukopenia NOS	0.019345438107848167
+trial_2	fenoterol	204	KG00098849	Esophagitis, Peptic	0.01902087777853012
+trial_2	fenoterol	130	KG00100683	Stomatitis NOS	0.01885400153696537
+trial_2	fenoterol	394	KG00100243	Pneumonia, Aspiration	0.018713995814323425
+trial_2	fenoterol	286	KG00101110	Retention, Urinary	0.018596194684505463
+trial_2	fenoterol	166	KG00099773	menopausal syndrome	0.018403084948658943
+trial_2	fenoterol	212	KG00100576	shivers	0.017850518226623535
+trial_2	fenoterol	262	KG00101199	agitation	0.017513733357191086
+trial_2	fenoterol	116	KG00098964	Pain in foot	0.017354363575577736
+trial_2	fenoterol	154	KG00099686	Lymphopenias	0.017197981476783752
+trial_2	fenoterol	234	KG00098669	dysgeusias	0.017072349786758423
+trial_2	fenoterol	341	KG00101472	Gamma-glutamyltransferase increased	0.01695915125310421
+trial_2	fenoterol	508	KG00108565	blood glucose increased	0.016865324229002
+trial_2	fenoterol	33	KG00100094	Pancreatitis NOS	0.016741469502449036
+trial_2	fenoterol	256	KG00100738	Tachycardia, Sinus	0.01671162061393261
+trial_2	fenoterol	22	KG00098705	Edema (NOS)	0.016355080530047417
+trial_2	fenoterol	163	KG00104050	bowel obstructions small	0.016144797205924988
+trial_2	fenoterol	466	KG00101205	fall	0.016080353409051895
+trial_2	fenoterol	138	KG00098796	epidemic vomiting syndrome	0.015976158902049065
+trial_2	fenoterol	97	KG00104198	LIVER ENZYME ELEVATED	0.015887264162302017
+trial_2	fenoterol	92	KG00100926	Infections, Upper Respiratory	0.01580832153558731
+trial_2	fenoterol	31	KG00099872	Infarction, Myocardial	0.015492704696953297
+trial_2	fenoterol	288	KG00101223	hypophosphataemia	0.015466892160475254
+trial_2	fenoterol	221	KG00101207	peripheral oedema	0.01535891555249691
+trial_2	fenoterol	454	KG00098286	Pain, Neck	0.015346257016062737
+trial_2	fenoterol	363	KG00098184	burns injury	0.015003891661763191
+trial_2	fenoterol	1	KG00099959	Neutropenia NOS	0.014835878275334835

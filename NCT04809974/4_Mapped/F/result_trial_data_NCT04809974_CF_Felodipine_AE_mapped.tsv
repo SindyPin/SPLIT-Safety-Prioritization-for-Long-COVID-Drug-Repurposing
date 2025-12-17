@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17865394055843353
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11305343359708786
+trial_1	placebo	20	KG00098540	dehydration	0.09842352569103241
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09621332585811615
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09410824626684189
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08568966388702393
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08370775729417801
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0794256404042244
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07568062096834183
+trial_1	placebo	46	KG00099121	Headache NOS	0.06667115539312363
+trial_1	placebo	21	KG00098675	dyspnoea	0.06664805859327316
+trial_1	placebo	228	KG00114657	Weight below normal	0.06029769778251648
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05976186692714691
+trial_1	placebo	121	KG00099190	haemorrhage	0.05719955265522003
+trial_1	placebo	85	KG00098474	coughs	0.054231200367212296
+trial_1	placebo	126	KG00100076	Pain NOS	0.05349142849445343
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05233750119805336
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05049151927232742
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04972705617547035
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04928671196103096
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04384380578994751
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0433989055454731
+trial_1	placebo	114	KG00098933	fevers	0.04192212596535683
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04158704727888107
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0407678596675396
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04044034332036972
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04029114916920662
+trial_1	placebo	72	KG00103771	myalgias	0.03996826335787773
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.039479780942201614
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.039135172963142395
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03724098578095436
+trial_1	placebo	136	KG00101582	Dry;skin	0.036417629569768906
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03581001237034798
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03555365651845932
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.034488219767808914
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.034083057194948196
+trial_1	placebo	77	KG00098450	Constipation NOS	0.033967554569244385
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03356843814253807
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.033537961542606354
+trial_1	placebo	5	KG00099169	haematuria	0.03334308788180351
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.033323198556900024
+trial_1	placebo	104	KG00097963	arthralgias	0.033311907202005386
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03328406438231468
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03317217528820038
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03288434445858002
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03255778178572655
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.032251954078674316
+trial_1	placebo	68	KG00099901	nauseas	0.03188268840312958
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02998189441859722
+trial_1	placebo	147	KG00098000	atelectases	0.029224326834082603
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028910908848047256
+trial_1	placebo	154	KG00099686	Lymphopenias	0.028336262330412865
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.028202183544635773
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.0272436011582613
+trial_1	placebo	239	KG00100128	pareses	0.02716117352247238
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.026805821806192398
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02625860460102558
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026063116267323494
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0252763070166111
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025040730834007263
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.024913035333156586
+trial_1	placebo	269	KG00100399	pyaemia	0.02485772594809532
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023954780772328377
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023870347067713737
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.023712748661637306
+trial_1	placebo	282	KG00099309	hypernatraemia	0.0236447025090456
+trial_1	placebo	164	KG00108827	ileus colon	0.0232597216963768
+trial_1	placebo	234	KG00098669	dysgeusias	0.023180540651082993
+trial_1	placebo	102	KG00097916	anxieties	0.02301972359418869
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02299417182803154
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.02269662544131279
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.022417638450860977
+trial_1	placebo	155	KG00099960	Neutrophile	0.022322971373796463
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02214202843606472
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02196100540459156
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021935243159532547
+trial_1	placebo	4	KG00098817	epistaxis	0.02178863063454628
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02178261987864971
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.021745117381215096
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021126801148056984
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.020956480875611305
+trial_1	placebo	186	KG00101431	creatinine increased	0.020857078954577446
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020823387429118156
+trial_1	placebo	100	KG00097815	alopecias	0.02062169276177883
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020410003140568733
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.020388968288898468
+trial_1	placebo	248	KG00103361	measurement of creatinine	0.020340807735919952
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.020320171490311623
+trial_1	placebo	382	KG00099200	haemorrhoids	0.019972333684563637
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01958276331424713
+trial_1	placebo	116	KG00098964	Pain in foot	0.019547265022993088
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.01951375976204872
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019350307062268257
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01912502571940422
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019103720784187317
+trial_1	placebo	23	KG00098974	Multiple Fractures	0.01862211525440216
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.018621038645505905
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018606148660182953
+trial_1	placebo	339	KG00100334	proteinurias	0.018587211146950722
+trial_1	placebo	262	KG00101199	agitation	0.01853727176785469
+trial_2	felodipine	87	KG00098599	diarrhoea	0.17865394055843353
+trial_2	felodipine	123	KG00099351	hypokalaemia	0.11305343359708786
+trial_2	felodipine	20	KG00098540	dehydration	0.09842352569103241
+trial_2	felodipine	78	KG00099326	Hypertensive diseases	0.09621332585811615
+trial_2	felodipine	17	KG00097991	Asthenia NOS	0.09410824626684189
+trial_2	felodipine	177	KG00099299	hyperglycaemia	0.08568966388702393
+trial_2	felodipine	9	KG00098432	Confusion NOS	0.08370775729417801
+trial_2	felodipine	64	KG00097734	Acrodermatitis, NOS	0.0794256404042244
+trial_2	felodipine	173	KG00098172	Bronchopneumonia NOS	0.07568062096834183
+trial_2	felodipine	46	KG00099121	Headache NOS	0.06667115539312363
+trial_2	felodipine	21	KG00098675	dyspnoea	0.06664805859327316
+trial_2	felodipine	228	KG00114657	Weight below normal	0.06029769778251648
+trial_2	felodipine	67	KG00098673	Dyspepsia, NOS	0.05976186692714691
+trial_2	felodipine	121	KG00099190	haemorrhage	0.05719955265522003
+trial_2	felodipine	85	KG00098474	coughs	0.054231200367212296
+trial_2	felodipine	126	KG00100076	Pain NOS	0.05349142849445343
+trial_2	felodipine	180	KG00099363	Hypotension NOS	0.05233750119805336
+trial_2	felodipine	37	KG00097696	Cramps, Abdominal	0.05049151927232742
+trial_2	felodipine	14	KG00097852	Anemia NOS	0.04972705617547035
+trial_2	felodipine	200	KG00098539	Disorders, Deglutition	0.04928671196103096
+trial_2	felodipine	29	KG00099354	hyponatraemia	0.04384380578994751
+trial_2	felodipine	151	KG00098274	Infarction, Cerebral	0.0433989055454731
+trial_2	felodipine	114	KG00098933	fevers	0.04192212596535683
+trial_2	felodipine	142	KG00100923	Unspecified infectious and parasitic diseases	0.04158704727888107
+trial_2	felodipine	122	KG00099321	Hypersensitivity NOS	0.0407678596675396
+trial_2	felodipine	96	KG00101679	Unattended death NOS	0.04044034332036972
+trial_2	felodipine	49	KG00099902	nausea with vomiting	0.04029114916920662
+trial_2	felodipine	72	KG00103771	myalgias	0.03996826335787773
+trial_2	felodipine	79	KG00100317	Insomnia, Primary	0.039479780942201614
+trial_2	felodipine	76	KG00100450	Respiratory insufficiency, NOS	0.039135172963142395
+trial_2	felodipine	243	KG00100947	Micturition frequency increased	0.03724098578095436
+trial_2	felodipine	136	KG00101582	Dry;skin	0.036417629569768906
+trial_2	felodipine	86	KG00098565	Depression, Mental	0.03581001237034798
+trial_2	felodipine	2	KG00100772	thrombocytopaenia	0.03555365651845932
+trial_2	felodipine	179	KG00099342	hypocalcaemia	0.034488219767808914
+trial_2	felodipine	189	KG00101580	Alanine aminotransferase increase	0.034083057194948196
+trial_2	felodipine	77	KG00098450	Constipation NOS	0.033967554569244385
+trial_2	felodipine	61	KG00099501	Chronic Kidney Failure	0.03356843814253807
+trial_2	felodipine	130	KG00100683	Stomatitis NOS	0.033537961542606354
+trial_2	felodipine	5	KG00099169	haematuria	0.03334308788180351
+trial_2	felodipine	188	KG00101579	Aspartate aminotransferase increase	0.033323198556900024
+trial_2	felodipine	104	KG00097963	arthralgias	0.033311907202005386
+trial_2	felodipine	350	KG00106765	decreased platelet count	0.03328406438231468
+trial_2	felodipine	249	KG00104430	hypoalbuminaemia	0.03317217528820038
+trial_2	felodipine	27	KG00099303	hyperkalaemia	0.03288434445858002
+trial_2	felodipine	28	KG00099347	hypoglycaemia	0.03255778178572655
+trial_2	felodipine	101	KG00097901	Anorexia NOS	0.032251954078674316
+trial_2	felodipine	68	KG00099901	nauseas	0.03188268840312958
+trial_2	felodipine	18	KG00098307	Pain, Chest	0.02998189441859722
+trial_2	felodipine	147	KG00098000	atelectases	0.029224326834082603
+trial_2	felodipine	191	KG00104055	Biliverdin increased	0.028910908848047256
+trial_2	felodipine	154	KG00099686	Lymphopenias	0.028336262330412865
+trial_2	felodipine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.028202183544635773
+trial_2	felodipine	35	KG00101507	hypomagnesaemia	0.0272436011582613
+trial_2	felodipine	239	KG00100128	pareses	0.02716117352247238
+trial_2	felodipine	133	KG00101370	neuropathies sensory	0.026805821806192398
+trial_2	felodipine	356	KG00112623	Infectious Lung Disorders	0.02625860460102558
+trial_2	felodipine	131	KG00100948	Urinary tract infection (& [NOS])	0.026063116267323494
+trial_2	felodipine	139	KG00098855	Sinusitis, Ethmoid	0.0252763070166111
+trial_2	felodipine	221	KG00101207	peripheral oedema	0.025040730834007263
+trial_2	felodipine	246	KG00103338	Aspartate Aminotransferase Measurement	0.024913035333156586
+trial_2	felodipine	269	KG00100399	pyaemia	0.02485772594809532
+trial_2	felodipine	355	KG00110857	lymphocyte count decreased	0.023954780772328377
+trial_2	felodipine	36	KG00106434	Vision, Blurring Of	0.023870347067713737
+trial_2	felodipine	288	KG00101223	hypophosphataemia	0.023712748661637306
+trial_2	felodipine	282	KG00099309	hypernatraemia	0.0236447025090456
+trial_2	felodipine	164	KG00108827	ileus colon	0.0232597216963768
+trial_2	felodipine	234	KG00098669	dysgeusias	0.023180540651082993
+trial_2	felodipine	102	KG00097916	anxieties	0.02301972359418869
+trial_2	felodipine	22	KG00098705	Edema (NOS)	0.02299417182803154
+trial_2	felodipine	213	KG00100600	Infectious Skin Diseases	0.02269662544131279
+trial_2	felodipine	276	KG00099127	Arrest, Cardiac	0.022417638450860977
+trial_2	felodipine	155	KG00099960	Neutrophile	0.022322971373796463
+trial_2	felodipine	195	KG00097814	Atopic Rhinitis	0.02214202843606472
+trial_2	felodipine	38	KG00098066	Binocular vision disorders	0.02196100540459156
+trial_2	felodipine	31	KG00099872	Infarction, Myocardial	0.021935243159532547
+trial_2	felodipine	4	KG00098817	epistaxis	0.02178863063454628
+trial_2	felodipine	69	KG00100082	Palpitations NOS	0.02178261987864971
+trial_2	felodipine	194	KG00110727	Neutrophil Count Decreased	0.021745117381215096
+trial_2	felodipine	396	KG00100373	Embolism, Pulmonary	0.021126801148056984
+trial_2	felodipine	30	KG00099500	Acute Kidney Failure	0.020956480875611305
+trial_2	felodipine	186	KG00101431	creatinine increased	0.020857078954577446
+trial_2	felodipine	371	KG00098517	Cystitis (NOS)	0.020823387429118156
+trial_2	felodipine	100	KG00097815	alopecias	0.02062169276177883
+trial_2	felodipine	211	KG00100341	Pruritus NOS	0.020410003140568733
+trial_2	felodipine	347	KG00104223	Mucosal ulcers	0.020388968288898468
+trial_2	felodipine	248	KG00103361	measurement of creatinine	0.020340807735919952
+trial_2	felodipine	170	KG00108926	Neutropenia, Febrile	0.020320171490311623
+trial_2	felodipine	382	KG00099200	haemorrhoids	0.019972333684563637
+trial_2	felodipine	253	KG00100232	Pleural effusion NOS (disorder)	0.01958276331424713
+trial_2	felodipine	116	KG00098964	Pain in foot	0.019547265022993088
+trial_2	felodipine	261	KG00101559	raised alkaline phosphatase	0.01951375976204872
+trial_2	felodipine	361	KG00098004	Fibrillation, Atrial	0.019350307062268257
+trial_2	felodipine	152	KG00099402	INCONTINENCE NOS	0.01912502571940422
+trial_2	felodipine	441	KG00098262	cellulitis nos	0.019103720784187317
+trial_2	felodipine	23	KG00098974	Multiple Fractures	0.01862211525440216
+trial_2	felodipine	256	KG00100738	Tachycardia, Sinus	0.018621038645505905
+trial_2	felodipine	138	KG00098796	epidemic vomiting syndrome	0.018606148660182953
+trial_2	felodipine	339	KG00100334	proteinurias	0.018587211146950722
+trial_2	felodipine	262	KG00101199	agitation	0.01853727176785469

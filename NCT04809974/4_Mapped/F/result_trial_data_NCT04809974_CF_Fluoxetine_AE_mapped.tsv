@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17484913766384125
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13116618990898132
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12754569947719574
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09477467089891434
+trial_1	placebo	68	KG00099901	nauseas	0.09439036250114441
+trial_1	placebo	46	KG00099121	Headache NOS	0.08301933854818344
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08106189966201782
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08105677366256714
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07509896159172058
+trial_1	placebo	228	KG00114657	Weight below normal	0.0711216926574707
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06980622559785843
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.057436563074588776
+trial_1	placebo	300	KG00101064	xerostomia	0.05651874467730522
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.056303709745407104
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05610955134034157
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0546836256980896
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05342015624046326
+trial_1	placebo	20	KG00098540	dehydration	0.05222480371594429
+trial_1	placebo	21	KG00098675	dyspnoea	0.04971698671579361
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0481402687728405
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04754568263888359
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0440218411386013
+trial_1	placebo	102	KG00097916	anxieties	0.041732460260391235
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03964970260858536
+trial_1	placebo	85	KG00098474	coughs	0.037908703088760376
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03623712807893753
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.035800911486148834
+trial_1	placebo	114	KG00098933	fevers	0.03489924594759941
+trial_1	placebo	104	KG00097963	arthralgias	0.03451937437057495
+trial_1	placebo	126	KG00100076	Pain NOS	0.032834094017744064
+trial_1	placebo	66	KG00098642	drowsiness	0.03210843354463577
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031756069511175156
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.030057914555072784
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.029807811602950096
+trial_1	placebo	29	KG00099354	hyponatraemia	0.029195863753557205
+trial_1	placebo	262	KG00101199	agitation	0.029004845768213272
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.028069045394659042
+trial_1	placebo	239	KG00100128	pareses	0.027920814231038094
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027282651513814926
+trial_1	placebo	242	KG00100855	tremors	0.026444097980856895
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026141934096813202
+trial_1	placebo	18	KG00098307	Pain, Chest	0.024701697751879692
+trial_1	placebo	14	KG00097852	Anemia NOS	0.024553246796131134
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02449973300099373
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.02350233867764473
+trial_1	placebo	72	KG00103771	myalgias	0.02283368818461895
+trial_1	placebo	116	KG00098964	Pain in foot	0.02270597778260708
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022604603320360184
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0225899126380682
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02242712490260601
+trial_1	placebo	82	KG00097697	abdomen distended	0.022220594808459282
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.021135997027158737
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020741069689393044
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020295580849051476
+trial_1	placebo	136	KG00101582	Dry;skin	0.02013709954917431
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.01980293169617653
+trial_1	placebo	234	KG00098669	dysgeusias	0.01968497410416603
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.019040226936340332
+trial_1	placebo	466	KG00101205	fall	0.018873482942581177
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018577754497528076
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01833905652165413
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018274005502462387
+trial_1	placebo	456	KG00099420	Influenzae	0.01817728951573372
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0180436372756958
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018029052764177322
+trial_1	placebo	5	KG00099169	haematuria	0.01729888655245304
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.01712653413414955
+trial_1	placebo	345	KG00103926	impairments memory	0.016632696613669395
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.016557641327381134
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.016408704221248627
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01636028103530407
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01630830578505993
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.016019320115447044
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016016779467463493
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.015818405896425247
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.015666309744119644
+trial_1	placebo	121	KG00099190	haemorrhage	0.01544379722326994
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.015400702133774757
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015317167155444622
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.014940059743821621
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.014897432178258896
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.014872093684971333
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.014779317192733288
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014418603852391243
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.014401199296116829
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014353710226714611
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.014212007634341717
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014173286035656929
+trial_1	placebo	165	KG00098537	Libido Decreased	0.014045430347323418
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.013928708620369434
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01392284780740738
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.013907942920923233
+trial_1	placebo	333	KG00104019	DOPINESS	0.013804345391690731
+trial_1	placebo	331	KG00099462	Mood, Irritable	0.013796241022646427
+trial_1	placebo	508	KG00108565	blood glucose increased	0.013626506552100182
+trial_1	placebo	147	KG00098000	atelectases	0.013622373342514038
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.013525333255529404
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013491446152329445
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.013466248288750648
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.013464005663990974
+trial_2	fluoxetine	87	KG00098599	diarrhoea	0.17484913766384125
+trial_2	fluoxetine	17	KG00097991	Asthenia NOS	0.13116618990898132
+trial_2	fluoxetine	9	KG00098432	Confusion NOS	0.12754569947719574
+trial_2	fluoxetine	79	KG00100317	Insomnia, Primary	0.09477467089891434
+trial_2	fluoxetine	68	KG00099901	nauseas	0.09439036250114441
+trial_2	fluoxetine	46	KG00099121	Headache NOS	0.08301933854818344
+trial_2	fluoxetine	78	KG00099326	Hypertensive diseases	0.08106189966201782
+trial_2	fluoxetine	77	KG00098450	Constipation NOS	0.08105677366256714
+trial_2	fluoxetine	101	KG00097901	Anorexia NOS	0.07509896159172058
+trial_2	fluoxetine	228	KG00114657	Weight below normal	0.0711216926574707
+trial_2	fluoxetine	49	KG00099902	nausea with vomiting	0.06980622559785843
+trial_2	fluoxetine	173	KG00098172	Bronchopneumonia NOS	0.057436563074588776
+trial_2	fluoxetine	300	KG00101064	xerostomia	0.05651874467730522
+trial_2	fluoxetine	177	KG00099299	hyperglycaemia	0.056303709745407104
+trial_2	fluoxetine	37	KG00097696	Cramps, Abdominal	0.05610955134034157
+trial_2	fluoxetine	67	KG00098673	Dyspepsia, NOS	0.0546836256980896
+trial_2	fluoxetine	64	KG00097734	Acrodermatitis, NOS	0.05342015624046326
+trial_2	fluoxetine	20	KG00098540	dehydration	0.05222480371594429
+trial_2	fluoxetine	21	KG00098675	dyspnoea	0.04971698671579361
+trial_2	fluoxetine	132	KG00101045	Gain, Weight	0.0481402687728405
+trial_2	fluoxetine	86	KG00098565	Depression, Mental	0.04754568263888359
+trial_2	fluoxetine	123	KG00099351	hypokalaemia	0.0440218411386013
+trial_2	fluoxetine	102	KG00097916	anxieties	0.041732460260391235
+trial_2	fluoxetine	189	KG00101580	Alanine aminotransferase increase	0.03964970260858536
+trial_2	fluoxetine	85	KG00098474	coughs	0.037908703088760376
+trial_2	fluoxetine	151	KG00098274	Infarction, Cerebral	0.03623712807893753
+trial_2	fluoxetine	243	KG00100947	Micturition frequency increased	0.035800911486148834
+trial_2	fluoxetine	114	KG00098933	fevers	0.03489924594759941
+trial_2	fluoxetine	104	KG00097963	arthralgias	0.03451937437057495
+trial_2	fluoxetine	126	KG00100076	Pain NOS	0.032834094017744064
+trial_2	fluoxetine	66	KG00098642	drowsiness	0.03210843354463577
+trial_2	fluoxetine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.031756069511175156
+trial_2	fluoxetine	200	KG00098539	Disorders, Deglutition	0.030057914555072784
+trial_2	fluoxetine	36	KG00106434	Vision, Blurring Of	0.029807811602950096
+trial_2	fluoxetine	29	KG00099354	hyponatraemia	0.029195863753557205
+trial_2	fluoxetine	262	KG00101199	agitation	0.029004845768213272
+trial_2	fluoxetine	188	KG00101579	Aspartate aminotransferase increase	0.028069045394659042
+trial_2	fluoxetine	239	KG00100128	pareses	0.027920814231038094
+trial_2	fluoxetine	96	KG00101679	Unattended death NOS	0.027282651513814926
+trial_2	fluoxetine	242	KG00100855	tremors	0.026444097980856895
+trial_2	fluoxetine	139	KG00098855	Sinusitis, Ethmoid	0.026141934096813202
+trial_2	fluoxetine	18	KG00098307	Pain, Chest	0.024701697751879692
+trial_2	fluoxetine	14	KG00097852	Anemia NOS	0.024553246796131134
+trial_2	fluoxetine	180	KG00099363	Hypotension NOS	0.02449973300099373
+trial_2	fluoxetine	89	KG00099301	Hyperhidrosis (disorder)	0.02350233867764473
+trial_2	fluoxetine	72	KG00103771	myalgias	0.02283368818461895
+trial_2	fluoxetine	116	KG00098964	Pain in foot	0.02270597778260708
+trial_2	fluoxetine	191	KG00104055	Biliverdin increased	0.022604603320360184
+trial_2	fluoxetine	122	KG00099321	Hypersensitivity NOS	0.0225899126380682
+trial_2	fluoxetine	350	KG00106765	decreased platelet count	0.02242712490260601
+trial_2	fluoxetine	82	KG00097697	abdomen distended	0.022220594808459282
+trial_2	fluoxetine	76	KG00100450	Respiratory insufficiency, NOS	0.021135997027158737
+trial_2	fluoxetine	69	KG00100082	Palpitations NOS	0.020741069689393044
+trial_2	fluoxetine	199	KG00098371	Rhinitis (chronic) NOS	0.020295580849051476
+trial_2	fluoxetine	136	KG00101582	Dry;skin	0.02013709954917431
+trial_2	fluoxetine	131	KG00100948	Urinary tract infection (& [NOS])	0.01980293169617653
+trial_2	fluoxetine	234	KG00098669	dysgeusias	0.01968497410416603
+trial_2	fluoxetine	28	KG00099347	hypoglycaemia	0.019040226936340332
+trial_2	fluoxetine	466	KG00101205	fall	0.018873482942581177
+trial_2	fluoxetine	38	KG00098066	Binocular vision disorders	0.018577754497528076
+trial_2	fluoxetine	204	KG00098849	Esophagitis, Peptic	0.01833905652165413
+trial_2	fluoxetine	92	KG00100926	Infections, Upper Respiratory	0.018274005502462387
+trial_2	fluoxetine	456	KG00099420	Influenzae	0.01817728951573372
+trial_2	fluoxetine	261	KG00101559	raised alkaline phosphatase	0.0180436372756958
+trial_2	fluoxetine	138	KG00098796	epidemic vomiting syndrome	0.018029052764177322
+trial_2	fluoxetine	5	KG00099169	haematuria	0.01729888655245304
+trial_2	fluoxetine	422	KG00101429	Creatine phosphokinase increased	0.01712653413414955
+trial_2	fluoxetine	345	KG00103926	impairments memory	0.016632696613669395
+trial_2	fluoxetine	211	KG00100341	Pruritus NOS	0.016557641327381134
+trial_2	fluoxetine	166	KG00099773	menopausal syndrome	0.016408704221248627
+trial_2	fluoxetine	11	KG00097993	Asthma NOS	0.01636028103530407
+trial_2	fluoxetine	118	KG00099011	Gastritis NOS	0.01630830578505993
+trial_2	fluoxetine	355	KG00110857	lymphocyte count decreased	0.016019320115447044
+trial_2	fluoxetine	142	KG00100923	Unspecified infectious and parasitic diseases	0.016016779467463493
+trial_2	fluoxetine	194	KG00110727	Neutrophil Count Decreased	0.015818405896425247
+trial_2	fluoxetine	61	KG00099501	Chronic Kidney Failure	0.015666309744119644
+trial_2	fluoxetine	121	KG00099190	haemorrhage	0.01544379722326994
+trial_2	fluoxetine	94	KG00103829	abdominal discomfort	0.015400702133774757
+trial_2	fluoxetine	154	KG00099686	Lymphopenias	0.015317167155444622
+trial_2	fluoxetine	218	KG00100801	Tinnitus NOS	0.014940059743821621
+trial_2	fluoxetine	30	KG00099500	Acute Kidney Failure	0.014897432178258896
+trial_2	fluoxetine	27	KG00099303	hyperkalaemia	0.014872093684971333
+trial_2	fluoxetine	130	KG00100683	Stomatitis NOS	0.014779317192733288
+trial_2	fluoxetine	441	KG00098262	cellulitis nos	0.014418603852391243
+trial_2	fluoxetine	396	KG00100373	Embolism, Pulmonary	0.014401199296116829
+trial_2	fluoxetine	361	KG00098004	Fibrillation, Atrial	0.014353710226714611
+trial_2	fluoxetine	297	KG00099294	hypercholesterolaemia	0.014212007634341717
+trial_2	fluoxetine	22	KG00098705	Edema (NOS)	0.014173286035656929
+trial_2	fluoxetine	165	KG00098537	Libido Decreased	0.014045430347323418
+trial_2	fluoxetine	225	KG00104032	Suicidal tendencies	0.013928708620369434
+trial_2	fluoxetine	195	KG00097814	Atopic Rhinitis	0.01392284780740738
+trial_2	fluoxetine	2	KG00100772	thrombocytopaenia	0.013907942920923233
+trial_2	fluoxetine	333	KG00104019	DOPINESS	0.013804345391690731
+trial_2	fluoxetine	331	KG00099462	Mood, Irritable	0.013796241022646427
+trial_2	fluoxetine	508	KG00108565	blood glucose increased	0.013626506552100182
+trial_2	fluoxetine	147	KG00098000	atelectases	0.013622373342514038
+trial_2	fluoxetine	249	KG00104430	hypoalbuminaemia	0.013525333255529404
+trial_2	fluoxetine	221	KG00101207	peripheral oedema	0.013491446152329445
+trial_2	fluoxetine	286	KG00101110	Retention, Urinary	0.013466248288750648
+trial_2	fluoxetine	179	KG00099342	hypocalcaemia	0.013464005663990974

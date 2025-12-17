@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14403323829174042
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12426847219467163
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12362055480480194
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10525229573249817
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09592557698488235
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09039843082427979
+trial_1	placebo	68	KG00099901	nauseas	0.08353735506534576
+trial_1	placebo	20	KG00098540	dehydration	0.08310835063457489
+trial_1	placebo	21	KG00098675	dyspnoea	0.08146091550588608
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08029663562774658
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07865925878286362
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07796341925859451
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07499814033508301
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0735052227973938
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07267767190933228
+trial_1	placebo	46	KG00099121	Headache NOS	0.0726318433880806
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06447342783212662
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0638534352183342
+trial_1	placebo	14	KG00097852	Anemia NOS	0.057320207357406616
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05728623643517494
+trial_1	placebo	228	KG00114657	Weight below normal	0.054803505539894104
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05453398823738098
+trial_1	placebo	114	KG00098933	fevers	0.05232253298163414
+trial_1	placebo	126	KG00100076	Pain NOS	0.051746051758527756
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05077454075217247
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0485742948949337
+trial_1	placebo	104	KG00097963	arthralgias	0.04757033661007881
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.046256355941295624
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04615936055779457
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04599061980843544
+trial_1	placebo	239	KG00100128	pareses	0.04413340985774994
+trial_1	placebo	85	KG00098474	coughs	0.04391598701477051
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04346749931573868
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04292294383049011
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04273941367864609
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04099786654114723
+trial_1	placebo	5	KG00099169	haematuria	0.040551524609327316
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04025670140981674
+trial_1	placebo	72	KG00103771	myalgias	0.039441581815481186
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03943980112671852
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03850381076335907
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03698774427175522
+trial_1	placebo	102	KG00097916	anxieties	0.03643978014588356
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03438509628176689
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03402271866798401
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0338924340903759
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0336538702249527
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03354143723845482
+trial_1	placebo	147	KG00098000	atelectases	0.03346576541662216
+trial_1	placebo	262	KG00101199	agitation	0.03336188197135925
+trial_1	placebo	234	KG00098669	dysgeusias	0.032435379922389984
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03211230784654617
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03198062255978584
+trial_1	placebo	116	KG00098964	Pain in foot	0.0318450927734375
+trial_1	placebo	466	KG00101205	fall	0.0308684054762125
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03075379505753517
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.030704326927661896
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030568204820156097
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.030454883351922035
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028928181156516075
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.028662173077464104
+trial_1	placebo	82	KG00097697	abdomen distended	0.02856057696044445
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.028105536475777626
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026859164237976074
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026488186791539192
+trial_1	placebo	66	KG00098642	drowsiness	0.026255208998918533
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026221681386232376
+trial_1	placebo	269	KG00100399	pyaemia	0.026151860132813454
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025762023404240608
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025656329467892647
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025554988533258438
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025421081110835075
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025098904967308044
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02488054148852825
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.024777332320809364
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02471667155623436
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02395164966583252
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023651564493775368
+trial_1	placebo	164	KG00108827	ileus colon	0.023532677441835403
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02331646904349327
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023310279473662376
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02325570397078991
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022860465571284294
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022615503519773483
+trial_1	placebo	186	KG00101431	creatinine increased	0.022449307143688202
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.022410277277231216
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022124046459794044
+trial_1	placebo	242	KG00100855	tremors	0.0219997838139534
+trial_1	placebo	100	KG00097815	alopecias	0.02178594097495079
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02155349776148796
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021525047719478607
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.021428875625133514
+trial_1	placebo	153	KG00099579	lethargy	0.021303819492459297
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021141286939382553
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.020791128277778625
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020754750818014145
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02071969211101532
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020704153925180435
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02061069756746292
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02060464210808277
+trial_2	flunitrazepam	87	KG00098599	diarrhoea	0.14403323829174042
+trial_2	flunitrazepam	9	KG00098432	Confusion NOS	0.12426847219467163
+trial_2	flunitrazepam	78	KG00099326	Hypertensive diseases	0.12362055480480194
+trial_2	flunitrazepam	17	KG00097991	Asthenia NOS	0.10525229573249817
+trial_2	flunitrazepam	177	KG00099299	hyperglycaemia	0.09592557698488235
+trial_2	flunitrazepam	173	KG00098172	Bronchopneumonia NOS	0.09039843082427979
+trial_2	flunitrazepam	68	KG00099901	nauseas	0.08353735506534576
+trial_2	flunitrazepam	20	KG00098540	dehydration	0.08310835063457489
+trial_2	flunitrazepam	21	KG00098675	dyspnoea	0.08146091550588608
+trial_2	flunitrazepam	123	KG00099351	hypokalaemia	0.08029663562774658
+trial_2	flunitrazepam	49	KG00099902	nausea with vomiting	0.07865925878286362
+trial_2	flunitrazepam	79	KG00100317	Insomnia, Primary	0.07796341925859451
+trial_2	flunitrazepam	77	KG00098450	Constipation NOS	0.07499814033508301
+trial_2	flunitrazepam	64	KG00097734	Acrodermatitis, NOS	0.0735052227973938
+trial_2	flunitrazepam	189	KG00101580	Alanine aminotransferase increase	0.07267767190933228
+trial_2	flunitrazepam	46	KG00099121	Headache NOS	0.0726318433880806
+trial_2	flunitrazepam	188	KG00101579	Aspartate aminotransferase increase	0.06447342783212662
+trial_2	flunitrazepam	200	KG00098539	Disorders, Deglutition	0.0638534352183342
+trial_2	flunitrazepam	14	KG00097852	Anemia NOS	0.057320207357406616
+trial_2	flunitrazepam	37	KG00097696	Cramps, Abdominal	0.05728623643517494
+trial_2	flunitrazepam	228	KG00114657	Weight below normal	0.054803505539894104
+trial_2	flunitrazepam	67	KG00098673	Dyspepsia, NOS	0.05453398823738098
+trial_2	flunitrazepam	114	KG00098933	fevers	0.05232253298163414
+trial_2	flunitrazepam	126	KG00100076	Pain NOS	0.051746051758527756
+trial_2	flunitrazepam	29	KG00099354	hyponatraemia	0.05077454075217247
+trial_2	flunitrazepam	151	KG00098274	Infarction, Cerebral	0.0485742948949337
+trial_2	flunitrazepam	104	KG00097963	arthralgias	0.04757033661007881
+trial_2	flunitrazepam	76	KG00100450	Respiratory insufficiency, NOS	0.046256355941295624
+trial_2	flunitrazepam	180	KG00099363	Hypotension NOS	0.04615936055779457
+trial_2	flunitrazepam	86	KG00098565	Depression, Mental	0.04599061980843544
+trial_2	flunitrazepam	239	KG00100128	pareses	0.04413340985774994
+trial_2	flunitrazepam	85	KG00098474	coughs	0.04391598701477051
+trial_2	flunitrazepam	243	KG00100947	Micturition frequency increased	0.04346749931573868
+trial_2	flunitrazepam	350	KG00106765	decreased platelet count	0.04292294383049011
+trial_2	flunitrazepam	101	KG00097901	Anorexia NOS	0.04273941367864609
+trial_2	flunitrazepam	61	KG00099501	Chronic Kidney Failure	0.04099786654114723
+trial_2	flunitrazepam	5	KG00099169	haematuria	0.040551524609327316
+trial_2	flunitrazepam	2	KG00100772	thrombocytopaenia	0.04025670140981674
+trial_2	flunitrazepam	72	KG00103771	myalgias	0.039441581815481186
+trial_2	flunitrazepam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03943980112671852
+trial_2	flunitrazepam	28	KG00099347	hypoglycaemia	0.03850381076335907
+trial_2	flunitrazepam	96	KG00101679	Unattended death NOS	0.03698774427175522
+trial_2	flunitrazepam	102	KG00097916	anxieties	0.03643978014588356
+trial_2	flunitrazepam	131	KG00100948	Urinary tract infection (& [NOS])	0.03438509628176689
+trial_2	flunitrazepam	38	KG00098066	Binocular vision disorders	0.03402271866798401
+trial_2	flunitrazepam	139	KG00098855	Sinusitis, Ethmoid	0.0338924340903759
+trial_2	flunitrazepam	179	KG00099342	hypocalcaemia	0.0336538702249527
+trial_2	flunitrazepam	30	KG00099500	Acute Kidney Failure	0.03354143723845482
+trial_2	flunitrazepam	147	KG00098000	atelectases	0.03346576541662216
+trial_2	flunitrazepam	262	KG00101199	agitation	0.03336188197135925
+trial_2	flunitrazepam	234	KG00098669	dysgeusias	0.032435379922389984
+trial_2	flunitrazepam	132	KG00101045	Gain, Weight	0.03211230784654617
+trial_2	flunitrazepam	122	KG00099321	Hypersensitivity NOS	0.03198062255978584
+trial_2	flunitrazepam	116	KG00098964	Pain in foot	0.0318450927734375
+trial_2	flunitrazepam	466	KG00101205	fall	0.0308684054762125
+trial_2	flunitrazepam	27	KG00099303	hyperkalaemia	0.03075379505753517
+trial_2	flunitrazepam	261	KG00101559	raised alkaline phosphatase	0.030704326927661896
+trial_2	flunitrazepam	396	KG00100373	Embolism, Pulmonary	0.030568204820156097
+trial_2	flunitrazepam	211	KG00100341	Pruritus NOS	0.030454883351922035
+trial_2	flunitrazepam	18	KG00098307	Pain, Chest	0.028928181156516075
+trial_2	flunitrazepam	194	KG00110727	Neutrophil Count Decreased	0.028662173077464104
+trial_2	flunitrazepam	82	KG00097697	abdomen distended	0.02856057696044445
+trial_2	flunitrazepam	355	KG00110857	lymphocyte count decreased	0.028105536475777626
+trial_2	flunitrazepam	36	KG00106434	Vision, Blurring Of	0.026859164237976074
+trial_2	flunitrazepam	441	KG00098262	cellulitis nos	0.026488186791539192
+trial_2	flunitrazepam	66	KG00098642	drowsiness	0.026255208998918533
+trial_2	flunitrazepam	276	KG00099127	Arrest, Cardiac	0.026221681386232376
+trial_2	flunitrazepam	269	KG00100399	pyaemia	0.026151860132813454
+trial_2	flunitrazepam	69	KG00100082	Palpitations NOS	0.025762023404240608
+trial_2	flunitrazepam	341	KG00101472	Gamma-glutamyltransferase increased	0.025656329467892647
+trial_2	flunitrazepam	286	KG00101110	Retention, Urinary	0.025554988533258438
+trial_2	flunitrazepam	221	KG00101207	peripheral oedema	0.025421081110835075
+trial_2	flunitrazepam	142	KG00100923	Unspecified infectious and parasitic diseases	0.025098904967308044
+trial_2	flunitrazepam	282	KG00099309	hypernatraemia	0.02488054148852825
+trial_2	flunitrazepam	361	KG00098004	Fibrillation, Atrial	0.024777332320809364
+trial_2	flunitrazepam	75	KG00100195	Dolens, Phlegmasia Alba	0.02471667155623436
+trial_2	flunitrazepam	154	KG00099686	Lymphopenias	0.02395164966583252
+trial_2	flunitrazepam	191	KG00104055	Biliverdin increased	0.023651564493775368
+trial_2	flunitrazepam	164	KG00108827	ileus colon	0.023532677441835403
+trial_2	flunitrazepam	249	KG00104430	hypoalbuminaemia	0.02331646904349327
+trial_2	flunitrazepam	422	KG00101429	Creatine phosphokinase increased	0.023310279473662376
+trial_2	flunitrazepam	204	KG00098849	Esophagitis, Peptic	0.02325570397078991
+trial_2	flunitrazepam	508	KG00108565	blood glucose increased	0.022860465571284294
+trial_2	flunitrazepam	144	KG00099610	Leukopenia NOS	0.022615503519773483
+trial_2	flunitrazepam	186	KG00101431	creatinine increased	0.022449307143688202
+trial_2	flunitrazepam	15	KG00097882	Angina pectoris NOS	0.022410277277231216
+trial_2	flunitrazepam	253	KG00100232	Pleural effusion NOS (disorder)	0.022124046459794044
+trial_2	flunitrazepam	242	KG00100855	tremors	0.0219997838139534
+trial_2	flunitrazepam	100	KG00097815	alopecias	0.02178594097495079
+trial_2	flunitrazepam	11	KG00097993	Asthma NOS	0.02155349776148796
+trial_2	flunitrazepam	98	KG00097718	Incised wound, NOS	0.021525047719478607
+trial_2	flunitrazepam	232	KG00097997	Ataxia NOS	0.021428875625133514
+trial_2	flunitrazepam	153	KG00099579	lethargy	0.021303819492459297
+trial_2	flunitrazepam	92	KG00100926	Infections, Upper Respiratory	0.021141286939382553
+trial_2	flunitrazepam	1	KG00099959	Neutropenia NOS	0.020791128277778625
+trial_2	flunitrazepam	31	KG00099872	Infarction, Myocardial	0.020754750818014145
+trial_2	flunitrazepam	35	KG00101507	hypomagnesaemia	0.02071969211101532
+trial_2	flunitrazepam	371	KG00098517	Cystitis (NOS)	0.020704153925180435
+trial_2	flunitrazepam	130	KG00100683	Stomatitis NOS	0.02061069756746292
+trial_2	flunitrazepam	97	KG00104198	LIVER ENZYME ELEVATED	0.02060464210808277

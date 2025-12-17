@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.19262950122356415
+trial_1	placebo	9	KG00098432	Confusion NOS	0.16443899273872375
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15719445049762726
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12714771926403046
+trial_1	placebo	46	KG00099121	Headache NOS	0.11229780316352844
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10842863470315933
+trial_1	placebo	21	KG00098675	dyspnoea	0.09127973020076752
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0902651697397232
+trial_1	placebo	68	KG00099901	nauseas	0.08656445890665054
+trial_1	placebo	20	KG00098540	dehydration	0.08538899570703506
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08381086587905884
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08247791975736618
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0787515640258789
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07730180025100708
+trial_1	placebo	228	KG00114657	Weight below normal	0.07451213151216507
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07237798720598221
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06964574754238129
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06461326032876968
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06377381831407547
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.060446251183748245
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05945447459816933
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05732249096035957
+trial_1	placebo	350	KG00106765	decreased platelet count	0.056930772960186005
+trial_1	placebo	29	KG00099354	hyponatraemia	0.056764889508485794
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.055577803403139114
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.05538049340248108
+trial_1	placebo	126	KG00100076	Pain NOS	0.054929107427597046
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05124959722161293
+trial_1	placebo	239	KG00100128	pareses	0.05005950480699539
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04951965808868408
+trial_1	placebo	85	KG00098474	coughs	0.046883679926395416
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04469628259539604
+trial_1	placebo	234	KG00098669	dysgeusias	0.044443268328905106
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04432030767202377
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04364824667572975
+trial_1	placebo	300	KG00101064	xerostomia	0.042963169515132904
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04231041669845581
+trial_1	placebo	102	KG00097916	anxieties	0.04184366390109062
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.041503217071294785
+trial_1	placebo	72	KG00103771	myalgias	0.041151318699121475
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.040852244943380356
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0406179316341877
+trial_1	placebo	5	KG00099169	haematuria	0.039418283849954605
+trial_1	placebo	114	KG00098933	fevers	0.03905646875500679
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03822242468595505
+trial_1	placebo	104	KG00097963	arthralgias	0.03816911205649376
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.037505801767110825
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03731132298707962
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.036113958805799484
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03563781455159187
+trial_1	placebo	242	KG00100855	tremors	0.034471914172172546
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03445634990930557
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03434216231107712
+trial_1	placebo	82	KG00097697	abdomen distended	0.03409101068973541
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03353775292634964
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03330738842487335
+trial_1	placebo	116	KG00098964	Pain in foot	0.032562341541051865
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03226089850068092
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03179604187607765
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03159839287400246
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03055456653237343
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.030525878071784973
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03039301373064518
+trial_1	placebo	121	KG00099190	haemorrhage	0.030269673094153404
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02978910505771637
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02957320027053356
+trial_1	placebo	66	KG00098642	drowsiness	0.029526250436902046
+trial_1	placebo	4	KG00098817	epistaxis	0.028965894132852554
+trial_1	placebo	186	KG00101431	creatinine increased	0.028555288910865784
+trial_1	placebo	136	KG00101582	Dry;skin	0.02820293791592121
+trial_1	placebo	262	KG00101199	agitation	0.027897756546735764
+trial_1	placebo	466	KG00101205	fall	0.027753178030252457
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.027517206966876984
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0271623432636261
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02704518288373947
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026627950370311737
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02629782445728779
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.026292691007256508
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02588038705289364
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02583073079586029
+trial_1	placebo	147	KG00098000	atelectases	0.02522975578904152
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.024933001026511192
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.024493157863616943
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024280045181512833
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.024019582197070122
+trial_1	placebo	269	KG00100399	pyaemia	0.023533392697572708
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.023390494287014008
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02294701524078846
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02294672653079033
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022696277126669884
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.022215325385332108
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022080862894654274
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021580377593636513
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.02133047580718994
+trial_1	placebo	382	KG00099200	haemorrhoids	0.021313749253749847
+trial_1	placebo	164	KG00108827	ileus colon	0.02126055210828781
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.021120652556419373
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021076766774058342
+trial_1	placebo	345	KG00103926	impairments memory	0.020719537511467934
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020707543939352036
+trial_2	flecainide	87	KG00098599	diarrhoea	0.19262950122356415
+trial_2	flecainide	9	KG00098432	Confusion NOS	0.16443899273872375
+trial_2	flecainide	17	KG00097991	Asthenia NOS	0.15719445049762726
+trial_2	flecainide	78	KG00099326	Hypertensive diseases	0.12714771926403046
+trial_2	flecainide	46	KG00099121	Headache NOS	0.11229780316352844
+trial_2	flecainide	123	KG00099351	hypokalaemia	0.10842863470315933
+trial_2	flecainide	21	KG00098675	dyspnoea	0.09127973020076752
+trial_2	flecainide	67	KG00098673	Dyspepsia, NOS	0.0902651697397232
+trial_2	flecainide	68	KG00099901	nauseas	0.08656445890665054
+trial_2	flecainide	20	KG00098540	dehydration	0.08538899570703506
+trial_2	flecainide	77	KG00098450	Constipation NOS	0.08381086587905884
+trial_2	flecainide	177	KG00099299	hyperglycaemia	0.08247791975736618
+trial_2	flecainide	173	KG00098172	Bronchopneumonia NOS	0.0787515640258789
+trial_2	flecainide	79	KG00100317	Insomnia, Primary	0.07730180025100708
+trial_2	flecainide	228	KG00114657	Weight below normal	0.07451213151216507
+trial_2	flecainide	49	KG00099902	nausea with vomiting	0.07237798720598221
+trial_2	flecainide	189	KG00101580	Alanine aminotransferase increase	0.06964574754238129
+trial_2	flecainide	188	KG00101579	Aspartate aminotransferase increase	0.06461326032876968
+trial_2	flecainide	37	KG00097696	Cramps, Abdominal	0.06377381831407547
+trial_2	flecainide	101	KG00097901	Anorexia NOS	0.060446251183748245
+trial_2	flecainide	64	KG00097734	Acrodermatitis, NOS	0.05945447459816933
+trial_2	flecainide	200	KG00098539	Disorders, Deglutition	0.05732249096035957
+trial_2	flecainide	350	KG00106765	decreased platelet count	0.056930772960186005
+trial_2	flecainide	29	KG00099354	hyponatraemia	0.056764889508485794
+trial_2	flecainide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.055577803403139114
+trial_2	flecainide	36	KG00106434	Vision, Blurring Of	0.05538049340248108
+trial_2	flecainide	126	KG00100076	Pain NOS	0.054929107427597046
+trial_2	flecainide	243	KG00100947	Micturition frequency increased	0.05124959722161293
+trial_2	flecainide	239	KG00100128	pareses	0.05005950480699539
+trial_2	flecainide	14	KG00097852	Anemia NOS	0.04951965808868408
+trial_2	flecainide	85	KG00098474	coughs	0.046883679926395416
+trial_2	flecainide	2	KG00100772	thrombocytopaenia	0.04469628259539604
+trial_2	flecainide	234	KG00098669	dysgeusias	0.044443268328905106
+trial_2	flecainide	180	KG00099363	Hypotension NOS	0.04432030767202377
+trial_2	flecainide	86	KG00098565	Depression, Mental	0.04364824667572975
+trial_2	flecainide	300	KG00101064	xerostomia	0.042963169515132904
+trial_2	flecainide	151	KG00098274	Infarction, Cerebral	0.04231041669845581
+trial_2	flecainide	102	KG00097916	anxieties	0.04184366390109062
+trial_2	flecainide	191	KG00104055	Biliverdin increased	0.041503217071294785
+trial_2	flecainide	72	KG00103771	myalgias	0.041151318699121475
+trial_2	flecainide	179	KG00099342	hypocalcaemia	0.040852244943380356
+trial_2	flecainide	18	KG00098307	Pain, Chest	0.0406179316341877
+trial_2	flecainide	5	KG00099169	haematuria	0.039418283849954605
+trial_2	flecainide	114	KG00098933	fevers	0.03905646875500679
+trial_2	flecainide	35	KG00101507	hypomagnesaemia	0.03822242468595505
+trial_2	flecainide	104	KG00097963	arthralgias	0.03816911205649376
+trial_2	flecainide	261	KG00101559	raised alkaline phosphatase	0.037505801767110825
+trial_2	flecainide	96	KG00101679	Unattended death NOS	0.03731132298707962
+trial_2	flecainide	28	KG00099347	hypoglycaemia	0.036113958805799484
+trial_2	flecainide	76	KG00100450	Respiratory insufficiency, NOS	0.03563781455159187
+trial_2	flecainide	242	KG00100855	tremors	0.034471914172172546
+trial_2	flecainide	249	KG00104430	hypoalbuminaemia	0.03445634990930557
+trial_2	flecainide	38	KG00098066	Binocular vision disorders	0.03434216231107712
+trial_2	flecainide	82	KG00097697	abdomen distended	0.03409101068973541
+trial_2	flecainide	132	KG00101045	Gain, Weight	0.03353775292634964
+trial_2	flecainide	130	KG00100683	Stomatitis NOS	0.03330738842487335
+trial_2	flecainide	116	KG00098964	Pain in foot	0.032562341541051865
+trial_2	flecainide	61	KG00099501	Chronic Kidney Failure	0.03226089850068092
+trial_2	flecainide	422	KG00101429	Creatine phosphokinase increased	0.03179604187607765
+trial_2	flecainide	69	KG00100082	Palpitations NOS	0.03159839287400246
+trial_2	flecainide	131	KG00100948	Urinary tract infection (& [NOS])	0.03055456653237343
+trial_2	flecainide	194	KG00110727	Neutrophil Count Decreased	0.030525878071784973
+trial_2	flecainide	27	KG00099303	hyperkalaemia	0.03039301373064518
+trial_2	flecainide	121	KG00099190	haemorrhage	0.030269673094153404
+trial_2	flecainide	221	KG00101207	peripheral oedema	0.02978910505771637
+trial_2	flecainide	355	KG00110857	lymphocyte count decreased	0.02957320027053356
+trial_2	flecainide	66	KG00098642	drowsiness	0.029526250436902046
+trial_2	flecainide	4	KG00098817	epistaxis	0.028965894132852554
+trial_2	flecainide	186	KG00101431	creatinine increased	0.028555288910865784
+trial_2	flecainide	136	KG00101582	Dry;skin	0.02820293791592121
+trial_2	flecainide	262	KG00101199	agitation	0.027897756546735764
+trial_2	flecainide	466	KG00101205	fall	0.027753178030252457
+trial_2	flecainide	218	KG00100801	Tinnitus NOS	0.027517206966876984
+trial_2	flecainide	30	KG00099500	Acute Kidney Failure	0.0271623432636261
+trial_2	flecainide	122	KG00099321	Hypersensitivity NOS	0.02704518288373947
+trial_2	flecainide	286	KG00101110	Retention, Urinary	0.026627950370311737
+trial_2	flecainide	396	KG00100373	Embolism, Pulmonary	0.02629782445728779
+trial_2	flecainide	288	KG00101223	hypophosphataemia	0.026292691007256508
+trial_2	flecainide	204	KG00098849	Esophagitis, Peptic	0.02588038705289364
+trial_2	flecainide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02583073079586029
+trial_2	flecainide	147	KG00098000	atelectases	0.02522975578904152
+trial_2	flecainide	22	KG00098705	Edema (NOS)	0.024933001026511192
+trial_2	flecainide	133	KG00101370	neuropathies sensory	0.024493157863616943
+trial_2	flecainide	154	KG00099686	Lymphopenias	0.024280045181512833
+trial_2	flecainide	256	KG00100738	Tachycardia, Sinus	0.024019582197070122
+trial_2	flecainide	269	KG00100399	pyaemia	0.023533392697572708
+trial_2	flecainide	356	KG00112623	Infectious Lung Disorders	0.023390494287014008
+trial_2	flecainide	139	KG00098855	Sinusitis, Ethmoid	0.02294701524078846
+trial_2	flecainide	441	KG00098262	cellulitis nos	0.02294672653079033
+trial_2	flecainide	211	KG00100341	Pruritus NOS	0.022696277126669884
+trial_2	flecainide	94	KG00103829	abdominal discomfort	0.022215325385332108
+trial_2	flecainide	144	KG00099610	Leukopenia NOS	0.022080862894654274
+trial_2	flecainide	1	KG00099959	Neutropenia NOS	0.021580377593636513
+trial_2	flecainide	89	KG00099301	Hyperhidrosis (disorder)	0.02133047580718994
+trial_2	flecainide	382	KG00099200	haemorrhoids	0.021313749253749847
+trial_2	flecainide	164	KG00108827	ileus colon	0.02126055210828781
+trial_2	flecainide	202	KG00098630	Disturbance of Skin Sensation	0.021120652556419373
+trial_2	flecainide	276	KG00099127	Arrest, Cardiac	0.021076766774058342
+trial_2	flecainide	345	KG00103926	impairments memory	0.020719537511467934
+trial_2	flecainide	508	KG00108565	blood glucose increased	0.020707543939352036

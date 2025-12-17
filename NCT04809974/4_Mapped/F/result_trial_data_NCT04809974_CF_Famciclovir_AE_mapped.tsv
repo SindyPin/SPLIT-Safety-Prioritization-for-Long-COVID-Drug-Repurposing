@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15290530025959015
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11639910936355591
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11483368277549744
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10145767033100128
+trial_1	placebo	20	KG00098540	dehydration	0.10113241523504257
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10031133145093918
+trial_1	placebo	21	KG00098675	dyspnoea	0.0808083787560463
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07749302685260773
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07324321568012238
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07058067619800568
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06422027200460434
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06420250982046127
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06382137537002563
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06278625130653381
+trial_1	placebo	68	KG00099901	nauseas	0.058479439467191696
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0570695586502552
+trial_1	placebo	228	KG00114657	Weight below normal	0.0563674159348011
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05623941868543625
+trial_1	placebo	29	KG00099354	hyponatraemia	0.055236540734767914
+trial_1	placebo	46	KG00099121	Headache NOS	0.055206868797540665
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.049656450748443604
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.047156304121017456
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04366246983408928
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0435844250023365
+trial_1	placebo	126	KG00100076	Pain NOS	0.04308444634079933
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04300806671380997
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.042218003422021866
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.041643090546131134
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.040816087275743484
+trial_1	placebo	239	KG00100128	pareses	0.040470752865076065
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0401114746928215
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.040058862417936325
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03998546302318573
+trial_1	placebo	5	KG00099169	haematuria	0.03966222703456879
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03951508179306984
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03935256227850914
+trial_1	placebo	147	KG00098000	atelectases	0.038753610104322433
+trial_1	placebo	114	KG00098933	fevers	0.037876542657613754
+trial_1	placebo	85	KG00098474	coughs	0.036945685744285583
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03665762022137642
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.036375705152750015
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03637009486556053
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03604433313012123
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03597937896847725
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03468078747391701
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03380224481225014
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03342772275209427
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03315594792366028
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03249576687812805
+trial_1	placebo	269	KG00100399	pyaemia	0.03178077191114426
+trial_1	placebo	104	KG00097963	arthralgias	0.030541501939296722
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.030225438997149467
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02983449399471283
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.029426004737615585
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.029167452827095985
+trial_1	placebo	234	KG00098669	dysgeusias	0.028602102771401405
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.028549624606966972
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.027664445340633392
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.027613423764705658
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02715902402997017
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.027116041630506516
+trial_1	placebo	72	KG00103771	myalgias	0.026860056445002556
+trial_1	placebo	121	KG00099190	haemorrhage	0.026815403252840042
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026717519387602806
+trial_1	placebo	164	KG00108827	ileus colon	0.02669302374124527
+trial_1	placebo	154	KG00099686	Lymphopenias	0.026259634643793106
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02623802423477173
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.025689521804451942
+trial_1	placebo	186	KG00101431	creatinine increased	0.0249317716807127
+trial_1	placebo	102	KG00097916	anxieties	0.02435349114239216
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02377908118069172
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.023257751017808914
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023243922740221024
+trial_1	placebo	441	KG00098262	cellulitis nos	0.023118283599615097
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.022931283339858055
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02275894396007061
+trial_1	placebo	82	KG00097697	abdomen distended	0.022022807970643044
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.021712616086006165
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02148464135825634
+trial_1	placebo	116	KG00098964	Pain in foot	0.021450845524668694
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020746514201164246
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.019655609503388405
+trial_1	placebo	136	KG00101582	Dry;skin	0.019604207947850227
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01956198923289776
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.019476503133773804
+trial_1	placebo	262	KG00101199	agitation	0.0190691240131855
+trial_1	placebo	212	KG00100576	shivers	0.018917754292488098
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01871129311621189
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.018663352355360985
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018462516367435455
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.018192801624536514
+trial_1	placebo	174	KG00098731	Embolism NOS	0.018097976222634315
+trial_1	placebo	100	KG00097815	alopecias	0.018059883266687393
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.017921505495905876
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01789161190390587
+trial_1	placebo	466	KG00101205	fall	0.017773455008864403
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01771687902510166
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.01753346063196659
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.017470937222242355
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.017418351024389267
+trial_2	famciclovir	87	KG00098599	diarrhoea	0.15290530025959015
+trial_2	famciclovir	177	KG00099299	hyperglycaemia	0.11639910936355591
+trial_2	famciclovir	78	KG00099326	Hypertensive diseases	0.11483368277549744
+trial_2	famciclovir	17	KG00097991	Asthenia NOS	0.10145767033100128
+trial_2	famciclovir	20	KG00098540	dehydration	0.10113241523504257
+trial_2	famciclovir	123	KG00099351	hypokalaemia	0.10031133145093918
+trial_2	famciclovir	21	KG00098675	dyspnoea	0.0808083787560463
+trial_2	famciclovir	9	KG00098432	Confusion NOS	0.07749302685260773
+trial_2	famciclovir	64	KG00097734	Acrodermatitis, NOS	0.07324321568012238
+trial_2	famciclovir	173	KG00098172	Bronchopneumonia NOS	0.07058067619800568
+trial_2	famciclovir	200	KG00098539	Disorders, Deglutition	0.06422027200460434
+trial_2	famciclovir	77	KG00098450	Constipation NOS	0.06420250982046127
+trial_2	famciclovir	37	KG00097696	Cramps, Abdominal	0.06382137537002563
+trial_2	famciclovir	14	KG00097852	Anemia NOS	0.06278625130653381
+trial_2	famciclovir	68	KG00099901	nauseas	0.058479439467191696
+trial_2	famciclovir	49	KG00099902	nausea with vomiting	0.0570695586502552
+trial_2	famciclovir	228	KG00114657	Weight below normal	0.0563674159348011
+trial_2	famciclovir	67	KG00098673	Dyspepsia, NOS	0.05623941868543625
+trial_2	famciclovir	29	KG00099354	hyponatraemia	0.055236540734767914
+trial_2	famciclovir	46	KG00099121	Headache NOS	0.055206868797540665
+trial_2	famciclovir	2	KG00100772	thrombocytopaenia	0.049656450748443604
+trial_2	famciclovir	189	KG00101580	Alanine aminotransferase increase	0.047156304121017456
+trial_2	famciclovir	350	KG00106765	decreased platelet count	0.04366246983408928
+trial_2	famciclovir	180	KG00099363	Hypotension NOS	0.0435844250023365
+trial_2	famciclovir	126	KG00100076	Pain NOS	0.04308444634079933
+trial_2	famciclovir	61	KG00099501	Chronic Kidney Failure	0.04300806671380997
+trial_2	famciclovir	188	KG00101579	Aspartate aminotransferase increase	0.042218003422021866
+trial_2	famciclovir	179	KG00099342	hypocalcaemia	0.041643090546131134
+trial_2	famciclovir	27	KG00099303	hyperkalaemia	0.040816087275743484
+trial_2	famciclovir	239	KG00100128	pareses	0.040470752865076065
+trial_2	famciclovir	28	KG00099347	hypoglycaemia	0.0401114746928215
+trial_2	famciclovir	151	KG00098274	Infarction, Cerebral	0.040058862417936325
+trial_2	famciclovir	76	KG00100450	Respiratory insufficiency, NOS	0.03998546302318573
+trial_2	famciclovir	5	KG00099169	haematuria	0.03966222703456879
+trial_2	famciclovir	79	KG00100317	Insomnia, Primary	0.03951508179306984
+trial_2	famciclovir	122	KG00099321	Hypersensitivity NOS	0.03935256227850914
+trial_2	famciclovir	147	KG00098000	atelectases	0.038753610104322433
+trial_2	famciclovir	114	KG00098933	fevers	0.037876542657613754
+trial_2	famciclovir	85	KG00098474	coughs	0.036945685744285583
+trial_2	famciclovir	86	KG00098565	Depression, Mental	0.03665762022137642
+trial_2	famciclovir	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.036375705152750015
+trial_2	famciclovir	101	KG00097901	Anorexia NOS	0.03637009486556053
+trial_2	famciclovir	396	KG00100373	Embolism, Pulmonary	0.03604433313012123
+trial_2	famciclovir	243	KG00100947	Micturition frequency increased	0.03597937896847725
+trial_2	famciclovir	30	KG00099500	Acute Kidney Failure	0.03468078747391701
+trial_2	famciclovir	131	KG00100948	Urinary tract infection (& [NOS])	0.03380224481225014
+trial_2	famciclovir	249	KG00104430	hypoalbuminaemia	0.03342772275209427
+trial_2	famciclovir	96	KG00101679	Unattended death NOS	0.03315594792366028
+trial_2	famciclovir	38	KG00098066	Binocular vision disorders	0.03249576687812805
+trial_2	famciclovir	269	KG00100399	pyaemia	0.03178077191114426
+trial_2	famciclovir	104	KG00097963	arthralgias	0.030541501939296722
+trial_2	famciclovir	142	KG00100923	Unspecified infectious and parasitic diseases	0.030225438997149467
+trial_2	famciclovir	194	KG00110727	Neutrophil Count Decreased	0.02983449399471283
+trial_2	famciclovir	35	KG00101507	hypomagnesaemia	0.029426004737615585
+trial_2	famciclovir	75	KG00100195	Dolens, Phlegmasia Alba	0.029167452827095985
+trial_2	famciclovir	234	KG00098669	dysgeusias	0.028602102771401405
+trial_2	famciclovir	261	KG00101559	raised alkaline phosphatase	0.028549624606966972
+trial_2	famciclovir	144	KG00099610	Leukopenia NOS	0.027664445340633392
+trial_2	famciclovir	1	KG00099959	Neutropenia NOS	0.027613423764705658
+trial_2	famciclovir	282	KG00099309	hypernatraemia	0.02715902402997017
+trial_2	famciclovir	130	KG00100683	Stomatitis NOS	0.027116041630506516
+trial_2	famciclovir	72	KG00103771	myalgias	0.026860056445002556
+trial_2	famciclovir	121	KG00099190	haemorrhage	0.026815403252840042
+trial_2	famciclovir	276	KG00099127	Arrest, Cardiac	0.026717519387602806
+trial_2	famciclovir	164	KG00108827	ileus colon	0.02669302374124527
+trial_2	famciclovir	154	KG00099686	Lymphopenias	0.026259634643793106
+trial_2	famciclovir	36	KG00106434	Vision, Blurring Of	0.02623802423477173
+trial_2	famciclovir	355	KG00110857	lymphocyte count decreased	0.025689521804451942
+trial_2	famciclovir	186	KG00101431	creatinine increased	0.0249317716807127
+trial_2	famciclovir	102	KG00097916	anxieties	0.02435349114239216
+trial_2	famciclovir	253	KG00100232	Pleural effusion NOS (disorder)	0.02377908118069172
+trial_2	famciclovir	288	KG00101223	hypophosphataemia	0.023257751017808914
+trial_2	famciclovir	191	KG00104055	Biliverdin increased	0.023243922740221024
+trial_2	famciclovir	441	KG00098262	cellulitis nos	0.023118283599615097
+trial_2	famciclovir	139	KG00098855	Sinusitis, Ethmoid	0.022931283339858055
+trial_2	famciclovir	18	KG00098307	Pain, Chest	0.02275894396007061
+trial_2	famciclovir	82	KG00097697	abdomen distended	0.022022807970643044
+trial_2	famciclovir	163	KG00104050	bowel obstructions small	0.021712616086006165
+trial_2	famciclovir	254	KG00100774	Thrombosis NOS	0.02148464135825634
+trial_2	famciclovir	116	KG00098964	Pain in foot	0.021450845524668694
+trial_2	famciclovir	69	KG00100082	Palpitations NOS	0.020746514201164246
+trial_2	famciclovir	31	KG00099872	Infarction, Myocardial	0.019655609503388405
+trial_2	famciclovir	136	KG00101582	Dry;skin	0.019604207947850227
+trial_2	famciclovir	361	KG00098004	Fibrillation, Atrial	0.01956198923289776
+trial_2	famciclovir	133	KG00101370	neuropathies sensory	0.019476503133773804
+trial_2	famciclovir	262	KG00101199	agitation	0.0190691240131855
+trial_2	famciclovir	212	KG00100576	shivers	0.018917754292488098
+trial_2	famciclovir	92	KG00100926	Infections, Upper Respiratory	0.01871129311621189
+trial_2	famciclovir	286	KG00101110	Retention, Urinary	0.018663352355360985
+trial_2	famciclovir	211	KG00100341	Pruritus NOS	0.018462516367435455
+trial_2	famciclovir	356	KG00112623	Infectious Lung Disorders	0.018192801624536514
+trial_2	famciclovir	174	KG00098731	Embolism NOS	0.018097976222634315
+trial_2	famciclovir	100	KG00097815	alopecias	0.018059883266687393
+trial_2	famciclovir	33	KG00100094	Pancreatitis NOS	0.017921505495905876
+trial_2	famciclovir	256	KG00100738	Tachycardia, Sinus	0.01789161190390587
+trial_2	famciclovir	466	KG00101205	fall	0.017773455008864403
+trial_2	famciclovir	221	KG00101207	peripheral oedema	0.01771687902510166
+trial_2	famciclovir	213	KG00100600	Infectious Skin Diseases	0.01753346063196659
+trial_2	famciclovir	371	KG00098517	Cystitis (NOS)	0.017470937222242355
+trial_2	famciclovir	246	KG00103338	Aspartate Aminotransferase Measurement	0.017418351024389267

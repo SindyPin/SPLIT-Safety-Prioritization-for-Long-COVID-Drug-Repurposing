@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20666030049324036
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.17939478158950806
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1500862091779709
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13987261056900024
+trial_1	placebo	68	KG00099901	nauseas	0.10320417582988739
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09543013572692871
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0941627100110054
+trial_1	placebo	228	KG00114657	Weight below normal	0.09390569478273392
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09321261942386627
+trial_1	placebo	46	KG00099121	Headache NOS	0.09264351427555084
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09110365062952042
+trial_1	placebo	21	KG00098675	dyspnoea	0.08970588445663452
+trial_1	placebo	20	KG00098540	dehydration	0.08634444326162338
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.08594059944152832
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08298832923173904
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08235181868076324
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07732590287923813
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06837120652198792
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06782334297895432
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06365042179822922
+trial_1	placebo	86	KG00098565	Depression, Mental	0.060809746384620667
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0552808977663517
+trial_1	placebo	85	KG00098474	coughs	0.05475778132677078
+trial_1	placebo	132	KG00101045	Gain, Weight	0.054074984043836594
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05406903102993965
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05043867975473404
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05011885240674019
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.050008222460746765
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04812106490135193
+trial_1	placebo	14	KG00097852	Anemia NOS	0.046004217118024826
+trial_1	placebo	234	KG00098669	dysgeusias	0.04564604163169861
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04522423818707466
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04507983848452568
+trial_1	placebo	126	KG00100076	Pain NOS	0.044556595385074615
+trial_1	placebo	104	KG00097963	arthralgias	0.04444144666194916
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.044162437319755554
+trial_1	placebo	114	KG00098933	fevers	0.0438501350581646
+trial_1	placebo	300	KG00101064	xerostomia	0.04370195046067238
+trial_1	placebo	239	KG00100128	pareses	0.043066710233688354
+trial_1	placebo	102	KG00097916	anxieties	0.040953587740659714
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.036722756922245026
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.035856373608112335
+trial_1	placebo	5	KG00099169	haematuria	0.03416503593325615
+trial_1	placebo	66	KG00098642	drowsiness	0.03405798226594925
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03386833518743515
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03256668150424957
+trial_1	placebo	262	KG00101199	agitation	0.03254278376698494
+trial_1	placebo	242	KG00100855	tremors	0.03240550309419632
+trial_1	placebo	72	KG00103771	myalgias	0.03226691484451294
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.032235294580459595
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03192060440778732
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.031466443091630936
+trial_1	placebo	116	KG00098964	Pain in foot	0.031081462278962135
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030993828549981117
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.030755620449781418
+trial_1	placebo	136	KG00101582	Dry;skin	0.03075266256928444
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030341453850269318
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030132796615362167
+trial_1	placebo	82	KG00097697	abdomen distended	0.029496485367417336
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.029398011043667793
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.028579773381352425
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.028437726199626923
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.027674760669469833
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027370279654860497
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027214540168642998
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02636907808482647
+trial_1	placebo	466	KG00101205	fall	0.02621246501803398
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026154404506087303
+trial_1	placebo	147	KG00098000	atelectases	0.026034777984023094
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.025683406740427017
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.025573404505848885
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.025257153436541557
+trial_1	placebo	345	KG00103926	impairments memory	0.02524721249938011
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024804381653666496
+trial_1	placebo	339	KG00100334	proteinurias	0.02475431002676487
+trial_1	placebo	186	KG00101431	creatinine increased	0.02427711896598339
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.024051055312156677
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024028176441788673
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.023700188845396042
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02361282892525196
+trial_1	placebo	221	KG00101207	peripheral oedema	0.022699523717164993
+trial_1	placebo	456	KG00099420	Influenzae	0.022442571818828583
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.022290388122200966
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02215602435171604
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02213945984840393
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02165931463241577
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02156044729053974
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.021469390019774437
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021327951923012733
+trial_1	placebo	269	KG00100399	pyaemia	0.02130809612572193
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02111133188009262
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02110803686082363
+trial_1	placebo	4	KG00098817	epistaxis	0.020754575729370117
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.020730463787913322
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0205680038779974
+trial_1	placebo	121	KG00099190	haemorrhage	0.02025812678039074
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.01988881826400757
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01987830176949501
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019759420305490494
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01973189041018486
+trial_2	fluvoxamine	87	KG00098599	diarrhoea	0.20666030049324036
+trial_2	fluvoxamine	17	KG00097991	Asthenia NOS	0.17939478158950806
+trial_2	fluvoxamine	9	KG00098432	Confusion NOS	0.1500862091779709
+trial_2	fluvoxamine	78	KG00099326	Hypertensive diseases	0.13987261056900024
+trial_2	fluvoxamine	68	KG00099901	nauseas	0.10320417582988739
+trial_2	fluvoxamine	177	KG00099299	hyperglycaemia	0.09543013572692871
+trial_2	fluvoxamine	173	KG00098172	Bronchopneumonia NOS	0.0941627100110054
+trial_2	fluvoxamine	228	KG00114657	Weight below normal	0.09390569478273392
+trial_2	fluvoxamine	64	KG00097734	Acrodermatitis, NOS	0.09321261942386627
+trial_2	fluvoxamine	46	KG00099121	Headache NOS	0.09264351427555084
+trial_2	fluvoxamine	79	KG00100317	Insomnia, Primary	0.09110365062952042
+trial_2	fluvoxamine	21	KG00098675	dyspnoea	0.08970588445663452
+trial_2	fluvoxamine	20	KG00098540	dehydration	0.08634444326162338
+trial_2	fluvoxamine	101	KG00097901	Anorexia NOS	0.08594059944152832
+trial_2	fluvoxamine	49	KG00099902	nausea with vomiting	0.08298832923173904
+trial_2	fluvoxamine	123	KG00099351	hypokalaemia	0.08235181868076324
+trial_2	fluvoxamine	77	KG00098450	Constipation NOS	0.07732590287923813
+trial_2	fluvoxamine	67	KG00098673	Dyspepsia, NOS	0.06837120652198792
+trial_2	fluvoxamine	37	KG00097696	Cramps, Abdominal	0.06782334297895432
+trial_2	fluvoxamine	189	KG00101580	Alanine aminotransferase increase	0.06365042179822922
+trial_2	fluvoxamine	86	KG00098565	Depression, Mental	0.060809746384620667
+trial_2	fluvoxamine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0552808977663517
+trial_2	fluvoxamine	85	KG00098474	coughs	0.05475778132677078
+trial_2	fluvoxamine	132	KG00101045	Gain, Weight	0.054074984043836594
+trial_2	fluvoxamine	200	KG00098539	Disorders, Deglutition	0.05406903102993965
+trial_2	fluvoxamine	29	KG00099354	hyponatraemia	0.05043867975473404
+trial_2	fluvoxamine	188	KG00101579	Aspartate aminotransferase increase	0.05011885240674019
+trial_2	fluvoxamine	243	KG00100947	Micturition frequency increased	0.050008222460746765
+trial_2	fluvoxamine	151	KG00098274	Infarction, Cerebral	0.04812106490135193
+trial_2	fluvoxamine	14	KG00097852	Anemia NOS	0.046004217118024826
+trial_2	fluvoxamine	234	KG00098669	dysgeusias	0.04564604163169861
+trial_2	fluvoxamine	350	KG00106765	decreased platelet count	0.04522423818707466
+trial_2	fluvoxamine	28	KG00099347	hypoglycaemia	0.04507983848452568
+trial_2	fluvoxamine	126	KG00100076	Pain NOS	0.044556595385074615
+trial_2	fluvoxamine	104	KG00097963	arthralgias	0.04444144666194916
+trial_2	fluvoxamine	36	KG00106434	Vision, Blurring Of	0.044162437319755554
+trial_2	fluvoxamine	114	KG00098933	fevers	0.0438501350581646
+trial_2	fluvoxamine	300	KG00101064	xerostomia	0.04370195046067238
+trial_2	fluvoxamine	239	KG00100128	pareses	0.043066710233688354
+trial_2	fluvoxamine	102	KG00097916	anxieties	0.040953587740659714
+trial_2	fluvoxamine	76	KG00100450	Respiratory insufficiency, NOS	0.036722756922245026
+trial_2	fluvoxamine	139	KG00098855	Sinusitis, Ethmoid	0.035856373608112335
+trial_2	fluvoxamine	5	KG00099169	haematuria	0.03416503593325615
+trial_2	fluvoxamine	66	KG00098642	drowsiness	0.03405798226594925
+trial_2	fluvoxamine	2	KG00100772	thrombocytopaenia	0.03386833518743515
+trial_2	fluvoxamine	96	KG00101679	Unattended death NOS	0.03256668150424957
+trial_2	fluvoxamine	262	KG00101199	agitation	0.03254278376698494
+trial_2	fluvoxamine	242	KG00100855	tremors	0.03240550309419632
+trial_2	fluvoxamine	72	KG00103771	myalgias	0.03226691484451294
+trial_2	fluvoxamine	191	KG00104055	Biliverdin increased	0.032235294580459595
+trial_2	fluvoxamine	261	KG00101559	raised alkaline phosphatase	0.03192060440778732
+trial_2	fluvoxamine	61	KG00099501	Chronic Kidney Failure	0.031466443091630936
+trial_2	fluvoxamine	116	KG00098964	Pain in foot	0.031081462278962135
+trial_2	fluvoxamine	131	KG00100948	Urinary tract infection (& [NOS])	0.030993828549981117
+trial_2	fluvoxamine	180	KG00099363	Hypotension NOS	0.030755620449781418
+trial_2	fluvoxamine	136	KG00101582	Dry;skin	0.03075266256928444
+trial_2	fluvoxamine	130	KG00100683	Stomatitis NOS	0.030341453850269318
+trial_2	fluvoxamine	18	KG00098307	Pain, Chest	0.030132796615362167
+trial_2	fluvoxamine	82	KG00097697	abdomen distended	0.029496485367417336
+trial_2	fluvoxamine	122	KG00099321	Hypersensitivity NOS	0.029398011043667793
+trial_2	fluvoxamine	179	KG00099342	hypocalcaemia	0.028579773381352425
+trial_2	fluvoxamine	38	KG00098066	Binocular vision disorders	0.028437726199626923
+trial_2	fluvoxamine	69	KG00100082	Palpitations NOS	0.027674760669469833
+trial_2	fluvoxamine	194	KG00110727	Neutrophil Count Decreased	0.027370279654860497
+trial_2	fluvoxamine	355	KG00110857	lymphocyte count decreased	0.027214540168642998
+trial_2	fluvoxamine	204	KG00098849	Esophagitis, Peptic	0.02636907808482647
+trial_2	fluvoxamine	466	KG00101205	fall	0.02621246501803398
+trial_2	fluvoxamine	92	KG00100926	Infections, Upper Respiratory	0.026154404506087303
+trial_2	fluvoxamine	147	KG00098000	atelectases	0.026034777984023094
+trial_2	fluvoxamine	297	KG00099294	hypercholesterolaemia	0.025683406740427017
+trial_2	fluvoxamine	199	KG00098371	Rhinitis (chronic) NOS	0.025573404505848885
+trial_2	fluvoxamine	30	KG00099500	Acute Kidney Failure	0.025257153436541557
+trial_2	fluvoxamine	345	KG00103926	impairments memory	0.02524721249938011
+trial_2	fluvoxamine	154	KG00099686	Lymphopenias	0.024804381653666496
+trial_2	fluvoxamine	339	KG00100334	proteinurias	0.02475431002676487
+trial_2	fluvoxamine	186	KG00101431	creatinine increased	0.02427711896598339
+trial_2	fluvoxamine	422	KG00101429	Creatine phosphokinase increased	0.024051055312156677
+trial_2	fluvoxamine	249	KG00104430	hypoalbuminaemia	0.024028176441788673
+trial_2	fluvoxamine	27	KG00099303	hyperkalaemia	0.023700188845396042
+trial_2	fluvoxamine	396	KG00100373	Embolism, Pulmonary	0.02361282892525196
+trial_2	fluvoxamine	221	KG00101207	peripheral oedema	0.022699523717164993
+trial_2	fluvoxamine	456	KG00099420	Influenzae	0.022442571818828583
+trial_2	fluvoxamine	218	KG00100801	Tinnitus NOS	0.022290388122200966
+trial_2	fluvoxamine	288	KG00101223	hypophosphataemia	0.02215602435171604
+trial_2	fluvoxamine	35	KG00101507	hypomagnesaemia	0.02213945984840393
+trial_2	fluvoxamine	356	KG00112623	Infectious Lung Disorders	0.02165931463241577
+trial_2	fluvoxamine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02156044729053974
+trial_2	fluvoxamine	89	KG00099301	Hyperhidrosis (disorder)	0.021469390019774437
+trial_2	fluvoxamine	508	KG00108565	blood glucose increased	0.021327951923012733
+trial_2	fluvoxamine	269	KG00100399	pyaemia	0.02130809612572193
+trial_2	fluvoxamine	118	KG00099011	Gastritis NOS	0.02111133188009262
+trial_2	fluvoxamine	441	KG00098262	cellulitis nos	0.02110803686082363
+trial_2	fluvoxamine	4	KG00098817	epistaxis	0.020754575729370117
+trial_2	fluvoxamine	138	KG00098796	epidemic vomiting syndrome	0.020730463787913322
+trial_2	fluvoxamine	286	KG00101110	Retention, Urinary	0.0205680038779974
+trial_2	fluvoxamine	121	KG00099190	haemorrhage	0.02025812678039074
+trial_2	fluvoxamine	341	KG00101472	Gamma-glutamyltransferase increased	0.01988881826400757
+trial_2	fluvoxamine	211	KG00100341	Pruritus NOS	0.01987830176949501
+trial_2	fluvoxamine	11	KG00097993	Asthma NOS	0.019759420305490494
+trial_2	fluvoxamine	195	KG00097814	Atopic Rhinitis	0.01973189041018486

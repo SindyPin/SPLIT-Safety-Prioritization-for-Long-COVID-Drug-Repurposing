@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12013227492570877
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09705295413732529
+trial_1	placebo	87	KG00098599	diarrhoea	0.09222327917814255
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0881885290145874
+trial_1	placebo	21	KG00098675	dyspnoea	0.08365578204393387
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07529163360595703
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06951630860567093
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06707703322172165
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06690533459186554
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06448321044445038
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06250940263271332
+trial_1	placebo	46	KG00099121	Headache NOS	0.061437178403139114
+trial_1	placebo	77	KG00098450	Constipation NOS	0.059333376586437225
+trial_1	placebo	20	KG00098540	dehydration	0.056357551366090775
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05222488194704056
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.050845615565776825
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04975138604640961
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.047471657395362854
+trial_1	placebo	350	KG00106765	decreased platelet count	0.047321077436208725
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.047026604413986206
+trial_1	placebo	126	KG00100076	Pain NOS	0.04559044539928436
+trial_1	placebo	114	KG00098933	fevers	0.045514754951000214
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.04536040499806404
+trial_1	placebo	68	KG00099901	nauseas	0.04488387703895569
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04422789439558983
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04146266356110573
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04021785408258438
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03960016742348671
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03943786025047302
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.039059557020664215
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03880215063691139
+trial_1	placebo	228	KG00114657	Weight below normal	0.0381946824491024
+trial_1	placebo	5	KG00099169	haematuria	0.03803202882409096
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03773234412074089
+trial_1	placebo	147	KG00098000	atelectases	0.03723582997918129
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03706099092960358
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03641035407781601
+trial_1	placebo	85	KG00098474	coughs	0.03617997094988823
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.036167800426483154
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03569604456424713
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03474264219403267
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.034683164209127426
+trial_1	placebo	104	KG00097963	arthralgias	0.034644607454538345
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03445994108915329
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0342610664665699
+trial_1	placebo	239	KG00100128	pareses	0.03350134938955307
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03210810199379921
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.031577643007040024
+trial_1	placebo	269	KG00100399	pyaemia	0.03140111267566681
+trial_1	placebo	72	KG00103771	myalgias	0.03099185600876808
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030908659100532532
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030101576820015907
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02936834841966629
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02929002232849598
+trial_1	placebo	116	KG00098964	Pain in foot	0.029185127466917038
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.028501423075795174
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.028230084106326103
+trial_1	placebo	466	KG00101205	fall	0.02802325040102005
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.027545275166630745
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027316173538565636
+trial_1	placebo	121	KG00099190	haemorrhage	0.025944067165255547
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025826945900917053
+trial_1	placebo	262	KG00101199	agitation	0.02512524649500847
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025095714256167412
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025012070313096046
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02432592213153839
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02390069141983986
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02382466197013855
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02239552140235901
+trial_1	placebo	132	KG00101045	Gain, Weight	0.022215979173779488
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022108644247055054
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021964218467473984
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021797701716423035
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02178797498345375
+trial_1	placebo	234	KG00098669	dysgeusias	0.02153800241649151
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.021515047177672386
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02137043885886669
+trial_1	placebo	102	KG00097916	anxieties	0.021248498931527138
+trial_1	placebo	221	KG00101207	peripheral oedema	0.020950036123394966
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.020764879882335663
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.020754119381308556
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020652618259191513
+trial_1	placebo	503	KG00102612	low haemoglobin	0.020615259185433388
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.020490344613790512
+trial_1	placebo	186	KG00101431	creatinine increased	0.020096618682146072
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020057592540979385
+trial_1	placebo	164	KG00108827	ileus colon	0.019805528223514557
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01958407834172249
+trial_1	placebo	25	KG00099134	congestive failures heart	0.019522788003087044
+trial_1	placebo	82	KG00097697	abdomen distended	0.01944611594080925
+trial_1	placebo	4	KG00098817	epistaxis	0.01918768882751465
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.019111843779683113
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018808936700224876
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.018364308401942253
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.018205763772130013
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017990311607718468
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01781488209962845
+trial_1	placebo	339	KG00100334	proteinurias	0.01778961904346943
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01775498501956463
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01760215498507023
+trial_2	flavin mononucleotide	78	KG00099326	Hypertensive diseases	0.12013227492570877
+trial_2	flavin mononucleotide	173	KG00098172	Bronchopneumonia NOS	0.09705295413732529
+trial_2	flavin mononucleotide	87	KG00098599	diarrhoea	0.09222327917814255
+trial_2	flavin mononucleotide	177	KG00099299	hyperglycaemia	0.0881885290145874
+trial_2	flavin mononucleotide	21	KG00098675	dyspnoea	0.08365578204393387
+trial_2	flavin mononucleotide	14	KG00097852	Anemia NOS	0.07529163360595703
+trial_2	flavin mononucleotide	123	KG00099351	hypokalaemia	0.06951630860567093
+trial_2	flavin mononucleotide	9	KG00098432	Confusion NOS	0.06707703322172165
+trial_2	flavin mononucleotide	2	KG00100772	thrombocytopaenia	0.06690533459186554
+trial_2	flavin mononucleotide	17	KG00097991	Asthenia NOS	0.06448321044445038
+trial_2	flavin mononucleotide	37	KG00097696	Cramps, Abdominal	0.06250940263271332
+trial_2	flavin mononucleotide	46	KG00099121	Headache NOS	0.061437178403139114
+trial_2	flavin mononucleotide	77	KG00098450	Constipation NOS	0.059333376586437225
+trial_2	flavin mononucleotide	20	KG00098540	dehydration	0.056357551366090775
+trial_2	flavin mononucleotide	200	KG00098539	Disorders, Deglutition	0.05222488194704056
+trial_2	flavin mononucleotide	67	KG00098673	Dyspepsia, NOS	0.050845615565776825
+trial_2	flavin mononucleotide	61	KG00099501	Chronic Kidney Failure	0.04975138604640961
+trial_2	flavin mononucleotide	76	KG00100450	Respiratory insufficiency, NOS	0.047471657395362854
+trial_2	flavin mononucleotide	350	KG00106765	decreased platelet count	0.047321077436208725
+trial_2	flavin mononucleotide	189	KG00101580	Alanine aminotransferase increase	0.047026604413986206
+trial_2	flavin mononucleotide	126	KG00100076	Pain NOS	0.04559044539928436
+trial_2	flavin mononucleotide	114	KG00098933	fevers	0.045514754951000214
+trial_2	flavin mononucleotide	79	KG00100317	Insomnia, Primary	0.04536040499806404
+trial_2	flavin mononucleotide	68	KG00099901	nauseas	0.04488387703895569
+trial_2	flavin mononucleotide	151	KG00098274	Infarction, Cerebral	0.04422789439558983
+trial_2	flavin mononucleotide	49	KG00099902	nausea with vomiting	0.04146266356110573
+trial_2	flavin mononucleotide	28	KG00099347	hypoglycaemia	0.04021785408258438
+trial_2	flavin mononucleotide	29	KG00099354	hyponatraemia	0.03960016742348671
+trial_2	flavin mononucleotide	64	KG00097734	Acrodermatitis, NOS	0.03943786025047302
+trial_2	flavin mononucleotide	96	KG00101679	Unattended death NOS	0.039059557020664215
+trial_2	flavin mononucleotide	188	KG00101579	Aspartate aminotransferase increase	0.03880215063691139
+trial_2	flavin mononucleotide	228	KG00114657	Weight below normal	0.0381946824491024
+trial_2	flavin mononucleotide	5	KG00099169	haematuria	0.03803202882409096
+trial_2	flavin mononucleotide	86	KG00098565	Depression, Mental	0.03773234412074089
+trial_2	flavin mononucleotide	147	KG00098000	atelectases	0.03723582997918129
+trial_2	flavin mononucleotide	396	KG00100373	Embolism, Pulmonary	0.03706099092960358
+trial_2	flavin mononucleotide	180	KG00099363	Hypotension NOS	0.03641035407781601
+trial_2	flavin mononucleotide	85	KG00098474	coughs	0.03617997094988823
+trial_2	flavin mononucleotide	30	KG00099500	Acute Kidney Failure	0.036167800426483154
+trial_2	flavin mononucleotide	243	KG00100947	Micturition frequency increased	0.03569604456424713
+trial_2	flavin mononucleotide	276	KG00099127	Arrest, Cardiac	0.03474264219403267
+trial_2	flavin mononucleotide	144	KG00099610	Leukopenia NOS	0.034683164209127426
+trial_2	flavin mononucleotide	104	KG00097963	arthralgias	0.034644607454538345
+trial_2	flavin mononucleotide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03445994108915329
+trial_2	flavin mononucleotide	131	KG00100948	Urinary tract infection (& [NOS])	0.0342610664665699
+trial_2	flavin mononucleotide	239	KG00100128	pareses	0.03350134938955307
+trial_2	flavin mononucleotide	27	KG00099303	hyperkalaemia	0.03210810199379921
+trial_2	flavin mononucleotide	194	KG00110727	Neutrophil Count Decreased	0.031577643007040024
+trial_2	flavin mononucleotide	269	KG00100399	pyaemia	0.03140111267566681
+trial_2	flavin mononucleotide	72	KG00103771	myalgias	0.03099185600876808
+trial_2	flavin mononucleotide	179	KG00099342	hypocalcaemia	0.030908659100532532
+trial_2	flavin mononucleotide	18	KG00098307	Pain, Chest	0.030101576820015907
+trial_2	flavin mononucleotide	441	KG00098262	cellulitis nos	0.02936834841966629
+trial_2	flavin mononucleotide	122	KG00099321	Hypersensitivity NOS	0.02929002232849598
+trial_2	flavin mononucleotide	116	KG00098964	Pain in foot	0.029185127466917038
+trial_2	flavin mononucleotide	1	KG00099959	Neutropenia NOS	0.028501423075795174
+trial_2	flavin mononucleotide	139	KG00098855	Sinusitis, Ethmoid	0.028230084106326103
+trial_2	flavin mononucleotide	466	KG00101205	fall	0.02802325040102005
+trial_2	flavin mononucleotide	75	KG00100195	Dolens, Phlegmasia Alba	0.027545275166630745
+trial_2	flavin mononucleotide	361	KG00098004	Fibrillation, Atrial	0.027316173538565636
+trial_2	flavin mononucleotide	121	KG00099190	haemorrhage	0.025944067165255547
+trial_2	flavin mononucleotide	69	KG00100082	Palpitations NOS	0.025826945900917053
+trial_2	flavin mononucleotide	262	KG00101199	agitation	0.02512524649500847
+trial_2	flavin mononucleotide	142	KG00100923	Unspecified infectious and parasitic diseases	0.025095714256167412
+trial_2	flavin mononucleotide	282	KG00099309	hypernatraemia	0.025012070313096046
+trial_2	flavin mononucleotide	38	KG00098066	Binocular vision disorders	0.02432592213153839
+trial_2	flavin mononucleotide	253	KG00100232	Pleural effusion NOS (disorder)	0.02390069141983986
+trial_2	flavin mononucleotide	11	KG00097993	Asthma NOS	0.02382466197013855
+trial_2	flavin mononucleotide	92	KG00100926	Infections, Upper Respiratory	0.02239552140235901
+trial_2	flavin mononucleotide	132	KG00101045	Gain, Weight	0.022215979173779488
+trial_2	flavin mononucleotide	508	KG00108565	blood glucose increased	0.022108644247055054
+trial_2	flavin mononucleotide	31	KG00099872	Infarction, Myocardial	0.021964218467473984
+trial_2	flavin mononucleotide	15	KG00097882	Angina pectoris NOS	0.021797701716423035
+trial_2	flavin mononucleotide	97	KG00104198	LIVER ENZYME ELEVATED	0.02178797498345375
+trial_2	flavin mononucleotide	234	KG00098669	dysgeusias	0.02153800241649151
+trial_2	flavin mononucleotide	268	KG00099557	Heart Failure, Left-Sided	0.021515047177672386
+trial_2	flavin mononucleotide	204	KG00098849	Esophagitis, Peptic	0.02137043885886669
+trial_2	flavin mononucleotide	102	KG00097916	anxieties	0.021248498931527138
+trial_2	flavin mononucleotide	221	KG00101207	peripheral oedema	0.020950036123394966
+trial_2	flavin mononucleotide	355	KG00110857	lymphocyte count decreased	0.020764879882335663
+trial_2	flavin mononucleotide	98	KG00097718	Incised wound, NOS	0.020754119381308556
+trial_2	flavin mononucleotide	154	KG00099686	Lymphopenias	0.020652618259191513
+trial_2	flavin mononucleotide	503	KG00102612	low haemoglobin	0.020615259185433388
+trial_2	flavin mononucleotide	101	KG00097901	Anorexia NOS	0.020490344613790512
+trial_2	flavin mononucleotide	186	KG00101431	creatinine increased	0.020096618682146072
+trial_2	flavin mononucleotide	261	KG00101559	raised alkaline phosphatase	0.020057592540979385
+trial_2	flavin mononucleotide	164	KG00108827	ileus colon	0.019805528223514557
+trial_2	flavin mononucleotide	191	KG00104055	Biliverdin increased	0.01958407834172249
+trial_2	flavin mononucleotide	25	KG00099134	congestive failures heart	0.019522788003087044
+trial_2	flavin mononucleotide	82	KG00097697	abdomen distended	0.01944611594080925
+trial_2	flavin mononucleotide	4	KG00098817	epistaxis	0.01918768882751465
+trial_2	flavin mononucleotide	33	KG00100094	Pancreatitis NOS	0.019111843779683113
+trial_2	flavin mononucleotide	249	KG00104430	hypoalbuminaemia	0.018808936700224876
+trial_2	flavin mononucleotide	394	KG00100243	Pneumonia, Aspiration	0.018364308401942253
+trial_2	flavin mononucleotide	163	KG00104050	bowel obstructions small	0.018205763772130013
+trial_2	flavin mononucleotide	138	KG00098796	epidemic vomiting syndrome	0.017990311607718468
+trial_2	flavin mononucleotide	288	KG00101223	hypophosphataemia	0.01781488209962845
+trial_2	flavin mononucleotide	339	KG00100334	proteinurias	0.01778961904346943
+trial_2	flavin mononucleotide	286	KG00101110	Retention, Urinary	0.01775498501956463
+trial_2	flavin mononucleotide	454	KG00098286	Pain, Neck	0.01760215498507023

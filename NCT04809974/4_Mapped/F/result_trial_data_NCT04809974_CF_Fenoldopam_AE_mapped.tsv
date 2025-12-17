@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1541493833065033
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09758289903402328
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09134388715028763
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08710784465074539
+trial_1	placebo	20	KG00098540	dehydration	0.0851784348487854
+trial_1	placebo	87	KG00098599	diarrhoea	0.0840316191315651
+trial_1	placebo	46	KG00099121	Headache NOS	0.0835188627243042
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07688616216182709
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07375224679708481
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07026896625757217
+trial_1	placebo	21	KG00098675	dyspnoea	0.06754565238952637
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05806878209114075
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05696619302034378
+trial_1	placebo	77	KG00098450	Constipation NOS	0.056930866092443466
+trial_1	placebo	121	KG00099190	haemorrhage	0.056075554341077805
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.054255563765764236
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05212576314806938
+trial_1	placebo	126	KG00100076	Pain NOS	0.051347821950912476
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04959210380911827
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.048821453005075455
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04801231995224953
+trial_1	placebo	68	KG00099901	nauseas	0.04751012101769447
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.047135546803474426
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.045633986592292786
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04484477639198303
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0446581095457077
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.044549886137247086
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.043895043432712555
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04325462505221367
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04230619594454765
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0422840416431427
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.041228923946619034
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.040194910019636154
+trial_1	placebo	114	KG00098933	fevers	0.04014115408062935
+trial_1	placebo	147	KG00098000	atelectases	0.03973715007305145
+trial_1	placebo	228	KG00114657	Weight below normal	0.0393705889582634
+trial_1	placebo	164	KG00108827	ileus colon	0.03831815347075462
+trial_1	placebo	14	KG00097852	Anemia NOS	0.038072481751441956
+trial_1	placebo	85	KG00098474	coughs	0.038040127605199814
+trial_1	placebo	5	KG00099169	haematuria	0.03683454915881157
+trial_1	placebo	239	KG00100128	pareses	0.036770064383745193
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03583794832229614
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03511107712984085
+trial_1	placebo	102	KG00097916	anxieties	0.03495338559150696
+trial_1	placebo	104	KG00097963	arthralgias	0.03454696759581566
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03421406075358391
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03325129300355911
+trial_1	placebo	282	KG00099309	hypernatraemia	0.033128175884485245
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.032892487943172455
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03272619470953941
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.032399583607912064
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0323137603700161
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.031978216022253036
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.030541928485035896
+trial_1	placebo	132	KG00101045	Gain, Weight	0.029185466468334198
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02913806028664112
+trial_1	placebo	269	KG00100399	pyaemia	0.028942404314875603
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.028464600443840027
+trial_1	placebo	262	KG00101199	agitation	0.028028026223182678
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02701534330844879
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02613738924264908
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02572190947830677
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02549799531698227
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02485542744398117
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.024710211902856827
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.024628382176160812
+trial_1	placebo	466	KG00101205	fall	0.02450767531991005
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02441900037229061
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024293499067425728
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.024288875982165337
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024002600461244583
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02398735098540783
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02349206991493702
+trial_1	placebo	242	KG00100855	tremors	0.023246396332979202
+trial_1	placebo	66	KG00098642	drowsiness	0.023072484880685806
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02299346961081028
+trial_1	placebo	72	KG00103771	myalgias	0.02280714176595211
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02260407619178295
+trial_1	placebo	116	KG00098964	Pain in foot	0.0224625077098608
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021887820214033127
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02185259759426117
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02091119810938835
+trial_1	placebo	25	KG00099134	congestive failures heart	0.02035483345389366
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02031349018216133
+trial_1	placebo	339	KG00100334	proteinurias	0.020287329331040382
+trial_1	placebo	157	KG00098149	Metabolic Brain Diseases	0.02026488073170185
+trial_1	placebo	174	KG00098731	Embolism NOS	0.020186031237244606
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02017842046916485
+trial_1	placebo	713	KG00107657	distressed respiratory	0.02008049003779888
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019910911098122597
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.019569339230656624
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.019478265196084976
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01946190744638443
+trial_1	placebo	425	KG00098146	Chronic Brain Damage	0.019177163019776344
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019083296880126
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01870228722691536
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01869778335094452
+trial_1	placebo	186	KG00101431	creatinine increased	0.01858910731971264
+trial_1	placebo	508	KG00108565	blood glucose increased	0.018559085205197334
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01851750910282135
+trial_2	fenoldopam	78	KG00099326	Hypertensive diseases	0.1541493833065033
+trial_2	fenoldopam	123	KG00099351	hypokalaemia	0.09758289903402328
+trial_2	fenoldopam	9	KG00098432	Confusion NOS	0.09134388715028763
+trial_2	fenoldopam	177	KG00099299	hyperglycaemia	0.08710784465074539
+trial_2	fenoldopam	20	KG00098540	dehydration	0.0851784348487854
+trial_2	fenoldopam	87	KG00098599	diarrhoea	0.0840316191315651
+trial_2	fenoldopam	46	KG00099121	Headache NOS	0.0835188627243042
+trial_2	fenoldopam	180	KG00099363	Hypotension NOS	0.07688616216182709
+trial_2	fenoldopam	17	KG00097991	Asthenia NOS	0.07375224679708481
+trial_2	fenoldopam	173	KG00098172	Bronchopneumonia NOS	0.07026896625757217
+trial_2	fenoldopam	21	KG00098675	dyspnoea	0.06754565238952637
+trial_2	fenoldopam	29	KG00099354	hyponatraemia	0.05806878209114075
+trial_2	fenoldopam	49	KG00099902	nausea with vomiting	0.05696619302034378
+trial_2	fenoldopam	77	KG00098450	Constipation NOS	0.056930866092443466
+trial_2	fenoldopam	121	KG00099190	haemorrhage	0.056075554341077805
+trial_2	fenoldopam	76	KG00100450	Respiratory insufficiency, NOS	0.054255563765764236
+trial_2	fenoldopam	200	KG00098539	Disorders, Deglutition	0.05212576314806938
+trial_2	fenoldopam	126	KG00100076	Pain NOS	0.051347821950912476
+trial_2	fenoldopam	350	KG00106765	decreased platelet count	0.04959210380911827
+trial_2	fenoldopam	179	KG00099342	hypocalcaemia	0.048821453005075455
+trial_2	fenoldopam	96	KG00101679	Unattended death NOS	0.04801231995224953
+trial_2	fenoldopam	68	KG00099901	nauseas	0.04751012101769447
+trial_2	fenoldopam	27	KG00099303	hyperkalaemia	0.047135546803474426
+trial_2	fenoldopam	151	KG00098274	Infarction, Cerebral	0.045633986592292786
+trial_2	fenoldopam	28	KG00099347	hypoglycaemia	0.04484477639198303
+trial_2	fenoldopam	61	KG00099501	Chronic Kidney Failure	0.0446581095457077
+trial_2	fenoldopam	79	KG00100317	Insomnia, Primary	0.044549886137247086
+trial_2	fenoldopam	67	KG00098673	Dyspepsia, NOS	0.043895043432712555
+trial_2	fenoldopam	189	KG00101580	Alanine aminotransferase increase	0.04325462505221367
+trial_2	fenoldopam	30	KG00099500	Acute Kidney Failure	0.04230619594454765
+trial_2	fenoldopam	188	KG00101579	Aspartate aminotransferase increase	0.0422840416431427
+trial_2	fenoldopam	37	KG00097696	Cramps, Abdominal	0.041228923946619034
+trial_2	fenoldopam	35	KG00101507	hypomagnesaemia	0.040194910019636154
+trial_2	fenoldopam	114	KG00098933	fevers	0.04014115408062935
+trial_2	fenoldopam	147	KG00098000	atelectases	0.03973715007305145
+trial_2	fenoldopam	228	KG00114657	Weight below normal	0.0393705889582634
+trial_2	fenoldopam	164	KG00108827	ileus colon	0.03831815347075462
+trial_2	fenoldopam	14	KG00097852	Anemia NOS	0.038072481751441956
+trial_2	fenoldopam	85	KG00098474	coughs	0.038040127605199814
+trial_2	fenoldopam	5	KG00099169	haematuria	0.03683454915881157
+trial_2	fenoldopam	239	KG00100128	pareses	0.036770064383745193
+trial_2	fenoldopam	2	KG00100772	thrombocytopaenia	0.03583794832229614
+trial_2	fenoldopam	142	KG00100923	Unspecified infectious and parasitic diseases	0.03511107712984085
+trial_2	fenoldopam	102	KG00097916	anxieties	0.03495338559150696
+trial_2	fenoldopam	104	KG00097963	arthralgias	0.03454696759581566
+trial_2	fenoldopam	18	KG00098307	Pain, Chest	0.03421406075358391
+trial_2	fenoldopam	86	KG00098565	Depression, Mental	0.03325129300355911
+trial_2	fenoldopam	282	KG00099309	hypernatraemia	0.033128175884485245
+trial_2	fenoldopam	122	KG00099321	Hypersensitivity NOS	0.032892487943172455
+trial_2	fenoldopam	243	KG00100947	Micturition frequency increased	0.03272619470953941
+trial_2	fenoldopam	22	KG00098705	Edema (NOS)	0.032399583607912064
+trial_2	fenoldopam	64	KG00097734	Acrodermatitis, NOS	0.0323137603700161
+trial_2	fenoldopam	276	KG00099127	Arrest, Cardiac	0.031978216022253036
+trial_2	fenoldopam	253	KG00100232	Pleural effusion NOS (disorder)	0.030541928485035896
+trial_2	fenoldopam	132	KG00101045	Gain, Weight	0.029185466468334198
+trial_2	fenoldopam	69	KG00100082	Palpitations NOS	0.02913806028664112
+trial_2	fenoldopam	269	KG00100399	pyaemia	0.028942404314875603
+trial_2	fenoldopam	249	KG00104430	hypoalbuminaemia	0.028464600443840027
+trial_2	fenoldopam	262	KG00101199	agitation	0.028028026223182678
+trial_2	fenoldopam	31	KG00099872	Infarction, Myocardial	0.02701534330844879
+trial_2	fenoldopam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02613738924264908
+trial_2	fenoldopam	101	KG00097901	Anorexia NOS	0.02572190947830677
+trial_2	fenoldopam	394	KG00100243	Pneumonia, Aspiration	0.02549799531698227
+trial_2	fenoldopam	254	KG00100774	Thrombosis NOS	0.02485542744398117
+trial_2	fenoldopam	286	KG00101110	Retention, Urinary	0.024710211902856827
+trial_2	fenoldopam	256	KG00100738	Tachycardia, Sinus	0.024628382176160812
+trial_2	fenoldopam	466	KG00101205	fall	0.02450767531991005
+trial_2	fenoldopam	152	KG00099402	INCONTINENCE NOS	0.02441900037229061
+trial_2	fenoldopam	396	KG00100373	Embolism, Pulmonary	0.024293499067425728
+trial_2	fenoldopam	268	KG00099557	Heart Failure, Left-Sided	0.024288875982165337
+trial_2	fenoldopam	131	KG00100948	Urinary tract infection (& [NOS])	0.024002600461244583
+trial_2	fenoldopam	38	KG00098066	Binocular vision disorders	0.02398735098540783
+trial_2	fenoldopam	288	KG00101223	hypophosphataemia	0.02349206991493702
+trial_2	fenoldopam	242	KG00100855	tremors	0.023246396332979202
+trial_2	fenoldopam	66	KG00098642	drowsiness	0.023072484880685806
+trial_2	fenoldopam	194	KG00110727	Neutrophil Count Decreased	0.02299346961081028
+trial_2	fenoldopam	72	KG00103771	myalgias	0.02280714176595211
+trial_2	fenoldopam	361	KG00098004	Fibrillation, Atrial	0.02260407619178295
+trial_2	fenoldopam	116	KG00098964	Pain in foot	0.0224625077098608
+trial_2	fenoldopam	191	KG00104055	Biliverdin increased	0.021887820214033127
+trial_2	fenoldopam	75	KG00100195	Dolens, Phlegmasia Alba	0.02185259759426117
+trial_2	fenoldopam	261	KG00101559	raised alkaline phosphatase	0.02091119810938835
+trial_2	fenoldopam	25	KG00099134	congestive failures heart	0.02035483345389366
+trial_2	fenoldopam	246	KG00103338	Aspartate Aminotransferase Measurement	0.02031349018216133
+trial_2	fenoldopam	339	KG00100334	proteinurias	0.020287329331040382
+trial_2	fenoldopam	157	KG00098149	Metabolic Brain Diseases	0.02026488073170185
+trial_2	fenoldopam	174	KG00098731	Embolism NOS	0.020186031237244606
+trial_2	fenoldopam	15	KG00097882	Angina pectoris NOS	0.02017842046916485
+trial_2	fenoldopam	713	KG00107657	distressed respiratory	0.02008049003779888
+trial_2	fenoldopam	441	KG00098262	cellulitis nos	0.019910911098122597
+trial_2	fenoldopam	183	KG00100449	Adult Respiratory Distress Syndrome	0.019569339230656624
+trial_2	fenoldopam	33	KG00100094	Pancreatitis NOS	0.019478265196084976
+trial_2	fenoldopam	92	KG00100926	Infections, Upper Respiratory	0.01946190744638443
+trial_2	fenoldopam	425	KG00098146	Chronic Brain Damage	0.019177163019776344
+trial_2	fenoldopam	144	KG00099610	Leukopenia NOS	0.019083296880126
+trial_2	fenoldopam	130	KG00100683	Stomatitis NOS	0.01870228722691536
+trial_2	fenoldopam	356	KG00112623	Infectious Lung Disorders	0.01869778335094452
+trial_2	fenoldopam	186	KG00101431	creatinine increased	0.01858910731971264
+trial_2	fenoldopam	508	KG00108565	blood glucose increased	0.018559085205197334
+trial_2	fenoldopam	133	KG00101370	neuropathies sensory	0.01851750910282135

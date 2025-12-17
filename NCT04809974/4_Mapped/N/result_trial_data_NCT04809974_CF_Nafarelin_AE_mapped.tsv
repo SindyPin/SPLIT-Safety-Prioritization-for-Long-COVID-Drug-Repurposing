@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14038239419460297
+trial_1	placebo	87	KG00098599	diarrhoea	0.11455247551202774
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10437574237585068
+trial_1	placebo	46	KG00099121	Headache NOS	0.10084693133831024
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0893821120262146
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08705151081085205
+trial_1	placebo	68	KG00099901	nauseas	0.08485476672649384
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07227255403995514
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07214390486478806
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07127930968999863
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0699203759431839
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06580846011638641
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.06540914624929428
+trial_1	placebo	21	KG00098675	dyspnoea	0.06327909231185913
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.058629292994737625
+trial_1	placebo	20	KG00098540	dehydration	0.05782401189208031
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.054187022149562836
+trial_1	placebo	77	KG00098450	Constipation NOS	0.049309585243463516
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.046456288546323776
+trial_1	placebo	14	KG00097852	Anemia NOS	0.045041460543870926
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04470214620232582
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04418410733342171
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04385488107800484
+trial_1	placebo	126	KG00100076	Pain NOS	0.043546468019485474
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04209176450967789
+trial_1	placebo	104	KG00097963	arthralgias	0.04148324579000473
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.039824534207582474
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03967342525720596
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03935284912586212
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03919398412108421
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03909870982170105
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03885667026042938
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.038691096007823944
+trial_1	placebo	82	KG00097697	abdomen distended	0.038236334919929504
+trial_1	placebo	228	KG00114657	Weight below normal	0.037835754454135895
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03493060916662216
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03366811200976372
+trial_1	placebo	85	KG00098474	coughs	0.03353022411465645
+trial_1	placebo	114	KG00098933	fevers	0.033512622117996216
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03334549069404602
+trial_1	placebo	239	KG00100128	pareses	0.03291408717632294
+trial_1	placebo	147	KG00098000	atelectases	0.03212187811732292
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03185652568936348
+trial_1	placebo	5	KG00099169	haematuria	0.031837865710258484
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03177325800061226
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.031686048954725266
+trial_1	placebo	72	KG00103771	myalgias	0.03129999339580536
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.031230822205543518
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0308932363986969
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03006839193403721
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02990586683154106
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.029860753566026688
+trial_1	placebo	116	KG00098964	Pain in foot	0.028617314994335175
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.028331579640507698
+trial_1	placebo	102	KG00097916	anxieties	0.027972714975476265
+trial_1	placebo	121	KG00099190	haemorrhage	0.027419626712799072
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02657458186149597
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026563629508018494
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025831690058112144
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025411993265151978
+trial_1	placebo	164	KG00108827	ileus colon	0.025315850973129272
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025051025673747063
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02482251450419426
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0241815485060215
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02358325757086277
+trial_1	placebo	269	KG00100399	pyaemia	0.022909024730324745
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02258109673857689
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022338280454277992
+trial_1	placebo	466	KG00101205	fall	0.02223845198750496
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022061023861169815
+trial_1	placebo	262	KG00101199	agitation	0.02199712209403515
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021572088822722435
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.021512456238269806
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02126455493271351
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02123919315636158
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021154852584004402
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021080413833260536
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.020921533927321434
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02080177143216133
+trial_1	placebo	212	KG00100576	shivers	0.020268047228455544
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02016625925898552
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02013659104704857
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0200934037566185
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019887134432792664
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019724683836102486
+trial_1	placebo	454	KG00098286	Pain, Neck	0.019693970680236816
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01962471567094326
+trial_1	placebo	154	KG00099686	Lymphopenias	0.019509928300976753
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019343756139278412
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019190195947885513
+trial_1	placebo	203	KG00098661	dysarthrias	0.01885395310819149
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.018744921311736107
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018431195989251137
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.018422231078147888
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01832117885351181
+trial_1	placebo	234	KG00098669	dysgeusias	0.018276479095220566
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.018107647076249123
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01796097680926323
+trial_1	placebo	186	KG00101431	creatinine increased	0.01791704259812832
+trial_1	placebo	456	KG00099420	Influenzae	0.017691893503069878
+trial_2	nafarelin	78	KG00099326	Hypertensive diseases	0.14038239419460297
+trial_2	nafarelin	87	KG00098599	diarrhoea	0.11455247551202774
+trial_2	nafarelin	177	KG00099299	hyperglycaemia	0.10437574237585068
+trial_2	nafarelin	46	KG00099121	Headache NOS	0.10084693133831024
+trial_2	nafarelin	9	KG00098432	Confusion NOS	0.0893821120262146
+trial_2	nafarelin	17	KG00097991	Asthenia NOS	0.08705151081085205
+trial_2	nafarelin	68	KG00099901	nauseas	0.08485476672649384
+trial_2	nafarelin	49	KG00099902	nausea with vomiting	0.07227255403995514
+trial_2	nafarelin	123	KG00099351	hypokalaemia	0.07214390486478806
+trial_2	nafarelin	67	KG00098673	Dyspepsia, NOS	0.07127930968999863
+trial_2	nafarelin	79	KG00100317	Insomnia, Primary	0.0699203759431839
+trial_2	nafarelin	173	KG00098172	Bronchopneumonia NOS	0.06580846011638641
+trial_2	nafarelin	166	KG00099773	menopausal syndrome	0.06540914624929428
+trial_2	nafarelin	21	KG00098675	dyspnoea	0.06327909231185913
+trial_2	nafarelin	37	KG00097696	Cramps, Abdominal	0.058629292994737625
+trial_2	nafarelin	20	KG00098540	dehydration	0.05782401189208031
+trial_2	nafarelin	243	KG00100947	Micturition frequency increased	0.054187022149562836
+trial_2	nafarelin	77	KG00098450	Constipation NOS	0.049309585243463516
+trial_2	nafarelin	200	KG00098539	Disorders, Deglutition	0.046456288546323776
+trial_2	nafarelin	14	KG00097852	Anemia NOS	0.045041460543870926
+trial_2	nafarelin	189	KG00101580	Alanine aminotransferase increase	0.04470214620232582
+trial_2	nafarelin	29	KG00099354	hyponatraemia	0.04418410733342171
+trial_2	nafarelin	350	KG00106765	decreased platelet count	0.04385488107800484
+trial_2	nafarelin	126	KG00100076	Pain NOS	0.043546468019485474
+trial_2	nafarelin	86	KG00098565	Depression, Mental	0.04209176450967789
+trial_2	nafarelin	104	KG00097963	arthralgias	0.04148324579000473
+trial_2	nafarelin	151	KG00098274	Infarction, Cerebral	0.039824534207582474
+trial_2	nafarelin	188	KG00101579	Aspartate aminotransferase increase	0.03967342525720596
+trial_2	nafarelin	28	KG00099347	hypoglycaemia	0.03935284912586212
+trial_2	nafarelin	61	KG00099501	Chronic Kidney Failure	0.03919398412108421
+trial_2	nafarelin	64	KG00097734	Acrodermatitis, NOS	0.03909870982170105
+trial_2	nafarelin	180	KG00099363	Hypotension NOS	0.03885667026042938
+trial_2	nafarelin	76	KG00100450	Respiratory insufficiency, NOS	0.038691096007823944
+trial_2	nafarelin	82	KG00097697	abdomen distended	0.038236334919929504
+trial_2	nafarelin	228	KG00114657	Weight below normal	0.037835754454135895
+trial_2	nafarelin	101	KG00097901	Anorexia NOS	0.03493060916662216
+trial_2	nafarelin	27	KG00099303	hyperkalaemia	0.03366811200976372
+trial_2	nafarelin	85	KG00098474	coughs	0.03353022411465645
+trial_2	nafarelin	114	KG00098933	fevers	0.033512622117996216
+trial_2	nafarelin	2	KG00100772	thrombocytopaenia	0.03334549069404602
+trial_2	nafarelin	239	KG00100128	pareses	0.03291408717632294
+trial_2	nafarelin	147	KG00098000	atelectases	0.03212187811732292
+trial_2	nafarelin	179	KG00099342	hypocalcaemia	0.03185652568936348
+trial_2	nafarelin	5	KG00099169	haematuria	0.031837865710258484
+trial_2	nafarelin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03177325800061226
+trial_2	nafarelin	139	KG00098855	Sinusitis, Ethmoid	0.031686048954725266
+trial_2	nafarelin	72	KG00103771	myalgias	0.03129999339580536
+trial_2	nafarelin	122	KG00099321	Hypersensitivity NOS	0.031230822205543518
+trial_2	nafarelin	18	KG00098307	Pain, Chest	0.0308932363986969
+trial_2	nafarelin	132	KG00101045	Gain, Weight	0.03006839193403721
+trial_2	nafarelin	96	KG00101679	Unattended death NOS	0.02990586683154106
+trial_2	nafarelin	276	KG00099127	Arrest, Cardiac	0.029860753566026688
+trial_2	nafarelin	116	KG00098964	Pain in foot	0.028617314994335175
+trial_2	nafarelin	30	KG00099500	Acute Kidney Failure	0.028331579640507698
+trial_2	nafarelin	102	KG00097916	anxieties	0.027972714975476265
+trial_2	nafarelin	121	KG00099190	haemorrhage	0.027419626712799072
+trial_2	nafarelin	31	KG00099872	Infarction, Myocardial	0.02657458186149597
+trial_2	nafarelin	131	KG00100948	Urinary tract infection (& [NOS])	0.026563629508018494
+trial_2	nafarelin	69	KG00100082	Palpitations NOS	0.025831690058112144
+trial_2	nafarelin	38	KG00098066	Binocular vision disorders	0.025411993265151978
+trial_2	nafarelin	164	KG00108827	ileus colon	0.025315850973129272
+trial_2	nafarelin	142	KG00100923	Unspecified infectious and parasitic diseases	0.025051025673747063
+trial_2	nafarelin	282	KG00099309	hypernatraemia	0.02482251450419426
+trial_2	nafarelin	361	KG00098004	Fibrillation, Atrial	0.0241815485060215
+trial_2	nafarelin	441	KG00098262	cellulitis nos	0.02358325757086277
+trial_2	nafarelin	269	KG00100399	pyaemia	0.022909024730324745
+trial_2	nafarelin	355	KG00110857	lymphocyte count decreased	0.02258109673857689
+trial_2	nafarelin	211	KG00100341	Pruritus NOS	0.022338280454277992
+trial_2	nafarelin	466	KG00101205	fall	0.02223845198750496
+trial_2	nafarelin	249	KG00104430	hypoalbuminaemia	0.022061023861169815
+trial_2	nafarelin	262	KG00101199	agitation	0.02199712209403515
+trial_2	nafarelin	204	KG00098849	Esophagitis, Peptic	0.021572088822722435
+trial_2	nafarelin	194	KG00110727	Neutrophil Count Decreased	0.021512456238269806
+trial_2	nafarelin	508	KG00108565	blood glucose increased	0.02126455493271351
+trial_2	nafarelin	286	KG00101110	Retention, Urinary	0.02123919315636158
+trial_2	nafarelin	15	KG00097882	Angina pectoris NOS	0.021154852584004402
+trial_2	nafarelin	75	KG00100195	Dolens, Phlegmasia Alba	0.021080413833260536
+trial_2	nafarelin	297	KG00099294	hypercholesterolaemia	0.020921533927321434
+trial_2	nafarelin	396	KG00100373	Embolism, Pulmonary	0.02080177143216133
+trial_2	nafarelin	212	KG00100576	shivers	0.020268047228455544
+trial_2	nafarelin	22	KG00098705	Edema (NOS)	0.02016625925898552
+trial_2	nafarelin	288	KG00101223	hypophosphataemia	0.02013659104704857
+trial_2	nafarelin	92	KG00100926	Infections, Upper Respiratory	0.0200934037566185
+trial_2	nafarelin	35	KG00101507	hypomagnesaemia	0.019887134432792664
+trial_2	nafarelin	261	KG00101559	raised alkaline phosphatase	0.019724683836102486
+trial_2	nafarelin	454	KG00098286	Pain, Neck	0.019693970680236816
+trial_2	nafarelin	253	KG00100232	Pleural effusion NOS (disorder)	0.01962471567094326
+trial_2	nafarelin	154	KG00099686	Lymphopenias	0.019509928300976753
+trial_2	nafarelin	199	KG00098371	Rhinitis (chronic) NOS	0.019343756139278412
+trial_2	nafarelin	191	KG00104055	Biliverdin increased	0.019190195947885513
+trial_2	nafarelin	203	KG00098661	dysarthrias	0.01885395310819149
+trial_2	nafarelin	152	KG00099402	INCONTINENCE NOS	0.018744921311736107
+trial_2	nafarelin	36	KG00106434	Vision, Blurring Of	0.018431195989251137
+trial_2	nafarelin	371	KG00098517	Cystitis (NOS)	0.018422231078147888
+trial_2	nafarelin	256	KG00100738	Tachycardia, Sinus	0.01832117885351181
+trial_2	nafarelin	234	KG00098669	dysgeusias	0.018276479095220566
+trial_2	nafarelin	254	KG00100774	Thrombosis NOS	0.018107647076249123
+trial_2	nafarelin	246	KG00103338	Aspartate Aminotransferase Measurement	0.01796097680926323
+trial_2	nafarelin	186	KG00101431	creatinine increased	0.01791704259812832
+trial_2	nafarelin	456	KG00099420	Influenzae	0.017691893503069878

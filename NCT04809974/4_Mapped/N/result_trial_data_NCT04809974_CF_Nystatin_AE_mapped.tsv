@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09284834563732147
+trial_1	placebo	87	KG00098599	diarrhoea	0.0899614691734314
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0878504291176796
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.086361825466156
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06979213654994965
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06662316620349884
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06514447182416916
+trial_1	placebo	20	KG00098540	dehydration	0.06121610105037689
+trial_1	placebo	21	KG00098675	dyspnoea	0.058258455246686935
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05243752524256706
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04841505363583565
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04752017557621002
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04731607437133789
+trial_1	placebo	114	KG00098933	fevers	0.046545155346393585
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04651302844285965
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.045872725546360016
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04387025162577629
+trial_1	placebo	269	KG00100399	pyaemia	0.04352413862943649
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04247484728693962
+trial_1	placebo	147	KG00098000	atelectases	0.04183110594749451
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04170858487486839
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04100301116704941
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.039725515991449356
+trial_1	placebo	126	KG00100076	Pain NOS	0.03892475366592407
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03758402541279793
+trial_1	placebo	46	KG00099121	Headache NOS	0.03742953762412071
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.035217948257923126
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.034877121448516846
+trial_1	placebo	85	KG00098474	coughs	0.03480219468474388
+trial_1	placebo	228	KG00114657	Weight below normal	0.03450873866677284
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03439924493432045
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.034257225692272186
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03365008905529976
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03331035003066063
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.031892936676740646
+trial_1	placebo	68	KG00099901	nauseas	0.030354028567671776
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03026249259710312
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029635384678840637
+trial_1	placebo	77	KG00098450	Constipation NOS	0.029131174087524414
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.028678320348262787
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028590215370059013
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0281357504427433
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.027204960584640503
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.026387963443994522
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.026232311502099037
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.026215825229883194
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026175780221819878
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.026170259341597557
+trial_1	placebo	86	KG00098565	Depression, Mental	0.025907965376973152
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025380851700901985
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025321131572127342
+trial_1	placebo	5	KG00099169	haematuria	0.024897530674934387
+trial_1	placebo	186	KG00101431	creatinine increased	0.024251870810985565
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02337968535721302
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023131059482693672
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02283112332224846
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022721193730831146
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.022654203698039055
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022439489141106606
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.022312337532639503
+trial_1	placebo	234	KG00098669	dysgeusias	0.02178199775516987
+trial_1	placebo	121	KG00099190	haemorrhage	0.021179256960749626
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.020656153559684753
+trial_1	placebo	136	KG00101582	Dry;skin	0.020510945469141006
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02048986777663231
+trial_1	placebo	221	KG00101207	peripheral oedema	0.020430514588952065
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01997387409210205
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01923522539436817
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.018706008791923523
+trial_1	placebo	164	KG00108827	ileus colon	0.01867976225912571
+trial_1	placebo	104	KG00097963	arthralgias	0.018398862332105637
+trial_1	placebo	239	KG00100128	pareses	0.018206458538770676
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01809786632657051
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018068205565214157
+trial_1	placebo	282	KG00099309	hypernatraemia	0.018024491146206856
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01793837547302246
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.017755573615431786
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01767762005329132
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017628138884902
+trial_1	placebo	72	KG00103771	myalgias	0.017162635922431946
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01676069386303425
+trial_1	placebo	4	KG00098817	epistaxis	0.016596009954810143
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.015509783290326595
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015349161811172962
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015250190161168575
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015233734622597694
+trial_1	placebo	116	KG00098964	Pain in foot	0.015161911956965923
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01497205812484026
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.014613349922001362
+trial_1	placebo	102	KG00097916	anxieties	0.014513983391225338
+trial_1	placebo	508	KG00108565	blood glucose increased	0.014481180347502232
+trial_1	placebo	212	KG00100576	shivers	0.014481153339147568
+trial_1	placebo	132	KG00101045	Gain, Weight	0.01447609718888998
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.014403419569134712
+trial_1	placebo	713	KG00107657	distressed respiratory	0.014287533238530159
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014269554056227207
+trial_1	placebo	82	KG00097697	abdomen distended	0.01426281500607729
+trial_1	placebo	262	KG00101199	agitation	0.01403142511844635
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.01370116788893938
+trial_1	placebo	11	KG00097993	Asthma NOS	0.013659571297466755
+trial_2	nystatin	123	KG00099351	hypokalaemia	0.09284834563732147
+trial_2	nystatin	87	KG00098599	diarrhoea	0.0899614691734314
+trial_2	nystatin	177	KG00099299	hyperglycaemia	0.0878504291176796
+trial_2	nystatin	173	KG00098172	Bronchopneumonia NOS	0.086361825466156
+trial_2	nystatin	14	KG00097852	Anemia NOS	0.06979213654994965
+trial_2	nystatin	78	KG00099326	Hypertensive diseases	0.06662316620349884
+trial_2	nystatin	64	KG00097734	Acrodermatitis, NOS	0.06514447182416916
+trial_2	nystatin	20	KG00098540	dehydration	0.06121610105037689
+trial_2	nystatin	21	KG00098675	dyspnoea	0.058258455246686935
+trial_2	nystatin	9	KG00098432	Confusion NOS	0.05243752524256706
+trial_2	nystatin	37	KG00097696	Cramps, Abdominal	0.04841505363583565
+trial_2	nystatin	189	KG00101580	Alanine aminotransferase increase	0.04752017557621002
+trial_2	nystatin	76	KG00100450	Respiratory insufficiency, NOS	0.04731607437133789
+trial_2	nystatin	114	KG00098933	fevers	0.046545155346393585
+trial_2	nystatin	17	KG00097991	Asthenia NOS	0.04651302844285965
+trial_2	nystatin	61	KG00099501	Chronic Kidney Failure	0.045872725546360016
+trial_2	nystatin	2	KG00100772	thrombocytopaenia	0.04387025162577629
+trial_2	nystatin	269	KG00100399	pyaemia	0.04352413862943649
+trial_2	nystatin	29	KG00099354	hyponatraemia	0.04247484728693962
+trial_2	nystatin	147	KG00098000	atelectases	0.04183110594749451
+trial_2	nystatin	188	KG00101579	Aspartate aminotransferase increase	0.04170858487486839
+trial_2	nystatin	96	KG00101679	Unattended death NOS	0.04100301116704941
+trial_2	nystatin	30	KG00099500	Acute Kidney Failure	0.039725515991449356
+trial_2	nystatin	126	KG00100076	Pain NOS	0.03892475366592407
+trial_2	nystatin	151	KG00098274	Infarction, Cerebral	0.03758402541279793
+trial_2	nystatin	46	KG00099121	Headache NOS	0.03742953762412071
+trial_2	nystatin	200	KG00098539	Disorders, Deglutition	0.035217948257923126
+trial_2	nystatin	142	KG00100923	Unspecified infectious and parasitic diseases	0.034877121448516846
+trial_2	nystatin	85	KG00098474	coughs	0.03480219468474388
+trial_2	nystatin	228	KG00114657	Weight below normal	0.03450873866677284
+trial_2	nystatin	180	KG00099363	Hypotension NOS	0.03439924493432045
+trial_2	nystatin	49	KG00099902	nausea with vomiting	0.034257225692272186
+trial_2	nystatin	130	KG00100683	Stomatitis NOS	0.03365008905529976
+trial_2	nystatin	350	KG00106765	decreased platelet count	0.03331035003066063
+trial_2	nystatin	396	KG00100373	Embolism, Pulmonary	0.031892936676740646
+trial_2	nystatin	68	KG00099901	nauseas	0.030354028567671776
+trial_2	nystatin	28	KG00099347	hypoglycaemia	0.03026249259710312
+trial_2	nystatin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029635384678840637
+trial_2	nystatin	77	KG00098450	Constipation NOS	0.029131174087524414
+trial_2	nystatin	179	KG00099342	hypocalcaemia	0.028678320348262787
+trial_2	nystatin	27	KG00099303	hyperkalaemia	0.028590215370059013
+trial_2	nystatin	131	KG00100948	Urinary tract infection (& [NOS])	0.0281357504427433
+trial_2	nystatin	191	KG00104055	Biliverdin increased	0.027204960584640503
+trial_2	nystatin	79	KG00100317	Insomnia, Primary	0.026387963443994522
+trial_2	nystatin	67	KG00098673	Dyspepsia, NOS	0.026232311502099037
+trial_2	nystatin	249	KG00104430	hypoalbuminaemia	0.026215825229883194
+trial_2	nystatin	276	KG00099127	Arrest, Cardiac	0.026175780221819878
+trial_2	nystatin	35	KG00101507	hypomagnesaemia	0.026170259341597557
+trial_2	nystatin	86	KG00098565	Depression, Mental	0.025907965376973152
+trial_2	nystatin	1	KG00099959	Neutropenia NOS	0.025380851700901985
+trial_2	nystatin	261	KG00101559	raised alkaline phosphatase	0.025321131572127342
+trial_2	nystatin	5	KG00099169	haematuria	0.024897530674934387
+trial_2	nystatin	186	KG00101431	creatinine increased	0.024251870810985565
+trial_2	nystatin	75	KG00100195	Dolens, Phlegmasia Alba	0.02337968535721302
+trial_2	nystatin	194	KG00110727	Neutrophil Count Decreased	0.023131059482693672
+trial_2	nystatin	441	KG00098262	cellulitis nos	0.02283112332224846
+trial_2	nystatin	253	KG00100232	Pleural effusion NOS (disorder)	0.022721193730831146
+trial_2	nystatin	122	KG00099321	Hypersensitivity NOS	0.022654203698039055
+trial_2	nystatin	211	KG00100341	Pruritus NOS	0.022439489141106606
+trial_2	nystatin	144	KG00099610	Leukopenia NOS	0.022312337532639503
+trial_2	nystatin	234	KG00098669	dysgeusias	0.02178199775516987
+trial_2	nystatin	121	KG00099190	haemorrhage	0.021179256960749626
+trial_2	nystatin	243	KG00100947	Micturition frequency increased	0.020656153559684753
+trial_2	nystatin	136	KG00101582	Dry;skin	0.020510945469141006
+trial_2	nystatin	18	KG00098307	Pain, Chest	0.02048986777663231
+trial_2	nystatin	221	KG00101207	peripheral oedema	0.020430514588952065
+trial_2	nystatin	288	KG00101223	hypophosphataemia	0.01997387409210205
+trial_2	nystatin	356	KG00112623	Infectious Lung Disorders	0.01923522539436817
+trial_2	nystatin	494	KG00099838	Organ Failure, Multiple	0.018706008791923523
+trial_2	nystatin	164	KG00108827	ileus colon	0.01867976225912571
+trial_2	nystatin	104	KG00097963	arthralgias	0.018398862332105637
+trial_2	nystatin	239	KG00100128	pareses	0.018206458538770676
+trial_2	nystatin	154	KG00099686	Lymphopenias	0.01809786632657051
+trial_2	nystatin	69	KG00100082	Palpitations NOS	0.018068205565214157
+trial_2	nystatin	282	KG00099309	hypernatraemia	0.018024491146206856
+trial_2	nystatin	31	KG00099872	Infarction, Myocardial	0.01793837547302246
+trial_2	nystatin	92	KG00100926	Infections, Upper Respiratory	0.017755573615431786
+trial_2	nystatin	36	KG00106434	Vision, Blurring Of	0.01767762005329132
+trial_2	nystatin	138	KG00098796	epidemic vomiting syndrome	0.017628138884902
+trial_2	nystatin	72	KG00103771	myalgias	0.017162635922431946
+trial_2	nystatin	38	KG00098066	Binocular vision disorders	0.01676069386303425
+trial_2	nystatin	4	KG00098817	epistaxis	0.016596009954810143
+trial_2	nystatin	139	KG00098855	Sinusitis, Ethmoid	0.015509783290326595
+trial_2	nystatin	361	KG00098004	Fibrillation, Atrial	0.015349161811172962
+trial_2	nystatin	101	KG00097901	Anorexia NOS	0.015250190161168575
+trial_2	nystatin	355	KG00110857	lymphocyte count decreased	0.015233734622597694
+trial_2	nystatin	116	KG00098964	Pain in foot	0.015161911956965923
+trial_2	nystatin	286	KG00101110	Retention, Urinary	0.01497205812484026
+trial_2	nystatin	170	KG00108926	Neutropenia, Febrile	0.014613349922001362
+trial_2	nystatin	102	KG00097916	anxieties	0.014513983391225338
+trial_2	nystatin	508	KG00108565	blood glucose increased	0.014481180347502232
+trial_2	nystatin	212	KG00100576	shivers	0.014481153339147568
+trial_2	nystatin	132	KG00101045	Gain, Weight	0.01447609718888998
+trial_2	nystatin	183	KG00100449	Adult Respiratory Distress Syndrome	0.014403419569134712
+trial_2	nystatin	713	KG00107657	distressed respiratory	0.014287533238530159
+trial_2	nystatin	22	KG00098705	Edema (NOS)	0.014269554056227207
+trial_2	nystatin	82	KG00097697	abdomen distended	0.01426281500607729
+trial_2	nystatin	262	KG00101199	agitation	0.01403142511844635
+trial_2	nystatin	297	KG00099294	hypercholesterolaemia	0.01370116788893938
+trial_2	nystatin	11	KG00097993	Asthma NOS	0.013659571297466755

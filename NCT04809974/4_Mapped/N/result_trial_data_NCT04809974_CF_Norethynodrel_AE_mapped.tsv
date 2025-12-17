@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11619943380355835
+trial_1	placebo	87	KG00098599	diarrhoea	0.11095134913921356
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10939250141382217
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10446186363697052
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09083786606788635
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07551510632038116
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06990112364292145
+trial_1	placebo	68	KG00099901	nauseas	0.06551925837993622
+trial_1	placebo	46	KG00099121	Headache NOS	0.06344456970691681
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06291346251964569
+trial_1	placebo	21	KG00098675	dyspnoea	0.06273901462554932
+trial_1	placebo	20	KG00098540	dehydration	0.062346767634153366
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05924542620778084
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05783461406826973
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05714430287480354
+trial_1	placebo	14	KG00097852	Anemia NOS	0.052837103605270386
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04943813011050224
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04876059293746948
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0481889471411705
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04790399968624115
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0476088747382164
+trial_1	placebo	228	KG00114657	Weight below normal	0.04716968908905983
+trial_1	placebo	132	KG00101045	Gain, Weight	0.046597275882959366
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.046290624886751175
+trial_1	placebo	126	KG00100076	Pain NOS	0.04381122812628746
+trial_1	placebo	114	KG00098933	fevers	0.042811982333660126
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04145881533622742
+trial_1	placebo	72	KG00103771	myalgias	0.04039064794778824
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04010389372706413
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03987840935587883
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03731370344758034
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03709104657173157
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03658246248960495
+trial_1	placebo	104	KG00097963	arthralgias	0.03644680604338646
+trial_1	placebo	239	KG00100128	pareses	0.036200277507305145
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.035818930715322495
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03557455167174339
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03538048267364502
+trial_1	placebo	85	KG00098474	coughs	0.03419665992259979
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.033803340047597885
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03309409320354462
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03273781016469002
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.032606758177280426
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030648158863186836
+trial_1	placebo	5	KG00099169	haematuria	0.029904214665293694
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029899995774030685
+trial_1	placebo	102	KG00097916	anxieties	0.028981508687138557
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028666293248534203
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.028137922286987305
+trial_1	placebo	262	KG00101199	agitation	0.027852574363350868
+trial_1	placebo	121	KG00099190	haemorrhage	0.027826763689517975
+trial_1	placebo	100	KG00097815	alopecias	0.027681266888976097
+trial_1	placebo	154	KG00099686	Lymphopenias	0.027266761288046837
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.027231555432081223
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.026875920593738556
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02645369991660118
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.026126841083168983
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.026090603321790695
+trial_1	placebo	116	KG00098964	Pain in foot	0.02606608346104622
+trial_1	placebo	147	KG00098000	atelectases	0.026042306795716286
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.025318128988146782
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024613304063677788
+trial_1	placebo	18	KG00098307	Pain, Chest	0.024359920993447304
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023774689063429832
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.023755688220262527
+trial_1	placebo	508	KG00108565	blood glucose increased	0.023720305413007736
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02347167395055294
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.023415446281433105
+trial_1	placebo	466	KG00101205	fall	0.023013820871710777
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02278614044189453
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022708194330334663
+trial_1	placebo	234	KG00098669	dysgeusias	0.022647226229310036
+trial_1	placebo	82	KG00097697	abdomen distended	0.02225405164062977
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021905936300754547
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.021892312914133072
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.021444233134388924
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021043598651885986
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020949149504303932
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02066798321902752
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020579490810632706
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02044052816927433
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.02040170133113861
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020207814872264862
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.019740095362067223
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01972646825015545
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.019624274224042892
+trial_1	placebo	164	KG00108827	ileus colon	0.019103072583675385
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.0189767275005579
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018369965255260468
+trial_1	placebo	269	KG00100399	pyaemia	0.017977207899093628
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.017865214496850967
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.017767345532774925
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.017652515321969986
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.01743697002530098
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.017348233610391617
+trial_1	placebo	242	KG00100855	tremors	0.017344826832413673
+trial_1	placebo	186	KG00101431	creatinine increased	0.017342649400234222
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01716148480772972
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017148332670331
+trial_1	placebo	456	KG00099420	Influenzae	0.017062751576304436
+trial_2	norethynodrel	78	KG00099326	Hypertensive diseases	0.11619943380355835
+trial_2	norethynodrel	87	KG00098599	diarrhoea	0.11095134913921356
+trial_2	norethynodrel	177	KG00099299	hyperglycaemia	0.10939250141382217
+trial_2	norethynodrel	17	KG00097991	Asthenia NOS	0.10446186363697052
+trial_2	norethynodrel	173	KG00098172	Bronchopneumonia NOS	0.09083786606788635
+trial_2	norethynodrel	79	KG00100317	Insomnia, Primary	0.07551510632038116
+trial_2	norethynodrel	9	KG00098432	Confusion NOS	0.06990112364292145
+trial_2	norethynodrel	68	KG00099901	nauseas	0.06551925837993622
+trial_2	norethynodrel	46	KG00099121	Headache NOS	0.06344456970691681
+trial_2	norethynodrel	77	KG00098450	Constipation NOS	0.06291346251964569
+trial_2	norethynodrel	21	KG00098675	dyspnoea	0.06273901462554932
+trial_2	norethynodrel	20	KG00098540	dehydration	0.062346767634153366
+trial_2	norethynodrel	123	KG00099351	hypokalaemia	0.05924542620778084
+trial_2	norethynodrel	37	KG00097696	Cramps, Abdominal	0.05783461406826973
+trial_2	norethynodrel	67	KG00098673	Dyspepsia, NOS	0.05714430287480354
+trial_2	norethynodrel	14	KG00097852	Anemia NOS	0.052837103605270386
+trial_2	norethynodrel	200	KG00098539	Disorders, Deglutition	0.04943813011050224
+trial_2	norethynodrel	243	KG00100947	Micturition frequency increased	0.04876059293746948
+trial_2	norethynodrel	49	KG00099902	nausea with vomiting	0.0481889471411705
+trial_2	norethynodrel	86	KG00098565	Depression, Mental	0.04790399968624115
+trial_2	norethynodrel	189	KG00101580	Alanine aminotransferase increase	0.0476088747382164
+trial_2	norethynodrel	228	KG00114657	Weight below normal	0.04716968908905983
+trial_2	norethynodrel	132	KG00101045	Gain, Weight	0.046597275882959366
+trial_2	norethynodrel	64	KG00097734	Acrodermatitis, NOS	0.046290624886751175
+trial_2	norethynodrel	126	KG00100076	Pain NOS	0.04381122812628746
+trial_2	norethynodrel	114	KG00098933	fevers	0.042811982333660126
+trial_2	norethynodrel	350	KG00106765	decreased platelet count	0.04145881533622742
+trial_2	norethynodrel	72	KG00103771	myalgias	0.04039064794778824
+trial_2	norethynodrel	28	KG00099347	hypoglycaemia	0.04010389372706413
+trial_2	norethynodrel	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03987840935587883
+trial_2	norethynodrel	151	KG00098274	Infarction, Cerebral	0.03731370344758034
+trial_2	norethynodrel	188	KG00101579	Aspartate aminotransferase increase	0.03709104657173157
+trial_2	norethynodrel	122	KG00099321	Hypersensitivity NOS	0.03658246248960495
+trial_2	norethynodrel	104	KG00097963	arthralgias	0.03644680604338646
+trial_2	norethynodrel	239	KG00100128	pareses	0.036200277507305145
+trial_2	norethynodrel	139	KG00098855	Sinusitis, Ethmoid	0.035818930715322495
+trial_2	norethynodrel	29	KG00099354	hyponatraemia	0.03557455167174339
+trial_2	norethynodrel	101	KG00097901	Anorexia NOS	0.03538048267364502
+trial_2	norethynodrel	85	KG00098474	coughs	0.03419665992259979
+trial_2	norethynodrel	2	KG00100772	thrombocytopaenia	0.033803340047597885
+trial_2	norethynodrel	180	KG00099363	Hypotension NOS	0.03309409320354462
+trial_2	norethynodrel	96	KG00101679	Unattended death NOS	0.03273781016469002
+trial_2	norethynodrel	76	KG00100450	Respiratory insufficiency, NOS	0.032606758177280426
+trial_2	norethynodrel	179	KG00099342	hypocalcaemia	0.030648158863186836
+trial_2	norethynodrel	5	KG00099169	haematuria	0.029904214665293694
+trial_2	norethynodrel	194	KG00110727	Neutrophil Count Decreased	0.029899995774030685
+trial_2	norethynodrel	102	KG00097916	anxieties	0.028981508687138557
+trial_2	norethynodrel	27	KG00099303	hyperkalaemia	0.028666293248534203
+trial_2	norethynodrel	61	KG00099501	Chronic Kidney Failure	0.028137922286987305
+trial_2	norethynodrel	262	KG00101199	agitation	0.027852574363350868
+trial_2	norethynodrel	121	KG00099190	haemorrhage	0.027826763689517975
+trial_2	norethynodrel	100	KG00097815	alopecias	0.027681266888976097
+trial_2	norethynodrel	154	KG00099686	Lymphopenias	0.027266761288046837
+trial_2	norethynodrel	142	KG00100923	Unspecified infectious and parasitic diseases	0.027231555432081223
+trial_2	norethynodrel	166	KG00099773	menopausal syndrome	0.026875920593738556
+trial_2	norethynodrel	38	KG00098066	Binocular vision disorders	0.02645369991660118
+trial_2	norethynodrel	131	KG00100948	Urinary tract infection (& [NOS])	0.026126841083168983
+trial_2	norethynodrel	355	KG00110857	lymphocyte count decreased	0.026090603321790695
+trial_2	norethynodrel	116	KG00098964	Pain in foot	0.02606608346104622
+trial_2	norethynodrel	147	KG00098000	atelectases	0.026042306795716286
+trial_2	norethynodrel	144	KG00099610	Leukopenia NOS	0.025318128988146782
+trial_2	norethynodrel	92	KG00100926	Infections, Upper Respiratory	0.024613304063677788
+trial_2	norethynodrel	18	KG00098307	Pain, Chest	0.024359920993447304
+trial_2	norethynodrel	69	KG00100082	Palpitations NOS	0.023774689063429832
+trial_2	norethynodrel	1	KG00099959	Neutropenia NOS	0.023755688220262527
+trial_2	norethynodrel	508	KG00108565	blood glucose increased	0.023720305413007736
+trial_2	norethynodrel	133	KG00101370	neuropathies sensory	0.02347167395055294
+trial_2	norethynodrel	297	KG00099294	hypercholesterolaemia	0.023415446281433105
+trial_2	norethynodrel	466	KG00101205	fall	0.023013820871710777
+trial_2	norethynodrel	36	KG00106434	Vision, Blurring Of	0.02278614044189453
+trial_2	norethynodrel	396	KG00100373	Embolism, Pulmonary	0.022708194330334663
+trial_2	norethynodrel	234	KG00098669	dysgeusias	0.022647226229310036
+trial_2	norethynodrel	82	KG00097697	abdomen distended	0.02225405164062977
+trial_2	norethynodrel	221	KG00101207	peripheral oedema	0.021905936300754547
+trial_2	norethynodrel	22	KG00098705	Edema (NOS)	0.021892312914133072
+trial_2	norethynodrel	261	KG00101559	raised alkaline phosphatase	0.021444233134388924
+trial_2	norethynodrel	249	KG00104430	hypoalbuminaemia	0.021043598651885986
+trial_2	norethynodrel	441	KG00098262	cellulitis nos	0.020949149504303932
+trial_2	norethynodrel	30	KG00099500	Acute Kidney Failure	0.02066798321902752
+trial_2	norethynodrel	361	KG00098004	Fibrillation, Atrial	0.020579490810632706
+trial_2	norethynodrel	282	KG00099309	hypernatraemia	0.02044052816927433
+trial_2	norethynodrel	246	KG00103338	Aspartate Aminotransferase Measurement	0.02040170133113861
+trial_2	norethynodrel	276	KG00099127	Arrest, Cardiac	0.020207814872264862
+trial_2	norethynodrel	75	KG00100195	Dolens, Phlegmasia Alba	0.019740095362067223
+trial_2	norethynodrel	204	KG00098849	Esophagitis, Peptic	0.01972646825015545
+trial_2	norethynodrel	288	KG00101223	hypophosphataemia	0.019624274224042892
+trial_2	norethynodrel	164	KG00108827	ileus colon	0.019103072583675385
+trial_2	norethynodrel	33	KG00100094	Pancreatitis NOS	0.0189767275005579
+trial_2	norethynodrel	118	KG00099011	Gastritis NOS	0.018369965255260468
+trial_2	norethynodrel	269	KG00100399	pyaemia	0.017977207899093628
+trial_2	norethynodrel	35	KG00101507	hypomagnesaemia	0.017865214496850967
+trial_2	norethynodrel	254	KG00100774	Thrombosis NOS	0.017767345532774925
+trial_2	norethynodrel	152	KG00099402	INCONTINENCE NOS	0.017652515321969986
+trial_2	norethynodrel	256	KG00100738	Tachycardia, Sinus	0.01743697002530098
+trial_2	norethynodrel	191	KG00104055	Biliverdin increased	0.017348233610391617
+trial_2	norethynodrel	242	KG00100855	tremors	0.017344826832413673
+trial_2	norethynodrel	186	KG00101431	creatinine increased	0.017342649400234222
+trial_2	norethynodrel	138	KG00098796	epidemic vomiting syndrome	0.01716148480772972
+trial_2	norethynodrel	130	KG00100683	Stomatitis NOS	0.017148332670331
+trial_2	norethynodrel	456	KG00099420	Influenzae	0.017062751576304436

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10068746656179428
+trial_1	placebo	87	KG00098599	diarrhoea	0.0790880098938942
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06797552853822708
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06716816872358322
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06661828607320786
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.060638584196567535
+trial_1	placebo	21	KG00098675	dyspnoea	0.05990879610180855
+trial_1	placebo	46	KG00099121	Headache NOS	0.0595552995800972
+trial_1	placebo	20	KG00098540	dehydration	0.05616528540849686
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05450189858675003
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04623967781662941
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04539166018366814
+trial_1	placebo	68	KG00099901	nauseas	0.043826211243867874
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.043285831809043884
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04250914976000786
+trial_1	placebo	14	KG00097852	Anemia NOS	0.039718858897686005
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03915276750922203
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03692061826586723
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03609289228916168
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03551177680492401
+trial_1	placebo	126	KG00100076	Pain NOS	0.035370927304029465
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03352750837802887
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03281446918845177
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03273520618677139
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.032140642404556274
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03141319379210472
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03139905259013176
+trial_1	placebo	5	KG00099169	haematuria	0.03119834139943123
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03119438700377941
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03106119856238365
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.030525827780365944
+trial_1	placebo	147	KG00098000	atelectases	0.03047199547290802
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02896660380065441
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02886657416820526
+trial_1	placebo	114	KG00098933	fevers	0.02864774502813816
+trial_1	placebo	85	KG00098474	coughs	0.028089214116334915
+trial_1	placebo	239	KG00100128	pareses	0.026988519355654716
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02637871541082859
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02619590051472187
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025997303426265717
+trial_1	placebo	86	KG00098565	Depression, Mental	0.025953855365514755
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.025869594886898994
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.025846291333436966
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02533765137195587
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024960456416010857
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024390414357185364
+trial_1	placebo	104	KG00097963	arthralgias	0.02409612014889717
+trial_1	placebo	228	KG00114657	Weight below normal	0.024043025448918343
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02367047779262066
+trial_1	placebo	441	KG00098262	cellulitis nos	0.023627910763025284
+trial_1	placebo	269	KG00100399	pyaemia	0.023520132526755333
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023368436843156815
+trial_1	placebo	164	KG00108827	ileus colon	0.02284221164882183
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.022071005776524544
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021983996033668518
+trial_1	placebo	102	KG00097916	anxieties	0.021710358560085297
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021121272817254066
+trial_1	placebo	234	KG00098669	dysgeusias	0.020956076681613922
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02085564285516739
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0207675751298666
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.02009708434343338
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01981682889163494
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019769776612520218
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01973668485879898
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01939350552856922
+trial_1	placebo	116	KG00098964	Pain in foot	0.0193577129393816
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01893443800508976
+trial_1	placebo	282	KG00099309	hypernatraemia	0.018797187134623528
+trial_1	placebo	72	KG00103771	myalgias	0.018044183030724525
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.017901107668876648
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01783941127359867
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017802195623517036
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017709651961922646
+trial_1	placebo	508	KG00108565	blood glucose increased	0.017575738951563835
+trial_1	placebo	466	KG00101205	fall	0.01755445823073387
+trial_1	placebo	121	KG00099190	haemorrhage	0.017445998266339302
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.017313053831458092
+trial_1	placebo	454	KG00098286	Pain, Neck	0.017256349325180054
+trial_1	placebo	53	KG00101550	Pain in eyes	0.017216036096215248
+trial_1	placebo	82	KG00097697	abdomen distended	0.01710737682878971
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01698269136250019
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.016921868547797203
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0168897807598114
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01673031784594059
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.016609860584139824
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.016608435660600662
+trial_1	placebo	262	KG00101199	agitation	0.016444511711597443
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.016413960605859756
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01592036336660385
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015814583748579025
+trial_1	placebo	186	KG00101431	creatinine increased	0.01567273959517479
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.015398249961435795
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.015238220803439617
+trial_1	placebo	4	KG00098817	epistaxis	0.014609448611736298
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.014489424414932728
+trial_1	placebo	66	KG00098642	drowsiness	0.014245154336094856
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.014222159050405025
+trial_1	placebo	25	KG00099134	congestive failures heart	0.014200574718415737
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.014035561122000217
+trial_1	placebo	212	KG00100576	shivers	0.014008129946887493
+trial_2	naphazoline	78	KG00099326	Hypertensive diseases	0.10068746656179428
+trial_2	naphazoline	87	KG00098599	diarrhoea	0.0790880098938942
+trial_2	naphazoline	9	KG00098432	Confusion NOS	0.06797552853822708
+trial_2	naphazoline	177	KG00099299	hyperglycaemia	0.06716816872358322
+trial_2	naphazoline	123	KG00099351	hypokalaemia	0.06661828607320786
+trial_2	naphazoline	17	KG00097991	Asthenia NOS	0.060638584196567535
+trial_2	naphazoline	21	KG00098675	dyspnoea	0.05990879610180855
+trial_2	naphazoline	46	KG00099121	Headache NOS	0.0595552995800972
+trial_2	naphazoline	20	KG00098540	dehydration	0.05616528540849686
+trial_2	naphazoline	173	KG00098172	Bronchopneumonia NOS	0.05450189858675003
+trial_2	naphazoline	49	KG00099902	nausea with vomiting	0.04623967781662941
+trial_2	naphazoline	200	KG00098539	Disorders, Deglutition	0.04539166018366814
+trial_2	naphazoline	68	KG00099901	nauseas	0.043826211243867874
+trial_2	naphazoline	37	KG00097696	Cramps, Abdominal	0.043285831809043884
+trial_2	naphazoline	77	KG00098450	Constipation NOS	0.04250914976000786
+trial_2	naphazoline	14	KG00097852	Anemia NOS	0.039718858897686005
+trial_2	naphazoline	61	KG00099501	Chronic Kidney Failure	0.03915276750922203
+trial_2	naphazoline	67	KG00098673	Dyspepsia, NOS	0.03692061826586723
+trial_2	naphazoline	79	KG00100317	Insomnia, Primary	0.03609289228916168
+trial_2	naphazoline	180	KG00099363	Hypotension NOS	0.03551177680492401
+trial_2	naphazoline	126	KG00100076	Pain NOS	0.035370927304029465
+trial_2	naphazoline	29	KG00099354	hyponatraemia	0.03352750837802887
+trial_2	naphazoline	64	KG00097734	Acrodermatitis, NOS	0.03281446918845177
+trial_2	naphazoline	151	KG00098274	Infarction, Cerebral	0.03273520618677139
+trial_2	naphazoline	28	KG00099347	hypoglycaemia	0.032140642404556274
+trial_2	naphazoline	76	KG00100450	Respiratory insufficiency, NOS	0.03141319379210472
+trial_2	naphazoline	30	KG00099500	Acute Kidney Failure	0.03139905259013176
+trial_2	naphazoline	5	KG00099169	haematuria	0.03119834139943123
+trial_2	naphazoline	2	KG00100772	thrombocytopaenia	0.03119438700377941
+trial_2	naphazoline	396	KG00100373	Embolism, Pulmonary	0.03106119856238365
+trial_2	naphazoline	189	KG00101580	Alanine aminotransferase increase	0.030525827780365944
+trial_2	naphazoline	147	KG00098000	atelectases	0.03047199547290802
+trial_2	naphazoline	188	KG00101579	Aspartate aminotransferase increase	0.02896660380065441
+trial_2	naphazoline	350	KG00106765	decreased platelet count	0.02886657416820526
+trial_2	naphazoline	114	KG00098933	fevers	0.02864774502813816
+trial_2	naphazoline	85	KG00098474	coughs	0.028089214116334915
+trial_2	naphazoline	239	KG00100128	pareses	0.026988519355654716
+trial_2	naphazoline	276	KG00099127	Arrest, Cardiac	0.02637871541082859
+trial_2	naphazoline	96	KG00101679	Unattended death NOS	0.02619590051472187
+trial_2	naphazoline	38	KG00098066	Binocular vision disorders	0.025997303426265717
+trial_2	naphazoline	86	KG00098565	Depression, Mental	0.025953855365514755
+trial_2	naphazoline	243	KG00100947	Micturition frequency increased	0.025869594886898994
+trial_2	naphazoline	27	KG00099303	hyperkalaemia	0.025846291333436966
+trial_2	naphazoline	18	KG00098307	Pain, Chest	0.02533765137195587
+trial_2	naphazoline	131	KG00100948	Urinary tract infection (& [NOS])	0.024960456416010857
+trial_2	naphazoline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.024390414357185364
+trial_2	naphazoline	104	KG00097963	arthralgias	0.02409612014889717
+trial_2	naphazoline	228	KG00114657	Weight below normal	0.024043025448918343
+trial_2	naphazoline	179	KG00099342	hypocalcaemia	0.02367047779262066
+trial_2	naphazoline	441	KG00098262	cellulitis nos	0.023627910763025284
+trial_2	naphazoline	269	KG00100399	pyaemia	0.023520132526755333
+trial_2	naphazoline	36	KG00106434	Vision, Blurring Of	0.023368436843156815
+trial_2	naphazoline	164	KG00108827	ileus colon	0.02284221164882183
+trial_2	naphazoline	122	KG00099321	Hypersensitivity NOS	0.022071005776524544
+trial_2	naphazoline	69	KG00100082	Palpitations NOS	0.021983996033668518
+trial_2	naphazoline	102	KG00097916	anxieties	0.021710358560085297
+trial_2	naphazoline	286	KG00101110	Retention, Urinary	0.021121272817254066
+trial_2	naphazoline	234	KG00098669	dysgeusias	0.020956076681613922
+trial_2	naphazoline	261	KG00101559	raised alkaline phosphatase	0.02085564285516739
+trial_2	naphazoline	75	KG00100195	Dolens, Phlegmasia Alba	0.0207675751298666
+trial_2	naphazoline	163	KG00104050	bowel obstructions small	0.02009708434343338
+trial_2	naphazoline	35	KG00101507	hypomagnesaemia	0.01981682889163494
+trial_2	naphazoline	142	KG00100923	Unspecified infectious and parasitic diseases	0.019769776612520218
+trial_2	naphazoline	139	KG00098855	Sinusitis, Ethmoid	0.01973668485879898
+trial_2	naphazoline	361	KG00098004	Fibrillation, Atrial	0.01939350552856922
+trial_2	naphazoline	116	KG00098964	Pain in foot	0.0193577129393816
+trial_2	naphazoline	253	KG00100232	Pleural effusion NOS (disorder)	0.01893443800508976
+trial_2	naphazoline	282	KG00099309	hypernatraemia	0.018797187134623528
+trial_2	naphazoline	72	KG00103771	myalgias	0.018044183030724525
+trial_2	naphazoline	249	KG00104430	hypoalbuminaemia	0.017901107668876648
+trial_2	naphazoline	204	KG00098849	Esophagitis, Peptic	0.01783941127359867
+trial_2	naphazoline	194	KG00110727	Neutrophil Count Decreased	0.017802195623517036
+trial_2	naphazoline	31	KG00099872	Infarction, Myocardial	0.017709651961922646
+trial_2	naphazoline	508	KG00108565	blood glucose increased	0.017575738951563835
+trial_2	naphazoline	466	KG00101205	fall	0.01755445823073387
+trial_2	naphazoline	121	KG00099190	haemorrhage	0.017445998266339302
+trial_2	naphazoline	101	KG00097901	Anorexia NOS	0.017313053831458092
+trial_2	naphazoline	454	KG00098286	Pain, Neck	0.017256349325180054
+trial_2	naphazoline	53	KG00101550	Pain in eyes	0.017216036096215248
+trial_2	naphazoline	82	KG00097697	abdomen distended	0.01710737682878971
+trial_2	naphazoline	211	KG00100341	Pruritus NOS	0.01698269136250019
+trial_2	naphazoline	268	KG00099557	Heart Failure, Left-Sided	0.016921868547797203
+trial_2	naphazoline	92	KG00100926	Infections, Upper Respiratory	0.0168897807598114
+trial_2	naphazoline	130	KG00100683	Stomatitis NOS	0.01673031784594059
+trial_2	naphazoline	191	KG00104055	Biliverdin increased	0.016609860584139824
+trial_2	naphazoline	144	KG00099610	Leukopenia NOS	0.016608435660600662
+trial_2	naphazoline	262	KG00101199	agitation	0.016444511711597443
+trial_2	naphazoline	394	KG00100243	Pneumonia, Aspiration	0.016413960605859756
+trial_2	naphazoline	221	KG00101207	peripheral oedema	0.01592036336660385
+trial_2	naphazoline	15	KG00097882	Angina pectoris NOS	0.015814583748579025
+trial_2	naphazoline	186	KG00101431	creatinine increased	0.01567273959517479
+trial_2	naphazoline	371	KG00098517	Cystitis (NOS)	0.015398249961435795
+trial_2	naphazoline	355	KG00110857	lymphocyte count decreased	0.015238220803439617
+trial_2	naphazoline	4	KG00098817	epistaxis	0.014609448611736298
+trial_2	naphazoline	256	KG00100738	Tachycardia, Sinus	0.014489424414932728
+trial_2	naphazoline	66	KG00098642	drowsiness	0.014245154336094856
+trial_2	naphazoline	97	KG00104198	LIVER ENZYME ELEVATED	0.014222159050405025
+trial_2	naphazoline	25	KG00099134	congestive failures heart	0.014200574718415737
+trial_2	naphazoline	98	KG00097718	Incised wound, NOS	0.014035561122000217
+trial_2	naphazoline	212	KG00100576	shivers	0.014008129946887493

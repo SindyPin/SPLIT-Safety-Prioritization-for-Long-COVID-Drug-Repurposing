@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09070233255624771
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0777590200304985
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07599533349275589
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06569498032331467
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.057955916970968246
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0531759113073349
+trial_1	placebo	87	KG00098599	diarrhoea	0.05286608263850212
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0516858734190464
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04791482910513878
+trial_1	placebo	77	KG00098450	Constipation NOS	0.045511357486248016
+trial_1	placebo	21	KG00098675	dyspnoea	0.045507919043302536
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.04524226859211922
+trial_1	placebo	46	KG00099121	Headache NOS	0.04290459305047989
+trial_1	placebo	132	KG00101045	Gain, Weight	0.042877715080976486
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.041685570031404495
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04072325676679611
+trial_1	placebo	20	KG00098540	dehydration	0.04042237624526024
+trial_1	placebo	126	KG00100076	Pain NOS	0.03813054412603378
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03464382141828537
+trial_1	placebo	68	KG00099901	nauseas	0.03396786004304886
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0332135446369648
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.031123988330364227
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.030693963170051575
+trial_1	placebo	104	KG00097963	arthralgias	0.030431153252720833
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03018355555832386
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029136771336197853
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02844115160405636
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.028247984126210213
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02816208451986313
+trial_1	placebo	239	KG00100128	pareses	0.027191143482923508
+trial_1	placebo	14	KG00097852	Anemia NOS	0.027169376611709595
+trial_1	placebo	29	KG00099354	hyponatraemia	0.027015699073672295
+trial_1	placebo	228	KG00114657	Weight below normal	0.026869691908359528
+trial_1	placebo	121	KG00099190	haemorrhage	0.026442918926477432
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026155145838856697
+trial_1	placebo	114	KG00098933	fevers	0.025156717747449875
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.024303125217556953
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.024254292249679565
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.023898649960756302
+trial_1	placebo	466	KG00101205	fall	0.023290904238820076
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021894395351409912
+trial_1	placebo	116	KG00098964	Pain in foot	0.021338196471333504
+trial_1	placebo	147	KG00098000	atelectases	0.021278690546751022
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02127244509756565
+trial_1	placebo	72	KG00103771	myalgias	0.021217718720436096
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.021193666383624077
+trial_1	placebo	85	KG00098474	coughs	0.02061859518289566
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.020542720332741737
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02042020671069622
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.020375743508338928
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.020253214985132217
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.020206090062856674
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.020183300599455833
+trial_1	placebo	102	KG00097916	anxieties	0.020069679245352745
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01991078443825245
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.019542943686246872
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01938576251268387
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019378988072276115
+trial_1	placebo	5	KG00099169	haematuria	0.019171595573425293
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019155139103531837
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018759192898869514
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.018752289935946465
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01865416206419468
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018346386030316353
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017918378114700317
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.017905618995428085
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01747381128370762
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.017473401501774788
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01670820452272892
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01631866581737995
+trial_1	placebo	262	KG00101199	agitation	0.016294848173856735
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.016203677281737328
+trial_1	placebo	203	KG00098661	dysarthrias	0.016200553625822067
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.0161428265273571
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01605374366044998
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01597415842115879
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.015633879229426384
+trial_1	placebo	508	KG00108565	blood glucose increased	0.015397383831441402
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01539197750389576
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01536607090383768
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.015257826074957848
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015175637789070606
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01491284929215908
+trial_1	placebo	82	KG00097697	abdomen distended	0.014689057134091854
+trial_1	placebo	456	KG00099420	Influenzae	0.014360208995640278
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.01434912346303463
+trial_1	placebo	363	KG00098184	burns injury	0.014309867285192013
+trial_1	placebo	282	KG00099309	hypernatraemia	0.013663509860634804
+trial_1	placebo	242	KG00100855	tremors	0.01364230178296566
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.013583491556346416
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.013423183001577854
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013055931776762009
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.012956377118825912
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01289402786642313
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.012849109247326851
+trial_1	placebo	269	KG00100399	pyaemia	0.012803868390619755
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.012746520340442657
+trial_1	placebo	154	KG00099686	Lymphopenias	0.012703275308012962
+trial_1	placebo	345	KG00103926	impairments memory	0.012649999000132084
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012625995092093945
+trial_2	norethisterone	78	KG00099326	Hypertensive diseases	0.09070233255624771
+trial_2	norethisterone	177	KG00099299	hyperglycaemia	0.0777590200304985
+trial_2	norethisterone	173	KG00098172	Bronchopneumonia NOS	0.07599533349275589
+trial_2	norethisterone	9	KG00098432	Confusion NOS	0.06569498032331467
+trial_2	norethisterone	17	KG00097991	Asthenia NOS	0.057955916970968246
+trial_2	norethisterone	79	KG00100317	Insomnia, Primary	0.0531759113073349
+trial_2	norethisterone	87	KG00098599	diarrhoea	0.05286608263850212
+trial_2	norethisterone	151	KG00098274	Infarction, Cerebral	0.0516858734190464
+trial_2	norethisterone	86	KG00098565	Depression, Mental	0.04791482910513878
+trial_2	norethisterone	77	KG00098450	Constipation NOS	0.045511357486248016
+trial_2	norethisterone	21	KG00098675	dyspnoea	0.045507919043302536
+trial_2	norethisterone	166	KG00099773	menopausal syndrome	0.04524226859211922
+trial_2	norethisterone	46	KG00099121	Headache NOS	0.04290459305047989
+trial_2	norethisterone	132	KG00101045	Gain, Weight	0.042877715080976486
+trial_2	norethisterone	243	KG00100947	Micturition frequency increased	0.041685570031404495
+trial_2	norethisterone	123	KG00099351	hypokalaemia	0.04072325676679611
+trial_2	norethisterone	20	KG00098540	dehydration	0.04042237624526024
+trial_2	norethisterone	126	KG00100076	Pain NOS	0.03813054412603378
+trial_2	norethisterone	64	KG00097734	Acrodermatitis, NOS	0.03464382141828537
+trial_2	norethisterone	68	KG00099901	nauseas	0.03396786004304886
+trial_2	norethisterone	67	KG00098673	Dyspepsia, NOS	0.0332135446369648
+trial_2	norethisterone	37	KG00097696	Cramps, Abdominal	0.031123988330364227
+trial_2	norethisterone	49	KG00099902	nausea with vomiting	0.030693963170051575
+trial_2	norethisterone	104	KG00097963	arthralgias	0.030431153252720833
+trial_2	norethisterone	28	KG00099347	hypoglycaemia	0.03018355555832386
+trial_2	norethisterone	139	KG00098855	Sinusitis, Ethmoid	0.029136771336197853
+trial_2	norethisterone	96	KG00101679	Unattended death NOS	0.02844115160405636
+trial_2	norethisterone	189	KG00101580	Alanine aminotransferase increase	0.028247984126210213
+trial_2	norethisterone	200	KG00098539	Disorders, Deglutition	0.02816208451986313
+trial_2	norethisterone	239	KG00100128	pareses	0.027191143482923508
+trial_2	norethisterone	14	KG00097852	Anemia NOS	0.027169376611709595
+trial_2	norethisterone	29	KG00099354	hyponatraemia	0.027015699073672295
+trial_2	norethisterone	228	KG00114657	Weight below normal	0.026869691908359528
+trial_2	norethisterone	121	KG00099190	haemorrhage	0.026442918926477432
+trial_2	norethisterone	350	KG00106765	decreased platelet count	0.026155145838856697
+trial_2	norethisterone	114	KG00098933	fevers	0.025156717747449875
+trial_2	norethisterone	180	KG00099363	Hypotension NOS	0.024303125217556953
+trial_2	norethisterone	122	KG00099321	Hypersensitivity NOS	0.024254292249679565
+trial_2	norethisterone	38	KG00098066	Binocular vision disorders	0.023898649960756302
+trial_2	norethisterone	466	KG00101205	fall	0.023290904238820076
+trial_2	norethisterone	441	KG00098262	cellulitis nos	0.021894395351409912
+trial_2	norethisterone	116	KG00098964	Pain in foot	0.021338196471333504
+trial_2	norethisterone	147	KG00098000	atelectases	0.021278690546751022
+trial_2	norethisterone	76	KG00100450	Respiratory insufficiency, NOS	0.02127244509756565
+trial_2	norethisterone	72	KG00103771	myalgias	0.021217718720436096
+trial_2	norethisterone	61	KG00099501	Chronic Kidney Failure	0.021193666383624077
+trial_2	norethisterone	85	KG00098474	coughs	0.02061859518289566
+trial_2	norethisterone	131	KG00100948	Urinary tract infection (& [NOS])	0.020542720332741737
+trial_2	norethisterone	396	KG00100373	Embolism, Pulmonary	0.02042020671069622
+trial_2	norethisterone	188	KG00101579	Aspartate aminotransferase increase	0.020375743508338928
+trial_2	norethisterone	297	KG00099294	hypercholesterolaemia	0.020253214985132217
+trial_2	norethisterone	2	KG00100772	thrombocytopaenia	0.020206090062856674
+trial_2	norethisterone	27	KG00099303	hyperkalaemia	0.020183300599455833
+trial_2	norethisterone	102	KG00097916	anxieties	0.020069679245352745
+trial_2	norethisterone	179	KG00099342	hypocalcaemia	0.01991078443825245
+trial_2	norethisterone	30	KG00099500	Acute Kidney Failure	0.019542943686246872
+trial_2	norethisterone	361	KG00098004	Fibrillation, Atrial	0.01938576251268387
+trial_2	norethisterone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019378988072276115
+trial_2	norethisterone	5	KG00099169	haematuria	0.019171595573425293
+trial_2	norethisterone	18	KG00098307	Pain, Chest	0.019155139103531837
+trial_2	norethisterone	142	KG00100923	Unspecified infectious and parasitic diseases	0.018759192898869514
+trial_2	norethisterone	75	KG00100195	Dolens, Phlegmasia Alba	0.018752289935946465
+trial_2	norethisterone	286	KG00101110	Retention, Urinary	0.01865416206419468
+trial_2	norethisterone	31	KG00099872	Infarction, Myocardial	0.018346386030316353
+trial_2	norethisterone	69	KG00100082	Palpitations NOS	0.017918378114700317
+trial_2	norethisterone	211	KG00100341	Pruritus NOS	0.017905618995428085
+trial_2	norethisterone	133	KG00101370	neuropathies sensory	0.01747381128370762
+trial_2	norethisterone	22	KG00098705	Edema (NOS)	0.017473401501774788
+trial_2	norethisterone	249	KG00104430	hypoalbuminaemia	0.01670820452272892
+trial_2	norethisterone	221	KG00101207	peripheral oedema	0.01631866581737995
+trial_2	norethisterone	262	KG00101199	agitation	0.016294848173856735
+trial_2	norethisterone	15	KG00097882	Angina pectoris NOS	0.016203677281737328
+trial_2	norethisterone	203	KG00098661	dysarthrias	0.016200553625822067
+trial_2	norethisterone	152	KG00099402	INCONTINENCE NOS	0.0161428265273571
+trial_2	norethisterone	118	KG00099011	Gastritis NOS	0.01605374366044998
+trial_2	norethisterone	276	KG00099127	Arrest, Cardiac	0.01597415842115879
+trial_2	norethisterone	246	KG00103338	Aspartate Aminotransferase Measurement	0.015633879229426384
+trial_2	norethisterone	508	KG00108565	blood glucose increased	0.015397383831441402
+trial_2	norethisterone	92	KG00100926	Infections, Upper Respiratory	0.01539197750389576
+trial_2	norethisterone	11	KG00097993	Asthma NOS	0.01536607090383768
+trial_2	norethisterone	254	KG00100774	Thrombosis NOS	0.015257826074957848
+trial_2	norethisterone	101	KG00097901	Anorexia NOS	0.015175637789070606
+trial_2	norethisterone	36	KG00106434	Vision, Blurring Of	0.01491284929215908
+trial_2	norethisterone	82	KG00097697	abdomen distended	0.014689057134091854
+trial_2	norethisterone	456	KG00099420	Influenzae	0.014360208995640278
+trial_2	norethisterone	160	KG00099291	hypercalcaemia	0.01434912346303463
+trial_2	norethisterone	363	KG00098184	burns injury	0.014309867285192013
+trial_2	norethisterone	282	KG00099309	hypernatraemia	0.013663509860634804
+trial_2	norethisterone	242	KG00100855	tremors	0.01364230178296566
+trial_2	norethisterone	204	KG00098849	Esophagitis, Peptic	0.013583491556346416
+trial_2	norethisterone	261	KG00101559	raised alkaline phosphatase	0.013423183001577854
+trial_2	norethisterone	194	KG00110727	Neutrophil Count Decreased	0.013055931776762009
+trial_2	norethisterone	19	KG00098331	Cholecystitis NOS	0.012956377118825912
+trial_2	norethisterone	288	KG00101223	hypophosphataemia	0.01289402786642313
+trial_2	norethisterone	35	KG00101507	hypomagnesaemia	0.012849109247326851
+trial_2	norethisterone	269	KG00100399	pyaemia	0.012803868390619755
+trial_2	norethisterone	253	KG00100232	Pleural effusion NOS (disorder)	0.012746520340442657
+trial_2	norethisterone	154	KG00099686	Lymphopenias	0.012703275308012962
+trial_2	norethisterone	345	KG00103926	impairments memory	0.012649999000132084
+trial_2	norethisterone	138	KG00098796	epidemic vomiting syndrome	0.012625995092093945

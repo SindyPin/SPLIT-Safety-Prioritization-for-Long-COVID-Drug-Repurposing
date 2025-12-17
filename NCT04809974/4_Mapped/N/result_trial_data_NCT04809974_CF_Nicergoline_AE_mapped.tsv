@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15704238414764404
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15104040503501892
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11943385750055313
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11333988606929779
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10864702612161636
+trial_1	placebo	20	KG00098540	dehydration	0.09688284248113632
+trial_1	placebo	68	KG00099901	nauseas	0.09492339938879013
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09168073534965515
+trial_1	placebo	46	KG00099121	Headache NOS	0.0912376120686531
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0905698612332344
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0890641063451767
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08696435391902924
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08678694069385529
+trial_1	placebo	21	KG00098675	dyspnoea	0.08121932297945023
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07963713258504868
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07370375841856003
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.073403000831604
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06250691413879395
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06245019659399986
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06161384657025337
+trial_1	placebo	114	KG00098933	fevers	0.06083352118730545
+trial_1	placebo	104	KG00097963	arthralgias	0.057842500507831573
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05763299763202667
+trial_1	placebo	85	KG00098474	coughs	0.05744314566254616
+trial_1	placebo	5	KG00099169	haematuria	0.05439658463001251
+trial_1	placebo	228	KG00114657	Weight below normal	0.05370304360985756
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05047107860445976
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04956791177392006
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04944571480154991
+trial_1	placebo	239	KG00100128	pareses	0.049267154186964035
+trial_1	placebo	126	KG00100076	Pain NOS	0.04797188565135002
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04704686999320984
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04663980007171631
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04574163630604744
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04550139605998993
+trial_1	placebo	29	KG00099354	hyponatraemia	0.045002281665802
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04391605779528618
+trial_1	placebo	102	KG00097916	anxieties	0.04292798042297363
+trial_1	placebo	72	KG00103771	myalgias	0.04290151968598366
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04264211282134056
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04249870032072067
+trial_1	placebo	466	KG00101205	fall	0.04173559695482254
+trial_1	placebo	132	KG00101045	Gain, Weight	0.041101422160863876
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04101738706231117
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.0405854731798172
+trial_1	placebo	18	KG00098307	Pain, Chest	0.040042951703071594
+trial_1	placebo	116	KG00098964	Pain in foot	0.03913196176290512
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03901427611708641
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.038563381880521774
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03808331862092018
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03786113113164902
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.036970142275094986
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03588724508881569
+trial_1	placebo	262	KG00101199	agitation	0.035546112805604935
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03518010303378105
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03396299108862877
+trial_1	placebo	82	KG00097697	abdomen distended	0.03340190276503563
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03311602771282196
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03306376934051514
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.032857708632946014
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.032695889472961426
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.032294031232595444
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03120478428900242
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.0311583224684
+trial_1	placebo	508	KG00108565	blood glucose increased	0.03056144528090954
+trial_1	placebo	164	KG00108827	ileus colon	0.03037087246775627
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03014504909515381
+trial_1	placebo	456	KG00099420	Influenzae	0.029660921543836594
+trial_1	placebo	147	KG00098000	atelectases	0.029575275257229805
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.028733694925904274
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.027539897710084915
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.027426615357398987
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02705545909702778
+trial_1	placebo	153	KG00099579	lethargy	0.02702019363641739
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02687138132750988
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02667458914220333
+trial_1	placebo	282	KG00099309	hypernatraemia	0.026543723419308662
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026389701291918755
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026354068890213966
+trial_1	placebo	269	KG00100399	pyaemia	0.025953734293580055
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02571754716336727
+trial_1	placebo	66	KG00098642	drowsiness	0.025524543598294258
+trial_1	placebo	441	KG00098262	cellulitis nos	0.025497816503047943
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.025486426427960396
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02547295391559601
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.024849949404597282
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.024757513776421547
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.02466910518705845
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02466706931591034
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024589676409959793
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02458915114402771
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.024492604658007622
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02419053576886654
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.023966975510120392
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023413583636283875
+trial_1	placebo	186	KG00101431	creatinine increased	0.02332417480647564
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.023315420374274254
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02314119040966034
+trial_1	placebo	242	KG00100855	tremors	0.022933831438422203
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02291659265756607
+trial_2	nicergoline	87	KG00098599	diarrhoea	0.15704238414764404
+trial_2	nicergoline	78	KG00099326	Hypertensive diseases	0.15104040503501892
+trial_2	nicergoline	17	KG00097991	Asthenia NOS	0.11943385750055313
+trial_2	nicergoline	173	KG00098172	Bronchopneumonia NOS	0.11333988606929779
+trial_2	nicergoline	177	KG00099299	hyperglycaemia	0.10864702612161636
+trial_2	nicergoline	20	KG00098540	dehydration	0.09688284248113632
+trial_2	nicergoline	68	KG00099901	nauseas	0.09492339938879013
+trial_2	nicergoline	9	KG00098432	Confusion NOS	0.09168073534965515
+trial_2	nicergoline	46	KG00099121	Headache NOS	0.0912376120686531
+trial_2	nicergoline	77	KG00098450	Constipation NOS	0.0905698612332344
+trial_2	nicergoline	49	KG00099902	nausea with vomiting	0.0890641063451767
+trial_2	nicergoline	79	KG00100317	Insomnia, Primary	0.08696435391902924
+trial_2	nicergoline	123	KG00099351	hypokalaemia	0.08678694069385529
+trial_2	nicergoline	21	KG00098675	dyspnoea	0.08121932297945023
+trial_2	nicergoline	67	KG00098673	Dyspepsia, NOS	0.07963713258504868
+trial_2	nicergoline	37	KG00097696	Cramps, Abdominal	0.07370375841856003
+trial_2	nicergoline	189	KG00101580	Alanine aminotransferase increase	0.073403000831604
+trial_2	nicergoline	188	KG00101579	Aspartate aminotransferase increase	0.06250691413879395
+trial_2	nicergoline	86	KG00098565	Depression, Mental	0.06245019659399986
+trial_2	nicergoline	200	KG00098539	Disorders, Deglutition	0.06161384657025337
+trial_2	nicergoline	114	KG00098933	fevers	0.06083352118730545
+trial_2	nicergoline	104	KG00097963	arthralgias	0.057842500507831573
+trial_2	nicergoline	14	KG00097852	Anemia NOS	0.05763299763202667
+trial_2	nicergoline	85	KG00098474	coughs	0.05744314566254616
+trial_2	nicergoline	5	KG00099169	haematuria	0.05439658463001251
+trial_2	nicergoline	228	KG00114657	Weight below normal	0.05370304360985756
+trial_2	nicergoline	350	KG00106765	decreased platelet count	0.05047107860445976
+trial_2	nicergoline	151	KG00098274	Infarction, Cerebral	0.04956791177392006
+trial_2	nicergoline	64	KG00097734	Acrodermatitis, NOS	0.04944571480154991
+trial_2	nicergoline	239	KG00100128	pareses	0.049267154186964035
+trial_2	nicergoline	126	KG00100076	Pain NOS	0.04797188565135002
+trial_2	nicergoline	139	KG00098855	Sinusitis, Ethmoid	0.04704686999320984
+trial_2	nicergoline	243	KG00100947	Micturition frequency increased	0.04663980007171631
+trial_2	nicergoline	180	KG00099363	Hypotension NOS	0.04574163630604744
+trial_2	nicergoline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04550139605998993
+trial_2	nicergoline	29	KG00099354	hyponatraemia	0.045002281665802
+trial_2	nicergoline	101	KG00097901	Anorexia NOS	0.04391605779528618
+trial_2	nicergoline	102	KG00097916	anxieties	0.04292798042297363
+trial_2	nicergoline	72	KG00103771	myalgias	0.04290151968598366
+trial_2	nicergoline	76	KG00100450	Respiratory insufficiency, NOS	0.04264211282134056
+trial_2	nicergoline	2	KG00100772	thrombocytopaenia	0.04249870032072067
+trial_2	nicergoline	466	KG00101205	fall	0.04173559695482254
+trial_2	nicergoline	132	KG00101045	Gain, Weight	0.041101422160863876
+trial_2	nicergoline	131	KG00100948	Urinary tract infection (& [NOS])	0.04101738706231117
+trial_2	nicergoline	30	KG00099500	Acute Kidney Failure	0.0405854731798172
+trial_2	nicergoline	18	KG00098307	Pain, Chest	0.040042951703071594
+trial_2	nicergoline	116	KG00098964	Pain in foot	0.03913196176290512
+trial_2	nicergoline	96	KG00101679	Unattended death NOS	0.03901427611708641
+trial_2	nicergoline	28	KG00099347	hypoglycaemia	0.038563381880521774
+trial_2	nicergoline	61	KG00099501	Chronic Kidney Failure	0.03808331862092018
+trial_2	nicergoline	122	KG00099321	Hypersensitivity NOS	0.03786113113164902
+trial_2	nicergoline	38	KG00098066	Binocular vision disorders	0.036970142275094986
+trial_2	nicergoline	27	KG00099303	hyperkalaemia	0.03588724508881569
+trial_2	nicergoline	262	KG00101199	agitation	0.035546112805604935
+trial_2	nicergoline	92	KG00100926	Infections, Upper Respiratory	0.03518010303378105
+trial_2	nicergoline	396	KG00100373	Embolism, Pulmonary	0.03396299108862877
+trial_2	nicergoline	82	KG00097697	abdomen distended	0.03340190276503563
+trial_2	nicergoline	422	KG00101429	Creatine phosphokinase increased	0.03311602771282196
+trial_2	nicergoline	341	KG00101472	Gamma-glutamyltransferase increased	0.03306376934051514
+trial_2	nicergoline	194	KG00110727	Neutrophil Count Decreased	0.032857708632946014
+trial_2	nicergoline	179	KG00099342	hypocalcaemia	0.032695889472961426
+trial_2	nicergoline	204	KG00098849	Esophagitis, Peptic	0.032294031232595444
+trial_2	nicergoline	69	KG00100082	Palpitations NOS	0.03120478428900242
+trial_2	nicergoline	276	KG00099127	Arrest, Cardiac	0.0311583224684
+trial_2	nicergoline	508	KG00108565	blood glucose increased	0.03056144528090954
+trial_2	nicergoline	164	KG00108827	ileus colon	0.03037087246775627
+trial_2	nicergoline	199	KG00098371	Rhinitis (chronic) NOS	0.03014504909515381
+trial_2	nicergoline	456	KG00099420	Influenzae	0.029660921543836594
+trial_2	nicergoline	147	KG00098000	atelectases	0.029575275257229805
+trial_2	nicergoline	261	KG00101559	raised alkaline phosphatase	0.028733694925904274
+trial_2	nicergoline	286	KG00101110	Retention, Urinary	0.027539897710084915
+trial_2	nicergoline	355	KG00110857	lymphocyte count decreased	0.027426615357398987
+trial_2	nicergoline	33	KG00100094	Pancreatitis NOS	0.02705545909702778
+trial_2	nicergoline	153	KG00099579	lethargy	0.02702019363641739
+trial_2	nicergoline	15	KG00097882	Angina pectoris NOS	0.02687138132750988
+trial_2	nicergoline	144	KG00099610	Leukopenia NOS	0.02667458914220333
+trial_2	nicergoline	282	KG00099309	hypernatraemia	0.026543723419308662
+trial_2	nicergoline	36	KG00106434	Vision, Blurring Of	0.026389701291918755
+trial_2	nicergoline	75	KG00100195	Dolens, Phlegmasia Alba	0.026354068890213966
+trial_2	nicergoline	269	KG00100399	pyaemia	0.025953734293580055
+trial_2	nicergoline	297	KG00099294	hypercholesterolaemia	0.02571754716336727
+trial_2	nicergoline	66	KG00098642	drowsiness	0.025524543598294258
+trial_2	nicergoline	441	KG00098262	cellulitis nos	0.025497816503047943
+trial_2	nicergoline	371	KG00098517	Cystitis (NOS)	0.025486426427960396
+trial_2	nicergoline	11	KG00097993	Asthma NOS	0.02547295391559601
+trial_2	nicergoline	361	KG00098004	Fibrillation, Atrial	0.024849949404597282
+trial_2	nicergoline	98	KG00097718	Incised wound, NOS	0.024757513776421547
+trial_2	nicergoline	394	KG00100243	Pneumonia, Aspiration	0.02466910518705845
+trial_2	nicergoline	138	KG00098796	epidemic vomiting syndrome	0.02466706931591034
+trial_2	nicergoline	142	KG00100923	Unspecified infectious and parasitic diseases	0.024589676409959793
+trial_2	nicergoline	118	KG00099011	Gastritis NOS	0.02458915114402771
+trial_2	nicergoline	191	KG00104055	Biliverdin increased	0.024492604658007622
+trial_2	nicergoline	97	KG00104198	LIVER ENZYME ELEVATED	0.02419053576886654
+trial_2	nicergoline	152	KG00099402	INCONTINENCE NOS	0.023966975510120392
+trial_2	nicergoline	221	KG00101207	peripheral oedema	0.023413583636283875
+trial_2	nicergoline	186	KG00101431	creatinine increased	0.02332417480647564
+trial_2	nicergoline	211	KG00100341	Pruritus NOS	0.023315420374274254
+trial_2	nicergoline	1	KG00099959	Neutropenia NOS	0.02314119040966034
+trial_2	nicergoline	242	KG00100855	tremors	0.022933831438422203
+trial_2	nicergoline	253	KG00100232	Pleural effusion NOS (disorder)	0.02291659265756607

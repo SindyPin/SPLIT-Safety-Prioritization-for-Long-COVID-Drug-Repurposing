@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1795855313539505
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14153440296649933
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1270066797733307
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12423253059387207
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11862708628177643
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1123059093952179
+trial_1	placebo	68	KG00099901	nauseas	0.1054447814822197
+trial_1	placebo	20	KG00098540	dehydration	0.09965002536773682
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09612800180912018
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09408950805664062
+trial_1	placebo	21	KG00098675	dyspnoea	0.09376200288534164
+trial_1	placebo	228	KG00114657	Weight below normal	0.08741285651922226
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08569911867380142
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08404912799596786
+trial_1	placebo	46	KG00099121	Headache NOS	0.08230701833963394
+trial_1	placebo	14	KG00097852	Anemia NOS	0.08060441166162491
+trial_1	placebo	114	KG00098933	fevers	0.07633928209543228
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07417897135019302
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07271664589643478
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07214896380901337
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07186698913574219
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07163836807012558
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07144122570753098
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06785114109516144
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0659511610865593
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06251057237386703
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06128094345331192
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05860624462366104
+trial_1	placebo	72	KG00103771	myalgias	0.05614837631583214
+trial_1	placebo	85	KG00098474	coughs	0.05363481119275093
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05126367509365082
+trial_1	placebo	126	KG00100076	Pain NOS	0.0508611723780632
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05067532882094383
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04957406595349312
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04914034903049469
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04806077107787132
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04792090877890587
+trial_1	placebo	104	KG00097963	arthralgias	0.04784765839576721
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04745490849018097
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04662102088332176
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04408607259392738
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04397374391555786
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04393530264496803
+trial_1	placebo	239	KG00100128	pareses	0.043358687311410904
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.042388107627630234
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.041698552668094635
+trial_1	placebo	147	KG00098000	atelectases	0.040477704256772995
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.040266405791044235
+trial_1	placebo	100	KG00097815	alopecias	0.03830759972333908
+trial_1	placebo	5	KG00099169	haematuria	0.03811632841825485
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03636954352259636
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03507929667830467
+trial_1	placebo	269	KG00100399	pyaemia	0.03440271317958832
+trial_1	placebo	102	KG00097916	anxieties	0.03422819450497627
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03397339582443237
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03383210301399231
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03382321074604988
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03367411717772484
+trial_1	placebo	121	KG00099190	haemorrhage	0.033456951379776
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.03285545855760574
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.032207928597927094
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03219347074627876
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03142031282186508
+trial_1	placebo	18	KG00098307	Pain, Chest	0.031376373022794724
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.030869146808981895
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030836407095193863
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.029907090589404106
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.029505612328648567
+trial_1	placebo	262	KG00101199	agitation	0.029039708897471428
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.028820618987083435
+trial_1	placebo	116	KG00098964	Pain in foot	0.028767788782715797
+trial_1	placebo	234	KG00098669	dysgeusias	0.028499407693743706
+trial_1	placebo	132	KG00101045	Gain, Weight	0.028276585042476654
+trial_1	placebo	164	KG00108827	ileus colon	0.028065038844943047
+trial_1	placebo	82	KG00097697	abdomen distended	0.02796110510826111
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.027869153767824173
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02715119533240795
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02681772969663143
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025799451395869255
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02557949721813202
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.024975012987852097
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.023841341957449913
+trial_1	placebo	212	KG00100576	shivers	0.02357100136578083
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023498158901929855
+trial_1	placebo	441	KG00098262	cellulitis nos	0.023465711623430252
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023067036643624306
+trial_1	placebo	186	KG00101431	creatinine increased	0.02289770171046257
+trial_1	placebo	466	KG00101205	fall	0.02272959053516388
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.021695882081985474
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021628210321068764
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021368857473134995
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021083474159240723
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.021077072247862816
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021061789244413376
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020975643768906593
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020929761230945587
+trial_1	placebo	136	KG00101582	Dry;skin	0.020365538075566292
+trial_1	placebo	4	KG00098817	epistaxis	0.020097464323043823
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.019317148253321648
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019313937053084373
+trial_2	novobiocin	87	KG00098599	diarrhoea	0.1795855313539505
+trial_2	novobiocin	177	KG00099299	hyperglycaemia	0.14153440296649933
+trial_2	novobiocin	78	KG00099326	Hypertensive diseases	0.1270066797733307
+trial_2	novobiocin	17	KG00097991	Asthenia NOS	0.12423253059387207
+trial_2	novobiocin	173	KG00098172	Bronchopneumonia NOS	0.11862708628177643
+trial_2	novobiocin	123	KG00099351	hypokalaemia	0.1123059093952179
+trial_2	novobiocin	68	KG00099901	nauseas	0.1054447814822197
+trial_2	novobiocin	20	KG00098540	dehydration	0.09965002536773682
+trial_2	novobiocin	189	KG00101580	Alanine aminotransferase increase	0.09612800180912018
+trial_2	novobiocin	49	KG00099902	nausea with vomiting	0.09408950805664062
+trial_2	novobiocin	21	KG00098675	dyspnoea	0.09376200288534164
+trial_2	novobiocin	228	KG00114657	Weight below normal	0.08741285651922226
+trial_2	novobiocin	37	KG00097696	Cramps, Abdominal	0.08569911867380142
+trial_2	novobiocin	9	KG00098432	Confusion NOS	0.08404912799596786
+trial_2	novobiocin	46	KG00099121	Headache NOS	0.08230701833963394
+trial_2	novobiocin	14	KG00097852	Anemia NOS	0.08060441166162491
+trial_2	novobiocin	114	KG00098933	fevers	0.07633928209543228
+trial_2	novobiocin	67	KG00098673	Dyspepsia, NOS	0.07417897135019302
+trial_2	novobiocin	64	KG00097734	Acrodermatitis, NOS	0.07271664589643478
+trial_2	novobiocin	79	KG00100317	Insomnia, Primary	0.07214896380901337
+trial_2	novobiocin	2	KG00100772	thrombocytopaenia	0.07186698913574219
+trial_2	novobiocin	188	KG00101579	Aspartate aminotransferase increase	0.07163836807012558
+trial_2	novobiocin	350	KG00106765	decreased platelet count	0.07144122570753098
+trial_2	novobiocin	29	KG00099354	hyponatraemia	0.06785114109516144
+trial_2	novobiocin	200	KG00098539	Disorders, Deglutition	0.0659511610865593
+trial_2	novobiocin	77	KG00098450	Constipation NOS	0.06251057237386703
+trial_2	novobiocin	101	KG00097901	Anorexia NOS	0.06128094345331192
+trial_2	novobiocin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05860624462366104
+trial_2	novobiocin	72	KG00103771	myalgias	0.05614837631583214
+trial_2	novobiocin	85	KG00098474	coughs	0.05363481119275093
+trial_2	novobiocin	86	KG00098565	Depression, Mental	0.05126367509365082
+trial_2	novobiocin	126	KG00100076	Pain NOS	0.0508611723780632
+trial_2	novobiocin	180	KG00099363	Hypotension NOS	0.05067532882094383
+trial_2	novobiocin	151	KG00098274	Infarction, Cerebral	0.04957406595349312
+trial_2	novobiocin	194	KG00110727	Neutrophil Count Decreased	0.04914034903049469
+trial_2	novobiocin	179	KG00099342	hypocalcaemia	0.04806077107787132
+trial_2	novobiocin	76	KG00100450	Respiratory insufficiency, NOS	0.04792090877890587
+trial_2	novobiocin	104	KG00097963	arthralgias	0.04784765839576721
+trial_2	novobiocin	1	KG00099959	Neutropenia NOS	0.04745490849018097
+trial_2	novobiocin	122	KG00099321	Hypersensitivity NOS	0.04662102088332176
+trial_2	novobiocin	142	KG00100923	Unspecified infectious and parasitic diseases	0.04408607259392738
+trial_2	novobiocin	96	KG00101679	Unattended death NOS	0.04397374391555786
+trial_2	novobiocin	243	KG00100947	Micturition frequency increased	0.04393530264496803
+trial_2	novobiocin	239	KG00100128	pareses	0.043358687311410904
+trial_2	novobiocin	61	KG00099501	Chronic Kidney Failure	0.042388107627630234
+trial_2	novobiocin	27	KG00099303	hyperkalaemia	0.041698552668094635
+trial_2	novobiocin	147	KG00098000	atelectases	0.040477704256772995
+trial_2	novobiocin	144	KG00099610	Leukopenia NOS	0.040266405791044235
+trial_2	novobiocin	100	KG00097815	alopecias	0.03830759972333908
+trial_2	novobiocin	5	KG00099169	haematuria	0.03811632841825485
+trial_2	novobiocin	28	KG00099347	hypoglycaemia	0.03636954352259636
+trial_2	novobiocin	282	KG00099309	hypernatraemia	0.03507929667830467
+trial_2	novobiocin	269	KG00100399	pyaemia	0.03440271317958832
+trial_2	novobiocin	102	KG00097916	anxieties	0.03422819450497627
+trial_2	novobiocin	154	KG00099686	Lymphopenias	0.03397339582443237
+trial_2	novobiocin	249	KG00104430	hypoalbuminaemia	0.03383210301399231
+trial_2	novobiocin	261	KG00101559	raised alkaline phosphatase	0.03382321074604988
+trial_2	novobiocin	30	KG00099500	Acute Kidney Failure	0.03367411717772484
+trial_2	novobiocin	121	KG00099190	haemorrhage	0.033456951379776
+trial_2	novobiocin	170	KG00108926	Neutropenia, Febrile	0.03285545855760574
+trial_2	novobiocin	139	KG00098855	Sinusitis, Ethmoid	0.032207928597927094
+trial_2	novobiocin	38	KG00098066	Binocular vision disorders	0.03219347074627876
+trial_2	novobiocin	355	KG00110857	lymphocyte count decreased	0.03142031282186508
+trial_2	novobiocin	18	KG00098307	Pain, Chest	0.031376373022794724
+trial_2	novobiocin	396	KG00100373	Embolism, Pulmonary	0.030869146808981895
+trial_2	novobiocin	131	KG00100948	Urinary tract infection (& [NOS])	0.030836407095193863
+trial_2	novobiocin	191	KG00104055	Biliverdin increased	0.029907090589404106
+trial_2	novobiocin	69	KG00100082	Palpitations NOS	0.029505612328648567
+trial_2	novobiocin	262	KG00101199	agitation	0.029039708897471428
+trial_2	novobiocin	130	KG00100683	Stomatitis NOS	0.028820618987083435
+trial_2	novobiocin	116	KG00098964	Pain in foot	0.028767788782715797
+trial_2	novobiocin	234	KG00098669	dysgeusias	0.028499407693743706
+trial_2	novobiocin	132	KG00101045	Gain, Weight	0.028276585042476654
+trial_2	novobiocin	164	KG00108827	ileus colon	0.028065038844943047
+trial_2	novobiocin	82	KG00097697	abdomen distended	0.02796110510826111
+trial_2	novobiocin	276	KG00099127	Arrest, Cardiac	0.027869153767824173
+trial_2	novobiocin	253	KG00100232	Pleural effusion NOS (disorder)	0.02715119533240795
+trial_2	novobiocin	35	KG00101507	hypomagnesaemia	0.02681772969663143
+trial_2	novobiocin	341	KG00101472	Gamma-glutamyltransferase increased	0.025799451395869255
+trial_2	novobiocin	75	KG00100195	Dolens, Phlegmasia Alba	0.02557949721813202
+trial_2	novobiocin	288	KG00101223	hypophosphataemia	0.024975012987852097
+trial_2	novobiocin	133	KG00101370	neuropathies sensory	0.023841341957449913
+trial_2	novobiocin	212	KG00100576	shivers	0.02357100136578083
+trial_2	novobiocin	361	KG00098004	Fibrillation, Atrial	0.023498158901929855
+trial_2	novobiocin	441	KG00098262	cellulitis nos	0.023465711623430252
+trial_2	novobiocin	36	KG00106434	Vision, Blurring Of	0.023067036643624306
+trial_2	novobiocin	186	KG00101431	creatinine increased	0.02289770171046257
+trial_2	novobiocin	466	KG00101205	fall	0.02272959053516388
+trial_2	novobiocin	254	KG00100774	Thrombosis NOS	0.021695882081985474
+trial_2	novobiocin	31	KG00099872	Infarction, Myocardial	0.021628210321068764
+trial_2	novobiocin	286	KG00101110	Retention, Urinary	0.021368857473134995
+trial_2	novobiocin	33	KG00100094	Pancreatitis NOS	0.021083474159240723
+trial_2	novobiocin	246	KG00103338	Aspartate Aminotransferase Measurement	0.021077072247862816
+trial_2	novobiocin	356	KG00112623	Infectious Lung Disorders	0.021061789244413376
+trial_2	novobiocin	92	KG00100926	Infections, Upper Respiratory	0.020975643768906593
+trial_2	novobiocin	508	KG00108565	blood glucose increased	0.020929761230945587
+trial_2	novobiocin	136	KG00101582	Dry;skin	0.020365538075566292
+trial_2	novobiocin	4	KG00098817	epistaxis	0.020097464323043823
+trial_2	novobiocin	211	KG00100341	Pruritus NOS	0.019317148253321648
+trial_2	novobiocin	221	KG00101207	peripheral oedema	0.019313937053084373

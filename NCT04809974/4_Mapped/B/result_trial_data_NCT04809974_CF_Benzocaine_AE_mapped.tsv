@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.03611987456679344
+trial_1	placebo	9	KG00098432	Confusion NOS	0.034692827612161636
+trial_1	placebo	21	KG00098675	dyspnoea	0.030908837914466858
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.029479024931788445
+trial_1	placebo	87	KG00098599	diarrhoea	0.027760310098528862
+trial_1	placebo	46	KG00099121	Headache NOS	0.025445234030485153
+trial_1	placebo	123	KG00099351	hypokalaemia	0.023756761103868484
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.02356022782623768
+trial_1	placebo	77	KG00098450	Constipation NOS	0.02323773130774498
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02321186661720276
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.022947965189814568
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.021440668031573296
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02099941112101078
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.020931582897901535
+trial_1	placebo	20	KG00098540	dehydration	0.020836394280195236
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.020229527726769447
+trial_1	placebo	126	KG00100076	Pain NOS	0.019621670246124268
+trial_1	placebo	147	KG00098000	atelectases	0.019273653626441956
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.019063159823417664
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.01791536435484886
+trial_1	placebo	14	KG00097852	Anemia NOS	0.017802080139517784
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.017691006883978844
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.01754843257367611
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.017512748017907143
+trial_1	placebo	114	KG00098933	fevers	0.017488380894064903
+trial_1	placebo	68	KG00099901	nauseas	0.01686028018593788
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.016225462779402733
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015651771798729897
+trial_1	placebo	5	KG00099169	haematuria	0.014750219881534576
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.014690287411212921
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014506599865853786
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.01419833768159151
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01381086464971304
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.013135542161762714
+trial_1	placebo	18	KG00098307	Pain, Chest	0.013112420216202736
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.012844277545809746
+trial_1	placebo	269	KG00100399	pyaemia	0.012742849066853523
+trial_1	placebo	85	KG00098474	coughs	0.01229797676205635
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.012151096016168594
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.012003210373222828
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.011992528103291988
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01181077677756548
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01173583697527647
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.011505198664963245
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.011412973515689373
+trial_1	placebo	121	KG00099190	haemorrhage	0.01133787166327238
+trial_1	placebo	102	KG00097916	anxieties	0.010994603857398033
+trial_1	placebo	234	KG00098669	dysgeusias	0.010858953930437565
+trial_1	placebo	4	KG00098817	epistaxis	0.010797551833093166
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.010535500943660736
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.010523057542741299
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.010493239387869835
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.010379788465797901
+trial_1	placebo	29	KG00099354	hyponatraemia	0.009989402256906033
+trial_1	placebo	104	KG00097963	arthralgias	0.009530098177492619
+trial_1	placebo	228	KG00114657	Weight below normal	0.009518739767372608
+trial_1	placebo	72	KG00103771	myalgias	0.009494771249592304
+trial_1	placebo	86	KG00098565	Depression, Mental	0.00949366856366396
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.009385393001139164
+trial_1	placebo	221	KG00101207	peripheral oedema	0.009351900778710842
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.009189360775053501
+trial_1	placebo	11	KG00097993	Asthma NOS	0.00918581336736679
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.009163212962448597
+trial_1	placebo	116	KG00098964	Pain in foot	0.009116173721849918
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.009069635532796383
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.008945785462856293
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.008871509693562984
+trial_1	placebo	466	KG00101205	fall	0.008760017342865467
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.008656567893922329
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.008567888289690018
+trial_1	placebo	257	KG00100922	Erythema NOS	0.008247154764831066
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.007964424788951874
+trial_1	placebo	239	KG00100128	pareses	0.007950511761009693
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.007950343191623688
+trial_1	placebo	350	KG00106765	decreased platelet count	0.007882891222834587
+trial_1	placebo	25	KG00099134	congestive failures heart	0.0077683646231889725
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.007559129968285561
+trial_1	placebo	164	KG00108827	ileus colon	0.0075164842419326305
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.007495042402297258
+trial_1	placebo	136	KG00101582	Dry;skin	0.007492543198168278
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.007252189796417952
+trial_1	placebo	456	KG00099420	Influenzae	0.007250648457556963
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.0072458344511687756
+trial_1	placebo	300	KG00101064	xerostomia	0.0072143287397921085
+trial_1	placebo	53	KG00101550	Pain in eyes	0.007204758934676647
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.0071856058202683926
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.007076505571603775
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.007048888131976128
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.007001218851655722
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.006965233478695154
+trial_1	placebo	82	KG00097697	abdomen distended	0.00684700021520257
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.006804192438721657
+trial_1	placebo	282	KG00099309	hypernatraemia	0.006759169511497021
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.006748437415808439
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.006699200253933668
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.006634610705077648
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.006555535830557346
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.006520074326545
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.006496700458228588
+trial_1	placebo	66	KG00098642	drowsiness	0.006455291528254747
+trial_2	benzocaine	173	KG00098172	Bronchopneumonia NOS	0.03611987456679344
+trial_2	benzocaine	9	KG00098432	Confusion NOS	0.034692827612161636
+trial_2	benzocaine	21	KG00098675	dyspnoea	0.030908837914466858
+trial_2	benzocaine	78	KG00099326	Hypertensive diseases	0.029479024931788445
+trial_2	benzocaine	87	KG00098599	diarrhoea	0.027760310098528862
+trial_2	benzocaine	46	KG00099121	Headache NOS	0.025445234030485153
+trial_2	benzocaine	123	KG00099351	hypokalaemia	0.023756761103868484
+trial_2	benzocaine	64	KG00097734	Acrodermatitis, NOS	0.02356022782623768
+trial_2	benzocaine	77	KG00098450	Constipation NOS	0.02323773130774498
+trial_2	benzocaine	49	KG00099902	nausea with vomiting	0.02321186661720276
+trial_2	benzocaine	151	KG00098274	Infarction, Cerebral	0.022947965189814568
+trial_2	benzocaine	177	KG00099299	hyperglycaemia	0.021440668031573296
+trial_2	benzocaine	396	KG00100373	Embolism, Pulmonary	0.02099941112101078
+trial_2	benzocaine	180	KG00099363	Hypotension NOS	0.020931582897901535
+trial_2	benzocaine	20	KG00098540	dehydration	0.020836394280195236
+trial_2	benzocaine	37	KG00097696	Cramps, Abdominal	0.020229527726769447
+trial_2	benzocaine	126	KG00100076	Pain NOS	0.019621670246124268
+trial_2	benzocaine	147	KG00098000	atelectases	0.019273653626441956
+trial_2	benzocaine	17	KG00097991	Asthenia NOS	0.019063159823417664
+trial_2	benzocaine	61	KG00099501	Chronic Kidney Failure	0.01791536435484886
+trial_2	benzocaine	14	KG00097852	Anemia NOS	0.017802080139517784
+trial_2	benzocaine	79	KG00100317	Insomnia, Primary	0.017691006883978844
+trial_2	benzocaine	96	KG00101679	Unattended death NOS	0.01754843257367611
+trial_2	benzocaine	76	KG00100450	Respiratory insufficiency, NOS	0.017512748017907143
+trial_2	benzocaine	114	KG00098933	fevers	0.017488380894064903
+trial_2	benzocaine	68	KG00099901	nauseas	0.01686028018593788
+trial_2	benzocaine	30	KG00099500	Acute Kidney Failure	0.016225462779402733
+trial_2	benzocaine	211	KG00100341	Pruritus NOS	0.015651771798729897
+trial_2	benzocaine	5	KG00099169	haematuria	0.014750219881534576
+trial_2	benzocaine	67	KG00098673	Dyspepsia, NOS	0.014690287411212921
+trial_2	benzocaine	441	KG00098262	cellulitis nos	0.014506599865853786
+trial_2	benzocaine	200	KG00098539	Disorders, Deglutition	0.01419833768159151
+trial_2	benzocaine	2	KG00100772	thrombocytopaenia	0.01381086464971304
+trial_2	benzocaine	69	KG00100082	Palpitations NOS	0.013135542161762714
+trial_2	benzocaine	18	KG00098307	Pain, Chest	0.013112420216202736
+trial_2	benzocaine	31	KG00099872	Infarction, Myocardial	0.012844277545809746
+trial_2	benzocaine	269	KG00100399	pyaemia	0.012742849066853523
+trial_2	benzocaine	85	KG00098474	coughs	0.01229797676205635
+trial_2	benzocaine	131	KG00100948	Urinary tract infection (& [NOS])	0.012151096016168594
+trial_2	benzocaine	276	KG00099127	Arrest, Cardiac	0.012003210373222828
+trial_2	benzocaine	189	KG00101580	Alanine aminotransferase increase	0.011992528103291988
+trial_2	benzocaine	142	KG00100923	Unspecified infectious and parasitic diseases	0.01181077677756548
+trial_2	benzocaine	361	KG00098004	Fibrillation, Atrial	0.01173583697527647
+trial_2	benzocaine	75	KG00100195	Dolens, Phlegmasia Alba	0.011505198664963245
+trial_2	benzocaine	188	KG00101579	Aspartate aminotransferase increase	0.011412973515689373
+trial_2	benzocaine	121	KG00099190	haemorrhage	0.01133787166327238
+trial_2	benzocaine	102	KG00097916	anxieties	0.010994603857398033
+trial_2	benzocaine	234	KG00098669	dysgeusias	0.010858953930437565
+trial_2	benzocaine	4	KG00098817	epistaxis	0.010797551833093166
+trial_2	benzocaine	253	KG00100232	Pleural effusion NOS (disorder)	0.010535500943660736
+trial_2	benzocaine	28	KG00099347	hypoglycaemia	0.010523057542741299
+trial_2	benzocaine	38	KG00098066	Binocular vision disorders	0.010493239387869835
+trial_2	benzocaine	122	KG00099321	Hypersensitivity NOS	0.010379788465797901
+trial_2	benzocaine	29	KG00099354	hyponatraemia	0.009989402256906033
+trial_2	benzocaine	104	KG00097963	arthralgias	0.009530098177492619
+trial_2	benzocaine	228	KG00114657	Weight below normal	0.009518739767372608
+trial_2	benzocaine	72	KG00103771	myalgias	0.009494771249592304
+trial_2	benzocaine	86	KG00098565	Depression, Mental	0.00949366856366396
+trial_2	benzocaine	15	KG00097882	Angina pectoris NOS	0.009385393001139164
+trial_2	benzocaine	221	KG00101207	peripheral oedema	0.009351900778710842
+trial_2	benzocaine	130	KG00100683	Stomatitis NOS	0.009189360775053501
+trial_2	benzocaine	11	KG00097993	Asthma NOS	0.00918581336736679
+trial_2	benzocaine	286	KG00101110	Retention, Urinary	0.009163212962448597
+trial_2	benzocaine	116	KG00098964	Pain in foot	0.009116173721849918
+trial_2	benzocaine	92	KG00100926	Infections, Upper Respiratory	0.009069635532796383
+trial_2	benzocaine	139	KG00098855	Sinusitis, Ethmoid	0.008945785462856293
+trial_2	benzocaine	271	KG00103813	reflex bradycardia	0.008871509693562984
+trial_2	benzocaine	466	KG00101205	fall	0.008760017342865467
+trial_2	benzocaine	101	KG00097901	Anorexia NOS	0.008656567893922329
+trial_2	benzocaine	36	KG00106434	Vision, Blurring Of	0.008567888289690018
+trial_2	benzocaine	257	KG00100922	Erythema NOS	0.008247154764831066
+trial_2	benzocaine	138	KG00098796	epidemic vomiting syndrome	0.007964424788951874
+trial_2	benzocaine	239	KG00100128	pareses	0.007950511761009693
+trial_2	benzocaine	199	KG00098371	Rhinitis (chronic) NOS	0.007950343191623688
+trial_2	benzocaine	350	KG00106765	decreased platelet count	0.007882891222834587
+trial_2	benzocaine	25	KG00099134	congestive failures heart	0.0077683646231889725
+trial_2	benzocaine	27	KG00099303	hyperkalaemia	0.007559129968285561
+trial_2	benzocaine	164	KG00108827	ileus colon	0.0075164842419326305
+trial_2	benzocaine	394	KG00100243	Pneumonia, Aspiration	0.007495042402297258
+trial_2	benzocaine	136	KG00101582	Dry;skin	0.007492543198168278
+trial_2	benzocaine	179	KG00099342	hypocalcaemia	0.007252189796417952
+trial_2	benzocaine	456	KG00099420	Influenzae	0.007250648457556963
+trial_2	benzocaine	40	KG00098092	Blepharoconjunctivitis NOS	0.0072458344511687756
+trial_2	benzocaine	300	KG00101064	xerostomia	0.0072143287397921085
+trial_2	benzocaine	53	KG00101550	Pain in eyes	0.007204758934676647
+trial_2	benzocaine	268	KG00099557	Heart Failure, Left-Sided	0.0071856058202683926
+trial_2	benzocaine	163	KG00104050	bowel obstructions small	0.007076505571603775
+trial_2	benzocaine	195	KG00097814	Atopic Rhinitis	0.007048888131976128
+trial_2	benzocaine	98	KG00097718	Incised wound, NOS	0.007001218851655722
+trial_2	benzocaine	118	KG00099011	Gastritis NOS	0.006965233478695154
+trial_2	benzocaine	82	KG00097697	abdomen distended	0.00684700021520257
+trial_2	benzocaine	371	KG00098517	Cystitis (NOS)	0.006804192438721657
+trial_2	benzocaine	282	KG00099309	hypernatraemia	0.006759169511497021
+trial_2	benzocaine	202	KG00098630	Disturbance of Skin Sensation	0.006748437415808439
+trial_2	benzocaine	249	KG00104430	hypoalbuminaemia	0.006699200253933668
+trial_2	benzocaine	261	KG00101559	raised alkaline phosphatase	0.006634610705077648
+trial_2	benzocaine	22	KG00098705	Edema (NOS)	0.006555535830557346
+trial_2	benzocaine	243	KG00100947	Micturition frequency increased	0.006520074326545
+trial_2	benzocaine	191	KG00104055	Biliverdin increased	0.006496700458228588
+trial_2	benzocaine	66	KG00098642	drowsiness	0.006455291528254747

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1793530136346817
+trial_1	placebo	87	KG00098599	diarrhoea	0.13113151490688324
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11829425394535065
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11685021966695786
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11002790927886963
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10731414705514908
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0997847467660904
+trial_1	placebo	68	KG00099901	nauseas	0.09752310067415237
+trial_1	placebo	20	KG00098540	dehydration	0.09510643035173416
+trial_1	placebo	46	KG00099121	Headache NOS	0.09339657425880432
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0888424813747406
+trial_1	placebo	21	KG00098675	dyspnoea	0.0872538834810257
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08709188550710678
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06949048489332199
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06796003133058548
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06689094007015228
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06291350722312927
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06250543147325516
+trial_1	placebo	228	KG00114657	Weight below normal	0.061383068561553955
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0612788088619709
+trial_1	placebo	114	KG00098933	fevers	0.060397919267416
+trial_1	placebo	14	KG00097852	Anemia NOS	0.059762828052043915
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05971897020936012
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05823294818401337
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0581856332719326
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05640225484967232
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05424235388636589
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05348153039813042
+trial_1	placebo	104	KG00097963	arthralgias	0.05165211111307144
+trial_1	placebo	85	KG00098474	coughs	0.051475394517183304
+trial_1	placebo	126	KG00100076	Pain NOS	0.05144745856523514
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.050765130668878555
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04983697459101677
+trial_1	placebo	239	KG00100128	pareses	0.049163054674863815
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.049093667417764664
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.047580569982528687
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04687918722629547
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.046851832419633865
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04514855146408081
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.042756516486406326
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.042447280138731
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04190525412559509
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04104170203208923
+trial_1	placebo	102	KG00097916	anxieties	0.04085731878876686
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04062079265713692
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04024437814950943
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03934764117002487
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.038419295102357864
+trial_1	placebo	5	KG00099169	haematuria	0.038319189101457596
+trial_1	placebo	262	KG00101199	agitation	0.03719741106033325
+trial_1	placebo	147	KG00098000	atelectases	0.036909207701683044
+trial_1	placebo	164	KG00108827	ileus colon	0.03674551844596863
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03641897812485695
+trial_1	placebo	466	KG00101205	fall	0.03600402921438217
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03597353771328926
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.035783007740974426
+trial_1	placebo	72	KG00103771	myalgias	0.0341804102063179
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03340568765997887
+trial_1	placebo	269	KG00100399	pyaemia	0.03291895240545273
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03283464163541794
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.032717131078243256
+trial_1	placebo	116	KG00098964	Pain in foot	0.032707829028367996
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03257016837596893
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03154519945383072
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.030346419662237167
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02981737069785595
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02964877150952816
+trial_1	placebo	121	KG00099190	haemorrhage	0.029436273500323296
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02911216765642166
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.028793292120099068
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0286395326256752
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02836720086634159
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.028149642050266266
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.027504049241542816
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02704755961894989
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026880400255322456
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.026742305606603622
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.026410678401589394
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.026086246594786644
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.025276578962802887
+trial_1	placebo	11	KG00097993	Asthma NOS	0.0252191461622715
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02515512704849243
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024964652955532074
+trial_1	placebo	25	KG00099134	congestive failures heart	0.024709371849894524
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02455640584230423
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.024376971647143364
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.024203741922974586
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02419094555079937
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023601245135068893
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.023568280041217804
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.023535382002592087
+trial_1	placebo	456	KG00099420	Influenzae	0.023437723517417908
+trial_1	placebo	154	KG00099686	Lymphopenias	0.023303594440221786
+trial_1	placebo	66	KG00098642	drowsiness	0.02322249673306942
+trial_1	placebo	82	KG00097697	abdomen distended	0.022934023290872574
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02290787734091282
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.0228877030313015
+trial_1	placebo	153	KG00099579	lethargy	0.0227577555924654
+trial_1	placebo	242	KG00100855	tremors	0.022528497502207756
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02252807281911373
+trial_2	bethanidine	78	KG00099326	Hypertensive diseases	0.1793530136346817
+trial_2	bethanidine	87	KG00098599	diarrhoea	0.13113151490688324
+trial_2	bethanidine	17	KG00097991	Asthenia NOS	0.11829425394535065
+trial_2	bethanidine	177	KG00099299	hyperglycaemia	0.11685021966695786
+trial_2	bethanidine	173	KG00098172	Bronchopneumonia NOS	0.11002790927886963
+trial_2	bethanidine	9	KG00098432	Confusion NOS	0.10731414705514908
+trial_2	bethanidine	123	KG00099351	hypokalaemia	0.0997847467660904
+trial_2	bethanidine	68	KG00099901	nauseas	0.09752310067415237
+trial_2	bethanidine	20	KG00098540	dehydration	0.09510643035173416
+trial_2	bethanidine	46	KG00099121	Headache NOS	0.09339657425880432
+trial_2	bethanidine	79	KG00100317	Insomnia, Primary	0.0888424813747406
+trial_2	bethanidine	21	KG00098675	dyspnoea	0.0872538834810257
+trial_2	bethanidine	49	KG00099902	nausea with vomiting	0.08709188550710678
+trial_2	bethanidine	189	KG00101580	Alanine aminotransferase increase	0.06949048489332199
+trial_2	bethanidine	77	KG00098450	Constipation NOS	0.06796003133058548
+trial_2	bethanidine	200	KG00098539	Disorders, Deglutition	0.06689094007015228
+trial_2	bethanidine	67	KG00098673	Dyspepsia, NOS	0.06291350722312927
+trial_2	bethanidine	29	KG00099354	hyponatraemia	0.06250543147325516
+trial_2	bethanidine	228	KG00114657	Weight below normal	0.061383068561553955
+trial_2	bethanidine	37	KG00097696	Cramps, Abdominal	0.0612788088619709
+trial_2	bethanidine	114	KG00098933	fevers	0.060397919267416
+trial_2	bethanidine	14	KG00097852	Anemia NOS	0.059762828052043915
+trial_2	bethanidine	86	KG00098565	Depression, Mental	0.05971897020936012
+trial_2	bethanidine	180	KG00099363	Hypotension NOS	0.05823294818401337
+trial_2	bethanidine	188	KG00101579	Aspartate aminotransferase increase	0.0581856332719326
+trial_2	bethanidine	151	KG00098274	Infarction, Cerebral	0.05640225484967232
+trial_2	bethanidine	350	KG00106765	decreased platelet count	0.05424235388636589
+trial_2	bethanidine	76	KG00100450	Respiratory insufficiency, NOS	0.05348153039813042
+trial_2	bethanidine	104	KG00097963	arthralgias	0.05165211111307144
+trial_2	bethanidine	85	KG00098474	coughs	0.051475394517183304
+trial_2	bethanidine	126	KG00100076	Pain NOS	0.05144745856523514
+trial_2	bethanidine	64	KG00097734	Acrodermatitis, NOS	0.050765130668878555
+trial_2	bethanidine	61	KG00099501	Chronic Kidney Failure	0.04983697459101677
+trial_2	bethanidine	239	KG00100128	pareses	0.049163054674863815
+trial_2	bethanidine	2	KG00100772	thrombocytopaenia	0.049093667417764664
+trial_2	bethanidine	96	KG00101679	Unattended death NOS	0.047580569982528687
+trial_2	bethanidine	27	KG00099303	hyperkalaemia	0.04687918722629547
+trial_2	bethanidine	101	KG00097901	Anorexia NOS	0.046851832419633865
+trial_2	bethanidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04514855146408081
+trial_2	bethanidine	122	KG00099321	Hypersensitivity NOS	0.042756516486406326
+trial_2	bethanidine	28	KG00099347	hypoglycaemia	0.042447280138731
+trial_2	bethanidine	30	KG00099500	Acute Kidney Failure	0.04190525412559509
+trial_2	bethanidine	179	KG00099342	hypocalcaemia	0.04104170203208923
+trial_2	bethanidine	102	KG00097916	anxieties	0.04085731878876686
+trial_2	bethanidine	139	KG00098855	Sinusitis, Ethmoid	0.04062079265713692
+trial_2	bethanidine	243	KG00100947	Micturition frequency increased	0.04024437814950943
+trial_2	bethanidine	276	KG00099127	Arrest, Cardiac	0.03934764117002487
+trial_2	bethanidine	38	KG00098066	Binocular vision disorders	0.038419295102357864
+trial_2	bethanidine	5	KG00099169	haematuria	0.038319189101457596
+trial_2	bethanidine	262	KG00101199	agitation	0.03719741106033325
+trial_2	bethanidine	147	KG00098000	atelectases	0.036909207701683044
+trial_2	bethanidine	164	KG00108827	ileus colon	0.03674551844596863
+trial_2	bethanidine	18	KG00098307	Pain, Chest	0.03641897812485695
+trial_2	bethanidine	466	KG00101205	fall	0.03600402921438217
+trial_2	bethanidine	132	KG00101045	Gain, Weight	0.03597353771328926
+trial_2	bethanidine	131	KG00100948	Urinary tract infection (& [NOS])	0.035783007740974426
+trial_2	bethanidine	72	KG00103771	myalgias	0.0341804102063179
+trial_2	bethanidine	142	KG00100923	Unspecified infectious and parasitic diseases	0.03340568765997887
+trial_2	bethanidine	269	KG00100399	pyaemia	0.03291895240545273
+trial_2	bethanidine	282	KG00099309	hypernatraemia	0.03283464163541794
+trial_2	bethanidine	194	KG00110727	Neutrophil Count Decreased	0.032717131078243256
+trial_2	bethanidine	116	KG00098964	Pain in foot	0.032707829028367996
+trial_2	bethanidine	396	KG00100373	Embolism, Pulmonary	0.03257016837596893
+trial_2	bethanidine	31	KG00099872	Infarction, Myocardial	0.03154519945383072
+trial_2	bethanidine	361	KG00098004	Fibrillation, Atrial	0.030346419662237167
+trial_2	bethanidine	92	KG00100926	Infections, Upper Respiratory	0.02981737069785595
+trial_2	bethanidine	75	KG00100195	Dolens, Phlegmasia Alba	0.02964877150952816
+trial_2	bethanidine	121	KG00099190	haemorrhage	0.029436273500323296
+trial_2	bethanidine	69	KG00100082	Palpitations NOS	0.02911216765642166
+trial_2	bethanidine	261	KG00101559	raised alkaline phosphatase	0.028793292120099068
+trial_2	bethanidine	355	KG00110857	lymphocyte count decreased	0.0286395326256752
+trial_2	bethanidine	144	KG00099610	Leukopenia NOS	0.02836720086634159
+trial_2	bethanidine	394	KG00100243	Pneumonia, Aspiration	0.028149642050266266
+trial_2	bethanidine	15	KG00097882	Angina pectoris NOS	0.027504049241542816
+trial_2	bethanidine	441	KG00098262	cellulitis nos	0.02704755961894989
+trial_2	bethanidine	36	KG00106434	Vision, Blurring Of	0.026880400255322456
+trial_2	bethanidine	286	KG00101110	Retention, Urinary	0.026742305606603622
+trial_2	bethanidine	253	KG00100232	Pleural effusion NOS (disorder)	0.026410678401589394
+trial_2	bethanidine	33	KG00100094	Pancreatitis NOS	0.026086246594786644
+trial_2	bethanidine	35	KG00101507	hypomagnesaemia	0.025276578962802887
+trial_2	bethanidine	11	KG00097993	Asthma NOS	0.0252191461622715
+trial_2	bethanidine	166	KG00099773	menopausal syndrome	0.02515512704849243
+trial_2	bethanidine	508	KG00108565	blood glucose increased	0.024964652955532074
+trial_2	bethanidine	25	KG00099134	congestive failures heart	0.024709371849894524
+trial_2	bethanidine	22	KG00098705	Edema (NOS)	0.02455640584230423
+trial_2	bethanidine	256	KG00100738	Tachycardia, Sinus	0.024376971647143364
+trial_2	bethanidine	297	KG00099294	hypercholesterolaemia	0.024203741922974586
+trial_2	bethanidine	97	KG00104198	LIVER ENZYME ELEVATED	0.02419094555079937
+trial_2	bethanidine	191	KG00104055	Biliverdin increased	0.023601245135068893
+trial_2	bethanidine	268	KG00099557	Heart Failure, Left-Sided	0.023568280041217804
+trial_2	bethanidine	341	KG00101472	Gamma-glutamyltransferase increased	0.023535382002592087
+trial_2	bethanidine	456	KG00099420	Influenzae	0.023437723517417908
+trial_2	bethanidine	154	KG00099686	Lymphopenias	0.023303594440221786
+trial_2	bethanidine	66	KG00098642	drowsiness	0.02322249673306942
+trial_2	bethanidine	82	KG00097697	abdomen distended	0.022934023290872574
+trial_2	bethanidine	204	KG00098849	Esophagitis, Peptic	0.02290787734091282
+trial_2	bethanidine	249	KG00104430	hypoalbuminaemia	0.0228877030313015
+trial_2	bethanidine	153	KG00099579	lethargy	0.0227577555924654
+trial_2	bethanidine	242	KG00100855	tremors	0.022528497502207756
+trial_2	bethanidine	221	KG00101207	peripheral oedema	0.02252807281911373

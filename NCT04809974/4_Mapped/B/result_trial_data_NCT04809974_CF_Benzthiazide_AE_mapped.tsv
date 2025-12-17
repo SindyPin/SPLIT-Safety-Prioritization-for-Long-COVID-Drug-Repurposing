@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.22977405786514282
+trial_1	placebo	87	KG00098599	diarrhoea	0.1843940168619156
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.15663163363933563
+trial_1	placebo	123	KG00099351	hypokalaemia	0.15536437928676605
+trial_1	placebo	20	KG00098540	dehydration	0.130157008767128
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12836630642414093
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12756036221981049
+trial_1	placebo	21	KG00098675	dyspnoea	0.12061154097318649
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11223597079515457
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10983384400606155
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.107244573533535
+trial_1	placebo	228	KG00114657	Weight below normal	0.1043223962187767
+trial_1	placebo	29	KG00099354	hyponatraemia	0.10329896211624146
+trial_1	placebo	350	KG00106765	decreased platelet count	0.10110992193222046
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09601851552724838
+trial_1	placebo	46	KG00099121	Headache NOS	0.09265629947185516
+trial_1	placebo	14	KG00097852	Anemia NOS	0.09222441911697388
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08924553543329239
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0875886008143425
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08579248934984207
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08066626638174057
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07802444696426392
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.07795977592468262
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0773591622710228
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.07719385623931885
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0753408670425415
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07361230254173279
+trial_1	placebo	86	KG00098565	Depression, Mental	0.07353311032056808
+trial_1	placebo	68	KG00099901	nauseas	0.07092589139938354
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06950067728757858
+trial_1	placebo	239	KG00100128	pareses	0.06935983151197433
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06891747564077377
+trial_1	placebo	114	KG00098933	fevers	0.06838975846767426
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.06626258790493011
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.06510581821203232
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06489740312099457
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06369289755821228
+trial_1	placebo	147	KG00098000	atelectases	0.0631268322467804
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.06136707216501236
+trial_1	placebo	5	KG00099169	haematuria	0.06113854795694351
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.061133481562137604
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.059004995971918106
+trial_1	placebo	126	KG00100076	Pain NOS	0.05816829949617386
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05767863988876343
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.057310495525598526
+trial_1	placebo	104	KG00097963	arthralgias	0.05654741823673248
+trial_1	placebo	85	KG00098474	coughs	0.053770244121551514
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.052875813096761703
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.05130774527788162
+trial_1	placebo	282	KG00099309	hypernatraemia	0.04988617077469826
+trial_1	placebo	269	KG00100399	pyaemia	0.048450276255607605
+trial_1	placebo	164	KG00108827	ileus colon	0.047065619379282
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.046783339232206345
+trial_1	placebo	72	KG00103771	myalgias	0.04619400575757027
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0460706390440464
+trial_1	placebo	121	KG00099190	haemorrhage	0.04567093402147293
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04554542526602745
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04536435008049011
+trial_1	placebo	18	KG00098307	Pain, Chest	0.045006994158029556
+trial_1	placebo	262	KG00101199	agitation	0.04473334923386574
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0443895123898983
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.044312797486782074
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04389089718461037
+trial_1	placebo	132	KG00101045	Gain, Weight	0.043595656752586365
+trial_1	placebo	466	KG00101205	fall	0.04322190582752228
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04299076274037361
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04229917377233505
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04135826230049133
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04020409286022186
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03996927663683891
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.039738431572914124
+trial_1	placebo	186	KG00101431	creatinine increased	0.03967474773526192
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.038723547011613846
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03814411908388138
+trial_1	placebo	102	KG00097916	anxieties	0.037334952503442764
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.037320222705602646
+trial_1	placebo	116	KG00098964	Pain in foot	0.03714412450790405
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.03691546618938446
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.0368150994181633
+trial_1	placebo	154	KG00099686	Lymphopenias	0.034914515912532806
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.03403337672352791
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.03390674665570259
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03379672020673752
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03358879312872887
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03323511779308319
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.03272654861211777
+trial_1	placebo	441	KG00098262	cellulitis nos	0.032480351626873016
+trial_1	placebo	82	KG00097697	abdomen distended	0.03190537169575691
+trial_1	placebo	234	KG00098669	dysgeusias	0.03158381208777428
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03146136924624443
+trial_1	placebo	339	KG00100334	proteinurias	0.031449951231479645
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.03138598054647446
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03049883432686329
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.030482424423098564
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.030416563153266907
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.03041568212211132
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.030355179682374
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030262842774391174
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03010791726410389
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029997611418366432
+trial_2	benzthiazide	78	KG00099326	Hypertensive diseases	0.22977405786514282
+trial_2	benzthiazide	87	KG00098599	diarrhoea	0.1843940168619156
+trial_2	benzthiazide	177	KG00099299	hyperglycaemia	0.15663163363933563
+trial_2	benzthiazide	123	KG00099351	hypokalaemia	0.15536437928676605
+trial_2	benzthiazide	20	KG00098540	dehydration	0.130157008767128
+trial_2	benzthiazide	17	KG00097991	Asthenia NOS	0.12836630642414093
+trial_2	benzthiazide	173	KG00098172	Bronchopneumonia NOS	0.12756036221981049
+trial_2	benzthiazide	21	KG00098675	dyspnoea	0.12061154097318649
+trial_2	benzthiazide	9	KG00098432	Confusion NOS	0.11223597079515457
+trial_2	benzthiazide	189	KG00101580	Alanine aminotransferase increase	0.10983384400606155
+trial_2	benzthiazide	2	KG00100772	thrombocytopaenia	0.107244573533535
+trial_2	benzthiazide	228	KG00114657	Weight below normal	0.1043223962187767
+trial_2	benzthiazide	29	KG00099354	hyponatraemia	0.10329896211624146
+trial_2	benzthiazide	350	KG00106765	decreased platelet count	0.10110992193222046
+trial_2	benzthiazide	188	KG00101579	Aspartate aminotransferase increase	0.09601851552724838
+trial_2	benzthiazide	46	KG00099121	Headache NOS	0.09265629947185516
+trial_2	benzthiazide	14	KG00097852	Anemia NOS	0.09222441911697388
+trial_2	benzthiazide	200	KG00098539	Disorders, Deglutition	0.08924553543329239
+trial_2	benzthiazide	37	KG00097696	Cramps, Abdominal	0.0875886008143425
+trial_2	benzthiazide	67	KG00098673	Dyspepsia, NOS	0.08579248934984207
+trial_2	benzthiazide	76	KG00100450	Respiratory insufficiency, NOS	0.08066626638174057
+trial_2	benzthiazide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07802444696426392
+trial_2	benzthiazide	61	KG00099501	Chronic Kidney Failure	0.07795977592468262
+trial_2	benzthiazide	79	KG00100317	Insomnia, Primary	0.0773591622710228
+trial_2	benzthiazide	27	KG00099303	hyperkalaemia	0.07719385623931885
+trial_2	benzthiazide	49	KG00099902	nausea with vomiting	0.0753408670425415
+trial_2	benzthiazide	77	KG00098450	Constipation NOS	0.07361230254173279
+trial_2	benzthiazide	86	KG00098565	Depression, Mental	0.07353311032056808
+trial_2	benzthiazide	68	KG00099901	nauseas	0.07092589139938354
+trial_2	benzthiazide	179	KG00099342	hypocalcaemia	0.06950067728757858
+trial_2	benzthiazide	239	KG00100128	pareses	0.06935983151197433
+trial_2	benzthiazide	151	KG00098274	Infarction, Cerebral	0.06891747564077377
+trial_2	benzthiazide	114	KG00098933	fevers	0.06838975846767426
+trial_2	benzthiazide	30	KG00099500	Acute Kidney Failure	0.06626258790493011
+trial_2	benzthiazide	180	KG00099363	Hypotension NOS	0.06510581821203232
+trial_2	benzthiazide	64	KG00097734	Acrodermatitis, NOS	0.06489740312099457
+trial_2	benzthiazide	28	KG00099347	hypoglycaemia	0.06369289755821228
+trial_2	benzthiazide	147	KG00098000	atelectases	0.0631268322467804
+trial_2	benzthiazide	96	KG00101679	Unattended death NOS	0.06136707216501236
+trial_2	benzthiazide	5	KG00099169	haematuria	0.06113854795694351
+trial_2	benzthiazide	276	KG00099127	Arrest, Cardiac	0.061133481562137604
+trial_2	benzthiazide	101	KG00097901	Anorexia NOS	0.059004995971918106
+trial_2	benzthiazide	126	KG00100076	Pain NOS	0.05816829949617386
+trial_2	benzthiazide	243	KG00100947	Micturition frequency increased	0.05767863988876343
+trial_2	benzthiazide	194	KG00110727	Neutrophil Count Decreased	0.057310495525598526
+trial_2	benzthiazide	104	KG00097963	arthralgias	0.05654741823673248
+trial_2	benzthiazide	85	KG00098474	coughs	0.053770244121551514
+trial_2	benzthiazide	122	KG00099321	Hypersensitivity NOS	0.052875813096761703
+trial_2	benzthiazide	144	KG00099610	Leukopenia NOS	0.05130774527788162
+trial_2	benzthiazide	282	KG00099309	hypernatraemia	0.04988617077469826
+trial_2	benzthiazide	269	KG00100399	pyaemia	0.048450276255607605
+trial_2	benzthiazide	164	KG00108827	ileus colon	0.047065619379282
+trial_2	benzthiazide	396	KG00100373	Embolism, Pulmonary	0.046783339232206345
+trial_2	benzthiazide	72	KG00103771	myalgias	0.04619400575757027
+trial_2	benzthiazide	253	KG00100232	Pleural effusion NOS (disorder)	0.0460706390440464
+trial_2	benzthiazide	121	KG00099190	haemorrhage	0.04567093402147293
+trial_2	benzthiazide	261	KG00101559	raised alkaline phosphatase	0.04554542526602745
+trial_2	benzthiazide	38	KG00098066	Binocular vision disorders	0.04536435008049011
+trial_2	benzthiazide	18	KG00098307	Pain, Chest	0.045006994158029556
+trial_2	benzthiazide	262	KG00101199	agitation	0.04473334923386574
+trial_2	benzthiazide	131	KG00100948	Urinary tract infection (& [NOS])	0.0443895123898983
+trial_2	benzthiazide	35	KG00101507	hypomagnesaemia	0.044312797486782074
+trial_2	benzthiazide	249	KG00104430	hypoalbuminaemia	0.04389089718461037
+trial_2	benzthiazide	132	KG00101045	Gain, Weight	0.043595656752586365
+trial_2	benzthiazide	466	KG00101205	fall	0.04322190582752228
+trial_2	benzthiazide	355	KG00110857	lymphocyte count decreased	0.04299076274037361
+trial_2	benzthiazide	191	KG00104055	Biliverdin increased	0.04229917377233505
+trial_2	benzthiazide	142	KG00100923	Unspecified infectious and parasitic diseases	0.04135826230049133
+trial_2	benzthiazide	139	KG00098855	Sinusitis, Ethmoid	0.04020409286022186
+trial_2	benzthiazide	288	KG00101223	hypophosphataemia	0.03996927663683891
+trial_2	benzthiazide	1	KG00099959	Neutropenia NOS	0.039738431572914124
+trial_2	benzthiazide	186	KG00101431	creatinine increased	0.03967474773526192
+trial_2	benzthiazide	69	KG00100082	Palpitations NOS	0.038723547011613846
+trial_2	benzthiazide	361	KG00098004	Fibrillation, Atrial	0.03814411908388138
+trial_2	benzthiazide	102	KG00097916	anxieties	0.037334952503442764
+trial_2	benzthiazide	75	KG00100195	Dolens, Phlegmasia Alba	0.037320222705602646
+trial_2	benzthiazide	116	KG00098964	Pain in foot	0.03714412450790405
+trial_2	benzthiazide	268	KG00099557	Heart Failure, Left-Sided	0.03691546618938446
+trial_2	benzthiazide	97	KG00104198	LIVER ENZYME ELEVATED	0.0368150994181633
+trial_2	benzthiazide	154	KG00099686	Lymphopenias	0.034914515912532806
+trial_2	benzthiazide	31	KG00099872	Infarction, Myocardial	0.03403337672352791
+trial_2	benzthiazide	356	KG00112623	Infectious Lung Disorders	0.03390674665570259
+trial_2	benzthiazide	36	KG00106434	Vision, Blurring Of	0.03379672020673752
+trial_2	benzthiazide	256	KG00100738	Tachycardia, Sinus	0.03358879312872887
+trial_2	benzthiazide	286	KG00101110	Retention, Urinary	0.03323511779308319
+trial_2	benzthiazide	494	KG00099838	Organ Failure, Multiple	0.03272654861211777
+trial_2	benzthiazide	441	KG00098262	cellulitis nos	0.032480351626873016
+trial_2	benzthiazide	82	KG00097697	abdomen distended	0.03190537169575691
+trial_2	benzthiazide	234	KG00098669	dysgeusias	0.03158381208777428
+trial_2	benzthiazide	33	KG00100094	Pancreatitis NOS	0.03146136924624443
+trial_2	benzthiazide	339	KG00100334	proteinurias	0.031449951231479645
+trial_2	benzthiazide	394	KG00100243	Pneumonia, Aspiration	0.03138598054647446
+trial_2	benzthiazide	92	KG00100926	Infections, Upper Respiratory	0.03049883432686329
+trial_2	benzthiazide	400	KG00100925	Upper gastrointestinal haemorrhage	0.030482424423098564
+trial_2	benzthiazide	183	KG00100449	Adult Respiratory Distress Syndrome	0.030416563153266907
+trial_2	benzthiazide	254	KG00100774	Thrombosis NOS	0.03041568212211132
+trial_2	benzthiazide	15	KG00097882	Angina pectoris NOS	0.030355179682374
+trial_2	benzthiazide	508	KG00108565	blood glucose increased	0.030262842774391174
+trial_2	benzthiazide	130	KG00100683	Stomatitis NOS	0.03010791726410389
+trial_2	benzthiazide	204	KG00098849	Esophagitis, Peptic	0.029997611418366432

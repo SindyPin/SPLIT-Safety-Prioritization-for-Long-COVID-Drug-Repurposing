@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1739150583744049
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15771108865737915
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15579958260059357
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12096711993217468
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10993082821369171
+trial_1	placebo	20	KG00098540	dehydration	0.1054086685180664
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09934987127780914
+trial_1	placebo	68	KG00099901	nauseas	0.0969652459025383
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09304756671190262
+trial_1	placebo	228	KG00114657	Weight below normal	0.09134615957736969
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09072807431221008
+trial_1	placebo	21	KG00098675	dyspnoea	0.08947587758302689
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08927038311958313
+trial_1	placebo	46	KG00099121	Headache NOS	0.08801230788230896
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08167101442813873
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07917644083499908
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0777696743607521
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.076921246945858
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06802912801504135
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06787683814764023
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06744623929262161
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06066950038075447
+trial_1	placebo	114	KG00098933	fevers	0.060619696974754333
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05998640134930611
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05869486927986145
+trial_1	placebo	126	KG00100076	Pain NOS	0.05740519240498543
+trial_1	placebo	85	KG00098474	coughs	0.05614370480179787
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05488663539290428
+trial_1	placebo	239	KG00100128	pareses	0.05449623987078667
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.053821589797735214
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0528155080974102
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05270112678408623
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.052454397082328796
+trial_1	placebo	104	KG00097963	arthralgias	0.052335891872644424
+trial_1	placebo	350	KG00106765	decreased platelet count	0.051275551319122314
+trial_1	placebo	102	KG00097916	anxieties	0.04907523840665817
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04742223024368286
+trial_1	placebo	72	KG00103771	myalgias	0.04622694477438927
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.044722311198711395
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04457367956638336
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.041362836956977844
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04077135771512985
+trial_1	placebo	5	KG00099169	haematuria	0.040340665727853775
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.038706421852111816
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03851335868239403
+trial_1	placebo	121	KG00099190	haemorrhage	0.03712637722492218
+trial_1	placebo	147	KG00098000	atelectases	0.03685536980628967
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.036788858473300934
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03643795847892761
+trial_1	placebo	262	KG00101199	agitation	0.035945579409599304
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0357975959777832
+trial_1	placebo	164	KG00108827	ileus colon	0.03524225950241089
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.035199329257011414
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.035041581839323044
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03485288843512535
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0343254990875721
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.033649295568466187
+trial_1	placebo	282	KG00099309	hypernatraemia	0.0332232303917408
+trial_1	placebo	154	KG00099686	Lymphopenias	0.033107608556747437
+trial_1	placebo	132	KG00101045	Gain, Weight	0.032573211938142776
+trial_1	placebo	300	KG00101064	xerostomia	0.031894393265247345
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.031168725341558456
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.031146282330155373
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.030782924965023994
+trial_1	placebo	100	KG00097815	alopecias	0.030671151354908943
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03050260990858078
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030294863507151604
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.030166244134306908
+trial_1	placebo	116	KG00098964	Pain in foot	0.030148059129714966
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.029176874086260796
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.028578702360391617
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02799985557794571
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.027968909591436386
+trial_1	placebo	234	KG00098669	dysgeusias	0.027054373174905777
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026872530579566956
+trial_1	placebo	82	KG00097697	abdomen distended	0.026747960597276688
+trial_1	placebo	269	KG00100399	pyaemia	0.02630283311009407
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02594212256371975
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.0258902907371521
+trial_1	placebo	212	KG00100576	shivers	0.025768578052520752
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.025740785524249077
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.025731554254889488
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.025637689977884293
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.025603175163269043
+trial_1	placebo	242	KG00100855	tremors	0.025535035878419876
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02546616643667221
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.024923481047153473
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.024861911311745644
+trial_1	placebo	466	KG00101205	fall	0.024816477671265602
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.024642525240778923
+trial_1	placebo	153	KG00099579	lethargy	0.024502431973814964
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.024405745789408684
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.024238653481006622
+trial_1	placebo	66	KG00098642	drowsiness	0.02420717105269432
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.02399744652211666
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023827511817216873
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02376045286655426
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.0235143955796957
+trial_1	placebo	136	KG00101582	Dry;skin	0.023485694080591202
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.023302854970097542
+trial_2	butriptyline	87	KG00098599	diarrhoea	0.1739150583744049
+trial_2	butriptyline	17	KG00097991	Asthenia NOS	0.15771108865737915
+trial_2	butriptyline	78	KG00099326	Hypertensive diseases	0.15579958260059357
+trial_2	butriptyline	9	KG00098432	Confusion NOS	0.12096711993217468
+trial_2	butriptyline	177	KG00099299	hyperglycaemia	0.10993082821369171
+trial_2	butriptyline	20	KG00098540	dehydration	0.1054086685180664
+trial_2	butriptyline	123	KG00099351	hypokalaemia	0.09934987127780914
+trial_2	butriptyline	68	KG00099901	nauseas	0.0969652459025383
+trial_2	butriptyline	77	KG00098450	Constipation NOS	0.09304756671190262
+trial_2	butriptyline	228	KG00114657	Weight below normal	0.09134615957736969
+trial_2	butriptyline	49	KG00099902	nausea with vomiting	0.09072807431221008
+trial_2	butriptyline	21	KG00098675	dyspnoea	0.08947587758302689
+trial_2	butriptyline	79	KG00100317	Insomnia, Primary	0.08927038311958313
+trial_2	butriptyline	46	KG00099121	Headache NOS	0.08801230788230896
+trial_2	butriptyline	173	KG00098172	Bronchopneumonia NOS	0.08167101442813873
+trial_2	butriptyline	101	KG00097901	Anorexia NOS	0.07917644083499908
+trial_2	butriptyline	64	KG00097734	Acrodermatitis, NOS	0.0777696743607521
+trial_2	butriptyline	37	KG00097696	Cramps, Abdominal	0.076921246945858
+trial_2	butriptyline	67	KG00098673	Dyspepsia, NOS	0.06802912801504135
+trial_2	butriptyline	189	KG00101580	Alanine aminotransferase increase	0.06787683814764023
+trial_2	butriptyline	200	KG00098539	Disorders, Deglutition	0.06744623929262161
+trial_2	butriptyline	188	KG00101579	Aspartate aminotransferase increase	0.06066950038075447
+trial_2	butriptyline	114	KG00098933	fevers	0.060619696974754333
+trial_2	butriptyline	122	KG00099321	Hypersensitivity NOS	0.05998640134930611
+trial_2	butriptyline	86	KG00098565	Depression, Mental	0.05869486927986145
+trial_2	butriptyline	126	KG00100076	Pain NOS	0.05740519240498543
+trial_2	butriptyline	85	KG00098474	coughs	0.05614370480179787
+trial_2	butriptyline	29	KG00099354	hyponatraemia	0.05488663539290428
+trial_2	butriptyline	239	KG00100128	pareses	0.05449623987078667
+trial_2	butriptyline	243	KG00100947	Micturition frequency increased	0.053821589797735214
+trial_2	butriptyline	2	KG00100772	thrombocytopaenia	0.0528155080974102
+trial_2	butriptyline	14	KG00097852	Anemia NOS	0.05270112678408623
+trial_2	butriptyline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.052454397082328796
+trial_2	butriptyline	104	KG00097963	arthralgias	0.052335891872644424
+trial_2	butriptyline	350	KG00106765	decreased platelet count	0.051275551319122314
+trial_2	butriptyline	102	KG00097916	anxieties	0.04907523840665817
+trial_2	butriptyline	179	KG00099342	hypocalcaemia	0.04742223024368286
+trial_2	butriptyline	72	KG00103771	myalgias	0.04622694477438927
+trial_2	butriptyline	180	KG00099363	Hypotension NOS	0.044722311198711395
+trial_2	butriptyline	151	KG00098274	Infarction, Cerebral	0.04457367956638336
+trial_2	butriptyline	27	KG00099303	hyperkalaemia	0.041362836956977844
+trial_2	butriptyline	96	KG00101679	Unattended death NOS	0.04077135771512985
+trial_2	butriptyline	5	KG00099169	haematuria	0.040340665727853775
+trial_2	butriptyline	38	KG00098066	Binocular vision disorders	0.038706421852111816
+trial_2	butriptyline	76	KG00100450	Respiratory insufficiency, NOS	0.03851335868239403
+trial_2	butriptyline	121	KG00099190	haemorrhage	0.03712637722492218
+trial_2	butriptyline	147	KG00098000	atelectases	0.03685536980628967
+trial_2	butriptyline	139	KG00098855	Sinusitis, Ethmoid	0.036788858473300934
+trial_2	butriptyline	194	KG00110727	Neutrophil Count Decreased	0.03643795847892761
+trial_2	butriptyline	262	KG00101199	agitation	0.035945579409599304
+trial_2	butriptyline	355	KG00110857	lymphocyte count decreased	0.0357975959777832
+trial_2	butriptyline	164	KG00108827	ileus colon	0.03524225950241089
+trial_2	butriptyline	142	KG00100923	Unspecified infectious and parasitic diseases	0.035199329257011414
+trial_2	butriptyline	261	KG00101559	raised alkaline phosphatase	0.035041581839323044
+trial_2	butriptyline	18	KG00098307	Pain, Chest	0.03485288843512535
+trial_2	butriptyline	28	KG00099347	hypoglycaemia	0.0343254990875721
+trial_2	butriptyline	61	KG00099501	Chronic Kidney Failure	0.033649295568466187
+trial_2	butriptyline	282	KG00099309	hypernatraemia	0.0332232303917408
+trial_2	butriptyline	154	KG00099686	Lymphopenias	0.033107608556747437
+trial_2	butriptyline	132	KG00101045	Gain, Weight	0.032573211938142776
+trial_2	butriptyline	300	KG00101064	xerostomia	0.031894393265247345
+trial_2	butriptyline	396	KG00100373	Embolism, Pulmonary	0.031168725341558456
+trial_2	butriptyline	249	KG00104430	hypoalbuminaemia	0.031146282330155373
+trial_2	butriptyline	144	KG00099610	Leukopenia NOS	0.030782924965023994
+trial_2	butriptyline	100	KG00097815	alopecias	0.030671151354908943
+trial_2	butriptyline	69	KG00100082	Palpitations NOS	0.03050260990858078
+trial_2	butriptyline	36	KG00106434	Vision, Blurring Of	0.030294863507151604
+trial_2	butriptyline	131	KG00100948	Urinary tract infection (& [NOS])	0.030166244134306908
+trial_2	butriptyline	116	KG00098964	Pain in foot	0.030148059129714966
+trial_2	butriptyline	191	KG00104055	Biliverdin increased	0.029176874086260796
+trial_2	butriptyline	256	KG00100738	Tachycardia, Sinus	0.028578702360391617
+trial_2	butriptyline	35	KG00101507	hypomagnesaemia	0.02799985557794571
+trial_2	butriptyline	1	KG00099959	Neutropenia NOS	0.027968909591436386
+trial_2	butriptyline	234	KG00098669	dysgeusias	0.027054373174905777
+trial_2	butriptyline	30	KG00099500	Acute Kidney Failure	0.026872530579566956
+trial_2	butriptyline	82	KG00097697	abdomen distended	0.026747960597276688
+trial_2	butriptyline	269	KG00100399	pyaemia	0.02630283311009407
+trial_2	butriptyline	253	KG00100232	Pleural effusion NOS (disorder)	0.02594212256371975
+trial_2	butriptyline	276	KG00099127	Arrest, Cardiac	0.0258902907371521
+trial_2	butriptyline	212	KG00100576	shivers	0.025768578052520752
+trial_2	butriptyline	211	KG00100341	Pruritus NOS	0.025740785524249077
+trial_2	butriptyline	254	KG00100774	Thrombosis NOS	0.025731554254889488
+trial_2	butriptyline	22	KG00098705	Edema (NOS)	0.025637689977884293
+trial_2	butriptyline	246	KG00103338	Aspartate Aminotransferase Measurement	0.025603175163269043
+trial_2	butriptyline	242	KG00100855	tremors	0.025535035878419876
+trial_2	butriptyline	130	KG00100683	Stomatitis NOS	0.02546616643667221
+trial_2	butriptyline	341	KG00101472	Gamma-glutamyltransferase increased	0.024923481047153473
+trial_2	butriptyline	371	KG00098517	Cystitis (NOS)	0.024861911311745644
+trial_2	butriptyline	466	KG00101205	fall	0.024816477671265602
+trial_2	butriptyline	33	KG00100094	Pancreatitis NOS	0.024642525240778923
+trial_2	butriptyline	153	KG00099579	lethargy	0.024502431973814964
+trial_2	butriptyline	75	KG00100195	Dolens, Phlegmasia Alba	0.024405745789408684
+trial_2	butriptyline	92	KG00100926	Infections, Upper Respiratory	0.024238653481006622
+trial_2	butriptyline	66	KG00098642	drowsiness	0.02420717105269432
+trial_2	butriptyline	232	KG00097997	Ataxia NOS	0.02399744652211666
+trial_2	butriptyline	286	KG00101110	Retention, Urinary	0.023827511817216873
+trial_2	butriptyline	508	KG00108565	blood glucose increased	0.02376045286655426
+trial_2	butriptyline	166	KG00099773	menopausal syndrome	0.0235143955796957
+trial_2	butriptyline	136	KG00101582	Dry;skin	0.023485694080591202
+trial_2	butriptyline	133	KG00101370	neuropathies sensory	0.023302854970097542

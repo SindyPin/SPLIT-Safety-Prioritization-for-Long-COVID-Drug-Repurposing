@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15179859101772308
+trial_1	placebo	87	KG00098599	diarrhoea	0.13916683197021484
+trial_1	placebo	68	KG00099901	nauseas	0.12091214209794998
+trial_1	placebo	46	KG00099121	Headache NOS	0.11440306901931763
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11340181529521942
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11029750853776932
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10471173375844955
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10078884661197662
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09830177575349808
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09004558622837067
+trial_1	placebo	20	KG00098540	dehydration	0.08860224485397339
+trial_1	placebo	21	KG00098675	dyspnoea	0.08478843420743942
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07504162192344666
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07374980300664902
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07073666900396347
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06963106989860535
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06821490079164505
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06683480739593506
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06045255810022354
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.058921243995428085
+trial_1	placebo	29	KG00099354	hyponatraemia	0.053106192499399185
+trial_1	placebo	228	KG00114657	Weight below normal	0.05268443003296852
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05139879509806633
+trial_1	placebo	5	KG00099169	haematuria	0.05104460194706917
+trial_1	placebo	104	KG00097963	arthralgias	0.049976348876953125
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.049698445945978165
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.048008888959884644
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04775751009583473
+trial_1	placebo	114	KG00098933	fevers	0.046298637986183167
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0461079403758049
+trial_1	placebo	126	KG00100076	Pain NOS	0.04597083851695061
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.045287322252988815
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04469985514879227
+trial_1	placebo	86	KG00098565	Depression, Mental	0.044231295585632324
+trial_1	placebo	239	KG00100128	pareses	0.04402827098965645
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04334094747900963
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.042735062539577484
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04268508404493332
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.041927676647901535
+trial_1	placebo	85	KG00098474	coughs	0.04157869517803192
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04059971496462822
+trial_1	placebo	82	KG00097697	abdomen distended	0.03975798934698105
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.038197111338377
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03780761733651161
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03757615014910698
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03712841495871544
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03695002198219299
+trial_1	placebo	147	KG00098000	atelectases	0.03660852834582329
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03631822392344475
+trial_1	placebo	116	KG00098964	Pain in foot	0.036234039813280106
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03478708490729332
+trial_1	placebo	102	KG00097916	anxieties	0.03446701914072037
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03426124155521393
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03349028900265694
+trial_1	placebo	466	KG00101205	fall	0.03304407000541687
+trial_1	placebo	72	KG00103771	myalgias	0.032751236110925674
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0316779725253582
+trial_1	placebo	269	KG00100399	pyaemia	0.031174417585134506
+trial_1	placebo	164	KG00108827	ileus colon	0.03094019554555416
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.030016640201210976
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02966145984828472
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.028890497982501984
+trial_1	placebo	262	KG00101199	agitation	0.028789494186639786
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.028218764811754227
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02814784087240696
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.028034521266818047
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027878358960151672
+trial_1	placebo	132	KG00101045	Gain, Weight	0.027475915849208832
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.027431190013885498
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02692624367773533
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.026877012103796005
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026714544743299484
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.026504840701818466
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.026440316811203957
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026188833639025688
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02597404643893242
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.025857316330075264
+trial_1	placebo	186	KG00101431	creatinine increased	0.02549607679247856
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.0254144836217165
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.025374405086040497
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.025373099371790886
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025363558903336525
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.0253013726323843
+trial_1	placebo	153	KG00099579	lethargy	0.02520551159977913
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.025097766891121864
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02508375234901905
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.025058211758732796
+trial_1	placebo	66	KG00098642	drowsiness	0.02471749298274517
+trial_1	placebo	234	KG00098669	dysgeusias	0.024604789912700653
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024371005594730377
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02433827891945839
+trial_1	placebo	454	KG00098286	Pain, Neck	0.02415684051811695
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02314583584666252
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.022982675582170486
+trial_1	placebo	221	KG00101207	peripheral oedema	0.022780699655413628
+trial_1	placebo	456	KG00099420	Influenzae	0.022736404091119766
+trial_1	placebo	25	KG00099134	congestive failures heart	0.022704871371388435
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022671904414892197
+trial_1	placebo	11	KG00097993	Asthma NOS	0.022198621183633804
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021771298721432686
+trial_2	betazole	78	KG00099326	Hypertensive diseases	0.15179859101772308
+trial_2	betazole	87	KG00098599	diarrhoea	0.13916683197021484
+trial_2	betazole	68	KG00099901	nauseas	0.12091214209794998
+trial_2	betazole	46	KG00099121	Headache NOS	0.11440306901931763
+trial_2	betazole	9	KG00098432	Confusion NOS	0.11340181529521942
+trial_2	betazole	49	KG00099902	nausea with vomiting	0.11029750853776932
+trial_2	betazole	17	KG00097991	Asthenia NOS	0.10471173375844955
+trial_2	betazole	177	KG00099299	hyperglycaemia	0.10078884661197662
+trial_2	betazole	123	KG00099351	hypokalaemia	0.09830177575349808
+trial_2	betazole	173	KG00098172	Bronchopneumonia NOS	0.09004558622837067
+trial_2	betazole	20	KG00098540	dehydration	0.08860224485397339
+trial_2	betazole	21	KG00098675	dyspnoea	0.08478843420743942
+trial_2	betazole	79	KG00100317	Insomnia, Primary	0.07504162192344666
+trial_2	betazole	189	KG00101580	Alanine aminotransferase increase	0.07374980300664902
+trial_2	betazole	67	KG00098673	Dyspepsia, NOS	0.07073666900396347
+trial_2	betazole	37	KG00097696	Cramps, Abdominal	0.06963106989860535
+trial_2	betazole	188	KG00101579	Aspartate aminotransferase increase	0.06821490079164505
+trial_2	betazole	77	KG00098450	Constipation NOS	0.06683480739593506
+trial_2	betazole	14	KG00097852	Anemia NOS	0.06045255810022354
+trial_2	betazole	200	KG00098539	Disorders, Deglutition	0.058921243995428085
+trial_2	betazole	29	KG00099354	hyponatraemia	0.053106192499399185
+trial_2	betazole	228	KG00114657	Weight below normal	0.05268443003296852
+trial_2	betazole	350	KG00106765	decreased platelet count	0.05139879509806633
+trial_2	betazole	5	KG00099169	haematuria	0.05104460194706917
+trial_2	betazole	104	KG00097963	arthralgias	0.049976348876953125
+trial_2	betazole	151	KG00098274	Infarction, Cerebral	0.049698445945978165
+trial_2	betazole	101	KG00097901	Anorexia NOS	0.048008888959884644
+trial_2	betazole	61	KG00099501	Chronic Kidney Failure	0.04775751009583473
+trial_2	betazole	114	KG00098933	fevers	0.046298637986183167
+trial_2	betazole	76	KG00100450	Respiratory insufficiency, NOS	0.0461079403758049
+trial_2	betazole	126	KG00100076	Pain NOS	0.04597083851695061
+trial_2	betazole	180	KG00099363	Hypotension NOS	0.045287322252988815
+trial_2	betazole	64	KG00097734	Acrodermatitis, NOS	0.04469985514879227
+trial_2	betazole	86	KG00098565	Depression, Mental	0.044231295585632324
+trial_2	betazole	239	KG00100128	pareses	0.04402827098965645
+trial_2	betazole	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04334094747900963
+trial_2	betazole	30	KG00099500	Acute Kidney Failure	0.042735062539577484
+trial_2	betazole	28	KG00099347	hypoglycaemia	0.04268508404493332
+trial_2	betazole	2	KG00100772	thrombocytopaenia	0.041927676647901535
+trial_2	betazole	85	KG00098474	coughs	0.04157869517803192
+trial_2	betazole	131	KG00100948	Urinary tract infection (& [NOS])	0.04059971496462822
+trial_2	betazole	82	KG00097697	abdomen distended	0.03975798934698105
+trial_2	betazole	27	KG00099303	hyperkalaemia	0.038197111338377
+trial_2	betazole	243	KG00100947	Micturition frequency increased	0.03780761733651161
+trial_2	betazole	276	KG00099127	Arrest, Cardiac	0.03757615014910698
+trial_2	betazole	396	KG00100373	Embolism, Pulmonary	0.03712841495871544
+trial_2	betazole	18	KG00098307	Pain, Chest	0.03695002198219299
+trial_2	betazole	147	KG00098000	atelectases	0.03660852834582329
+trial_2	betazole	38	KG00098066	Binocular vision disorders	0.03631822392344475
+trial_2	betazole	116	KG00098964	Pain in foot	0.036234039813280106
+trial_2	betazole	96	KG00101679	Unattended death NOS	0.03478708490729332
+trial_2	betazole	102	KG00097916	anxieties	0.03446701914072037
+trial_2	betazole	179	KG00099342	hypocalcaemia	0.03426124155521393
+trial_2	betazole	139	KG00098855	Sinusitis, Ethmoid	0.03349028900265694
+trial_2	betazole	466	KG00101205	fall	0.03304407000541687
+trial_2	betazole	72	KG00103771	myalgias	0.032751236110925674
+trial_2	betazole	261	KG00101559	raised alkaline phosphatase	0.0316779725253582
+trial_2	betazole	269	KG00100399	pyaemia	0.031174417585134506
+trial_2	betazole	164	KG00108827	ileus colon	0.03094019554555416
+trial_2	betazole	204	KG00098849	Esophagitis, Peptic	0.030016640201210976
+trial_2	betazole	75	KG00100195	Dolens, Phlegmasia Alba	0.02966145984828472
+trial_2	betazole	422	KG00101429	Creatine phosphokinase increased	0.028890497982501984
+trial_2	betazole	262	KG00101199	agitation	0.028789494186639786
+trial_2	betazole	194	KG00110727	Neutrophil Count Decreased	0.028218764811754227
+trial_2	betazole	341	KG00101472	Gamma-glutamyltransferase increased	0.02814784087240696
+trial_2	betazole	69	KG00100082	Palpitations NOS	0.028034521266818047
+trial_2	betazole	441	KG00098262	cellulitis nos	0.027878358960151672
+trial_2	betazole	132	KG00101045	Gain, Weight	0.027475915849208832
+trial_2	betazole	31	KG00099872	Infarction, Myocardial	0.027431190013885498
+trial_2	betazole	361	KG00098004	Fibrillation, Atrial	0.02692624367773533
+trial_2	betazole	253	KG00100232	Pleural effusion NOS (disorder)	0.026877012103796005
+trial_2	betazole	92	KG00100926	Infections, Upper Respiratory	0.026714544743299484
+trial_2	betazole	191	KG00104055	Biliverdin increased	0.026504840701818466
+trial_2	betazole	394	KG00100243	Pneumonia, Aspiration	0.026440316811203957
+trial_2	betazole	211	KG00100341	Pruritus NOS	0.026188833639025688
+trial_2	betazole	122	KG00099321	Hypersensitivity NOS	0.02597404643893242
+trial_2	betazole	286	KG00101110	Retention, Urinary	0.025857316330075264
+trial_2	betazole	186	KG00101431	creatinine increased	0.02549607679247856
+trial_2	betazole	166	KG00099773	menopausal syndrome	0.0254144836217165
+trial_2	betazole	144	KG00099610	Leukopenia NOS	0.025374405086040497
+trial_2	betazole	33	KG00100094	Pancreatitis NOS	0.025373099371790886
+trial_2	betazole	282	KG00099309	hypernatraemia	0.025363558903336525
+trial_2	betazole	97	KG00104198	LIVER ENZYME ELEVATED	0.0253013726323843
+trial_2	betazole	153	KG00099579	lethargy	0.02520551159977913
+trial_2	betazole	199	KG00098371	Rhinitis (chronic) NOS	0.025097766891121864
+trial_2	betazole	508	KG00108565	blood glucose increased	0.02508375234901905
+trial_2	betazole	163	KG00104050	bowel obstructions small	0.025058211758732796
+trial_2	betazole	66	KG00098642	drowsiness	0.02471749298274517
+trial_2	betazole	234	KG00098669	dysgeusias	0.024604789912700653
+trial_2	betazole	36	KG00106434	Vision, Blurring Of	0.024371005594730377
+trial_2	betazole	15	KG00097882	Angina pectoris NOS	0.02433827891945839
+trial_2	betazole	454	KG00098286	Pain, Neck	0.02415684051811695
+trial_2	betazole	355	KG00110857	lymphocyte count decreased	0.02314583584666252
+trial_2	betazole	35	KG00101507	hypomagnesaemia	0.022982675582170486
+trial_2	betazole	221	KG00101207	peripheral oedema	0.022780699655413628
+trial_2	betazole	456	KG00099420	Influenzae	0.022736404091119766
+trial_2	betazole	25	KG00099134	congestive failures heart	0.022704871371388435
+trial_2	betazole	142	KG00100923	Unspecified infectious and parasitic diseases	0.022671904414892197
+trial_2	betazole	11	KG00097993	Asthma NOS	0.022198621183633804
+trial_2	betazole	297	KG00099294	hypercholesterolaemia	0.021771298721432686

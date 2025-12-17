@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2103404551744461
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18698233366012573
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.16789358854293823
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13730312883853912
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.12875887751579285
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12679535150527954
+trial_1	placebo	46	KG00099121	Headache NOS	0.12448582798242569
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.1221744492650032
+trial_1	placebo	20	KG00098540	dehydration	0.11960826814174652
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11683162301778793
+trial_1	placebo	68	KG00099901	nauseas	0.11399805545806885
+trial_1	placebo	123	KG00099351	hypokalaemia	0.113198421895504
+trial_1	placebo	21	KG00098675	dyspnoea	0.11158229410648346
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1076802983880043
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10361406207084656
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10291284322738647
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10262641310691833
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.10093196481466293
+trial_1	placebo	228	KG00114657	Weight below normal	0.09991809725761414
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0975877046585083
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.083399698138237
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07980477809906006
+trial_1	placebo	239	KG00100128	pareses	0.07584179937839508
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07488670200109482
+trial_1	placebo	104	KG00097963	arthralgias	0.07406695932149887
+trial_1	placebo	114	KG00098933	fevers	0.07314666360616684
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07243429124355316
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0721859410405159
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07001751661300659
+trial_1	placebo	102	KG00097916	anxieties	0.0683865025639534
+trial_1	placebo	126	KG00100076	Pain NOS	0.0670856460928917
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06622729450464249
+trial_1	placebo	85	KG00098474	coughs	0.06472749263048172
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06416792422533035
+trial_1	placebo	5	KG00099169	haematuria	0.060858484357595444
+trial_1	placebo	72	KG00103771	myalgias	0.05773212015628815
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.057717178016901016
+trial_1	placebo	116	KG00098964	Pain in foot	0.05653543025255203
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.051482297480106354
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.050633810460567474
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05054093524813652
+trial_1	placebo	262	KG00101199	agitation	0.04997958615422249
+trial_1	placebo	466	KG00101205	fall	0.049479659646749496
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04899127036333084
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04898737370967865
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04893594607710838
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.048774536699056625
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04696372523903847
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.046729642897844315
+trial_1	placebo	82	KG00097697	abdomen distended	0.046727508306503296
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04589422419667244
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0455906018614769
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04549608379602432
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04526975005865097
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04422379657626152
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04406090825796127
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04195491597056389
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04160984978079796
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.041583795100450516
+trial_1	placebo	66	KG00098642	drowsiness	0.04150787368416786
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.041289400309324265
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.04127227142453194
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04120136797428131
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.04062357917428017
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.04042227566242218
+trial_1	placebo	454	KG00098286	Pain, Neck	0.04037170857191086
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03984389081597328
+trial_1	placebo	164	KG00108827	ileus colon	0.03974521905183792
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03889986872673035
+trial_1	placebo	153	KG00099579	lethargy	0.038535844534635544
+trial_1	placebo	508	KG00108565	blood glucose increased	0.037951428443193436
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.037664517760276794
+trial_1	placebo	234	KG00098669	dysgeusias	0.03748471662402153
+trial_1	placebo	147	KG00098000	atelectases	0.036701101809740067
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03607584908604622
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03596152737736702
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03587758541107178
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03583516180515289
+trial_1	placebo	300	KG00101064	xerostomia	0.03539489582180977
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03495913743972778
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03487742692232132
+trial_1	placebo	242	KG00100855	tremors	0.034720998257398605
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03451988473534584
+trial_1	placebo	382	KG00099200	haemorrhoids	0.03433327376842499
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.034204430878162384
+trial_1	placebo	186	KG00101431	creatinine increased	0.03401631861925125
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.033715009689331055
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03299495205283165
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03260653465986252
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03223145753145218
+trial_1	placebo	456	KG00099420	Influenzae	0.03222687542438507
+trial_1	placebo	282	KG00099309	hypernatraemia	0.032211095094680786
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03189278766512871
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03154188022017479
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.031510211527347565
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.0314505472779274
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03132481873035431
+trial_1	placebo	269	KG00100399	pyaemia	0.030534684658050537
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03026663325726986
+trial_1	placebo	339	KG00100334	proteinurias	0.030144091695547104
+trial_2	bromperidol	87	KG00098599	diarrhoea	0.2103404551744461
+trial_2	bromperidol	78	KG00099326	Hypertensive diseases	0.18698233366012573
+trial_2	bromperidol	17	KG00097991	Asthenia NOS	0.16789358854293823
+trial_2	bromperidol	9	KG00098432	Confusion NOS	0.13730312883853912
+trial_2	bromperidol	79	KG00100317	Insomnia, Primary	0.12875887751579285
+trial_2	bromperidol	77	KG00098450	Constipation NOS	0.12679535150527954
+trial_2	bromperidol	46	KG00099121	Headache NOS	0.12448582798242569
+trial_2	bromperidol	189	KG00101580	Alanine aminotransferase increase	0.1221744492650032
+trial_2	bromperidol	20	KG00098540	dehydration	0.11960826814174652
+trial_2	bromperidol	177	KG00099299	hyperglycaemia	0.11683162301778793
+trial_2	bromperidol	68	KG00099901	nauseas	0.11399805545806885
+trial_2	bromperidol	123	KG00099351	hypokalaemia	0.113198421895504
+trial_2	bromperidol	21	KG00098675	dyspnoea	0.11158229410648346
+trial_2	bromperidol	173	KG00098172	Bronchopneumonia NOS	0.1076802983880043
+trial_2	bromperidol	188	KG00101579	Aspartate aminotransferase increase	0.10361406207084656
+trial_2	bromperidol	49	KG00099902	nausea with vomiting	0.10291284322738647
+trial_2	bromperidol	37	KG00097696	Cramps, Abdominal	0.10262641310691833
+trial_2	bromperidol	67	KG00098673	Dyspepsia, NOS	0.10093196481466293
+trial_2	bromperidol	228	KG00114657	Weight below normal	0.09991809725761414
+trial_2	bromperidol	200	KG00098539	Disorders, Deglutition	0.0975877046585083
+trial_2	bromperidol	243	KG00100947	Micturition frequency increased	0.083399698138237
+trial_2	bromperidol	101	KG00097901	Anorexia NOS	0.07980477809906006
+trial_2	bromperidol	239	KG00100128	pareses	0.07584179937839508
+trial_2	bromperidol	350	KG00106765	decreased platelet count	0.07488670200109482
+trial_2	bromperidol	104	KG00097963	arthralgias	0.07406695932149887
+trial_2	bromperidol	114	KG00098933	fevers	0.07314666360616684
+trial_2	bromperidol	14	KG00097852	Anemia NOS	0.07243429124355316
+trial_2	bromperidol	64	KG00097734	Acrodermatitis, NOS	0.0721859410405159
+trial_2	bromperidol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07001751661300659
+trial_2	bromperidol	102	KG00097916	anxieties	0.0683865025639534
+trial_2	bromperidol	126	KG00100076	Pain NOS	0.0670856460928917
+trial_2	bromperidol	86	KG00098565	Depression, Mental	0.06622729450464249
+trial_2	bromperidol	85	KG00098474	coughs	0.06472749263048172
+trial_2	bromperidol	29	KG00099354	hyponatraemia	0.06416792422533035
+trial_2	bromperidol	5	KG00099169	haematuria	0.060858484357595444
+trial_2	bromperidol	72	KG00103771	myalgias	0.05773212015628815
+trial_2	bromperidol	180	KG00099363	Hypotension NOS	0.057717178016901016
+trial_2	bromperidol	116	KG00098964	Pain in foot	0.05653543025255203
+trial_2	bromperidol	2	KG00100772	thrombocytopaenia	0.051482297480106354
+trial_2	bromperidol	76	KG00100450	Respiratory insufficiency, NOS	0.050633810460567474
+trial_2	bromperidol	179	KG00099342	hypocalcaemia	0.05054093524813652
+trial_2	bromperidol	262	KG00101199	agitation	0.04997958615422249
+trial_2	bromperidol	466	KG00101205	fall	0.049479659646749496
+trial_2	bromperidol	18	KG00098307	Pain, Chest	0.04899127036333084
+trial_2	bromperidol	151	KG00098274	Infarction, Cerebral	0.04898737370967865
+trial_2	bromperidol	69	KG00100082	Palpitations NOS	0.04893594607710838
+trial_2	bromperidol	261	KG00101559	raised alkaline phosphatase	0.048774536699056625
+trial_2	bromperidol	194	KG00110727	Neutrophil Count Decreased	0.04696372523903847
+trial_2	bromperidol	139	KG00098855	Sinusitis, Ethmoid	0.046729642897844315
+trial_2	bromperidol	82	KG00097697	abdomen distended	0.046727508306503296
+trial_2	bromperidol	38	KG00098066	Binocular vision disorders	0.04589422419667244
+trial_2	bromperidol	131	KG00100948	Urinary tract infection (& [NOS])	0.0455906018614769
+trial_2	bromperidol	132	KG00101045	Gain, Weight	0.04549608379602432
+trial_2	bromperidol	61	KG00099501	Chronic Kidney Failure	0.04526975005865097
+trial_2	bromperidol	30	KG00099500	Acute Kidney Failure	0.04422379657626152
+trial_2	bromperidol	28	KG00099347	hypoglycaemia	0.04406090825796127
+trial_2	bromperidol	355	KG00110857	lymphocyte count decreased	0.04195491597056389
+trial_2	bromperidol	122	KG00099321	Hypersensitivity NOS	0.04160984978079796
+trial_2	bromperidol	191	KG00104055	Biliverdin increased	0.041583795100450516
+trial_2	bromperidol	66	KG00098642	drowsiness	0.04150787368416786
+trial_2	bromperidol	341	KG00101472	Gamma-glutamyltransferase increased	0.041289400309324265
+trial_2	bromperidol	422	KG00101429	Creatine phosphokinase increased	0.04127227142453194
+trial_2	bromperidol	27	KG00099303	hyperkalaemia	0.04120136797428131
+trial_2	bromperidol	92	KG00100926	Infections, Upper Respiratory	0.04062357917428017
+trial_2	bromperidol	204	KG00098849	Esophagitis, Peptic	0.04042227566242218
+trial_2	bromperidol	454	KG00098286	Pain, Neck	0.04037170857191086
+trial_2	bromperidol	396	KG00100373	Embolism, Pulmonary	0.03984389081597328
+trial_2	bromperidol	164	KG00108827	ileus colon	0.03974521905183792
+trial_2	bromperidol	286	KG00101110	Retention, Urinary	0.03889986872673035
+trial_2	bromperidol	153	KG00099579	lethargy	0.038535844534635544
+trial_2	bromperidol	508	KG00108565	blood glucose increased	0.037951428443193436
+trial_2	bromperidol	36	KG00106434	Vision, Blurring Of	0.037664517760276794
+trial_2	bromperidol	234	KG00098669	dysgeusias	0.03748471662402153
+trial_2	bromperidol	147	KG00098000	atelectases	0.036701101809740067
+trial_2	bromperidol	166	KG00099773	menopausal syndrome	0.03607584908604622
+trial_2	bromperidol	96	KG00101679	Unattended death NOS	0.03596152737736702
+trial_2	bromperidol	35	KG00101507	hypomagnesaemia	0.03587758541107178
+trial_2	bromperidol	253	KG00100232	Pleural effusion NOS (disorder)	0.03583516180515289
+trial_2	bromperidol	300	KG00101064	xerostomia	0.03539489582180977
+trial_2	bromperidol	211	KG00100341	Pruritus NOS	0.03495913743972778
+trial_2	bromperidol	371	KG00098517	Cystitis (NOS)	0.03487742692232132
+trial_2	bromperidol	242	KG00100855	tremors	0.034720998257398605
+trial_2	bromperidol	199	KG00098371	Rhinitis (chronic) NOS	0.03451988473534584
+trial_2	bromperidol	382	KG00099200	haemorrhoids	0.03433327376842499
+trial_2	bromperidol	256	KG00100738	Tachycardia, Sinus	0.034204430878162384
+trial_2	bromperidol	186	KG00101431	creatinine increased	0.03401631861925125
+trial_2	bromperidol	152	KG00099402	INCONTINENCE NOS	0.033715009689331055
+trial_2	bromperidol	130	KG00100683	Stomatitis NOS	0.03299495205283165
+trial_2	bromperidol	221	KG00101207	peripheral oedema	0.03260653465986252
+trial_2	bromperidol	276	KG00099127	Arrest, Cardiac	0.03223145753145218
+trial_2	bromperidol	456	KG00099420	Influenzae	0.03222687542438507
+trial_2	bromperidol	282	KG00099309	hypernatraemia	0.032211095094680786
+trial_2	bromperidol	97	KG00104198	LIVER ENZYME ELEVATED	0.03189278766512871
+trial_2	bromperidol	249	KG00104430	hypoalbuminaemia	0.03154188022017479
+trial_2	bromperidol	98	KG00097718	Incised wound, NOS	0.031510211527347565
+trial_2	bromperidol	144	KG00099610	Leukopenia NOS	0.0314505472779274
+trial_2	bromperidol	75	KG00100195	Dolens, Phlegmasia Alba	0.03132481873035431
+trial_2	bromperidol	269	KG00100399	pyaemia	0.030534684658050537
+trial_2	bromperidol	441	KG00098262	cellulitis nos	0.03026663325726986
+trial_2	bromperidol	339	KG00100334	proteinurias	0.030144091695547104

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20664538443088531
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10873652249574661
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10818728059530258
+trial_1	placebo	20	KG00098540	dehydration	0.09812012314796448
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0968237817287445
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08184262365102768
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0793038010597229
+trial_1	placebo	228	KG00114657	Weight below normal	0.07871460914611816
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07624644041061401
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07546618580818176
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.0715445950627327
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07078909873962402
+trial_1	placebo	21	KG00098675	dyspnoea	0.0615224726498127
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06121424213051796
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06096707284450531
+trial_1	placebo	46	KG00099121	Headache NOS	0.05920518934726715
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.058284420520067215
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05482954904437065
+trial_1	placebo	68	KG00099901	nauseas	0.04909447208046913
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04898199439048767
+trial_1	placebo	85	KG00098474	coughs	0.04769701138138771
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04692240059375763
+trial_1	placebo	114	KG00098933	fevers	0.04598264768719673
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04359237849712372
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04173203185200691
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.041356153786182404
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04089372605085373
+trial_1	placebo	126	KG00100076	Pain NOS	0.04037516564130783
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04022292047739029
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03949594125151634
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03936484828591347
+trial_1	placebo	269	KG00100399	pyaemia	0.03674761950969696
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03637078404426575
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03578776866197586
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03568926453590393
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03549804538488388
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.034770045429468155
+trial_1	placebo	5	KG00099169	haematuria	0.034048642963171005
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03375990688800812
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03343299776315689
+trial_1	placebo	121	KG00099190	haemorrhage	0.03203976899385452
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03156097233295441
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03121630847454071
+trial_1	placebo	147	KG00098000	atelectases	0.030972536653280258
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.030908213928341866
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030290786176919937
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02925792895257473
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.029230313375592232
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02885759435594082
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02839086391031742
+trial_1	placebo	164	KG00108827	ileus colon	0.028307415544986725
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028271298855543137
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02786840870976448
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027115127071738243
+trial_1	placebo	18	KG00098307	Pain, Chest	0.027065496891736984
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.026731343939900398
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02573179267346859
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.0255508404225111
+trial_1	placebo	4	KG00098817	epistaxis	0.025536971166729927
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.025205301120877266
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023918485268950462
+trial_1	placebo	239	KG00100128	pareses	0.02375757321715355
+trial_1	placebo	104	KG00097963	arthralgias	0.02356875129044056
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023460866883397102
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023388806730508804
+trial_1	placebo	102	KG00097916	anxieties	0.023357387632131577
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.023267334327101707
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.023228712379932404
+trial_1	placebo	186	KG00101431	creatinine increased	0.023218052461743355
+trial_1	placebo	72	KG00103771	myalgias	0.02313675358891487
+trial_1	placebo	234	KG00098669	dysgeusias	0.02232176437973976
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021957919001579285
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02193932794034481
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021672433242201805
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021447336301207542
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021159499883651733
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.021158073097467422
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.021134838461875916
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020954549312591553
+trial_1	placebo	466	KG00101205	fall	0.02074376679956913
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020323051139712334
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.019720178097486496
+trial_1	placebo	25	KG00099134	congestive failures heart	0.019534407183527946
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.019387392327189445
+trial_1	placebo	382	KG00099200	haemorrhoids	0.01890392042696476
+trial_1	placebo	11	KG00097993	Asthma NOS	0.018844474107027054
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01866910792887211
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01865423657000065
+trial_1	placebo	339	KG00100334	proteinurias	0.0183872003108263
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018154997378587723
+trial_1	placebo	82	KG00097697	abdomen distended	0.017923714593052864
+trial_1	placebo	221	KG00101207	peripheral oedema	0.017897477373480797
+trial_1	placebo	262	KG00101199	agitation	0.017852483317255974
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01772918924689293
+trial_1	placebo	60	KG00099440	Obstruction, Intestinal	0.017671626061201096
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01765039935708046
+trial_1	placebo	154	KG00099686	Lymphopenias	0.017416156828403473
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016953492537140846
+trial_1	placebo	136	KG00101582	Dry;skin	0.016940956935286522
+trial_1	placebo	393	KG00100182	Peritonitis NOS	0.01685250550508499
+trial_2	benazepril	87	KG00098599	diarrhoea	0.20664538443088531
+trial_2	benazepril	123	KG00099351	hypokalaemia	0.10873652249574661
+trial_2	benazepril	78	KG00099326	Hypertensive diseases	0.10818728059530258
+trial_2	benazepril	20	KG00098540	dehydration	0.09812012314796448
+trial_2	benazepril	173	KG00098172	Bronchopneumonia NOS	0.0968237817287445
+trial_2	benazepril	9	KG00098432	Confusion NOS	0.08184262365102768
+trial_2	benazepril	177	KG00099299	hyperglycaemia	0.0793038010597229
+trial_2	benazepril	228	KG00114657	Weight below normal	0.07871460914611816
+trial_2	benazepril	17	KG00097991	Asthenia NOS	0.07624644041061401
+trial_2	benazepril	37	KG00097696	Cramps, Abdominal	0.07546618580818176
+trial_2	benazepril	49	KG00099902	nausea with vomiting	0.0715445950627327
+trial_2	benazepril	2	KG00100772	thrombocytopaenia	0.07078909873962402
+trial_2	benazepril	21	KG00098675	dyspnoea	0.0615224726498127
+trial_2	benazepril	64	KG00097734	Acrodermatitis, NOS	0.06121424213051796
+trial_2	benazepril	14	KG00097852	Anemia NOS	0.06096707284450531
+trial_2	benazepril	46	KG00099121	Headache NOS	0.05920518934726715
+trial_2	benazepril	67	KG00098673	Dyspepsia, NOS	0.058284420520067215
+trial_2	benazepril	151	KG00098274	Infarction, Cerebral	0.05482954904437065
+trial_2	benazepril	68	KG00099901	nauseas	0.04909447208046913
+trial_2	benazepril	61	KG00099501	Chronic Kidney Failure	0.04898199439048767
+trial_2	benazepril	85	KG00098474	coughs	0.04769701138138771
+trial_2	benazepril	101	KG00097901	Anorexia NOS	0.04692240059375763
+trial_2	benazepril	114	KG00098933	fevers	0.04598264768719673
+trial_2	benazepril	180	KG00099363	Hypotension NOS	0.04359237849712372
+trial_2	benazepril	29	KG00099354	hyponatraemia	0.04173203185200691
+trial_2	benazepril	200	KG00098539	Disorders, Deglutition	0.041356153786182404
+trial_2	benazepril	350	KG00106765	decreased platelet count	0.04089372605085373
+trial_2	benazepril	126	KG00100076	Pain NOS	0.04037516564130783
+trial_2	benazepril	77	KG00098450	Constipation NOS	0.04022292047739029
+trial_2	benazepril	189	KG00101580	Alanine aminotransferase increase	0.03949594125151634
+trial_2	benazepril	188	KG00101579	Aspartate aminotransferase increase	0.03936484828591347
+trial_2	benazepril	269	KG00100399	pyaemia	0.03674761950969696
+trial_2	benazepril	86	KG00098565	Depression, Mental	0.03637078404426575
+trial_2	benazepril	142	KG00100923	Unspecified infectious and parasitic diseases	0.03578776866197586
+trial_2	benazepril	96	KG00101679	Unattended death NOS	0.03568926453590393
+trial_2	benazepril	76	KG00100450	Respiratory insufficiency, NOS	0.03549804538488388
+trial_2	benazepril	79	KG00100317	Insomnia, Primary	0.034770045429468155
+trial_2	benazepril	5	KG00099169	haematuria	0.034048642963171005
+trial_2	benazepril	131	KG00100948	Urinary tract infection (& [NOS])	0.03375990688800812
+trial_2	benazepril	276	KG00099127	Arrest, Cardiac	0.03343299776315689
+trial_2	benazepril	121	KG00099190	haemorrhage	0.03203976899385452
+trial_2	benazepril	28	KG00099347	hypoglycaemia	0.03156097233295441
+trial_2	benazepril	30	KG00099500	Acute Kidney Failure	0.03121630847454071
+trial_2	benazepril	147	KG00098000	atelectases	0.030972536653280258
+trial_2	benazepril	122	KG00099321	Hypersensitivity NOS	0.030908213928341866
+trial_2	benazepril	130	KG00100683	Stomatitis NOS	0.030290786176919937
+trial_2	benazepril	179	KG00099342	hypocalcaemia	0.02925792895257473
+trial_2	benazepril	31	KG00099872	Infarction, Myocardial	0.029230313375592232
+trial_2	benazepril	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02885759435594082
+trial_2	benazepril	27	KG00099303	hyperkalaemia	0.02839086391031742
+trial_2	benazepril	164	KG00108827	ileus colon	0.028307415544986725
+trial_2	benazepril	75	KG00100195	Dolens, Phlegmasia Alba	0.028271298855543137
+trial_2	benazepril	396	KG00100373	Embolism, Pulmonary	0.02786840870976448
+trial_2	benazepril	361	KG00098004	Fibrillation, Atrial	0.027115127071738243
+trial_2	benazepril	18	KG00098307	Pain, Chest	0.027065496891736984
+trial_2	benazepril	253	KG00100232	Pleural effusion NOS (disorder)	0.026731343939900398
+trial_2	benazepril	144	KG00099610	Leukopenia NOS	0.02573179267346859
+trial_2	benazepril	138	KG00098796	epidemic vomiting syndrome	0.0255508404225111
+trial_2	benazepril	4	KG00098817	epistaxis	0.025536971166729927
+trial_2	benazepril	356	KG00112623	Infectious Lung Disorders	0.025205301120877266
+trial_2	benazepril	139	KG00098855	Sinusitis, Ethmoid	0.023918485268950462
+trial_2	benazepril	239	KG00100128	pareses	0.02375757321715355
+trial_2	benazepril	104	KG00097963	arthralgias	0.02356875129044056
+trial_2	benazepril	191	KG00104055	Biliverdin increased	0.023460866883397102
+trial_2	benazepril	194	KG00110727	Neutrophil Count Decreased	0.023388806730508804
+trial_2	benazepril	102	KG00097916	anxieties	0.023357387632131577
+trial_2	benazepril	288	KG00101223	hypophosphataemia	0.023267334327101707
+trial_2	benazepril	1	KG00099959	Neutropenia NOS	0.023228712379932404
+trial_2	benazepril	186	KG00101431	creatinine increased	0.023218052461743355
+trial_2	benazepril	72	KG00103771	myalgias	0.02313675358891487
+trial_2	benazepril	234	KG00098669	dysgeusias	0.02232176437973976
+trial_2	benazepril	38	KG00098066	Binocular vision disorders	0.021957919001579285
+trial_2	benazepril	243	KG00100947	Micturition frequency increased	0.02193932794034481
+trial_2	benazepril	33	KG00100094	Pancreatitis NOS	0.021672433242201805
+trial_2	benazepril	249	KG00104430	hypoalbuminaemia	0.021447336301207542
+trial_2	benazepril	35	KG00101507	hypomagnesaemia	0.021159499883651733
+trial_2	benazepril	261	KG00101559	raised alkaline phosphatase	0.021158073097467422
+trial_2	benazepril	92	KG00100926	Infections, Upper Respiratory	0.021134838461875916
+trial_2	benazepril	69	KG00100082	Palpitations NOS	0.020954549312591553
+trial_2	benazepril	466	KG00101205	fall	0.02074376679956913
+trial_2	benazepril	441	KG00098262	cellulitis nos	0.020323051139712334
+trial_2	benazepril	204	KG00098849	Esophagitis, Peptic	0.019720178097486496
+trial_2	benazepril	25	KG00099134	congestive failures heart	0.019534407183527946
+trial_2	benazepril	15	KG00097882	Angina pectoris NOS	0.019387392327189445
+trial_2	benazepril	382	KG00099200	haemorrhoids	0.01890392042696476
+trial_2	benazepril	11	KG00097993	Asthma NOS	0.018844474107027054
+trial_2	benazepril	199	KG00098371	Rhinitis (chronic) NOS	0.01866910792887211
+trial_2	benazepril	394	KG00100243	Pneumonia, Aspiration	0.01865423657000065
+trial_2	benazepril	339	KG00100334	proteinurias	0.0183872003108263
+trial_2	benazepril	118	KG00099011	Gastritis NOS	0.018154997378587723
+trial_2	benazepril	82	KG00097697	abdomen distended	0.017923714593052864
+trial_2	benazepril	221	KG00101207	peripheral oedema	0.017897477373480797
+trial_2	benazepril	262	KG00101199	agitation	0.017852483317255974
+trial_2	benazepril	371	KG00098517	Cystitis (NOS)	0.01772918924689293
+trial_2	benazepril	60	KG00099440	Obstruction, Intestinal	0.017671626061201096
+trial_2	benazepril	282	KG00099309	hypernatraemia	0.01765039935708046
+trial_2	benazepril	154	KG00099686	Lymphopenias	0.017416156828403473
+trial_2	benazepril	286	KG00101110	Retention, Urinary	0.016953492537140846
+trial_2	benazepril	136	KG00101582	Dry;skin	0.016940956935286522
+trial_2	benazepril	393	KG00100182	Peritonitis NOS	0.01685250550508499

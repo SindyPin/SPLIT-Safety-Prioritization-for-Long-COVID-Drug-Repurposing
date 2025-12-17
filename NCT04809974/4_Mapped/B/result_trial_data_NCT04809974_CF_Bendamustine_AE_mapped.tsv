@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2414432317018509
+trial_1	placebo	9	KG00098432	Confusion NOS	0.17115779221057892
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14774855971336365
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.1356462836265564
+trial_1	placebo	21	KG00098675	dyspnoea	0.13554784655570984
+trial_1	placebo	68	KG00099901	nauseas	0.13161905109882355
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12429016828536987
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11619806289672852
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11595158278942108
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11450846493244171
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10735761374235153
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10440336912870407
+trial_1	placebo	228	KG00114657	Weight below normal	0.1003141924738884
+trial_1	placebo	14	KG00097852	Anemia NOS	0.10013584792613983
+trial_1	placebo	114	KG00098933	fevers	0.09808248281478882
+trial_1	placebo	20	KG00098540	dehydration	0.09539006650447845
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09426454454660416
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.09304861724376678
+trial_1	placebo	46	KG00099121	Headache NOS	0.0916583389043808
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08910117298364639
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07733726501464844
+trial_1	placebo	85	KG00098474	coughs	0.07723511755466461
+trial_1	placebo	126	KG00100076	Pain NOS	0.07586068660020828
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07324692606925964
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.06834922730922699
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06770626455545425
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06206739321351051
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05893342196941376
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.05756440386176109
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.05748144909739494
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05639969930052757
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0549222007393837
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.05404979735612869
+trial_1	placebo	72	KG00103771	myalgias	0.05339955538511276
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05330527201294899
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04837187007069588
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04486899822950363
+trial_1	placebo	102	KG00097916	anxieties	0.044508419930934906
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.043888986110687256
+trial_1	placebo	239	KG00100128	pareses	0.04231745004653931
+trial_1	placebo	104	KG00097963	arthralgias	0.04160887748003006
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.041458263993263245
+trial_1	placebo	441	KG00098262	cellulitis nos	0.040760621428489685
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0394974946975708
+trial_1	placebo	86	KG00098565	Depression, Mental	0.039161235094070435
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03846028447151184
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.037673063576221466
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037671759724617004
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.037099238485097885
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03600950911641121
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03585315868258476
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.035817619413137436
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03579118102788925
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.035561177879571915
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03517778217792511
+trial_1	placebo	269	KG00100399	pyaemia	0.03492865711450577
+trial_1	placebo	121	KG00099190	haemorrhage	0.034822165966033936
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03454722836613655
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032456930726766586
+trial_1	placebo	212	KG00100576	shivers	0.03217639774084091
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03194861859083176
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03149622306227684
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.031188059598207474
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.031118309125304222
+trial_1	placebo	147	KG00098000	atelectases	0.031087299808859825
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030819324776530266
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.030758187174797058
+trial_1	placebo	234	KG00098669	dysgeusias	0.03054424189031124
+trial_1	placebo	5	KG00099169	haematuria	0.030266789719462395
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03017682209610939
+trial_1	placebo	100	KG00097815	alopecias	0.030153734609484673
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.029980530962347984
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029526935890316963
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.029488591477274895
+trial_1	placebo	116	KG00098964	Pain in foot	0.029150554910302162
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.028196191415190697
+trial_1	placebo	82	KG00097697	abdomen distended	0.027903549373149872
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02692733146250248
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.026882005855441093
+trial_1	placebo	164	KG00108827	ileus colon	0.02663063071668148
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026064982637763023
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025560421869158745
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024904344230890274
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02423921786248684
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02420632541179657
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02403409034013748
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02364429086446762
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.023638134822249413
+trial_1	placebo	136	KG00101582	Dry;skin	0.023404527455568314
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.02333177998661995
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023297414183616638
+trial_1	placebo	300	KG00101064	xerostomia	0.023056982085108757
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022578611969947815
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022552749142050743
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022105295211076736
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.021721359342336655
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.02156745456159115
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.021294500678777695
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.021267015486955643
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.020803602412343025
+trial_2	bendamustine	87	KG00098599	diarrhoea	0.2414432317018509
+trial_2	bendamustine	9	KG00098432	Confusion NOS	0.17115779221057892
+trial_2	bendamustine	17	KG00097991	Asthenia NOS	0.14774855971336365
+trial_2	bendamustine	64	KG00097734	Acrodermatitis, NOS	0.1356462836265564
+trial_2	bendamustine	21	KG00098675	dyspnoea	0.13554784655570984
+trial_2	bendamustine	68	KG00099901	nauseas	0.13161905109882355
+trial_2	bendamustine	173	KG00098172	Bronchopneumonia NOS	0.12429016828536987
+trial_2	bendamustine	177	KG00099299	hyperglycaemia	0.11619806289672852
+trial_2	bendamustine	37	KG00097696	Cramps, Abdominal	0.11595158278942108
+trial_2	bendamustine	49	KG00099902	nausea with vomiting	0.11450846493244171
+trial_2	bendamustine	78	KG00099326	Hypertensive diseases	0.10735761374235153
+trial_2	bendamustine	77	KG00098450	Constipation NOS	0.10440336912870407
+trial_2	bendamustine	228	KG00114657	Weight below normal	0.1003141924738884
+trial_2	bendamustine	14	KG00097852	Anemia NOS	0.10013584792613983
+trial_2	bendamustine	114	KG00098933	fevers	0.09808248281478882
+trial_2	bendamustine	20	KG00098540	dehydration	0.09539006650447845
+trial_2	bendamustine	123	KG00099351	hypokalaemia	0.09426454454660416
+trial_2	bendamustine	2	KG00100772	thrombocytopaenia	0.09304861724376678
+trial_2	bendamustine	46	KG00099121	Headache NOS	0.0916583389043808
+trial_2	bendamustine	79	KG00100317	Insomnia, Primary	0.08910117298364639
+trial_2	bendamustine	101	KG00097901	Anorexia NOS	0.07733726501464844
+trial_2	bendamustine	85	KG00098474	coughs	0.07723511755466461
+trial_2	bendamustine	126	KG00100076	Pain NOS	0.07586068660020828
+trial_2	bendamustine	180	KG00099363	Hypotension NOS	0.07324692606925964
+trial_2	bendamustine	170	KG00108926	Neutropenia, Febrile	0.06834922730922699
+trial_2	bendamustine	67	KG00098673	Dyspepsia, NOS	0.06770626455545425
+trial_2	bendamustine	189	KG00101580	Alanine aminotransferase increase	0.06206739321351051
+trial_2	bendamustine	200	KG00098539	Disorders, Deglutition	0.05893342196941376
+trial_2	bendamustine	122	KG00099321	Hypersensitivity NOS	0.05756440386176109
+trial_2	bendamustine	142	KG00100923	Unspecified infectious and parasitic diseases	0.05748144909739494
+trial_2	bendamustine	76	KG00100450	Respiratory insufficiency, NOS	0.05639969930052757
+trial_2	bendamustine	1	KG00099959	Neutropenia NOS	0.0549222007393837
+trial_2	bendamustine	396	KG00100373	Embolism, Pulmonary	0.05404979735612869
+trial_2	bendamustine	72	KG00103771	myalgias	0.05339955538511276
+trial_2	bendamustine	188	KG00101579	Aspartate aminotransferase increase	0.05330527201294899
+trial_2	bendamustine	29	KG00099354	hyponatraemia	0.04837187007069588
+trial_2	bendamustine	131	KG00100948	Urinary tract infection (& [NOS])	0.04486899822950363
+trial_2	bendamustine	102	KG00097916	anxieties	0.044508419930934906
+trial_2	bendamustine	144	KG00099610	Leukopenia NOS	0.043888986110687256
+trial_2	bendamustine	239	KG00100128	pareses	0.04231745004653931
+trial_2	bendamustine	104	KG00097963	arthralgias	0.04160887748003006
+trial_2	bendamustine	243	KG00100947	Micturition frequency increased	0.041458263993263245
+trial_2	bendamustine	441	KG00098262	cellulitis nos	0.040760621428489685
+trial_2	bendamustine	96	KG00101679	Unattended death NOS	0.0394974946975708
+trial_2	bendamustine	86	KG00098565	Depression, Mental	0.039161235094070435
+trial_2	bendamustine	69	KG00100082	Palpitations NOS	0.03846028447151184
+trial_2	bendamustine	361	KG00098004	Fibrillation, Atrial	0.037673063576221466
+trial_2	bendamustine	61	KG00099501	Chronic Kidney Failure	0.037671759724617004
+trial_2	bendamustine	151	KG00098274	Infarction, Cerebral	0.037099238485097885
+trial_2	bendamustine	350	KG00106765	decreased platelet count	0.03600950911641121
+trial_2	bendamustine	211	KG00100341	Pruritus NOS	0.03585315868258476
+trial_2	bendamustine	133	KG00101370	neuropathies sensory	0.035817619413137436
+trial_2	bendamustine	75	KG00100195	Dolens, Phlegmasia Alba	0.03579118102788925
+trial_2	bendamustine	38	KG00098066	Binocular vision disorders	0.035561177879571915
+trial_2	bendamustine	18	KG00098307	Pain, Chest	0.03517778217792511
+trial_2	bendamustine	269	KG00100399	pyaemia	0.03492865711450577
+trial_2	bendamustine	121	KG00099190	haemorrhage	0.034822165966033936
+trial_2	bendamustine	194	KG00110727	Neutrophil Count Decreased	0.03454722836613655
+trial_2	bendamustine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.032456930726766586
+trial_2	bendamustine	212	KG00100576	shivers	0.03217639774084091
+trial_2	bendamustine	30	KG00099500	Acute Kidney Failure	0.03194861859083176
+trial_2	bendamustine	179	KG00099342	hypocalcaemia	0.03149622306227684
+trial_2	bendamustine	27	KG00099303	hyperkalaemia	0.031188059598207474
+trial_2	bendamustine	261	KG00101559	raised alkaline phosphatase	0.031118309125304222
+trial_2	bendamustine	147	KG00098000	atelectases	0.031087299808859825
+trial_2	bendamustine	130	KG00100683	Stomatitis NOS	0.030819324776530266
+trial_2	bendamustine	28	KG00099347	hypoglycaemia	0.030758187174797058
+trial_2	bendamustine	234	KG00098669	dysgeusias	0.03054424189031124
+trial_2	bendamustine	5	KG00099169	haematuria	0.030266789719462395
+trial_2	bendamustine	154	KG00099686	Lymphopenias	0.03017682209610939
+trial_2	bendamustine	100	KG00097815	alopecias	0.030153734609484673
+trial_2	bendamustine	35	KG00101507	hypomagnesaemia	0.029980530962347984
+trial_2	bendamustine	139	KG00098855	Sinusitis, Ethmoid	0.029526935890316963
+trial_2	bendamustine	249	KG00104430	hypoalbuminaemia	0.029488591477274895
+trial_2	bendamustine	116	KG00098964	Pain in foot	0.029150554910302162
+trial_2	bendamustine	355	KG00110857	lymphocyte count decreased	0.028196191415190697
+trial_2	bendamustine	82	KG00097697	abdomen distended	0.027903549373149872
+trial_2	bendamustine	253	KG00100232	Pleural effusion NOS (disorder)	0.02692733146250248
+trial_2	bendamustine	89	KG00099301	Hyperhidrosis (disorder)	0.026882005855441093
+trial_2	bendamustine	164	KG00108827	ileus colon	0.02663063071668148
+trial_2	bendamustine	92	KG00100926	Infections, Upper Respiratory	0.026064982637763023
+trial_2	bendamustine	282	KG00099309	hypernatraemia	0.025560421869158745
+trial_2	bendamustine	36	KG00106434	Vision, Blurring Of	0.024904344230890274
+trial_2	bendamustine	356	KG00112623	Infectious Lung Disorders	0.02423921786248684
+trial_2	bendamustine	221	KG00101207	peripheral oedema	0.02420632541179657
+trial_2	bendamustine	138	KG00098796	epidemic vomiting syndrome	0.02403409034013748
+trial_2	bendamustine	288	KG00101223	hypophosphataemia	0.02364429086446762
+trial_2	bendamustine	254	KG00100774	Thrombosis NOS	0.023638134822249413
+trial_2	bendamustine	136	KG00101582	Dry;skin	0.023404527455568314
+trial_2	bendamustine	202	KG00098630	Disturbance of Skin Sensation	0.02333177998661995
+trial_2	bendamustine	276	KG00099127	Arrest, Cardiac	0.023297414183616638
+trial_2	bendamustine	300	KG00101064	xerostomia	0.023056982085108757
+trial_2	bendamustine	204	KG00098849	Esophagitis, Peptic	0.022578611969947815
+trial_2	bendamustine	31	KG00099872	Infarction, Myocardial	0.022552749142050743
+trial_2	bendamustine	33	KG00100094	Pancreatitis NOS	0.022105295211076736
+trial_2	bendamustine	191	KG00104055	Biliverdin increased	0.021721359342336655
+trial_2	bendamustine	40	KG00098092	Blepharoconjunctivitis NOS	0.02156745456159115
+trial_2	bendamustine	286	KG00101110	Retention, Urinary	0.021294500678777695
+trial_2	bendamustine	166	KG00099773	menopausal syndrome	0.021267015486955643
+trial_2	bendamustine	213	KG00100600	Infectious Skin Diseases	0.020803602412343025

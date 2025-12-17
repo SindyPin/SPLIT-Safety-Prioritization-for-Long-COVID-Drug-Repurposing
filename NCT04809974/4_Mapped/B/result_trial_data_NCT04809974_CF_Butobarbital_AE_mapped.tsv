@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14163838326931
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12555815279483795
+trial_1	placebo	87	KG00098599	diarrhoea	0.12240033596754074
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10994279384613037
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07947432994842529
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07802066951990128
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07578123360872269
+trial_1	placebo	46	KG00099121	Headache NOS	0.07405002415180206
+trial_1	placebo	21	KG00098675	dyspnoea	0.06788367033004761
+trial_1	placebo	20	KG00098540	dehydration	0.06713194400072098
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06629610061645508
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06505195796489716
+trial_1	placebo	228	KG00114657	Weight below normal	0.06440744549036026
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06052055582404137
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.056636691093444824
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0560762882232666
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0520353764295578
+trial_1	placebo	68	KG00099901	nauseas	0.05069705471396446
+trial_1	placebo	29	KG00099354	hyponatraemia	0.049418069422245026
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04893948882818222
+trial_1	placebo	85	KG00098474	coughs	0.048326343297958374
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04774656891822815
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04763372242450714
+trial_1	placebo	104	KG00097963	arthralgias	0.046190209686756134
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04559153690934181
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04404955357313156
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04320834204554558
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0418197363615036
+trial_1	placebo	126	KG00100076	Pain NOS	0.04160713031888008
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04079596698284149
+trial_1	placebo	239	KG00100128	pareses	0.039365578442811966
+trial_1	placebo	114	KG00098933	fevers	0.038127973675727844
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0377909317612648
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.037711597979068756
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03716688230633736
+trial_1	placebo	132	KG00101045	Gain, Weight	0.036780454218387604
+trial_1	placebo	350	KG00106765	decreased platelet count	0.035147059708833694
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03382627293467522
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03234872967004776
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03218257427215576
+trial_1	placebo	102	KG00097916	anxieties	0.032075826078653336
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03131720423698425
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03101976402103901
+trial_1	placebo	262	KG00101199	agitation	0.03094477951526642
+trial_1	placebo	147	KG00098000	atelectases	0.03062400594353676
+trial_1	placebo	5	KG00099169	haematuria	0.030521566048264503
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.030357781797647476
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.030045242980122566
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02895340323448181
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.028734738007187843
+trial_1	placebo	72	KG00103771	myalgias	0.02788478136062622
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.027882983908057213
+trial_1	placebo	121	KG00099190	haemorrhage	0.0269551333039999
+trial_1	placebo	116	KG00098964	Pain in foot	0.026833876967430115
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026440169662237167
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02640797570347786
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026169655844569206
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024292953312397003
+trial_1	placebo	466	KG00101205	fall	0.02407107688486576
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.023934338241815567
+trial_1	placebo	136	KG00101582	Dry;skin	0.023907989263534546
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.023835621774196625
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.023729193955659866
+trial_1	placebo	269	KG00100399	pyaemia	0.023515872657299042
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023493146523833275
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02307339385151863
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022904423996806145
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.022813087329268456
+trial_1	placebo	234	KG00098669	dysgeusias	0.02261335402727127
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02255142666399479
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.022464103996753693
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.022069204598665237
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.022012310102581978
+trial_1	placebo	82	KG00097697	abdomen distended	0.0217512808740139
+trial_1	placebo	11	KG00097993	Asthma NOS	0.021493123844265938
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021452276036143303
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.021416055038571358
+trial_1	placebo	242	KG00100855	tremors	0.021302323788404465
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021201860159635544
+trial_1	placebo	339	KG00100334	proteinurias	0.021169941872358322
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02116585709154606
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020991342142224312
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.020777234807610512
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020743602886795998
+trial_1	placebo	66	KG00098642	drowsiness	0.0206155963242054
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0201224684715271
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.019964201375842094
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01994340308010578
+trial_1	placebo	164	KG00108827	ileus colon	0.019897473976016045
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019842904061079025
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01974223181605339
+trial_1	placebo	345	KG00103926	impairments memory	0.019515635445713997
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.019478196278214455
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01901882328093052
+trial_1	placebo	456	KG00099420	Influenzae	0.01899172179400921
+trial_1	placebo	454	KG00098286	Pain, Neck	0.018986446782946587
+trial_1	placebo	300	KG00101064	xerostomia	0.018960094079375267
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018947897478938103
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.018733413890004158
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018721263855695724
+trial_2	butobarbital	78	KG00099326	Hypertensive diseases	0.14163838326931
+trial_2	butobarbital	9	KG00098432	Confusion NOS	0.12555815279483795
+trial_2	butobarbital	87	KG00098599	diarrhoea	0.12240033596754074
+trial_2	butobarbital	17	KG00097991	Asthenia NOS	0.10994279384613037
+trial_2	butobarbital	64	KG00097734	Acrodermatitis, NOS	0.07947432994842529
+trial_2	butobarbital	177	KG00099299	hyperglycaemia	0.07802066951990128
+trial_2	butobarbital	173	KG00098172	Bronchopneumonia NOS	0.07578123360872269
+trial_2	butobarbital	46	KG00099121	Headache NOS	0.07405002415180206
+trial_2	butobarbital	21	KG00098675	dyspnoea	0.06788367033004761
+trial_2	butobarbital	20	KG00098540	dehydration	0.06713194400072098
+trial_2	butobarbital	79	KG00100317	Insomnia, Primary	0.06629610061645508
+trial_2	butobarbital	123	KG00099351	hypokalaemia	0.06505195796489716
+trial_2	butobarbital	228	KG00114657	Weight below normal	0.06440744549036026
+trial_2	butobarbital	77	KG00098450	Constipation NOS	0.06052055582404137
+trial_2	butobarbital	189	KG00101580	Alanine aminotransferase increase	0.056636691093444824
+trial_2	butobarbital	200	KG00098539	Disorders, Deglutition	0.0560762882232666
+trial_2	butobarbital	67	KG00098673	Dyspepsia, NOS	0.0520353764295578
+trial_2	butobarbital	68	KG00099901	nauseas	0.05069705471396446
+trial_2	butobarbital	29	KG00099354	hyponatraemia	0.049418069422245026
+trial_2	butobarbital	49	KG00099902	nausea with vomiting	0.04893948882818222
+trial_2	butobarbital	85	KG00098474	coughs	0.048326343297958374
+trial_2	butobarbital	188	KG00101579	Aspartate aminotransferase increase	0.04774656891822815
+trial_2	butobarbital	37	KG00097696	Cramps, Abdominal	0.04763372242450714
+trial_2	butobarbital	104	KG00097963	arthralgias	0.046190209686756134
+trial_2	butobarbital	14	KG00097852	Anemia NOS	0.04559153690934181
+trial_2	butobarbital	151	KG00098274	Infarction, Cerebral	0.04404955357313156
+trial_2	butobarbital	86	KG00098565	Depression, Mental	0.04320834204554558
+trial_2	butobarbital	243	KG00100947	Micturition frequency increased	0.0418197363615036
+trial_2	butobarbital	126	KG00100076	Pain NOS	0.04160713031888008
+trial_2	butobarbital	76	KG00100450	Respiratory insufficiency, NOS	0.04079596698284149
+trial_2	butobarbital	239	KG00100128	pareses	0.039365578442811966
+trial_2	butobarbital	114	KG00098933	fevers	0.038127973675727844
+trial_2	butobarbital	180	KG00099363	Hypotension NOS	0.0377909317612648
+trial_2	butobarbital	28	KG00099347	hypoglycaemia	0.037711597979068756
+trial_2	butobarbital	61	KG00099501	Chronic Kidney Failure	0.03716688230633736
+trial_2	butobarbital	132	KG00101045	Gain, Weight	0.036780454218387604
+trial_2	butobarbital	350	KG00106765	decreased platelet count	0.035147059708833694
+trial_2	butobarbital	101	KG00097901	Anorexia NOS	0.03382627293467522
+trial_2	butobarbital	2	KG00100772	thrombocytopaenia	0.03234872967004776
+trial_2	butobarbital	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03218257427215576
+trial_2	butobarbital	102	KG00097916	anxieties	0.032075826078653336
+trial_2	butobarbital	131	KG00100948	Urinary tract infection (& [NOS])	0.03131720423698425
+trial_2	butobarbital	27	KG00099303	hyperkalaemia	0.03101976402103901
+trial_2	butobarbital	262	KG00101199	agitation	0.03094477951526642
+trial_2	butobarbital	147	KG00098000	atelectases	0.03062400594353676
+trial_2	butobarbital	5	KG00099169	haematuria	0.030521566048264503
+trial_2	butobarbital	179	KG00099342	hypocalcaemia	0.030357781797647476
+trial_2	butobarbital	139	KG00098855	Sinusitis, Ethmoid	0.030045242980122566
+trial_2	butobarbital	96	KG00101679	Unattended death NOS	0.02895340323448181
+trial_2	butobarbital	122	KG00099321	Hypersensitivity NOS	0.028734738007187843
+trial_2	butobarbital	72	KG00103771	myalgias	0.02788478136062622
+trial_2	butobarbital	211	KG00100341	Pruritus NOS	0.027882983908057213
+trial_2	butobarbital	121	KG00099190	haemorrhage	0.0269551333039999
+trial_2	butobarbital	116	KG00098964	Pain in foot	0.026833876967430115
+trial_2	butobarbital	30	KG00099500	Acute Kidney Failure	0.026440169662237167
+trial_2	butobarbital	355	KG00110857	lymphocyte count decreased	0.02640797570347786
+trial_2	butobarbital	18	KG00098307	Pain, Chest	0.026169655844569206
+trial_2	butobarbital	154	KG00099686	Lymphopenias	0.024292953312397003
+trial_2	butobarbital	466	KG00101205	fall	0.02407107688486576
+trial_2	butobarbital	396	KG00100373	Embolism, Pulmonary	0.023934338241815567
+trial_2	butobarbital	136	KG00101582	Dry;skin	0.023907989263534546
+trial_2	butobarbital	38	KG00098066	Binocular vision disorders	0.023835621774196625
+trial_2	butobarbital	36	KG00106434	Vision, Blurring Of	0.023729193955659866
+trial_2	butobarbital	269	KG00100399	pyaemia	0.023515872657299042
+trial_2	butobarbital	261	KG00101559	raised alkaline phosphatase	0.023493146523833275
+trial_2	butobarbital	276	KG00099127	Arrest, Cardiac	0.02307339385151863
+trial_2	butobarbital	282	KG00099309	hypernatraemia	0.022904423996806145
+trial_2	butobarbital	297	KG00099294	hypercholesterolaemia	0.022813087329268456
+trial_2	butobarbital	234	KG00098669	dysgeusias	0.02261335402727127
+trial_2	butobarbital	249	KG00104430	hypoalbuminaemia	0.02255142666399479
+trial_2	butobarbital	422	KG00101429	Creatine phosphokinase increased	0.022464103996753693
+trial_2	butobarbital	199	KG00098371	Rhinitis (chronic) NOS	0.022069204598665237
+trial_2	butobarbital	191	KG00104055	Biliverdin increased	0.022012310102581978
+trial_2	butobarbital	82	KG00097697	abdomen distended	0.0217512808740139
+trial_2	butobarbital	11	KG00097993	Asthma NOS	0.021493123844265938
+trial_2	butobarbital	69	KG00100082	Palpitations NOS	0.021452276036143303
+trial_2	butobarbital	194	KG00110727	Neutrophil Count Decreased	0.021416055038571358
+trial_2	butobarbital	242	KG00100855	tremors	0.021302323788404465
+trial_2	butobarbital	221	KG00101207	peripheral oedema	0.021201860159635544
+trial_2	butobarbital	339	KG00100334	proteinurias	0.021169941872358322
+trial_2	butobarbital	130	KG00100683	Stomatitis NOS	0.02116585709154606
+trial_2	butobarbital	142	KG00100923	Unspecified infectious and parasitic diseases	0.020991342142224312
+trial_2	butobarbital	166	KG00099773	menopausal syndrome	0.020777234807610512
+trial_2	butobarbital	92	KG00100926	Infections, Upper Respiratory	0.020743602886795998
+trial_2	butobarbital	66	KG00098642	drowsiness	0.0206155963242054
+trial_2	butobarbital	441	KG00098262	cellulitis nos	0.0201224684715271
+trial_2	butobarbital	371	KG00098517	Cystitis (NOS)	0.019964201375842094
+trial_2	butobarbital	31	KG00099872	Infarction, Myocardial	0.01994340308010578
+trial_2	butobarbital	164	KG00108827	ileus colon	0.019897473976016045
+trial_2	butobarbital	253	KG00100232	Pleural effusion NOS (disorder)	0.019842904061079025
+trial_2	butobarbital	75	KG00100195	Dolens, Phlegmasia Alba	0.01974223181605339
+trial_2	butobarbital	345	KG00103926	impairments memory	0.019515635445713997
+trial_2	butobarbital	98	KG00097718	Incised wound, NOS	0.019478196278214455
+trial_2	butobarbital	246	KG00103338	Aspartate Aminotransferase Measurement	0.01901882328093052
+trial_2	butobarbital	456	KG00099420	Influenzae	0.01899172179400921
+trial_2	butobarbital	454	KG00098286	Pain, Neck	0.018986446782946587
+trial_2	butobarbital	300	KG00101064	xerostomia	0.018960094079375267
+trial_2	butobarbital	15	KG00097882	Angina pectoris NOS	0.018947897478938103
+trial_2	butobarbital	288	KG00101223	hypophosphataemia	0.018733413890004158
+trial_2	butobarbital	118	KG00099011	Gastritis NOS	0.018721263855695724

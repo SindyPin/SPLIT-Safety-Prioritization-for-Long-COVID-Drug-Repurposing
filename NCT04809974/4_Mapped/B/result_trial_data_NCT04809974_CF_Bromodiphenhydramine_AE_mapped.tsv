@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.14360731840133667
+trial_1	placebo	87	KG00098599	diarrhoea	0.14210890233516693
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11115094274282455
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09273069351911545
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08827505260705948
+trial_1	placebo	20	KG00098540	dehydration	0.0862865149974823
+trial_1	placebo	46	KG00099121	Headache NOS	0.08239521086215973
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08217421174049377
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07744487375020981
+trial_1	placebo	21	KG00098675	dyspnoea	0.07283096760511398
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06927425414323807
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06631544977426529
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06552983075380325
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06470628827810287
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06175138056278229
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06132875382900238
+trial_1	placebo	68	KG00099901	nauseas	0.06027058884501457
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06004548445343971
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05780822038650513
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05297541245818138
+trial_1	placebo	228	KG00114657	Weight below normal	0.05285179242491722
+trial_1	placebo	85	KG00098474	coughs	0.05201775208115578
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.051408953964710236
+trial_1	placebo	14	KG00097852	Anemia NOS	0.047569625079631805
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04562216252088547
+trial_1	placebo	114	KG00098933	fevers	0.04457676783204079
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04449832811951637
+trial_1	placebo	104	KG00097963	arthralgias	0.04446263238787651
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04417186602950096
+trial_1	placebo	239	KG00100128	pareses	0.04206876829266548
+trial_1	placebo	126	KG00100076	Pain NOS	0.041742920875549316
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04161684587597847
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0415257029235363
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03928539529442787
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.038119081407785416
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.037753764539957047
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.037326619029045105
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03698718175292015
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03552401065826416
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03539576381444931
+trial_1	placebo	5	KG00099169	haematuria	0.035140812397003174
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.034014131873846054
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03396029397845268
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.033207252621650696
+trial_1	placebo	102	KG00097916	anxieties	0.032824140042066574
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.032531481236219406
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0320529006421566
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0318429172039032
+trial_1	placebo	300	KG00101064	xerostomia	0.0312642902135849
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030968373641371727
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0308679211884737
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03063272312283516
+trial_1	placebo	262	KG00101199	agitation	0.030391540378332138
+trial_1	placebo	72	KG00103771	myalgias	0.030279995873570442
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030150793492794037
+trial_1	placebo	164	KG00108827	ileus colon	0.03011910803616047
+trial_1	placebo	147	KG00098000	atelectases	0.029532210901379585
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029274366796016693
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.028688358142971992
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02829880826175213
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027986273169517517
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026091039180755615
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02555803954601288
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025111204013228416
+trial_1	placebo	116	KG00098964	Pain in foot	0.02506141923367977
+trial_1	placebo	121	KG00099190	haemorrhage	0.024865956977009773
+trial_1	placebo	82	KG00097697	abdomen distended	0.024813974276185036
+trial_1	placebo	234	KG00098669	dysgeusias	0.02437100186944008
+trial_1	placebo	269	KG00100399	pyaemia	0.02424619533121586
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02417898364365101
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.024070387706160545
+trial_1	placebo	466	KG00101205	fall	0.02405056357383728
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023978544399142265
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023881271481513977
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023870863020420074
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.023821553215384483
+trial_1	placebo	242	KG00100855	tremors	0.023609893396496773
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.023391012102365494
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02338099293410778
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023321153596043587
+trial_1	placebo	66	KG00098642	drowsiness	0.02286548539996147
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.022181594744324684
+trial_1	placebo	186	KG00101431	creatinine increased	0.022169528529047966
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.022118309512734413
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02211081050336361
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0217143427580595
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021490883082151413
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021461132913827896
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021288901567459106
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02115103229880333
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021065963432192802
+trial_1	placebo	153	KG00099579	lethargy	0.020709365606307983
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.020615417510271072
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.020454563200473785
+trial_1	placebo	136	KG00101582	Dry;skin	0.020402982831001282
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01999657414853573
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.019748419523239136
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01970418356359005
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01967170089483261
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01956433430314064
+trial_2	bromodiphenhydramine	78	KG00099326	Hypertensive diseases	0.14360731840133667
+trial_2	bromodiphenhydramine	87	KG00098599	diarrhoea	0.14210890233516693
+trial_2	bromodiphenhydramine	17	KG00097991	Asthenia NOS	0.11115094274282455
+trial_2	bromodiphenhydramine	177	KG00099299	hyperglycaemia	0.09273069351911545
+trial_2	bromodiphenhydramine	9	KG00098432	Confusion NOS	0.08827505260705948
+trial_2	bromodiphenhydramine	20	KG00098540	dehydration	0.0862865149974823
+trial_2	bromodiphenhydramine	46	KG00099121	Headache NOS	0.08239521086215973
+trial_2	bromodiphenhydramine	123	KG00099351	hypokalaemia	0.08217421174049377
+trial_2	bromodiphenhydramine	173	KG00098172	Bronchopneumonia NOS	0.07744487375020981
+trial_2	bromodiphenhydramine	21	KG00098675	dyspnoea	0.07283096760511398
+trial_2	bromodiphenhydramine	79	KG00100317	Insomnia, Primary	0.06927425414323807
+trial_2	bromodiphenhydramine	189	KG00101580	Alanine aminotransferase increase	0.06631544977426529
+trial_2	bromodiphenhydramine	77	KG00098450	Constipation NOS	0.06552983075380325
+trial_2	bromodiphenhydramine	49	KG00099902	nausea with vomiting	0.06470628827810287
+trial_2	bromodiphenhydramine	67	KG00098673	Dyspepsia, NOS	0.06175138056278229
+trial_2	bromodiphenhydramine	200	KG00098539	Disorders, Deglutition	0.06132875382900238
+trial_2	bromodiphenhydramine	68	KG00099901	nauseas	0.06027058884501457
+trial_2	bromodiphenhydramine	188	KG00101579	Aspartate aminotransferase increase	0.06004548445343971
+trial_2	bromodiphenhydramine	37	KG00097696	Cramps, Abdominal	0.05780822038650513
+trial_2	bromodiphenhydramine	29	KG00099354	hyponatraemia	0.05297541245818138
+trial_2	bromodiphenhydramine	228	KG00114657	Weight below normal	0.05285179242491722
+trial_2	bromodiphenhydramine	85	KG00098474	coughs	0.05201775208115578
+trial_2	bromodiphenhydramine	64	KG00097734	Acrodermatitis, NOS	0.051408953964710236
+trial_2	bromodiphenhydramine	14	KG00097852	Anemia NOS	0.047569625079631805
+trial_2	bromodiphenhydramine	86	KG00098565	Depression, Mental	0.04562216252088547
+trial_2	bromodiphenhydramine	114	KG00098933	fevers	0.04457676783204079
+trial_2	bromodiphenhydramine	180	KG00099363	Hypotension NOS	0.04449832811951637
+trial_2	bromodiphenhydramine	104	KG00097963	arthralgias	0.04446263238787651
+trial_2	bromodiphenhydramine	350	KG00106765	decreased platelet count	0.04417186602950096
+trial_2	bromodiphenhydramine	239	KG00100128	pareses	0.04206876829266548
+trial_2	bromodiphenhydramine	126	KG00100076	Pain NOS	0.041742920875549316
+trial_2	bromodiphenhydramine	151	KG00098274	Infarction, Cerebral	0.04161684587597847
+trial_2	bromodiphenhydramine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0415257029235363
+trial_2	bromodiphenhydramine	243	KG00100947	Micturition frequency increased	0.03928539529442787
+trial_2	bromodiphenhydramine	122	KG00099321	Hypersensitivity NOS	0.038119081407785416
+trial_2	bromodiphenhydramine	61	KG00099501	Chronic Kidney Failure	0.037753764539957047
+trial_2	bromodiphenhydramine	2	KG00100772	thrombocytopaenia	0.037326619029045105
+trial_2	bromodiphenhydramine	96	KG00101679	Unattended death NOS	0.03698718175292015
+trial_2	bromodiphenhydramine	179	KG00099342	hypocalcaemia	0.03552401065826416
+trial_2	bromodiphenhydramine	76	KG00100450	Respiratory insufficiency, NOS	0.03539576381444931
+trial_2	bromodiphenhydramine	5	KG00099169	haematuria	0.035140812397003174
+trial_2	bromodiphenhydramine	30	KG00099500	Acute Kidney Failure	0.034014131873846054
+trial_2	bromodiphenhydramine	101	KG00097901	Anorexia NOS	0.03396029397845268
+trial_2	bromodiphenhydramine	261	KG00101559	raised alkaline phosphatase	0.033207252621650696
+trial_2	bromodiphenhydramine	102	KG00097916	anxieties	0.032824140042066574
+trial_2	bromodiphenhydramine	28	KG00099347	hypoglycaemia	0.032531481236219406
+trial_2	bromodiphenhydramine	27	KG00099303	hyperkalaemia	0.0320529006421566
+trial_2	bromodiphenhydramine	132	KG00101045	Gain, Weight	0.0318429172039032
+trial_2	bromodiphenhydramine	300	KG00101064	xerostomia	0.0312642902135849
+trial_2	bromodiphenhydramine	18	KG00098307	Pain, Chest	0.030968373641371727
+trial_2	bromodiphenhydramine	38	KG00098066	Binocular vision disorders	0.0308679211884737
+trial_2	bromodiphenhydramine	131	KG00100948	Urinary tract infection (& [NOS])	0.03063272312283516
+trial_2	bromodiphenhydramine	262	KG00101199	agitation	0.030391540378332138
+trial_2	bromodiphenhydramine	72	KG00103771	myalgias	0.030279995873570442
+trial_2	bromodiphenhydramine	36	KG00106434	Vision, Blurring Of	0.030150793492794037
+trial_2	bromodiphenhydramine	164	KG00108827	ileus colon	0.03011910803616047
+trial_2	bromodiphenhydramine	147	KG00098000	atelectases	0.029532210901379585
+trial_2	bromodiphenhydramine	396	KG00100373	Embolism, Pulmonary	0.029274366796016693
+trial_2	bromodiphenhydramine	142	KG00100923	Unspecified infectious and parasitic diseases	0.028688358142971992
+trial_2	bromodiphenhydramine	139	KG00098855	Sinusitis, Ethmoid	0.02829880826175213
+trial_2	bromodiphenhydramine	194	KG00110727	Neutrophil Count Decreased	0.027986273169517517
+trial_2	bromodiphenhydramine	276	KG00099127	Arrest, Cardiac	0.026091039180755615
+trial_2	bromodiphenhydramine	355	KG00110857	lymphocyte count decreased	0.02555803954601288
+trial_2	bromodiphenhydramine	341	KG00101472	Gamma-glutamyltransferase increased	0.025111204013228416
+trial_2	bromodiphenhydramine	116	KG00098964	Pain in foot	0.02506141923367977
+trial_2	bromodiphenhydramine	121	KG00099190	haemorrhage	0.024865956977009773
+trial_2	bromodiphenhydramine	82	KG00097697	abdomen distended	0.024813974276185036
+trial_2	bromodiphenhydramine	234	KG00098669	dysgeusias	0.02437100186944008
+trial_2	bromodiphenhydramine	269	KG00100399	pyaemia	0.02424619533121586
+trial_2	bromodiphenhydramine	191	KG00104055	Biliverdin increased	0.02417898364365101
+trial_2	bromodiphenhydramine	130	KG00100683	Stomatitis NOS	0.024070387706160545
+trial_2	bromodiphenhydramine	466	KG00101205	fall	0.02405056357383728
+trial_2	bromodiphenhydramine	286	KG00101110	Retention, Urinary	0.023978544399142265
+trial_2	bromodiphenhydramine	92	KG00100926	Infections, Upper Respiratory	0.023881271481513977
+trial_2	bromodiphenhydramine	69	KG00100082	Palpitations NOS	0.023870863020420074
+trial_2	bromodiphenhydramine	249	KG00104430	hypoalbuminaemia	0.023821553215384483
+trial_2	bromodiphenhydramine	242	KG00100855	tremors	0.023609893396496773
+trial_2	bromodiphenhydramine	35	KG00101507	hypomagnesaemia	0.023391012102365494
+trial_2	bromodiphenhydramine	144	KG00099610	Leukopenia NOS	0.02338099293410778
+trial_2	bromodiphenhydramine	422	KG00101429	Creatine phosphokinase increased	0.023321153596043587
+trial_2	bromodiphenhydramine	66	KG00098642	drowsiness	0.02286548539996147
+trial_2	bromodiphenhydramine	371	KG00098517	Cystitis (NOS)	0.022181594744324684
+trial_2	bromodiphenhydramine	186	KG00101431	creatinine increased	0.022169528529047966
+trial_2	bromodiphenhydramine	1	KG00099959	Neutropenia NOS	0.022118309512734413
+trial_2	bromodiphenhydramine	282	KG00099309	hypernatraemia	0.02211081050336361
+trial_2	bromodiphenhydramine	154	KG00099686	Lymphopenias	0.0217143427580595
+trial_2	bromodiphenhydramine	508	KG00108565	blood glucose increased	0.021490883082151413
+trial_2	bromodiphenhydramine	253	KG00100232	Pleural effusion NOS (disorder)	0.021461132913827896
+trial_2	bromodiphenhydramine	75	KG00100195	Dolens, Phlegmasia Alba	0.021288901567459106
+trial_2	bromodiphenhydramine	199	KG00098371	Rhinitis (chronic) NOS	0.02115103229880333
+trial_2	bromodiphenhydramine	256	KG00100738	Tachycardia, Sinus	0.021065963432192802
+trial_2	bromodiphenhydramine	153	KG00099579	lethargy	0.020709365606307983
+trial_2	bromodiphenhydramine	33	KG00100094	Pancreatitis NOS	0.020615417510271072
+trial_2	bromodiphenhydramine	118	KG00099011	Gastritis NOS	0.020454563200473785
+trial_2	bromodiphenhydramine	136	KG00101582	Dry;skin	0.020402982831001282
+trial_2	bromodiphenhydramine	221	KG00101207	peripheral oedema	0.01999657414853573
+trial_2	bromodiphenhydramine	204	KG00098849	Esophagitis, Peptic	0.019748419523239136
+trial_2	bromodiphenhydramine	394	KG00100243	Pneumonia, Aspiration	0.01970418356359005
+trial_2	bromodiphenhydramine	152	KG00099402	INCONTINENCE NOS	0.01967170089483261
+trial_2	bromodiphenhydramine	31	KG00099872	Infarction, Myocardial	0.01956433430314064

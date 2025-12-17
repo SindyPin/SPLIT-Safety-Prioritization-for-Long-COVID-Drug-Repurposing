@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	68	KG00099901	nauseas	0.13376620411872864
+trial_1	placebo	87	KG00098599	diarrhoea	0.1311383694410324
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.1204788088798523
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12022214382886887
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10947900265455246
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09705206751823425
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.09379658848047256
+trial_1	placebo	46	KG00099121	Headache NOS	0.07705018669366837
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07219606637954712
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06194761395454407
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05607842281460762
+trial_1	placebo	21	KG00098675	dyspnoea	0.055364083498716354
+trial_1	placebo	20	KG00098540	dehydration	0.055071279406547546
+trial_1	placebo	228	KG00114657	Weight below normal	0.054489076137542725
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0511360764503479
+trial_1	placebo	300	KG00101064	xerostomia	0.047089409083127975
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04428396746516228
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04302245005965233
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.042570821940898895
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04095861688256264
+trial_1	placebo	102	KG00097916	anxieties	0.040474455803632736
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03654278442263603
+trial_1	placebo	126	KG00100076	Pain NOS	0.03446384519338608
+trial_1	placebo	114	KG00098933	fevers	0.03317227587103844
+trial_1	placebo	85	KG00098474	coughs	0.03283665329217911
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0284905843436718
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.027842964977025986
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.027643540874123573
+trial_1	placebo	262	KG00101199	agitation	0.027151647955179214
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.02707514353096485
+trial_1	placebo	234	KG00098669	dysgeusias	0.0267277080565691
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02641882933676243
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.026056557893753052
+trial_1	placebo	104	KG00097963	arthralgias	0.026016732677817345
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02597738243639469
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.025841807946562767
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02486814372241497
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02479809708893299
+trial_1	placebo	132	KG00101045	Gain, Weight	0.024415962398052216
+trial_1	placebo	14	KG00097852	Anemia NOS	0.024288231506943703
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02400977537035942
+trial_1	placebo	72	KG00103771	myalgias	0.023978406563401222
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02359306439757347
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022501034662127495
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.022088684141635895
+trial_1	placebo	18	KG00098307	Pain, Chest	0.021887697279453278
+trial_1	placebo	66	KG00098642	drowsiness	0.021621888503432274
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02049066498875618
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020297007635235786
+trial_1	placebo	242	KG00100855	tremors	0.019789880141615868
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.019419224932789803
+trial_1	placebo	239	KG00100128	pareses	0.018708154559135437
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.018050361424684525
+trial_1	placebo	82	KG00097697	abdomen distended	0.018043329939246178
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.017796486616134644
+trial_1	placebo	121	KG00099190	haemorrhage	0.017566939815878868
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01746102049946785
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.016738541424274445
+trial_1	placebo	116	KG00098964	Pain in foot	0.016732335090637207
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.016481913626194
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.016197331249713898
+trial_1	placebo	5	KG00099169	haematuria	0.014836771413683891
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014788770116865635
+trial_1	placebo	136	KG00101582	Dry;skin	0.014784283004701138
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.014685676433146
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.014589568600058556
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.014561407268047333
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01455402560532093
+trial_1	placebo	100	KG00097815	alopecias	0.014231708832085133
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.014180036261677742
+trial_1	placebo	441	KG00098262	cellulitis nos	0.014070221222937107
+trial_1	placebo	466	KG00101205	fall	0.014056917279958725
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014002697542309761
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013988262042403221
+trial_1	placebo	147	KG00098000	atelectases	0.013812488876283169
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.013591032475233078
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.013561811298131943
+trial_1	placebo	331	KG00099462	Mood, Irritable	0.013545069843530655
+trial_1	placebo	165	KG00098537	Libido Decreased	0.013471310958266258
+trial_1	placebo	524	KG00100611	Sleeping disturbances	0.013450223952531815
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.013384755700826645
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.013315809890627861
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.013307680375874043
+trial_1	placebo	164	KG00108827	ileus colon	0.01309450063854456
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01306910626590252
+trial_1	placebo	154	KG00099686	Lymphopenias	0.013027741573750973
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01293363980948925
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.012847433798015118
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.012790187261998653
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.012507944367825985
+trial_1	placebo	221	KG00101207	peripheral oedema	0.012449595145881176
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.012265929952263832
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.012190382927656174
+trial_1	placebo	345	KG00103926	impairments memory	0.012175158597528934
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.012021132744848728
+trial_1	placebo	456	KG00099420	Influenzae	0.011882763355970383
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.011844221502542496
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.011822648346424103
+trial_1	placebo	212	KG00100576	shivers	0.011648195795714855
+trial_1	placebo	4	KG00098817	epistaxis	0.011505057103931904
+trial_2	bupropion	68	KG00099901	nauseas	0.13376620411872864
+trial_2	bupropion	87	KG00098599	diarrhoea	0.1311383694410324
+trial_2	bupropion	79	KG00100317	Insomnia, Primary	0.1204788088798523
+trial_2	bupropion	17	KG00097991	Asthenia NOS	0.12022214382886887
+trial_2	bupropion	9	KG00098432	Confusion NOS	0.10947900265455246
+trial_2	bupropion	49	KG00099902	nausea with vomiting	0.09705206751823425
+trial_2	bupropion	101	KG00097901	Anorexia NOS	0.09379658848047256
+trial_2	bupropion	46	KG00099121	Headache NOS	0.07705018669366837
+trial_2	bupropion	77	KG00098450	Constipation NOS	0.07219606637954712
+trial_2	bupropion	78	KG00099326	Hypertensive diseases	0.06194761395454407
+trial_2	bupropion	177	KG00099299	hyperglycaemia	0.05607842281460762
+trial_2	bupropion	21	KG00098675	dyspnoea	0.055364083498716354
+trial_2	bupropion	20	KG00098540	dehydration	0.055071279406547546
+trial_2	bupropion	228	KG00114657	Weight below normal	0.054489076137542725
+trial_2	bupropion	37	KG00097696	Cramps, Abdominal	0.0511360764503479
+trial_2	bupropion	300	KG00101064	xerostomia	0.047089409083127975
+trial_2	bupropion	123	KG00099351	hypokalaemia	0.04428396746516228
+trial_2	bupropion	67	KG00098673	Dyspepsia, NOS	0.04302245005965233
+trial_2	bupropion	64	KG00097734	Acrodermatitis, NOS	0.042570821940898895
+trial_2	bupropion	173	KG00098172	Bronchopneumonia NOS	0.04095861688256264
+trial_2	bupropion	102	KG00097916	anxieties	0.040474455803632736
+trial_2	bupropion	86	KG00098565	Depression, Mental	0.03654278442263603
+trial_2	bupropion	126	KG00100076	Pain NOS	0.03446384519338608
+trial_2	bupropion	114	KG00098933	fevers	0.03317227587103844
+trial_2	bupropion	85	KG00098474	coughs	0.03283665329217911
+trial_2	bupropion	180	KG00099363	Hypotension NOS	0.0284905843436718
+trial_2	bupropion	151	KG00098274	Infarction, Cerebral	0.027842964977025986
+trial_2	bupropion	200	KG00098539	Disorders, Deglutition	0.027643540874123573
+trial_2	bupropion	262	KG00101199	agitation	0.027151647955179214
+trial_2	bupropion	189	KG00101580	Alanine aminotransferase increase	0.02707514353096485
+trial_2	bupropion	234	KG00098669	dysgeusias	0.0267277080565691
+trial_2	bupropion	122	KG00099321	Hypersensitivity NOS	0.02641882933676243
+trial_2	bupropion	89	KG00099301	Hyperhidrosis (disorder)	0.026056557893753052
+trial_2	bupropion	104	KG00097963	arthralgias	0.026016732677817345
+trial_2	bupropion	96	KG00101679	Unattended death NOS	0.02597738243639469
+trial_2	bupropion	243	KG00100947	Micturition frequency increased	0.025841807946562767
+trial_2	bupropion	29	KG00099354	hyponatraemia	0.02486814372241497
+trial_2	bupropion	36	KG00106434	Vision, Blurring Of	0.02479809708893299
+trial_2	bupropion	132	KG00101045	Gain, Weight	0.024415962398052216
+trial_2	bupropion	14	KG00097852	Anemia NOS	0.024288231506943703
+trial_2	bupropion	69	KG00100082	Palpitations NOS	0.02400977537035942
+trial_2	bupropion	72	KG00103771	myalgias	0.023978406563401222
+trial_2	bupropion	139	KG00098855	Sinusitis, Ethmoid	0.02359306439757347
+trial_2	bupropion	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.022501034662127495
+trial_2	bupropion	38	KG00098066	Binocular vision disorders	0.022088684141635895
+trial_2	bupropion	18	KG00098307	Pain, Chest	0.021887697279453278
+trial_2	bupropion	66	KG00098642	drowsiness	0.021621888503432274
+trial_2	bupropion	142	KG00100923	Unspecified infectious and parasitic diseases	0.02049066498875618
+trial_2	bupropion	211	KG00100341	Pruritus NOS	0.020297007635235786
+trial_2	bupropion	242	KG00100855	tremors	0.019789880141615868
+trial_2	bupropion	188	KG00101579	Aspartate aminotransferase increase	0.019419224932789803
+trial_2	bupropion	239	KG00100128	pareses	0.018708154559135437
+trial_2	bupropion	76	KG00100450	Respiratory insufficiency, NOS	0.018050361424684525
+trial_2	bupropion	82	KG00097697	abdomen distended	0.018043329939246178
+trial_2	bupropion	28	KG00099347	hypoglycaemia	0.017796486616134644
+trial_2	bupropion	121	KG00099190	haemorrhage	0.017566939815878868
+trial_2	bupropion	350	KG00106765	decreased platelet count	0.01746102049946785
+trial_2	bupropion	133	KG00101370	neuropathies sensory	0.016738541424274445
+trial_2	bupropion	116	KG00098964	Pain in foot	0.016732335090637207
+trial_2	bupropion	166	KG00099773	menopausal syndrome	0.016481913626194
+trial_2	bupropion	261	KG00101559	raised alkaline phosphatase	0.016197331249713898
+trial_2	bupropion	5	KG00099169	haematuria	0.014836771413683891
+trial_2	bupropion	92	KG00100926	Infections, Upper Respiratory	0.014788770116865635
+trial_2	bupropion	136	KG00101582	Dry;skin	0.014784283004701138
+trial_2	bupropion	361	KG00098004	Fibrillation, Atrial	0.014685676433146
+trial_2	bupropion	131	KG00100948	Urinary tract infection (& [NOS])	0.014589568600058556
+trial_2	bupropion	61	KG00099501	Chronic Kidney Failure	0.014561407268047333
+trial_2	bupropion	130	KG00100683	Stomatitis NOS	0.01455402560532093
+trial_2	bupropion	100	KG00097815	alopecias	0.014231708832085133
+trial_2	bupropion	199	KG00098371	Rhinitis (chronic) NOS	0.014180036261677742
+trial_2	bupropion	441	KG00098262	cellulitis nos	0.014070221222937107
+trial_2	bupropion	466	KG00101205	fall	0.014056917279958725
+trial_2	bupropion	22	KG00098705	Edema (NOS)	0.014002697542309761
+trial_2	bupropion	138	KG00098796	epidemic vomiting syndrome	0.013988262042403221
+trial_2	bupropion	147	KG00098000	atelectases	0.013812488876283169
+trial_2	bupropion	191	KG00104055	Biliverdin increased	0.013591032475233078
+trial_2	bupropion	396	KG00100373	Embolism, Pulmonary	0.013561811298131943
+trial_2	bupropion	331	KG00099462	Mood, Irritable	0.013545069843530655
+trial_2	bupropion	165	KG00098537	Libido Decreased	0.013471310958266258
+trial_2	bupropion	524	KG00100611	Sleeping disturbances	0.013450223952531815
+trial_2	bupropion	249	KG00104430	hypoalbuminaemia	0.013384755700826645
+trial_2	bupropion	204	KG00098849	Esophagitis, Peptic	0.013315809890627861
+trial_2	bupropion	179	KG00099342	hypocalcaemia	0.013307680375874043
+trial_2	bupropion	164	KG00108827	ileus colon	0.01309450063854456
+trial_2	bupropion	286	KG00101110	Retention, Urinary	0.01306910626590252
+trial_2	bupropion	154	KG00099686	Lymphopenias	0.013027741573750973
+trial_2	bupropion	11	KG00097993	Asthma NOS	0.01293363980948925
+trial_2	bupropion	355	KG00110857	lymphocyte count decreased	0.012847433798015118
+trial_2	bupropion	194	KG00110727	Neutrophil Count Decreased	0.012790187261998653
+trial_2	bupropion	218	KG00100801	Tinnitus NOS	0.012507944367825985
+trial_2	bupropion	221	KG00101207	peripheral oedema	0.012449595145881176
+trial_2	bupropion	170	KG00108926	Neutropenia, Febrile	0.012265929952263832
+trial_2	bupropion	254	KG00100774	Thrombosis NOS	0.012190382927656174
+trial_2	bupropion	345	KG00103926	impairments memory	0.012175158597528934
+trial_2	bupropion	118	KG00099011	Gastritis NOS	0.012021132744848728
+trial_2	bupropion	456	KG00099420	Influenzae	0.011882763355970383
+trial_2	bupropion	371	KG00098517	Cystitis (NOS)	0.011844221502542496
+trial_2	bupropion	27	KG00099303	hyperkalaemia	0.011822648346424103
+trial_2	bupropion	212	KG00100576	shivers	0.011648195795714855
+trial_2	bupropion	4	KG00098817	epistaxis	0.011505057103931904

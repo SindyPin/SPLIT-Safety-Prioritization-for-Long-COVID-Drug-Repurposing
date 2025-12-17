@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.26992183923721313
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.22088800370693207
+trial_1	placebo	123	KG00099351	hypokalaemia	0.17784526944160461
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.167599156498909
+trial_1	placebo	9	KG00098432	Confusion NOS	0.16169622540473938
+trial_1	placebo	68	KG00099901	nauseas	0.15242058038711548
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.15168456733226776
+trial_1	placebo	20	KG00098540	dehydration	0.14696988463401794
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.14467987418174744
+trial_1	placebo	46	KG00099121	Headache NOS	0.13773012161254883
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.13330374658107758
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12874585390090942
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.12750673294067383
+trial_1	placebo	228	KG00114657	Weight below normal	0.12024231255054474
+trial_1	placebo	21	KG00098675	dyspnoea	0.11965460330247879
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.11959118396043777
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.11813098937273026
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.11292335391044617
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.10999000817537308
+trial_1	placebo	14	KG00097852	Anemia NOS	0.10863515734672546
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.10318303108215332
+trial_1	placebo	350	KG00106765	decreased platelet count	0.1026095449924469
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09579334408044815
+trial_1	placebo	29	KG00099354	hyponatraemia	0.08877485990524292
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.08803267031908035
+trial_1	placebo	114	KG00098933	fevers	0.08784821629524231
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.08360875397920609
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.08271009474992752
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.08194796741008759
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.08088172972202301
+trial_1	placebo	72	KG00103771	myalgias	0.0755879357457161
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07457266002893448
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.07368849217891693
+trial_1	placebo	104	KG00097963	arthralgias	0.0734197199344635
+trial_1	placebo	85	KG00098474	coughs	0.07334770262241364
+trial_1	placebo	126	KG00100076	Pain NOS	0.07266468554735184
+trial_1	placebo	239	KG00100128	pareses	0.07195311784744263
+trial_1	placebo	5	KG00099169	haematuria	0.06920747458934784
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06329571455717087
+trial_1	placebo	147	KG00098000	atelectases	0.06159768998622894
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.060918837785720825
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06030726060271263
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06029510498046875
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05843440070748329
+trial_1	placebo	282	KG00099309	hypernatraemia	0.058346014469861984
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05826139450073242
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05825984105467796
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.05816544219851494
+trial_1	placebo	18	KG00098307	Pain, Chest	0.05723659321665764
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05632558465003967
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.05612684041261673
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05493120104074478
+trial_1	placebo	116	KG00098964	Pain in foot	0.054668109863996506
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.052589308470487595
+trial_1	placebo	102	KG00097916	anxieties	0.05231326073408127
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.052181169390678406
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.05023398995399475
+trial_1	placebo	269	KG00100399	pyaemia	0.04910079389810562
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04755093902349472
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04697216674685478
+trial_1	placebo	82	KG00097697	abdomen distended	0.046746645122766495
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04655439779162407
+trial_1	placebo	164	KG00108827	ileus colon	0.04635445773601532
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04537256062030792
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04435605928301811
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04377054423093796
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04339900240302086
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.04281555861234665
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.04175587743520737
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0417495034635067
+trial_1	placebo	234	KG00098669	dysgeusias	0.04111897572875023
+trial_1	placebo	262	KG00101199	agitation	0.04108836129307747
+trial_1	placebo	100	KG00097815	alopecias	0.04081365093588829
+trial_1	placebo	186	KG00101431	creatinine increased	0.040439896285533905
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.040148112922906876
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.039146751165390015
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03878006711602211
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03851133957505226
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.038239430636167526
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03821175545454025
+trial_1	placebo	339	KG00100334	proteinurias	0.03727232664823532
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03727155551314354
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.0372275747358799
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03716700151562691
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03712241351604462
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03665892407298088
+trial_1	placebo	212	KG00100576	shivers	0.03568368777632713
+trial_1	placebo	508	KG00108565	blood glucose increased	0.0354786179959774
+trial_1	placebo	121	KG00099190	haemorrhage	0.03462408110499382
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03430407866835594
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03419048711657524
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03308132663369179
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03304246813058853
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.032557543367147446
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03249453753232956
+trial_1	placebo	257	KG00100922	Erythema NOS	0.032331209629774094
+trial_1	placebo	454	KG00098286	Pain, Neck	0.03232860565185547
+trial_1	placebo	466	KG00101205	fall	0.03221330791711807
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03209380432963371
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.0317765511572361
+trial_2	benoxaprofen	87	KG00098599	diarrhoea	0.26992183923721313
+trial_2	benoxaprofen	78	KG00099326	Hypertensive diseases	0.22088800370693207
+trial_2	benoxaprofen	123	KG00099351	hypokalaemia	0.17784526944160461
+trial_2	benoxaprofen	17	KG00097991	Asthenia NOS	0.167599156498909
+trial_2	benoxaprofen	9	KG00098432	Confusion NOS	0.16169622540473938
+trial_2	benoxaprofen	68	KG00099901	nauseas	0.15242058038711548
+trial_2	benoxaprofen	177	KG00099299	hyperglycaemia	0.15168456733226776
+trial_2	benoxaprofen	20	KG00098540	dehydration	0.14696988463401794
+trial_2	benoxaprofen	189	KG00101580	Alanine aminotransferase increase	0.14467987418174744
+trial_2	benoxaprofen	46	KG00099121	Headache NOS	0.13773012161254883
+trial_2	benoxaprofen	49	KG00099902	nausea with vomiting	0.13330374658107758
+trial_2	benoxaprofen	173	KG00098172	Bronchopneumonia NOS	0.12874585390090942
+trial_2	benoxaprofen	188	KG00101579	Aspartate aminotransferase increase	0.12750673294067383
+trial_2	benoxaprofen	228	KG00114657	Weight below normal	0.12024231255054474
+trial_2	benoxaprofen	21	KG00098675	dyspnoea	0.11965460330247879
+trial_2	benoxaprofen	37	KG00097696	Cramps, Abdominal	0.11959118396043777
+trial_2	benoxaprofen	64	KG00097734	Acrodermatitis, NOS	0.11813098937273026
+trial_2	benoxaprofen	200	KG00098539	Disorders, Deglutition	0.11292335391044617
+trial_2	benoxaprofen	67	KG00098673	Dyspepsia, NOS	0.10999000817537308
+trial_2	benoxaprofen	14	KG00097852	Anemia NOS	0.10863515734672546
+trial_2	benoxaprofen	79	KG00100317	Insomnia, Primary	0.10318303108215332
+trial_2	benoxaprofen	350	KG00106765	decreased platelet count	0.1026095449924469
+trial_2	benoxaprofen	77	KG00098450	Constipation NOS	0.09579334408044815
+trial_2	benoxaprofen	29	KG00099354	hyponatraemia	0.08877485990524292
+trial_2	benoxaprofen	76	KG00100450	Respiratory insufficiency, NOS	0.08803267031908035
+trial_2	benoxaprofen	114	KG00098933	fevers	0.08784821629524231
+trial_2	benoxaprofen	243	KG00100947	Micturition frequency increased	0.08360875397920609
+trial_2	benoxaprofen	2	KG00100772	thrombocytopaenia	0.08271009474992752
+trial_2	benoxaprofen	101	KG00097901	Anorexia NOS	0.08194796741008759
+trial_2	benoxaprofen	180	KG00099363	Hypotension NOS	0.08088172972202301
+trial_2	benoxaprofen	72	KG00103771	myalgias	0.0755879357457161
+trial_2	benoxaprofen	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07457266002893448
+trial_2	benoxaprofen	27	KG00099303	hyperkalaemia	0.07368849217891693
+trial_2	benoxaprofen	104	KG00097963	arthralgias	0.0734197199344635
+trial_2	benoxaprofen	85	KG00098474	coughs	0.07334770262241364
+trial_2	benoxaprofen	126	KG00100076	Pain NOS	0.07266468554735184
+trial_2	benoxaprofen	239	KG00100128	pareses	0.07195311784744263
+trial_2	benoxaprofen	5	KG00099169	haematuria	0.06920747458934784
+trial_2	benoxaprofen	179	KG00099342	hypocalcaemia	0.06329571455717087
+trial_2	benoxaprofen	147	KG00098000	atelectases	0.06159768998622894
+trial_2	benoxaprofen	122	KG00099321	Hypersensitivity NOS	0.060918837785720825
+trial_2	benoxaprofen	86	KG00098565	Depression, Mental	0.06030726060271263
+trial_2	benoxaprofen	28	KG00099347	hypoglycaemia	0.06029510498046875
+trial_2	benoxaprofen	151	KG00098274	Infarction, Cerebral	0.05843440070748329
+trial_2	benoxaprofen	282	KG00099309	hypernatraemia	0.058346014469861984
+trial_2	benoxaprofen	61	KG00099501	Chronic Kidney Failure	0.05826139450073242
+trial_2	benoxaprofen	194	KG00110727	Neutrophil Count Decreased	0.05825984105467796
+trial_2	benoxaprofen	355	KG00110857	lymphocyte count decreased	0.05816544219851494
+trial_2	benoxaprofen	18	KG00098307	Pain, Chest	0.05723659321665764
+trial_2	benoxaprofen	139	KG00098855	Sinusitis, Ethmoid	0.05632558465003967
+trial_2	benoxaprofen	276	KG00099127	Arrest, Cardiac	0.05612684041261673
+trial_2	benoxaprofen	30	KG00099500	Acute Kidney Failure	0.05493120104074478
+trial_2	benoxaprofen	116	KG00098964	Pain in foot	0.054668109863996506
+trial_2	benoxaprofen	191	KG00104055	Biliverdin increased	0.052589308470487595
+trial_2	benoxaprofen	102	KG00097916	anxieties	0.05231326073408127
+trial_2	benoxaprofen	131	KG00100948	Urinary tract infection (& [NOS])	0.052181169390678406
+trial_2	benoxaprofen	261	KG00101559	raised alkaline phosphatase	0.05023398995399475
+trial_2	benoxaprofen	269	KG00100399	pyaemia	0.04910079389810562
+trial_2	benoxaprofen	396	KG00100373	Embolism, Pulmonary	0.04755093902349472
+trial_2	benoxaprofen	35	KG00101507	hypomagnesaemia	0.04697216674685478
+trial_2	benoxaprofen	82	KG00097697	abdomen distended	0.046746645122766495
+trial_2	benoxaprofen	249	KG00104430	hypoalbuminaemia	0.04655439779162407
+trial_2	benoxaprofen	164	KG00108827	ileus colon	0.04635445773601532
+trial_2	benoxaprofen	38	KG00098066	Binocular vision disorders	0.04537256062030792
+trial_2	benoxaprofen	69	KG00100082	Palpitations NOS	0.04435605928301811
+trial_2	benoxaprofen	96	KG00101679	Unattended death NOS	0.04377054423093796
+trial_2	benoxaprofen	144	KG00099610	Leukopenia NOS	0.04339900240302086
+trial_2	benoxaprofen	97	KG00104198	LIVER ENZYME ELEVATED	0.04281555861234665
+trial_2	benoxaprofen	130	KG00100683	Stomatitis NOS	0.04175587743520737
+trial_2	benoxaprofen	253	KG00100232	Pleural effusion NOS (disorder)	0.0417495034635067
+trial_2	benoxaprofen	234	KG00098669	dysgeusias	0.04111897572875023
+trial_2	benoxaprofen	262	KG00101199	agitation	0.04108836129307747
+trial_2	benoxaprofen	100	KG00097815	alopecias	0.04081365093588829
+trial_2	benoxaprofen	186	KG00101431	creatinine increased	0.040439896285533905
+trial_2	benoxaprofen	142	KG00100923	Unspecified infectious and parasitic diseases	0.040148112922906876
+trial_2	benoxaprofen	75	KG00100195	Dolens, Phlegmasia Alba	0.039146751165390015
+trial_2	benoxaprofen	341	KG00101472	Gamma-glutamyltransferase increased	0.03878006711602211
+trial_2	benoxaprofen	441	KG00098262	cellulitis nos	0.03851133957505226
+trial_2	benoxaprofen	204	KG00098849	Esophagitis, Peptic	0.038239430636167526
+trial_2	benoxaprofen	154	KG00099686	Lymphopenias	0.03821175545454025
+trial_2	benoxaprofen	339	KG00100334	proteinurias	0.03727232664823532
+trial_2	benoxaprofen	36	KG00106434	Vision, Blurring Of	0.03727155551314354
+trial_2	benoxaprofen	288	KG00101223	hypophosphataemia	0.0372275747358799
+trial_2	benoxaprofen	33	KG00100094	Pancreatitis NOS	0.03716700151562691
+trial_2	benoxaprofen	211	KG00100341	Pruritus NOS	0.03712241351604462
+trial_2	benoxaprofen	132	KG00101045	Gain, Weight	0.03665892407298088
+trial_2	benoxaprofen	212	KG00100576	shivers	0.03568368777632713
+trial_2	benoxaprofen	508	KG00108565	blood glucose increased	0.0354786179959774
+trial_2	benoxaprofen	121	KG00099190	haemorrhage	0.03462408110499382
+trial_2	benoxaprofen	1	KG00099959	Neutropenia NOS	0.03430407866835594
+trial_2	benoxaprofen	286	KG00101110	Retention, Urinary	0.03419048711657524
+trial_2	benoxaprofen	361	KG00098004	Fibrillation, Atrial	0.03308132663369179
+trial_2	benoxaprofen	166	KG00099773	menopausal syndrome	0.03304246813058853
+trial_2	benoxaprofen	92	KG00100926	Infections, Upper Respiratory	0.032557543367147446
+trial_2	benoxaprofen	256	KG00100738	Tachycardia, Sinus	0.03249453753232956
+trial_2	benoxaprofen	257	KG00100922	Erythema NOS	0.032331209629774094
+trial_2	benoxaprofen	454	KG00098286	Pain, Neck	0.03232860565185547
+trial_2	benoxaprofen	466	KG00101205	fall	0.03221330791711807
+trial_2	benoxaprofen	422	KG00101429	Creatine phosphokinase increased	0.03209380432963371
+trial_2	benoxaprofen	31	KG00099872	Infarction, Myocardial	0.0317765511572361

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0976710170507431
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0769757628440857
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07520856708288193
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07266023755073547
+trial_1	placebo	46	KG00099121	Headache NOS	0.06844045221805573
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0684116929769516
+trial_1	placebo	87	KG00098599	diarrhoea	0.06709536164999008
+trial_1	placebo	68	KG00099901	nauseas	0.05886394903063774
+trial_1	placebo	21	KG00098675	dyspnoea	0.05861862003803253
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05840512737631798
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0556187629699707
+trial_1	placebo	20	KG00098540	dehydration	0.052594441920518875
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05192942172288895
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.049780767410993576
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04387914389371872
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04347234219312668
+trial_1	placebo	86	KG00098565	Depression, Mental	0.041900306940078735
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.041656557470560074
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03989836201071739
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03853524476289749
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03636607900261879
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.035388097167015076
+trial_1	placebo	126	KG00100076	Pain NOS	0.03513606637716293
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.034525949507951736
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03412758186459541
+trial_1	placebo	18	KG00098307	Pain, Chest	0.033523429185152054
+trial_1	placebo	104	KG00097963	arthralgias	0.03250248357653618
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.032015398144721985
+trial_1	placebo	85	KG00098474	coughs	0.03139195963740349
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.031212642788887024
+trial_1	placebo	114	KG00098933	fevers	0.030595390126109123
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03010941483080387
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0297037772834301
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.027900392189621925
+trial_1	placebo	228	KG00114657	Weight below normal	0.027451951056718826
+trial_1	placebo	466	KG00101205	fall	0.0274244025349617
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.027179904282093048
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026611216366291046
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026105429977178574
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.025325343012809753
+trial_1	placebo	5	KG00099169	haematuria	0.024537378922104836
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023982223123311996
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.023683689534664154
+trial_1	placebo	116	KG00098964	Pain in foot	0.023161204531788826
+trial_1	placebo	262	KG00101199	agitation	0.022942595183849335
+trial_1	placebo	121	KG00099190	haemorrhage	0.022930610924959183
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022688519209623337
+trial_1	placebo	221	KG00101207	peripheral oedema	0.021716171875596046
+trial_1	placebo	102	KG00097916	anxieties	0.02163175493478775
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02158740721642971
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.021585462614893913
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0214716587215662
+trial_1	placebo	239	KG00100128	pareses	0.021435430273413658
+trial_1	placebo	66	KG00098642	drowsiness	0.020950425416231155
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.020789336413145065
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02065330371260643
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02059364877641201
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.020558375865221024
+trial_1	placebo	147	KG00098000	atelectases	0.020100010558962822
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020079340785741806
+trial_1	placebo	82	KG00097697	abdomen distended	0.01996956206858158
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.01992937922477722
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019923759624361992
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019434748217463493
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.019426601007580757
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01942453347146511
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01937609165906906
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01910834014415741
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01868905872106552
+trial_1	placebo	269	KG00100399	pyaemia	0.018653150647878647
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01862150989472866
+trial_1	placebo	164	KG00108827	ileus colon	0.01787480339407921
+trial_1	placebo	508	KG00108565	blood glucose increased	0.017819371074438095
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.017760513350367546
+trial_1	placebo	203	KG00098661	dysarthrias	0.017705745995044708
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.017449146136641502
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.017440376803278923
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01743081957101822
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01734464056789875
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.017207873985171318
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.016981473192572594
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.016738470643758774
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016685204580426216
+trial_1	placebo	242	KG00100855	tremors	0.01660011149942875
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.01628027856349945
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.016199162229895592
+trial_1	placebo	456	KG00099420	Influenzae	0.016187259927392006
+trial_1	placebo	364	KG00098196	Calculus of gallbladder without mention of cholecystitis	0.016064148396253586
+trial_1	placebo	25	KG00099134	congestive failures heart	0.016059311106801033
+trial_1	placebo	186	KG00101431	creatinine increased	0.01587478257715702
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.015711596235632896
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01557158213108778
+trial_1	placebo	72	KG00103771	myalgias	0.015300311148166656
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.014489301480352879
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014412188902497292
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.014052542857825756
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.013934250921010971
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.013862162828445435
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.013586212880909443
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.013424951583147049
+trial_2	bromocriptine	78	KG00099326	Hypertensive diseases	0.0976710170507431
+trial_2	bromocriptine	9	KG00098432	Confusion NOS	0.0769757628440857
+trial_2	bromocriptine	177	KG00099299	hyperglycaemia	0.07520856708288193
+trial_2	bromocriptine	17	KG00097991	Asthenia NOS	0.07266023755073547
+trial_2	bromocriptine	46	KG00099121	Headache NOS	0.06844045221805573
+trial_2	bromocriptine	173	KG00098172	Bronchopneumonia NOS	0.0684116929769516
+trial_2	bromocriptine	87	KG00098599	diarrhoea	0.06709536164999008
+trial_2	bromocriptine	68	KG00099901	nauseas	0.05886394903063774
+trial_2	bromocriptine	21	KG00098675	dyspnoea	0.05861862003803253
+trial_2	bromocriptine	49	KG00099902	nausea with vomiting	0.05840512737631798
+trial_2	bromocriptine	79	KG00100317	Insomnia, Primary	0.0556187629699707
+trial_2	bromocriptine	20	KG00098540	dehydration	0.052594441920518875
+trial_2	bromocriptine	123	KG00099351	hypokalaemia	0.05192942172288895
+trial_2	bromocriptine	67	KG00098673	Dyspepsia, NOS	0.049780767410993576
+trial_2	bromocriptine	77	KG00098450	Constipation NOS	0.04387914389371872
+trial_2	bromocriptine	151	KG00098274	Infarction, Cerebral	0.04347234219312668
+trial_2	bromocriptine	86	KG00098565	Depression, Mental	0.041900306940078735
+trial_2	bromocriptine	28	KG00099347	hypoglycaemia	0.041656557470560074
+trial_2	bromocriptine	132	KG00101045	Gain, Weight	0.03989836201071739
+trial_2	bromocriptine	14	KG00097852	Anemia NOS	0.03853524476289749
+trial_2	bromocriptine	37	KG00097696	Cramps, Abdominal	0.03636607900261879
+trial_2	bromocriptine	96	KG00101679	Unattended death NOS	0.035388097167015076
+trial_2	bromocriptine	126	KG00100076	Pain NOS	0.03513606637716293
+trial_2	bromocriptine	61	KG00099501	Chronic Kidney Failure	0.034525949507951736
+trial_2	bromocriptine	29	KG00099354	hyponatraemia	0.03412758186459541
+trial_2	bromocriptine	18	KG00098307	Pain, Chest	0.033523429185152054
+trial_2	bromocriptine	104	KG00097963	arthralgias	0.03250248357653618
+trial_2	bromocriptine	76	KG00100450	Respiratory insufficiency, NOS	0.032015398144721985
+trial_2	bromocriptine	85	KG00098474	coughs	0.03139195963740349
+trial_2	bromocriptine	200	KG00098539	Disorders, Deglutition	0.031212642788887024
+trial_2	bromocriptine	114	KG00098933	fevers	0.030595390126109123
+trial_2	bromocriptine	64	KG00097734	Acrodermatitis, NOS	0.03010941483080387
+trial_2	bromocriptine	180	KG00099363	Hypotension NOS	0.0297037772834301
+trial_2	bromocriptine	189	KG00101580	Alanine aminotransferase increase	0.027900392189621925
+trial_2	bromocriptine	228	KG00114657	Weight below normal	0.027451951056718826
+trial_2	bromocriptine	466	KG00101205	fall	0.0274244025349617
+trial_2	bromocriptine	243	KG00100947	Micturition frequency increased	0.027179904282093048
+trial_2	bromocriptine	350	KG00106765	decreased platelet count	0.026611216366291046
+trial_2	bromocriptine	30	KG00099500	Acute Kidney Failure	0.026105429977178574
+trial_2	bromocriptine	166	KG00099773	menopausal syndrome	0.025325343012809753
+trial_2	bromocriptine	5	KG00099169	haematuria	0.024537378922104836
+trial_2	bromocriptine	131	KG00100948	Urinary tract infection (& [NOS])	0.023982223123311996
+trial_2	bromocriptine	139	KG00098855	Sinusitis, Ethmoid	0.023683689534664154
+trial_2	bromocriptine	116	KG00098964	Pain in foot	0.023161204531788826
+trial_2	bromocriptine	262	KG00101199	agitation	0.022942595183849335
+trial_2	bromocriptine	121	KG00099190	haemorrhage	0.022930610924959183
+trial_2	bromocriptine	142	KG00100923	Unspecified infectious and parasitic diseases	0.022688519209623337
+trial_2	bromocriptine	221	KG00101207	peripheral oedema	0.021716171875596046
+trial_2	bromocriptine	102	KG00097916	anxieties	0.02163175493478775
+trial_2	bromocriptine	2	KG00100772	thrombocytopaenia	0.02158740721642971
+trial_2	bromocriptine	101	KG00097901	Anorexia NOS	0.021585462614893913
+trial_2	bromocriptine	22	KG00098705	Edema (NOS)	0.0214716587215662
+trial_2	bromocriptine	239	KG00100128	pareses	0.021435430273413658
+trial_2	bromocriptine	66	KG00098642	drowsiness	0.020950425416231155
+trial_2	bromocriptine	188	KG00101579	Aspartate aminotransferase increase	0.020789336413145065
+trial_2	bromocriptine	286	KG00101110	Retention, Urinary	0.02065330371260643
+trial_2	bromocriptine	276	KG00099127	Arrest, Cardiac	0.02059364877641201
+trial_2	bromocriptine	27	KG00099303	hyperkalaemia	0.020558375865221024
+trial_2	bromocriptine	147	KG00098000	atelectases	0.020100010558962822
+trial_2	bromocriptine	75	KG00100195	Dolens, Phlegmasia Alba	0.020079340785741806
+trial_2	bromocriptine	82	KG00097697	abdomen distended	0.01996956206858158
+trial_2	bromocriptine	361	KG00098004	Fibrillation, Atrial	0.01992937922477722
+trial_2	bromocriptine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.019923759624361992
+trial_2	bromocriptine	11	KG00097993	Asthma NOS	0.019434748217463493
+trial_2	bromocriptine	31	KG00099872	Infarction, Myocardial	0.019426601007580757
+trial_2	bromocriptine	69	KG00100082	Palpitations NOS	0.01942453347146511
+trial_2	bromocriptine	15	KG00097882	Angina pectoris NOS	0.01937609165906906
+trial_2	bromocriptine	441	KG00098262	cellulitis nos	0.01910834014415741
+trial_2	bromocriptine	396	KG00100373	Embolism, Pulmonary	0.01868905872106552
+trial_2	bromocriptine	269	KG00100399	pyaemia	0.018653150647878647
+trial_2	bromocriptine	38	KG00098066	Binocular vision disorders	0.01862150989472866
+trial_2	bromocriptine	164	KG00108827	ileus colon	0.01787480339407921
+trial_2	bromocriptine	508	KG00108565	blood glucose increased	0.017819371074438095
+trial_2	bromocriptine	204	KG00098849	Esophagitis, Peptic	0.017760513350367546
+trial_2	bromocriptine	203	KG00098661	dysarthrias	0.017705745995044708
+trial_2	bromocriptine	199	KG00098371	Rhinitis (chronic) NOS	0.017449146136641502
+trial_2	bromocriptine	92	KG00100926	Infections, Upper Respiratory	0.017440376803278923
+trial_2	bromocriptine	211	KG00100341	Pruritus NOS	0.01743081957101822
+trial_2	bromocriptine	118	KG00099011	Gastritis NOS	0.01734464056789875
+trial_2	bromocriptine	152	KG00099402	INCONTINENCE NOS	0.017207873985171318
+trial_2	bromocriptine	122	KG00099321	Hypersensitivity NOS	0.016981473192572594
+trial_2	bromocriptine	297	KG00099294	hypercholesterolaemia	0.016738470643758774
+trial_2	bromocriptine	138	KG00098796	epidemic vomiting syndrome	0.016685204580426216
+trial_2	bromocriptine	242	KG00100855	tremors	0.01660011149942875
+trial_2	bromocriptine	36	KG00106434	Vision, Blurring Of	0.01628027856349945
+trial_2	bromocriptine	33	KG00100094	Pancreatitis NOS	0.016199162229895592
+trial_2	bromocriptine	456	KG00099420	Influenzae	0.016187259927392006
+trial_2	bromocriptine	364	KG00098196	Calculus of gallbladder without mention of cholecystitis	0.016064148396253586
+trial_2	bromocriptine	25	KG00099134	congestive failures heart	0.016059311106801033
+trial_2	bromocriptine	186	KG00101431	creatinine increased	0.01587478257715702
+trial_2	bromocriptine	394	KG00100243	Pneumonia, Aspiration	0.015711596235632896
+trial_2	bromocriptine	179	KG00099342	hypocalcaemia	0.01557158213108778
+trial_2	bromocriptine	72	KG00103771	myalgias	0.015300311148166656
+trial_2	bromocriptine	191	KG00104055	Biliverdin increased	0.014489301480352879
+trial_2	bromocriptine	254	KG00100774	Thrombosis NOS	0.014412188902497292
+trial_2	bromocriptine	366	KG00098275	Attack, Transient Ischemic	0.014052542857825756
+trial_2	bromocriptine	422	KG00101429	Creatine phosphokinase increased	0.013934250921010971
+trial_2	bromocriptine	371	KG00098517	Cystitis (NOS)	0.013862162828445435
+trial_2	bromocriptine	268	KG00099557	Heart Failure, Left-Sided	0.013586212880909443
+trial_2	bromocriptine	163	KG00104050	bowel obstructions small	0.013424951583147049

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18157070875167847
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.17755895853042603
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12025828659534454
+trial_1	placebo	46	KG00099121	Headache NOS	0.10591034591197968
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1013765037059784
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09815248847007751
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09197095781564713
+trial_1	placebo	20	KG00098540	dehydration	0.0915110632777214
+trial_1	placebo	68	KG00099901	nauseas	0.0879906713962555
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08668596297502518
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0844288021326065
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0817151591181755
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07651185989379883
+trial_1	placebo	21	KG00098675	dyspnoea	0.07554313540458679
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07520165294408798
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07418088614940643
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0685906931757927
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06457401812076569
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06290054321289062
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06171448528766632
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.059851083904504776
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05708568915724754
+trial_1	placebo	228	KG00114657	Weight below normal	0.05654192715883255
+trial_1	placebo	114	KG00098933	fevers	0.0538027286529541
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.053716834634542465
+trial_1	placebo	350	KG00106765	decreased platelet count	0.053228721022605896
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04956858977675438
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.048812925815582275
+trial_1	placebo	85	KG00098474	coughs	0.048804935067892075
+trial_1	placebo	5	KG00099169	haematuria	0.047132883220911026
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.046659816056489944
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04616130515933037
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04600251466035843
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04521200805902481
+trial_1	placebo	126	KG00100076	Pain NOS	0.04464879259467125
+trial_1	placebo	147	KG00098000	atelectases	0.04397160932421684
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04389369115233421
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.043352942913770676
+trial_1	placebo	239	KG00100128	pareses	0.04333670064806938
+trial_1	placebo	104	KG00097963	arthralgias	0.04285168647766113
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04271950572729111
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04245290905237198
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04171394184231758
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0412469208240509
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04076604172587395
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.0395766906440258
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03858977556228638
+trial_1	placebo	82	KG00097697	abdomen distended	0.03728694096207619
+trial_1	placebo	72	KG00103771	myalgias	0.03716206178069115
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03627858683466911
+trial_1	placebo	116	KG00098964	Pain in foot	0.03531355783343315
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.034618932753801346
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03383210301399231
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03328173607587814
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03294520825147629
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03286192938685417
+trial_1	placebo	234	KG00098669	dysgeusias	0.03198646381497383
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03194429352879524
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03089212253689766
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.030885709449648857
+trial_1	placebo	262	KG00101199	agitation	0.030707521364092827
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.030605899170041084
+trial_1	placebo	269	KG00100399	pyaemia	0.030265556648373604
+trial_1	placebo	164	KG00108827	ileus colon	0.03015497699379921
+trial_1	placebo	102	KG00097916	anxieties	0.030005423352122307
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02937745302915573
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.029247447848320007
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.028794705867767334
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02831871807575226
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.028211090713739395
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.026483282446861267
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.026394860818982124
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02614338882267475
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02608160860836506
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02571628801524639
+trial_1	placebo	441	KG00098262	cellulitis nos	0.025629159063100815
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02550032176077366
+trial_1	placebo	121	KG00099190	haemorrhage	0.025465799495577812
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.025347715243697166
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.025204872712492943
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02501327358186245
+trial_1	placebo	339	KG00100334	proteinurias	0.024989942088723183
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024881910532712936
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.023754028603434563
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.023738093674182892
+trial_1	placebo	153	KG00099579	lethargy	0.023714298382401466
+trial_1	placebo	186	KG00101431	creatinine increased	0.023689482361078262
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.023639202117919922
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.023622874170541763
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.023544693365693092
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.023451248183846474
+trial_1	placebo	100	KG00097815	alopecias	0.02340613678097725
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.023290807381272316
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02325391210615635
+trial_1	placebo	154	KG00099686	Lymphopenias	0.023044561967253685
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02299620769917965
+trial_1	placebo	466	KG00101205	fall	0.022678134962916374
+trial_1	placebo	11	KG00097993	Asthma NOS	0.022588806226849556
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02241276390850544
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.022072993218898773
+trial_2	bentiromide	87	KG00098599	diarrhoea	0.18157070875167847
+trial_2	bentiromide	78	KG00099326	Hypertensive diseases	0.17755895853042603
+trial_2	bentiromide	177	KG00099299	hyperglycaemia	0.12025828659534454
+trial_2	bentiromide	46	KG00099121	Headache NOS	0.10591034591197968
+trial_2	bentiromide	9	KG00098432	Confusion NOS	0.1013765037059784
+trial_2	bentiromide	17	KG00097991	Asthenia NOS	0.09815248847007751
+trial_2	bentiromide	123	KG00099351	hypokalaemia	0.09197095781564713
+trial_2	bentiromide	20	KG00098540	dehydration	0.0915110632777214
+trial_2	bentiromide	68	KG00099901	nauseas	0.0879906713962555
+trial_2	bentiromide	173	KG00098172	Bronchopneumonia NOS	0.08668596297502518
+trial_2	bentiromide	37	KG00097696	Cramps, Abdominal	0.0844288021326065
+trial_2	bentiromide	79	KG00100317	Insomnia, Primary	0.0817151591181755
+trial_2	bentiromide	49	KG00099902	nausea with vomiting	0.07651185989379883
+trial_2	bentiromide	21	KG00098675	dyspnoea	0.07554313540458679
+trial_2	bentiromide	200	KG00098539	Disorders, Deglutition	0.07520165294408798
+trial_2	bentiromide	77	KG00098450	Constipation NOS	0.07418088614940643
+trial_2	bentiromide	67	KG00098673	Dyspepsia, NOS	0.0685906931757927
+trial_2	bentiromide	14	KG00097852	Anemia NOS	0.06457401812076569
+trial_2	bentiromide	189	KG00101580	Alanine aminotransferase increase	0.06290054321289062
+trial_2	bentiromide	64	KG00097734	Acrodermatitis, NOS	0.06171448528766632
+trial_2	bentiromide	188	KG00101579	Aspartate aminotransferase increase	0.059851083904504776
+trial_2	bentiromide	29	KG00099354	hyponatraemia	0.05708568915724754
+trial_2	bentiromide	228	KG00114657	Weight below normal	0.05654192715883255
+trial_2	bentiromide	114	KG00098933	fevers	0.0538027286529541
+trial_2	bentiromide	180	KG00099363	Hypotension NOS	0.053716834634542465
+trial_2	bentiromide	350	KG00106765	decreased platelet count	0.053228721022605896
+trial_2	bentiromide	243	KG00100947	Micturition frequency increased	0.04956858977675438
+trial_2	bentiromide	76	KG00100450	Respiratory insufficiency, NOS	0.048812925815582275
+trial_2	bentiromide	85	KG00098474	coughs	0.048804935067892075
+trial_2	bentiromide	5	KG00099169	haematuria	0.047132883220911026
+trial_2	bentiromide	2	KG00100772	thrombocytopaenia	0.046659816056489944
+trial_2	bentiromide	28	KG00099347	hypoglycaemia	0.04616130515933037
+trial_2	bentiromide	101	KG00097901	Anorexia NOS	0.04600251466035843
+trial_2	bentiromide	61	KG00099501	Chronic Kidney Failure	0.04521200805902481
+trial_2	bentiromide	126	KG00100076	Pain NOS	0.04464879259467125
+trial_2	bentiromide	147	KG00098000	atelectases	0.04397160932421684
+trial_2	bentiromide	86	KG00098565	Depression, Mental	0.04389369115233421
+trial_2	bentiromide	151	KG00098274	Infarction, Cerebral	0.043352942913770676
+trial_2	bentiromide	239	KG00100128	pareses	0.04333670064806938
+trial_2	bentiromide	104	KG00097963	arthralgias	0.04285168647766113
+trial_2	bentiromide	276	KG00099127	Arrest, Cardiac	0.04271950572729111
+trial_2	bentiromide	139	KG00098855	Sinusitis, Ethmoid	0.04245290905237198
+trial_2	bentiromide	122	KG00099321	Hypersensitivity NOS	0.04171394184231758
+trial_2	bentiromide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0412469208240509
+trial_2	bentiromide	179	KG00099342	hypocalcaemia	0.04076604172587395
+trial_2	bentiromide	27	KG00099303	hyperkalaemia	0.0395766906440258
+trial_2	bentiromide	131	KG00100948	Urinary tract infection (& [NOS])	0.03858977556228638
+trial_2	bentiromide	82	KG00097697	abdomen distended	0.03728694096207619
+trial_2	bentiromide	72	KG00103771	myalgias	0.03716206178069115
+trial_2	bentiromide	96	KG00101679	Unattended death NOS	0.03627858683466911
+trial_2	bentiromide	116	KG00098964	Pain in foot	0.03531355783343315
+trial_2	bentiromide	30	KG00099500	Acute Kidney Failure	0.034618932753801346
+trial_2	bentiromide	38	KG00098066	Binocular vision disorders	0.03383210301399231
+trial_2	bentiromide	18	KG00098307	Pain, Chest	0.03328173607587814
+trial_2	bentiromide	282	KG00099309	hypernatraemia	0.03294520825147629
+trial_2	bentiromide	396	KG00100373	Embolism, Pulmonary	0.03286192938685417
+trial_2	bentiromide	234	KG00098669	dysgeusias	0.03198646381497383
+trial_2	bentiromide	194	KG00110727	Neutrophil Count Decreased	0.03194429352879524
+trial_2	bentiromide	355	KG00110857	lymphocyte count decreased	0.03089212253689766
+trial_2	bentiromide	142	KG00100923	Unspecified infectious and parasitic diseases	0.030885709449648857
+trial_2	bentiromide	262	KG00101199	agitation	0.030707521364092827
+trial_2	bentiromide	69	KG00100082	Palpitations NOS	0.030605899170041084
+trial_2	bentiromide	269	KG00100399	pyaemia	0.030265556648373604
+trial_2	bentiromide	164	KG00108827	ileus colon	0.03015497699379921
+trial_2	bentiromide	102	KG00097916	anxieties	0.030005423352122307
+trial_2	bentiromide	75	KG00100195	Dolens, Phlegmasia Alba	0.02937745302915573
+trial_2	bentiromide	92	KG00100926	Infections, Upper Respiratory	0.029247447848320007
+trial_2	bentiromide	204	KG00098849	Esophagitis, Peptic	0.028794705867767334
+trial_2	bentiromide	261	KG00101559	raised alkaline phosphatase	0.02831871807575226
+trial_2	bentiromide	249	KG00104430	hypoalbuminaemia	0.028211090713739395
+trial_2	bentiromide	144	KG00099610	Leukopenia NOS	0.026483282446861267
+trial_2	bentiromide	31	KG00099872	Infarction, Myocardial	0.026394860818982124
+trial_2	bentiromide	286	KG00101110	Retention, Urinary	0.02614338882267475
+trial_2	bentiromide	132	KG00101045	Gain, Weight	0.02608160860836506
+trial_2	bentiromide	36	KG00106434	Vision, Blurring Of	0.02571628801524639
+trial_2	bentiromide	441	KG00098262	cellulitis nos	0.025629159063100815
+trial_2	bentiromide	211	KG00100341	Pruritus NOS	0.02550032176077366
+trial_2	bentiromide	121	KG00099190	haemorrhage	0.025465799495577812
+trial_2	bentiromide	361	KG00098004	Fibrillation, Atrial	0.025347715243697166
+trial_2	bentiromide	35	KG00101507	hypomagnesaemia	0.025204872712492943
+trial_2	bentiromide	253	KG00100232	Pleural effusion NOS (disorder)	0.02501327358186245
+trial_2	bentiromide	339	KG00100334	proteinurias	0.024989942088723183
+trial_2	bentiromide	508	KG00108565	blood glucose increased	0.024881910532712936
+trial_2	bentiromide	199	KG00098371	Rhinitis (chronic) NOS	0.023754028603434563
+trial_2	bentiromide	130	KG00100683	Stomatitis NOS	0.023738093674182892
+trial_2	bentiromide	153	KG00099579	lethargy	0.023714298382401466
+trial_2	bentiromide	186	KG00101431	creatinine increased	0.023689482361078262
+trial_2	bentiromide	97	KG00104198	LIVER ENZYME ELEVATED	0.023639202117919922
+trial_2	bentiromide	166	KG00099773	menopausal syndrome	0.023622874170541763
+trial_2	bentiromide	98	KG00097718	Incised wound, NOS	0.023544693365693092
+trial_2	bentiromide	163	KG00104050	bowel obstructions small	0.023451248183846474
+trial_2	bentiromide	100	KG00097815	alopecias	0.02340613678097725
+trial_2	bentiromide	394	KG00100243	Pneumonia, Aspiration	0.023290807381272316
+trial_2	bentiromide	288	KG00101223	hypophosphataemia	0.02325391210615635
+trial_2	bentiromide	154	KG00099686	Lymphopenias	0.023044561967253685
+trial_2	bentiromide	138	KG00098796	epidemic vomiting syndrome	0.02299620769917965
+trial_2	bentiromide	466	KG00101205	fall	0.022678134962916374
+trial_2	bentiromide	11	KG00097993	Asthma NOS	0.022588806226849556
+trial_2	bentiromide	15	KG00097882	Angina pectoris NOS	0.02241276390850544
+trial_2	bentiromide	1	KG00099959	Neutropenia NOS	0.022072993218898773

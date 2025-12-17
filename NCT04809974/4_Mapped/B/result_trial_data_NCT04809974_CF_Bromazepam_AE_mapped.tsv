@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1669713705778122
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14323697984218597
+trial_1	placebo	9	KG00098432	Confusion NOS	0.13831910490989685
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12189138680696487
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09703702479600906
+trial_1	placebo	68	KG00099901	nauseas	0.09440842270851135
+trial_1	placebo	46	KG00099121	Headache NOS	0.08710216730833054
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08329553157091141
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0822024866938591
+trial_1	placebo	21	KG00098675	dyspnoea	0.08020389080047607
+trial_1	placebo	20	KG00098540	dehydration	0.07985862344503403
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07895906269550323
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07773255556821823
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07136797159910202
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0673101618885994
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0664663314819336
+trial_1	placebo	228	KG00114657	Weight below normal	0.06472623348236084
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06464929133653641
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0628187507390976
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.058564405888319016
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05536677688360214
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05446654185652733
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.054440613836050034
+trial_1	placebo	104	KG00097963	arthralgias	0.05099179968237877
+trial_1	placebo	29	KG00099354	hyponatraemia	0.050427209585905075
+trial_1	placebo	126	KG00100076	Pain NOS	0.049115221947431564
+trial_1	placebo	114	KG00098933	fevers	0.048395588994026184
+trial_1	placebo	85	KG00098474	coughs	0.04825839772820473
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04818809777498245
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04685399308800697
+trial_1	placebo	239	KG00100128	pareses	0.044838592410087585
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04410276934504509
+trial_1	placebo	72	KG00103771	myalgias	0.043297573924064636
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04262864217162132
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04212745279073715
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04200078547000885
+trial_1	placebo	350	KG00106765	decreased platelet count	0.041488632559776306
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04057120904326439
+trial_1	placebo	234	KG00098669	dysgeusias	0.038597580045461655
+trial_1	placebo	102	KG00097916	anxieties	0.03848656639456749
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03681908920407295
+trial_1	placebo	5	KG00099169	haematuria	0.03621497005224228
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03556762635707855
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03519245609641075
+trial_1	placebo	262	KG00101199	agitation	0.034970980137586594
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03418048098683357
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03351627662777901
+trial_1	placebo	82	KG00097697	abdomen distended	0.03308520093560219
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03286271169781685
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03272859379649162
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03191794455051422
+trial_1	placebo	66	KG00098642	drowsiness	0.03162384778261185
+trial_1	placebo	116	KG00098964	Pain in foot	0.03037114627659321
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.029789192602038383
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.029637176543474197
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02928254008293152
+trial_1	placebo	466	KG00101205	fall	0.028755705803632736
+trial_1	placebo	18	KG00098307	Pain, Chest	0.028592796996235847
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.028544889762997627
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02842271700501442
+trial_1	placebo	300	KG00101064	xerostomia	0.028169646859169006
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02764727547764778
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.026800455525517464
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02609395794570446
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026046739891171455
+trial_1	placebo	242	KG00100855	tremors	0.02597210556268692
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.025262560695409775
+trial_1	placebo	147	KG00098000	atelectases	0.025139307603240013
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024655042216181755
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024247633293271065
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024246906861662865
+trial_1	placebo	100	KG00097815	alopecias	0.02353617176413536
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.023219095543026924
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023172497749328613
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.023017508909106255
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022829612717032433
+trial_1	placebo	186	KG00101431	creatinine increased	0.022827129811048508
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.0228078905493021
+trial_1	placebo	345	KG00103926	impairments memory	0.022142421454191208
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.022115150466561317
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021986324340105057
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.021906811743974686
+trial_1	placebo	153	KG00099579	lethargy	0.021733364090323448
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021716784685850143
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02158556506037712
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02147788554430008
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.021365493535995483
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021032113581895828
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.020961374044418335
+trial_1	placebo	269	KG00100399	pyaemia	0.020637547597289085
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.020568031817674637
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.02045464515686035
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02022670954465866
+trial_1	placebo	136	KG00101582	Dry;skin	0.020206088200211525
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.020108230412006378
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02007230557501316
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01987222395837307
+trial_1	placebo	164	KG00108827	ileus colon	0.01985771581530571
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019701721146702766
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019673582166433334
+trial_2	bromazepam	87	KG00098599	diarrhoea	0.1669713705778122
+trial_2	bromazepam	17	KG00097991	Asthenia NOS	0.14323697984218597
+trial_2	bromazepam	9	KG00098432	Confusion NOS	0.13831910490989685
+trial_2	bromazepam	78	KG00099326	Hypertensive diseases	0.12189138680696487
+trial_2	bromazepam	177	KG00099299	hyperglycaemia	0.09703702479600906
+trial_2	bromazepam	68	KG00099901	nauseas	0.09440842270851135
+trial_2	bromazepam	46	KG00099121	Headache NOS	0.08710216730833054
+trial_2	bromazepam	79	KG00100317	Insomnia, Primary	0.08329553157091141
+trial_2	bromazepam	77	KG00098450	Constipation NOS	0.0822024866938591
+trial_2	bromazepam	21	KG00098675	dyspnoea	0.08020389080047607
+trial_2	bromazepam	20	KG00098540	dehydration	0.07985862344503403
+trial_2	bromazepam	173	KG00098172	Bronchopneumonia NOS	0.07895906269550323
+trial_2	bromazepam	49	KG00099902	nausea with vomiting	0.07773255556821823
+trial_2	bromazepam	123	KG00099351	hypokalaemia	0.07136797159910202
+trial_2	bromazepam	67	KG00098673	Dyspepsia, NOS	0.0673101618885994
+trial_2	bromazepam	64	KG00097734	Acrodermatitis, NOS	0.0664663314819336
+trial_2	bromazepam	228	KG00114657	Weight below normal	0.06472623348236084
+trial_2	bromazepam	37	KG00097696	Cramps, Abdominal	0.06464929133653641
+trial_2	bromazepam	189	KG00101580	Alanine aminotransferase increase	0.0628187507390976
+trial_2	bromazepam	200	KG00098539	Disorders, Deglutition	0.058564405888319016
+trial_2	bromazepam	101	KG00097901	Anorexia NOS	0.05536677688360214
+trial_2	bromazepam	14	KG00097852	Anemia NOS	0.05446654185652733
+trial_2	bromazepam	188	KG00101579	Aspartate aminotransferase increase	0.054440613836050034
+trial_2	bromazepam	104	KG00097963	arthralgias	0.05099179968237877
+trial_2	bromazepam	29	KG00099354	hyponatraemia	0.050427209585905075
+trial_2	bromazepam	126	KG00100076	Pain NOS	0.049115221947431564
+trial_2	bromazepam	114	KG00098933	fevers	0.048395588994026184
+trial_2	bromazepam	85	KG00098474	coughs	0.04825839772820473
+trial_2	bromazepam	86	KG00098565	Depression, Mental	0.04818809777498245
+trial_2	bromazepam	243	KG00100947	Micturition frequency increased	0.04685399308800697
+trial_2	bromazepam	239	KG00100128	pareses	0.044838592410087585
+trial_2	bromazepam	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04410276934504509
+trial_2	bromazepam	72	KG00103771	myalgias	0.043297573924064636
+trial_2	bromazepam	132	KG00101045	Gain, Weight	0.04262864217162132
+trial_2	bromazepam	151	KG00098274	Infarction, Cerebral	0.04212745279073715
+trial_2	bromazepam	180	KG00099363	Hypotension NOS	0.04200078547000885
+trial_2	bromazepam	350	KG00106765	decreased platelet count	0.041488632559776306
+trial_2	bromazepam	28	KG00099347	hypoglycaemia	0.04057120904326439
+trial_2	bromazepam	234	KG00098669	dysgeusias	0.038597580045461655
+trial_2	bromazepam	102	KG00097916	anxieties	0.03848656639456749
+trial_2	bromazepam	76	KG00100450	Respiratory insufficiency, NOS	0.03681908920407295
+trial_2	bromazepam	5	KG00099169	haematuria	0.03621497005224228
+trial_2	bromazepam	2	KG00100772	thrombocytopaenia	0.03556762635707855
+trial_2	bromazepam	61	KG00099501	Chronic Kidney Failure	0.03519245609641075
+trial_2	bromazepam	262	KG00101199	agitation	0.034970980137586594
+trial_2	bromazepam	36	KG00106434	Vision, Blurring Of	0.03418048098683357
+trial_2	bromazepam	131	KG00100948	Urinary tract infection (& [NOS])	0.03351627662777901
+trial_2	bromazepam	82	KG00097697	abdomen distended	0.03308520093560219
+trial_2	bromazepam	139	KG00098855	Sinusitis, Ethmoid	0.03286271169781685
+trial_2	bromazepam	179	KG00099342	hypocalcaemia	0.03272859379649162
+trial_2	bromazepam	96	KG00101679	Unattended death NOS	0.03191794455051422
+trial_2	bromazepam	66	KG00098642	drowsiness	0.03162384778261185
+trial_2	bromazepam	116	KG00098964	Pain in foot	0.03037114627659321
+trial_2	bromazepam	122	KG00099321	Hypersensitivity NOS	0.029789192602038383
+trial_2	bromazepam	38	KG00098066	Binocular vision disorders	0.029637176543474197
+trial_2	bromazepam	261	KG00101559	raised alkaline phosphatase	0.02928254008293152
+trial_2	bromazepam	466	KG00101205	fall	0.028755705803632736
+trial_2	bromazepam	18	KG00098307	Pain, Chest	0.028592796996235847
+trial_2	bromazepam	27	KG00099303	hyperkalaemia	0.028544889762997627
+trial_2	bromazepam	194	KG00110727	Neutrophil Count Decreased	0.02842271700501442
+trial_2	bromazepam	300	KG00101064	xerostomia	0.028169646859169006
+trial_2	bromazepam	355	KG00110857	lymphocyte count decreased	0.02764727547764778
+trial_2	bromazepam	30	KG00099500	Acute Kidney Failure	0.026800455525517464
+trial_2	bromazepam	154	KG00099686	Lymphopenias	0.02609395794570446
+trial_2	bromazepam	221	KG00101207	peripheral oedema	0.026046739891171455
+trial_2	bromazepam	242	KG00100855	tremors	0.02597210556268692
+trial_2	bromazepam	69	KG00100082	Palpitations NOS	0.025262560695409775
+trial_2	bromazepam	147	KG00098000	atelectases	0.025139307603240013
+trial_2	bromazepam	211	KG00100341	Pruritus NOS	0.024655042216181755
+trial_2	bromazepam	144	KG00099610	Leukopenia NOS	0.024247633293271065
+trial_2	bromazepam	396	KG00100373	Embolism, Pulmonary	0.024246906861662865
+trial_2	bromazepam	100	KG00097815	alopecias	0.02353617176413536
+trial_2	bromazepam	422	KG00101429	Creatine phosphokinase increased	0.023219095543026924
+trial_2	bromazepam	92	KG00100926	Infections, Upper Respiratory	0.023172497749328613
+trial_2	bromazepam	249	KG00104430	hypoalbuminaemia	0.023017508909106255
+trial_2	bromazepam	204	KG00098849	Esophagitis, Peptic	0.022829612717032433
+trial_2	bromazepam	186	KG00101431	creatinine increased	0.022827129811048508
+trial_2	bromazepam	341	KG00101472	Gamma-glutamyltransferase increased	0.0228078905493021
+trial_2	bromazepam	345	KG00103926	impairments memory	0.022142421454191208
+trial_2	bromazepam	166	KG00099773	menopausal syndrome	0.022115150466561317
+trial_2	bromazepam	508	KG00108565	blood glucose increased	0.021986324340105057
+trial_2	bromazepam	142	KG00100923	Unspecified infectious and parasitic diseases	0.021906811743974686
+trial_2	bromazepam	153	KG00099579	lethargy	0.021733364090323448
+trial_2	bromazepam	1	KG00099959	Neutropenia NOS	0.021716784685850143
+trial_2	bromazepam	361	KG00098004	Fibrillation, Atrial	0.02158556506037712
+trial_2	bromazepam	191	KG00104055	Biliverdin increased	0.02147788554430008
+trial_2	bromazepam	130	KG00100683	Stomatitis NOS	0.021365493535995483
+trial_2	bromazepam	441	KG00098262	cellulitis nos	0.021032113581895828
+trial_2	bromazepam	199	KG00098371	Rhinitis (chronic) NOS	0.020961374044418335
+trial_2	bromazepam	269	KG00100399	pyaemia	0.020637547597289085
+trial_2	bromazepam	98	KG00097718	Incised wound, NOS	0.020568031817674637
+trial_2	bromazepam	218	KG00100801	Tinnitus NOS	0.02045464515686035
+trial_2	bromazepam	286	KG00101110	Retention, Urinary	0.02022670954465866
+trial_2	bromazepam	136	KG00101582	Dry;skin	0.020206088200211525
+trial_2	bromazepam	232	KG00097997	Ataxia NOS	0.020108230412006378
+trial_2	bromazepam	282	KG00099309	hypernatraemia	0.02007230557501316
+trial_2	bromazepam	276	KG00099127	Arrest, Cardiac	0.01987222395837307
+trial_2	bromazepam	164	KG00108827	ileus colon	0.01985771581530571
+trial_2	bromazepam	35	KG00101507	hypomagnesaemia	0.019701721146702766
+trial_2	bromazepam	11	KG00097993	Asthma NOS	0.019673582166433334

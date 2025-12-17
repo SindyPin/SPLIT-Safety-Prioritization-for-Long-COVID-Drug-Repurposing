@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.12633845210075378
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12135139107704163
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11998084932565689
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09133709967136383
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.0711057111620903
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06717041879892349
+trial_1	placebo	228	KG00114657	Weight below normal	0.0643547847867012
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06383553892374039
+trial_1	placebo	20	KG00098540	dehydration	0.05734890699386597
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.055072881281375885
+trial_1	placebo	46	KG00099121	Headache NOS	0.05291164666414261
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05025776848196983
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.04950585961341858
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04844275861978531
+trial_1	placebo	21	KG00098675	dyspnoea	0.04714335501194
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04566942900419235
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04549401253461838
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04447352886199951
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04274376109242439
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03874202072620392
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03697444498538971
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.036892637610435486
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03688088804483414
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03582705929875374
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03508791700005531
+trial_1	placebo	121	KG00099190	haemorrhage	0.03362848609685898
+trial_1	placebo	147	KG00098000	atelectases	0.03313940390944481
+trial_1	placebo	126	KG00100076	Pain NOS	0.03294757753610611
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03213236853480339
+trial_1	placebo	132	KG00101045	Gain, Weight	0.032013408839702606
+trial_1	placebo	136	KG00101582	Dry;skin	0.03172031417489052
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.031492698937654495
+trial_1	placebo	239	KG00100128	pareses	0.031273048371076584
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03036331571638584
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02989252842962742
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0294526107609272
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02934042178094387
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0292675718665123
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02917766384780407
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028216978535056114
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.028202971443533897
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02643938548862934
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02620008960366249
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026094989851117134
+trial_1	placebo	85	KG00098474	coughs	0.02608366124331951
+trial_1	placebo	466	KG00101205	fall	0.02565927617251873
+trial_1	placebo	269	KG00100399	pyaemia	0.025491876527667046
+trial_1	placebo	104	KG00097963	arthralgias	0.025398874655365944
+trial_1	placebo	68	KG00099901	nauseas	0.025343824177980423
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.025000298395752907
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.024571388959884644
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.024420544505119324
+trial_1	placebo	18	KG00098307	Pain, Chest	0.024377549067139626
+trial_1	placebo	242	KG00100855	tremors	0.02424703724682331
+trial_1	placebo	114	KG00098933	fevers	0.024110078811645508
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.023921340703964233
+trial_1	placebo	102	KG00097916	anxieties	0.023481758311390877
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022798746824264526
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.022547945380210876
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02231759950518608
+trial_1	placebo	5	KG00099169	haematuria	0.022261830046772957
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022150594741106033
+trial_1	placebo	262	KG00101199	agitation	0.02142089232802391
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02137010544538498
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021249663084745407
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020729180425405502
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.020658941939473152
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020163681358098984
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.019798073917627335
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01969658024609089
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.019658299162983894
+trial_1	placebo	282	KG00099309	hypernatraemia	0.019494131207466125
+trial_1	placebo	300	KG00101064	xerostomia	0.019466284662485123
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019092470407485962
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.019072160124778748
+trial_1	placebo	234	KG00098669	dysgeusias	0.01890302449464798
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018620774149894714
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018580950796604156
+trial_1	placebo	66	KG00098642	drowsiness	0.018347105011343956
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018231313675642014
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.018091075122356415
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.017833231016993523
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017787620425224304
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.017635399475693703
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.017543524503707886
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017384564504027367
+trial_1	placebo	164	KG00108827	ileus colon	0.017353639006614685
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01725289598107338
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016990382224321365
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.016922954469919205
+trial_1	placebo	339	KG00100334	proteinurias	0.016912629827857018
+trial_1	placebo	345	KG00103926	impairments memory	0.016804788261651993
+trial_1	placebo	116	KG00098964	Pain in foot	0.016767211258411407
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.016596416011452675
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.016595473513007164
+trial_1	placebo	257	KG00100922	Erythema NOS	0.01615455560386181
+trial_1	placebo	72	KG00103771	myalgias	0.015696650370955467
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.015582813881337643
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015461258590221405
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0153430150821805
+trial_2	bumetanide	87	KG00098599	diarrhoea	0.12633845210075378
+trial_2	bumetanide	9	KG00098432	Confusion NOS	0.12135139107704163
+trial_2	bumetanide	78	KG00099326	Hypertensive diseases	0.11998084932565689
+trial_2	bumetanide	64	KG00097734	Acrodermatitis, NOS	0.09133709967136383
+trial_2	bumetanide	173	KG00098172	Bronchopneumonia NOS	0.0711057111620903
+trial_2	bumetanide	123	KG00099351	hypokalaemia	0.06717041879892349
+trial_2	bumetanide	228	KG00114657	Weight below normal	0.0643547847867012
+trial_2	bumetanide	17	KG00097991	Asthenia NOS	0.06383553892374039
+trial_2	bumetanide	20	KG00098540	dehydration	0.05734890699386597
+trial_2	bumetanide	151	KG00098274	Infarction, Cerebral	0.055072881281375885
+trial_2	bumetanide	46	KG00099121	Headache NOS	0.05291164666414261
+trial_2	bumetanide	189	KG00101580	Alanine aminotransferase increase	0.05025776848196983
+trial_2	bumetanide	177	KG00099299	hyperglycaemia	0.04950585961341858
+trial_2	bumetanide	29	KG00099354	hyponatraemia	0.04844275861978531
+trial_2	bumetanide	21	KG00098675	dyspnoea	0.04714335501194
+trial_2	bumetanide	200	KG00098539	Disorders, Deglutition	0.04566942900419235
+trial_2	bumetanide	188	KG00101579	Aspartate aminotransferase increase	0.04549401253461838
+trial_2	bumetanide	67	KG00098673	Dyspepsia, NOS	0.04447352886199951
+trial_2	bumetanide	76	KG00100450	Respiratory insufficiency, NOS	0.04274376109242439
+trial_2	bumetanide	28	KG00099347	hypoglycaemia	0.03874202072620392
+trial_2	bumetanide	61	KG00099501	Chronic Kidney Failure	0.03697444498538971
+trial_2	bumetanide	180	KG00099363	Hypotension NOS	0.036892637610435486
+trial_2	bumetanide	243	KG00100947	Micturition frequency increased	0.03688088804483414
+trial_2	bumetanide	37	KG00097696	Cramps, Abdominal	0.03582705929875374
+trial_2	bumetanide	77	KG00098450	Constipation NOS	0.03508791700005531
+trial_2	bumetanide	121	KG00099190	haemorrhage	0.03362848609685898
+trial_2	bumetanide	147	KG00098000	atelectases	0.03313940390944481
+trial_2	bumetanide	126	KG00100076	Pain NOS	0.03294757753610611
+trial_2	bumetanide	30	KG00099500	Acute Kidney Failure	0.03213236853480339
+trial_2	bumetanide	132	KG00101045	Gain, Weight	0.032013408839702606
+trial_2	bumetanide	136	KG00101582	Dry;skin	0.03172031417489052
+trial_2	bumetanide	96	KG00101679	Unattended death NOS	0.031492698937654495
+trial_2	bumetanide	239	KG00100128	pareses	0.031273048371076584
+trial_2	bumetanide	86	KG00098565	Depression, Mental	0.03036331571638584
+trial_2	bumetanide	350	KG00106765	decreased platelet count	0.02989252842962742
+trial_2	bumetanide	179	KG00099342	hypocalcaemia	0.0294526107609272
+trial_2	bumetanide	79	KG00100317	Insomnia, Primary	0.02934042178094387
+trial_2	bumetanide	14	KG00097852	Anemia NOS	0.0292675718665123
+trial_2	bumetanide	101	KG00097901	Anorexia NOS	0.02917766384780407
+trial_2	bumetanide	36	KG00106434	Vision, Blurring Of	0.028216978535056114
+trial_2	bumetanide	49	KG00099902	nausea with vomiting	0.028202971443533897
+trial_2	bumetanide	191	KG00104055	Biliverdin increased	0.02643938548862934
+trial_2	bumetanide	131	KG00100948	Urinary tract infection (& [NOS])	0.02620008960366249
+trial_2	bumetanide	27	KG00099303	hyperkalaemia	0.026094989851117134
+trial_2	bumetanide	85	KG00098474	coughs	0.02608366124331951
+trial_2	bumetanide	466	KG00101205	fall	0.02565927617251873
+trial_2	bumetanide	269	KG00100399	pyaemia	0.025491876527667046
+trial_2	bumetanide	104	KG00097963	arthralgias	0.025398874655365944
+trial_2	bumetanide	68	KG00099901	nauseas	0.025343824177980423
+trial_2	bumetanide	31	KG00099872	Infarction, Myocardial	0.025000298395752907
+trial_2	bumetanide	35	KG00101507	hypomagnesaemia	0.024571388959884644
+trial_2	bumetanide	142	KG00100923	Unspecified infectious and parasitic diseases	0.024420544505119324
+trial_2	bumetanide	18	KG00098307	Pain, Chest	0.024377549067139626
+trial_2	bumetanide	242	KG00100855	tremors	0.02424703724682331
+trial_2	bumetanide	114	KG00098933	fevers	0.024110078811645508
+trial_2	bumetanide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.023921340703964233
+trial_2	bumetanide	102	KG00097916	anxieties	0.023481758311390877
+trial_2	bumetanide	249	KG00104430	hypoalbuminaemia	0.022798746824264526
+trial_2	bumetanide	2	KG00100772	thrombocytopaenia	0.022547945380210876
+trial_2	bumetanide	276	KG00099127	Arrest, Cardiac	0.02231759950518608
+trial_2	bumetanide	5	KG00099169	haematuria	0.022261830046772957
+trial_2	bumetanide	361	KG00098004	Fibrillation, Atrial	0.022150594741106033
+trial_2	bumetanide	262	KG00101199	agitation	0.02142089232802391
+trial_2	bumetanide	253	KG00100232	Pleural effusion NOS (disorder)	0.02137010544538498
+trial_2	bumetanide	396	KG00100373	Embolism, Pulmonary	0.021249663084745407
+trial_2	bumetanide	441	KG00098262	cellulitis nos	0.020729180425405502
+trial_2	bumetanide	38	KG00098066	Binocular vision disorders	0.020658941939473152
+trial_2	bumetanide	211	KG00100341	Pruritus NOS	0.020163681358098984
+trial_2	bumetanide	356	KG00112623	Infectious Lung Disorders	0.019798073917627335
+trial_2	bumetanide	288	KG00101223	hypophosphataemia	0.01969658024609089
+trial_2	bumetanide	355	KG00110857	lymphocyte count decreased	0.019658299162983894
+trial_2	bumetanide	282	KG00099309	hypernatraemia	0.019494131207466125
+trial_2	bumetanide	300	KG00101064	xerostomia	0.019466284662485123
+trial_2	bumetanide	286	KG00101110	Retention, Urinary	0.019092470407485962
+trial_2	bumetanide	122	KG00099321	Hypersensitivity NOS	0.019072160124778748
+trial_2	bumetanide	234	KG00098669	dysgeusias	0.01890302449464798
+trial_2	bumetanide	69	KG00100082	Palpitations NOS	0.018620774149894714
+trial_2	bumetanide	118	KG00099011	Gastritis NOS	0.018580950796604156
+trial_2	bumetanide	66	KG00098642	drowsiness	0.018347105011343956
+trial_2	bumetanide	15	KG00097882	Angina pectoris NOS	0.018231313675642014
+trial_2	bumetanide	246	KG00103338	Aspartate Aminotransferase Measurement	0.018091075122356415
+trial_2	bumetanide	371	KG00098517	Cystitis (NOS)	0.017833231016993523
+trial_2	bumetanide	138	KG00098796	epidemic vomiting syndrome	0.017787620425224304
+trial_2	bumetanide	152	KG00099402	INCONTINENCE NOS	0.017635399475693703
+trial_2	bumetanide	261	KG00101559	raised alkaline phosphatase	0.017543524503707886
+trial_2	bumetanide	130	KG00100683	Stomatitis NOS	0.017384564504027367
+trial_2	bumetanide	164	KG00108827	ileus colon	0.017353639006614685
+trial_2	bumetanide	75	KG00100195	Dolens, Phlegmasia Alba	0.01725289598107338
+trial_2	bumetanide	194	KG00110727	Neutrophil Count Decreased	0.016990382224321365
+trial_2	bumetanide	422	KG00101429	Creatine phosphokinase increased	0.016922954469919205
+trial_2	bumetanide	339	KG00100334	proteinurias	0.016912629827857018
+trial_2	bumetanide	345	KG00103926	impairments memory	0.016804788261651993
+trial_2	bumetanide	116	KG00098964	Pain in foot	0.016767211258411407
+trial_2	bumetanide	22	KG00098705	Edema (NOS)	0.016596416011452675
+trial_2	bumetanide	263	KG00101519	Ischemia, Myocardial	0.016595473513007164
+trial_2	bumetanide	257	KG00100922	Erythema NOS	0.01615455560386181
+trial_2	bumetanide	72	KG00103771	myalgias	0.015696650370955467
+trial_2	bumetanide	256	KG00100738	Tachycardia, Sinus	0.015582813881337643
+trial_2	bumetanide	154	KG00099686	Lymphopenias	0.015461258590221405
+trial_2	bumetanide	92	KG00100926	Infections, Upper Respiratory	0.0153430150821805

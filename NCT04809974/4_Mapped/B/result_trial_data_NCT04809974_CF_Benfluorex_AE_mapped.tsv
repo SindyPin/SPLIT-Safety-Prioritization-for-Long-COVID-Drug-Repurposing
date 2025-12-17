@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.21066993474960327
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.19734765589237213
+trial_1	placebo	123	KG00099351	hypokalaemia	0.13574036955833435
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12294407188892365
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12161640077829361
+trial_1	placebo	20	KG00098540	dehydration	0.11733316630125046
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11466584354639053
+trial_1	placebo	68	KG00099901	nauseas	0.1116432175040245
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10584706813097
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10387594997882843
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10381930321455002
+trial_1	placebo	46	KG00099121	Headache NOS	0.1031436175107956
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10292016714811325
+trial_1	placebo	228	KG00114657	Weight below normal	0.09771968424320221
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09736485034227371
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09430033713579178
+trial_1	placebo	21	KG00098675	dyspnoea	0.09294795244932175
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08764757961034775
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0861608237028122
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08428382873535156
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08269932866096497
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07448669523000717
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07434699684381485
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07359188050031662
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0713295042514801
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07039400190114975
+trial_1	placebo	114	KG00098933	fevers	0.06754572689533234
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06643763184547424
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06519505381584167
+trial_1	placebo	239	KG00100128	pareses	0.06441835314035416
+trial_1	placebo	126	KG00100076	Pain NOS	0.06288369745016098
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.0609288364648819
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05976293608546257
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0582779236137867
+trial_1	placebo	104	KG00097963	arthralgias	0.05804089456796646
+trial_1	placebo	5	KG00099169	haematuria	0.057711631059646606
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.055396296083927155
+trial_1	placebo	72	KG00103771	myalgias	0.055234234780073166
+trial_1	placebo	86	KG00098565	Depression, Mental	0.053310517221689224
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05317537114024162
+trial_1	placebo	85	KG00098474	coughs	0.050663240253925323
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04915143921971321
+trial_1	placebo	102	KG00097916	anxieties	0.04890965670347214
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04871940240263939
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.048048198223114014
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0470091812312603
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04698701202869415
+trial_1	placebo	147	KG00098000	atelectases	0.0459631122648716
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.045852962881326675
+trial_1	placebo	164	KG00108827	ileus colon	0.04565546661615372
+trial_1	placebo	82	KG00097697	abdomen distended	0.045453961938619614
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04522862285375595
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04410770907998085
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.043703556060791016
+trial_1	placebo	282	KG00099309	hypernatraemia	0.043083082884550095
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04217339679598808
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.04204842448234558
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.041199006140232086
+trial_1	placebo	116	KG00098964	Pain in foot	0.04107751324772835
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04084305465221405
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04031863063573837
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.04028335213661194
+trial_1	placebo	18	KG00098307	Pain, Chest	0.040135350078344345
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03959426283836365
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.039542194455862045
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0394328273832798
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03852302208542824
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03836970403790474
+trial_1	placebo	466	KG00101205	fall	0.038301751017570496
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.038137227296829224
+trial_1	placebo	269	KG00100399	pyaemia	0.03757424280047417
+trial_1	placebo	262	KG00101199	agitation	0.03608425706624985
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03556571900844574
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.03514644876122475
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.034491781145334244
+trial_1	placebo	441	KG00098262	cellulitis nos	0.0334927961230278
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03286629542708397
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03259490057826042
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03182332590222359
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03181643784046173
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03178480640053749
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.031362250447273254
+trial_1	placebo	454	KG00098286	Pain, Neck	0.031145542860031128
+trial_1	placebo	186	KG00101431	creatinine increased	0.031139127910137177
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03109872154891491
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03080328181385994
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030647607520222664
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.029781296849250793
+trial_1	placebo	132	KG00101045	Gain, Weight	0.029700040817260742
+trial_1	placebo	234	KG00098669	dysgeusias	0.029345059767365456
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028906190767884254
+trial_1	placebo	153	KG00099579	lethargy	0.028696630150079727
+trial_1	placebo	508	KG00108565	blood glucose increased	0.028577489778399467
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02832961082458496
+trial_1	placebo	121	KG00099190	haemorrhage	0.028255105018615723
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02754117362201214
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.027369467541575432
+trial_1	placebo	154	KG00099686	Lymphopenias	0.027041412889957428
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.026862330734729767
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.026819882914423943
+trial_2	benfluorex	87	KG00098599	diarrhoea	0.21066993474960327
+trial_2	benfluorex	78	KG00099326	Hypertensive diseases	0.19734765589237213
+trial_2	benfluorex	123	KG00099351	hypokalaemia	0.13574036955833435
+trial_2	benfluorex	177	KG00099299	hyperglycaemia	0.12294407188892365
+trial_2	benfluorex	189	KG00101580	Alanine aminotransferase increase	0.12161640077829361
+trial_2	benfluorex	20	KG00098540	dehydration	0.11733316630125046
+trial_2	benfluorex	17	KG00097991	Asthenia NOS	0.11466584354639053
+trial_2	benfluorex	68	KG00099901	nauseas	0.1116432175040245
+trial_2	benfluorex	173	KG00098172	Bronchopneumonia NOS	0.10584706813097
+trial_2	benfluorex	9	KG00098432	Confusion NOS	0.10387594997882843
+trial_2	benfluorex	49	KG00099902	nausea with vomiting	0.10381930321455002
+trial_2	benfluorex	46	KG00099121	Headache NOS	0.1031436175107956
+trial_2	benfluorex	188	KG00101579	Aspartate aminotransferase increase	0.10292016714811325
+trial_2	benfluorex	228	KG00114657	Weight below normal	0.09771968424320221
+trial_2	benfluorex	79	KG00100317	Insomnia, Primary	0.09736485034227371
+trial_2	benfluorex	37	KG00097696	Cramps, Abdominal	0.09430033713579178
+trial_2	benfluorex	21	KG00098675	dyspnoea	0.09294795244932175
+trial_2	benfluorex	77	KG00098450	Constipation NOS	0.08764757961034775
+trial_2	benfluorex	200	KG00098539	Disorders, Deglutition	0.0861608237028122
+trial_2	benfluorex	67	KG00098673	Dyspepsia, NOS	0.08428382873535156
+trial_2	benfluorex	350	KG00106765	decreased platelet count	0.08269932866096497
+trial_2	benfluorex	101	KG00097901	Anorexia NOS	0.07448669523000717
+trial_2	benfluorex	14	KG00097852	Anemia NOS	0.07434699684381485
+trial_2	benfluorex	64	KG00097734	Acrodermatitis, NOS	0.07359188050031662
+trial_2	benfluorex	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0713295042514801
+trial_2	benfluorex	29	KG00099354	hyponatraemia	0.07039400190114975
+trial_2	benfluorex	114	KG00098933	fevers	0.06754572689533234
+trial_2	benfluorex	243	KG00100947	Micturition frequency increased	0.06643763184547424
+trial_2	benfluorex	2	KG00100772	thrombocytopaenia	0.06519505381584167
+trial_2	benfluorex	239	KG00100128	pareses	0.06441835314035416
+trial_2	benfluorex	126	KG00100076	Pain NOS	0.06288369745016098
+trial_2	benfluorex	179	KG00099342	hypocalcaemia	0.0609288364648819
+trial_2	benfluorex	180	KG00099363	Hypotension NOS	0.05976293608546257
+trial_2	benfluorex	76	KG00100450	Respiratory insufficiency, NOS	0.0582779236137867
+trial_2	benfluorex	104	KG00097963	arthralgias	0.05804089456796646
+trial_2	benfluorex	5	KG00099169	haematuria	0.057711631059646606
+trial_2	benfluorex	151	KG00098274	Infarction, Cerebral	0.055396296083927155
+trial_2	benfluorex	72	KG00103771	myalgias	0.055234234780073166
+trial_2	benfluorex	86	KG00098565	Depression, Mental	0.053310517221689224
+trial_2	benfluorex	27	KG00099303	hyperkalaemia	0.05317537114024162
+trial_2	benfluorex	85	KG00098474	coughs	0.050663240253925323
+trial_2	benfluorex	61	KG00099501	Chronic Kidney Failure	0.04915143921971321
+trial_2	benfluorex	102	KG00097916	anxieties	0.04890965670347214
+trial_2	benfluorex	38	KG00098066	Binocular vision disorders	0.04871940240263939
+trial_2	benfluorex	261	KG00101559	raised alkaline phosphatase	0.048048198223114014
+trial_2	benfluorex	194	KG00110727	Neutrophil Count Decreased	0.0470091812312603
+trial_2	benfluorex	30	KG00099500	Acute Kidney Failure	0.04698701202869415
+trial_2	benfluorex	147	KG00098000	atelectases	0.0459631122648716
+trial_2	benfluorex	191	KG00104055	Biliverdin increased	0.045852962881326675
+trial_2	benfluorex	164	KG00108827	ileus colon	0.04565546661615372
+trial_2	benfluorex	82	KG00097697	abdomen distended	0.045453961938619614
+trial_2	benfluorex	28	KG00099347	hypoglycaemia	0.04522862285375595
+trial_2	benfluorex	396	KG00100373	Embolism, Pulmonary	0.04410770907998085
+trial_2	benfluorex	276	KG00099127	Arrest, Cardiac	0.043703556060791016
+trial_2	benfluorex	282	KG00099309	hypernatraemia	0.043083082884550095
+trial_2	benfluorex	131	KG00100948	Urinary tract infection (& [NOS])	0.04217339679598808
+trial_2	benfluorex	341	KG00101472	Gamma-glutamyltransferase increased	0.04204842448234558
+trial_2	benfluorex	122	KG00099321	Hypersensitivity NOS	0.041199006140232086
+trial_2	benfluorex	116	KG00098964	Pain in foot	0.04107751324772835
+trial_2	benfluorex	35	KG00101507	hypomagnesaemia	0.04084305465221405
+trial_2	benfluorex	355	KG00110857	lymphocyte count decreased	0.04031863063573837
+trial_2	benfluorex	69	KG00100082	Palpitations NOS	0.04028335213661194
+trial_2	benfluorex	18	KG00098307	Pain, Chest	0.040135350078344345
+trial_2	benfluorex	249	KG00104430	hypoalbuminaemia	0.03959426283836365
+trial_2	benfluorex	139	KG00098855	Sinusitis, Ethmoid	0.039542194455862045
+trial_2	benfluorex	96	KG00101679	Unattended death NOS	0.0394328273832798
+trial_2	benfluorex	253	KG00100232	Pleural effusion NOS (disorder)	0.03852302208542824
+trial_2	benfluorex	288	KG00101223	hypophosphataemia	0.03836970403790474
+trial_2	benfluorex	466	KG00101205	fall	0.038301751017570496
+trial_2	benfluorex	286	KG00101110	Retention, Urinary	0.038137227296829224
+trial_2	benfluorex	269	KG00100399	pyaemia	0.03757424280047417
+trial_2	benfluorex	262	KG00101199	agitation	0.03608425706624985
+trial_2	benfluorex	422	KG00101429	Creatine phosphokinase increased	0.03556571900844574
+trial_2	benfluorex	33	KG00100094	Pancreatitis NOS	0.03514644876122475
+trial_2	benfluorex	204	KG00098849	Esophagitis, Peptic	0.034491781145334244
+trial_2	benfluorex	441	KG00098262	cellulitis nos	0.0334927961230278
+trial_2	benfluorex	211	KG00100341	Pruritus NOS	0.03286629542708397
+trial_2	benfluorex	142	KG00100923	Unspecified infectious and parasitic diseases	0.03259490057826042
+trial_2	benfluorex	371	KG00098517	Cystitis (NOS)	0.03182332590222359
+trial_2	benfluorex	256	KG00100738	Tachycardia, Sinus	0.03181643784046173
+trial_2	benfluorex	97	KG00104198	LIVER ENZYME ELEVATED	0.03178480640053749
+trial_2	benfluorex	356	KG00112623	Infectious Lung Disorders	0.031362250447273254
+trial_2	benfluorex	454	KG00098286	Pain, Neck	0.031145542860031128
+trial_2	benfluorex	186	KG00101431	creatinine increased	0.031139127910137177
+trial_2	benfluorex	75	KG00100195	Dolens, Phlegmasia Alba	0.03109872154891491
+trial_2	benfluorex	144	KG00099610	Leukopenia NOS	0.03080328181385994
+trial_2	benfluorex	130	KG00100683	Stomatitis NOS	0.030647607520222664
+trial_2	benfluorex	394	KG00100243	Pneumonia, Aspiration	0.029781296849250793
+trial_2	benfluorex	132	KG00101045	Gain, Weight	0.029700040817260742
+trial_2	benfluorex	234	KG00098669	dysgeusias	0.029345059767365456
+trial_2	benfluorex	361	KG00098004	Fibrillation, Atrial	0.028906190767884254
+trial_2	benfluorex	153	KG00099579	lethargy	0.028696630150079727
+trial_2	benfluorex	508	KG00108565	blood glucose increased	0.028577489778399467
+trial_2	benfluorex	382	KG00099200	haemorrhoids	0.02832961082458496
+trial_2	benfluorex	121	KG00099190	haemorrhage	0.028255105018615723
+trial_2	benfluorex	92	KG00100926	Infections, Upper Respiratory	0.02754117362201214
+trial_2	benfluorex	1	KG00099959	Neutropenia NOS	0.027369467541575432
+trial_2	benfluorex	154	KG00099686	Lymphopenias	0.027041412889957428
+trial_2	benfluorex	166	KG00099773	menopausal syndrome	0.026862330734729767
+trial_2	benfluorex	400	KG00100925	Upper gastrointestinal haemorrhage	0.026819882914423943

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.08123688399791718
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07933910191059113
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0785360187292099
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.07588916271924973
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06896833330392838
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05839051306247711
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05734921991825104
+trial_1	placebo	21	KG00098675	dyspnoea	0.05720384418964386
+trial_1	placebo	300	KG00101064	xerostomia	0.054761018604040146
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05216672644019127
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05186367407441139
+trial_1	placebo	46	KG00099121	Headache NOS	0.049165431410074234
+trial_1	placebo	20	KG00098540	dehydration	0.04797406122088432
+trial_1	placebo	68	KG00099901	nauseas	0.0467866025865078
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04371453449130058
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04337070509791374
+trial_1	placebo	66	KG00098642	drowsiness	0.04095664992928505
+trial_1	placebo	123	KG00099351	hypokalaemia	0.038301680237054825
+trial_1	placebo	132	KG00101045	Gain, Weight	0.038056861609220505
+trial_1	placebo	85	KG00098474	coughs	0.03434276953339577
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03356698527932167
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03313403204083443
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.032744091004133224
+trial_1	placebo	228	KG00114657	Weight below normal	0.03172419220209122
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.030323298647999763
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0302632674574852
+trial_1	placebo	102	KG00097916	anxieties	0.029649734497070312
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.029030445963144302
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02795776166021824
+trial_1	placebo	114	KG00098933	fevers	0.02762399986386299
+trial_1	placebo	126	KG00100076	Pain NOS	0.02758203260600567
+trial_1	placebo	262	KG00101199	agitation	0.027563193812966347
+trial_1	placebo	242	KG00100855	tremors	0.02708939090371132
+trial_1	placebo	104	KG00097963	arthralgias	0.02494855783879757
+trial_1	placebo	29	KG00099354	hyponatraemia	0.024347424507141113
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.023883933201432228
+trial_1	placebo	466	KG00101205	fall	0.022453173995018005
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.022426115348935127
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02229267545044422
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.021924447268247604
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.021856995299458504
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02168525569140911
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021195637062191963
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021177180111408234
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.020271962508559227
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.020250339061021805
+trial_1	placebo	14	KG00097852	Anemia NOS	0.019996492192149162
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019730275496840477
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01972005143761635
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.019554175436496735
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.019544359296560287
+trial_1	placebo	239	KG00100128	pareses	0.019540971145033836
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.019345248118042946
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018715474754571915
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.01836778037250042
+trial_1	placebo	121	KG00099190	haemorrhage	0.018295273184776306
+trial_1	placebo	5	KG00099169	haematuria	0.018225088715553284
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.017957361415028572
+trial_1	placebo	333	KG00104019	DOPINESS	0.01680067740380764
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01669626124203205
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.016592329367995262
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01625131443142891
+trial_1	placebo	147	KG00098000	atelectases	0.016200728714466095
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015967773273587227
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.01564960554242134
+trial_1	placebo	164	KG00108827	ileus colon	0.015311192721128464
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.015140310861170292
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.014913534745573997
+trial_1	placebo	116	KG00098964	Pain in foot	0.01468747016042471
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0146331787109375
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01462426409125328
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01433592475950718
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014308528043329716
+trial_1	placebo	136	KG00101582	Dry;skin	0.014266877435147762
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.014020327478647232
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013984289020299911
+trial_1	placebo	269	KG00100399	pyaemia	0.013839691877365112
+trial_1	placebo	225	KG00104032	Suicidal tendencies	0.013678396120667458
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013624634593725204
+trial_1	placebo	441	KG00098262	cellulitis nos	0.013517389073967934
+trial_1	placebo	456	KG00099420	Influenzae	0.01345356646925211
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.013356957584619522
+trial_1	placebo	153	KG00099579	lethargy	0.013330389745533466
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.012955140322446823
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.012929915450513363
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012881428934633732
+trial_1	placebo	508	KG00108565	blood glucose increased	0.012834746390581131
+trial_1	placebo	290	KG00103881	Physical wandering	0.012591094709932804
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012453077360987663
+trial_1	placebo	165	KG00098537	Libido Decreased	0.012449161149561405
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.012425892055034637
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.012411861680448055
+trial_1	placebo	783	KG00106735	Acathisia	0.01219882071018219
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012084431014955044
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012079990468919277
+trial_1	placebo	82	KG00097697	abdomen distended	0.011986777186393738
+trial_1	placebo	234	KG00098669	dysgeusias	0.011854522861540318
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.011816120706498623
+trial_1	placebo	4	KG00098817	epistaxis	0.01171979308128357
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.011675289832055569
+trial_2	benzatropine	87	KG00098599	diarrhoea	0.08123688399791718
+trial_2	benzatropine	9	KG00098432	Confusion NOS	0.07933910191059113
+trial_2	benzatropine	78	KG00099326	Hypertensive diseases	0.0785360187292099
+trial_2	benzatropine	17	KG00097991	Asthenia NOS	0.07588916271924973
+trial_2	benzatropine	77	KG00098450	Constipation NOS	0.06896833330392838
+trial_2	benzatropine	49	KG00099902	nausea with vomiting	0.05839051306247711
+trial_2	benzatropine	79	KG00100317	Insomnia, Primary	0.05734921991825104
+trial_2	benzatropine	21	KG00098675	dyspnoea	0.05720384418964386
+trial_2	benzatropine	300	KG00101064	xerostomia	0.054761018604040146
+trial_2	benzatropine	173	KG00098172	Bronchopneumonia NOS	0.05216672644019127
+trial_2	benzatropine	177	KG00099299	hyperglycaemia	0.05186367407441139
+trial_2	benzatropine	46	KG00099121	Headache NOS	0.049165431410074234
+trial_2	benzatropine	20	KG00098540	dehydration	0.04797406122088432
+trial_2	benzatropine	68	KG00099901	nauseas	0.0467866025865078
+trial_2	benzatropine	64	KG00097734	Acrodermatitis, NOS	0.04371453449130058
+trial_2	benzatropine	86	KG00098565	Depression, Mental	0.04337070509791374
+trial_2	benzatropine	66	KG00098642	drowsiness	0.04095664992928505
+trial_2	benzatropine	123	KG00099351	hypokalaemia	0.038301680237054825
+trial_2	benzatropine	132	KG00101045	Gain, Weight	0.038056861609220505
+trial_2	benzatropine	85	KG00098474	coughs	0.03434276953339577
+trial_2	benzatropine	96	KG00101679	Unattended death NOS	0.03356698527932167
+trial_2	benzatropine	37	KG00097696	Cramps, Abdominal	0.03313403204083443
+trial_2	benzatropine	151	KG00098274	Infarction, Cerebral	0.032744091004133224
+trial_2	benzatropine	228	KG00114657	Weight below normal	0.03172419220209122
+trial_2	benzatropine	101	KG00097901	Anorexia NOS	0.030323298647999763
+trial_2	benzatropine	67	KG00098673	Dyspepsia, NOS	0.0302632674574852
+trial_2	benzatropine	102	KG00097916	anxieties	0.029649734497070312
+trial_2	benzatropine	180	KG00099363	Hypotension NOS	0.029030445963144302
+trial_2	benzatropine	200	KG00098539	Disorders, Deglutition	0.02795776166021824
+trial_2	benzatropine	114	KG00098933	fevers	0.02762399986386299
+trial_2	benzatropine	126	KG00100076	Pain NOS	0.02758203260600567
+trial_2	benzatropine	262	KG00101199	agitation	0.027563193812966347
+trial_2	benzatropine	242	KG00100855	tremors	0.02708939090371132
+trial_2	benzatropine	104	KG00097963	arthralgias	0.02494855783879757
+trial_2	benzatropine	29	KG00099354	hyponatraemia	0.024347424507141113
+trial_2	benzatropine	189	KG00101580	Alanine aminotransferase increase	0.023883933201432228
+trial_2	benzatropine	466	KG00101205	fall	0.022453173995018005
+trial_2	benzatropine	30	KG00099500	Acute Kidney Failure	0.022426115348935127
+trial_2	benzatropine	61	KG00099501	Chronic Kidney Failure	0.02229267545044422
+trial_2	benzatropine	28	KG00099347	hypoglycaemia	0.021924447268247604
+trial_2	benzatropine	76	KG00100450	Respiratory insufficiency, NOS	0.021856995299458504
+trial_2	benzatropine	18	KG00098307	Pain, Chest	0.02168525569140911
+trial_2	benzatropine	122	KG00099321	Hypersensitivity NOS	0.021195637062191963
+trial_2	benzatropine	211	KG00100341	Pruritus NOS	0.021177180111408234
+trial_2	benzatropine	36	KG00106434	Vision, Blurring Of	0.020271962508559227
+trial_2	benzatropine	69	KG00100082	Palpitations NOS	0.020250339061021805
+trial_2	benzatropine	14	KG00097852	Anemia NOS	0.019996492192149162
+trial_2	benzatropine	142	KG00100923	Unspecified infectious and parasitic diseases	0.019730275496840477
+trial_2	benzatropine	199	KG00098371	Rhinitis (chronic) NOS	0.01972005143761635
+trial_2	benzatropine	131	KG00100948	Urinary tract infection (& [NOS])	0.019554175436496735
+trial_2	benzatropine	286	KG00101110	Retention, Urinary	0.019544359296560287
+trial_2	benzatropine	239	KG00100128	pareses	0.019540971145033836
+trial_2	benzatropine	243	KG00100947	Micturition frequency increased	0.019345248118042946
+trial_2	benzatropine	38	KG00098066	Binocular vision disorders	0.018715474754571915
+trial_2	benzatropine	188	KG00101579	Aspartate aminotransferase increase	0.01836778037250042
+trial_2	benzatropine	121	KG00099190	haemorrhage	0.018295273184776306
+trial_2	benzatropine	5	KG00099169	haematuria	0.018225088715553284
+trial_2	benzatropine	396	KG00100373	Embolism, Pulmonary	0.017957361415028572
+trial_2	benzatropine	333	KG00104019	DOPINESS	0.01680067740380764
+trial_2	benzatropine	22	KG00098705	Edema (NOS)	0.01669626124203205
+trial_2	benzatropine	118	KG00099011	Gastritis NOS	0.016592329367995262
+trial_2	benzatropine	92	KG00100926	Infections, Upper Respiratory	0.01625131443142891
+trial_2	benzatropine	147	KG00098000	atelectases	0.016200728714466095
+trial_2	benzatropine	11	KG00097993	Asthma NOS	0.015967773273587227
+trial_2	benzatropine	152	KG00099402	INCONTINENCE NOS	0.01564960554242134
+trial_2	benzatropine	164	KG00108827	ileus colon	0.015311192721128464
+trial_2	benzatropine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.015140310861170292
+trial_2	benzatropine	139	KG00098855	Sinusitis, Ethmoid	0.014913534745573997
+trial_2	benzatropine	116	KG00098964	Pain in foot	0.01468747016042471
+trial_2	benzatropine	75	KG00100195	Dolens, Phlegmasia Alba	0.0146331787109375
+trial_2	benzatropine	31	KG00099872	Infarction, Myocardial	0.01462426409125328
+trial_2	benzatropine	350	KG00106765	decreased platelet count	0.01433592475950718
+trial_2	benzatropine	261	KG00101559	raised alkaline phosphatase	0.014308528043329716
+trial_2	benzatropine	136	KG00101582	Dry;skin	0.014266877435147762
+trial_2	benzatropine	394	KG00100243	Pneumonia, Aspiration	0.014020327478647232
+trial_2	benzatropine	221	KG00101207	peripheral oedema	0.013984289020299911
+trial_2	benzatropine	269	KG00100399	pyaemia	0.013839691877365112
+trial_2	benzatropine	225	KG00104032	Suicidal tendencies	0.013678396120667458
+trial_2	benzatropine	138	KG00098796	epidemic vomiting syndrome	0.013624634593725204
+trial_2	benzatropine	441	KG00098262	cellulitis nos	0.013517389073967934
+trial_2	benzatropine	456	KG00099420	Influenzae	0.01345356646925211
+trial_2	benzatropine	422	KG00101429	Creatine phosphokinase increased	0.013356957584619522
+trial_2	benzatropine	153	KG00099579	lethargy	0.013330389745533466
+trial_2	benzatropine	235	KG00098682	Dysuria NOS	0.012955140322446823
+trial_2	benzatropine	2	KG00100772	thrombocytopaenia	0.012929915450513363
+trial_2	benzatropine	371	KG00098517	Cystitis (NOS)	0.012881428934633732
+trial_2	benzatropine	508	KG00108565	blood glucose increased	0.012834746390581131
+trial_2	benzatropine	290	KG00103881	Physical wandering	0.012591094709932804
+trial_2	benzatropine	191	KG00104055	Biliverdin increased	0.012453077360987663
+trial_2	benzatropine	165	KG00098537	Libido Decreased	0.012449161149561405
+trial_2	benzatropine	15	KG00097882	Angina pectoris NOS	0.012425892055034637
+trial_2	benzatropine	254	KG00100774	Thrombosis NOS	0.012411861680448055
+trial_2	benzatropine	783	KG00106735	Acathisia	0.01219882071018219
+trial_2	benzatropine	130	KG00100683	Stomatitis NOS	0.012084431014955044
+trial_2	benzatropine	361	KG00098004	Fibrillation, Atrial	0.012079990468919277
+trial_2	benzatropine	82	KG00097697	abdomen distended	0.011986777186393738
+trial_2	benzatropine	234	KG00098669	dysgeusias	0.011854522861540318
+trial_2	benzatropine	253	KG00100232	Pleural effusion NOS (disorder)	0.011816120706498623
+trial_2	benzatropine	4	KG00098817	epistaxis	0.01171979308128357
+trial_2	benzatropine	276	KG00099127	Arrest, Cardiac	0.011675289832055569

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2581973075866699
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.20252852141857147
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1930542141199112
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1483183652162552
+trial_1	placebo	46	KG00099121	Headache NOS	0.14522676169872284
+trial_1	placebo	123	KG00099351	hypokalaemia	0.13482189178466797
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13267803192138672
+trial_1	placebo	21	KG00098675	dyspnoea	0.13157230615615845
+trial_1	placebo	228	KG00114657	Weight below normal	0.12479894608259201
+trial_1	placebo	68	KG00099901	nauseas	0.12265688180923462
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.12079653143882751
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.11664178967475891
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.11634965240955353
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.110430508852005
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.11038309335708618
+trial_1	placebo	20	KG00098540	dehydration	0.10656765848398209
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10359267890453339
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10248450189828873
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.09559163451194763
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09237388521432877
+trial_1	placebo	350	KG00106765	decreased platelet count	0.08652859181165695
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08370698988437653
+trial_1	placebo	126	KG00100076	Pain NOS	0.08337176591157913
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08279824256896973
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.080420583486557
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0759996697306633
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07417414337396622
+trial_1	placebo	85	KG00098474	coughs	0.07351212203502655
+trial_1	placebo	114	KG00098933	fevers	0.07253772765398026
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07210368663072586
+trial_1	placebo	239	KG00100128	pareses	0.07141325622797012
+trial_1	placebo	72	KG00103771	myalgias	0.06900273263454437
+trial_1	placebo	104	KG00097963	arthralgias	0.06662607192993164
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06520158797502518
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.06459125876426697
+trial_1	placebo	102	KG00097916	anxieties	0.06346260756254196
+trial_1	placebo	5	KG00099169	haematuria	0.05889137461781502
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0585881732404232
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.057465068995952606
+trial_1	placebo	132	KG00101045	Gain, Weight	0.057362377643585205
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05679711699485779
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.05560823529958725
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.055392246693372726
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05487952008843422
+trial_1	placebo	18	KG00098307	Pain, Chest	0.054755859076976776
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.053374338895082474
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.052368417382240295
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05114590749144554
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.05108179897069931
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.050236109644174576
+trial_1	placebo	121	KG00099190	haemorrhage	0.049773167818784714
+trial_1	placebo	262	KG00101199	agitation	0.04968850314617157
+trial_1	placebo	116	KG00098964	Pain in foot	0.04924326390028
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0485641248524189
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0467783622443676
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.046372197568416595
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0461130253970623
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.04556551203131676
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04461679980158806
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.0444180928170681
+trial_1	placebo	242	KG00100855	tremors	0.04343462362885475
+trial_1	placebo	234	KG00098669	dysgeusias	0.042912282049655914
+trial_1	placebo	154	KG00099686	Lymphopenias	0.04132862016558647
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04081506282091141
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04047555848956108
+trial_1	placebo	466	KG00101205	fall	0.040182359516620636
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03925829380750656
+trial_1	placebo	147	KG00098000	atelectases	0.03896913304924965
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03879495710134506
+trial_1	placebo	82	KG00097697	abdomen distended	0.03783111646771431
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03761397674679756
+trial_1	placebo	186	KG00101431	creatinine increased	0.03697586432099342
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03692564740777016
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03602448105812073
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.03585771471261978
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03567038103938103
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.035639140754938126
+trial_1	placebo	339	KG00100334	proteinurias	0.035215698182582855
+trial_1	placebo	4	KG00098817	epistaxis	0.034955717623233795
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03477522358298302
+trial_1	placebo	136	KG00101582	Dry;skin	0.03437965735793114
+trial_1	placebo	269	KG00100399	pyaemia	0.03321193903684616
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0331835076212883
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03312159329652786
+trial_1	placebo	100	KG00097815	alopecias	0.033069971948862076
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03303445503115654
+trial_1	placebo	300	KG00101064	xerostomia	0.0327518954873085
+trial_1	placebo	382	KG00099200	haemorrhoids	0.03235415369272232
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.032335519790649414
+trial_1	placebo	66	KG00098642	drowsiness	0.03168289735913277
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03160218521952629
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03153127804398537
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.03125014156103134
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03065159171819687
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030520206317305565
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.030124520882964134
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02943357639014721
+trial_1	placebo	212	KG00100576	shivers	0.02847854420542717
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028307661414146423
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.027824126183986664
+trial_2	bepridil	87	KG00098599	diarrhoea	0.2581973075866699
+trial_2	bepridil	17	KG00097991	Asthenia NOS	0.20252852141857147
+trial_2	bepridil	78	KG00099326	Hypertensive diseases	0.1930542141199112
+trial_2	bepridil	9	KG00098432	Confusion NOS	0.1483183652162552
+trial_2	bepridil	46	KG00099121	Headache NOS	0.14522676169872284
+trial_2	bepridil	123	KG00099351	hypokalaemia	0.13482189178466797
+trial_2	bepridil	177	KG00099299	hyperglycaemia	0.13267803192138672
+trial_2	bepridil	21	KG00098675	dyspnoea	0.13157230615615845
+trial_2	bepridil	228	KG00114657	Weight below normal	0.12479894608259201
+trial_2	bepridil	68	KG00099901	nauseas	0.12265688180923462
+trial_2	bepridil	79	KG00100317	Insomnia, Primary	0.12079653143882751
+trial_2	bepridil	67	KG00098673	Dyspepsia, NOS	0.11664178967475891
+trial_2	bepridil	49	KG00099902	nausea with vomiting	0.11634965240955353
+trial_2	bepridil	173	KG00098172	Bronchopneumonia NOS	0.110430508852005
+trial_2	bepridil	189	KG00101580	Alanine aminotransferase increase	0.11038309335708618
+trial_2	bepridil	20	KG00098540	dehydration	0.10656765848398209
+trial_2	bepridil	188	KG00101579	Aspartate aminotransferase increase	0.10359267890453339
+trial_2	bepridil	77	KG00098450	Constipation NOS	0.10248450189828873
+trial_2	bepridil	101	KG00097901	Anorexia NOS	0.09559163451194763
+trial_2	bepridil	37	KG00097696	Cramps, Abdominal	0.09237388521432877
+trial_2	bepridil	350	KG00106765	decreased platelet count	0.08652859181165695
+trial_2	bepridil	64	KG00097734	Acrodermatitis, NOS	0.08370698988437653
+trial_2	bepridil	126	KG00100076	Pain NOS	0.08337176591157913
+trial_2	bepridil	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.08279824256896973
+trial_2	bepridil	200	KG00098539	Disorders, Deglutition	0.080420583486557
+trial_2	bepridil	86	KG00098565	Depression, Mental	0.0759996697306633
+trial_2	bepridil	29	KG00099354	hyponatraemia	0.07417414337396622
+trial_2	bepridil	85	KG00098474	coughs	0.07351212203502655
+trial_2	bepridil	114	KG00098933	fevers	0.07253772765398026
+trial_2	bepridil	14	KG00097852	Anemia NOS	0.07210368663072586
+trial_2	bepridil	239	KG00100128	pareses	0.07141325622797012
+trial_2	bepridil	72	KG00103771	myalgias	0.06900273263454437
+trial_2	bepridil	104	KG00097963	arthralgias	0.06662607192993164
+trial_2	bepridil	243	KG00100947	Micturition frequency increased	0.06520158797502518
+trial_2	bepridil	179	KG00099342	hypocalcaemia	0.06459125876426697
+trial_2	bepridil	102	KG00097916	anxieties	0.06346260756254196
+trial_2	bepridil	5	KG00099169	haematuria	0.05889137461781502
+trial_2	bepridil	151	KG00098274	Infarction, Cerebral	0.0585881732404232
+trial_2	bepridil	2	KG00100772	thrombocytopaenia	0.057465068995952606
+trial_2	bepridil	132	KG00101045	Gain, Weight	0.057362377643585205
+trial_2	bepridil	180	KG00099363	Hypotension NOS	0.05679711699485779
+trial_2	bepridil	96	KG00101679	Unattended death NOS	0.05560823529958725
+trial_2	bepridil	191	KG00104055	Biliverdin increased	0.055392246693372726
+trial_2	bepridil	194	KG00110727	Neutrophil Count Decreased	0.05487952008843422
+trial_2	bepridil	18	KG00098307	Pain, Chest	0.054755859076976776
+trial_2	bepridil	76	KG00100450	Respiratory insufficiency, NOS	0.053374338895082474
+trial_2	bepridil	36	KG00106434	Vision, Blurring Of	0.052368417382240295
+trial_2	bepridil	27	KG00099303	hyperkalaemia	0.05114590749144554
+trial_2	bepridil	35	KG00101507	hypomagnesaemia	0.05108179897069931
+trial_2	bepridil	261	KG00101559	raised alkaline phosphatase	0.050236109644174576
+trial_2	bepridil	121	KG00099190	haemorrhage	0.049773167818784714
+trial_2	bepridil	262	KG00101199	agitation	0.04968850314617157
+trial_2	bepridil	116	KG00098964	Pain in foot	0.04924326390028
+trial_2	bepridil	139	KG00098855	Sinusitis, Ethmoid	0.0485641248524189
+trial_2	bepridil	61	KG00099501	Chronic Kidney Failure	0.0467783622443676
+trial_2	bepridil	142	KG00100923	Unspecified infectious and parasitic diseases	0.046372197568416595
+trial_2	bepridil	355	KG00110857	lymphocyte count decreased	0.0461130253970623
+trial_2	bepridil	249	KG00104430	hypoalbuminaemia	0.04556551203131676
+trial_2	bepridil	28	KG00099347	hypoglycaemia	0.04461679980158806
+trial_2	bepridil	122	KG00099321	Hypersensitivity NOS	0.0444180928170681
+trial_2	bepridil	242	KG00100855	tremors	0.04343462362885475
+trial_2	bepridil	234	KG00098669	dysgeusias	0.042912282049655914
+trial_2	bepridil	154	KG00099686	Lymphopenias	0.04132862016558647
+trial_2	bepridil	131	KG00100948	Urinary tract infection (& [NOS])	0.04081506282091141
+trial_2	bepridil	38	KG00098066	Binocular vision disorders	0.04047555848956108
+trial_2	bepridil	466	KG00101205	fall	0.040182359516620636
+trial_2	bepridil	69	KG00100082	Palpitations NOS	0.03925829380750656
+trial_2	bepridil	147	KG00098000	atelectases	0.03896913304924965
+trial_2	bepridil	130	KG00100683	Stomatitis NOS	0.03879495710134506
+trial_2	bepridil	82	KG00097697	abdomen distended	0.03783111646771431
+trial_2	bepridil	30	KG00099500	Acute Kidney Failure	0.03761397674679756
+trial_2	bepridil	186	KG00101431	creatinine increased	0.03697586432099342
+trial_2	bepridil	422	KG00101429	Creatine phosphokinase increased	0.03692564740777016
+trial_2	bepridil	282	KG00099309	hypernatraemia	0.03602448105812073
+trial_2	bepridil	356	KG00112623	Infectious Lung Disorders	0.03585771471261978
+trial_2	bepridil	396	KG00100373	Embolism, Pulmonary	0.03567038103938103
+trial_2	bepridil	288	KG00101223	hypophosphataemia	0.035639140754938126
+trial_2	bepridil	339	KG00100334	proteinurias	0.035215698182582855
+trial_2	bepridil	4	KG00098817	epistaxis	0.034955717623233795
+trial_2	bepridil	204	KG00098849	Esophagitis, Peptic	0.03477522358298302
+trial_2	bepridil	136	KG00101582	Dry;skin	0.03437965735793114
+trial_2	bepridil	269	KG00100399	pyaemia	0.03321193903684616
+trial_2	bepridil	22	KG00098705	Edema (NOS)	0.0331835076212883
+trial_2	bepridil	144	KG00099610	Leukopenia NOS	0.03312159329652786
+trial_2	bepridil	100	KG00097815	alopecias	0.033069971948862076
+trial_2	bepridil	1	KG00099959	Neutropenia NOS	0.03303445503115654
+trial_2	bepridil	300	KG00101064	xerostomia	0.0327518954873085
+trial_2	bepridil	382	KG00099200	haemorrhoids	0.03235415369272232
+trial_2	bepridil	152	KG00099402	INCONTINENCE NOS	0.032335519790649414
+trial_2	bepridil	66	KG00098642	drowsiness	0.03168289735913277
+trial_2	bepridil	221	KG00101207	peripheral oedema	0.03160218521952629
+trial_2	bepridil	256	KG00100738	Tachycardia, Sinus	0.03153127804398537
+trial_2	bepridil	133	KG00101370	neuropathies sensory	0.03125014156103134
+trial_2	bepridil	286	KG00101110	Retention, Urinary	0.03065159171819687
+trial_2	bepridil	508	KG00108565	blood glucose increased	0.030520206317305565
+trial_2	bepridil	92	KG00100926	Infections, Upper Respiratory	0.030124520882964134
+trial_2	bepridil	441	KG00098262	cellulitis nos	0.02943357639014721
+trial_2	bepridil	212	KG00100576	shivers	0.02847854420542717
+trial_2	bepridil	253	KG00100232	Pleural effusion NOS (disorder)	0.028307661414146423
+trial_2	bepridil	246	KG00103338	Aspartate Aminotransferase Measurement	0.027824126183986664

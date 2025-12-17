@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2170037031173706
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1935243457555771
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.13846394419670105
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.13501717150211334
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.11814709007740021
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11502440273761749
+trial_1	placebo	68	KG00099901	nauseas	0.10855802893638611
+trial_1	placebo	46	KG00099121	Headache NOS	0.10703001171350479
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.10631100833415985
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10438135266304016
+trial_1	placebo	20	KG00098540	dehydration	0.10103308409452438
+trial_1	placebo	21	KG00098675	dyspnoea	0.09798991680145264
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09588098526000977
+trial_1	placebo	228	KG00114657	Weight below normal	0.09467868506908417
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09338104724884033
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09313910454511642
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09221098572015762
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09043525904417038
+trial_1	placebo	77	KG00098450	Constipation NOS	0.0804658755660057
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.07933831959962845
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07880295068025589
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07796334475278854
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07265733182430267
+trial_1	placebo	5	KG00099169	haematuria	0.0660523846745491
+trial_1	placebo	104	KG00097963	arthralgias	0.06272338330745697
+trial_1	placebo	126	KG00100076	Pain NOS	0.06258999556303024
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05991820991039276
+trial_1	placebo	114	KG00098933	fevers	0.05894838646054268
+trial_1	placebo	72	KG00103771	myalgias	0.05809728801250458
+trial_1	placebo	239	KG00100128	pareses	0.05636134371161461
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05632232874631882
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05525968596339226
+trial_1	placebo	85	KG00098474	coughs	0.05283159390091896
+trial_1	placebo	116	KG00098964	Pain in foot	0.048801615834236145
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.048107001930475235
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04786539822816849
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.047843292355537415
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.047124821692705154
+trial_1	placebo	18	KG00098307	Pain, Chest	0.04695328697562218
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.045601777732372284
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04557730630040169
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.045131124556064606
+trial_1	placebo	466	KG00101205	fall	0.04500197246670723
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.044659100472927094
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04335522651672363
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04319320619106293
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04314201697707176
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04307569935917854
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.042788002640008926
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04261493310332298
+trial_1	placebo	102	KG00097916	anxieties	0.04250374436378479
+trial_1	placebo	147	KG00098000	atelectases	0.04246153682470322
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.04227185994386673
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04148995131254196
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04118786379694939
+trial_1	placebo	82	KG00097697	abdomen distended	0.04089609161019325
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03988204523921013
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.0384366512298584
+trial_1	placebo	441	KG00098262	cellulitis nos	0.037433646619319916
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03739624843001366
+trial_1	placebo	136	KG00101582	Dry;skin	0.03724732622504234
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03707573190331459
+trial_1	placebo	257	KG00100922	Erythema NOS	0.03704223036766052
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03632986545562744
+trial_1	placebo	454	KG00098286	Pain, Neck	0.03630456700921059
+trial_1	placebo	4	KG00098817	epistaxis	0.035745926201343536
+trial_1	placebo	212	KG00100576	shivers	0.03557877615094185
+trial_1	placebo	282	KG00099309	hypernatraemia	0.035072460770606995
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.03428433835506439
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.034276872873306274
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03330812603235245
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03256019949913025
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.032150425016880035
+trial_1	placebo	121	KG00099190	haemorrhage	0.031993720680475235
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.03152189403772354
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.031175104901194572
+trial_1	placebo	382	KG00099200	haemorrhoids	0.030353935435414314
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030336415395140648
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.030174918472766876
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.029862355440855026
+trial_1	placebo	186	KG00101431	creatinine increased	0.02917175367474556
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.029051732271909714
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02881024032831192
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.028583906590938568
+trial_1	placebo	339	KG00100334	proteinurias	0.028545059263706207
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028368951752781868
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.027845662087202072
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.027299631386995316
+trial_1	placebo	234	KG00098669	dysgeusias	0.02689787745475769
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026782570406794548
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025884224101901054
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02569500170648098
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025449421256780624
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02523060142993927
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.0250394344329834
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.024701008573174477
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02469565160572529
+trial_1	placebo	154	KG00099686	Lymphopenias	0.024610288441181183
+trial_1	placebo	262	KG00101199	agitation	0.024549005553126335
+trial_1	placebo	363	KG00098184	burns injury	0.024446602910757065
+trial_2	beta-sitosterol	87	KG00098599	diarrhoea	0.2170037031173706
+trial_2	beta-sitosterol	78	KG00099326	Hypertensive diseases	0.1935243457555771
+trial_2	beta-sitosterol	189	KG00101580	Alanine aminotransferase increase	0.13846394419670105
+trial_2	beta-sitosterol	173	KG00098172	Bronchopneumonia NOS	0.13501717150211334
+trial_2	beta-sitosterol	64	KG00097734	Acrodermatitis, NOS	0.11814709007740021
+trial_2	beta-sitosterol	123	KG00099351	hypokalaemia	0.11502440273761749
+trial_2	beta-sitosterol	68	KG00099901	nauseas	0.10855802893638611
+trial_2	beta-sitosterol	46	KG00099121	Headache NOS	0.10703001171350479
+trial_2	beta-sitosterol	67	KG00098673	Dyspepsia, NOS	0.10631100833415985
+trial_2	beta-sitosterol	17	KG00097991	Asthenia NOS	0.10438135266304016
+trial_2	beta-sitosterol	20	KG00098540	dehydration	0.10103308409452438
+trial_2	beta-sitosterol	21	KG00098675	dyspnoea	0.09798991680145264
+trial_2	beta-sitosterol	188	KG00101579	Aspartate aminotransferase increase	0.09588098526000977
+trial_2	beta-sitosterol	228	KG00114657	Weight below normal	0.09467868506908417
+trial_2	beta-sitosterol	49	KG00099902	nausea with vomiting	0.09338104724884033
+trial_2	beta-sitosterol	9	KG00098432	Confusion NOS	0.09313910454511642
+trial_2	beta-sitosterol	37	KG00097696	Cramps, Abdominal	0.09221098572015762
+trial_2	beta-sitosterol	177	KG00099299	hyperglycaemia	0.09043525904417038
+trial_2	beta-sitosterol	77	KG00098450	Constipation NOS	0.0804658755660057
+trial_2	beta-sitosterol	101	KG00097901	Anorexia NOS	0.07933831959962845
+trial_2	beta-sitosterol	79	KG00100317	Insomnia, Primary	0.07880295068025589
+trial_2	beta-sitosterol	243	KG00100947	Micturition frequency increased	0.07796334475278854
+trial_2	beta-sitosterol	200	KG00098539	Disorders, Deglutition	0.07265733182430267
+trial_2	beta-sitosterol	5	KG00099169	haematuria	0.0660523846745491
+trial_2	beta-sitosterol	104	KG00097963	arthralgias	0.06272338330745697
+trial_2	beta-sitosterol	126	KG00100076	Pain NOS	0.06258999556303024
+trial_2	beta-sitosterol	350	KG00106765	decreased platelet count	0.05991820991039276
+trial_2	beta-sitosterol	114	KG00098933	fevers	0.05894838646054268
+trial_2	beta-sitosterol	72	KG00103771	myalgias	0.05809728801250458
+trial_2	beta-sitosterol	239	KG00100128	pareses	0.05636134371161461
+trial_2	beta-sitosterol	14	KG00097852	Anemia NOS	0.05632232874631882
+trial_2	beta-sitosterol	29	KG00099354	hyponatraemia	0.05525968596339226
+trial_2	beta-sitosterol	85	KG00098474	coughs	0.05283159390091896
+trial_2	beta-sitosterol	116	KG00098964	Pain in foot	0.048801615834236145
+trial_2	beta-sitosterol	139	KG00098855	Sinusitis, Ethmoid	0.048107001930475235
+trial_2	beta-sitosterol	86	KG00098565	Depression, Mental	0.04786539822816849
+trial_2	beta-sitosterol	179	KG00099342	hypocalcaemia	0.047843292355537415
+trial_2	beta-sitosterol	2	KG00100772	thrombocytopaenia	0.047124821692705154
+trial_2	beta-sitosterol	18	KG00098307	Pain, Chest	0.04695328697562218
+trial_2	beta-sitosterol	69	KG00100082	Palpitations NOS	0.045601777732372284
+trial_2	beta-sitosterol	76	KG00100450	Respiratory insufficiency, NOS	0.04557730630040169
+trial_2	beta-sitosterol	180	KG00099363	Hypotension NOS	0.045131124556064606
+trial_2	beta-sitosterol	466	KG00101205	fall	0.04500197246670723
+trial_2	beta-sitosterol	211	KG00100341	Pruritus NOS	0.044659100472927094
+trial_2	beta-sitosterol	131	KG00100948	Urinary tract infection (& [NOS])	0.04335522651672363
+trial_2	beta-sitosterol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04319320619106293
+trial_2	beta-sitosterol	355	KG00110857	lymphocyte count decreased	0.04314201697707176
+trial_2	beta-sitosterol	151	KG00098274	Infarction, Cerebral	0.04307569935917854
+trial_2	beta-sitosterol	38	KG00098066	Binocular vision disorders	0.042788002640008926
+trial_2	beta-sitosterol	191	KG00104055	Biliverdin increased	0.04261493310332298
+trial_2	beta-sitosterol	102	KG00097916	anxieties	0.04250374436378479
+trial_2	beta-sitosterol	147	KG00098000	atelectases	0.04246153682470322
+trial_2	beta-sitosterol	98	KG00097718	Incised wound, NOS	0.04227185994386673
+trial_2	beta-sitosterol	261	KG00101559	raised alkaline phosphatase	0.04148995131254196
+trial_2	beta-sitosterol	28	KG00099347	hypoglycaemia	0.04118786379694939
+trial_2	beta-sitosterol	82	KG00097697	abdomen distended	0.04089609161019325
+trial_2	beta-sitosterol	27	KG00099303	hyperkalaemia	0.03988204523921013
+trial_2	beta-sitosterol	61	KG00099501	Chronic Kidney Failure	0.0384366512298584
+trial_2	beta-sitosterol	441	KG00098262	cellulitis nos	0.037433646619319916
+trial_2	beta-sitosterol	122	KG00099321	Hypersensitivity NOS	0.03739624843001366
+trial_2	beta-sitosterol	136	KG00101582	Dry;skin	0.03724732622504234
+trial_2	beta-sitosterol	204	KG00098849	Esophagitis, Peptic	0.03707573190331459
+trial_2	beta-sitosterol	257	KG00100922	Erythema NOS	0.03704223036766052
+trial_2	beta-sitosterol	396	KG00100373	Embolism, Pulmonary	0.03632986545562744
+trial_2	beta-sitosterol	454	KG00098286	Pain, Neck	0.03630456700921059
+trial_2	beta-sitosterol	4	KG00098817	epistaxis	0.035745926201343536
+trial_2	beta-sitosterol	212	KG00100576	shivers	0.03557877615094185
+trial_2	beta-sitosterol	282	KG00099309	hypernatraemia	0.035072460770606995
+trial_2	beta-sitosterol	371	KG00098517	Cystitis (NOS)	0.03428433835506439
+trial_2	beta-sitosterol	253	KG00100232	Pleural effusion NOS (disorder)	0.034276872873306274
+trial_2	beta-sitosterol	194	KG00110727	Neutrophil Count Decreased	0.03330812603235245
+trial_2	beta-sitosterol	96	KG00101679	Unattended death NOS	0.03256019949913025
+trial_2	beta-sitosterol	249	KG00104430	hypoalbuminaemia	0.032150425016880035
+trial_2	beta-sitosterol	121	KG00099190	haemorrhage	0.031993720680475235
+trial_2	beta-sitosterol	341	KG00101472	Gamma-glutamyltransferase increased	0.03152189403772354
+trial_2	beta-sitosterol	271	KG00103813	reflex bradycardia	0.031175104901194572
+trial_2	beta-sitosterol	382	KG00099200	haemorrhoids	0.030353935435414314
+trial_2	beta-sitosterol	30	KG00099500	Acute Kidney Failure	0.030336415395140648
+trial_2	beta-sitosterol	286	KG00101110	Retention, Urinary	0.030174918472766876
+trial_2	beta-sitosterol	422	KG00101429	Creatine phosphokinase increased	0.029862355440855026
+trial_2	beta-sitosterol	186	KG00101431	creatinine increased	0.02917175367474556
+trial_2	beta-sitosterol	361	KG00098004	Fibrillation, Atrial	0.029051732271909714
+trial_2	beta-sitosterol	33	KG00100094	Pancreatitis NOS	0.02881024032831192
+trial_2	beta-sitosterol	152	KG00099402	INCONTINENCE NOS	0.028583906590938568
+trial_2	beta-sitosterol	339	KG00100334	proteinurias	0.028545059263706207
+trial_2	beta-sitosterol	31	KG00099872	Infarction, Myocardial	0.028368951752781868
+trial_2	beta-sitosterol	199	KG00098371	Rhinitis (chronic) NOS	0.027845662087202072
+trial_2	beta-sitosterol	130	KG00100683	Stomatitis NOS	0.027299631386995316
+trial_2	beta-sitosterol	234	KG00098669	dysgeusias	0.02689787745475769
+trial_2	beta-sitosterol	75	KG00100195	Dolens, Phlegmasia Alba	0.026782570406794548
+trial_2	beta-sitosterol	221	KG00101207	peripheral oedema	0.025884224101901054
+trial_2	beta-sitosterol	97	KG00104198	LIVER ENZYME ELEVATED	0.02569500170648098
+trial_2	beta-sitosterol	276	KG00099127	Arrest, Cardiac	0.025449421256780624
+trial_2	beta-sitosterol	92	KG00100926	Infections, Upper Respiratory	0.02523060142993927
+trial_2	beta-sitosterol	288	KG00101223	hypophosphataemia	0.0250394344329834
+trial_2	beta-sitosterol	195	KG00097814	Atopic Rhinitis	0.024701008573174477
+trial_2	beta-sitosterol	35	KG00101507	hypomagnesaemia	0.02469565160572529
+trial_2	beta-sitosterol	154	KG00099686	Lymphopenias	0.024610288441181183
+trial_2	beta-sitosterol	262	KG00101199	agitation	0.024549005553126335
+trial_2	beta-sitosterol	363	KG00098184	burns injury	0.024446602910757065

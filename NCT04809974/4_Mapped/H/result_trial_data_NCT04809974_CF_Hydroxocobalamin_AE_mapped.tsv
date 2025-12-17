@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	46	KG00099121	Headache NOS	0.06629491597414017
+trial_1	placebo	87	KG00098599	diarrhoea	0.06073589250445366
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.060282640159130096
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.057433489710092545
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.054185640066862106
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.048447366803884506
+trial_1	placebo	9	KG00098432	Confusion NOS	0.046022847294807434
+trial_1	placebo	126	KG00100076	Pain NOS	0.0446036122739315
+trial_1	placebo	21	KG00098675	dyspnoea	0.04454809054732323
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04416448622941971
+trial_1	placebo	123	KG00099351	hypokalaemia	0.041176680475473404
+trial_1	placebo	114	KG00098933	fevers	0.04092000052332878
+trial_1	placebo	14	KG00097852	Anemia NOS	0.035812169313430786
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0354619137942791
+trial_1	placebo	68	KG00099901	nauseas	0.034632664173841476
+trial_1	placebo	77	KG00098450	Constipation NOS	0.034069232642650604
+trial_1	placebo	20	KG00098540	dehydration	0.033608078956604004
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.033414073288440704
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03221476078033447
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.031089626252651215
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.030945517122745514
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.030336879193782806
+trial_1	placebo	121	KG00099190	haemorrhage	0.03007378801703453
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02966669201850891
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.02954123727977276
+trial_1	placebo	147	KG00098000	atelectases	0.02942866086959839
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029234446585178375
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.028382550925016403
+trial_1	placebo	5	KG00099169	haematuria	0.02764090523123741
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02762627974152565
+trial_1	placebo	86	KG00098565	Depression, Mental	0.026860343292355537
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02673773281276226
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026482107117772102
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02621053159236908
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.025433139875531197
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.0252718273550272
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.024197397753596306
+trial_1	placebo	72	KG00103771	myalgias	0.024096691980957985
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023787900805473328
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02334984950721264
+trial_1	placebo	104	KG00097963	arthralgias	0.022951612249016762
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.022903073579072952
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.02234622649848461
+trial_1	placebo	466	KG00101205	fall	0.022175701335072517
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021941928192973137
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02164873667061329
+trial_1	placebo	85	KG00098474	coughs	0.02155136503279209
+trial_1	placebo	269	KG00100399	pyaemia	0.02101767063140869
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.020677976310253143
+trial_1	placebo	239	KG00100128	pareses	0.020613715052604675
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.020517120137810707
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02039402164518833
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.020294776186347008
+trial_1	placebo	228	KG00114657	Weight below normal	0.020151207223534584
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01939515583217144
+trial_1	placebo	350	KG00106765	decreased platelet count	0.019356651231646538
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.019234195351600647
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019190747290849686
+trial_1	placebo	116	KG00098964	Pain in foot	0.019009703770279884
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.018928570672869682
+trial_1	placebo	29	KG00099354	hyponatraemia	0.018727418035268784
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018514404073357582
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.018336208537220955
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.017795344814658165
+trial_1	placebo	164	KG00108827	ileus colon	0.01743943616747856
+trial_1	placebo	102	KG00097916	anxieties	0.017228085547685623
+trial_1	placebo	282	KG00099309	hypernatraemia	0.016842110082507133
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.016599107533693314
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016145016998052597
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.016078369691967964
+trial_1	placebo	4	KG00098817	epistaxis	0.015999460592865944
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015623755753040314
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015221450477838516
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0151094114407897
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.014770674519240856
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.014560915529727936
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01442718505859375
+trial_1	placebo	503	KG00102612	low haemoglobin	0.014022870920598507
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.014015508815646172
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.013972446322441101
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013666139915585518
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.013655326329171658
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013595924712717533
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.01335242111235857
+trial_1	placebo	187	KG00101498	Hemorrhage, Intracranial	0.013284827582538128
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013175911270081997
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.01316986046731472
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.013082088902592659
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.013011209666728973
+trial_1	placebo	262	KG00101199	agitation	0.01300208829343319
+trial_1	placebo	456	KG00099420	Influenzae	0.01298618782311678
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.012982002459466457
+trial_1	placebo	425	KG00098146	Chronic Brain Damage	0.01283693965524435
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.012734285555779934
+trial_1	placebo	24	KG00099015	Hemorrhage, Gastrointestinal	0.012532226741313934
+trial_1	placebo	221	KG00101207	peripheral oedema	0.01242750696837902
+trial_1	placebo	390	KG00100095	pancytopenias	0.012408822774887085
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.012357602827250957
+trial_1	placebo	292	KG00105137	Haemorrhage - rectal	0.012249061837792397
+trial_1	placebo	258	KG00101112	Prosthesis-Related Infections	0.012071099132299423
+trial_2	hydroxocobalamin	46	KG00099121	Headache NOS	0.06629491597414017
+trial_2	hydroxocobalamin	87	KG00098599	diarrhoea	0.06073589250445366
+trial_2	hydroxocobalamin	78	KG00099326	Hypertensive diseases	0.060282640159130096
+trial_2	hydroxocobalamin	177	KG00099299	hyperglycaemia	0.057433489710092545
+trial_2	hydroxocobalamin	173	KG00098172	Bronchopneumonia NOS	0.054185640066862106
+trial_2	hydroxocobalamin	37	KG00097696	Cramps, Abdominal	0.048447366803884506
+trial_2	hydroxocobalamin	9	KG00098432	Confusion NOS	0.046022847294807434
+trial_2	hydroxocobalamin	126	KG00100076	Pain NOS	0.0446036122739315
+trial_2	hydroxocobalamin	21	KG00098675	dyspnoea	0.04454809054732323
+trial_2	hydroxocobalamin	17	KG00097991	Asthenia NOS	0.04416448622941971
+trial_2	hydroxocobalamin	123	KG00099351	hypokalaemia	0.041176680475473404
+trial_2	hydroxocobalamin	114	KG00098933	fevers	0.04092000052332878
+trial_2	hydroxocobalamin	14	KG00097852	Anemia NOS	0.035812169313430786
+trial_2	hydroxocobalamin	96	KG00101679	Unattended death NOS	0.0354619137942791
+trial_2	hydroxocobalamin	68	KG00099901	nauseas	0.034632664173841476
+trial_2	hydroxocobalamin	77	KG00098450	Constipation NOS	0.034069232642650604
+trial_2	hydroxocobalamin	20	KG00098540	dehydration	0.033608078956604004
+trial_2	hydroxocobalamin	180	KG00099363	Hypotension NOS	0.033414073288440704
+trial_2	hydroxocobalamin	151	KG00098274	Infarction, Cerebral	0.03221476078033447
+trial_2	hydroxocobalamin	276	KG00099127	Arrest, Cardiac	0.031089626252651215
+trial_2	hydroxocobalamin	2	KG00100772	thrombocytopaenia	0.030945517122745514
+trial_2	hydroxocobalamin	61	KG00099501	Chronic Kidney Failure	0.030336879193782806
+trial_2	hydroxocobalamin	121	KG00099190	haemorrhage	0.03007378801703453
+trial_2	hydroxocobalamin	79	KG00100317	Insomnia, Primary	0.02966669201850891
+trial_2	hydroxocobalamin	67	KG00098673	Dyspepsia, NOS	0.02954123727977276
+trial_2	hydroxocobalamin	147	KG00098000	atelectases	0.02942866086959839
+trial_2	hydroxocobalamin	396	KG00100373	Embolism, Pulmonary	0.029234446585178375
+trial_2	hydroxocobalamin	49	KG00099902	nausea with vomiting	0.028382550925016403
+trial_2	hydroxocobalamin	5	KG00099169	haematuria	0.02764090523123741
+trial_2	hydroxocobalamin	200	KG00098539	Disorders, Deglutition	0.02762627974152565
+trial_2	hydroxocobalamin	86	KG00098565	Depression, Mental	0.026860343292355537
+trial_2	hydroxocobalamin	122	KG00099321	Hypersensitivity NOS	0.02673773281276226
+trial_2	hydroxocobalamin	142	KG00100923	Unspecified infectious and parasitic diseases	0.026482107117772102
+trial_2	hydroxocobalamin	18	KG00098307	Pain, Chest	0.02621053159236908
+trial_2	hydroxocobalamin	76	KG00100450	Respiratory insufficiency, NOS	0.025433139875531197
+trial_2	hydroxocobalamin	75	KG00100195	Dolens, Phlegmasia Alba	0.0252718273550272
+trial_2	hydroxocobalamin	28	KG00099347	hypoglycaemia	0.024197397753596306
+trial_2	hydroxocobalamin	72	KG00103771	myalgias	0.024096691980957985
+trial_2	hydroxocobalamin	361	KG00098004	Fibrillation, Atrial	0.023787900805473328
+trial_2	hydroxocobalamin	38	KG00098066	Binocular vision disorders	0.02334984950721264
+trial_2	hydroxocobalamin	104	KG00097963	arthralgias	0.022951612249016762
+trial_2	hydroxocobalamin	179	KG00099342	hypocalcaemia	0.022903073579072952
+trial_2	hydroxocobalamin	64	KG00097734	Acrodermatitis, NOS	0.02234622649848461
+trial_2	hydroxocobalamin	466	KG00101205	fall	0.022175701335072517
+trial_2	hydroxocobalamin	441	KG00098262	cellulitis nos	0.021941928192973137
+trial_2	hydroxocobalamin	268	KG00099557	Heart Failure, Left-Sided	0.02164873667061329
+trial_2	hydroxocobalamin	85	KG00098474	coughs	0.02155136503279209
+trial_2	hydroxocobalamin	269	KG00100399	pyaemia	0.02101767063140869
+trial_2	hydroxocobalamin	170	KG00108926	Neutropenia, Febrile	0.020677976310253143
+trial_2	hydroxocobalamin	239	KG00100128	pareses	0.020613715052604675
+trial_2	hydroxocobalamin	27	KG00099303	hyperkalaemia	0.020517120137810707
+trial_2	hydroxocobalamin	254	KG00100774	Thrombosis NOS	0.02039402164518833
+trial_2	hydroxocobalamin	30	KG00099500	Acute Kidney Failure	0.020294776186347008
+trial_2	hydroxocobalamin	228	KG00114657	Weight below normal	0.020151207223534584
+trial_2	hydroxocobalamin	15	KG00097882	Angina pectoris NOS	0.01939515583217144
+trial_2	hydroxocobalamin	350	KG00106765	decreased platelet count	0.019356651231646538
+trial_2	hydroxocobalamin	253	KG00100232	Pleural effusion NOS (disorder)	0.019234195351600647
+trial_2	hydroxocobalamin	92	KG00100926	Infections, Upper Respiratory	0.019190747290849686
+trial_2	hydroxocobalamin	116	KG00098964	Pain in foot	0.019009703770279884
+trial_2	hydroxocobalamin	139	KG00098855	Sinusitis, Ethmoid	0.018928570672869682
+trial_2	hydroxocobalamin	29	KG00099354	hyponatraemia	0.018727418035268784
+trial_2	hydroxocobalamin	31	KG00099872	Infarction, Myocardial	0.018514404073357582
+trial_2	hydroxocobalamin	69	KG00100082	Palpitations NOS	0.018336208537220955
+trial_2	hydroxocobalamin	131	KG00100948	Urinary tract infection (& [NOS])	0.017795344814658165
+trial_2	hydroxocobalamin	164	KG00108827	ileus colon	0.01743943616747856
+trial_2	hydroxocobalamin	102	KG00097916	anxieties	0.017228085547685623
+trial_2	hydroxocobalamin	282	KG00099309	hypernatraemia	0.016842110082507133
+trial_2	hydroxocobalamin	366	KG00098275	Attack, Transient Ischemic	0.016599107533693314
+trial_2	hydroxocobalamin	286	KG00101110	Retention, Urinary	0.016145016998052597
+trial_2	hydroxocobalamin	1	KG00099959	Neutropenia NOS	0.016078369691967964
+trial_2	hydroxocobalamin	4	KG00098817	epistaxis	0.015999460592865944
+trial_2	hydroxocobalamin	144	KG00099610	Leukopenia NOS	0.015623755753040314
+trial_2	hydroxocobalamin	101	KG00097901	Anorexia NOS	0.015221450477838516
+trial_2	hydroxocobalamin	22	KG00098705	Edema (NOS)	0.0151094114407897
+trial_2	hydroxocobalamin	394	KG00100243	Pneumonia, Aspiration	0.014770674519240856
+trial_2	hydroxocobalamin	163	KG00104050	bowel obstructions small	0.014560915529727936
+trial_2	hydroxocobalamin	11	KG00097993	Asthma NOS	0.01442718505859375
+trial_2	hydroxocobalamin	503	KG00102612	low haemoglobin	0.014022870920598507
+trial_2	hydroxocobalamin	33	KG00100094	Pancreatitis NOS	0.014015508815646172
+trial_2	hydroxocobalamin	189	KG00101580	Alanine aminotransferase increase	0.013972446322441101
+trial_2	hydroxocobalamin	25	KG00099134	congestive failures heart	0.013666139915585518
+trial_2	hydroxocobalamin	271	KG00103813	reflex bradycardia	0.013655326329171658
+trial_2	hydroxocobalamin	98	KG00097718	Incised wound, NOS	0.013595924712717533
+trial_2	hydroxocobalamin	400	KG00100925	Upper gastrointestinal haemorrhage	0.01335242111235857
+trial_2	hydroxocobalamin	187	KG00101498	Hemorrhage, Intracranial	0.013284827582538128
+trial_2	hydroxocobalamin	194	KG00110727	Neutrophil Count Decreased	0.013175911270081997
+trial_2	hydroxocobalamin	371	KG00098517	Cystitis (NOS)	0.01316986046731472
+trial_2	hydroxocobalamin	243	KG00100947	Micturition frequency increased	0.013082088902592659
+trial_2	hydroxocobalamin	138	KG00098796	epidemic vomiting syndrome	0.013011209666728973
+trial_2	hydroxocobalamin	262	KG00101199	agitation	0.01300208829343319
+trial_2	hydroxocobalamin	456	KG00099420	Influenzae	0.01298618782311678
+trial_2	hydroxocobalamin	561	KG00104180	Diarrhoea, Clostridium difficile	0.012982002459466457
+trial_2	hydroxocobalamin	425	KG00098146	Chronic Brain Damage	0.01283693965524435
+trial_2	hydroxocobalamin	19	KG00098331	Cholecystitis NOS	0.012734285555779934
+trial_2	hydroxocobalamin	24	KG00099015	Hemorrhage, Gastrointestinal	0.012532226741313934
+trial_2	hydroxocobalamin	221	KG00101207	peripheral oedema	0.01242750696837902
+trial_2	hydroxocobalamin	390	KG00100095	pancytopenias	0.012408822774887085
+trial_2	hydroxocobalamin	133	KG00101370	neuropathies sensory	0.012357602827250957
+trial_2	hydroxocobalamin	292	KG00105137	Haemorrhage - rectal	0.012249061837792397
+trial_2	hydroxocobalamin	258	KG00101112	Prosthesis-Related Infections	0.012071099132299423

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.07654742151498795
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06331642717123032
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06115804612636566
+trial_1	placebo	20	KG00098540	dehydration	0.04454455524682999
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04411759972572327
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04391760006546974
+trial_1	placebo	9	KG00098432	Confusion NOS	0.041427455842494965
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.040310557931661606
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03824738413095474
+trial_1	placebo	21	KG00098675	dyspnoea	0.03775111585855484
+trial_1	placebo	14	KG00097852	Anemia NOS	0.037146709859371185
+trial_1	placebo	46	KG00099121	Headache NOS	0.03650129586458206
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03623418137431145
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03373273089528084
+trial_1	placebo	77	KG00098450	Constipation NOS	0.033424392342567444
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.031218288466334343
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.031080227345228195
+trial_1	placebo	68	KG00099901	nauseas	0.030931927263736725
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.030842959880828857
+trial_1	placebo	126	KG00100076	Pain NOS	0.030445341020822525
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03039664402604103
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.029578037559986115
+trial_1	placebo	114	KG00098933	fevers	0.028588170185685158
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.026400810107588768
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.026198990643024445
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.026110000908374786
+trial_1	placebo	147	KG00098000	atelectases	0.02512262389063835
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02407270297408104
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.023782186210155487
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.02341391332447529
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.023169443011283875
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.022736290469765663
+trial_1	placebo	85	KG00098474	coughs	0.022671988233923912
+trial_1	placebo	29	KG00099354	hyponatraemia	0.022095240652561188
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.021801307797431946
+trial_1	placebo	5	KG00099169	haematuria	0.021596327424049377
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.021457545459270477
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.021205201745033264
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.021058181300759315
+trial_1	placebo	350	KG00106765	decreased platelet count	0.020815284922719002
+trial_1	placebo	228	KG00114657	Weight below normal	0.020184636116027832
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.019936712458729744
+trial_1	placebo	121	KG00099190	haemorrhage	0.019885865971446037
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01964832842350006
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.019631413742899895
+trial_1	placebo	72	KG00103771	myalgias	0.019547298550605774
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.018230590969324112
+trial_1	placebo	239	KG00100128	pareses	0.017689961940050125
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01761685311794281
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01753237657248974
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01738278940320015
+trial_1	placebo	104	KG00097963	arthralgias	0.01697295717895031
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.0169391930103302
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01648176647722721
+trial_1	placebo	82	KG00097697	abdomen distended	0.016464075073599815
+trial_1	placebo	282	KG00099309	hypernatraemia	0.016376320272684097
+trial_1	placebo	164	KG00108827	ileus colon	0.016343003138899803
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01633460260927677
+trial_1	placebo	18	KG00098307	Pain, Chest	0.016290584579110146
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016090435907244682
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.015911640599370003
+trial_1	placebo	269	KG00100399	pyaemia	0.01575874350965023
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015564851462841034
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.015537832863628864
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015238192863762379
+trial_1	placebo	86	KG00098565	Depression, Mental	0.015185960568487644
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.015171775594353676
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.015021618455648422
+trial_1	placebo	212	KG00100576	shivers	0.01411405112594366
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01408261526376009
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01396729052066803
+trial_1	placebo	234	KG00098669	dysgeusias	0.01395474560558796
+trial_1	placebo	100	KG00097815	alopecias	0.013940214179456234
+trial_1	placebo	186	KG00101431	creatinine increased	0.01391672808676958
+trial_1	placebo	441	KG00098262	cellulitis nos	0.013645856641232967
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.013581881299614906
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.013466406613588333
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.013340748846530914
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.013312132097780704
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.013166199438273907
+trial_1	placebo	221	KG00101207	peripheral oedema	0.013021157123148441
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012661545537412167
+trial_1	placebo	257	KG00100922	Erythema NOS	0.012623832561075687
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01260283775627613
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012525707483291626
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.012222298420965672
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012057737447321415
+trial_1	placebo	116	KG00098964	Pain in foot	0.012021275237202644
+trial_1	placebo	136	KG00101582	Dry;skin	0.011984388343989849
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.011882544495165348
+trial_1	placebo	102	KG00097916	anxieties	0.011881688609719276
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.01185568980872631
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.011807822622358799
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.011565642431378365
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.011348797008395195
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.011335082352161407
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.011196651495993137
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01092078723013401
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.010915864259004593
+trial_1	placebo	522	KG00100078	Postoperative Pain	0.010871652513742447
+trial_2	hexaminolevulinate	87	KG00098599	diarrhoea	0.07654742151498795
+trial_2	hexaminolevulinate	78	KG00099326	Hypertensive diseases	0.06331642717123032
+trial_2	hexaminolevulinate	177	KG00099299	hyperglycaemia	0.06115804612636566
+trial_2	hexaminolevulinate	20	KG00098540	dehydration	0.04454455524682999
+trial_2	hexaminolevulinate	37	KG00097696	Cramps, Abdominal	0.04411759972572327
+trial_2	hexaminolevulinate	123	KG00099351	hypokalaemia	0.04391760006546974
+trial_2	hexaminolevulinate	9	KG00098432	Confusion NOS	0.041427455842494965
+trial_2	hexaminolevulinate	173	KG00098172	Bronchopneumonia NOS	0.040310557931661606
+trial_2	hexaminolevulinate	17	KG00097991	Asthenia NOS	0.03824738413095474
+trial_2	hexaminolevulinate	21	KG00098675	dyspnoea	0.03775111585855484
+trial_2	hexaminolevulinate	14	KG00097852	Anemia NOS	0.037146709859371185
+trial_2	hexaminolevulinate	46	KG00099121	Headache NOS	0.03650129586458206
+trial_2	hexaminolevulinate	64	KG00097734	Acrodermatitis, NOS	0.03623418137431145
+trial_2	hexaminolevulinate	2	KG00100772	thrombocytopaenia	0.03373273089528084
+trial_2	hexaminolevulinate	77	KG00098450	Constipation NOS	0.033424392342567444
+trial_2	hexaminolevulinate	200	KG00098539	Disorders, Deglutition	0.031218288466334343
+trial_2	hexaminolevulinate	49	KG00099902	nausea with vomiting	0.031080227345228195
+trial_2	hexaminolevulinate	68	KG00099901	nauseas	0.030931927263736725
+trial_2	hexaminolevulinate	67	KG00098673	Dyspepsia, NOS	0.030842959880828857
+trial_2	hexaminolevulinate	126	KG00100076	Pain NOS	0.030445341020822525
+trial_2	hexaminolevulinate	189	KG00101580	Alanine aminotransferase increase	0.03039664402604103
+trial_2	hexaminolevulinate	188	KG00101579	Aspartate aminotransferase increase	0.029578037559986115
+trial_2	hexaminolevulinate	114	KG00098933	fevers	0.028588170185685158
+trial_2	hexaminolevulinate	122	KG00099321	Hypersensitivity NOS	0.026400810107588768
+trial_2	hexaminolevulinate	180	KG00099363	Hypotension NOS	0.026198990643024445
+trial_2	hexaminolevulinate	61	KG00099501	Chronic Kidney Failure	0.026110000908374786
+trial_2	hexaminolevulinate	147	KG00098000	atelectases	0.02512262389063835
+trial_2	hexaminolevulinate	76	KG00100450	Respiratory insufficiency, NOS	0.02407270297408104
+trial_2	hexaminolevulinate	79	KG00100317	Insomnia, Primary	0.023782186210155487
+trial_2	hexaminolevulinate	151	KG00098274	Infarction, Cerebral	0.02341391332447529
+trial_2	hexaminolevulinate	179	KG00099342	hypocalcaemia	0.023169443011283875
+trial_2	hexaminolevulinate	396	KG00100373	Embolism, Pulmonary	0.022736290469765663
+trial_2	hexaminolevulinate	85	KG00098474	coughs	0.022671988233923912
+trial_2	hexaminolevulinate	29	KG00099354	hyponatraemia	0.022095240652561188
+trial_2	hexaminolevulinate	142	KG00100923	Unspecified infectious and parasitic diseases	0.021801307797431946
+trial_2	hexaminolevulinate	5	KG00099169	haematuria	0.021596327424049377
+trial_2	hexaminolevulinate	96	KG00101679	Unattended death NOS	0.021457545459270477
+trial_2	hexaminolevulinate	131	KG00100948	Urinary tract infection (& [NOS])	0.021205201745033264
+trial_2	hexaminolevulinate	243	KG00100947	Micturition frequency increased	0.021058181300759315
+trial_2	hexaminolevulinate	350	KG00106765	decreased platelet count	0.020815284922719002
+trial_2	hexaminolevulinate	228	KG00114657	Weight below normal	0.020184636116027832
+trial_2	hexaminolevulinate	28	KG00099347	hypoglycaemia	0.019936712458729744
+trial_2	hexaminolevulinate	121	KG00099190	haemorrhage	0.019885865971446037
+trial_2	hexaminolevulinate	276	KG00099127	Arrest, Cardiac	0.01964832842350006
+trial_2	hexaminolevulinate	27	KG00099303	hyperkalaemia	0.019631413742899895
+trial_2	hexaminolevulinate	72	KG00103771	myalgias	0.019547298550605774
+trial_2	hexaminolevulinate	30	KG00099500	Acute Kidney Failure	0.018230590969324112
+trial_2	hexaminolevulinate	239	KG00100128	pareses	0.017689961940050125
+trial_2	hexaminolevulinate	253	KG00100232	Pleural effusion NOS (disorder)	0.01761685311794281
+trial_2	hexaminolevulinate	75	KG00100195	Dolens, Phlegmasia Alba	0.01753237657248974
+trial_2	hexaminolevulinate	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01738278940320015
+trial_2	hexaminolevulinate	104	KG00097963	arthralgias	0.01697295717895031
+trial_2	hexaminolevulinate	31	KG00099872	Infarction, Myocardial	0.0169391930103302
+trial_2	hexaminolevulinate	249	KG00104430	hypoalbuminaemia	0.01648176647722721
+trial_2	hexaminolevulinate	82	KG00097697	abdomen distended	0.016464075073599815
+trial_2	hexaminolevulinate	282	KG00099309	hypernatraemia	0.016376320272684097
+trial_2	hexaminolevulinate	164	KG00108827	ileus colon	0.016343003138899803
+trial_2	hexaminolevulinate	38	KG00098066	Binocular vision disorders	0.01633460260927677
+trial_2	hexaminolevulinate	18	KG00098307	Pain, Chest	0.016290584579110146
+trial_2	hexaminolevulinate	194	KG00110727	Neutrophil Count Decreased	0.016090435907244682
+trial_2	hexaminolevulinate	261	KG00101559	raised alkaline phosphatase	0.015911640599370003
+trial_2	hexaminolevulinate	269	KG00100399	pyaemia	0.01575874350965023
+trial_2	hexaminolevulinate	211	KG00100341	Pruritus NOS	0.015564851462841034
+trial_2	hexaminolevulinate	144	KG00099610	Leukopenia NOS	0.015537832863628864
+trial_2	hexaminolevulinate	101	KG00097901	Anorexia NOS	0.015238192863762379
+trial_2	hexaminolevulinate	86	KG00098565	Depression, Mental	0.015185960568487644
+trial_2	hexaminolevulinate	361	KG00098004	Fibrillation, Atrial	0.015171775594353676
+trial_2	hexaminolevulinate	1	KG00099959	Neutropenia NOS	0.015021618455648422
+trial_2	hexaminolevulinate	212	KG00100576	shivers	0.01411405112594366
+trial_2	hexaminolevulinate	139	KG00098855	Sinusitis, Ethmoid	0.01408261526376009
+trial_2	hexaminolevulinate	355	KG00110857	lymphocyte count decreased	0.01396729052066803
+trial_2	hexaminolevulinate	234	KG00098669	dysgeusias	0.01395474560558796
+trial_2	hexaminolevulinate	100	KG00097815	alopecias	0.013940214179456234
+trial_2	hexaminolevulinate	186	KG00101431	creatinine increased	0.01391672808676958
+trial_2	hexaminolevulinate	441	KG00098262	cellulitis nos	0.013645856641232967
+trial_2	hexaminolevulinate	92	KG00100926	Infections, Upper Respiratory	0.013581881299614906
+trial_2	hexaminolevulinate	286	KG00101110	Retention, Urinary	0.013466406613588333
+trial_2	hexaminolevulinate	69	KG00100082	Palpitations NOS	0.013340748846530914
+trial_2	hexaminolevulinate	163	KG00104050	bowel obstructions small	0.013312132097780704
+trial_2	hexaminolevulinate	36	KG00106434	Vision, Blurring Of	0.013166199438273907
+trial_2	hexaminolevulinate	221	KG00101207	peripheral oedema	0.013021157123148441
+trial_2	hexaminolevulinate	191	KG00104055	Biliverdin increased	0.012661545537412167
+trial_2	hexaminolevulinate	257	KG00100922	Erythema NOS	0.012623832561075687
+trial_2	hexaminolevulinate	154	KG00099686	Lymphopenias	0.01260283775627613
+trial_2	hexaminolevulinate	371	KG00098517	Cystitis (NOS)	0.012525707483291626
+trial_2	hexaminolevulinate	33	KG00100094	Pancreatitis NOS	0.012222298420965672
+trial_2	hexaminolevulinate	130	KG00100683	Stomatitis NOS	0.012057737447321415
+trial_2	hexaminolevulinate	116	KG00098964	Pain in foot	0.012021275237202644
+trial_2	hexaminolevulinate	136	KG00101582	Dry;skin	0.011984388343989849
+trial_2	hexaminolevulinate	288	KG00101223	hypophosphataemia	0.011882544495165348
+trial_2	hexaminolevulinate	102	KG00097916	anxieties	0.011881688609719276
+trial_2	hexaminolevulinate	35	KG00101507	hypomagnesaemia	0.01185568980872631
+trial_2	hexaminolevulinate	15	KG00097882	Angina pectoris NOS	0.011807822622358799
+trial_2	hexaminolevulinate	22	KG00098705	Edema (NOS)	0.011565642431378365
+trial_2	hexaminolevulinate	138	KG00098796	epidemic vomiting syndrome	0.011348797008395195
+trial_2	hexaminolevulinate	133	KG00101370	neuropathies sensory	0.011335082352161407
+trial_2	hexaminolevulinate	213	KG00100600	Infectious Skin Diseases	0.011196651495993137
+trial_2	hexaminolevulinate	508	KG00108565	blood glucose increased	0.01092078723013401
+trial_2	hexaminolevulinate	195	KG00097814	Atopic Rhinitis	0.010915864259004593
+trial_2	hexaminolevulinate	522	KG00100078	Postoperative Pain	0.010871652513742447

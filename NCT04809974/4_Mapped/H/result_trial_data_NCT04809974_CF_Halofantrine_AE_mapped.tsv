@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.22735174000263214
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.19475576281547546
+trial_1	placebo	9	KG00098432	Confusion NOS	0.16042520105838776
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.15600772202014923
+trial_1	placebo	46	KG00099121	Headache NOS	0.12705379724502563
+trial_1	placebo	68	KG00099901	nauseas	0.1265103667974472
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.12489154189825058
+trial_1	placebo	21	KG00098675	dyspnoea	0.12074553966522217
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11776949465274811
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.11743427067995071
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11528950184583664
+trial_1	placebo	228	KG00114657	Weight below normal	0.11481274664402008
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11237479001283646
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11227893084287643
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.10788634419441223
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10437114536762238
+trial_1	placebo	20	KG00098540	dehydration	0.10210245847702026
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.0925835520029068
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08414728939533234
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08343110978603363
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07740699499845505
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07634270191192627
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07570815831422806
+trial_1	placebo	114	KG00098933	fevers	0.0710846558213234
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06982572376728058
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0683538094162941
+trial_1	placebo	126	KG00100076	Pain NOS	0.06811028718948364
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06637266278266907
+trial_1	placebo	85	KG00098474	coughs	0.06507592648267746
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06359925866127014
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06333629786968231
+trial_1	placebo	239	KG00100128	pareses	0.062251754105091095
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.062003638595342636
+trial_1	placebo	104	KG00097963	arthralgias	0.057244930416345596
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05684127286076546
+trial_1	placebo	102	KG00097916	anxieties	0.055451106280088425
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05482884496450424
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.053824733942747116
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05333951488137245
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.052265096455812454
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.050032299011945724
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.048393748700618744
+trial_1	placebo	5	KG00099169	haematuria	0.04785619676113129
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04744264483451843
+trial_1	placebo	72	KG00103771	myalgias	0.046425122767686844
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.046242065727710724
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04579107090830803
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04453996941447258
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04361255094408989
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.040927767753601074
+trial_1	placebo	116	KG00098964	Pain in foot	0.04057365655899048
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0399053581058979
+trial_1	placebo	18	KG00098307	Pain, Chest	0.039783839136362076
+trial_1	placebo	147	KG00098000	atelectases	0.03964534029364586
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03952639549970627
+trial_1	placebo	262	KG00101199	agitation	0.03949557617306709
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03939832001924515
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03890690952539444
+trial_1	placebo	234	KG00098669	dysgeusias	0.038715019822120667
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03801772743463516
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.037380218505859375
+trial_1	placebo	242	KG00100855	tremors	0.03666302561759949
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03655136004090309
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03643830120563507
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.036408018320798874
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03631780669093132
+trial_1	placebo	269	KG00100399	pyaemia	0.03593454137444496
+trial_1	placebo	82	KG00097697	abdomen distended	0.0355624258518219
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03499603644013405
+trial_1	placebo	121	KG00099190	haemorrhage	0.03345992788672447
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.033119648694992065
+trial_1	placebo	186	KG00101431	creatinine increased	0.03294820338487625
+trial_1	placebo	466	KG00101205	fall	0.03267886862158775
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03246733918786049
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03166155144572258
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03139082342386246
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.030946724116802216
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03058755025267601
+trial_1	placebo	136	KG00101582	Dry;skin	0.030259311199188232
+trial_1	placebo	66	KG00098642	drowsiness	0.030130282044410706
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02966216392815113
+trial_1	placebo	300	KG00101064	xerostomia	0.02941022999584675
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029407013207674026
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02829703874886036
+trial_1	placebo	154	KG00099686	Lymphopenias	0.028258483856916428
+trial_1	placebo	339	KG00100334	proteinurias	0.028055734932422638
+trial_1	placebo	164	KG00108827	ileus colon	0.02780977450311184
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.027528803795576096
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02743494138121605
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02735080197453499
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.026913223788142204
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026627590879797935
+trial_1	placebo	4	KG00098817	epistaxis	0.026479046791791916
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02589336968958378
+trial_1	placebo	212	KG00100576	shivers	0.025615980848670006
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02543429285287857
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.025386132299900055
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.025312822312116623
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.025230443105101585
+trial_1	placebo	100	KG00097815	alopecias	0.02430199272930622
+trial_2	halofantrine	87	KG00098599	diarrhoea	0.22735174000263214
+trial_2	halofantrine	78	KG00099326	Hypertensive diseases	0.19475576281547546
+trial_2	halofantrine	9	KG00098432	Confusion NOS	0.16042520105838776
+trial_2	halofantrine	17	KG00097991	Asthenia NOS	0.15600772202014923
+trial_2	halofantrine	46	KG00099121	Headache NOS	0.12705379724502563
+trial_2	halofantrine	68	KG00099901	nauseas	0.1265103667974472
+trial_2	halofantrine	49	KG00099902	nausea with vomiting	0.12489154189825058
+trial_2	halofantrine	21	KG00098675	dyspnoea	0.12074553966522217
+trial_2	halofantrine	173	KG00098172	Bronchopneumonia NOS	0.11776949465274811
+trial_2	halofantrine	189	KG00101580	Alanine aminotransferase increase	0.11743427067995071
+trial_2	halofantrine	123	KG00099351	hypokalaemia	0.11528950184583664
+trial_2	halofantrine	228	KG00114657	Weight below normal	0.11481274664402008
+trial_2	halofantrine	177	KG00099299	hyperglycaemia	0.11237479001283646
+trial_2	halofantrine	79	KG00100317	Insomnia, Primary	0.11227893084287643
+trial_2	halofantrine	188	KG00101579	Aspartate aminotransferase increase	0.10788634419441223
+trial_2	halofantrine	77	KG00098450	Constipation NOS	0.10437114536762238
+trial_2	halofantrine	20	KG00098540	dehydration	0.10210245847702026
+trial_2	halofantrine	101	KG00097901	Anorexia NOS	0.0925835520029068
+trial_2	halofantrine	37	KG00097696	Cramps, Abdominal	0.08414728939533234
+trial_2	halofantrine	67	KG00098673	Dyspepsia, NOS	0.08343110978603363
+trial_2	halofantrine	64	KG00097734	Acrodermatitis, NOS	0.07740699499845505
+trial_2	halofantrine	350	KG00106765	decreased platelet count	0.07634270191192627
+trial_2	halofantrine	29	KG00099354	hyponatraemia	0.07570815831422806
+trial_2	halofantrine	114	KG00098933	fevers	0.0710846558213234
+trial_2	halofantrine	200	KG00098539	Disorders, Deglutition	0.06982572376728058
+trial_2	halofantrine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0683538094162941
+trial_2	halofantrine	126	KG00100076	Pain NOS	0.06811028718948364
+trial_2	halofantrine	14	KG00097852	Anemia NOS	0.06637266278266907
+trial_2	halofantrine	85	KG00098474	coughs	0.06507592648267746
+trial_2	halofantrine	151	KG00098274	Infarction, Cerebral	0.06359925866127014
+trial_2	halofantrine	86	KG00098565	Depression, Mental	0.06333629786968231
+trial_2	halofantrine	239	KG00100128	pareses	0.062251754105091095
+trial_2	halofantrine	180	KG00099363	Hypotension NOS	0.062003638595342636
+trial_2	halofantrine	104	KG00097963	arthralgias	0.057244930416345596
+trial_2	halofantrine	243	KG00100947	Micturition frequency increased	0.05684127286076546
+trial_2	halofantrine	102	KG00097916	anxieties	0.055451106280088425
+trial_2	halofantrine	2	KG00100772	thrombocytopaenia	0.05482884496450424
+trial_2	halofantrine	61	KG00099501	Chronic Kidney Failure	0.053824733942747116
+trial_2	halofantrine	179	KG00099342	hypocalcaemia	0.05333951488137245
+trial_2	halofantrine	76	KG00100450	Respiratory insufficiency, NOS	0.052265096455812454
+trial_2	halofantrine	261	KG00101559	raised alkaline phosphatase	0.050032299011945724
+trial_2	halofantrine	96	KG00101679	Unattended death NOS	0.048393748700618744
+trial_2	halofantrine	5	KG00099169	haematuria	0.04785619676113129
+trial_2	halofantrine	35	KG00101507	hypomagnesaemia	0.04744264483451843
+trial_2	halofantrine	72	KG00103771	myalgias	0.046425122767686844
+trial_2	halofantrine	27	KG00099303	hyperkalaemia	0.046242065727710724
+trial_2	halofantrine	191	KG00104055	Biliverdin increased	0.04579107090830803
+trial_2	halofantrine	30	KG00099500	Acute Kidney Failure	0.04453996941447258
+trial_2	halofantrine	194	KG00110727	Neutrophil Count Decreased	0.04361255094408989
+trial_2	halofantrine	249	KG00104430	hypoalbuminaemia	0.040927767753601074
+trial_2	halofantrine	116	KG00098964	Pain in foot	0.04057365655899048
+trial_2	halofantrine	38	KG00098066	Binocular vision disorders	0.0399053581058979
+trial_2	halofantrine	18	KG00098307	Pain, Chest	0.039783839136362076
+trial_2	halofantrine	147	KG00098000	atelectases	0.03964534029364586
+trial_2	halofantrine	132	KG00101045	Gain, Weight	0.03952639549970627
+trial_2	halofantrine	262	KG00101199	agitation	0.03949557617306709
+trial_2	halofantrine	69	KG00100082	Palpitations NOS	0.03939832001924515
+trial_2	halofantrine	36	KG00106434	Vision, Blurring Of	0.03890690952539444
+trial_2	halofantrine	234	KG00098669	dysgeusias	0.038715019822120667
+trial_2	halofantrine	396	KG00100373	Embolism, Pulmonary	0.03801772743463516
+trial_2	halofantrine	355	KG00110857	lymphocyte count decreased	0.037380218505859375
+trial_2	halofantrine	242	KG00100855	tremors	0.03666302561759949
+trial_2	halofantrine	130	KG00100683	Stomatitis NOS	0.03655136004090309
+trial_2	halofantrine	139	KG00098855	Sinusitis, Ethmoid	0.03643830120563507
+trial_2	halofantrine	28	KG00099347	hypoglycaemia	0.036408018320798874
+trial_2	halofantrine	142	KG00100923	Unspecified infectious and parasitic diseases	0.03631780669093132
+trial_2	halofantrine	269	KG00100399	pyaemia	0.03593454137444496
+trial_2	halofantrine	82	KG00097697	abdomen distended	0.0355624258518219
+trial_2	halofantrine	131	KG00100948	Urinary tract infection (& [NOS])	0.03499603644013405
+trial_2	halofantrine	121	KG00099190	haemorrhage	0.03345992788672447
+trial_2	halofantrine	286	KG00101110	Retention, Urinary	0.033119648694992065
+trial_2	halofantrine	186	KG00101431	creatinine increased	0.03294820338487625
+trial_2	halofantrine	466	KG00101205	fall	0.03267886862158775
+trial_2	halofantrine	122	KG00099321	Hypersensitivity NOS	0.03246733918786049
+trial_2	halofantrine	282	KG00099309	hypernatraemia	0.03166155144572258
+trial_2	halofantrine	253	KG00100232	Pleural effusion NOS (disorder)	0.03139082342386246
+trial_2	halofantrine	288	KG00101223	hypophosphataemia	0.030946724116802216
+trial_2	halofantrine	1	KG00099959	Neutropenia NOS	0.03058755025267601
+trial_2	halofantrine	136	KG00101582	Dry;skin	0.030259311199188232
+trial_2	halofantrine	66	KG00098642	drowsiness	0.030130282044410706
+trial_2	halofantrine	356	KG00112623	Infectious Lung Disorders	0.02966216392815113
+trial_2	halofantrine	300	KG00101064	xerostomia	0.02941022999584675
+trial_2	halofantrine	441	KG00098262	cellulitis nos	0.029407013207674026
+trial_2	halofantrine	276	KG00099127	Arrest, Cardiac	0.02829703874886036
+trial_2	halofantrine	154	KG00099686	Lymphopenias	0.028258483856916428
+trial_2	halofantrine	339	KG00100334	proteinurias	0.028055734932422638
+trial_2	halofantrine	164	KG00108827	ileus colon	0.02780977450311184
+trial_2	halofantrine	422	KG00101429	Creatine phosphokinase increased	0.027528803795576096
+trial_2	halofantrine	211	KG00100341	Pruritus NOS	0.02743494138121605
+trial_2	halofantrine	341	KG00101472	Gamma-glutamyltransferase increased	0.02735080197453499
+trial_2	halofantrine	204	KG00098849	Esophagitis, Peptic	0.026913223788142204
+trial_2	halofantrine	75	KG00100195	Dolens, Phlegmasia Alba	0.026627590879797935
+trial_2	halofantrine	4	KG00098817	epistaxis	0.026479046791791916
+trial_2	halofantrine	256	KG00100738	Tachycardia, Sinus	0.02589336968958378
+trial_2	halofantrine	212	KG00100576	shivers	0.025615980848670006
+trial_2	halofantrine	221	KG00101207	peripheral oedema	0.02543429285287857
+trial_2	halofantrine	92	KG00100926	Infections, Upper Respiratory	0.025386132299900055
+trial_2	halofantrine	361	KG00098004	Fibrillation, Atrial	0.025312822312116623
+trial_2	halofantrine	144	KG00099610	Leukopenia NOS	0.025230443105101585
+trial_2	halofantrine	100	KG00097815	alopecias	0.02430199272930622

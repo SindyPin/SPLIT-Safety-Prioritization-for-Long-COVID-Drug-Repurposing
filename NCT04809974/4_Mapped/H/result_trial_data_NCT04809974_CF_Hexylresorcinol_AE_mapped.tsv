@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20907460153102875
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12740078568458557
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1149929016828537
+trial_1	placebo	68	KG00099901	nauseas	0.104366734623909
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1024554893374443
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1008826196193695
+trial_1	placebo	20	KG00098540	dehydration	0.0974753201007843
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0928153544664383
+trial_1	placebo	21	KG00098675	dyspnoea	0.09148240089416504
+trial_1	placebo	46	KG00099121	Headache NOS	0.09025401622056961
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.08959654718637466
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0881931483745575
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08626503497362137
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08403536677360535
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.07472624629735947
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07267861813306808
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07030265033245087
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06942788511514664
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06742949038743973
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06642762571573257
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06399010866880417
+trial_1	placebo	228	KG00114657	Weight below normal	0.06395013630390167
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06362108886241913
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05906657129526138
+trial_1	placebo	126	KG00100076	Pain NOS	0.056698836386203766
+trial_1	placebo	350	KG00106765	decreased platelet count	0.056348297744989395
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0562325119972229
+trial_1	placebo	5	KG00099169	haematuria	0.05582263693213463
+trial_1	placebo	72	KG00103771	myalgias	0.047693654894828796
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04747389256954193
+trial_1	placebo	147	KG00098000	atelectases	0.04744997248053551
+trial_1	placebo	114	KG00098933	fevers	0.04665549099445343
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04629535600543022
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.045696936547756195
+trial_1	placebo	239	KG00100128	pareses	0.045165494084358215
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04355863481760025
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04314687103033066
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04186895489692688
+trial_1	placebo	85	KG00098474	coughs	0.04123612865805626
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04075682908296585
+trial_1	placebo	82	KG00097697	abdomen distended	0.04040377214550972
+trial_1	placebo	104	KG00097963	arthralgias	0.03958990424871445
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03841179609298706
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0382651761174202
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03747331723570824
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03704050928354263
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.036982208490371704
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03696974739432335
+trial_1	placebo	234	KG00098669	dysgeusias	0.03560076281428337
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.034782763570547104
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03432978317141533
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03418733924627304
+trial_1	placebo	102	KG00097916	anxieties	0.03414216265082359
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.0341063030064106
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03402246907353401
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03380054607987404
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03364900127053261
+trial_1	placebo	116	KG00098964	Pain in foot	0.033289603888988495
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03319813683629036
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03235631063580513
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03208719938993454
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03181853145360947
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.031522925943136215
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.031484343111515045
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03118664212524891
+trial_1	placebo	121	KG00099190	haemorrhage	0.03110375441610813
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03065100498497486
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030498379841446877
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.030277561396360397
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.029642468318343163
+trial_1	placebo	212	KG00100576	shivers	0.029398132115602493
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.029190944507718086
+trial_1	placebo	269	KG00100399	pyaemia	0.028232112526893616
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.027506299316883087
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027471086010336876
+trial_1	placebo	154	KG00099686	Lymphopenias	0.027159415185451508
+trial_1	placebo	164	KG00108827	ileus colon	0.026922453194856644
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.026403488591313362
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02639738656580448
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02632342465221882
+trial_1	placebo	186	KG00101431	creatinine increased	0.026274990290403366
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.025697948411107063
+trial_1	placebo	257	KG00100922	Erythema NOS	0.024822236970067024
+trial_1	placebo	100	KG00097815	alopecias	0.024720603600144386
+trial_1	placebo	136	KG00101582	Dry;skin	0.024503082036972046
+trial_1	placebo	466	KG00101205	fall	0.024273747578263283
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02414197288453579
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.023926200345158577
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.023656541481614113
+trial_1	placebo	454	KG00098286	Pain, Neck	0.023637456819415092
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.023407863453030586
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.022671567276120186
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0226313304156065
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.022439489141106606
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022176042199134827
+trial_1	placebo	262	KG00101199	agitation	0.022173194214701653
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.022167524322867393
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02202278934419155
+trial_1	placebo	4	KG00098817	epistaxis	0.021997379139065742
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.021754059940576553
+trial_2	hexylresorcinol	87	KG00098599	diarrhoea	0.20907460153102875
+trial_2	hexylresorcinol	78	KG00099326	Hypertensive diseases	0.12740078568458557
+trial_2	hexylresorcinol	123	KG00099351	hypokalaemia	0.1149929016828537
+trial_2	hexylresorcinol	68	KG00099901	nauseas	0.104366734623909
+trial_2	hexylresorcinol	177	KG00099299	hyperglycaemia	0.1024554893374443
+trial_2	hexylresorcinol	49	KG00099902	nausea with vomiting	0.1008826196193695
+trial_2	hexylresorcinol	20	KG00098540	dehydration	0.0974753201007843
+trial_2	hexylresorcinol	67	KG00098673	Dyspepsia, NOS	0.0928153544664383
+trial_2	hexylresorcinol	21	KG00098675	dyspnoea	0.09148240089416504
+trial_2	hexylresorcinol	46	KG00099121	Headache NOS	0.09025401622056961
+trial_2	hexylresorcinol	17	KG00097991	Asthenia NOS	0.08959654718637466
+trial_2	hexylresorcinol	37	KG00097696	Cramps, Abdominal	0.0881931483745575
+trial_2	hexylresorcinol	173	KG00098172	Bronchopneumonia NOS	0.08626503497362137
+trial_2	hexylresorcinol	9	KG00098432	Confusion NOS	0.08403536677360535
+trial_2	hexylresorcinol	64	KG00097734	Acrodermatitis, NOS	0.07472624629735947
+trial_2	hexylresorcinol	77	KG00098450	Constipation NOS	0.07267861813306808
+trial_2	hexylresorcinol	189	KG00101580	Alanine aminotransferase increase	0.07030265033245087
+trial_2	hexylresorcinol	200	KG00098539	Disorders, Deglutition	0.06942788511514664
+trial_2	hexylresorcinol	101	KG00097901	Anorexia NOS	0.06742949038743973
+trial_2	hexylresorcinol	188	KG00101579	Aspartate aminotransferase increase	0.06642762571573257
+trial_2	hexylresorcinol	2	KG00100772	thrombocytopaenia	0.06399010866880417
+trial_2	hexylresorcinol	228	KG00114657	Weight below normal	0.06395013630390167
+trial_2	hexylresorcinol	14	KG00097852	Anemia NOS	0.06362108886241913
+trial_2	hexylresorcinol	79	KG00100317	Insomnia, Primary	0.05906657129526138
+trial_2	hexylresorcinol	126	KG00100076	Pain NOS	0.056698836386203766
+trial_2	hexylresorcinol	350	KG00106765	decreased platelet count	0.056348297744989395
+trial_2	hexylresorcinol	243	KG00100947	Micturition frequency increased	0.0562325119972229
+trial_2	hexylresorcinol	5	KG00099169	haematuria	0.05582263693213463
+trial_2	hexylresorcinol	72	KG00103771	myalgias	0.047693654894828796
+trial_2	hexylresorcinol	29	KG00099354	hyponatraemia	0.04747389256954193
+trial_2	hexylresorcinol	147	KG00098000	atelectases	0.04744997248053551
+trial_2	hexylresorcinol	114	KG00098933	fevers	0.04665549099445343
+trial_2	hexylresorcinol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04629535600543022
+trial_2	hexylresorcinol	76	KG00100450	Respiratory insufficiency, NOS	0.045696936547756195
+trial_2	hexylresorcinol	239	KG00100128	pareses	0.045165494084358215
+trial_2	hexylresorcinol	179	KG00099342	hypocalcaemia	0.04355863481760025
+trial_2	hexylresorcinol	122	KG00099321	Hypersensitivity NOS	0.04314687103033066
+trial_2	hexylresorcinol	61	KG00099501	Chronic Kidney Failure	0.04186895489692688
+trial_2	hexylresorcinol	85	KG00098474	coughs	0.04123612865805626
+trial_2	hexylresorcinol	86	KG00098565	Depression, Mental	0.04075682908296585
+trial_2	hexylresorcinol	82	KG00097697	abdomen distended	0.04040377214550972
+trial_2	hexylresorcinol	104	KG00097963	arthralgias	0.03958990424871445
+trial_2	hexylresorcinol	396	KG00100373	Embolism, Pulmonary	0.03841179609298706
+trial_2	hexylresorcinol	180	KG00099363	Hypotension NOS	0.0382651761174202
+trial_2	hexylresorcinol	38	KG00098066	Binocular vision disorders	0.03747331723570824
+trial_2	hexylresorcinol	27	KG00099303	hyperkalaemia	0.03704050928354263
+trial_2	hexylresorcinol	194	KG00110727	Neutrophil Count Decreased	0.036982208490371704
+trial_2	hexylresorcinol	261	KG00101559	raised alkaline phosphatase	0.03696974739432335
+trial_2	hexylresorcinol	234	KG00098669	dysgeusias	0.03560076281428337
+trial_2	hexylresorcinol	69	KG00100082	Palpitations NOS	0.034782763570547104
+trial_2	hexylresorcinol	282	KG00099309	hypernatraemia	0.03432978317141533
+trial_2	hexylresorcinol	30	KG00099500	Acute Kidney Failure	0.03418733924627304
+trial_2	hexylresorcinol	102	KG00097916	anxieties	0.03414216265082359
+trial_2	hexylresorcinol	355	KG00110857	lymphocyte count decreased	0.0341063030064106
+trial_2	hexylresorcinol	96	KG00101679	Unattended death NOS	0.03402246907353401
+trial_2	hexylresorcinol	151	KG00098274	Infarction, Cerebral	0.03380054607987404
+trial_2	hexylresorcinol	139	KG00098855	Sinusitis, Ethmoid	0.03364900127053261
+trial_2	hexylresorcinol	116	KG00098964	Pain in foot	0.033289603888988495
+trial_2	hexylresorcinol	18	KG00098307	Pain, Chest	0.03319813683629036
+trial_2	hexylresorcinol	131	KG00100948	Urinary tract infection (& [NOS])	0.03235631063580513
+trial_2	hexylresorcinol	142	KG00100923	Unspecified infectious and parasitic diseases	0.03208719938993454
+trial_2	hexylresorcinol	249	KG00104430	hypoalbuminaemia	0.03181853145360947
+trial_2	hexylresorcinol	276	KG00099127	Arrest, Cardiac	0.031522925943136215
+trial_2	hexylresorcinol	28	KG00099347	hypoglycaemia	0.031484343111515045
+trial_2	hexylresorcinol	204	KG00098849	Esophagitis, Peptic	0.03118664212524891
+trial_2	hexylresorcinol	121	KG00099190	haemorrhage	0.03110375441610813
+trial_2	hexylresorcinol	441	KG00098262	cellulitis nos	0.03065100498497486
+trial_2	hexylresorcinol	191	KG00104055	Biliverdin increased	0.030498379841446877
+trial_2	hexylresorcinol	253	KG00100232	Pleural effusion NOS (disorder)	0.030277561396360397
+trial_2	hexylresorcinol	144	KG00099610	Leukopenia NOS	0.029642468318343163
+trial_2	hexylresorcinol	212	KG00100576	shivers	0.029398132115602493
+trial_2	hexylresorcinol	211	KG00100341	Pruritus NOS	0.029190944507718086
+trial_2	hexylresorcinol	269	KG00100399	pyaemia	0.028232112526893616
+trial_2	hexylresorcinol	35	KG00101507	hypomagnesaemia	0.027506299316883087
+trial_2	hexylresorcinol	361	KG00098004	Fibrillation, Atrial	0.027471086010336876
+trial_2	hexylresorcinol	154	KG00099686	Lymphopenias	0.027159415185451508
+trial_2	hexylresorcinol	164	KG00108827	ileus colon	0.026922453194856644
+trial_2	hexylresorcinol	130	KG00100683	Stomatitis NOS	0.026403488591313362
+trial_2	hexylresorcinol	286	KG00101110	Retention, Urinary	0.02639738656580448
+trial_2	hexylresorcinol	98	KG00097718	Incised wound, NOS	0.02632342465221882
+trial_2	hexylresorcinol	186	KG00101431	creatinine increased	0.026274990290403366
+trial_2	hexylresorcinol	75	KG00100195	Dolens, Phlegmasia Alba	0.025697948411107063
+trial_2	hexylresorcinol	257	KG00100922	Erythema NOS	0.024822236970067024
+trial_2	hexylresorcinol	100	KG00097815	alopecias	0.024720603600144386
+trial_2	hexylresorcinol	136	KG00101582	Dry;skin	0.024503082036972046
+trial_2	hexylresorcinol	466	KG00101205	fall	0.024273747578263283
+trial_2	hexylresorcinol	288	KG00101223	hypophosphataemia	0.02414197288453579
+trial_2	hexylresorcinol	218	KG00100801	Tinnitus NOS	0.023926200345158577
+trial_2	hexylresorcinol	371	KG00098517	Cystitis (NOS)	0.023656541481614113
+trial_2	hexylresorcinol	454	KG00098286	Pain, Neck	0.023637456819415092
+trial_2	hexylresorcinol	1	KG00099959	Neutropenia NOS	0.023407863453030586
+trial_2	hexylresorcinol	341	KG00101472	Gamma-glutamyltransferase increased	0.022671567276120186
+trial_2	hexylresorcinol	36	KG00106434	Vision, Blurring Of	0.0226313304156065
+trial_2	hexylresorcinol	195	KG00097814	Atopic Rhinitis	0.022439489141106606
+trial_2	hexylresorcinol	508	KG00108565	blood glucose increased	0.022176042199134827
+trial_2	hexylresorcinol	262	KG00101199	agitation	0.022173194214701653
+trial_2	hexylresorcinol	33	KG00100094	Pancreatitis NOS	0.022167524322867393
+trial_2	hexylresorcinol	31	KG00099872	Infarction, Myocardial	0.02202278934419155
+trial_2	hexylresorcinol	4	KG00098817	epistaxis	0.021997379139065742
+trial_2	hexylresorcinol	213	KG00100600	Infectious Skin Diseases	0.021754059940576553

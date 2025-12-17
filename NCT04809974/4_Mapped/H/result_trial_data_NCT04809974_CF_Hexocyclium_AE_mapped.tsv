@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2166251689195633
+trial_1	placebo	87	KG00098599	diarrhoea	0.1857927441596985
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12712393701076508
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12575212121009827
+trial_1	placebo	20	KG00098540	dehydration	0.12031608819961548
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11020705848932266
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1083926111459732
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10650689899921417
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09813887625932693
+trial_1	placebo	21	KG00098675	dyspnoea	0.09158635139465332
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.08681121468544006
+trial_1	placebo	46	KG00099121	Headache NOS	0.0795736163854599
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07869002223014832
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07850715517997742
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07759645581245422
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07695663720369339
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07593277096748352
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07571811974048615
+trial_1	placebo	68	KG00099901	nauseas	0.07377695292234421
+trial_1	placebo	228	KG00114657	Weight below normal	0.0700189620256424
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06837111711502075
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06592729687690735
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06506660580635071
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06376390904188156
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0615658201277256
+trial_1	placebo	85	KG00098474	coughs	0.06036561727523804
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0600140355527401
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.058176033198833466
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.057697758078575134
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05740709230303764
+trial_1	placebo	239	KG00100128	pareses	0.056167397648096085
+trial_1	placebo	104	KG00097963	arthralgias	0.054604653269052505
+trial_1	placebo	126	KG00100076	Pain NOS	0.054029662162065506
+trial_1	placebo	132	KG00101045	Gain, Weight	0.05258810892701149
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.0525231696665287
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05117948353290558
+trial_1	placebo	114	KG00098933	fevers	0.051149625331163406
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05016319453716278
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.048785898834466934
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04824179783463478
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04797913879156113
+trial_1	placebo	5	KG00099169	haematuria	0.04748605191707611
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04732326790690422
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.046904172748327255
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04577735438942909
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04518287256360054
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04345383122563362
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0413099080324173
+trial_1	placebo	262	KG00101199	agitation	0.041227295994758606
+trial_1	placebo	102	KG00097916	anxieties	0.04012664407491684
+trial_1	placebo	164	KG00108827	ileus colon	0.039782699197530746
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03869182616472244
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03861023113131523
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03808010369539261
+trial_1	placebo	147	KG00098000	atelectases	0.037780046463012695
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.037287067621946335
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03686943277716637
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.0361492857336998
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03597826883196831
+trial_1	placebo	300	KG00101064	xerostomia	0.03556760773062706
+trial_1	placebo	466	KG00101205	fall	0.03465918079018593
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03464651480317116
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03432556241750717
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.034303344786167145
+trial_1	placebo	242	KG00100855	tremors	0.034103330224752426
+trial_1	placebo	116	KG00098964	Pain in foot	0.03352925926446915
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03352856636047363
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.033471595495939255
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03299003094434738
+trial_1	placebo	269	KG00100399	pyaemia	0.03286467492580414
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.032687317579984665
+trial_1	placebo	508	KG00108565	blood glucose increased	0.032267965376377106
+trial_1	placebo	72	KG00103771	myalgias	0.032149046659469604
+trial_1	placebo	66	KG00098642	drowsiness	0.03207506611943245
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.032046910375356674
+trial_1	placebo	82	KG00097697	abdomen distended	0.03194474056363106
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03168778494000435
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.031395215541124344
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.03072873316705227
+trial_1	placebo	282	KG00099309	hypernatraemia	0.030567649751901627
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.030552707612514496
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.030501658096909523
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.030248096212744713
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029562147334218025
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.029388923197984695
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02907729148864746
+trial_1	placebo	121	KG00099190	haemorrhage	0.028833702206611633
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.028771458193659782
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02870425209403038
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02848770096898079
+trial_1	placebo	339	KG00100334	proteinurias	0.028324171900749207
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.028120819479227066
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.028016524389386177
+trial_1	placebo	186	KG00101431	creatinine increased	0.02790236473083496
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.027840733528137207
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.027767011895775795
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.0273094791918993
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.027273163199424744
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.0272187702357769
+trial_1	placebo	153	KG00099579	lethargy	0.026634730398654938
+trial_2	hexocyclium	78	KG00099326	Hypertensive diseases	0.2166251689195633
+trial_2	hexocyclium	87	KG00098599	diarrhoea	0.1857927441596985
+trial_2	hexocyclium	177	KG00099299	hyperglycaemia	0.12712393701076508
+trial_2	hexocyclium	17	KG00097991	Asthenia NOS	0.12575212121009827
+trial_2	hexocyclium	20	KG00098540	dehydration	0.12031608819961548
+trial_2	hexocyclium	173	KG00098172	Bronchopneumonia NOS	0.11020705848932266
+trial_2	hexocyclium	123	KG00099351	hypokalaemia	0.1083926111459732
+trial_2	hexocyclium	9	KG00098432	Confusion NOS	0.10650689899921417
+trial_2	hexocyclium	77	KG00098450	Constipation NOS	0.09813887625932693
+trial_2	hexocyclium	21	KG00098675	dyspnoea	0.09158635139465332
+trial_2	hexocyclium	189	KG00101580	Alanine aminotransferase increase	0.08681121468544006
+trial_2	hexocyclium	46	KG00099121	Headache NOS	0.0795736163854599
+trial_2	hexocyclium	79	KG00100317	Insomnia, Primary	0.07869002223014832
+trial_2	hexocyclium	188	KG00101579	Aspartate aminotransferase increase	0.07850715517997742
+trial_2	hexocyclium	37	KG00097696	Cramps, Abdominal	0.07759645581245422
+trial_2	hexocyclium	200	KG00098539	Disorders, Deglutition	0.07695663720369339
+trial_2	hexocyclium	67	KG00098673	Dyspepsia, NOS	0.07593277096748352
+trial_2	hexocyclium	49	KG00099902	nausea with vomiting	0.07571811974048615
+trial_2	hexocyclium	68	KG00099901	nauseas	0.07377695292234421
+trial_2	hexocyclium	228	KG00114657	Weight below normal	0.0700189620256424
+trial_2	hexocyclium	86	KG00098565	Depression, Mental	0.06837111711502075
+trial_2	hexocyclium	29	KG00099354	hyponatraemia	0.06592729687690735
+trial_2	hexocyclium	14	KG00097852	Anemia NOS	0.06506660580635071
+trial_2	hexocyclium	350	KG00106765	decreased platelet count	0.06376390904188156
+trial_2	hexocyclium	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0615658201277256
+trial_2	hexocyclium	85	KG00098474	coughs	0.06036561727523804
+trial_2	hexocyclium	64	KG00097734	Acrodermatitis, NOS	0.0600140355527401
+trial_2	hexocyclium	151	KG00098274	Infarction, Cerebral	0.058176033198833466
+trial_2	hexocyclium	2	KG00100772	thrombocytopaenia	0.057697758078575134
+trial_2	hexocyclium	180	KG00099363	Hypotension NOS	0.05740709230303764
+trial_2	hexocyclium	239	KG00100128	pareses	0.056167397648096085
+trial_2	hexocyclium	104	KG00097963	arthralgias	0.054604653269052505
+trial_2	hexocyclium	126	KG00100076	Pain NOS	0.054029662162065506
+trial_2	hexocyclium	132	KG00101045	Gain, Weight	0.05258810892701149
+trial_2	hexocyclium	243	KG00100947	Micturition frequency increased	0.0525231696665287
+trial_2	hexocyclium	30	KG00099500	Acute Kidney Failure	0.05117948353290558
+trial_2	hexocyclium	114	KG00098933	fevers	0.051149625331163406
+trial_2	hexocyclium	61	KG00099501	Chronic Kidney Failure	0.05016319453716278
+trial_2	hexocyclium	76	KG00100450	Respiratory insufficiency, NOS	0.048785898834466934
+trial_2	hexocyclium	96	KG00101679	Unattended death NOS	0.04824179783463478
+trial_2	hexocyclium	28	KG00099347	hypoglycaemia	0.04797913879156113
+trial_2	hexocyclium	5	KG00099169	haematuria	0.04748605191707611
+trial_2	hexocyclium	122	KG00099321	Hypersensitivity NOS	0.04732326790690422
+trial_2	hexocyclium	27	KG00099303	hyperkalaemia	0.046904172748327255
+trial_2	hexocyclium	179	KG00099342	hypocalcaemia	0.04577735438942909
+trial_2	hexocyclium	131	KG00100948	Urinary tract infection (& [NOS])	0.04518287256360054
+trial_2	hexocyclium	261	KG00101559	raised alkaline phosphatase	0.04345383122563362
+trial_2	hexocyclium	194	KG00110727	Neutrophil Count Decreased	0.0413099080324173
+trial_2	hexocyclium	262	KG00101199	agitation	0.041227295994758606
+trial_2	hexocyclium	102	KG00097916	anxieties	0.04012664407491684
+trial_2	hexocyclium	164	KG00108827	ileus colon	0.039782699197530746
+trial_2	hexocyclium	18	KG00098307	Pain, Chest	0.03869182616472244
+trial_2	hexocyclium	396	KG00100373	Embolism, Pulmonary	0.03861023113131523
+trial_2	hexocyclium	38	KG00098066	Binocular vision disorders	0.03808010369539261
+trial_2	hexocyclium	147	KG00098000	atelectases	0.037780046463012695
+trial_2	hexocyclium	276	KG00099127	Arrest, Cardiac	0.037287067621946335
+trial_2	hexocyclium	101	KG00097901	Anorexia NOS	0.03686943277716637
+trial_2	hexocyclium	36	KG00106434	Vision, Blurring Of	0.0361492857336998
+trial_2	hexocyclium	139	KG00098855	Sinusitis, Ethmoid	0.03597826883196831
+trial_2	hexocyclium	300	KG00101064	xerostomia	0.03556760773062706
+trial_2	hexocyclium	466	KG00101205	fall	0.03465918079018593
+trial_2	hexocyclium	191	KG00104055	Biliverdin increased	0.03464651480317116
+trial_2	hexocyclium	144	KG00099610	Leukopenia NOS	0.03432556241750717
+trial_2	hexocyclium	35	KG00101507	hypomagnesaemia	0.034303344786167145
+trial_2	hexocyclium	242	KG00100855	tremors	0.034103330224752426
+trial_2	hexocyclium	116	KG00098964	Pain in foot	0.03352925926446915
+trial_2	hexocyclium	422	KG00101429	Creatine phosphokinase increased	0.03352856636047363
+trial_2	hexocyclium	142	KG00100923	Unspecified infectious and parasitic diseases	0.033471595495939255
+trial_2	hexocyclium	286	KG00101110	Retention, Urinary	0.03299003094434738
+trial_2	hexocyclium	269	KG00100399	pyaemia	0.03286467492580414
+trial_2	hexocyclium	341	KG00101472	Gamma-glutamyltransferase increased	0.032687317579984665
+trial_2	hexocyclium	508	KG00108565	blood glucose increased	0.032267965376377106
+trial_2	hexocyclium	72	KG00103771	myalgias	0.032149046659469604
+trial_2	hexocyclium	66	KG00098642	drowsiness	0.03207506611943245
+trial_2	hexocyclium	92	KG00100926	Infections, Upper Respiratory	0.032046910375356674
+trial_2	hexocyclium	82	KG00097697	abdomen distended	0.03194474056363106
+trial_2	hexocyclium	355	KG00110857	lymphocyte count decreased	0.03168778494000435
+trial_2	hexocyclium	130	KG00100683	Stomatitis NOS	0.031395215541124344
+trial_2	hexocyclium	256	KG00100738	Tachycardia, Sinus	0.03072873316705227
+trial_2	hexocyclium	282	KG00099309	hypernatraemia	0.030567649751901627
+trial_2	hexocyclium	69	KG00100082	Palpitations NOS	0.030552707612514496
+trial_2	hexocyclium	97	KG00104198	LIVER ENZYME ELEVATED	0.030501658096909523
+trial_2	hexocyclium	297	KG00099294	hypercholesterolaemia	0.030248096212744713
+trial_2	hexocyclium	204	KG00098849	Esophagitis, Peptic	0.029562147334218025
+trial_2	hexocyclium	249	KG00104430	hypoalbuminaemia	0.029388923197984695
+trial_2	hexocyclium	75	KG00100195	Dolens, Phlegmasia Alba	0.02907729148864746
+trial_2	hexocyclium	121	KG00099190	haemorrhage	0.028833702206611633
+trial_2	hexocyclium	394	KG00100243	Pneumonia, Aspiration	0.028771458193659782
+trial_2	hexocyclium	288	KG00101223	hypophosphataemia	0.02870425209403038
+trial_2	hexocyclium	253	KG00100232	Pleural effusion NOS (disorder)	0.02848770096898079
+trial_2	hexocyclium	339	KG00100334	proteinurias	0.028324171900749207
+trial_2	hexocyclium	31	KG00099872	Infarction, Myocardial	0.028120819479227066
+trial_2	hexocyclium	33	KG00100094	Pancreatitis NOS	0.028016524389386177
+trial_2	hexocyclium	186	KG00101431	creatinine increased	0.02790236473083496
+trial_2	hexocyclium	371	KG00098517	Cystitis (NOS)	0.027840733528137207
+trial_2	hexocyclium	118	KG00099011	Gastritis NOS	0.027767011895775795
+trial_2	hexocyclium	1	KG00099959	Neutropenia NOS	0.0273094791918993
+trial_2	hexocyclium	163	KG00104050	bowel obstructions small	0.027273163199424744
+trial_2	hexocyclium	15	KG00097882	Angina pectoris NOS	0.0272187702357769
+trial_2	hexocyclium	153	KG00099579	lethargy	0.026634730398654938

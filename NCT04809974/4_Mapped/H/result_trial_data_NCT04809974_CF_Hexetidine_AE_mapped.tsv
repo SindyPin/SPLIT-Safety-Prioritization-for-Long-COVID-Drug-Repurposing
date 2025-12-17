@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0631115585565567
+trial_1	placebo	87	KG00098599	diarrhoea	0.054945990443229675
+trial_1	placebo	9	KG00098432	Confusion NOS	0.041345033794641495
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.038411881774663925
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.033416491001844406
+trial_1	placebo	46	KG00099121	Headache NOS	0.032738082110881805
+trial_1	placebo	123	KG00099351	hypokalaemia	0.03184507042169571
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03091411478817463
+trial_1	placebo	21	KG00098675	dyspnoea	0.029514409601688385
+trial_1	placebo	20	KG00098540	dehydration	0.028614910319447517
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.028345977887511253
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.028139160946011543
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.027514131739735603
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.025627223774790764
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02528800442814827
+trial_1	placebo	77	KG00098450	Constipation NOS	0.024813877418637276
+trial_1	placebo	68	KG00099901	nauseas	0.024118000641465187
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.023960910737514496
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02225448749959469
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.022197037935256958
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.022044412791728973
+trial_1	placebo	228	KG00114657	Weight below normal	0.021668175235390663
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.021487068384885788
+trial_1	placebo	126	KG00100076	Pain NOS	0.021354781463742256
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.021181849762797356
+trial_1	placebo	147	KG00098000	atelectases	0.021022027358412743
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02070164680480957
+trial_1	placebo	29	KG00099354	hyponatraemia	0.020085612311959267
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.01998133212327957
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.019744856283068657
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.01895327866077423
+trial_1	placebo	114	KG00098933	fevers	0.0184943750500679
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.018448013812303543
+trial_1	placebo	121	KG00099190	haemorrhage	0.018182745203375816
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.016948549076914787
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.016864271834492683
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.016766738146543503
+trial_1	placebo	350	KG00106765	decreased platelet count	0.016376595944166183
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.016331033781170845
+trial_1	placebo	86	KG00098565	Depression, Mental	0.016273872926831245
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016214238479733467
+trial_1	placebo	269	KG00100399	pyaemia	0.016175568103790283
+trial_1	placebo	5	KG00099169	haematuria	0.016044791787862778
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.015571831725537777
+trial_1	placebo	85	KG00098474	coughs	0.015552975237369537
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014991662465035915
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.014758141711354256
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01452410127967596
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014141780324280262
+trial_1	placebo	441	KG00098262	cellulitis nos	0.013440901413559914
+trial_1	placebo	104	KG00097963	arthralgias	0.013438258320093155
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0133989118039608
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.013204661197960377
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.012969610281288624
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.01271215919405222
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.012490428984165192
+trial_1	placebo	18	KG00098307	Pain, Chest	0.012481139972805977
+trial_1	placebo	164	KG00108827	ileus colon	0.012215690687298775
+trial_1	placebo	239	KG00100128	pareses	0.012157176621258259
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.012056050822138786
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.011903008446097374
+trial_1	placebo	282	KG00099309	hypernatraemia	0.011833532713353634
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.011656109243631363
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.011398741975426674
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.010995635762810707
+trial_1	placebo	102	KG00097916	anxieties	0.010915122926235199
+trial_1	placebo	262	KG00101199	agitation	0.010629293508827686
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.010607331991195679
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.010385981760919094
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.010273348540067673
+trial_1	placebo	72	KG00103771	myalgias	0.010184193029999733
+trial_1	placebo	11	KG00097993	Asthma NOS	0.010117863304913044
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.009942824952304363
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.009941533207893372
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.009693006984889507
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.009577914141118526
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.00955894310027361
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.009537172503769398
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.009475499391555786
+trial_1	placebo	82	KG00097697	abdomen distended	0.00946024525910616
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.009409584105014801
+trial_1	placebo	186	KG00101431	creatinine increased	0.00939146801829338
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.00934839341789484
+trial_1	placebo	234	KG00098669	dysgeusias	0.009312348440289497
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.00929311290383339
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.009256374090909958
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.009193055331707
+trial_1	placebo	257	KG00100922	Erythema NOS	0.009124857373535633
+trial_1	placebo	154	KG00099686	Lymphopenias	0.009079299867153168
+trial_1	placebo	466	KG00101205	fall	0.009051336906850338
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.00890305358916521
+trial_1	placebo	132	KG00101045	Gain, Weight	0.008833504281938076
+trial_1	placebo	221	KG00101207	peripheral oedema	0.008620456792414188
+trial_1	placebo	25	KG00099134	congestive failures heart	0.008574100211262703
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.008502177894115448
+trial_1	placebo	116	KG00098964	Pain in foot	0.008389227092266083
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0083635738119483
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.008338198997080326
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.00828108936548233
+trial_1	placebo	263	KG00101519	Ischemia, Myocardial	0.008279307745397091
+trial_2	hexetidine	78	KG00099326	Hypertensive diseases	0.0631115585565567
+trial_2	hexetidine	87	KG00098599	diarrhoea	0.054945990443229675
+trial_2	hexetidine	9	KG00098432	Confusion NOS	0.041345033794641495
+trial_2	hexetidine	177	KG00099299	hyperglycaemia	0.038411881774663925
+trial_2	hexetidine	173	KG00098172	Bronchopneumonia NOS	0.033416491001844406
+trial_2	hexetidine	46	KG00099121	Headache NOS	0.032738082110881805
+trial_2	hexetidine	123	KG00099351	hypokalaemia	0.03184507042169571
+trial_2	hexetidine	17	KG00097991	Asthenia NOS	0.03091411478817463
+trial_2	hexetidine	21	KG00098675	dyspnoea	0.029514409601688385
+trial_2	hexetidine	20	KG00098540	dehydration	0.028614910319447517
+trial_2	hexetidine	151	KG00098274	Infarction, Cerebral	0.028345977887511253
+trial_2	hexetidine	64	KG00097734	Acrodermatitis, NOS	0.028139160946011543
+trial_2	hexetidine	49	KG00099902	nausea with vomiting	0.027514131739735603
+trial_2	hexetidine	61	KG00099501	Chronic Kidney Failure	0.025627223774790764
+trial_2	hexetidine	14	KG00097852	Anemia NOS	0.02528800442814827
+trial_2	hexetidine	77	KG00098450	Constipation NOS	0.024813877418637276
+trial_2	hexetidine	68	KG00099901	nauseas	0.024118000641465187
+trial_2	hexetidine	37	KG00097696	Cramps, Abdominal	0.023960910737514496
+trial_2	hexetidine	79	KG00100317	Insomnia, Primary	0.02225448749959469
+trial_2	hexetidine	189	KG00101580	Alanine aminotransferase increase	0.022197037935256958
+trial_2	hexetidine	200	KG00098539	Disorders, Deglutition	0.022044412791728973
+trial_2	hexetidine	228	KG00114657	Weight below normal	0.021668175235390663
+trial_2	hexetidine	67	KG00098673	Dyspepsia, NOS	0.021487068384885788
+trial_2	hexetidine	126	KG00100076	Pain NOS	0.021354781463742256
+trial_2	hexetidine	180	KG00099363	Hypotension NOS	0.021181849762797356
+trial_2	hexetidine	147	KG00098000	atelectases	0.021022027358412743
+trial_2	hexetidine	2	KG00100772	thrombocytopaenia	0.02070164680480957
+trial_2	hexetidine	29	KG00099354	hyponatraemia	0.020085612311959267
+trial_2	hexetidine	76	KG00100450	Respiratory insufficiency, NOS	0.01998133212327957
+trial_2	hexetidine	96	KG00101679	Unattended death NOS	0.019744856283068657
+trial_2	hexetidine	188	KG00101579	Aspartate aminotransferase increase	0.01895327866077423
+trial_2	hexetidine	114	KG00098933	fevers	0.0184943750500679
+trial_2	hexetidine	396	KG00100373	Embolism, Pulmonary	0.018448013812303543
+trial_2	hexetidine	121	KG00099190	haemorrhage	0.018182745203375816
+trial_2	hexetidine	28	KG00099347	hypoglycaemia	0.016948549076914787
+trial_2	hexetidine	30	KG00099500	Acute Kidney Failure	0.016864271834492683
+trial_2	hexetidine	31	KG00099872	Infarction, Myocardial	0.016766738146543503
+trial_2	hexetidine	350	KG00106765	decreased platelet count	0.016376595944166183
+trial_2	hexetidine	276	KG00099127	Arrest, Cardiac	0.016331033781170845
+trial_2	hexetidine	86	KG00098565	Depression, Mental	0.016273872926831245
+trial_2	hexetidine	142	KG00100923	Unspecified infectious and parasitic diseases	0.016214238479733467
+trial_2	hexetidine	269	KG00100399	pyaemia	0.016175568103790283
+trial_2	hexetidine	5	KG00099169	haematuria	0.016044791787862778
+trial_2	hexetidine	122	KG00099321	Hypersensitivity NOS	0.015571831725537777
+trial_2	hexetidine	85	KG00098474	coughs	0.015552975237369537
+trial_2	hexetidine	75	KG00100195	Dolens, Phlegmasia Alba	0.014991662465035915
+trial_2	hexetidine	27	KG00099303	hyperkalaemia	0.014758141711354256
+trial_2	hexetidine	179	KG00099342	hypocalcaemia	0.01452410127967596
+trial_2	hexetidine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.014141780324280262
+trial_2	hexetidine	441	KG00098262	cellulitis nos	0.013440901413559914
+trial_2	hexetidine	104	KG00097963	arthralgias	0.013438258320093155
+trial_2	hexetidine	131	KG00100948	Urinary tract infection (& [NOS])	0.0133989118039608
+trial_2	hexetidine	253	KG00100232	Pleural effusion NOS (disorder)	0.013204661197960377
+trial_2	hexetidine	361	KG00098004	Fibrillation, Atrial	0.012969610281288624
+trial_2	hexetidine	243	KG00100947	Micturition frequency increased	0.01271215919405222
+trial_2	hexetidine	101	KG00097901	Anorexia NOS	0.012490428984165192
+trial_2	hexetidine	18	KG00098307	Pain, Chest	0.012481139972805977
+trial_2	hexetidine	164	KG00108827	ileus colon	0.012215690687298775
+trial_2	hexetidine	239	KG00100128	pareses	0.012157176621258259
+trial_2	hexetidine	15	KG00097882	Angina pectoris NOS	0.012056050822138786
+trial_2	hexetidine	211	KG00100341	Pruritus NOS	0.011903008446097374
+trial_2	hexetidine	282	KG00099309	hypernatraemia	0.011833532713353634
+trial_2	hexetidine	38	KG00098066	Binocular vision disorders	0.011656109243631363
+trial_2	hexetidine	261	KG00101559	raised alkaline phosphatase	0.011398741975426674
+trial_2	hexetidine	191	KG00104055	Biliverdin increased	0.010995635762810707
+trial_2	hexetidine	102	KG00097916	anxieties	0.010915122926235199
+trial_2	hexetidine	262	KG00101199	agitation	0.010629293508827686
+trial_2	hexetidine	249	KG00104430	hypoalbuminaemia	0.010607331991195679
+trial_2	hexetidine	69	KG00100082	Palpitations NOS	0.010385981760919094
+trial_2	hexetidine	33	KG00100094	Pancreatitis NOS	0.010273348540067673
+trial_2	hexetidine	72	KG00103771	myalgias	0.010184193029999733
+trial_2	hexetidine	11	KG00097993	Asthma NOS	0.010117863304913044
+trial_2	hexetidine	394	KG00100243	Pneumonia, Aspiration	0.009942824952304363
+trial_2	hexetidine	194	KG00110727	Neutrophil Count Decreased	0.009941533207893372
+trial_2	hexetidine	199	KG00098371	Rhinitis (chronic) NOS	0.009693006984889507
+trial_2	hexetidine	139	KG00098855	Sinusitis, Ethmoid	0.009577914141118526
+trial_2	hexetidine	286	KG00101110	Retention, Urinary	0.00955894310027361
+trial_2	hexetidine	118	KG00099011	Gastritis NOS	0.009537172503769398
+trial_2	hexetidine	371	KG00098517	Cystitis (NOS)	0.009475499391555786
+trial_2	hexetidine	82	KG00097697	abdomen distended	0.00946024525910616
+trial_2	hexetidine	130	KG00100683	Stomatitis NOS	0.009409584105014801
+trial_2	hexetidine	186	KG00101431	creatinine increased	0.00939146801829338
+trial_2	hexetidine	144	KG00099610	Leukopenia NOS	0.00934839341789484
+trial_2	hexetidine	234	KG00098669	dysgeusias	0.009312348440289497
+trial_2	hexetidine	163	KG00104050	bowel obstructions small	0.00929311290383339
+trial_2	hexetidine	138	KG00098796	epidemic vomiting syndrome	0.009256374090909958
+trial_2	hexetidine	92	KG00100926	Infections, Upper Respiratory	0.009193055331707
+trial_2	hexetidine	257	KG00100922	Erythema NOS	0.009124857373535633
+trial_2	hexetidine	154	KG00099686	Lymphopenias	0.009079299867153168
+trial_2	hexetidine	466	KG00101205	fall	0.009051336906850338
+trial_2	hexetidine	268	KG00099557	Heart Failure, Left-Sided	0.00890305358916521
+trial_2	hexetidine	132	KG00101045	Gain, Weight	0.008833504281938076
+trial_2	hexetidine	221	KG00101207	peripheral oedema	0.008620456792414188
+trial_2	hexetidine	25	KG00099134	congestive failures heart	0.008574100211262703
+trial_2	hexetidine	1	KG00099959	Neutropenia NOS	0.008502177894115448
+trial_2	hexetidine	116	KG00098964	Pain in foot	0.008389227092266083
+trial_2	hexetidine	22	KG00098705	Edema (NOS)	0.0083635738119483
+trial_2	hexetidine	271	KG00103813	reflex bradycardia	0.008338198997080326
+trial_2	hexetidine	254	KG00100774	Thrombosis NOS	0.00828108936548233
+trial_2	hexetidine	263	KG00101519	Ischemia, Myocardial	0.008279307745397091

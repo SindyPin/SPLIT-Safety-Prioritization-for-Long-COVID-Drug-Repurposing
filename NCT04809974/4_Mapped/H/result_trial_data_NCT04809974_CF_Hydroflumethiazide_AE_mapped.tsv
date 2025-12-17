@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.17697937786579132
+trial_1	placebo	87	KG00098599	diarrhoea	0.1438344269990921
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12094812840223312
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11083541065454483
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10166972875595093
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09893067926168442
+trial_1	placebo	46	KG00099121	Headache NOS	0.09636302292346954
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09209519624710083
+trial_1	placebo	9	KG00098432	Confusion NOS	0.09059898555278778
+trial_1	placebo	20	KG00098540	dehydration	0.08371010422706604
+trial_1	placebo	21	KG00098675	dyspnoea	0.08008772879838943
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07985828071832657
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07838533073663712
+trial_1	placebo	228	KG00114657	Weight below normal	0.07637188583612442
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07443692535161972
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07281401753425598
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07256708294153214
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07060685008764267
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06970258802175522
+trial_1	placebo	68	KG00099901	nauseas	0.06781590729951859
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0669914186000824
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06438722461462021
+trial_1	placebo	86	KG00098565	Depression, Mental	0.062040455639362335
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0587841160595417
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05843772366642952
+trial_1	placebo	77	KG00098450	Constipation NOS	0.056066952645778656
+trial_1	placebo	114	KG00098933	fevers	0.05544483661651611
+trial_1	placebo	14	KG00097852	Anemia NOS	0.054938528686761856
+trial_1	placebo	104	KG00097963	arthralgias	0.05395149439573288
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05315154045820236
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05294571816921234
+trial_1	placebo	85	KG00098474	coughs	0.05209449306130409
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05151837691664696
+trial_1	placebo	126	KG00100076	Pain NOS	0.05074552074074745
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04752514883875847
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04717591404914856
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.046377141028642654
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04567970708012581
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04346692934632301
+trial_1	placebo	239	KG00100128	pareses	0.0434144102036953
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04293432831764221
+trial_1	placebo	72	KG00103771	myalgias	0.042890723794698715
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.041741617023944855
+trial_1	placebo	102	KG00097916	anxieties	0.04116395488381386
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04042963683605194
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03856789693236351
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.038200702518224716
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03704105317592621
+trial_1	placebo	5	KG00099169	haematuria	0.036570098251104355
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03608022630214691
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03525446355342865
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03493886440992355
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03474677726626396
+trial_1	placebo	147	KG00098000	atelectases	0.03473075479269028
+trial_1	placebo	262	KG00101199	agitation	0.033662278205156326
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03318781778216362
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03314421698451042
+trial_1	placebo	121	KG00099190	haemorrhage	0.032918237149715424
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03290725126862526
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03216417133808136
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.031700294464826584
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03148047998547554
+trial_1	placebo	116	KG00098964	Pain in foot	0.03096470795571804
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.030411606654524803
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030105628073215485
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030009469017386436
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02999820187687874
+trial_1	placebo	466	KG00101205	fall	0.029838301241397858
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029514286667108536
+trial_1	placebo	269	KG00100399	pyaemia	0.027554670348763466
+trial_1	placebo	100	KG00097815	alopecias	0.027349509298801422
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027072729542851448
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026458434760570526
+trial_1	placebo	234	KG00098669	dysgeusias	0.026454607024788857
+trial_1	placebo	82	KG00097697	abdomen distended	0.026450924575328827
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026262925937771797
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02575262449681759
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02548012137413025
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.024442821741104126
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02408190630376339
+trial_1	placebo	164	KG00108827	ileus colon	0.023742837831377983
+trial_1	placebo	242	KG00100855	tremors	0.023509742692112923
+trial_1	placebo	4	KG00098817	epistaxis	0.02333064377307892
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02319246716797352
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.02299601584672928
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02296694740653038
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02271578274667263
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02268078178167343
+trial_1	placebo	186	KG00101431	creatinine increased	0.02199031226336956
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021883608773350716
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.02183692716062069
+trial_1	placebo	11	KG00097993	Asthma NOS	0.021492933854460716
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.021489249542355537
+trial_1	placebo	212	KG00100576	shivers	0.02147578075528145
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021372098475694656
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021276744082570076
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021167658269405365
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.021083969622850418
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02101203426718712
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020767085254192352
+trial_2	hydroflumethiazide	78	KG00099326	Hypertensive diseases	0.17697937786579132
+trial_2	hydroflumethiazide	87	KG00098599	diarrhoea	0.1438344269990921
+trial_2	hydroflumethiazide	177	KG00099299	hyperglycaemia	0.12094812840223312
+trial_2	hydroflumethiazide	17	KG00097991	Asthenia NOS	0.11083541065454483
+trial_2	hydroflumethiazide	189	KG00101580	Alanine aminotransferase increase	0.10166972875595093
+trial_2	hydroflumethiazide	123	KG00099351	hypokalaemia	0.09893067926168442
+trial_2	hydroflumethiazide	46	KG00099121	Headache NOS	0.09636302292346954
+trial_2	hydroflumethiazide	173	KG00098172	Bronchopneumonia NOS	0.09209519624710083
+trial_2	hydroflumethiazide	9	KG00098432	Confusion NOS	0.09059898555278778
+trial_2	hydroflumethiazide	20	KG00098540	dehydration	0.08371010422706604
+trial_2	hydroflumethiazide	21	KG00098675	dyspnoea	0.08008772879838943
+trial_2	hydroflumethiazide	188	KG00101579	Aspartate aminotransferase increase	0.07985828071832657
+trial_2	hydroflumethiazide	79	KG00100317	Insomnia, Primary	0.07838533073663712
+trial_2	hydroflumethiazide	228	KG00114657	Weight below normal	0.07637188583612442
+trial_2	hydroflumethiazide	37	KG00097696	Cramps, Abdominal	0.07443692535161972
+trial_2	hydroflumethiazide	49	KG00099902	nausea with vomiting	0.07281401753425598
+trial_2	hydroflumethiazide	350	KG00106765	decreased platelet count	0.07256708294153214
+trial_2	hydroflumethiazide	29	KG00099354	hyponatraemia	0.07060685008764267
+trial_2	hydroflumethiazide	67	KG00098673	Dyspepsia, NOS	0.06970258802175522
+trial_2	hydroflumethiazide	68	KG00099901	nauseas	0.06781590729951859
+trial_2	hydroflumethiazide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0669914186000824
+trial_2	hydroflumethiazide	2	KG00100772	thrombocytopaenia	0.06438722461462021
+trial_2	hydroflumethiazide	86	KG00098565	Depression, Mental	0.062040455639362335
+trial_2	hydroflumethiazide	64	KG00097734	Acrodermatitis, NOS	0.0587841160595417
+trial_2	hydroflumethiazide	200	KG00098539	Disorders, Deglutition	0.05843772366642952
+trial_2	hydroflumethiazide	77	KG00098450	Constipation NOS	0.056066952645778656
+trial_2	hydroflumethiazide	114	KG00098933	fevers	0.05544483661651611
+trial_2	hydroflumethiazide	14	KG00097852	Anemia NOS	0.054938528686761856
+trial_2	hydroflumethiazide	104	KG00097963	arthralgias	0.05395149439573288
+trial_2	hydroflumethiazide	151	KG00098274	Infarction, Cerebral	0.05315154045820236
+trial_2	hydroflumethiazide	179	KG00099342	hypocalcaemia	0.05294571816921234
+trial_2	hydroflumethiazide	85	KG00098474	coughs	0.05209449306130409
+trial_2	hydroflumethiazide	194	KG00110727	Neutrophil Count Decreased	0.05151837691664696
+trial_2	hydroflumethiazide	126	KG00100076	Pain NOS	0.05074552074074745
+trial_2	hydroflumethiazide	243	KG00100947	Micturition frequency increased	0.04752514883875847
+trial_2	hydroflumethiazide	101	KG00097901	Anorexia NOS	0.04717591404914856
+trial_2	hydroflumethiazide	122	KG00099321	Hypersensitivity NOS	0.046377141028642654
+trial_2	hydroflumethiazide	76	KG00100450	Respiratory insufficiency, NOS	0.04567970708012581
+trial_2	hydroflumethiazide	180	KG00099363	Hypotension NOS	0.04346692934632301
+trial_2	hydroflumethiazide	239	KG00100128	pareses	0.0434144102036953
+trial_2	hydroflumethiazide	96	KG00101679	Unattended death NOS	0.04293432831764221
+trial_2	hydroflumethiazide	72	KG00103771	myalgias	0.042890723794698715
+trial_2	hydroflumethiazide	27	KG00099303	hyperkalaemia	0.041741617023944855
+trial_2	hydroflumethiazide	102	KG00097916	anxieties	0.04116395488381386
+trial_2	hydroflumethiazide	28	KG00099347	hypoglycaemia	0.04042963683605194
+trial_2	hydroflumethiazide	139	KG00098855	Sinusitis, Ethmoid	0.03856789693236351
+trial_2	hydroflumethiazide	38	KG00098066	Binocular vision disorders	0.038200702518224716
+trial_2	hydroflumethiazide	61	KG00099501	Chronic Kidney Failure	0.03704105317592621
+trial_2	hydroflumethiazide	5	KG00099169	haematuria	0.036570098251104355
+trial_2	hydroflumethiazide	144	KG00099610	Leukopenia NOS	0.03608022630214691
+trial_2	hydroflumethiazide	132	KG00101045	Gain, Weight	0.03525446355342865
+trial_2	hydroflumethiazide	355	KG00110857	lymphocyte count decreased	0.03493886440992355
+trial_2	hydroflumethiazide	282	KG00099309	hypernatraemia	0.03474677726626396
+trial_2	hydroflumethiazide	147	KG00098000	atelectases	0.03473075479269028
+trial_2	hydroflumethiazide	262	KG00101199	agitation	0.033662278205156326
+trial_2	hydroflumethiazide	30	KG00099500	Acute Kidney Failure	0.03318781778216362
+trial_2	hydroflumethiazide	261	KG00101559	raised alkaline phosphatase	0.03314421698451042
+trial_2	hydroflumethiazide	121	KG00099190	haemorrhage	0.032918237149715424
+trial_2	hydroflumethiazide	142	KG00100923	Unspecified infectious and parasitic diseases	0.03290725126862526
+trial_2	hydroflumethiazide	1	KG00099959	Neutropenia NOS	0.03216417133808136
+trial_2	hydroflumethiazide	191	KG00104055	Biliverdin increased	0.031700294464826584
+trial_2	hydroflumethiazide	69	KG00100082	Palpitations NOS	0.03148047998547554
+trial_2	hydroflumethiazide	116	KG00098964	Pain in foot	0.03096470795571804
+trial_2	hydroflumethiazide	249	KG00104430	hypoalbuminaemia	0.030411606654524803
+trial_2	hydroflumethiazide	18	KG00098307	Pain, Chest	0.030105628073215485
+trial_2	hydroflumethiazide	36	KG00106434	Vision, Blurring Of	0.030009469017386436
+trial_2	hydroflumethiazide	154	KG00099686	Lymphopenias	0.02999820187687874
+trial_2	hydroflumethiazide	466	KG00101205	fall	0.029838301241397858
+trial_2	hydroflumethiazide	131	KG00100948	Urinary tract infection (& [NOS])	0.029514286667108536
+trial_2	hydroflumethiazide	269	KG00100399	pyaemia	0.027554670348763466
+trial_2	hydroflumethiazide	100	KG00097815	alopecias	0.027349509298801422
+trial_2	hydroflumethiazide	396	KG00100373	Embolism, Pulmonary	0.027072729542851448
+trial_2	hydroflumethiazide	276	KG00099127	Arrest, Cardiac	0.026458434760570526
+trial_2	hydroflumethiazide	234	KG00098669	dysgeusias	0.026454607024788857
+trial_2	hydroflumethiazide	82	KG00097697	abdomen distended	0.026450924575328827
+trial_2	hydroflumethiazide	92	KG00100926	Infections, Upper Respiratory	0.026262925937771797
+trial_2	hydroflumethiazide	35	KG00101507	hypomagnesaemia	0.02575262449681759
+trial_2	hydroflumethiazide	361	KG00098004	Fibrillation, Atrial	0.02548012137413025
+trial_2	hydroflumethiazide	130	KG00100683	Stomatitis NOS	0.024442821741104126
+trial_2	hydroflumethiazide	288	KG00101223	hypophosphataemia	0.02408190630376339
+trial_2	hydroflumethiazide	164	KG00108827	ileus colon	0.023742837831377983
+trial_2	hydroflumethiazide	242	KG00100855	tremors	0.023509742692112923
+trial_2	hydroflumethiazide	4	KG00098817	epistaxis	0.02333064377307892
+trial_2	hydroflumethiazide	441	KG00098262	cellulitis nos	0.02319246716797352
+trial_2	hydroflumethiazide	341	KG00101472	Gamma-glutamyltransferase increased	0.02299601584672928
+trial_2	hydroflumethiazide	508	KG00108565	blood glucose increased	0.02296694740653038
+trial_2	hydroflumethiazide	166	KG00099773	menopausal syndrome	0.02271578274667263
+trial_2	hydroflumethiazide	204	KG00098849	Esophagitis, Peptic	0.02268078178167343
+trial_2	hydroflumethiazide	186	KG00101431	creatinine increased	0.02199031226336956
+trial_2	hydroflumethiazide	356	KG00112623	Infectious Lung Disorders	0.021883608773350716
+trial_2	hydroflumethiazide	98	KG00097718	Incised wound, NOS	0.02183692716062069
+trial_2	hydroflumethiazide	11	KG00097993	Asthma NOS	0.021492933854460716
+trial_2	hydroflumethiazide	152	KG00099402	INCONTINENCE NOS	0.021489249542355537
+trial_2	hydroflumethiazide	212	KG00100576	shivers	0.02147578075528145
+trial_2	hydroflumethiazide	253	KG00100232	Pleural effusion NOS (disorder)	0.021372098475694656
+trial_2	hydroflumethiazide	33	KG00100094	Pancreatitis NOS	0.021276744082570076
+trial_2	hydroflumethiazide	256	KG00100738	Tachycardia, Sinus	0.021167658269405365
+trial_2	hydroflumethiazide	218	KG00100801	Tinnitus NOS	0.021083969622850418
+trial_2	hydroflumethiazide	195	KG00097814	Atopic Rhinitis	0.02101203426718712
+trial_2	hydroflumethiazide	75	KG00100195	Dolens, Phlegmasia Alba	0.020767085254192352

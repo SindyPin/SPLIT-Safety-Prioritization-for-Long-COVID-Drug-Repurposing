@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.13502749800682068
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10146863013505936
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08954164385795593
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08068917691707611
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07256626337766647
+trial_1	placebo	46	KG00099121	Headache NOS	0.06953523308038712
+trial_1	placebo	20	KG00098540	dehydration	0.06641457229852676
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06114950776100159
+trial_1	placebo	77	KG00098450	Constipation NOS	0.06103290244936943
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05993088707327843
+trial_1	placebo	21	KG00098675	dyspnoea	0.05907544866204262
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05580941215157509
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05341940000653267
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.048981405794620514
+trial_1	placebo	68	KG00099901	nauseas	0.04548546299338341
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.044736068695783615
+trial_1	placebo	228	KG00114657	Weight below normal	0.04213223606348038
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04207540675997734
+trial_1	placebo	85	KG00098474	coughs	0.04075668007135391
+trial_1	placebo	300	KG00101064	xerostomia	0.039021044969558716
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.037993695586919785
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03696734830737114
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03630159795284271
+trial_1	placebo	126	KG00100076	Pain NOS	0.03620757535099983
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.035870980471372604
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0350128673017025
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.034242913126945496
+trial_1	placebo	114	KG00098933	fevers	0.03354448452591896
+trial_1	placebo	66	KG00098642	drowsiness	0.03350101038813591
+trial_1	placebo	86	KG00098565	Depression, Mental	0.030893851071596146
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03025292232632637
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.029885904863476753
+trial_1	placebo	102	KG00097916	anxieties	0.029034728184342384
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02900717593729496
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.028528857976198196
+trial_1	placebo	234	KG00098669	dysgeusias	0.028250407427549362
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02815292961895466
+trial_1	placebo	132	KG00101045	Gain, Weight	0.027761077508330345
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.026717377826571465
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0264565572142601
+trial_1	placebo	104	KG00097963	arthralgias	0.025916151702404022
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.025626739487051964
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02539193443953991
+trial_1	placebo	5	KG00099169	haematuria	0.024270709604024887
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024116424843668938
+trial_1	placebo	239	KG00100128	pareses	0.02397129312157631
+trial_1	placebo	242	KG00100855	tremors	0.023726293817162514
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02367302216589451
+trial_1	placebo	350	KG00106765	decreased platelet count	0.023559726774692535
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.023349545896053314
+trial_1	placebo	262	KG00101199	agitation	0.02237805724143982
+trial_1	placebo	136	KG00101582	Dry;skin	0.022303953766822815
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02146175131201744
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021353257820010185
+trial_1	placebo	18	KG00098307	Pain, Chest	0.020578203722834587
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02041858434677124
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.020399795845150948
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02016693726181984
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01982915587723255
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.019813556224107742
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01966751553118229
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.019133377820253372
+trial_1	placebo	147	KG00098000	atelectases	0.019128035753965378
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.019068440422415733
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0190673116594553
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019050918519496918
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.018731791526079178
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.01862771064043045
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.01847086474299431
+trial_1	placebo	186	KG00101431	creatinine increased	0.01812928542494774
+trial_1	placebo	4	KG00098817	epistaxis	0.017850352451205254
+trial_1	placebo	121	KG00099190	haemorrhage	0.017656832933425903
+trial_1	placebo	82	KG00097697	abdomen distended	0.017186323180794716
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.017022298648953438
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01695411279797554
+trial_1	placebo	116	KG00098964	Pain in foot	0.01690240576863289
+trial_1	placebo	269	KG00100399	pyaemia	0.01689261384308338
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016486838459968567
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.016155388206243515
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.016121333464980125
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01567908003926277
+trial_1	placebo	466	KG00101205	fall	0.015293991193175316
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.015284829773008823
+trial_1	placebo	164	KG00108827	ileus colon	0.014689333736896515
+trial_1	placebo	456	KG00099420	Influenzae	0.014654108323156834
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01459816750138998
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.014559430070221424
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.014518007636070251
+trial_1	placebo	441	KG00098262	cellulitis nos	0.01434755977243185
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014300225302577019
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.014108545146882534
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01390500646084547
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.013683375902473927
+trial_1	placebo	235	KG00098682	Dysuria NOS	0.013516822829842567
+trial_1	placebo	339	KG00100334	proteinurias	0.013506177812814713
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.013397115282714367
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.013246741145849228
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.013174261897802353
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.013063411228358746
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.012980859726667404
+trial_2	hydroxyzine	87	KG00098599	diarrhoea	0.13502749800682068
+trial_2	hydroxyzine	17	KG00097991	Asthenia NOS	0.10146863013505936
+trial_2	hydroxyzine	9	KG00098432	Confusion NOS	0.08954164385795593
+trial_2	hydroxyzine	78	KG00099326	Hypertensive diseases	0.08068917691707611
+trial_2	hydroxyzine	177	KG00099299	hyperglycaemia	0.07256626337766647
+trial_2	hydroxyzine	46	KG00099121	Headache NOS	0.06953523308038712
+trial_2	hydroxyzine	20	KG00098540	dehydration	0.06641457229852676
+trial_2	hydroxyzine	49	KG00099902	nausea with vomiting	0.06114950776100159
+trial_2	hydroxyzine	77	KG00098450	Constipation NOS	0.06103290244936943
+trial_2	hydroxyzine	123	KG00099351	hypokalaemia	0.05993088707327843
+trial_2	hydroxyzine	21	KG00098675	dyspnoea	0.05907544866204262
+trial_2	hydroxyzine	173	KG00098172	Bronchopneumonia NOS	0.05580941215157509
+trial_2	hydroxyzine	37	KG00097696	Cramps, Abdominal	0.05341940000653267
+trial_2	hydroxyzine	79	KG00100317	Insomnia, Primary	0.048981405794620514
+trial_2	hydroxyzine	68	KG00099901	nauseas	0.04548546299338341
+trial_2	hydroxyzine	64	KG00097734	Acrodermatitis, NOS	0.044736068695783615
+trial_2	hydroxyzine	228	KG00114657	Weight below normal	0.04213223606348038
+trial_2	hydroxyzine	200	KG00098539	Disorders, Deglutition	0.04207540675997734
+trial_2	hydroxyzine	85	KG00098474	coughs	0.04075668007135391
+trial_2	hydroxyzine	300	KG00101064	xerostomia	0.039021044969558716
+trial_2	hydroxyzine	180	KG00099363	Hypotension NOS	0.037993695586919785
+trial_2	hydroxyzine	67	KG00098673	Dyspepsia, NOS	0.03696734830737114
+trial_2	hydroxyzine	96	KG00101679	Unattended death NOS	0.03630159795284271
+trial_2	hydroxyzine	126	KG00100076	Pain NOS	0.03620757535099983
+trial_2	hydroxyzine	151	KG00098274	Infarction, Cerebral	0.035870980471372604
+trial_2	hydroxyzine	29	KG00099354	hyponatraemia	0.0350128673017025
+trial_2	hydroxyzine	101	KG00097901	Anorexia NOS	0.034242913126945496
+trial_2	hydroxyzine	114	KG00098933	fevers	0.03354448452591896
+trial_2	hydroxyzine	66	KG00098642	drowsiness	0.03350101038813591
+trial_2	hydroxyzine	86	KG00098565	Depression, Mental	0.030893851071596146
+trial_2	hydroxyzine	61	KG00099501	Chronic Kidney Failure	0.03025292232632637
+trial_2	hydroxyzine	76	KG00100450	Respiratory insufficiency, NOS	0.029885904863476753
+trial_2	hydroxyzine	102	KG00097916	anxieties	0.029034728184342384
+trial_2	hydroxyzine	14	KG00097852	Anemia NOS	0.02900717593729496
+trial_2	hydroxyzine	189	KG00101580	Alanine aminotransferase increase	0.028528857976198196
+trial_2	hydroxyzine	234	KG00098669	dysgeusias	0.028250407427549362
+trial_2	hydroxyzine	130	KG00100683	Stomatitis NOS	0.02815292961895466
+trial_2	hydroxyzine	132	KG00101045	Gain, Weight	0.027761077508330345
+trial_2	hydroxyzine	28	KG00099347	hypoglycaemia	0.026717377826571465
+trial_2	hydroxyzine	188	KG00101579	Aspartate aminotransferase increase	0.0264565572142601
+trial_2	hydroxyzine	104	KG00097963	arthralgias	0.025916151702404022
+trial_2	hydroxyzine	142	KG00100923	Unspecified infectious and parasitic diseases	0.025626739487051964
+trial_2	hydroxyzine	36	KG00106434	Vision, Blurring Of	0.02539193443953991
+trial_2	hydroxyzine	5	KG00099169	haematuria	0.024270709604024887
+trial_2	hydroxyzine	131	KG00100948	Urinary tract infection (& [NOS])	0.024116424843668938
+trial_2	hydroxyzine	239	KG00100128	pareses	0.02397129312157631
+trial_2	hydroxyzine	242	KG00100855	tremors	0.023726293817162514
+trial_2	hydroxyzine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02367302216589451
+trial_2	hydroxyzine	350	KG00106765	decreased platelet count	0.023559726774692535
+trial_2	hydroxyzine	30	KG00099500	Acute Kidney Failure	0.023349545896053314
+trial_2	hydroxyzine	262	KG00101199	agitation	0.02237805724143982
+trial_2	hydroxyzine	136	KG00101582	Dry;skin	0.022303953766822815
+trial_2	hydroxyzine	179	KG00099342	hypocalcaemia	0.02146175131201744
+trial_2	hydroxyzine	122	KG00099321	Hypersensitivity NOS	0.021353257820010185
+trial_2	hydroxyzine	18	KG00098307	Pain, Chest	0.020578203722834587
+trial_2	hydroxyzine	199	KG00098371	Rhinitis (chronic) NOS	0.02041858434677124
+trial_2	hydroxyzine	261	KG00101559	raised alkaline phosphatase	0.020399795845150948
+trial_2	hydroxyzine	69	KG00100082	Palpitations NOS	0.02016693726181984
+trial_2	hydroxyzine	249	KG00104430	hypoalbuminaemia	0.01982915587723255
+trial_2	hydroxyzine	38	KG00098066	Binocular vision disorders	0.019813556224107742
+trial_2	hydroxyzine	92	KG00100926	Infections, Upper Respiratory	0.01966751553118229
+trial_2	hydroxyzine	35	KG00101507	hypomagnesaemia	0.019133377820253372
+trial_2	hydroxyzine	147	KG00098000	atelectases	0.019128035753965378
+trial_2	hydroxyzine	243	KG00100947	Micturition frequency increased	0.019068440422415733
+trial_2	hydroxyzine	2	KG00100772	thrombocytopaenia	0.0190673116594553
+trial_2	hydroxyzine	221	KG00101207	peripheral oedema	0.019050918519496918
+trial_2	hydroxyzine	27	KG00099303	hyperkalaemia	0.018731791526079178
+trial_2	hydroxyzine	396	KG00100373	Embolism, Pulmonary	0.01862771064043045
+trial_2	hydroxyzine	211	KG00100341	Pruritus NOS	0.01847086474299431
+trial_2	hydroxyzine	186	KG00101431	creatinine increased	0.01812928542494774
+trial_2	hydroxyzine	4	KG00098817	epistaxis	0.017850352451205254
+trial_2	hydroxyzine	121	KG00099190	haemorrhage	0.017656832933425903
+trial_2	hydroxyzine	82	KG00097697	abdomen distended	0.017186323180794716
+trial_2	hydroxyzine	139	KG00098855	Sinusitis, Ethmoid	0.017022298648953438
+trial_2	hydroxyzine	191	KG00104055	Biliverdin increased	0.01695411279797554
+trial_2	hydroxyzine	116	KG00098964	Pain in foot	0.01690240576863289
+trial_2	hydroxyzine	269	KG00100399	pyaemia	0.01689261384308338
+trial_2	hydroxyzine	138	KG00098796	epidemic vomiting syndrome	0.016486838459968567
+trial_2	hydroxyzine	194	KG00110727	Neutrophil Count Decreased	0.016155388206243515
+trial_2	hydroxyzine	356	KG00112623	Infectious Lung Disorders	0.016121333464980125
+trial_2	hydroxyzine	286	KG00101110	Retention, Urinary	0.01567908003926277
+trial_2	hydroxyzine	466	KG00101205	fall	0.015293991193175316
+trial_2	hydroxyzine	22	KG00098705	Edema (NOS)	0.015284829773008823
+trial_2	hydroxyzine	164	KG00108827	ileus colon	0.014689333736896515
+trial_2	hydroxyzine	456	KG00099420	Influenzae	0.014654108323156834
+trial_2	hydroxyzine	276	KG00099127	Arrest, Cardiac	0.01459816750138998
+trial_2	hydroxyzine	288	KG00101223	hypophosphataemia	0.014559430070221424
+trial_2	hydroxyzine	204	KG00098849	Esophagitis, Peptic	0.014518007636070251
+trial_2	hydroxyzine	441	KG00098262	cellulitis nos	0.01434755977243185
+trial_2	hydroxyzine	75	KG00100195	Dolens, Phlegmasia Alba	0.014300225302577019
+trial_2	hydroxyzine	254	KG00100774	Thrombosis NOS	0.014108545146882534
+trial_2	hydroxyzine	355	KG00110857	lymphocyte count decreased	0.01390500646084547
+trial_2	hydroxyzine	170	KG00108926	Neutropenia, Febrile	0.013683375902473927
+trial_2	hydroxyzine	235	KG00098682	Dysuria NOS	0.013516822829842567
+trial_2	hydroxyzine	339	KG00100334	proteinurias	0.013506177812814713
+trial_2	hydroxyzine	133	KG00101370	neuropathies sensory	0.013397115282714367
+trial_2	hydroxyzine	195	KG00097814	Atopic Rhinitis	0.013246741145849228
+trial_2	hydroxyzine	118	KG00099011	Gastritis NOS	0.013174261897802353
+trial_2	hydroxyzine	1	KG00099959	Neutropenia NOS	0.013063411228358746
+trial_2	hydroxyzine	144	KG00099610	Leukopenia NOS	0.012980859726667404

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20280079543590546
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18253019452095032
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.14146903157234192
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1413852572441101
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12333251535892487
+trial_1	placebo	20	KG00098540	dehydration	0.12202341109514236
+trial_1	placebo	123	KG00099351	hypokalaemia	0.1172519400715828
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.11350186914205551
+trial_1	placebo	68	KG00099901	nauseas	0.10452928394079208
+trial_1	placebo	228	KG00114657	Weight below normal	0.10417190939188004
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09622588753700256
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09593454748392105
+trial_1	placebo	46	KG00099121	Headache NOS	0.09488783031702042
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.09373398870229721
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09266585111618042
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09014537185430527
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0889522060751915
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08888933807611465
+trial_1	placebo	21	KG00098675	dyspnoea	0.08685830235481262
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08258845657110214
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08083496987819672
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.07808277010917664
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07684112340211868
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06446138769388199
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.063473179936409
+trial_1	placebo	14	KG00097852	Anemia NOS	0.061995189636945724
+trial_1	placebo	239	KG00100128	pareses	0.061346493661403656
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.058526474982500076
+trial_1	placebo	104	KG00097963	arthralgias	0.05782320722937584
+trial_1	placebo	126	KG00100076	Pain NOS	0.05747700482606888
+trial_1	placebo	86	KG00098565	Depression, Mental	0.05733003094792366
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05670842528343201
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.054935991764068604
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05423670634627342
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05304517596960068
+trial_1	placebo	114	KG00098933	fevers	0.05263026803731918
+trial_1	placebo	72	KG00103771	myalgias	0.05136921629309654
+trial_1	placebo	102	KG00097916	anxieties	0.050979677587747574
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.050402987748384476
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04789213463664055
+trial_1	placebo	5	KG00099169	haematuria	0.04668761417269707
+trial_1	placebo	85	KG00098474	coughs	0.04653649404644966
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04555555060505867
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04393307864665985
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04319242760539055
+trial_1	placebo	82	KG00097697	abdomen distended	0.04219631478190422
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04197617620229721
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.041563306003808975
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04140782356262207
+trial_1	placebo	147	KG00098000	atelectases	0.04120062291622162
+trial_1	placebo	132	KG00101045	Gain, Weight	0.040584173053503036
+trial_1	placebo	282	KG00099309	hypernatraemia	0.040351688861846924
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04006730765104294
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.039744749665260315
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03948545828461647
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.039325322955846786
+trial_1	placebo	116	KG00098964	Pain in foot	0.03886685520410538
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0382743701338768
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03763952478766441
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03655814379453659
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03637481853365898
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.035915352404117584
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03587784245610237
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.035333260893821716
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03530927002429962
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.03369271382689476
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03330262750387192
+trial_1	placebo	212	KG00100576	shivers	0.0331328883767128
+trial_1	placebo	121	KG00099190	haemorrhage	0.032484959810972214
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03247795253992081
+trial_1	placebo	262	KG00101199	agitation	0.03233715519309044
+trial_1	placebo	234	KG00098669	dysgeusias	0.0316891223192215
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.030915500596165657
+trial_1	placebo	186	KG00101431	creatinine increased	0.030216164886951447
+trial_1	placebo	466	KG00101205	fall	0.029931534081697464
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.029732720926404
+trial_1	placebo	269	KG00100399	pyaemia	0.029313024133443832
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02903112769126892
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02888592891395092
+trial_1	placebo	164	KG00108827	ileus colon	0.028531163930892944
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.028076771646738052
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02781604789197445
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02775588445365429
+trial_1	placebo	100	KG00097815	alopecias	0.02750694565474987
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02745871990919113
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.027456631883978844
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02740306220948696
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.027353016659617424
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02688598819077015
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026762450113892555
+trial_1	placebo	242	KG00100855	tremors	0.026730984449386597
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02665451169013977
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.026562869548797607
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.02646072581410408
+trial_1	placebo	454	KG00098286	Pain, Neck	0.026350850239396095
+trial_1	placebo	508	KG00108565	blood glucose increased	0.025872791185975075
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.025771858170628548
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025337504222989082
+trial_1	placebo	136	KG00101582	Dry;skin	0.025237156078219414
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025138720870018005
+trial_2	haloprogin	87	KG00098599	diarrhoea	0.20280079543590546
+trial_2	haloprogin	78	KG00099326	Hypertensive diseases	0.18253019452095032
+trial_2	haloprogin	177	KG00099299	hyperglycaemia	0.14146903157234192
+trial_2	haloprogin	17	KG00097991	Asthenia NOS	0.1413852572441101
+trial_2	haloprogin	9	KG00098432	Confusion NOS	0.12333251535892487
+trial_2	haloprogin	20	KG00098540	dehydration	0.12202341109514236
+trial_2	haloprogin	123	KG00099351	hypokalaemia	0.1172519400715828
+trial_2	haloprogin	189	KG00101580	Alanine aminotransferase increase	0.11350186914205551
+trial_2	haloprogin	68	KG00099901	nauseas	0.10452928394079208
+trial_2	haloprogin	228	KG00114657	Weight below normal	0.10417190939188004
+trial_2	haloprogin	188	KG00101579	Aspartate aminotransferase increase	0.09622588753700256
+trial_2	haloprogin	173	KG00098172	Bronchopneumonia NOS	0.09593454748392105
+trial_2	haloprogin	46	KG00099121	Headache NOS	0.09488783031702042
+trial_2	haloprogin	64	KG00097734	Acrodermatitis, NOS	0.09373398870229721
+trial_2	haloprogin	77	KG00098450	Constipation NOS	0.09266585111618042
+trial_2	haloprogin	79	KG00100317	Insomnia, Primary	0.09014537185430527
+trial_2	haloprogin	67	KG00098673	Dyspepsia, NOS	0.0889522060751915
+trial_2	haloprogin	37	KG00097696	Cramps, Abdominal	0.08888933807611465
+trial_2	haloprogin	21	KG00098675	dyspnoea	0.08685830235481262
+trial_2	haloprogin	49	KG00099902	nausea with vomiting	0.08258845657110214
+trial_2	haloprogin	200	KG00098539	Disorders, Deglutition	0.08083496987819672
+trial_2	haloprogin	243	KG00100947	Micturition frequency increased	0.07808277010917664
+trial_2	haloprogin	29	KG00099354	hyponatraemia	0.07684112340211868
+trial_2	haloprogin	350	KG00106765	decreased platelet count	0.06446138769388199
+trial_2	haloprogin	180	KG00099363	Hypotension NOS	0.063473179936409
+trial_2	haloprogin	14	KG00097852	Anemia NOS	0.061995189636945724
+trial_2	haloprogin	239	KG00100128	pareses	0.061346493661403656
+trial_2	haloprogin	101	KG00097901	Anorexia NOS	0.058526474982500076
+trial_2	haloprogin	104	KG00097963	arthralgias	0.05782320722937584
+trial_2	haloprogin	126	KG00100076	Pain NOS	0.05747700482606888
+trial_2	haloprogin	86	KG00098565	Depression, Mental	0.05733003094792366
+trial_2	haloprogin	179	KG00099342	hypocalcaemia	0.05670842528343201
+trial_2	haloprogin	27	KG00099303	hyperkalaemia	0.054935991764068604
+trial_2	haloprogin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05423670634627342
+trial_2	haloprogin	76	KG00100450	Respiratory insufficiency, NOS	0.05304517596960068
+trial_2	haloprogin	114	KG00098933	fevers	0.05263026803731918
+trial_2	haloprogin	72	KG00103771	myalgias	0.05136921629309654
+trial_2	haloprogin	102	KG00097916	anxieties	0.050979677587747574
+trial_2	haloprogin	2	KG00100772	thrombocytopaenia	0.050402987748384476
+trial_2	haloprogin	28	KG00099347	hypoglycaemia	0.04789213463664055
+trial_2	haloprogin	5	KG00099169	haematuria	0.04668761417269707
+trial_2	haloprogin	85	KG00098474	coughs	0.04653649404644966
+trial_2	haloprogin	122	KG00099321	Hypersensitivity NOS	0.04555555060505867
+trial_2	haloprogin	151	KG00098274	Infarction, Cerebral	0.04393307864665985
+trial_2	haloprogin	261	KG00101559	raised alkaline phosphatase	0.04319242760539055
+trial_2	haloprogin	82	KG00097697	abdomen distended	0.04219631478190422
+trial_2	haloprogin	61	KG00099501	Chronic Kidney Failure	0.04197617620229721
+trial_2	haloprogin	355	KG00110857	lymphocyte count decreased	0.041563306003808975
+trial_2	haloprogin	38	KG00098066	Binocular vision disorders	0.04140782356262207
+trial_2	haloprogin	147	KG00098000	atelectases	0.04120062291622162
+trial_2	haloprogin	132	KG00101045	Gain, Weight	0.040584173053503036
+trial_2	haloprogin	282	KG00099309	hypernatraemia	0.040351688861846924
+trial_2	haloprogin	30	KG00099500	Acute Kidney Failure	0.04006730765104294
+trial_2	haloprogin	35	KG00101507	hypomagnesaemia	0.039744749665260315
+trial_2	haloprogin	249	KG00104430	hypoalbuminaemia	0.03948545828461647
+trial_2	haloprogin	194	KG00110727	Neutrophil Count Decreased	0.039325322955846786
+trial_2	haloprogin	116	KG00098964	Pain in foot	0.03886685520410538
+trial_2	haloprogin	18	KG00098307	Pain, Chest	0.0382743701338768
+trial_2	haloprogin	131	KG00100948	Urinary tract infection (& [NOS])	0.03763952478766441
+trial_2	haloprogin	191	KG00104055	Biliverdin increased	0.03655814379453659
+trial_2	haloprogin	96	KG00101679	Unattended death NOS	0.03637481853365898
+trial_2	haloprogin	288	KG00101223	hypophosphataemia	0.035915352404117584
+trial_2	haloprogin	139	KG00098855	Sinusitis, Ethmoid	0.03587784245610237
+trial_2	haloprogin	36	KG00106434	Vision, Blurring Of	0.035333260893821716
+trial_2	haloprogin	69	KG00100082	Palpitations NOS	0.03530927002429962
+trial_2	haloprogin	253	KG00100232	Pleural effusion NOS (disorder)	0.03369271382689476
+trial_2	haloprogin	166	KG00099773	menopausal syndrome	0.03330262750387192
+trial_2	haloprogin	212	KG00100576	shivers	0.0331328883767128
+trial_2	haloprogin	121	KG00099190	haemorrhage	0.032484959810972214
+trial_2	haloprogin	396	KG00100373	Embolism, Pulmonary	0.03247795253992081
+trial_2	haloprogin	262	KG00101199	agitation	0.03233715519309044
+trial_2	haloprogin	234	KG00098669	dysgeusias	0.0316891223192215
+trial_2	haloprogin	286	KG00101110	Retention, Urinary	0.030915500596165657
+trial_2	haloprogin	186	KG00101431	creatinine increased	0.030216164886951447
+trial_2	haloprogin	466	KG00101205	fall	0.029931534081697464
+trial_2	haloprogin	276	KG00099127	Arrest, Cardiac	0.029732720926404
+trial_2	haloprogin	269	KG00100399	pyaemia	0.029313024133443832
+trial_2	haloprogin	75	KG00100195	Dolens, Phlegmasia Alba	0.02903112769126892
+trial_2	haloprogin	204	KG00098849	Esophagitis, Peptic	0.02888592891395092
+trial_2	haloprogin	164	KG00108827	ileus colon	0.028531163930892944
+trial_2	haloprogin	92	KG00100926	Infections, Upper Respiratory	0.028076771646738052
+trial_2	haloprogin	154	KG00099686	Lymphopenias	0.02781604789197445
+trial_2	haloprogin	144	KG00099610	Leukopenia NOS	0.02775588445365429
+trial_2	haloprogin	100	KG00097815	alopecias	0.02750694565474987
+trial_2	haloprogin	361	KG00098004	Fibrillation, Atrial	0.02745871990919113
+trial_2	haloprogin	33	KG00100094	Pancreatitis NOS	0.027456631883978844
+trial_2	haloprogin	31	KG00099872	Infarction, Myocardial	0.02740306220948696
+trial_2	haloprogin	256	KG00100738	Tachycardia, Sinus	0.027353016659617424
+trial_2	haloprogin	441	KG00098262	cellulitis nos	0.02688598819077015
+trial_2	haloprogin	142	KG00100923	Unspecified infectious and parasitic diseases	0.026762450113892555
+trial_2	haloprogin	242	KG00100855	tremors	0.026730984449386597
+trial_2	haloprogin	152	KG00099402	INCONTINENCE NOS	0.02665451169013977
+trial_2	haloprogin	211	KG00100341	Pruritus NOS	0.026562869548797607
+trial_2	haloprogin	89	KG00099301	Hyperhidrosis (disorder)	0.02646072581410408
+trial_2	haloprogin	454	KG00098286	Pain, Neck	0.026350850239396095
+trial_2	haloprogin	508	KG00108565	blood glucose increased	0.025872791185975075
+trial_2	haloprogin	130	KG00100683	Stomatitis NOS	0.025771858170628548
+trial_2	haloprogin	221	KG00101207	peripheral oedema	0.025337504222989082
+trial_2	haloprogin	136	KG00101582	Dry;skin	0.025237156078219414
+trial_2	haloprogin	341	KG00101472	Gamma-glutamyltransferase increased	0.025138720870018005

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18005593121051788
+trial_1	placebo	123	KG00099351	hypokalaemia	0.11011841148138046
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0943949818611145
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.09103164076805115
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09080193191766739
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07615859061479568
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07352495193481445
+trial_1	placebo	9	KG00098432	Confusion NOS	0.0721072107553482
+trial_1	placebo	114	KG00098933	fevers	0.07130420953035355
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07126321643590927
+trial_1	placebo	68	KG00099901	nauseas	0.07072804123163223
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.06978477537631989
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06806780397891998
+trial_1	placebo	21	KG00098675	dyspnoea	0.06600687652826309
+trial_1	placebo	20	KG00098540	dehydration	0.06548849493265152
+trial_1	placebo	46	KG00099121	Headache NOS	0.06490205228328705
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06279726326465607
+trial_1	placebo	77	KG00098450	Constipation NOS	0.062037281692028046
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06174377351999283
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05889678746461868
+trial_1	placebo	228	KG00114657	Weight below normal	0.05510906130075455
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05421384051442146
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05190245807170868
+trial_1	placebo	126	KG00100076	Pain NOS	0.05089737847447395
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04198790341615677
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03952667489647865
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03910510614514351
+trial_1	placebo	147	KG00098000	atelectases	0.03897044435143471
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03888363018631935
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.038134630769491196
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03778720274567604
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0371815524995327
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03679818660020828
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03656066209077835
+trial_1	placebo	85	KG00098474	coughs	0.03623300790786743
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03597167879343033
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03576881065964699
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.035455793142318726
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03471764922142029
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03359631821513176
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03356247395277023
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.033554308116436005
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.032189756631851196
+trial_1	placebo	5	KG00099169	haematuria	0.03124970570206642
+trial_1	placebo	269	KG00100399	pyaemia	0.03124185837805271
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03119666315615177
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03041890449821949
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02969149313867092
+trial_1	placebo	239	KG00100128	pareses	0.02966415509581566
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.029596267268061638
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.028310099616646767
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.028019646182656288
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027851665392518044
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027045845985412598
+trial_1	placebo	186	KG00101431	creatinine increased	0.026863079518079758
+trial_1	placebo	104	KG00097963	arthralgias	0.026571249589323997
+trial_1	placebo	136	KG00101582	Dry;skin	0.026480896398425102
+trial_1	placebo	441	KG00098262	cellulitis nos	0.026186443865299225
+trial_1	placebo	72	KG00103771	myalgias	0.026178833097219467
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026171229779720306
+trial_1	placebo	82	KG00097697	abdomen distended	0.02609739452600479
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.025990460067987442
+trial_1	placebo	121	KG00099190	haemorrhage	0.02593603916466236
+trial_1	placebo	234	KG00098669	dysgeusias	0.024854237213730812
+trial_1	placebo	86	KG00098565	Depression, Mental	0.024128833785653114
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.023815926164388657
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.023227250203490257
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023127995431423187
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02259042114019394
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02227182500064373
+trial_1	placebo	257	KG00100922	Erythema NOS	0.02211941033601761
+trial_1	placebo	282	KG00099309	hypernatraemia	0.022013690322637558
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02195056714117527
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021839508786797523
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02163100428879261
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021344415843486786
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02111317589879036
+trial_1	placebo	102	KG00097916	anxieties	0.021052632480859756
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0210097748786211
+trial_1	placebo	212	KG00100576	shivers	0.020914118736982346
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.0205135066062212
+trial_1	placebo	4	KG00098817	epistaxis	0.020017027854919434
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.019873620942234993
+trial_1	placebo	116	KG00098964	Pain in foot	0.019738124683499336
+trial_1	placebo	164	KG00108827	ileus colon	0.019382625818252563
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01891530677676201
+trial_1	placebo	100	KG00097815	alopecias	0.01890881545841694
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018382437527179718
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.017805490642786026
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.017545374110341072
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.017506111413240433
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.017380516976118088
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.01606530323624611
+trial_1	placebo	503	KG00102612	low haemoglobin	0.01597006618976593
+trial_1	placebo	154	KG00099686	Lymphopenias	0.015896892175078392
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.01569228805601597
+trial_1	placebo	466	KG00101205	fall	0.015371453948318958
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01533496379852295
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.015270661562681198
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.015011651441454887
+trial_2	dimethyl sulfoxide	87	KG00098599	diarrhoea	0.18005593121051788
+trial_2	dimethyl sulfoxide	123	KG00099351	hypokalaemia	0.11011841148138046
+trial_2	dimethyl sulfoxide	64	KG00097734	Acrodermatitis, NOS	0.0943949818611145
+trial_2	dimethyl sulfoxide	173	KG00098172	Bronchopneumonia NOS	0.09103164076805115
+trial_2	dimethyl sulfoxide	78	KG00099326	Hypertensive diseases	0.09080193191766739
+trial_2	dimethyl sulfoxide	189	KG00101580	Alanine aminotransferase increase	0.07615859061479568
+trial_2	dimethyl sulfoxide	37	KG00097696	Cramps, Abdominal	0.07352495193481445
+trial_2	dimethyl sulfoxide	9	KG00098432	Confusion NOS	0.0721072107553482
+trial_2	dimethyl sulfoxide	114	KG00098933	fevers	0.07130420953035355
+trial_2	dimethyl sulfoxide	49	KG00099902	nausea with vomiting	0.07126321643590927
+trial_2	dimethyl sulfoxide	68	KG00099901	nauseas	0.07072804123163223
+trial_2	dimethyl sulfoxide	2	KG00100772	thrombocytopaenia	0.06978477537631989
+trial_2	dimethyl sulfoxide	177	KG00099299	hyperglycaemia	0.06806780397891998
+trial_2	dimethyl sulfoxide	21	KG00098675	dyspnoea	0.06600687652826309
+trial_2	dimethyl sulfoxide	20	KG00098540	dehydration	0.06548849493265152
+trial_2	dimethyl sulfoxide	46	KG00099121	Headache NOS	0.06490205228328705
+trial_2	dimethyl sulfoxide	101	KG00097901	Anorexia NOS	0.06279726326465607
+trial_2	dimethyl sulfoxide	77	KG00098450	Constipation NOS	0.062037281692028046
+trial_2	dimethyl sulfoxide	188	KG00101579	Aspartate aminotransferase increase	0.06174377351999283
+trial_2	dimethyl sulfoxide	14	KG00097852	Anemia NOS	0.05889678746461868
+trial_2	dimethyl sulfoxide	228	KG00114657	Weight below normal	0.05510906130075455
+trial_2	dimethyl sulfoxide	17	KG00097991	Asthenia NOS	0.05421384051442146
+trial_2	dimethyl sulfoxide	67	KG00098673	Dyspepsia, NOS	0.05190245807170868
+trial_2	dimethyl sulfoxide	126	KG00100076	Pain NOS	0.05089737847447395
+trial_2	dimethyl sulfoxide	396	KG00100373	Embolism, Pulmonary	0.04198790341615677
+trial_2	dimethyl sulfoxide	200	KG00098539	Disorders, Deglutition	0.03952667489647865
+trial_2	dimethyl sulfoxide	96	KG00101679	Unattended death NOS	0.03910510614514351
+trial_2	dimethyl sulfoxide	147	KG00098000	atelectases	0.03897044435143471
+trial_2	dimethyl sulfoxide	29	KG00099354	hyponatraemia	0.03888363018631935
+trial_2	dimethyl sulfoxide	79	KG00100317	Insomnia, Primary	0.038134630769491196
+trial_2	dimethyl sulfoxide	151	KG00098274	Infarction, Cerebral	0.03778720274567604
+trial_2	dimethyl sulfoxide	261	KG00101559	raised alkaline phosphatase	0.0371815524995327
+trial_2	dimethyl sulfoxide	61	KG00099501	Chronic Kidney Failure	0.03679818660020828
+trial_2	dimethyl sulfoxide	179	KG00099342	hypocalcaemia	0.03656066209077835
+trial_2	dimethyl sulfoxide	85	KG00098474	coughs	0.03623300790786743
+trial_2	dimethyl sulfoxide	30	KG00099500	Acute Kidney Failure	0.03597167879343033
+trial_2	dimethyl sulfoxide	350	KG00106765	decreased platelet count	0.03576881065964699
+trial_2	dimethyl sulfoxide	76	KG00100450	Respiratory insufficiency, NOS	0.035455793142318726
+trial_2	dimethyl sulfoxide	180	KG00099363	Hypotension NOS	0.03471764922142029
+trial_2	dimethyl sulfoxide	211	KG00100341	Pruritus NOS	0.03359631821513176
+trial_2	dimethyl sulfoxide	191	KG00104055	Biliverdin increased	0.03356247395277023
+trial_2	dimethyl sulfoxide	142	KG00100923	Unspecified infectious and parasitic diseases	0.033554308116436005
+trial_2	dimethyl sulfoxide	131	KG00100948	Urinary tract infection (& [NOS])	0.032189756631851196
+trial_2	dimethyl sulfoxide	5	KG00099169	haematuria	0.03124970570206642
+trial_2	dimethyl sulfoxide	269	KG00100399	pyaemia	0.03124185837805271
+trial_2	dimethyl sulfoxide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03119666315615177
+trial_2	dimethyl sulfoxide	276	KG00099127	Arrest, Cardiac	0.03041890449821949
+trial_2	dimethyl sulfoxide	38	KG00098066	Binocular vision disorders	0.02969149313867092
+trial_2	dimethyl sulfoxide	239	KG00100128	pareses	0.02966415509581566
+trial_2	dimethyl sulfoxide	249	KG00104430	hypoalbuminaemia	0.029596267268061638
+trial_2	dimethyl sulfoxide	253	KG00100232	Pleural effusion NOS (disorder)	0.028310099616646767
+trial_2	dimethyl sulfoxide	122	KG00099321	Hypersensitivity NOS	0.028019646182656288
+trial_2	dimethyl sulfoxide	27	KG00099303	hyperkalaemia	0.027851665392518044
+trial_2	dimethyl sulfoxide	194	KG00110727	Neutrophil Count Decreased	0.027045845985412598
+trial_2	dimethyl sulfoxide	186	KG00101431	creatinine increased	0.026863079518079758
+trial_2	dimethyl sulfoxide	104	KG00097963	arthralgias	0.026571249589323997
+trial_2	dimethyl sulfoxide	136	KG00101582	Dry;skin	0.026480896398425102
+trial_2	dimethyl sulfoxide	441	KG00098262	cellulitis nos	0.026186443865299225
+trial_2	dimethyl sulfoxide	72	KG00103771	myalgias	0.026178833097219467
+trial_2	dimethyl sulfoxide	75	KG00100195	Dolens, Phlegmasia Alba	0.026171229779720306
+trial_2	dimethyl sulfoxide	82	KG00097697	abdomen distended	0.02609739452600479
+trial_2	dimethyl sulfoxide	1	KG00099959	Neutropenia NOS	0.025990460067987442
+trial_2	dimethyl sulfoxide	121	KG00099190	haemorrhage	0.02593603916466236
+trial_2	dimethyl sulfoxide	234	KG00098669	dysgeusias	0.024854237213730812
+trial_2	dimethyl sulfoxide	86	KG00098565	Depression, Mental	0.024128833785653114
+trial_2	dimethyl sulfoxide	361	KG00098004	Fibrillation, Atrial	0.023815926164388657
+trial_2	dimethyl sulfoxide	243	KG00100947	Micturition frequency increased	0.023227250203490257
+trial_2	dimethyl sulfoxide	18	KG00098307	Pain, Chest	0.023127995431423187
+trial_2	dimethyl sulfoxide	144	KG00099610	Leukopenia NOS	0.02259042114019394
+trial_2	dimethyl sulfoxide	288	KG00101223	hypophosphataemia	0.02227182500064373
+trial_2	dimethyl sulfoxide	257	KG00100922	Erythema NOS	0.02211941033601761
+trial_2	dimethyl sulfoxide	282	KG00099309	hypernatraemia	0.022013690322637558
+trial_2	dimethyl sulfoxide	130	KG00100683	Stomatitis NOS	0.02195056714117527
+trial_2	dimethyl sulfoxide	35	KG00101507	hypomagnesaemia	0.021839508786797523
+trial_2	dimethyl sulfoxide	356	KG00112623	Infectious Lung Disorders	0.02163100428879261
+trial_2	dimethyl sulfoxide	33	KG00100094	Pancreatitis NOS	0.021344415843486786
+trial_2	dimethyl sulfoxide	31	KG00099872	Infarction, Myocardial	0.02111317589879036
+trial_2	dimethyl sulfoxide	102	KG00097916	anxieties	0.021052632480859756
+trial_2	dimethyl sulfoxide	69	KG00100082	Palpitations NOS	0.0210097748786211
+trial_2	dimethyl sulfoxide	212	KG00100576	shivers	0.020914118736982346
+trial_2	dimethyl sulfoxide	139	KG00098855	Sinusitis, Ethmoid	0.0205135066062212
+trial_2	dimethyl sulfoxide	4	KG00098817	epistaxis	0.020017027854919434
+trial_2	dimethyl sulfoxide	355	KG00110857	lymphocyte count decreased	0.019873620942234993
+trial_2	dimethyl sulfoxide	116	KG00098964	Pain in foot	0.019738124683499336
+trial_2	dimethyl sulfoxide	164	KG00108827	ileus colon	0.019382625818252563
+trial_2	dimethyl sulfoxide	204	KG00098849	Esophagitis, Peptic	0.01891530677676201
+trial_2	dimethyl sulfoxide	100	KG00097815	alopecias	0.01890881545841694
+trial_2	dimethyl sulfoxide	28	KG00099347	hypoglycaemia	0.018382437527179718
+trial_2	dimethyl sulfoxide	213	KG00100600	Infectious Skin Diseases	0.017805490642786026
+trial_2	dimethyl sulfoxide	286	KG00101110	Retention, Urinary	0.017545374110341072
+trial_2	dimethyl sulfoxide	138	KG00098796	epidemic vomiting syndrome	0.017506111413240433
+trial_2	dimethyl sulfoxide	92	KG00100926	Infections, Upper Respiratory	0.017380516976118088
+trial_2	dimethyl sulfoxide	170	KG00108926	Neutropenia, Febrile	0.01606530323624611
+trial_2	dimethyl sulfoxide	503	KG00102612	low haemoglobin	0.01597006618976593
+trial_2	dimethyl sulfoxide	154	KG00099686	Lymphopenias	0.015896892175078392
+trial_2	dimethyl sulfoxide	494	KG00099838	Organ Failure, Multiple	0.01569228805601597
+trial_2	dimethyl sulfoxide	466	KG00101205	fall	0.015371453948318958
+trial_2	dimethyl sulfoxide	15	KG00097882	Angina pectoris NOS	0.01533496379852295
+trial_2	dimethyl sulfoxide	22	KG00098705	Edema (NOS)	0.015270661562681198
+trial_2	dimethyl sulfoxide	341	KG00101472	Gamma-glutamyltransferase increased	0.015011651441454887

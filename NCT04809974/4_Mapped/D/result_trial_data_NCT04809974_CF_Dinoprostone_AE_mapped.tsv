@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	46	KG00099121	Headache NOS	0.05992062762379646
+trial_1	placebo	87	KG00098599	diarrhoea	0.059477947652339935
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.05586932972073555
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.052973028272390366
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05144580826163292
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05065247416496277
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05038177967071533
+trial_1	placebo	68	KG00099901	nauseas	0.04860716313123703
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.045771919190883636
+trial_1	placebo	21	KG00098675	dyspnoea	0.04006157070398331
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.039698511362075806
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03907916694879532
+trial_1	placebo	20	KG00098540	dehydration	0.03370232880115509
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0330442450940609
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03107456862926483
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.029094062745571136
+trial_1	placebo	126	KG00100076	Pain NOS	0.027768125757575035
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.02775067463517189
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.02713695354759693
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.027005935087800026
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.025786258280277252
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02534533105790615
+trial_1	placebo	114	KG00098933	fevers	0.02458132430911064
+trial_1	placebo	77	KG00098450	Constipation NOS	0.024216143414378166
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.023816991597414017
+trial_1	placebo	85	KG00098474	coughs	0.023813137784600258
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.022749312222003937
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.020975762978196144
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0209343284368515
+trial_1	placebo	104	KG00097963	arthralgias	0.01930633932352066
+trial_1	placebo	147	KG00098000	atelectases	0.019189437851309776
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.01912928931415081
+trial_1	placebo	86	KG00098565	Depression, Mental	0.01899300143122673
+trial_1	placebo	29	KG00099354	hyponatraemia	0.018841585144400597
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018698204308748245
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.01864663138985634
+trial_1	placebo	441	KG00098262	cellulitis nos	0.018055381253361702
+trial_1	placebo	228	KG00114657	Weight below normal	0.01772429049015045
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.0177163053303957
+trial_1	placebo	5	KG00099169	haematuria	0.01755102165043354
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017550216987729073
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.017189988866448402
+trial_1	placebo	269	KG00100399	pyaemia	0.017024971544742584
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.016989314928650856
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.016961369663476944
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016542987897992134
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.016472114250063896
+trial_1	placebo	18	KG00098307	Pain, Chest	0.016462236642837524
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01603640615940094
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.01602683961391449
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.015598195604979992
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.015202506445348263
+trial_1	placebo	116	KG00098964	Pain in foot	0.015172837302088737
+trial_1	placebo	350	KG00106765	decreased platelet count	0.01513180136680603
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.014993557706475258
+trial_1	placebo	102	KG00097916	anxieties	0.014514059759676456
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.014396583661437035
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01432295423001051
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.014176484197378159
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.013683408498764038
+trial_1	placebo	466	KG00101205	fall	0.013471354730427265
+trial_1	placebo	11	KG00097993	Asthma NOS	0.013356542214751244
+trial_1	placebo	239	KG00100128	pareses	0.012799397110939026
+trial_1	placebo	221	KG00101207	peripheral oedema	0.012615888379514217
+trial_1	placebo	121	KG00099190	haemorrhage	0.012591936625540257
+trial_1	placebo	82	KG00097697	abdomen distended	0.012332214042544365
+trial_1	placebo	4	KG00098817	epistaxis	0.012199446558952332
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.012117189355194569
+trial_1	placebo	72	KG00103771	myalgias	0.011835663579404354
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.011801236309111118
+trial_1	placebo	262	KG00101199	agitation	0.011545436456799507
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011513125151395798
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.011443890631198883
+trial_1	placebo	234	KG00098669	dysgeusias	0.011411376297473907
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.010951738804578781
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01083843968808651
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.010832929983735085
+trial_1	placebo	25	KG00099134	congestive failures heart	0.010748721659183502
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.010740334168076515
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.010703210718929768
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.010662516579031944
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.010554187931120396
+trial_1	placebo	454	KG00098286	Pain, Neck	0.010379880666732788
+trial_1	placebo	186	KG00101431	creatinine increased	0.010320610366761684
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.010267327539622784
+trial_1	placebo	282	KG00099309	hypernatraemia	0.010244105011224747
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.010193142108619213
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.009953245520591736
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.009851288981735706
+trial_1	placebo	164	KG00108827	ileus colon	0.009766723960638046
+trial_1	placebo	212	KG00100576	shivers	0.00951066892594099
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.009309796616435051
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.009287385269999504
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.00903000682592392
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.008946533314883709
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.008894208818674088
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.008846535347402096
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.008845883421599865
+trial_1	placebo	456	KG00099420	Influenzae	0.008763238787651062
+trial_1	placebo	132	KG00101045	Gain, Weight	0.008737938478589058
+trial_2	dinoprostone	46	KG00099121	Headache NOS	0.05992062762379646
+trial_2	dinoprostone	87	KG00098599	diarrhoea	0.059477947652339935
+trial_2	dinoprostone	173	KG00098172	Bronchopneumonia NOS	0.05586932972073555
+trial_2	dinoprostone	78	KG00099326	Hypertensive diseases	0.052973028272390366
+trial_2	dinoprostone	177	KG00099299	hyperglycaemia	0.05144580826163292
+trial_2	dinoprostone	9	KG00098432	Confusion NOS	0.05065247416496277
+trial_2	dinoprostone	123	KG00099351	hypokalaemia	0.05038177967071533
+trial_2	dinoprostone	68	KG00099901	nauseas	0.04860716313123703
+trial_2	dinoprostone	49	KG00099902	nausea with vomiting	0.045771919190883636
+trial_2	dinoprostone	21	KG00098675	dyspnoea	0.04006157070398331
+trial_2	dinoprostone	79	KG00100317	Insomnia, Primary	0.039698511362075806
+trial_2	dinoprostone	17	KG00097991	Asthenia NOS	0.03907916694879532
+trial_2	dinoprostone	20	KG00098540	dehydration	0.03370232880115509
+trial_2	dinoprostone	14	KG00097852	Anemia NOS	0.0330442450940609
+trial_2	dinoprostone	37	KG00097696	Cramps, Abdominal	0.03107456862926483
+trial_2	dinoprostone	64	KG00097734	Acrodermatitis, NOS	0.029094062745571136
+trial_2	dinoprostone	126	KG00100076	Pain NOS	0.027768125757575035
+trial_2	dinoprostone	67	KG00098673	Dyspepsia, NOS	0.02775067463517189
+trial_2	dinoprostone	76	KG00100450	Respiratory insufficiency, NOS	0.02713695354759693
+trial_2	dinoprostone	180	KG00099363	Hypotension NOS	0.027005935087800026
+trial_2	dinoprostone	151	KG00098274	Infarction, Cerebral	0.025786258280277252
+trial_2	dinoprostone	61	KG00099501	Chronic Kidney Failure	0.02534533105790615
+trial_2	dinoprostone	114	KG00098933	fevers	0.02458132430911064
+trial_2	dinoprostone	77	KG00098450	Constipation NOS	0.024216143414378166
+trial_2	dinoprostone	200	KG00098539	Disorders, Deglutition	0.023816991597414017
+trial_2	dinoprostone	85	KG00098474	coughs	0.023813137784600258
+trial_2	dinoprostone	96	KG00101679	Unattended death NOS	0.022749312222003937
+trial_2	dinoprostone	30	KG00099500	Acute Kidney Failure	0.020975762978196144
+trial_2	dinoprostone	131	KG00100948	Urinary tract infection (& [NOS])	0.0209343284368515
+trial_2	dinoprostone	104	KG00097963	arthralgias	0.01930633932352066
+trial_2	dinoprostone	147	KG00098000	atelectases	0.019189437851309776
+trial_2	dinoprostone	189	KG00101580	Alanine aminotransferase increase	0.01912928931415081
+trial_2	dinoprostone	86	KG00098565	Depression, Mental	0.01899300143122673
+trial_2	dinoprostone	29	KG00099354	hyponatraemia	0.018841585144400597
+trial_2	dinoprostone	28	KG00099347	hypoglycaemia	0.018698204308748245
+trial_2	dinoprostone	69	KG00100082	Palpitations NOS	0.01864663138985634
+trial_2	dinoprostone	441	KG00098262	cellulitis nos	0.018055381253361702
+trial_2	dinoprostone	228	KG00114657	Weight below normal	0.01772429049015045
+trial_2	dinoprostone	211	KG00100341	Pruritus NOS	0.0177163053303957
+trial_2	dinoprostone	5	KG00099169	haematuria	0.01755102165043354
+trial_2	dinoprostone	361	KG00098004	Fibrillation, Atrial	0.017550216987729073
+trial_2	dinoprostone	2	KG00100772	thrombocytopaenia	0.017189988866448402
+trial_2	dinoprostone	269	KG00100399	pyaemia	0.017024971544742584
+trial_2	dinoprostone	276	KG00099127	Arrest, Cardiac	0.016989314928650856
+trial_2	dinoprostone	396	KG00100373	Embolism, Pulmonary	0.016961369663476944
+trial_2	dinoprostone	142	KG00100923	Unspecified infectious and parasitic diseases	0.016542987897992134
+trial_2	dinoprostone	31	KG00099872	Infarction, Myocardial	0.016472114250063896
+trial_2	dinoprostone	18	KG00098307	Pain, Chest	0.016462236642837524
+trial_2	dinoprostone	139	KG00098855	Sinusitis, Ethmoid	0.01603640615940094
+trial_2	dinoprostone	188	KG00101579	Aspartate aminotransferase increase	0.01602683961391449
+trial_2	dinoprostone	243	KG00100947	Micturition frequency increased	0.015598195604979992
+trial_2	dinoprostone	101	KG00097901	Anorexia NOS	0.015202506445348263
+trial_2	dinoprostone	116	KG00098964	Pain in foot	0.015172837302088737
+trial_2	dinoprostone	350	KG00106765	decreased platelet count	0.01513180136680603
+trial_2	dinoprostone	75	KG00100195	Dolens, Phlegmasia Alba	0.014993557706475258
+trial_2	dinoprostone	102	KG00097916	anxieties	0.014514059759676456
+trial_2	dinoprostone	166	KG00099773	menopausal syndrome	0.014396583661437035
+trial_2	dinoprostone	92	KG00100926	Infections, Upper Respiratory	0.01432295423001051
+trial_2	dinoprostone	122	KG00099321	Hypersensitivity NOS	0.014176484197378159
+trial_2	dinoprostone	38	KG00098066	Binocular vision disorders	0.013683408498764038
+trial_2	dinoprostone	466	KG00101205	fall	0.013471354730427265
+trial_2	dinoprostone	11	KG00097993	Asthma NOS	0.013356542214751244
+trial_2	dinoprostone	239	KG00100128	pareses	0.012799397110939026
+trial_2	dinoprostone	221	KG00101207	peripheral oedema	0.012615888379514217
+trial_2	dinoprostone	121	KG00099190	haemorrhage	0.012591936625540257
+trial_2	dinoprostone	82	KG00097697	abdomen distended	0.012332214042544365
+trial_2	dinoprostone	4	KG00098817	epistaxis	0.012199446558952332
+trial_2	dinoprostone	179	KG00099342	hypocalcaemia	0.012117189355194569
+trial_2	dinoprostone	72	KG00103771	myalgias	0.011835663579404354
+trial_2	dinoprostone	27	KG00099303	hyperkalaemia	0.011801236309111118
+trial_2	dinoprostone	262	KG00101199	agitation	0.011545436456799507
+trial_2	dinoprostone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011513125151395798
+trial_2	dinoprostone	253	KG00100232	Pleural effusion NOS (disorder)	0.011443890631198883
+trial_2	dinoprostone	234	KG00098669	dysgeusias	0.011411376297473907
+trial_2	dinoprostone	130	KG00100683	Stomatitis NOS	0.010951738804578781
+trial_2	dinoprostone	15	KG00097882	Angina pectoris NOS	0.01083843968808651
+trial_2	dinoprostone	204	KG00098849	Esophagitis, Peptic	0.010832929983735085
+trial_2	dinoprostone	25	KG00099134	congestive failures heart	0.010748721659183502
+trial_2	dinoprostone	249	KG00104430	hypoalbuminaemia	0.010740334168076515
+trial_2	dinoprostone	138	KG00098796	epidemic vomiting syndrome	0.010703210718929768
+trial_2	dinoprostone	36	KG00106434	Vision, Blurring Of	0.010662516579031944
+trial_2	dinoprostone	199	KG00098371	Rhinitis (chronic) NOS	0.010554187931120396
+trial_2	dinoprostone	454	KG00098286	Pain, Neck	0.010379880666732788
+trial_2	dinoprostone	186	KG00101431	creatinine increased	0.010320610366761684
+trial_2	dinoprostone	261	KG00101559	raised alkaline phosphatase	0.010267327539622784
+trial_2	dinoprostone	282	KG00099309	hypernatraemia	0.010244105011224747
+trial_2	dinoprostone	286	KG00101110	Retention, Urinary	0.010193142108619213
+trial_2	dinoprostone	268	KG00099557	Heart Failure, Left-Sided	0.009953245520591736
+trial_2	dinoprostone	191	KG00104055	Biliverdin increased	0.009851288981735706
+trial_2	dinoprostone	164	KG00108827	ileus colon	0.009766723960638046
+trial_2	dinoprostone	212	KG00100576	shivers	0.00951066892594099
+trial_2	dinoprostone	297	KG00099294	hypercholesterolaemia	0.009309796616435051
+trial_2	dinoprostone	144	KG00099610	Leukopenia NOS	0.009287385269999504
+trial_2	dinoprostone	163	KG00104050	bowel obstructions small	0.00903000682592392
+trial_2	dinoprostone	194	KG00110727	Neutrophil Count Decreased	0.008946533314883709
+trial_2	dinoprostone	98	KG00097718	Incised wound, NOS	0.008894208818674088
+trial_2	dinoprostone	35	KG00101507	hypomagnesaemia	0.008846535347402096
+trial_2	dinoprostone	118	KG00099011	Gastritis NOS	0.008845883421599865
+trial_2	dinoprostone	456	KG00099420	Influenzae	0.008763238787651062
+trial_2	dinoprostone	132	KG00101045	Gain, Weight	0.008737938478589058

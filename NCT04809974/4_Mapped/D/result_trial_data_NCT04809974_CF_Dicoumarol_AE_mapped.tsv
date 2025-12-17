@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20062673091888428
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11991029977798462
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11401389539241791
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11118391901254654
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09934918582439423
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0978972539305687
+trial_1	placebo	68	KG00099901	nauseas	0.09438394010066986
+trial_1	placebo	20	KG00098540	dehydration	0.0919259712100029
+trial_1	placebo	21	KG00098675	dyspnoea	0.0823827013373375
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08217624574899673
+trial_1	placebo	46	KG00099121	Headache NOS	0.08185769617557526
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07829932868480682
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07761064171791077
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07450007647275925
+trial_1	placebo	228	KG00114657	Weight below normal	0.07185375690460205
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07024118304252625
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06525995582342148
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06230350583791733
+trial_1	placebo	114	KG00098933	fevers	0.06169905886054039
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.058314599096775055
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.057951074093580246
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.057740408927202225
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05355442687869072
+trial_1	placebo	126	KG00100076	Pain NOS	0.05312760919332504
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0525052584707737
+trial_1	placebo	77	KG00098450	Constipation NOS	0.050739586353302
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.05071042478084564
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0506916381418705
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04994076117873192
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.049056392163038254
+trial_1	placebo	85	KG00098474	coughs	0.048380374908447266
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.047551482915878296
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04592809081077576
+trial_1	placebo	72	KG00103771	myalgias	0.04590760916471481
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0458967499434948
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04456807300448418
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.042265161871910095
+trial_1	placebo	104	KG00097963	arthralgias	0.04124016314744949
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.041207533329725266
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04107734560966492
+trial_1	placebo	121	KG00099190	haemorrhage	0.041076745837926865
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.040877822786569595
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.039439521729946136
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03812568262219429
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.036935821175575256
+trial_1	placebo	147	KG00098000	atelectases	0.03652222827076912
+trial_1	placebo	5	KG00099169	haematuria	0.03626349940896034
+trial_1	placebo	239	KG00100128	pareses	0.03613830730319023
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03580620884895325
+trial_1	placebo	100	KG00097815	alopecias	0.03359803557395935
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.033247385174036026
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.03262929990887642
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03228842839598656
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0317508801817894
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.031596653163433075
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03035736083984375
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02955990470945835
+trial_1	placebo	269	KG00100399	pyaemia	0.02869535982608795
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.02771247923374176
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02755863219499588
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027539124712347984
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.027162160724401474
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02715679444372654
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027038119733333588
+trial_1	placebo	102	KG00097916	anxieties	0.026805058121681213
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026367640122771263
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.025822794064879417
+trial_1	placebo	82	KG00097697	abdomen distended	0.02575327269732952
+trial_1	placebo	234	KG00098669	dysgeusias	0.02566915564239025
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.024846967309713364
+trial_1	placebo	116	KG00098964	Pain in foot	0.024713551625609398
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.024424823001027107
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02439231425523758
+trial_1	placebo	262	KG00101199	agitation	0.024325063452124596
+trial_1	placebo	132	KG00101045	Gain, Weight	0.02427334152162075
+trial_1	placebo	164	KG00108827	ileus colon	0.023583276197314262
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.0235501267015934
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.022931063547730446
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02277299575507641
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022731903940439224
+trial_1	placebo	466	KG00101205	fall	0.022648029029369354
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022345568984746933
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.022302458062767982
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.021929733455181122
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02171596884727478
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02139297127723694
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020838087424635887
+trial_1	placebo	186	KG00101431	creatinine increased	0.02076951414346695
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020651094615459442
+trial_1	placebo	155	KG00099960	Neutrophile	0.020260624587535858
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.019860774278640747
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019813762977719307
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.019807690754532814
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01938966102898121
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.01923747919499874
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.01896158792078495
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.018946180120110512
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018923401832580566
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.01839940808713436
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.018352705985307693
+trial_2	dicoumarol	87	KG00098599	diarrhoea	0.20062673091888428
+trial_2	dicoumarol	177	KG00099299	hyperglycaemia	0.11991029977798462
+trial_2	dicoumarol	78	KG00099326	Hypertensive diseases	0.11401389539241791
+trial_2	dicoumarol	173	KG00098172	Bronchopneumonia NOS	0.11118391901254654
+trial_2	dicoumarol	17	KG00097991	Asthenia NOS	0.09934918582439423
+trial_2	dicoumarol	123	KG00099351	hypokalaemia	0.0978972539305687
+trial_2	dicoumarol	68	KG00099901	nauseas	0.09438394010066986
+trial_2	dicoumarol	20	KG00098540	dehydration	0.0919259712100029
+trial_2	dicoumarol	21	KG00098675	dyspnoea	0.0823827013373375
+trial_2	dicoumarol	49	KG00099902	nausea with vomiting	0.08217624574899673
+trial_2	dicoumarol	46	KG00099121	Headache NOS	0.08185769617557526
+trial_2	dicoumarol	9	KG00098432	Confusion NOS	0.07829932868480682
+trial_2	dicoumarol	37	KG00097696	Cramps, Abdominal	0.07761064171791077
+trial_2	dicoumarol	67	KG00098673	Dyspepsia, NOS	0.07450007647275925
+trial_2	dicoumarol	228	KG00114657	Weight below normal	0.07185375690460205
+trial_2	dicoumarol	14	KG00097852	Anemia NOS	0.07024118304252625
+trial_2	dicoumarol	64	KG00097734	Acrodermatitis, NOS	0.06525995582342148
+trial_2	dicoumarol	189	KG00101580	Alanine aminotransferase increase	0.06230350583791733
+trial_2	dicoumarol	114	KG00098933	fevers	0.06169905886054039
+trial_2	dicoumarol	79	KG00100317	Insomnia, Primary	0.058314599096775055
+trial_2	dicoumarol	101	KG00097901	Anorexia NOS	0.057951074093580246
+trial_2	dicoumarol	200	KG00098539	Disorders, Deglutition	0.057740408927202225
+trial_2	dicoumarol	29	KG00099354	hyponatraemia	0.05355442687869072
+trial_2	dicoumarol	126	KG00100076	Pain NOS	0.05312760919332504
+trial_2	dicoumarol	350	KG00106765	decreased platelet count	0.0525052584707737
+trial_2	dicoumarol	77	KG00098450	Constipation NOS	0.050739586353302
+trial_2	dicoumarol	142	KG00100923	Unspecified infectious and parasitic diseases	0.05071042478084564
+trial_2	dicoumarol	96	KG00101679	Unattended death NOS	0.0506916381418705
+trial_2	dicoumarol	2	KG00100772	thrombocytopaenia	0.04994076117873192
+trial_2	dicoumarol	188	KG00101579	Aspartate aminotransferase increase	0.049056392163038254
+trial_2	dicoumarol	85	KG00098474	coughs	0.048380374908447266
+trial_2	dicoumarol	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.047551482915878296
+trial_2	dicoumarol	151	KG00098274	Infarction, Cerebral	0.04592809081077576
+trial_2	dicoumarol	72	KG00103771	myalgias	0.04590760916471481
+trial_2	dicoumarol	86	KG00098565	Depression, Mental	0.0458967499434948
+trial_2	dicoumarol	76	KG00100450	Respiratory insufficiency, NOS	0.04456807300448418
+trial_2	dicoumarol	122	KG00099321	Hypersensitivity NOS	0.042265161871910095
+trial_2	dicoumarol	104	KG00097963	arthralgias	0.04124016314744949
+trial_2	dicoumarol	194	KG00110727	Neutrophil Count Decreased	0.041207533329725266
+trial_2	dicoumarol	180	KG00099363	Hypotension NOS	0.04107734560966492
+trial_2	dicoumarol	121	KG00099190	haemorrhage	0.041076745837926865
+trial_2	dicoumarol	28	KG00099347	hypoglycaemia	0.040877822786569595
+trial_2	dicoumarol	61	KG00099501	Chronic Kidney Failure	0.039439521729946136
+trial_2	dicoumarol	27	KG00099303	hyperkalaemia	0.03812568262219429
+trial_2	dicoumarol	243	KG00100947	Micturition frequency increased	0.036935821175575256
+trial_2	dicoumarol	147	KG00098000	atelectases	0.03652222827076912
+trial_2	dicoumarol	5	KG00099169	haematuria	0.03626349940896034
+trial_2	dicoumarol	239	KG00100128	pareses	0.03613830730319023
+trial_2	dicoumarol	179	KG00099342	hypocalcaemia	0.03580620884895325
+trial_2	dicoumarol	100	KG00097815	alopecias	0.03359803557395935
+trial_2	dicoumarol	139	KG00098855	Sinusitis, Ethmoid	0.033247385174036026
+trial_2	dicoumarol	144	KG00099610	Leukopenia NOS	0.03262929990887642
+trial_2	dicoumarol	154	KG00099686	Lymphopenias	0.03228842839598656
+trial_2	dicoumarol	18	KG00098307	Pain, Chest	0.0317508801817894
+trial_2	dicoumarol	1	KG00099959	Neutropenia NOS	0.031596653163433075
+trial_2	dicoumarol	282	KG00099309	hypernatraemia	0.03035736083984375
+trial_2	dicoumarol	355	KG00110857	lymphocyte count decreased	0.02955990470945835
+trial_2	dicoumarol	269	KG00100399	pyaemia	0.02869535982608795
+trial_2	dicoumarol	170	KG00108926	Neutropenia, Febrile	0.02771247923374176
+trial_2	dicoumarol	30	KG00099500	Acute Kidney Failure	0.02755863219499588
+trial_2	dicoumarol	249	KG00104430	hypoalbuminaemia	0.027539124712347984
+trial_2	dicoumarol	131	KG00100948	Urinary tract infection (& [NOS])	0.027162160724401474
+trial_2	dicoumarol	38	KG00098066	Binocular vision disorders	0.02715679444372654
+trial_2	dicoumarol	396	KG00100373	Embolism, Pulmonary	0.027038119733333588
+trial_2	dicoumarol	102	KG00097916	anxieties	0.026805058121681213
+trial_2	dicoumarol	276	KG00099127	Arrest, Cardiac	0.026367640122771263
+trial_2	dicoumarol	261	KG00101559	raised alkaline phosphatase	0.025822794064879417
+trial_2	dicoumarol	82	KG00097697	abdomen distended	0.02575327269732952
+trial_2	dicoumarol	234	KG00098669	dysgeusias	0.02566915564239025
+trial_2	dicoumarol	361	KG00098004	Fibrillation, Atrial	0.024846967309713364
+trial_2	dicoumarol	116	KG00098964	Pain in foot	0.024713551625609398
+trial_2	dicoumarol	69	KG00100082	Palpitations NOS	0.024424823001027107
+trial_2	dicoumarol	191	KG00104055	Biliverdin increased	0.02439231425523758
+trial_2	dicoumarol	262	KG00101199	agitation	0.024325063452124596
+trial_2	dicoumarol	132	KG00101045	Gain, Weight	0.02427334152162075
+trial_2	dicoumarol	164	KG00108827	ileus colon	0.023583276197314262
+trial_2	dicoumarol	246	KG00103338	Aspartate Aminotransferase Measurement	0.0235501267015934
+trial_2	dicoumarol	133	KG00101370	neuropathies sensory	0.022931063547730446
+trial_2	dicoumarol	254	KG00100774	Thrombosis NOS	0.02277299575507641
+trial_2	dicoumarol	253	KG00100232	Pleural effusion NOS (disorder)	0.022731903940439224
+trial_2	dicoumarol	466	KG00101205	fall	0.022648029029369354
+trial_2	dicoumarol	75	KG00100195	Dolens, Phlegmasia Alba	0.022345568984746933
+trial_2	dicoumarol	130	KG00100683	Stomatitis NOS	0.022302458062767982
+trial_2	dicoumarol	35	KG00101507	hypomagnesaemia	0.021929733455181122
+trial_2	dicoumarol	441	KG00098262	cellulitis nos	0.02171596884727478
+trial_2	dicoumarol	288	KG00101223	hypophosphataemia	0.02139297127723694
+trial_2	dicoumarol	31	KG00099872	Infarction, Myocardial	0.020838087424635887
+trial_2	dicoumarol	186	KG00101431	creatinine increased	0.02076951414346695
+trial_2	dicoumarol	204	KG00098849	Esophagitis, Peptic	0.020651094615459442
+trial_2	dicoumarol	155	KG00099960	Neutrophile	0.020260624587535858
+trial_2	dicoumarol	356	KG00112623	Infectious Lung Disorders	0.019860774278640747
+trial_2	dicoumarol	92	KG00100926	Infections, Upper Respiratory	0.019813762977719307
+trial_2	dicoumarol	33	KG00100094	Pancreatitis NOS	0.019807690754532814
+trial_2	dicoumarol	138	KG00098796	epidemic vomiting syndrome	0.01938966102898121
+trial_2	dicoumarol	22	KG00098705	Edema (NOS)	0.01923747919499874
+trial_2	dicoumarol	195	KG00097814	Atopic Rhinitis	0.01896158792078495
+trial_2	dicoumarol	118	KG00099011	Gastritis NOS	0.018946180120110512
+trial_2	dicoumarol	36	KG00106434	Vision, Blurring Of	0.018923401832580566
+trial_2	dicoumarol	286	KG00101110	Retention, Urinary	0.01839940808713436
+trial_2	dicoumarol	15	KG00097882	Angina pectoris NOS	0.018352705985307693

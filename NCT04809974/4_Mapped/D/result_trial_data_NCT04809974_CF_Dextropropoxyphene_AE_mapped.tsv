@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1865331381559372
+trial_1	placebo	68	KG00099901	nauseas	0.15683256089687347
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.14168867468833923
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13937419652938843
+trial_1	placebo	77	KG00098450	Constipation NOS	0.11317694187164307
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11037944257259369
+trial_1	placebo	87	KG00098599	diarrhoea	0.10368138551712036
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09626580774784088
+trial_1	placebo	46	KG00099121	Headache NOS	0.09617190808057785
+trial_1	placebo	21	KG00098675	dyspnoea	0.08093585819005966
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07405762374401093
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06494253128767014
+trial_1	placebo	20	KG00098540	dehydration	0.06485992670059204
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06269008666276932
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06026267632842064
+trial_1	placebo	126	KG00100076	Pain NOS	0.05464911833405495
+trial_1	placebo	114	KG00098933	fevers	0.05342596769332886
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.052927467972040176
+trial_1	placebo	104	KG00097963	arthralgias	0.04581407085061073
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04449157789349556
+trial_1	placebo	85	KG00098474	coughs	0.04379025846719742
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.04357049614191055
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.043337903916835785
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04255562648177147
+trial_1	placebo	86	KG00098565	Depression, Mental	0.042524076998233795
+trial_1	placebo	228	KG00114657	Weight below normal	0.04246964305639267
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.04246912896633148
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03996678814291954
+trial_1	placebo	102	KG00097916	anxieties	0.03959531709551811
+trial_1	placebo	14	KG00097852	Anemia NOS	0.039007626473903656
+trial_1	placebo	66	KG00098642	drowsiness	0.03854428976774216
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03554956242442131
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.033741969615221024
+trial_1	placebo	300	KG00101064	xerostomia	0.033406812697649
+trial_1	placebo	72	KG00103771	myalgias	0.03270065784454346
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03093615733087063
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.030924329534173012
+trial_1	placebo	29	KG00099354	hyponatraemia	0.030739670619368553
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.028933988884091377
+trial_1	placebo	239	KG00100128	pareses	0.028857775032520294
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02850755676627159
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02837720513343811
+trial_1	placebo	5	KG00099169	haematuria	0.028212502598762512
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027691401541233063
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026897916570305824
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026771102100610733
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.026700550690293312
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.026650799438357353
+trial_1	placebo	234	KG00098669	dysgeusias	0.026618143543601036
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.02650425024330616
+trial_1	placebo	116	KG00098964	Pain in foot	0.02647622674703598
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02601582556962967
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02418394573032856
+trial_1	placebo	82	KG00097697	abdomen distended	0.024033086374402046
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.023910660296678543
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.023785647004842758
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.023699084296822548
+trial_1	placebo	147	KG00098000	atelectases	0.023192739114165306
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023132650181651115
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02301538549363613
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.022508744150400162
+trial_1	placebo	262	KG00101199	agitation	0.02186925895512104
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.02170025184750557
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02154182642698288
+trial_1	placebo	132	KG00101045	Gain, Weight	0.021411525085568428
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021174322813749313
+trial_1	placebo	164	KG00108827	ileus colon	0.021107880398631096
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.020789939910173416
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020634600892663002
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.020607832819223404
+trial_1	placebo	466	KG00101205	fall	0.02035268396139145
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02012232318520546
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02009572833776474
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020044518634676933
+trial_1	placebo	242	KG00100855	tremors	0.02001798152923584
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.019857382401823997
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01915932446718216
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.019120637327432632
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01854756288230419
+trial_1	placebo	269	KG00100399	pyaemia	0.018411830067634583
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.018340323120355606
+trial_1	placebo	121	KG00099190	haemorrhage	0.01817461848258972
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01788710430264473
+trial_1	placebo	100	KG00097815	alopecias	0.017360413447022438
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.017224937677383423
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.017171315848827362
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.017061054706573486
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.016624657437205315
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016619810834527016
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016026921570301056
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.015961503610014915
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.01572038233280182
+trial_1	placebo	186	KG00101431	creatinine increased	0.015672385692596436
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.015651000663638115
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015455503016710281
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.015420852228999138
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.015340141952037811
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.015267600305378437
+trial_1	placebo	153	KG00099579	lethargy	0.015227213501930237
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.015225288458168507
+trial_2	dextropropoxyphene	9	KG00098432	Confusion NOS	0.1865331381559372
+trial_2	dextropropoxyphene	68	KG00099901	nauseas	0.15683256089687347
+trial_2	dextropropoxyphene	49	KG00099902	nausea with vomiting	0.14168867468833923
+trial_2	dextropropoxyphene	17	KG00097991	Asthenia NOS	0.13937419652938843
+trial_2	dextropropoxyphene	77	KG00098450	Constipation NOS	0.11317694187164307
+trial_2	dextropropoxyphene	79	KG00100317	Insomnia, Primary	0.11037944257259369
+trial_2	dextropropoxyphene	87	KG00098599	diarrhoea	0.10368138551712036
+trial_2	dextropropoxyphene	78	KG00099326	Hypertensive diseases	0.09626580774784088
+trial_2	dextropropoxyphene	46	KG00099121	Headache NOS	0.09617190808057785
+trial_2	dextropropoxyphene	21	KG00098675	dyspnoea	0.08093585819005966
+trial_2	dextropropoxyphene	173	KG00098172	Bronchopneumonia NOS	0.07405762374401093
+trial_2	dextropropoxyphene	101	KG00097901	Anorexia NOS	0.06494253128767014
+trial_2	dextropropoxyphene	20	KG00098540	dehydration	0.06485992670059204
+trial_2	dextropropoxyphene	123	KG00099351	hypokalaemia	0.06269008666276932
+trial_2	dextropropoxyphene	177	KG00099299	hyperglycaemia	0.06026267632842064
+trial_2	dextropropoxyphene	126	KG00100076	Pain NOS	0.05464911833405495
+trial_2	dextropropoxyphene	114	KG00098933	fevers	0.05342596769332886
+trial_2	dextropropoxyphene	37	KG00097696	Cramps, Abdominal	0.052927467972040176
+trial_2	dextropropoxyphene	104	KG00097963	arthralgias	0.04581407085061073
+trial_2	dextropropoxyphene	64	KG00097734	Acrodermatitis, NOS	0.04449157789349556
+trial_2	dextropropoxyphene	85	KG00098474	coughs	0.04379025846719742
+trial_2	dextropropoxyphene	211	KG00100341	Pruritus NOS	0.04357049614191055
+trial_2	dextropropoxyphene	67	KG00098673	Dyspepsia, NOS	0.043337903916835785
+trial_2	dextropropoxyphene	180	KG00099363	Hypotension NOS	0.04255562648177147
+trial_2	dextropropoxyphene	86	KG00098565	Depression, Mental	0.042524076998233795
+trial_2	dextropropoxyphene	228	KG00114657	Weight below normal	0.04246964305639267
+trial_2	dextropropoxyphene	189	KG00101580	Alanine aminotransferase increase	0.04246912896633148
+trial_2	dextropropoxyphene	151	KG00098274	Infarction, Cerebral	0.03996678814291954
+trial_2	dextropropoxyphene	102	KG00097916	anxieties	0.03959531709551811
+trial_2	dextropropoxyphene	14	KG00097852	Anemia NOS	0.039007626473903656
+trial_2	dextropropoxyphene	66	KG00098642	drowsiness	0.03854428976774216
+trial_2	dextropropoxyphene	188	KG00101579	Aspartate aminotransferase increase	0.03554956242442131
+trial_2	dextropropoxyphene	200	KG00098539	Disorders, Deglutition	0.033741969615221024
+trial_2	dextropropoxyphene	300	KG00101064	xerostomia	0.033406812697649
+trial_2	dextropropoxyphene	72	KG00103771	myalgias	0.03270065784454346
+trial_2	dextropropoxyphene	18	KG00098307	Pain, Chest	0.03093615733087063
+trial_2	dextropropoxyphene	76	KG00100450	Respiratory insufficiency, NOS	0.030924329534173012
+trial_2	dextropropoxyphene	29	KG00099354	hyponatraemia	0.030739670619368553
+trial_2	dextropropoxyphene	61	KG00099501	Chronic Kidney Failure	0.028933988884091377
+trial_2	dextropropoxyphene	239	KG00100128	pareses	0.028857775032520294
+trial_2	dextropropoxyphene	243	KG00100947	Micturition frequency increased	0.02850755676627159
+trial_2	dextropropoxyphene	350	KG00106765	decreased platelet count	0.02837720513343811
+trial_2	dextropropoxyphene	5	KG00099169	haematuria	0.028212502598762512
+trial_2	dextropropoxyphene	96	KG00101679	Unattended death NOS	0.027691401541233063
+trial_2	dextropropoxyphene	396	KG00100373	Embolism, Pulmonary	0.026897916570305824
+trial_2	dextropropoxyphene	139	KG00098855	Sinusitis, Ethmoid	0.026771102100610733
+trial_2	dextropropoxyphene	166	KG00099773	menopausal syndrome	0.026700550690293312
+trial_2	dextropropoxyphene	69	KG00100082	Palpitations NOS	0.026650799438357353
+trial_2	dextropropoxyphene	234	KG00098669	dysgeusias	0.026618143543601036
+trial_2	dextropropoxyphene	2	KG00100772	thrombocytopaenia	0.02650425024330616
+trial_2	dextropropoxyphene	116	KG00098964	Pain in foot	0.02647622674703598
+trial_2	dextropropoxyphene	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02601582556962967
+trial_2	dextropropoxyphene	30	KG00099500	Acute Kidney Failure	0.02418394573032856
+trial_2	dextropropoxyphene	82	KG00097697	abdomen distended	0.024033086374402046
+trial_2	dextropropoxyphene	131	KG00100948	Urinary tract infection (& [NOS])	0.023910660296678543
+trial_2	dextropropoxyphene	38	KG00098066	Binocular vision disorders	0.023785647004842758
+trial_2	dextropropoxyphene	89	KG00099301	Hyperhidrosis (disorder)	0.023699084296822548
+trial_2	dextropropoxyphene	147	KG00098000	atelectases	0.023192739114165306
+trial_2	dextropropoxyphene	261	KG00101559	raised alkaline phosphatase	0.023132650181651115
+trial_2	dextropropoxyphene	221	KG00101207	peripheral oedema	0.02301538549363613
+trial_2	dextropropoxyphene	286	KG00101110	Retention, Urinary	0.022508744150400162
+trial_2	dextropropoxyphene	262	KG00101199	agitation	0.02186925895512104
+trial_2	dextropropoxyphene	28	KG00099347	hypoglycaemia	0.02170025184750557
+trial_2	dextropropoxyphene	130	KG00100683	Stomatitis NOS	0.02154182642698288
+trial_2	dextropropoxyphene	132	KG00101045	Gain, Weight	0.021411525085568428
+trial_2	dextropropoxyphene	361	KG00098004	Fibrillation, Atrial	0.021174322813749313
+trial_2	dextropropoxyphene	164	KG00108827	ileus colon	0.021107880398631096
+trial_2	dextropropoxyphene	122	KG00099321	Hypersensitivity NOS	0.020789939910173416
+trial_2	dextropropoxyphene	75	KG00100195	Dolens, Phlegmasia Alba	0.020634600892663002
+trial_2	dextropropoxyphene	22	KG00098705	Edema (NOS)	0.020607832819223404
+trial_2	dextropropoxyphene	466	KG00101205	fall	0.02035268396139145
+trial_2	dextropropoxyphene	11	KG00097993	Asthma NOS	0.02012232318520546
+trial_2	dextropropoxyphene	15	KG00097882	Angina pectoris NOS	0.02009572833776474
+trial_2	dextropropoxyphene	441	KG00098262	cellulitis nos	0.020044518634676933
+trial_2	dextropropoxyphene	242	KG00100855	tremors	0.02001798152923584
+trial_2	dextropropoxyphene	179	KG00099342	hypocalcaemia	0.019857382401823997
+trial_2	dextropropoxyphene	142	KG00100923	Unspecified infectious and parasitic diseases	0.01915932446718216
+trial_2	dextropropoxyphene	199	KG00098371	Rhinitis (chronic) NOS	0.019120637327432632
+trial_2	dextropropoxyphene	253	KG00100232	Pleural effusion NOS (disorder)	0.01854756288230419
+trial_2	dextropropoxyphene	269	KG00100399	pyaemia	0.018411830067634583
+trial_2	dextropropoxyphene	31	KG00099872	Infarction, Myocardial	0.018340323120355606
+trial_2	dextropropoxyphene	121	KG00099190	haemorrhage	0.01817461848258972
+trial_2	dextropropoxyphene	92	KG00100926	Infections, Upper Respiratory	0.01788710430264473
+trial_2	dextropropoxyphene	100	KG00097815	alopecias	0.017360413447022438
+trial_2	dextropropoxyphene	27	KG00099303	hyperkalaemia	0.017224937677383423
+trial_2	dextropropoxyphene	36	KG00106434	Vision, Blurring Of	0.017171315848827362
+trial_2	dextropropoxyphene	191	KG00104055	Biliverdin increased	0.017061054706573486
+trial_2	dextropropoxyphene	144	KG00099610	Leukopenia NOS	0.016624657437205315
+trial_2	dextropropoxyphene	249	KG00104430	hypoalbuminaemia	0.016619810834527016
+trial_2	dextropropoxyphene	138	KG00098796	epidemic vomiting syndrome	0.016026921570301056
+trial_2	dextropropoxyphene	204	KG00098849	Esophagitis, Peptic	0.015961503610014915
+trial_2	dextropropoxyphene	133	KG00101370	neuropathies sensory	0.01572038233280182
+trial_2	dextropropoxyphene	186	KG00101431	creatinine increased	0.015672385692596436
+trial_2	dextropropoxyphene	118	KG00099011	Gastritis NOS	0.015651000663638115
+trial_2	dextropropoxyphene	35	KG00101507	hypomagnesaemia	0.015455503016710281
+trial_2	dextropropoxyphene	371	KG00098517	Cystitis (NOS)	0.015420852228999138
+trial_2	dextropropoxyphene	194	KG00110727	Neutrophil Count Decreased	0.015340141952037811
+trial_2	dextropropoxyphene	394	KG00100243	Pneumonia, Aspiration	0.015267600305378437
+trial_2	dextropropoxyphene	153	KG00099579	lethargy	0.015227213501930237
+trial_2	dextropropoxyphene	276	KG00099127	Arrest, Cardiac	0.015225288458168507

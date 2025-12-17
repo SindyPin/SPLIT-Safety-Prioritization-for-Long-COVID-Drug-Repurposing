@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.15048590302467346
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12373127043247223
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12272130697965622
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.11490266770124435
+trial_1	placebo	68	KG00099901	nauseas	0.11440574377775192
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10383032262325287
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.10303670167922974
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10286770761013031
+trial_1	placebo	46	KG00099121	Headache NOS	0.09898480772972107
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.09490469843149185
+trial_1	placebo	21	KG00098675	dyspnoea	0.09461817145347595
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08973418176174164
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08368019759654999
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08028057962656021
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07819297164678574
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0744117796421051
+trial_1	placebo	20	KG00098540	dehydration	0.07404949516057968
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06400878727436066
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06351196765899658
+trial_1	placebo	228	KG00114657	Weight below normal	0.06338085234165192
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.061752792447805405
+trial_1	placebo	126	KG00100076	Pain NOS	0.06148260459303856
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06051058694720268
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05851634964346886
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05838722363114357
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05774196237325668
+trial_1	placebo	114	KG00098933	fevers	0.05412448197603226
+trial_1	placebo	14	KG00097852	Anemia NOS	0.053980134427547455
+trial_1	placebo	5	KG00099169	haematuria	0.0509660579264164
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05093153193593025
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04812691733241081
+trial_1	placebo	72	KG00103771	myalgias	0.04807191342115402
+trial_1	placebo	18	KG00098307	Pain, Chest	0.048062846064567566
+trial_1	placebo	239	KG00100128	pareses	0.047827545553445816
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04727852717041969
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04720974713563919
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04665535315871239
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04608774930238724
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.045215725898742676
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.04358670115470886
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04308473318815231
+trial_1	placebo	85	KG00098474	coughs	0.043006282299757004
+trial_1	placebo	102	KG00097916	anxieties	0.04247179254889488
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0422198548913002
+trial_1	placebo	104	KG00097963	arthralgias	0.04153279960155487
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.041354432702064514
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04063834622502327
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03944404050707817
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03881444036960602
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03810782730579376
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0378456637263298
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03612962365150452
+trial_1	placebo	147	KG00098000	atelectases	0.03592255339026451
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03538493067026138
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03486845642328262
+trial_1	placebo	116	KG00098964	Pain in foot	0.03478502109646797
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03424806892871857
+trial_1	placebo	121	KG00099190	haemorrhage	0.03422049432992935
+trial_1	placebo	82	KG00097697	abdomen distended	0.03370259329676628
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03359145671129227
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03317325934767723
+trial_1	placebo	234	KG00098669	dysgeusias	0.03169536218047142
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03149961307644844
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.031238310039043427
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.031056227162480354
+trial_1	placebo	466	KG00101205	fall	0.03100568801164627
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.031005442142486572
+trial_1	placebo	262	KG00101199	agitation	0.02954944223165512
+trial_1	placebo	186	KG00101431	creatinine increased	0.029337558895349503
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.029280688613653183
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02913588657975197
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02880735509097576
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02839338220655918
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02774893306195736
+trial_1	placebo	269	KG00100399	pyaemia	0.027523141354322433
+trial_1	placebo	242	KG00100855	tremors	0.027063671499490738
+trial_1	placebo	212	KG00100576	shivers	0.026886122301220894
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.026392178609967232
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.026217371225357056
+trial_1	placebo	4	KG00098817	epistaxis	0.026058681309223175
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02569473721086979
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02564254030585289
+trial_1	placebo	164	KG00108827	ileus colon	0.025570180267095566
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.025344453752040863
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025331664830446243
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025085723027586937
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024735253304243088
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.024527454748749733
+trial_1	placebo	132	KG00101045	Gain, Weight	0.024370843544602394
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.02423337660729885
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02417020872235298
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024110330268740654
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02345135249197483
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02318168431520462
+trial_1	placebo	300	KG00101064	xerostomia	0.022749172523617744
+trial_1	placebo	136	KG00101582	Dry;skin	0.02256418950855732
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02231436036527157
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.0217751432210207
+trial_1	placebo	747	KG00101527	Liver function tests abnormal (finding)	0.02173781581223011
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02126496098935604
+trial_2	dofetilide	87	KG00098599	diarrhoea	0.15048590302467346
+trial_2	dofetilide	123	KG00099351	hypokalaemia	0.12373127043247223
+trial_2	dofetilide	9	KG00098432	Confusion NOS	0.12272130697965622
+trial_2	dofetilide	78	KG00099326	Hypertensive diseases	0.11490266770124435
+trial_2	dofetilide	68	KG00099901	nauseas	0.11440574377775192
+trial_2	dofetilide	17	KG00097991	Asthenia NOS	0.10383032262325287
+trial_2	dofetilide	189	KG00101580	Alanine aminotransferase increase	0.10303670167922974
+trial_2	dofetilide	49	KG00099902	nausea with vomiting	0.10286770761013031
+trial_2	dofetilide	46	KG00099121	Headache NOS	0.09898480772972107
+trial_2	dofetilide	188	KG00101579	Aspartate aminotransferase increase	0.09490469843149185
+trial_2	dofetilide	21	KG00098675	dyspnoea	0.09461817145347595
+trial_2	dofetilide	77	KG00098450	Constipation NOS	0.08973418176174164
+trial_2	dofetilide	79	KG00100317	Insomnia, Primary	0.08368019759654999
+trial_2	dofetilide	173	KG00098172	Bronchopneumonia NOS	0.08028057962656021
+trial_2	dofetilide	177	KG00099299	hyperglycaemia	0.07819297164678574
+trial_2	dofetilide	67	KG00098673	Dyspepsia, NOS	0.0744117796421051
+trial_2	dofetilide	20	KG00098540	dehydration	0.07404949516057968
+trial_2	dofetilide	350	KG00106765	decreased platelet count	0.06400878727436066
+trial_2	dofetilide	101	KG00097901	Anorexia NOS	0.06351196765899658
+trial_2	dofetilide	228	KG00114657	Weight below normal	0.06338085234165192
+trial_2	dofetilide	243	KG00100947	Micturition frequency increased	0.061752792447805405
+trial_2	dofetilide	126	KG00100076	Pain NOS	0.06148260459303856
+trial_2	dofetilide	37	KG00097696	Cramps, Abdominal	0.06051058694720268
+trial_2	dofetilide	200	KG00098539	Disorders, Deglutition	0.05851634964346886
+trial_2	dofetilide	64	KG00097734	Acrodermatitis, NOS	0.05838722363114357
+trial_2	dofetilide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05774196237325668
+trial_2	dofetilide	114	KG00098933	fevers	0.05412448197603226
+trial_2	dofetilide	14	KG00097852	Anemia NOS	0.053980134427547455
+trial_2	dofetilide	5	KG00099169	haematuria	0.0509660579264164
+trial_2	dofetilide	29	KG00099354	hyponatraemia	0.05093153193593025
+trial_2	dofetilide	261	KG00101559	raised alkaline phosphatase	0.04812691733241081
+trial_2	dofetilide	72	KG00103771	myalgias	0.04807191342115402
+trial_2	dofetilide	18	KG00098307	Pain, Chest	0.048062846064567566
+trial_2	dofetilide	239	KG00100128	pareses	0.047827545553445816
+trial_2	dofetilide	191	KG00104055	Biliverdin increased	0.04727852717041969
+trial_2	dofetilide	180	KG00099363	Hypotension NOS	0.04720974713563919
+trial_2	dofetilide	2	KG00100772	thrombocytopaenia	0.04665535315871239
+trial_2	dofetilide	151	KG00098274	Infarction, Cerebral	0.04608774930238724
+trial_2	dofetilide	69	KG00100082	Palpitations NOS	0.045215725898742676
+trial_2	dofetilide	35	KG00101507	hypomagnesaemia	0.04358670115470886
+trial_2	dofetilide	179	KG00099342	hypocalcaemia	0.04308473318815231
+trial_2	dofetilide	85	KG00098474	coughs	0.043006282299757004
+trial_2	dofetilide	102	KG00097916	anxieties	0.04247179254889488
+trial_2	dofetilide	76	KG00100450	Respiratory insufficiency, NOS	0.0422198548913002
+trial_2	dofetilide	104	KG00097963	arthralgias	0.04153279960155487
+trial_2	dofetilide	36	KG00106434	Vision, Blurring Of	0.041354432702064514
+trial_2	dofetilide	96	KG00101679	Unattended death NOS	0.04063834622502327
+trial_2	dofetilide	86	KG00098565	Depression, Mental	0.03944404050707817
+trial_2	dofetilide	61	KG00099501	Chronic Kidney Failure	0.03881444036960602
+trial_2	dofetilide	30	KG00099500	Acute Kidney Failure	0.03810782730579376
+trial_2	dofetilide	396	KG00100373	Embolism, Pulmonary	0.0378456637263298
+trial_2	dofetilide	38	KG00098066	Binocular vision disorders	0.03612962365150452
+trial_2	dofetilide	147	KG00098000	atelectases	0.03592255339026451
+trial_2	dofetilide	27	KG00099303	hyperkalaemia	0.03538493067026138
+trial_2	dofetilide	194	KG00110727	Neutrophil Count Decreased	0.03486845642328262
+trial_2	dofetilide	116	KG00098964	Pain in foot	0.03478502109646797
+trial_2	dofetilide	286	KG00101110	Retention, Urinary	0.03424806892871857
+trial_2	dofetilide	121	KG00099190	haemorrhage	0.03422049432992935
+trial_2	dofetilide	82	KG00097697	abdomen distended	0.03370259329676628
+trial_2	dofetilide	249	KG00104430	hypoalbuminaemia	0.03359145671129227
+trial_2	dofetilide	441	KG00098262	cellulitis nos	0.03317325934767723
+trial_2	dofetilide	234	KG00098669	dysgeusias	0.03169536218047142
+trial_2	dofetilide	422	KG00101429	Creatine phosphokinase increased	0.03149961307644844
+trial_2	dofetilide	355	KG00110857	lymphocyte count decreased	0.031238310039043427
+trial_2	dofetilide	28	KG00099347	hypoglycaemia	0.031056227162480354
+trial_2	dofetilide	466	KG00101205	fall	0.03100568801164627
+trial_2	dofetilide	131	KG00100948	Urinary tract infection (& [NOS])	0.031005442142486572
+trial_2	dofetilide	262	KG00101199	agitation	0.02954944223165512
+trial_2	dofetilide	186	KG00101431	creatinine increased	0.029337558895349503
+trial_2	dofetilide	122	KG00099321	Hypersensitivity NOS	0.029280688613653183
+trial_2	dofetilide	204	KG00098849	Esophagitis, Peptic	0.02913588657975197
+trial_2	dofetilide	282	KG00099309	hypernatraemia	0.02880735509097576
+trial_2	dofetilide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02839338220655918
+trial_2	dofetilide	139	KG00098855	Sinusitis, Ethmoid	0.02774893306195736
+trial_2	dofetilide	269	KG00100399	pyaemia	0.027523141354322433
+trial_2	dofetilide	242	KG00100855	tremors	0.027063671499490738
+trial_2	dofetilide	212	KG00100576	shivers	0.026886122301220894
+trial_2	dofetilide	130	KG00100683	Stomatitis NOS	0.026392178609967232
+trial_2	dofetilide	271	KG00103813	reflex bradycardia	0.026217371225357056
+trial_2	dofetilide	4	KG00098817	epistaxis	0.026058681309223175
+trial_2	dofetilide	276	KG00099127	Arrest, Cardiac	0.02569473721086979
+trial_2	dofetilide	253	KG00100232	Pleural effusion NOS (disorder)	0.02564254030585289
+trial_2	dofetilide	164	KG00108827	ileus colon	0.025570180267095566
+trial_2	dofetilide	218	KG00100801	Tinnitus NOS	0.025344453752040863
+trial_2	dofetilide	341	KG00101472	Gamma-glutamyltransferase increased	0.025331664830446243
+trial_2	dofetilide	221	KG00101207	peripheral oedema	0.025085723027586937
+trial_2	dofetilide	211	KG00100341	Pruritus NOS	0.024735253304243088
+trial_2	dofetilide	94	KG00103829	abdominal discomfort	0.024527454748749733
+trial_2	dofetilide	132	KG00101045	Gain, Weight	0.024370843544602394
+trial_2	dofetilide	356	KG00112623	Infectious Lung Disorders	0.02423337660729885
+trial_2	dofetilide	256	KG00100738	Tachycardia, Sinus	0.02417020872235298
+trial_2	dofetilide	508	KG00108565	blood glucose increased	0.024110330268740654
+trial_2	dofetilide	75	KG00100195	Dolens, Phlegmasia Alba	0.02345135249197483
+trial_2	dofetilide	361	KG00098004	Fibrillation, Atrial	0.02318168431520462
+trial_2	dofetilide	300	KG00101064	xerostomia	0.022749172523617744
+trial_2	dofetilide	136	KG00101582	Dry;skin	0.02256418950855732
+trial_2	dofetilide	97	KG00104198	LIVER ENZYME ELEVATED	0.02231436036527157
+trial_2	dofetilide	288	KG00101223	hypophosphataemia	0.0217751432210207
+trial_2	dofetilide	747	KG00101527	Liver function tests abnormal (finding)	0.02173781581223011
+trial_2	dofetilide	15	KG00097882	Angina pectoris NOS	0.02126496098935604

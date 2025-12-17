@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.17966541647911072
+trial_1	placebo	123	KG00099351	hypokalaemia	0.14065955579280853
+trial_1	placebo	87	KG00098599	diarrhoea	0.13699832558631897
+trial_1	placebo	14	KG00097852	Anemia NOS	0.13322287797927856
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.12853512167930603
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1259949803352356
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12430011481046677
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10154973715543747
+trial_1	placebo	20	KG00098540	dehydration	0.09888315945863724
+trial_1	placebo	21	KG00098675	dyspnoea	0.09712300449609756
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08975953608751297
+trial_1	placebo	68	KG00099901	nauseas	0.08687488734722137
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08405685424804688
+trial_1	placebo	114	KG00098933	fevers	0.07648976147174835
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07467781752347946
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0712171345949173
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.06803596019744873
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.06603771448135376
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06519091129302979
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06496381759643555
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06327474117279053
+trial_1	placebo	46	KG00099121	Headache NOS	0.06265660375356674
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.06085268780589104
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06083957850933075
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.059041913598775864
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05656322091817856
+trial_1	placebo	77	KG00098450	Constipation NOS	0.05641382932662964
+trial_1	placebo	85	KG00098474	coughs	0.056053273379802704
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05599426105618477
+trial_1	placebo	228	KG00114657	Weight below normal	0.055817775428295135
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05452931672334671
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05314099043607712
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05247945338487625
+trial_1	placebo	147	KG00098000	atelectases	0.052007440477609634
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05152514576911926
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.051133960485458374
+trial_1	placebo	269	KG00100399	pyaemia	0.04995843395590782
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0492442362010479
+trial_1	placebo	126	KG00100076	Pain NOS	0.049027204513549805
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04888675734400749
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.048486605286598206
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.047019969671964645
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04661836847662926
+trial_1	placebo	5	KG00099169	haematuria	0.0456872396171093
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.045031122863292694
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.044812265783548355
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.043616876006126404
+trial_1	placebo	72	KG00103771	myalgias	0.04214884713292122
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.04009567201137543
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.039557479321956635
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03949975594878197
+trial_1	placebo	86	KG00098565	Depression, Mental	0.039141640067100525
+trial_1	placebo	104	KG00097963	arthralgias	0.037815168499946594
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03779029846191406
+trial_1	placebo	186	KG00101431	creatinine increased	0.03753500059247017
+trial_1	placebo	239	KG00100128	pareses	0.036378614604473114
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03630800545215607
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03621264174580574
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03569456562399864
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.03543753921985626
+trial_1	placebo	154	KG00099686	Lymphopenias	0.03477080538868904
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.032983362674713135
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03269082307815552
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.032599952071905136
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03208043798804283
+trial_1	placebo	441	KG00098262	cellulitis nos	0.032061778008937836
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.031121456995606422
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.030705342069268227
+trial_1	placebo	234	KG00098669	dysgeusias	0.030019018799066544
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.029749028384685516
+trial_1	placebo	164	KG00108827	ileus colon	0.029705405235290527
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02954525500535965
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.028684310615062714
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.028040381148457527
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.027907324954867363
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02767195738852024
+trial_1	placebo	100	KG00097815	alopecias	0.02718520537018776
+trial_1	placebo	116	KG00098964	Pain in foot	0.026406824588775635
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02619575895369053
+trial_1	placebo	82	KG00097697	abdomen distended	0.026124650612473488
+trial_1	placebo	121	KG00099190	haemorrhage	0.02608255296945572
+trial_1	placebo	212	KG00100576	shivers	0.02585260383784771
+trial_1	placebo	102	KG00097916	anxieties	0.0253661647439003
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.025365080684423447
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025012532249093056
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02490324340760708
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.024289773777127266
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.024234183132648468
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02416827529668808
+trial_1	placebo	390	KG00100095	pancytopenias	0.024037938565015793
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.023484013974666595
+trial_1	placebo	4	KG00098817	epistaxis	0.023124799132347107
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.023029426112771034
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02255493588745594
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.021567227318882942
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.021435720846056938
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021198511123657227
+trial_1	placebo	466	KG00101205	fall	0.021190617233514786
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021045377478003502
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.020801585167646408
+trial_2	dactinomycin	177	KG00099299	hyperglycaemia	0.17966541647911072
+trial_2	dactinomycin	123	KG00099351	hypokalaemia	0.14065955579280853
+trial_2	dactinomycin	87	KG00098599	diarrhoea	0.13699832558631897
+trial_2	dactinomycin	14	KG00097852	Anemia NOS	0.13322287797927856
+trial_2	dactinomycin	2	KG00100772	thrombocytopaenia	0.12853512167930603
+trial_2	dactinomycin	173	KG00098172	Bronchopneumonia NOS	0.1259949803352356
+trial_2	dactinomycin	78	KG00099326	Hypertensive diseases	0.12430011481046677
+trial_2	dactinomycin	17	KG00097991	Asthenia NOS	0.10154973715543747
+trial_2	dactinomycin	20	KG00098540	dehydration	0.09888315945863724
+trial_2	dactinomycin	21	KG00098675	dyspnoea	0.09712300449609756
+trial_2	dactinomycin	37	KG00097696	Cramps, Abdominal	0.08975953608751297
+trial_2	dactinomycin	68	KG00099901	nauseas	0.08687488734722137
+trial_2	dactinomycin	49	KG00099902	nausea with vomiting	0.08405685424804688
+trial_2	dactinomycin	114	KG00098933	fevers	0.07648976147174835
+trial_2	dactinomycin	189	KG00101580	Alanine aminotransferase increase	0.07467781752347946
+trial_2	dactinomycin	350	KG00106765	decreased platelet count	0.0712171345949173
+trial_2	dactinomycin	61	KG00099501	Chronic Kidney Failure	0.06803596019744873
+trial_2	dactinomycin	1	KG00099959	Neutropenia NOS	0.06603771448135376
+trial_2	dactinomycin	200	KG00098539	Disorders, Deglutition	0.06519091129302979
+trial_2	dactinomycin	9	KG00098432	Confusion NOS	0.06496381759643555
+trial_2	dactinomycin	29	KG00099354	hyponatraemia	0.06327474117279053
+trial_2	dactinomycin	46	KG00099121	Headache NOS	0.06265660375356674
+trial_2	dactinomycin	144	KG00099610	Leukopenia NOS	0.06085268780589104
+trial_2	dactinomycin	64	KG00097734	Acrodermatitis, NOS	0.06083957850933075
+trial_2	dactinomycin	188	KG00101579	Aspartate aminotransferase increase	0.059041913598775864
+trial_2	dactinomycin	76	KG00100450	Respiratory insufficiency, NOS	0.05656322091817856
+trial_2	dactinomycin	77	KG00098450	Constipation NOS	0.05641382932662964
+trial_2	dactinomycin	85	KG00098474	coughs	0.056053273379802704
+trial_2	dactinomycin	67	KG00098673	Dyspepsia, NOS	0.05599426105618477
+trial_2	dactinomycin	228	KG00114657	Weight below normal	0.055817775428295135
+trial_2	dactinomycin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05452931672334671
+trial_2	dactinomycin	194	KG00110727	Neutrophil Count Decreased	0.05314099043607712
+trial_2	dactinomycin	179	KG00099342	hypocalcaemia	0.05247945338487625
+trial_2	dactinomycin	147	KG00098000	atelectases	0.052007440477609634
+trial_2	dactinomycin	180	KG00099363	Hypotension NOS	0.05152514576911926
+trial_2	dactinomycin	27	KG00099303	hyperkalaemia	0.051133960485458374
+trial_2	dactinomycin	269	KG00100399	pyaemia	0.04995843395590782
+trial_2	dactinomycin	28	KG00099347	hypoglycaemia	0.0492442362010479
+trial_2	dactinomycin	126	KG00100076	Pain NOS	0.049027204513549805
+trial_2	dactinomycin	151	KG00098274	Infarction, Cerebral	0.04888675734400749
+trial_2	dactinomycin	79	KG00100317	Insomnia, Primary	0.048486605286598206
+trial_2	dactinomycin	131	KG00100948	Urinary tract infection (& [NOS])	0.047019969671964645
+trial_2	dactinomycin	142	KG00100923	Unspecified infectious and parasitic diseases	0.04661836847662926
+trial_2	dactinomycin	5	KG00099169	haematuria	0.0456872396171093
+trial_2	dactinomycin	96	KG00101679	Unattended death NOS	0.045031122863292694
+trial_2	dactinomycin	30	KG00099500	Acute Kidney Failure	0.044812265783548355
+trial_2	dactinomycin	396	KG00100373	Embolism, Pulmonary	0.043616876006126404
+trial_2	dactinomycin	72	KG00103771	myalgias	0.04214884713292122
+trial_2	dactinomycin	122	KG00099321	Hypersensitivity NOS	0.04009567201137543
+trial_2	dactinomycin	101	KG00097901	Anorexia NOS	0.039557479321956635
+trial_2	dactinomycin	276	KG00099127	Arrest, Cardiac	0.03949975594878197
+trial_2	dactinomycin	86	KG00098565	Depression, Mental	0.039141640067100525
+trial_2	dactinomycin	104	KG00097963	arthralgias	0.037815168499946594
+trial_2	dactinomycin	261	KG00101559	raised alkaline phosphatase	0.03779029846191406
+trial_2	dactinomycin	186	KG00101431	creatinine increased	0.03753500059247017
+trial_2	dactinomycin	239	KG00100128	pareses	0.036378614604473114
+trial_2	dactinomycin	130	KG00100683	Stomatitis NOS	0.03630800545215607
+trial_2	dactinomycin	38	KG00098066	Binocular vision disorders	0.03621264174580574
+trial_2	dactinomycin	139	KG00098855	Sinusitis, Ethmoid	0.03569456562399864
+trial_2	dactinomycin	249	KG00104430	hypoalbuminaemia	0.03543753921985626
+trial_2	dactinomycin	154	KG00099686	Lymphopenias	0.03477080538868904
+trial_2	dactinomycin	243	KG00100947	Micturition frequency increased	0.032983362674713135
+trial_2	dactinomycin	282	KG00099309	hypernatraemia	0.03269082307815552
+trial_2	dactinomycin	75	KG00100195	Dolens, Phlegmasia Alba	0.032599952071905136
+trial_2	dactinomycin	288	KG00101223	hypophosphataemia	0.03208043798804283
+trial_2	dactinomycin	441	KG00098262	cellulitis nos	0.032061778008937836
+trial_2	dactinomycin	35	KG00101507	hypomagnesaemia	0.031121456995606422
+trial_2	dactinomycin	170	KG00108926	Neutropenia, Febrile	0.030705342069268227
+trial_2	dactinomycin	234	KG00098669	dysgeusias	0.030019018799066544
+trial_2	dactinomycin	253	KG00100232	Pleural effusion NOS (disorder)	0.029749028384685516
+trial_2	dactinomycin	164	KG00108827	ileus colon	0.029705405235290527
+trial_2	dactinomycin	355	KG00110857	lymphocyte count decreased	0.02954525500535965
+trial_2	dactinomycin	69	KG00100082	Palpitations NOS	0.028684310615062714
+trial_2	dactinomycin	92	KG00100926	Infections, Upper Respiratory	0.028040381148457527
+trial_2	dactinomycin	361	KG00098004	Fibrillation, Atrial	0.027907324954867363
+trial_2	dactinomycin	18	KG00098307	Pain, Chest	0.02767195738852024
+trial_2	dactinomycin	100	KG00097815	alopecias	0.02718520537018776
+trial_2	dactinomycin	116	KG00098964	Pain in foot	0.026406824588775635
+trial_2	dactinomycin	268	KG00099557	Heart Failure, Left-Sided	0.02619575895369053
+trial_2	dactinomycin	82	KG00097697	abdomen distended	0.026124650612473488
+trial_2	dactinomycin	121	KG00099190	haemorrhage	0.02608255296945572
+trial_2	dactinomycin	212	KG00100576	shivers	0.02585260383784771
+trial_2	dactinomycin	102	KG00097916	anxieties	0.0253661647439003
+trial_2	dactinomycin	494	KG00099838	Organ Failure, Multiple	0.025365080684423447
+trial_2	dactinomycin	221	KG00101207	peripheral oedema	0.025012532249093056
+trial_2	dactinomycin	191	KG00104055	Biliverdin increased	0.02490324340760708
+trial_2	dactinomycin	341	KG00101472	Gamma-glutamyltransferase increased	0.024289773777127266
+trial_2	dactinomycin	356	KG00112623	Infectious Lung Disorders	0.024234183132648468
+trial_2	dactinomycin	31	KG00099872	Infarction, Myocardial	0.02416827529668808
+trial_2	dactinomycin	390	KG00100095	pancytopenias	0.024037938565015793
+trial_2	dactinomycin	138	KG00098796	epidemic vomiting syndrome	0.023484013974666595
+trial_2	dactinomycin	4	KG00098817	epistaxis	0.023124799132347107
+trial_2	dactinomycin	163	KG00104050	bowel obstructions small	0.023029426112771034
+trial_2	dactinomycin	204	KG00098849	Esophagitis, Peptic	0.02255493588745594
+trial_2	dactinomycin	183	KG00100449	Adult Respiratory Distress Syndrome	0.021567227318882942
+trial_2	dactinomycin	133	KG00101370	neuropathies sensory	0.021435720846056938
+trial_2	dactinomycin	297	KG00099294	hypercholesterolaemia	0.021198511123657227
+trial_2	dactinomycin	466	KG00101205	fall	0.021190617233514786
+trial_2	dactinomycin	33	KG00100094	Pancreatitis NOS	0.021045377478003502
+trial_2	dactinomycin	286	KG00101110	Retention, Urinary	0.020801585167646408

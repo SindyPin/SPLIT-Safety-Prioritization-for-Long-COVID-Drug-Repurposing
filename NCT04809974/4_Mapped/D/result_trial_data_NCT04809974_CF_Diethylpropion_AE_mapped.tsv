@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.21522526443004608
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.18177956342697144
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1722850650548935
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.16145342588424683
+trial_1	placebo	46	KG00099121	Headache NOS	0.13136404752731323
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.13004036247730255
+trial_1	placebo	228	KG00114657	Weight below normal	0.12920741736888885
+trial_1	placebo	68	KG00099901	nauseas	0.12319662421941757
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.11259914934635162
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11183598637580872
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10783123970031738
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10259675979614258
+trial_1	placebo	77	KG00098450	Constipation NOS	0.09985822439193726
+trial_1	placebo	20	KG00098540	dehydration	0.09215293079614639
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.09085972607135773
+trial_1	placebo	21	KG00098675	dyspnoea	0.08691368997097015
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08635714650154114
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07598713040351868
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07400452345609665
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06647010147571564
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0655369684100151
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06541185826063156
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06537500768899918
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06531360000371933
+trial_1	placebo	102	KG00097916	anxieties	0.06182083114981651
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06087740138173103
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05908367782831192
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05897241458296776
+trial_1	placebo	126	KG00100076	Pain NOS	0.05862210690975189
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05722047761082649
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.056221142411231995
+trial_1	placebo	239	KG00100128	pareses	0.05155397951602936
+trial_1	placebo	114	KG00098933	fevers	0.05103055760264397
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04971350356936455
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04875892028212547
+trial_1	placebo	104	KG00097963	arthralgias	0.04819058999419212
+trial_1	placebo	85	KG00098474	coughs	0.0469365194439888
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0463486909866333
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.043540600687265396
+trial_1	placebo	72	KG00103771	myalgias	0.043430741876363754
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.0430193729698658
+trial_1	placebo	262	KG00101199	agitation	0.042639151215553284
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04244031012058258
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.042352866381406784
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.041994743049144745
+trial_1	placebo	300	KG00101064	xerostomia	0.04175776615738869
+trial_1	placebo	234	KG00098669	dysgeusias	0.040932439267635345
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.0402207188308239
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03764571622014046
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.037422433495521545
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03721828758716583
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.037022627890110016
+trial_1	placebo	121	KG00099190	haemorrhage	0.03670932352542877
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03659679368138313
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03617846593260765
+trial_1	placebo	5	KG00099169	haematuria	0.035793405026197433
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.035704489797353745
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.035621266812086105
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03543301671743393
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03541933000087738
+trial_1	placebo	147	KG00098000	atelectases	0.03386605903506279
+trial_1	placebo	116	KG00098964	Pain in foot	0.03302371874451637
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03294390067458153
+trial_1	placebo	242	KG00100855	tremors	0.032872121781110764
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03256211057305336
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03242968022823334
+trial_1	placebo	82	KG00097697	abdomen distended	0.03208165243268013
+trial_1	placebo	466	KG00101205	fall	0.03199684992432594
+trial_1	placebo	100	KG00097815	alopecias	0.031344737857580185
+trial_1	placebo	154	KG00099686	Lymphopenias	0.031066495925188065
+trial_1	placebo	66	KG00098642	drowsiness	0.03076755441725254
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03048371709883213
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02984282746911049
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.029325271025300026
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.029256215319037437
+trial_1	placebo	164	KG00108827	ileus colon	0.029011884704232216
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.02887958474457264
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.028554612770676613
+trial_1	placebo	232	KG00097997	Ataxia NOS	0.027550755068659782
+trial_1	placebo	269	KG00100399	pyaemia	0.027375338599085808
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02691732905805111
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.026899633929133415
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02672487497329712
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02639777772128582
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.026262573897838593
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.025775395333766937
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.02559714950621128
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02554645761847496
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02547791227698326
+trial_1	placebo	136	KG00101582	Dry;skin	0.02486889250576496
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02479974552989006
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.024452026933431625
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.024082012474536896
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.024027042090892792
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.024023547768592834
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02353505976498127
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.023242929950356483
+trial_1	placebo	153	KG00099579	lethargy	0.023241398856043816
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02315538376569748
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02294102869927883
+trial_2	diethylpropion	87	KG00098599	diarrhoea	0.21522526443004608
+trial_2	diethylpropion	78	KG00099326	Hypertensive diseases	0.18177956342697144
+trial_2	diethylpropion	9	KG00098432	Confusion NOS	0.1722850650548935
+trial_2	diethylpropion	17	KG00097991	Asthenia NOS	0.16145342588424683
+trial_2	diethylpropion	46	KG00099121	Headache NOS	0.13136404752731323
+trial_2	diethylpropion	101	KG00097901	Anorexia NOS	0.13004036247730255
+trial_2	diethylpropion	228	KG00114657	Weight below normal	0.12920741736888885
+trial_2	diethylpropion	68	KG00099901	nauseas	0.12319662421941757
+trial_2	diethylpropion	79	KG00100317	Insomnia, Primary	0.11259914934635162
+trial_2	diethylpropion	177	KG00099299	hyperglycaemia	0.11183598637580872
+trial_2	diethylpropion	49	KG00099902	nausea with vomiting	0.10783123970031738
+trial_2	diethylpropion	123	KG00099351	hypokalaemia	0.10259675979614258
+trial_2	diethylpropion	77	KG00098450	Constipation NOS	0.09985822439193726
+trial_2	diethylpropion	20	KG00098540	dehydration	0.09215293079614639
+trial_2	diethylpropion	37	KG00097696	Cramps, Abdominal	0.09085972607135773
+trial_2	diethylpropion	21	KG00098675	dyspnoea	0.08691368997097015
+trial_2	diethylpropion	173	KG00098172	Bronchopneumonia NOS	0.08635714650154114
+trial_2	diethylpropion	67	KG00098673	Dyspepsia, NOS	0.07598713040351868
+trial_2	diethylpropion	189	KG00101580	Alanine aminotransferase increase	0.07400452345609665
+trial_2	diethylpropion	200	KG00098539	Disorders, Deglutition	0.06647010147571564
+trial_2	diethylpropion	350	KG00106765	decreased platelet count	0.0655369684100151
+trial_2	diethylpropion	188	KG00101579	Aspartate aminotransferase increase	0.06541185826063156
+trial_2	diethylpropion	64	KG00097734	Acrodermatitis, NOS	0.06537500768899918
+trial_2	diethylpropion	29	KG00099354	hyponatraemia	0.06531360000371933
+trial_2	diethylpropion	102	KG00097916	anxieties	0.06182083114981651
+trial_2	diethylpropion	86	KG00098565	Depression, Mental	0.06087740138173103
+trial_2	diethylpropion	180	KG00099363	Hypotension NOS	0.05908367782831192
+trial_2	diethylpropion	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.05897241458296776
+trial_2	diethylpropion	126	KG00100076	Pain NOS	0.05862210690975189
+trial_2	diethylpropion	151	KG00098274	Infarction, Cerebral	0.05722047761082649
+trial_2	diethylpropion	243	KG00100947	Micturition frequency increased	0.056221142411231995
+trial_2	diethylpropion	239	KG00100128	pareses	0.05155397951602936
+trial_2	diethylpropion	114	KG00098933	fevers	0.05103055760264397
+trial_2	diethylpropion	14	KG00097852	Anemia NOS	0.04971350356936455
+trial_2	diethylpropion	179	KG00099342	hypocalcaemia	0.04875892028212547
+trial_2	diethylpropion	104	KG00097963	arthralgias	0.04819058999419212
+trial_2	diethylpropion	85	KG00098474	coughs	0.0469365194439888
+trial_2	diethylpropion	76	KG00100450	Respiratory insufficiency, NOS	0.0463486909866333
+trial_2	diethylpropion	96	KG00101679	Unattended death NOS	0.043540600687265396
+trial_2	diethylpropion	72	KG00103771	myalgias	0.043430741876363754
+trial_2	diethylpropion	38	KG00098066	Binocular vision disorders	0.0430193729698658
+trial_2	diethylpropion	262	KG00101199	agitation	0.042639151215553284
+trial_2	diethylpropion	142	KG00100923	Unspecified infectious and parasitic diseases	0.04244031012058258
+trial_2	diethylpropion	2	KG00100772	thrombocytopaenia	0.042352866381406784
+trial_2	diethylpropion	122	KG00099321	Hypersensitivity NOS	0.041994743049144745
+trial_2	diethylpropion	300	KG00101064	xerostomia	0.04175776615738869
+trial_2	diethylpropion	234	KG00098669	dysgeusias	0.040932439267635345
+trial_2	diethylpropion	194	KG00110727	Neutrophil Count Decreased	0.0402207188308239
+trial_2	diethylpropion	132	KG00101045	Gain, Weight	0.03764571622014046
+trial_2	diethylpropion	249	KG00104430	hypoalbuminaemia	0.037422433495521545
+trial_2	diethylpropion	355	KG00110857	lymphocyte count decreased	0.03721828758716583
+trial_2	diethylpropion	27	KG00099303	hyperkalaemia	0.037022627890110016
+trial_2	diethylpropion	121	KG00099190	haemorrhage	0.03670932352542877
+trial_2	diethylpropion	36	KG00106434	Vision, Blurring Of	0.03659679368138313
+trial_2	diethylpropion	28	KG00099347	hypoglycaemia	0.03617846593260765
+trial_2	diethylpropion	5	KG00099169	haematuria	0.035793405026197433
+trial_2	diethylpropion	69	KG00100082	Palpitations NOS	0.035704489797353745
+trial_2	diethylpropion	139	KG00098855	Sinusitis, Ethmoid	0.035621266812086105
+trial_2	diethylpropion	18	KG00098307	Pain, Chest	0.03543301671743393
+trial_2	diethylpropion	261	KG00101559	raised alkaline phosphatase	0.03541933000087738
+trial_2	diethylpropion	147	KG00098000	atelectases	0.03386605903506279
+trial_2	diethylpropion	116	KG00098964	Pain in foot	0.03302371874451637
+trial_2	diethylpropion	61	KG00099501	Chronic Kidney Failure	0.03294390067458153
+trial_2	diethylpropion	242	KG00100855	tremors	0.032872121781110764
+trial_2	diethylpropion	191	KG00104055	Biliverdin increased	0.03256211057305336
+trial_2	diethylpropion	35	KG00101507	hypomagnesaemia	0.03242968022823334
+trial_2	diethylpropion	82	KG00097697	abdomen distended	0.03208165243268013
+trial_2	diethylpropion	466	KG00101205	fall	0.03199684992432594
+trial_2	diethylpropion	100	KG00097815	alopecias	0.031344737857580185
+trial_2	diethylpropion	154	KG00099686	Lymphopenias	0.031066495925188065
+trial_2	diethylpropion	66	KG00098642	drowsiness	0.03076755441725254
+trial_2	diethylpropion	361	KG00098004	Fibrillation, Atrial	0.03048371709883213
+trial_2	diethylpropion	282	KG00099309	hypernatraemia	0.02984282746911049
+trial_2	diethylpropion	133	KG00101370	neuropathies sensory	0.029325271025300026
+trial_2	diethylpropion	286	KG00101110	Retention, Urinary	0.029256215319037437
+trial_2	diethylpropion	164	KG00108827	ileus colon	0.029011884704232216
+trial_2	diethylpropion	89	KG00099301	Hyperhidrosis (disorder)	0.02887958474457264
+trial_2	diethylpropion	170	KG00108926	Neutropenia, Febrile	0.028554612770676613
+trial_2	diethylpropion	232	KG00097997	Ataxia NOS	0.027550755068659782
+trial_2	diethylpropion	269	KG00100399	pyaemia	0.027375338599085808
+trial_2	diethylpropion	30	KG00099500	Acute Kidney Failure	0.02691732905805111
+trial_2	diethylpropion	396	KG00100373	Embolism, Pulmonary	0.026899633929133415
+trial_2	diethylpropion	130	KG00100683	Stomatitis NOS	0.02672487497329712
+trial_2	diethylpropion	131	KG00100948	Urinary tract infection (& [NOS])	0.02639777772128582
+trial_2	diethylpropion	218	KG00100801	Tinnitus NOS	0.026262573897838593
+trial_2	diethylpropion	288	KG00101223	hypophosphataemia	0.025775395333766937
+trial_2	diethylpropion	254	KG00100774	Thrombosis NOS	0.02559714950621128
+trial_2	diethylpropion	22	KG00098705	Edema (NOS)	0.02554645761847496
+trial_2	diethylpropion	144	KG00099610	Leukopenia NOS	0.02547791227698326
+trial_2	diethylpropion	136	KG00101582	Dry;skin	0.02486889250576496
+trial_2	diethylpropion	152	KG00099402	INCONTINENCE NOS	0.02479974552989006
+trial_2	diethylpropion	166	KG00099773	menopausal syndrome	0.024452026933431625
+trial_2	diethylpropion	1	KG00099959	Neutropenia NOS	0.024082012474536896
+trial_2	diethylpropion	356	KG00112623	Infectious Lung Disorders	0.024027042090892792
+trial_2	diethylpropion	276	KG00099127	Arrest, Cardiac	0.024023547768592834
+trial_2	diethylpropion	204	KG00098849	Esophagitis, Peptic	0.02353505976498127
+trial_2	diethylpropion	256	KG00100738	Tachycardia, Sinus	0.023242929950356483
+trial_2	diethylpropion	153	KG00099579	lethargy	0.023241398856043816
+trial_2	diethylpropion	199	KG00098371	Rhinitis (chronic) NOS	0.02315538376569748
+trial_2	diethylpropion	371	KG00098517	Cystitis (NOS)	0.02294102869927883

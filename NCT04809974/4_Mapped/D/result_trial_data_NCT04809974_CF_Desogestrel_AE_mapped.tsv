@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10429957509040833
+trial_1	placebo	87	KG00098599	diarrhoea	0.07744912803173065
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07292267680168152
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06949296593666077
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.0650336891412735
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06458722800016403
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.05409982055425644
+trial_1	placebo	46	KG00099121	Headache NOS	0.05361130088567734
+trial_1	placebo	21	KG00098675	dyspnoea	0.04827117547392845
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04762078821659088
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.046913038939237595
+trial_1	placebo	77	KG00098450	Constipation NOS	0.045952148735523224
+trial_1	placebo	123	KG00099351	hypokalaemia	0.04459161311388016
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04453320428729057
+trial_1	placebo	68	KG00099901	nauseas	0.042931199073791504
+trial_1	placebo	20	KG00098540	dehydration	0.042539097368717194
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03999617323279381
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03931020200252533
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.039273831993341446
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.037941042333841324
+trial_1	placebo	126	KG00100076	Pain NOS	0.03750168904662132
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03693681210279465
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03596824035048485
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.03562206029891968
+trial_1	placebo	104	KG00097963	arthralgias	0.03442002460360527
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03186764940619469
+trial_1	placebo	239	KG00100128	pareses	0.031842365860939026
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03175601735711098
+trial_1	placebo	228	KG00114657	Weight below normal	0.029686639085412025
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02947937324643135
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.028817037120461464
+trial_1	placebo	29	KG00099354	hyponatraemia	0.028746705502271652
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02847900427877903
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02840821072459221
+trial_1	placebo	114	KG00098933	fevers	0.02709612064063549
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02687854692339897
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.026120292022824287
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.025263529270887375
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02522764541208744
+trial_1	placebo	85	KG00098474	coughs	0.02502705156803131
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02453579381108284
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.023685479536652565
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.023658838123083115
+trial_1	placebo	116	KG00098964	Pain in foot	0.023604536429047585
+trial_1	placebo	466	KG00101205	fall	0.023584531620144844
+trial_1	placebo	102	KG00097916	anxieties	0.023481247946619987
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.0233196672052145
+trial_1	placebo	72	KG00103771	myalgias	0.023280825465917587
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02325236238539219
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023205911740660667
+trial_1	placebo	121	KG00099190	haemorrhage	0.02317545935511589
+trial_1	placebo	5	KG00099169	haematuria	0.022914335131645203
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022827139124274254
+trial_1	placebo	147	KG00098000	atelectases	0.022083215415477753
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.021984554827213287
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.021770495921373367
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02147429808974266
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02136869728565216
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02134609967470169
+trial_1	placebo	18	KG00098307	Pain, Chest	0.019988756626844406
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.01901371218264103
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.018948718905448914
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.018938226625323296
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01809207908809185
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018033262342214584
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01800909824669361
+trial_1	placebo	262	KG00101199	agitation	0.017687467858195305
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017507735639810562
+trial_1	placebo	508	KG00108565	blood glucose increased	0.017325131222605705
+trial_1	placebo	454	KG00098286	Pain, Neck	0.017297031357884407
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.01722882129251957
+trial_1	placebo	221	KG00101207	peripheral oedema	0.017173506319522858
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.017160752788186073
+trial_1	placebo	82	KG00097697	abdomen distended	0.017155639827251434
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.017136216163635254
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016889605671167374
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.016769852489233017
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.016581011936068535
+trial_1	placebo	282	KG00099309	hypernatraemia	0.0165513064712286
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.01652785763144493
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01607036031782627
+trial_1	placebo	203	KG00098661	dysarthrias	0.016012324020266533
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.015968432649970055
+trial_1	placebo	363	KG00098184	burns injury	0.01557121705263853
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.015526708215475082
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01549206580966711
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.015461848117411137
+trial_1	placebo	136	KG00101582	Dry;skin	0.015203134156763554
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.015135803259909153
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014986881986260414
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.014966404996812344
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.014896641485393047
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.014647872187197208
+trial_1	placebo	456	KG00099420	Influenzae	0.01459350436925888
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.01450486108660698
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.014123483560979366
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.014106489717960358
+trial_1	placebo	345	KG00103926	impairments memory	0.013969017192721367
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.013821350410580635
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.013813333585858345
+trial_2	desogestrel	78	KG00099326	Hypertensive diseases	0.10429957509040833
+trial_2	desogestrel	87	KG00098599	diarrhoea	0.07744912803173065
+trial_2	desogestrel	173	KG00098172	Bronchopneumonia NOS	0.07292267680168152
+trial_2	desogestrel	177	KG00099299	hyperglycaemia	0.06949296593666077
+trial_2	desogestrel	17	KG00097991	Asthenia NOS	0.0650336891412735
+trial_2	desogestrel	9	KG00098432	Confusion NOS	0.06458722800016403
+trial_2	desogestrel	79	KG00100317	Insomnia, Primary	0.05409982055425644
+trial_2	desogestrel	46	KG00099121	Headache NOS	0.05361130088567734
+trial_2	desogestrel	21	KG00098675	dyspnoea	0.04827117547392845
+trial_2	desogestrel	64	KG00097734	Acrodermatitis, NOS	0.04762078821659088
+trial_2	desogestrel	243	KG00100947	Micturition frequency increased	0.046913038939237595
+trial_2	desogestrel	77	KG00098450	Constipation NOS	0.045952148735523224
+trial_2	desogestrel	123	KG00099351	hypokalaemia	0.04459161311388016
+trial_2	desogestrel	67	KG00098673	Dyspepsia, NOS	0.04453320428729057
+trial_2	desogestrel	68	KG00099901	nauseas	0.042931199073791504
+trial_2	desogestrel	20	KG00098540	dehydration	0.042539097368717194
+trial_2	desogestrel	86	KG00098565	Depression, Mental	0.03999617323279381
+trial_2	desogestrel	189	KG00101580	Alanine aminotransferase increase	0.03931020200252533
+trial_2	desogestrel	37	KG00097696	Cramps, Abdominal	0.039273831993341446
+trial_2	desogestrel	151	KG00098274	Infarction, Cerebral	0.037941042333841324
+trial_2	desogestrel	126	KG00100076	Pain NOS	0.03750168904662132
+trial_2	desogestrel	49	KG00099902	nausea with vomiting	0.03693681210279465
+trial_2	desogestrel	200	KG00098539	Disorders, Deglutition	0.03596824035048485
+trial_2	desogestrel	166	KG00099773	menopausal syndrome	0.03562206029891968
+trial_2	desogestrel	104	KG00097963	arthralgias	0.03442002460360527
+trial_2	desogestrel	132	KG00101045	Gain, Weight	0.03186764940619469
+trial_2	desogestrel	239	KG00100128	pareses	0.031842365860939026
+trial_2	desogestrel	28	KG00099347	hypoglycaemia	0.03175601735711098
+trial_2	desogestrel	228	KG00114657	Weight below normal	0.029686639085412025
+trial_2	desogestrel	139	KG00098855	Sinusitis, Ethmoid	0.02947937324643135
+trial_2	desogestrel	188	KG00101579	Aspartate aminotransferase increase	0.028817037120461464
+trial_2	desogestrel	29	KG00099354	hyponatraemia	0.028746705502271652
+trial_2	desogestrel	350	KG00106765	decreased platelet count	0.02847900427877903
+trial_2	desogestrel	14	KG00097852	Anemia NOS	0.02840821072459221
+trial_2	desogestrel	114	KG00098933	fevers	0.02709612064063549
+trial_2	desogestrel	122	KG00099321	Hypersensitivity NOS	0.02687854692339897
+trial_2	desogestrel	96	KG00101679	Unattended death NOS	0.026120292022824287
+trial_2	desogestrel	38	KG00098066	Binocular vision disorders	0.025263529270887375
+trial_2	desogestrel	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02522764541208744
+trial_2	desogestrel	85	KG00098474	coughs	0.02502705156803131
+trial_2	desogestrel	180	KG00099363	Hypotension NOS	0.02453579381108284
+trial_2	desogestrel	179	KG00099342	hypocalcaemia	0.023685479536652565
+trial_2	desogestrel	61	KG00099501	Chronic Kidney Failure	0.023658838123083115
+trial_2	desogestrel	116	KG00098964	Pain in foot	0.023604536429047585
+trial_2	desogestrel	466	KG00101205	fall	0.023584531620144844
+trial_2	desogestrel	102	KG00097916	anxieties	0.023481247946619987
+trial_2	desogestrel	76	KG00100450	Respiratory insufficiency, NOS	0.0233196672052145
+trial_2	desogestrel	72	KG00103771	myalgias	0.023280825465917587
+trial_2	desogestrel	131	KG00100948	Urinary tract infection (& [NOS])	0.02325236238539219
+trial_2	desogestrel	69	KG00100082	Palpitations NOS	0.023205911740660667
+trial_2	desogestrel	121	KG00099190	haemorrhage	0.02317545935511589
+trial_2	desogestrel	5	KG00099169	haematuria	0.022914335131645203
+trial_2	desogestrel	441	KG00098262	cellulitis nos	0.022827139124274254
+trial_2	desogestrel	147	KG00098000	atelectases	0.022083215415477753
+trial_2	desogestrel	2	KG00100772	thrombocytopaenia	0.021984554827213287
+trial_2	desogestrel	297	KG00099294	hypercholesterolaemia	0.021770495921373367
+trial_2	desogestrel	27	KG00099303	hyperkalaemia	0.02147429808974266
+trial_2	desogestrel	211	KG00100341	Pruritus NOS	0.02136869728565216
+trial_2	desogestrel	396	KG00100373	Embolism, Pulmonary	0.02134609967470169
+trial_2	desogestrel	18	KG00098307	Pain, Chest	0.019988756626844406
+trial_2	desogestrel	30	KG00099500	Acute Kidney Failure	0.01901371218264103
+trial_2	desogestrel	36	KG00106434	Vision, Blurring Of	0.018948718905448914
+trial_2	desogestrel	101	KG00097901	Anorexia NOS	0.018938226625323296
+trial_2	desogestrel	92	KG00100926	Infections, Upper Respiratory	0.01809207908809185
+trial_2	desogestrel	142	KG00100923	Unspecified infectious and parasitic diseases	0.018033262342214584
+trial_2	desogestrel	75	KG00100195	Dolens, Phlegmasia Alba	0.01800909824669361
+trial_2	desogestrel	262	KG00101199	agitation	0.017687467858195305
+trial_2	desogestrel	361	KG00098004	Fibrillation, Atrial	0.017507735639810562
+trial_2	desogestrel	508	KG00108565	blood glucose increased	0.017325131222605705
+trial_2	desogestrel	454	KG00098286	Pain, Neck	0.017297031357884407
+trial_2	desogestrel	355	KG00110857	lymphocyte count decreased	0.01722882129251957
+trial_2	desogestrel	221	KG00101207	peripheral oedema	0.017173506319522858
+trial_2	desogestrel	249	KG00104430	hypoalbuminaemia	0.017160752788186073
+trial_2	desogestrel	82	KG00097697	abdomen distended	0.017155639827251434
+trial_2	desogestrel	194	KG00110727	Neutrophil Count Decreased	0.017136216163635254
+trial_2	desogestrel	286	KG00101110	Retention, Urinary	0.016889605671167374
+trial_2	desogestrel	261	KG00101559	raised alkaline phosphatase	0.016769852489233017
+trial_2	desogestrel	31	KG00099872	Infarction, Myocardial	0.016581011936068535
+trial_2	desogestrel	282	KG00099309	hypernatraemia	0.0165513064712286
+trial_2	desogestrel	276	KG00099127	Arrest, Cardiac	0.01652785763144493
+trial_2	desogestrel	191	KG00104055	Biliverdin increased	0.01607036031782627
+trial_2	desogestrel	203	KG00098661	dysarthrias	0.016012324020266533
+trial_2	desogestrel	118	KG00099011	Gastritis NOS	0.015968432649970055
+trial_2	desogestrel	363	KG00098184	burns injury	0.01557121705263853
+trial_2	desogestrel	152	KG00099402	INCONTINENCE NOS	0.015526708215475082
+trial_2	desogestrel	154	KG00099686	Lymphopenias	0.01549206580966711
+trial_2	desogestrel	204	KG00098849	Esophagitis, Peptic	0.015461848117411137
+trial_2	desogestrel	136	KG00101582	Dry;skin	0.015203134156763554
+trial_2	desogestrel	133	KG00101370	neuropathies sensory	0.015135803259909153
+trial_2	desogestrel	11	KG00097993	Asthma NOS	0.014986881986260414
+trial_2	desogestrel	246	KG00103338	Aspartate Aminotransferase Measurement	0.014966404996812344
+trial_2	desogestrel	15	KG00097882	Angina pectoris NOS	0.014896641485393047
+trial_2	desogestrel	22	KG00098705	Edema (NOS)	0.014647872187197208
+trial_2	desogestrel	456	KG00099420	Influenzae	0.01459350436925888
+trial_2	desogestrel	199	KG00098371	Rhinitis (chronic) NOS	0.01450486108660698
+trial_2	desogestrel	35	KG00101507	hypomagnesaemia	0.014123483560979366
+trial_2	desogestrel	195	KG00097814	Atopic Rhinitis	0.014106489717960358
+trial_2	desogestrel	345	KG00103926	impairments memory	0.013969017192721367
+trial_2	desogestrel	288	KG00101223	hypophosphataemia	0.013821350410580635
+trial_2	desogestrel	99	KG00097728	acne; vulgaris	0.013813333585858345

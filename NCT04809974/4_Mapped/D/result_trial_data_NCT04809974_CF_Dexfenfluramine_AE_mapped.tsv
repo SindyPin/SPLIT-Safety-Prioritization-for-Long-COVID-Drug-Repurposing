@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2215440273284912
+trial_1	placebo	68	KG00099901	nauseas	0.17916239798069
+trial_1	placebo	9	KG00098432	Confusion NOS	0.145808607339859
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.1416398137807846
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13602517545223236
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.13019590079784393
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.12656599283218384
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.12584595382213593
+trial_1	placebo	46	KG00099121	Headache NOS	0.11883564293384552
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10955245792865753
+trial_1	placebo	228	KG00114657	Weight below normal	0.09900977462530136
+trial_1	placebo	20	KG00098540	dehydration	0.09633122384548187
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.08844573050737381
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.08333317935466766
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0802435651421547
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.07544416189193726
+trial_1	placebo	21	KG00098675	dyspnoea	0.06985560059547424
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06416761130094528
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06069629639387131
+trial_1	placebo	102	KG00097916	anxieties	0.05958561599254608
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05780836567282677
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05771894380450249
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05524330958724022
+trial_1	placebo	300	KG00101064	xerostomia	0.0529356524348259
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.051512423902750015
+trial_1	placebo	126	KG00100076	Pain NOS	0.051079995930194855
+trial_1	placebo	86	KG00098565	Depression, Mental	0.0503787100315094
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05023912340402603
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0466156005859375
+trial_1	placebo	239	KG00100128	pareses	0.0449233241379261
+trial_1	placebo	82	KG00097697	abdomen distended	0.04379997029900551
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.042954277247190475
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.042759086936712265
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04098977521061897
+trial_1	placebo	114	KG00098933	fevers	0.03940027952194214
+trial_1	placebo	104	KG00097963	arthralgias	0.038712792098522186
+trial_1	placebo	85	KG00098474	coughs	0.03762545809149742
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03654472157359123
+trial_1	placebo	66	KG00098642	drowsiness	0.03548270836472511
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03452375531196594
+trial_1	placebo	89	KG00099301	Hyperhidrosis (disorder)	0.03416906297206879
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.034106142818927765
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03404698893427849
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.033794861286878586
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03347707912325859
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03309740498661995
+trial_1	placebo	72	KG00103771	myalgias	0.032708603888750076
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03258165717124939
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03199321776628494
+trial_1	placebo	262	KG00101199	agitation	0.031937722116708755
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03175361454486847
+trial_1	placebo	132	KG00101045	Gain, Weight	0.031638696789741516
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03153790906071663
+trial_1	placebo	5	KG00099169	haematuria	0.03099619597196579
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03057195618748665
+trial_1	placebo	116	KG00098964	Pain in foot	0.03032907284796238
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.029623406007885933
+trial_1	placebo	234	KG00098669	dysgeusias	0.029200183227658272
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.028792213648557663
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02848883531987667
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028410669416189194
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.028320083394646645
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.02788812853395939
+trial_1	placebo	164	KG00108827	ileus colon	0.027440151199698448
+trial_1	placebo	466	KG00101205	fall	0.02731415256857872
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.026908814907073975
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.026830730959773064
+trial_1	placebo	242	KG00100855	tremors	0.026363972574472427
+trial_1	placebo	147	KG00098000	atelectases	0.026106974110007286
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025424204766750336
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.025400374084711075
+trial_1	placebo	121	KG00099190	haemorrhage	0.024997593834996223
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024830278009176254
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02478906884789467
+trial_1	placebo	136	KG00101582	Dry;skin	0.02409622073173523
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.023284776136279106
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.023031147196888924
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.022789543494582176
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.022778697311878204
+trial_1	placebo	382	KG00099200	haemorrhoids	0.02248685248196125
+trial_1	placebo	153	KG00099579	lethargy	0.022374959662556648
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.022232413291931152
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02212563529610634
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.022052539512515068
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.021810058504343033
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.021596604958176613
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021200409159064293
+trial_1	placebo	345	KG00103926	impairments memory	0.02111010067164898
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.020878557115793228
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.02086063288152218
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02083824947476387
+trial_1	placebo	454	KG00098286	Pain, Neck	0.0206589512526989
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02064109966158867
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02044769935309887
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.020379135385155678
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02024882100522518
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.020186323672533035
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020166752859950066
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.020029013976454735
+trial_1	placebo	508	KG00108565	blood glucose increased	0.019749684259295464
+trial_2	dexfenfluramine	87	KG00098599	diarrhoea	0.2215440273284912
+trial_2	dexfenfluramine	68	KG00099901	nauseas	0.17916239798069
+trial_2	dexfenfluramine	9	KG00098432	Confusion NOS	0.145808607339859
+trial_2	dexfenfluramine	49	KG00099902	nausea with vomiting	0.1416398137807846
+trial_2	dexfenfluramine	78	KG00099326	Hypertensive diseases	0.13602517545223236
+trial_2	dexfenfluramine	17	KG00097991	Asthenia NOS	0.13019590079784393
+trial_2	dexfenfluramine	79	KG00100317	Insomnia, Primary	0.12656599283218384
+trial_2	dexfenfluramine	101	KG00097901	Anorexia NOS	0.12584595382213593
+trial_2	dexfenfluramine	46	KG00099121	Headache NOS	0.11883564293384552
+trial_2	dexfenfluramine	77	KG00098450	Constipation NOS	0.10955245792865753
+trial_2	dexfenfluramine	228	KG00114657	Weight below normal	0.09900977462530136
+trial_2	dexfenfluramine	20	KG00098540	dehydration	0.09633122384548187
+trial_2	dexfenfluramine	177	KG00099299	hyperglycaemia	0.08844573050737381
+trial_2	dexfenfluramine	67	KG00098673	Dyspepsia, NOS	0.08333317935466766
+trial_2	dexfenfluramine	123	KG00099351	hypokalaemia	0.0802435651421547
+trial_2	dexfenfluramine	37	KG00097696	Cramps, Abdominal	0.07544416189193726
+trial_2	dexfenfluramine	21	KG00098675	dyspnoea	0.06985560059547424
+trial_2	dexfenfluramine	173	KG00098172	Bronchopneumonia NOS	0.06416761130094528
+trial_2	dexfenfluramine	64	KG00097734	Acrodermatitis, NOS	0.06069629639387131
+trial_2	dexfenfluramine	102	KG00097916	anxieties	0.05958561599254608
+trial_2	dexfenfluramine	189	KG00101580	Alanine aminotransferase increase	0.05780836567282677
+trial_2	dexfenfluramine	200	KG00098539	Disorders, Deglutition	0.05771894380450249
+trial_2	dexfenfluramine	243	KG00100947	Micturition frequency increased	0.05524330958724022
+trial_2	dexfenfluramine	300	KG00101064	xerostomia	0.0529356524348259
+trial_2	dexfenfluramine	188	KG00101579	Aspartate aminotransferase increase	0.051512423902750015
+trial_2	dexfenfluramine	126	KG00100076	Pain NOS	0.051079995930194855
+trial_2	dexfenfluramine	86	KG00098565	Depression, Mental	0.0503787100315094
+trial_2	dexfenfluramine	29	KG00099354	hyponatraemia	0.05023912340402603
+trial_2	dexfenfluramine	180	KG00099363	Hypotension NOS	0.0466156005859375
+trial_2	dexfenfluramine	239	KG00100128	pareses	0.0449233241379261
+trial_2	dexfenfluramine	82	KG00097697	abdomen distended	0.04379997029900551
+trial_2	dexfenfluramine	151	KG00098274	Infarction, Cerebral	0.042954277247190475
+trial_2	dexfenfluramine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.042759086936712265
+trial_2	dexfenfluramine	350	KG00106765	decreased platelet count	0.04098977521061897
+trial_2	dexfenfluramine	114	KG00098933	fevers	0.03940027952194214
+trial_2	dexfenfluramine	104	KG00097963	arthralgias	0.038712792098522186
+trial_2	dexfenfluramine	85	KG00098474	coughs	0.03762545809149742
+trial_2	dexfenfluramine	38	KG00098066	Binocular vision disorders	0.03654472157359123
+trial_2	dexfenfluramine	66	KG00098642	drowsiness	0.03548270836472511
+trial_2	dexfenfluramine	76	KG00100450	Respiratory insufficiency, NOS	0.03452375531196594
+trial_2	dexfenfluramine	89	KG00099301	Hyperhidrosis (disorder)	0.03416906297206879
+trial_2	dexfenfluramine	166	KG00099773	menopausal syndrome	0.034106142818927765
+trial_2	dexfenfluramine	18	KG00098307	Pain, Chest	0.03404698893427849
+trial_2	dexfenfluramine	96	KG00101679	Unattended death NOS	0.033794861286878586
+trial_2	dexfenfluramine	69	KG00100082	Palpitations NOS	0.03347707912325859
+trial_2	dexfenfluramine	211	KG00100341	Pruritus NOS	0.03309740498661995
+trial_2	dexfenfluramine	72	KG00103771	myalgias	0.032708603888750076
+trial_2	dexfenfluramine	122	KG00099321	Hypersensitivity NOS	0.03258165717124939
+trial_2	dexfenfluramine	28	KG00099347	hypoglycaemia	0.03199321776628494
+trial_2	dexfenfluramine	262	KG00101199	agitation	0.031937722116708755
+trial_2	dexfenfluramine	14	KG00097852	Anemia NOS	0.03175361454486847
+trial_2	dexfenfluramine	132	KG00101045	Gain, Weight	0.031638696789741516
+trial_2	dexfenfluramine	179	KG00099342	hypocalcaemia	0.03153790906071663
+trial_2	dexfenfluramine	5	KG00099169	haematuria	0.03099619597196579
+trial_2	dexfenfluramine	139	KG00098855	Sinusitis, Ethmoid	0.03057195618748665
+trial_2	dexfenfluramine	116	KG00098964	Pain in foot	0.03032907284796238
+trial_2	dexfenfluramine	261	KG00101559	raised alkaline phosphatase	0.029623406007885933
+trial_2	dexfenfluramine	234	KG00098669	dysgeusias	0.029200183227658272
+trial_2	dexfenfluramine	204	KG00098849	Esophagitis, Peptic	0.028792213648557663
+trial_2	dexfenfluramine	36	KG00106434	Vision, Blurring Of	0.02848883531987667
+trial_2	dexfenfluramine	286	KG00101110	Retention, Urinary	0.028410669416189194
+trial_2	dexfenfluramine	191	KG00104055	Biliverdin increased	0.028320083394646645
+trial_2	dexfenfluramine	61	KG00099501	Chronic Kidney Failure	0.02788812853395939
+trial_2	dexfenfluramine	164	KG00108827	ileus colon	0.027440151199698448
+trial_2	dexfenfluramine	466	KG00101205	fall	0.02731415256857872
+trial_2	dexfenfluramine	27	KG00099303	hyperkalaemia	0.026908814907073975
+trial_2	dexfenfluramine	142	KG00100923	Unspecified infectious and parasitic diseases	0.026830730959773064
+trial_2	dexfenfluramine	242	KG00100855	tremors	0.026363972574472427
+trial_2	dexfenfluramine	147	KG00098000	atelectases	0.026106974110007286
+trial_2	dexfenfluramine	282	KG00099309	hypernatraemia	0.025424204766750336
+trial_2	dexfenfluramine	35	KG00101507	hypomagnesaemia	0.025400374084711075
+trial_2	dexfenfluramine	121	KG00099190	haemorrhage	0.024997593834996223
+trial_2	dexfenfluramine	131	KG00100948	Urinary tract infection (& [NOS])	0.024830278009176254
+trial_2	dexfenfluramine	355	KG00110857	lymphocyte count decreased	0.02478906884789467
+trial_2	dexfenfluramine	136	KG00101582	Dry;skin	0.02409622073173523
+trial_2	dexfenfluramine	2	KG00100772	thrombocytopaenia	0.023284776136279106
+trial_2	dexfenfluramine	94	KG00103829	abdominal discomfort	0.023031147196888924
+trial_2	dexfenfluramine	194	KG00110727	Neutrophil Count Decreased	0.022789543494582176
+trial_2	dexfenfluramine	249	KG00104430	hypoalbuminaemia	0.022778697311878204
+trial_2	dexfenfluramine	382	KG00099200	haemorrhoids	0.02248685248196125
+trial_2	dexfenfluramine	153	KG00099579	lethargy	0.022374959662556648
+trial_2	dexfenfluramine	371	KG00098517	Cystitis (NOS)	0.022232413291931152
+trial_2	dexfenfluramine	22	KG00098705	Edema (NOS)	0.02212563529610634
+trial_2	dexfenfluramine	218	KG00100801	Tinnitus NOS	0.022052539512515068
+trial_2	dexfenfluramine	30	KG00099500	Acute Kidney Failure	0.021810058504343033
+trial_2	dexfenfluramine	33	KG00100094	Pancreatitis NOS	0.021596604958176613
+trial_2	dexfenfluramine	199	KG00098371	Rhinitis (chronic) NOS	0.021200409159064293
+trial_2	dexfenfluramine	345	KG00103926	impairments memory	0.02111010067164898
+trial_2	dexfenfluramine	396	KG00100373	Embolism, Pulmonary	0.020878557115793228
+trial_2	dexfenfluramine	152	KG00099402	INCONTINENCE NOS	0.02086063288152218
+trial_2	dexfenfluramine	441	KG00098262	cellulitis nos	0.02083824947476387
+trial_2	dexfenfluramine	454	KG00098286	Pain, Neck	0.0206589512526989
+trial_2	dexfenfluramine	361	KG00098004	Fibrillation, Atrial	0.02064109966158867
+trial_2	dexfenfluramine	75	KG00100195	Dolens, Phlegmasia Alba	0.02044769935309887
+trial_2	dexfenfluramine	256	KG00100738	Tachycardia, Sinus	0.020379135385155678
+trial_2	dexfenfluramine	130	KG00100683	Stomatitis NOS	0.02024882100522518
+trial_2	dexfenfluramine	288	KG00101223	hypophosphataemia	0.020186323672533035
+trial_2	dexfenfluramine	276	KG00099127	Arrest, Cardiac	0.020166752859950066
+trial_2	dexfenfluramine	341	KG00101472	Gamma-glutamyltransferase increased	0.020029013976454735
+trial_2	dexfenfluramine	508	KG00108565	blood glucose increased	0.019749684259295464

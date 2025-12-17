@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.18919050693511963
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1836698204278946
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14938096702098846
+trial_1	placebo	9	KG00098432	Confusion NOS	0.140426903963089
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.13246801495552063
+trial_1	placebo	20	KG00098540	dehydration	0.11720689386129379
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1141374260187149
+trial_1	placebo	77	KG00098450	Constipation NOS	0.1089128851890564
+trial_1	placebo	21	KG00098675	dyspnoea	0.10576993972063065
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10128889977931976
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09258763492107391
+trial_1	placebo	68	KG00099901	nauseas	0.08535122871398926
+trial_1	placebo	46	KG00099121	Headache NOS	0.08507297188043594
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08248181641101837
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08042511343955994
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07131033390760422
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.07108893990516663
+trial_1	placebo	85	KG00098474	coughs	0.07074105739593506
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06795601546764374
+trial_1	placebo	228	KG00114657	Weight below normal	0.06567510962486267
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06090956926345825
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06070927903056145
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05939607322216034
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.058904774487018585
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.057306788861751556
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05559421330690384
+trial_1	placebo	126	KG00100076	Pain NOS	0.0539364293217659
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.05363653972744942
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.05316803604364395
+trial_1	placebo	114	KG00098933	fevers	0.05251767486333847
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.052272237837314606
+trial_1	placebo	104	KG00097963	arthralgias	0.051656804978847504
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.05021151155233383
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04990961775183678
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04557497054338455
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.043879732489585876
+trial_1	placebo	300	KG00101064	xerostomia	0.04356801137328148
+trial_1	placebo	239	KG00100128	pareses	0.04268615320324898
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04260215163230896
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04092303663492203
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.04053188115358353
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04042881354689598
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.040282197296619415
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0396573506295681
+trial_1	placebo	269	KG00100399	pyaemia	0.03857693448662758
+trial_1	placebo	102	KG00097916	anxieties	0.0381755605340004
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.037507448345422745
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.037487518042325974
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03630063310265541
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03502753749489784
+trial_1	placebo	18	KG00098307	Pain, Chest	0.034567177295684814
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03372126817703247
+trial_1	placebo	66	KG00098642	drowsiness	0.033355820924043655
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.033295147120952606
+trial_1	placebo	262	KG00101199	agitation	0.03244965150952339
+trial_1	placebo	5	KG00099169	haematuria	0.03231377154588699
+trial_1	placebo	242	KG00100855	tremors	0.03218160197138786
+trial_1	placebo	164	KG00108827	ileus colon	0.032124463468790054
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.032005537301301956
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.031689126044511795
+trial_1	placebo	147	KG00098000	atelectases	0.031646642833948135
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.030609559267759323
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.030171295627951622
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.029925482347607613
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.029620345681905746
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.029485158622264862
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029221223667263985
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.029189005494117737
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.029077405110001564
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028877519071102142
+trial_1	placebo	466	KG00101205	fall	0.027174122631549835
+trial_1	placebo	221	KG00101207	peripheral oedema	0.027156643569469452
+trial_1	placebo	116	KG00098964	Pain in foot	0.027134714648127556
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.027102934196591377
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.027021396905183792
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.0260913223028183
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.025722196325659752
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.025714393705129623
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.025176266208291054
+trial_1	placebo	234	KG00098669	dysgeusias	0.025165842846035957
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.024965956807136536
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.024943744763731956
+trial_1	placebo	121	KG00099190	haemorrhage	0.02484491653740406
+trial_1	placebo	441	KG00098262	cellulitis nos	0.024830810725688934
+trial_1	placebo	82	KG00097697	abdomen distended	0.024386141449213028
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02392801083624363
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02363003045320511
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.023599877953529358
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023546382784843445
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02330661565065384
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.023184340447187424
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.023179875686764717
+trial_1	placebo	11	KG00097993	Asthma NOS	0.023076308891177177
+trial_1	placebo	25	KG00099134	congestive failures heart	0.023058060556650162
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.022539183497428894
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.022449031472206116
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.022310564294457436
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.02214857190847397
+trial_1	placebo	186	KG00101431	creatinine increased	0.02204936183989048
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.021866630762815475
+trial_2	dicyclomine	87	KG00098599	diarrhoea	0.18919050693511963
+trial_2	dicyclomine	78	KG00099326	Hypertensive diseases	0.1836698204278946
+trial_2	dicyclomine	17	KG00097991	Asthenia NOS	0.14938096702098846
+trial_2	dicyclomine	9	KG00098432	Confusion NOS	0.140426903963089
+trial_2	dicyclomine	177	KG00099299	hyperglycaemia	0.13246801495552063
+trial_2	dicyclomine	20	KG00098540	dehydration	0.11720689386129379
+trial_2	dicyclomine	173	KG00098172	Bronchopneumonia NOS	0.1141374260187149
+trial_2	dicyclomine	77	KG00098450	Constipation NOS	0.1089128851890564
+trial_2	dicyclomine	21	KG00098675	dyspnoea	0.10576993972063065
+trial_2	dicyclomine	123	KG00099351	hypokalaemia	0.10128889977931976
+trial_2	dicyclomine	49	KG00099902	nausea with vomiting	0.09258763492107391
+trial_2	dicyclomine	68	KG00099901	nauseas	0.08535122871398926
+trial_2	dicyclomine	46	KG00099121	Headache NOS	0.08507297188043594
+trial_2	dicyclomine	79	KG00100317	Insomnia, Primary	0.08248181641101837
+trial_2	dicyclomine	37	KG00097696	Cramps, Abdominal	0.08042511343955994
+trial_2	dicyclomine	151	KG00098274	Infarction, Cerebral	0.07131033390760422
+trial_2	dicyclomine	180	KG00099363	Hypotension NOS	0.07108893990516663
+trial_2	dicyclomine	85	KG00098474	coughs	0.07074105739593506
+trial_2	dicyclomine	86	KG00098565	Depression, Mental	0.06795601546764374
+trial_2	dicyclomine	228	KG00114657	Weight below normal	0.06567510962486267
+trial_2	dicyclomine	14	KG00097852	Anemia NOS	0.06090956926345825
+trial_2	dicyclomine	29	KG00099354	hyponatraemia	0.06070927903056145
+trial_2	dicyclomine	200	KG00098539	Disorders, Deglutition	0.05939607322216034
+trial_2	dicyclomine	96	KG00101679	Unattended death NOS	0.058904774487018585
+trial_2	dicyclomine	189	KG00101580	Alanine aminotransferase increase	0.057306788861751556
+trial_2	dicyclomine	67	KG00098673	Dyspepsia, NOS	0.05559421330690384
+trial_2	dicyclomine	126	KG00100076	Pain NOS	0.0539364293217659
+trial_2	dicyclomine	76	KG00100450	Respiratory insufficiency, NOS	0.05363653972744942
+trial_2	dicyclomine	30	KG00099500	Acute Kidney Failure	0.05316803604364395
+trial_2	dicyclomine	114	KG00098933	fevers	0.05251767486333847
+trial_2	dicyclomine	61	KG00099501	Chronic Kidney Failure	0.052272237837314606
+trial_2	dicyclomine	104	KG00097963	arthralgias	0.051656804978847504
+trial_2	dicyclomine	188	KG00101579	Aspartate aminotransferase increase	0.05021151155233383
+trial_2	dicyclomine	64	KG00097734	Acrodermatitis, NOS	0.04990961775183678
+trial_2	dicyclomine	350	KG00106765	decreased platelet count	0.04557497054338455
+trial_2	dicyclomine	131	KG00100948	Urinary tract infection (& [NOS])	0.043879732489585876
+trial_2	dicyclomine	300	KG00101064	xerostomia	0.04356801137328148
+trial_2	dicyclomine	239	KG00100128	pareses	0.04268615320324898
+trial_2	dicyclomine	132	KG00101045	Gain, Weight	0.04260215163230896
+trial_2	dicyclomine	101	KG00097901	Anorexia NOS	0.04092303663492203
+trial_2	dicyclomine	142	KG00100923	Unspecified infectious and parasitic diseases	0.04053188115358353
+trial_2	dicyclomine	396	KG00100373	Embolism, Pulmonary	0.04042881354689598
+trial_2	dicyclomine	28	KG00099347	hypoglycaemia	0.040282197296619415
+trial_2	dicyclomine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0396573506295681
+trial_2	dicyclomine	269	KG00100399	pyaemia	0.03857693448662758
+trial_2	dicyclomine	102	KG00097916	anxieties	0.0381755605340004
+trial_2	dicyclomine	122	KG00099321	Hypersensitivity NOS	0.037507448345422745
+trial_2	dicyclomine	2	KG00100772	thrombocytopaenia	0.037487518042325974
+trial_2	dicyclomine	27	KG00099303	hyperkalaemia	0.03630063310265541
+trial_2	dicyclomine	38	KG00098066	Binocular vision disorders	0.03502753749489784
+trial_2	dicyclomine	18	KG00098307	Pain, Chest	0.034567177295684814
+trial_2	dicyclomine	179	KG00099342	hypocalcaemia	0.03372126817703247
+trial_2	dicyclomine	66	KG00098642	drowsiness	0.033355820924043655
+trial_2	dicyclomine	261	KG00101559	raised alkaline phosphatase	0.033295147120952606
+trial_2	dicyclomine	262	KG00101199	agitation	0.03244965150952339
+trial_2	dicyclomine	5	KG00099169	haematuria	0.03231377154588699
+trial_2	dicyclomine	242	KG00100855	tremors	0.03218160197138786
+trial_2	dicyclomine	164	KG00108827	ileus colon	0.032124463468790054
+trial_2	dicyclomine	276	KG00099127	Arrest, Cardiac	0.032005537301301956
+trial_2	dicyclomine	139	KG00098855	Sinusitis, Ethmoid	0.031689126044511795
+trial_2	dicyclomine	147	KG00098000	atelectases	0.031646642833948135
+trial_2	dicyclomine	130	KG00100683	Stomatitis NOS	0.030609559267759323
+trial_2	dicyclomine	31	KG00099872	Infarction, Myocardial	0.030171295627951622
+trial_2	dicyclomine	92	KG00100926	Infections, Upper Respiratory	0.029925482347607613
+trial_2	dicyclomine	15	KG00097882	Angina pectoris NOS	0.029620345681905746
+trial_2	dicyclomine	243	KG00100947	Micturition frequency increased	0.029485158622264862
+trial_2	dicyclomine	194	KG00110727	Neutrophil Count Decreased	0.029221223667263985
+trial_2	dicyclomine	361	KG00098004	Fibrillation, Atrial	0.029189005494117737
+trial_2	dicyclomine	286	KG00101110	Retention, Urinary	0.029077405110001564
+trial_2	dicyclomine	36	KG00106434	Vision, Blurring Of	0.028877519071102142
+trial_2	dicyclomine	466	KG00101205	fall	0.027174122631549835
+trial_2	dicyclomine	221	KG00101207	peripheral oedema	0.027156643569469452
+trial_2	dicyclomine	116	KG00098964	Pain in foot	0.027134714648127556
+trial_2	dicyclomine	35	KG00101507	hypomagnesaemia	0.027102934196591377
+trial_2	dicyclomine	75	KG00100195	Dolens, Phlegmasia Alba	0.027021396905183792
+trial_2	dicyclomine	249	KG00104430	hypoalbuminaemia	0.0260913223028183
+trial_2	dicyclomine	138	KG00098796	epidemic vomiting syndrome	0.025722196325659752
+trial_2	dicyclomine	356	KG00112623	Infectious Lung Disorders	0.025714393705129623
+trial_2	dicyclomine	144	KG00099610	Leukopenia NOS	0.025176266208291054
+trial_2	dicyclomine	234	KG00098669	dysgeusias	0.025165842846035957
+trial_2	dicyclomine	394	KG00100243	Pneumonia, Aspiration	0.024965956807136536
+trial_2	dicyclomine	253	KG00100232	Pleural effusion NOS (disorder)	0.024943744763731956
+trial_2	dicyclomine	121	KG00099190	haemorrhage	0.02484491653740406
+trial_2	dicyclomine	441	KG00098262	cellulitis nos	0.024830810725688934
+trial_2	dicyclomine	82	KG00097697	abdomen distended	0.024386141449213028
+trial_2	dicyclomine	33	KG00100094	Pancreatitis NOS	0.02392801083624363
+trial_2	dicyclomine	22	KG00098705	Edema (NOS)	0.02363003045320511
+trial_2	dicyclomine	191	KG00104055	Biliverdin increased	0.023599877953529358
+trial_2	dicyclomine	69	KG00100082	Palpitations NOS	0.023546382784843445
+trial_2	dicyclomine	1	KG00099959	Neutropenia NOS	0.02330661565065384
+trial_2	dicyclomine	118	KG00099011	Gastritis NOS	0.023184340447187424
+trial_2	dicyclomine	163	KG00104050	bowel obstructions small	0.023179875686764717
+trial_2	dicyclomine	11	KG00097993	Asthma NOS	0.023076308891177177
+trial_2	dicyclomine	25	KG00099134	congestive failures heart	0.023058060556650162
+trial_2	dicyclomine	204	KG00098849	Esophagitis, Peptic	0.022539183497428894
+trial_2	dicyclomine	199	KG00098371	Rhinitis (chronic) NOS	0.022449031472206116
+trial_2	dicyclomine	254	KG00100774	Thrombosis NOS	0.022310564294457436
+trial_2	dicyclomine	170	KG00108926	Neutropenia, Febrile	0.02214857190847397
+trial_2	dicyclomine	186	KG00101431	creatinine increased	0.02204936183989048
+trial_2	dicyclomine	211	KG00100341	Pruritus NOS	0.021866630762815475

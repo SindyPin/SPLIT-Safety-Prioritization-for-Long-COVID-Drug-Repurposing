@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.14066022634506226
+trial_1	placebo	46	KG00099121	Headache NOS	0.12103264778852463
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.11115089803934097
+trial_1	placebo	68	KG00099901	nauseas	0.1025703027844429
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10028164088726044
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09577804058790207
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09172534197568893
+trial_1	placebo	21	KG00098675	dyspnoea	0.09110420942306519
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08726506680250168
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07701516896486282
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07525315135717392
+trial_1	placebo	87	KG00098599	diarrhoea	0.07127375900745392
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06287211179733276
+trial_1	placebo	18	KG00098307	Pain, Chest	0.06014339253306389
+trial_1	placebo	20	KG00098540	dehydration	0.05957872420549393
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05782165378332138
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05600028485059738
+trial_1	placebo	114	KG00098933	fevers	0.053002648055553436
+trial_1	placebo	126	KG00100076	Pain NOS	0.05067642033100128
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.049792587757110596
+trial_1	placebo	85	KG00098474	coughs	0.04957622289657593
+trial_1	placebo	104	KG00097963	arthralgias	0.04516973719000816
+trial_1	placebo	5	KG00099169	haematuria	0.043809790164232254
+trial_1	placebo	116	KG00098964	Pain in foot	0.04368019476532936
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04352368414402008
+trial_1	placebo	72	KG00103771	myalgias	0.04109108820557594
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04105043038725853
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04099307581782341
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.040834154933691025
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.039842188358306885
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03923804685473442
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.038686998188495636
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.0385327972471714
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.037994567304849625
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03741808980703354
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.037178538739681244
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.036464594304561615
+trial_1	placebo	102	KG00097916	anxieties	0.036443307995796204
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03617898002266884
+trial_1	placebo	239	KG00100128	pareses	0.03535730019211769
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03461851924657822
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.034336406737565994
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03339418023824692
+trial_1	placebo	221	KG00101207	peripheral oedema	0.031870801001787186
+trial_1	placebo	82	KG00097697	abdomen distended	0.03151753172278404
+trial_1	placebo	29	KG00099354	hyponatraemia	0.03060728684067726
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03058563731610775
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.029704349115490913
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029297593981027603
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02923155203461647
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029227012768387794
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028973519802093506
+trial_1	placebo	66	KG00098642	drowsiness	0.02894737757742405
+trial_1	placebo	228	KG00114657	Weight below normal	0.02886269986629486
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02870257757604122
+trial_1	placebo	234	KG00098669	dysgeusias	0.028517501428723335
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02804015390574932
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02783004194498062
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.027749555185437202
+trial_1	placebo	466	KG00101205	fall	0.026959490031003952
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.026300029829144478
+trial_1	placebo	508	KG00108565	blood glucose increased	0.025721024721860886
+trial_1	placebo	186	KG00101431	creatinine increased	0.025664707645773888
+trial_1	placebo	454	KG00098286	Pain, Neck	0.025024332106113434
+trial_1	placebo	164	KG00108827	ileus colon	0.02472624182701111
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.024541156366467476
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.024408292025327682
+trial_1	placebo	147	KG00098000	atelectases	0.024172453209757805
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02382289431989193
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.023817284032702446
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.023808348923921585
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.0236887875944376
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.023200759664177895
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.022729570046067238
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02268746681511402
+trial_1	placebo	108	KG00098479	Cramp, Limb	0.022644761949777603
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02259371243417263
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.022324619814753532
+trial_1	placebo	456	KG00099420	Influenzae	0.02227778546512127
+trial_1	placebo	94	KG00103829	abdominal discomfort	0.022265037521719933
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02212410233914852
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.022050483152270317
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.021900542080402374
+trial_1	placebo	153	KG00099579	lethargy	0.02162163518369198
+trial_1	placebo	4	KG00098817	epistaxis	0.021498845890164375
+trial_1	placebo	269	KG00100399	pyaemia	0.02139926888048649
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02139298990368843
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.021286195144057274
+trial_1	placebo	197	KG00097873	Anesthesia Procedure	0.02087247371673584
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.020802775397896767
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.020488368347287178
+trial_1	placebo	262	KG00101199	agitation	0.020015442743897438
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.019792290404438972
+trial_1	placebo	382	KG00099200	haemorrhoids	0.019327716901898384
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.019228119403123856
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.0191628597676754
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.01914665661752224
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.018976354971528053
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018533362075686455
+trial_1	placebo	212	KG00100576	shivers	0.01852228119969368
+trial_2	dihydroergotamine	9	KG00098432	Confusion NOS	0.14066022634506226
+trial_2	dihydroergotamine	46	KG00099121	Headache NOS	0.12103264778852463
+trial_2	dihydroergotamine	17	KG00097991	Asthenia NOS	0.11115089803934097
+trial_2	dihydroergotamine	68	KG00099901	nauseas	0.1025703027844429
+trial_2	dihydroergotamine	49	KG00099902	nausea with vomiting	0.10028164088726044
+trial_2	dihydroergotamine	79	KG00100317	Insomnia, Primary	0.09577804058790207
+trial_2	dihydroergotamine	78	KG00099326	Hypertensive diseases	0.09172534197568893
+trial_2	dihydroergotamine	21	KG00098675	dyspnoea	0.09110420942306519
+trial_2	dihydroergotamine	123	KG00099351	hypokalaemia	0.08726506680250168
+trial_2	dihydroergotamine	173	KG00098172	Bronchopneumonia NOS	0.07701516896486282
+trial_2	dihydroergotamine	77	KG00098450	Constipation NOS	0.07525315135717392
+trial_2	dihydroergotamine	87	KG00098599	diarrhoea	0.07127375900745392
+trial_2	dihydroergotamine	177	KG00099299	hyperglycaemia	0.06287211179733276
+trial_2	dihydroergotamine	18	KG00098307	Pain, Chest	0.06014339253306389
+trial_2	dihydroergotamine	20	KG00098540	dehydration	0.05957872420549393
+trial_2	dihydroergotamine	67	KG00098673	Dyspepsia, NOS	0.05782165378332138
+trial_2	dihydroergotamine	14	KG00097852	Anemia NOS	0.05600028485059738
+trial_2	dihydroergotamine	114	KG00098933	fevers	0.053002648055553436
+trial_2	dihydroergotamine	126	KG00100076	Pain NOS	0.05067642033100128
+trial_2	dihydroergotamine	37	KG00097696	Cramps, Abdominal	0.049792587757110596
+trial_2	dihydroergotamine	85	KG00098474	coughs	0.04957622289657593
+trial_2	dihydroergotamine	104	KG00097963	arthralgias	0.04516973719000816
+trial_2	dihydroergotamine	5	KG00099169	haematuria	0.043809790164232254
+trial_2	dihydroergotamine	116	KG00098964	Pain in foot	0.04368019476532936
+trial_2	dihydroergotamine	188	KG00101579	Aspartate aminotransferase increase	0.04352368414402008
+trial_2	dihydroergotamine	72	KG00103771	myalgias	0.04109108820557594
+trial_2	dihydroergotamine	200	KG00098539	Disorders, Deglutition	0.04105043038725853
+trial_2	dihydroergotamine	350	KG00106765	decreased platelet count	0.04099307581782341
+trial_2	dihydroergotamine	189	KG00101580	Alanine aminotransferase increase	0.040834154933691025
+trial_2	dihydroergotamine	180	KG00099363	Hypotension NOS	0.039842188358306885
+trial_2	dihydroergotamine	151	KG00098274	Infarction, Cerebral	0.03923804685473442
+trial_2	dihydroergotamine	243	KG00100947	Micturition frequency increased	0.038686998188495636
+trial_2	dihydroergotamine	69	KG00100082	Palpitations NOS	0.0385327972471714
+trial_2	dihydroergotamine	166	KG00099773	menopausal syndrome	0.037994567304849625
+trial_2	dihydroergotamine	101	KG00097901	Anorexia NOS	0.03741808980703354
+trial_2	dihydroergotamine	139	KG00098855	Sinusitis, Ethmoid	0.037178538739681244
+trial_2	dihydroergotamine	2	KG00100772	thrombocytopaenia	0.036464594304561615
+trial_2	dihydroergotamine	102	KG00097916	anxieties	0.036443307995796204
+trial_2	dihydroergotamine	86	KG00098565	Depression, Mental	0.03617898002266884
+trial_2	dihydroergotamine	239	KG00100128	pareses	0.03535730019211769
+trial_2	dihydroergotamine	61	KG00099501	Chronic Kidney Failure	0.03461851924657822
+trial_2	dihydroergotamine	396	KG00100373	Embolism, Pulmonary	0.034336406737565994
+trial_2	dihydroergotamine	76	KG00100450	Respiratory insufficiency, NOS	0.03339418023824692
+trial_2	dihydroergotamine	221	KG00101207	peripheral oedema	0.031870801001787186
+trial_2	dihydroergotamine	82	KG00097697	abdomen distended	0.03151753172278404
+trial_2	dihydroergotamine	29	KG00099354	hyponatraemia	0.03060728684067726
+trial_2	dihydroergotamine	64	KG00097734	Acrodermatitis, NOS	0.03058563731610775
+trial_2	dihydroergotamine	38	KG00098066	Binocular vision disorders	0.029704349115490913
+trial_2	dihydroergotamine	131	KG00100948	Urinary tract infection (& [NOS])	0.029297593981027603
+trial_2	dihydroergotamine	211	KG00100341	Pruritus NOS	0.02923155203461647
+trial_2	dihydroergotamine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.029227012768387794
+trial_2	dihydroergotamine	286	KG00101110	Retention, Urinary	0.028973519802093506
+trial_2	dihydroergotamine	66	KG00098642	drowsiness	0.02894737757742405
+trial_2	dihydroergotamine	228	KG00114657	Weight below normal	0.02886269986629486
+trial_2	dihydroergotamine	30	KG00099500	Acute Kidney Failure	0.02870257757604122
+trial_2	dihydroergotamine	234	KG00098669	dysgeusias	0.028517501428723335
+trial_2	dihydroergotamine	204	KG00098849	Esophagitis, Peptic	0.02804015390574932
+trial_2	dihydroergotamine	441	KG00098262	cellulitis nos	0.02783004194498062
+trial_2	dihydroergotamine	36	KG00106434	Vision, Blurring Of	0.027749555185437202
+trial_2	dihydroergotamine	466	KG00101205	fall	0.026959490031003952
+trial_2	dihydroergotamine	75	KG00100195	Dolens, Phlegmasia Alba	0.026300029829144478
+trial_2	dihydroergotamine	508	KG00108565	blood glucose increased	0.025721024721860886
+trial_2	dihydroergotamine	186	KG00101431	creatinine increased	0.025664707645773888
+trial_2	dihydroergotamine	454	KG00098286	Pain, Neck	0.025024332106113434
+trial_2	dihydroergotamine	164	KG00108827	ileus colon	0.02472624182701111
+trial_2	dihydroergotamine	276	KG00099127	Arrest, Cardiac	0.024541156366467476
+trial_2	dihydroergotamine	422	KG00101429	Creatine phosphokinase increased	0.024408292025327682
+trial_2	dihydroergotamine	147	KG00098000	atelectases	0.024172453209757805
+trial_2	dihydroergotamine	199	KG00098371	Rhinitis (chronic) NOS	0.02382289431989193
+trial_2	dihydroergotamine	96	KG00101679	Unattended death NOS	0.023817284032702446
+trial_2	dihydroergotamine	271	KG00103813	reflex bradycardia	0.023808348923921585
+trial_2	dihydroergotamine	261	KG00101559	raised alkaline phosphatase	0.0236887875944376
+trial_2	dihydroergotamine	28	KG00099347	hypoglycaemia	0.023200759664177895
+trial_2	dihydroergotamine	361	KG00098004	Fibrillation, Atrial	0.022729570046067238
+trial_2	dihydroergotamine	15	KG00097882	Angina pectoris NOS	0.02268746681511402
+trial_2	dihydroergotamine	108	KG00098479	Cramp, Limb	0.022644761949777603
+trial_2	dihydroergotamine	130	KG00100683	Stomatitis NOS	0.02259371243417263
+trial_2	dihydroergotamine	22	KG00098705	Edema (NOS)	0.022324619814753532
+trial_2	dihydroergotamine	456	KG00099420	Influenzae	0.02227778546512127
+trial_2	dihydroergotamine	94	KG00103829	abdominal discomfort	0.022265037521719933
+trial_2	dihydroergotamine	11	KG00097993	Asthma NOS	0.02212410233914852
+trial_2	dihydroergotamine	35	KG00101507	hypomagnesaemia	0.022050483152270317
+trial_2	dihydroergotamine	179	KG00099342	hypocalcaemia	0.021900542080402374
+trial_2	dihydroergotamine	153	KG00099579	lethargy	0.02162163518369198
+trial_2	dihydroergotamine	4	KG00098817	epistaxis	0.021498845890164375
+trial_2	dihydroergotamine	269	KG00100399	pyaemia	0.02139926888048649
+trial_2	dihydroergotamine	191	KG00104055	Biliverdin increased	0.02139298990368843
+trial_2	dihydroergotamine	27	KG00099303	hyperkalaemia	0.021286195144057274
+trial_2	dihydroergotamine	197	KG00097873	Anesthesia Procedure	0.02087247371673584
+trial_2	dihydroergotamine	371	KG00098517	Cystitis (NOS)	0.020802775397896767
+trial_2	dihydroergotamine	253	KG00100232	Pleural effusion NOS (disorder)	0.020488368347287178
+trial_2	dihydroergotamine	262	KG00101199	agitation	0.020015442743897438
+trial_2	dihydroergotamine	202	KG00098630	Disturbance of Skin Sensation	0.019792290404438972
+trial_2	dihydroergotamine	382	KG00099200	haemorrhoids	0.019327716901898384
+trial_2	dihydroergotamine	218	KG00100801	Tinnitus NOS	0.019228119403123856
+trial_2	dihydroergotamine	92	KG00100926	Infections, Upper Respiratory	0.0191628597676754
+trial_2	dihydroergotamine	122	KG00099321	Hypersensitivity NOS	0.01914665661752224
+trial_2	dihydroergotamine	98	KG00097718	Incised wound, NOS	0.018976354971528053
+trial_2	dihydroergotamine	142	KG00100923	Unspecified infectious and parasitic diseases	0.018533362075686455
+trial_2	dihydroergotamine	212	KG00100576	shivers	0.01852228119969368

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.12104744464159012
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.11430609971284866
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08008864521980286
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07864145934581757
+trial_1	placebo	87	KG00098599	diarrhoea	0.07041575759649277
+trial_1	placebo	20	KG00098540	dehydration	0.06445824354887009
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06246604397892952
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0552222914993763
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.05127809941768646
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05112277343869209
+trial_1	placebo	14	KG00097852	Anemia NOS	0.049839749932289124
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04912533238530159
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.048338793218135834
+trial_1	placebo	21	KG00098675	dyspnoea	0.0482192188501358
+trial_1	placebo	9	KG00098432	Confusion NOS	0.04637214541435242
+trial_1	placebo	29	KG00099354	hyponatraemia	0.04631375893950462
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04528903588652611
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04517577588558197
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.045084692537784576
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04461166635155678
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04358544200658798
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04247971996665001
+trial_1	placebo	46	KG00099121	Headache NOS	0.042393606156110764
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.042205192148685455
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04199828952550888
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04157333821058273
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.041192080825567245
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04097243770956993
+trial_1	placebo	147	KG00098000	atelectases	0.04055022820830345
+trial_1	placebo	239	KG00100128	pareses	0.04053230211138725
+trial_1	placebo	126	KG00100076	Pain NOS	0.039853427559137344
+trial_1	placebo	86	KG00098565	Depression, Mental	0.039659954607486725
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.03912200406193733
+trial_1	placebo	114	KG00098933	fevers	0.03478445112705231
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.034736551344394684
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.034589264541864395
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.034351952373981476
+trial_1	placebo	104	KG00097963	arthralgias	0.033907271921634674
+trial_1	placebo	5	KG00099169	haematuria	0.0327601432800293
+trial_1	placebo	228	KG00114657	Weight below normal	0.03258055821061134
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03245483338832855
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.031874220818281174
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.031712789088487625
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03153176233172417
+trial_1	placebo	441	KG00098262	cellulitis nos	0.030101904645562172
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029688553884625435
+trial_1	placebo	85	KG00098474	coughs	0.029653823003172874
+trial_1	placebo	72	KG00103771	myalgias	0.029125167056918144
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.028972122818231583
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.028915902599692345
+trial_1	placebo	282	KG00099309	hypernatraemia	0.028760595247149467
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02864278480410576
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.02834620140492916
+trial_1	placebo	121	KG00099190	haemorrhage	0.028152653947472572
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02810579724609852
+trial_1	placebo	116	KG00098964	Pain in foot	0.027462508529424667
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.027285398915410042
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.027029264718294144
+trial_1	placebo	132	KG00101045	Gain, Weight	0.026983080431818962
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.025964731350541115
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.0246335007250309
+trial_1	placebo	269	KG00100399	pyaemia	0.02443169802427292
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02417057566344738
+trial_1	placebo	508	KG00108565	blood glucose increased	0.023939361795783043
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02392803318798542
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023820454254746437
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.02348652109503746
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02306447923183441
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023050343617796898
+trial_1	placebo	466	KG00101205	fall	0.02299070730805397
+trial_1	placebo	102	KG00097916	anxieties	0.02289772406220436
+trial_1	placebo	186	KG00101431	creatinine increased	0.022251814603805542
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022185811772942543
+trial_1	placebo	154	KG00099686	Lymphopenias	0.02209312468767166
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.021741675212979317
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02168215997517109
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021512471139431
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021208643913269043
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.02116405963897705
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.020888766273856163
+trial_1	placebo	456	KG00099420	Influenzae	0.02077021822333336
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.020596301183104515
+trial_1	placebo	164	KG00108827	ileus colon	0.020326655358076096
+trial_1	placebo	212	KG00100576	shivers	0.020262673497200012
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.020173100754618645
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.020150911062955856
+trial_1	placebo	68	KG00099901	nauseas	0.020094264298677444
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020071858540177345
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0200255885720253
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.01969299092888832
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.019666004925966263
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.01909189485013485
+trial_1	placebo	100	KG00097815	alopecias	0.018977459520101547
+trial_1	placebo	136	KG00101582	Dry;skin	0.018750211223959923
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.018682308495044708
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01855606585741043
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.018410464748740196
+trial_1	placebo	489	KG00099244	Herpes zoster disease	0.01838628388941288
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.018344080075621605
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.017908183857798576
+trial_2	desoximetasone	78	KG00099326	Hypertensive diseases	0.12104744464159012
+trial_2	desoximetasone	177	KG00099299	hyperglycaemia	0.11430609971284866
+trial_2	desoximetasone	173	KG00098172	Bronchopneumonia NOS	0.08008864521980286
+trial_2	desoximetasone	123	KG00099351	hypokalaemia	0.07864145934581757
+trial_2	desoximetasone	87	KG00098599	diarrhoea	0.07041575759649277
+trial_2	desoximetasone	20	KG00098540	dehydration	0.06445824354887009
+trial_2	desoximetasone	17	KG00097991	Asthenia NOS	0.06246604397892952
+trial_2	desoximetasone	200	KG00098539	Disorders, Deglutition	0.0552222914993763
+trial_2	desoximetasone	64	KG00097734	Acrodermatitis, NOS	0.05127809941768646
+trial_2	desoximetasone	179	KG00099342	hypocalcaemia	0.05112277343869209
+trial_2	desoximetasone	14	KG00097852	Anemia NOS	0.049839749932289124
+trial_2	desoximetasone	28	KG00099347	hypoglycaemia	0.04912533238530159
+trial_2	desoximetasone	189	KG00101580	Alanine aminotransferase increase	0.048338793218135834
+trial_2	desoximetasone	21	KG00098675	dyspnoea	0.0482192188501358
+trial_2	desoximetasone	9	KG00098432	Confusion NOS	0.04637214541435242
+trial_2	desoximetasone	29	KG00099354	hyponatraemia	0.04631375893950462
+trial_2	desoximetasone	77	KG00098450	Constipation NOS	0.04528903588652611
+trial_2	desoximetasone	27	KG00099303	hyperkalaemia	0.04517577588558197
+trial_2	desoximetasone	37	KG00097696	Cramps, Abdominal	0.045084692537784576
+trial_2	desoximetasone	188	KG00101579	Aspartate aminotransferase increase	0.04461166635155678
+trial_2	desoximetasone	61	KG00099501	Chronic Kidney Failure	0.04358544200658798
+trial_2	desoximetasone	76	KG00100450	Respiratory insufficiency, NOS	0.04247971996665001
+trial_2	desoximetasone	46	KG00099121	Headache NOS	0.042393606156110764
+trial_2	desoximetasone	2	KG00100772	thrombocytopaenia	0.042205192148685455
+trial_2	desoximetasone	151	KG00098274	Infarction, Cerebral	0.04199828952550888
+trial_2	desoximetasone	350	KG00106765	decreased platelet count	0.04157333821058273
+trial_2	desoximetasone	122	KG00099321	Hypersensitivity NOS	0.041192080825567245
+trial_2	desoximetasone	243	KG00100947	Micturition frequency increased	0.04097243770956993
+trial_2	desoximetasone	147	KG00098000	atelectases	0.04055022820830345
+trial_2	desoximetasone	239	KG00100128	pareses	0.04053230211138725
+trial_2	desoximetasone	126	KG00100076	Pain NOS	0.039853427559137344
+trial_2	desoximetasone	86	KG00098565	Depression, Mental	0.039659954607486725
+trial_2	desoximetasone	180	KG00099363	Hypotension NOS	0.03912200406193733
+trial_2	desoximetasone	114	KG00098933	fevers	0.03478445112705231
+trial_2	desoximetasone	67	KG00098673	Dyspepsia, NOS	0.034736551344394684
+trial_2	desoximetasone	79	KG00100317	Insomnia, Primary	0.034589264541864395
+trial_2	desoximetasone	139	KG00098855	Sinusitis, Ethmoid	0.034351952373981476
+trial_2	desoximetasone	104	KG00097963	arthralgias	0.033907271921634674
+trial_2	desoximetasone	5	KG00099169	haematuria	0.0327601432800293
+trial_2	desoximetasone	228	KG00114657	Weight below normal	0.03258055821061134
+trial_2	desoximetasone	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03245483338832855
+trial_2	desoximetasone	30	KG00099500	Acute Kidney Failure	0.031874220818281174
+trial_2	desoximetasone	38	KG00098066	Binocular vision disorders	0.031712789088487625
+trial_2	desoximetasone	96	KG00101679	Unattended death NOS	0.03153176233172417
+trial_2	desoximetasone	441	KG00098262	cellulitis nos	0.030101904645562172
+trial_2	desoximetasone	131	KG00100948	Urinary tract infection (& [NOS])	0.029688553884625435
+trial_2	desoximetasone	85	KG00098474	coughs	0.029653823003172874
+trial_2	desoximetasone	72	KG00103771	myalgias	0.029125167056918144
+trial_2	desoximetasone	249	KG00104430	hypoalbuminaemia	0.028972122818231583
+trial_2	desoximetasone	35	KG00101507	hypomagnesaemia	0.028915902599692345
+trial_2	desoximetasone	282	KG00099309	hypernatraemia	0.028760595247149467
+trial_2	desoximetasone	355	KG00110857	lymphocyte count decreased	0.02864278480410576
+trial_2	desoximetasone	276	KG00099127	Arrest, Cardiac	0.02834620140492916
+trial_2	desoximetasone	121	KG00099190	haemorrhage	0.028152653947472572
+trial_2	desoximetasone	396	KG00100373	Embolism, Pulmonary	0.02810579724609852
+trial_2	desoximetasone	116	KG00098964	Pain in foot	0.027462508529424667
+trial_2	desoximetasone	92	KG00100926	Infections, Upper Respiratory	0.027285398915410042
+trial_2	desoximetasone	36	KG00106434	Vision, Blurring Of	0.027029264718294144
+trial_2	desoximetasone	132	KG00101045	Gain, Weight	0.026983080431818962
+trial_2	desoximetasone	194	KG00110727	Neutrophil Count Decreased	0.025964731350541115
+trial_2	desoximetasone	253	KG00100232	Pleural effusion NOS (disorder)	0.0246335007250309
+trial_2	desoximetasone	269	KG00100399	pyaemia	0.02443169802427292
+trial_2	desoximetasone	288	KG00101223	hypophosphataemia	0.02417057566344738
+trial_2	desoximetasone	508	KG00108565	blood glucose increased	0.023939361795783043
+trial_2	desoximetasone	261	KG00101559	raised alkaline phosphatase	0.02392803318798542
+trial_2	desoximetasone	221	KG00101207	peripheral oedema	0.023820454254746437
+trial_2	desoximetasone	49	KG00099902	nausea with vomiting	0.02348652109503746
+trial_2	desoximetasone	195	KG00097814	Atopic Rhinitis	0.02306447923183441
+trial_2	desoximetasone	69	KG00100082	Palpitations NOS	0.023050343617796898
+trial_2	desoximetasone	466	KG00101205	fall	0.02299070730805397
+trial_2	desoximetasone	102	KG00097916	anxieties	0.02289772406220436
+trial_2	desoximetasone	186	KG00101431	creatinine increased	0.022251814603805542
+trial_2	desoximetasone	75	KG00100195	Dolens, Phlegmasia Alba	0.022185811772942543
+trial_2	desoximetasone	154	KG00099686	Lymphopenias	0.02209312468767166
+trial_2	desoximetasone	268	KG00099557	Heart Failure, Left-Sided	0.021741675212979317
+trial_2	desoximetasone	18	KG00098307	Pain, Chest	0.02168215997517109
+trial_2	desoximetasone	256	KG00100738	Tachycardia, Sinus	0.021512471139431
+trial_2	desoximetasone	371	KG00098517	Cystitis (NOS)	0.021208643913269043
+trial_2	desoximetasone	160	KG00099291	hypercalcaemia	0.02116405963897705
+trial_2	desoximetasone	144	KG00099610	Leukopenia NOS	0.020888766273856163
+trial_2	desoximetasone	456	KG00099420	Influenzae	0.02077021822333336
+trial_2	desoximetasone	163	KG00104050	bowel obstructions small	0.020596301183104515
+trial_2	desoximetasone	164	KG00108827	ileus colon	0.020326655358076096
+trial_2	desoximetasone	212	KG00100576	shivers	0.020262673497200012
+trial_2	desoximetasone	142	KG00100923	Unspecified infectious and parasitic diseases	0.020173100754618645
+trial_2	desoximetasone	130	KG00100683	Stomatitis NOS	0.020150911062955856
+trial_2	desoximetasone	68	KG00099901	nauseas	0.020094264298677444
+trial_2	desoximetasone	204	KG00098849	Esophagitis, Peptic	0.020071858540177345
+trial_2	desoximetasone	191	KG00104055	Biliverdin increased	0.0200255885720253
+trial_2	desoximetasone	97	KG00104198	LIVER ENZYME ELEVATED	0.01969299092888832
+trial_2	desoximetasone	297	KG00099294	hypercholesterolaemia	0.019666004925966263
+trial_2	desoximetasone	118	KG00099011	Gastritis NOS	0.01909189485013485
+trial_2	desoximetasone	100	KG00097815	alopecias	0.018977459520101547
+trial_2	desoximetasone	136	KG00101582	Dry;skin	0.018750211223959923
+trial_2	desoximetasone	1	KG00099959	Neutropenia NOS	0.018682308495044708
+trial_2	desoximetasone	454	KG00098286	Pain, Neck	0.01855606585741043
+trial_2	desoximetasone	105	KG00097964	Arthritis NOS	0.018410464748740196
+trial_2	desoximetasone	489	KG00099244	Herpes zoster disease	0.01838628388941288
+trial_2	desoximetasone	138	KG00098796	epidemic vomiting syndrome	0.018344080075621605
+trial_2	desoximetasone	286	KG00101110	Retention, Urinary	0.017908183857798576

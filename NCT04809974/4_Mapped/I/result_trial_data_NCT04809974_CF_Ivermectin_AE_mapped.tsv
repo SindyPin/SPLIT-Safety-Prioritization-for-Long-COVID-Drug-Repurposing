@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08532822132110596
+trial_1	placebo	87	KG00098599	diarrhoea	0.08422297984361649
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.0628570094704628
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.060558438301086426
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05940596014261246
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05803420767188072
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.051520220935344696
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.050859998911619186
+trial_1	placebo	21	KG00098675	dyspnoea	0.04962249472737312
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.04885763302445412
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04610087350010872
+trial_1	placebo	20	KG00098540	dehydration	0.045545995235443115
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0452030785381794
+trial_1	placebo	46	KG00099121	Headache NOS	0.041818663477897644
+trial_1	placebo	114	KG00098933	fevers	0.0414363257586956
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04023173078894615
+trial_1	placebo	68	KG00099901	nauseas	0.039716221392154694
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03944233059883118
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.03702227398753166
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03649750351905823
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.036195870488882065
+trial_1	placebo	228	KG00114657	Weight below normal	0.034268300980329514
+trial_1	placebo	147	KG00098000	atelectases	0.032962698489427567
+trial_1	placebo	269	KG00100399	pyaemia	0.03210582584142685
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03177463635802269
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.0311460979282856
+trial_1	placebo	85	KG00098474	coughs	0.031089404597878456
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03047426976263523
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.029555518180131912
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.029467815533280373
+trial_1	placebo	29	KG00099354	hyponatraemia	0.029106924310326576
+trial_1	placebo	126	KG00100076	Pain NOS	0.02880466915667057
+trial_1	placebo	77	KG00098450	Constipation NOS	0.027584949508309364
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.027506975457072258
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.027081964537501335
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027068397030234337
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02702515199780464
+trial_1	placebo	86	KG00098565	Depression, Mental	0.02681124024093151
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.026571793481707573
+trial_1	placebo	350	KG00106765	decreased platelet count	0.025373276323080063
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.024822911247611046
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.024320468306541443
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02247937209904194
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021961841732263565
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.021576296538114548
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021515052765607834
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021402578800916672
+trial_1	placebo	102	KG00097916	anxieties	0.020678089931607246
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.020614810287952423
+trial_1	placebo	72	KG00103771	myalgias	0.020488737151026726
+trial_1	placebo	104	KG00097963	arthralgias	0.020274728536605835
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01982583850622177
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.01976032182574272
+trial_1	placebo	5	KG00099169	haematuria	0.01969798468053341
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.01908579096198082
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.019020242616534233
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.018590087071061134
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.01826326549053192
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.018089191988110542
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01791437529027462
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.01787356473505497
+trial_1	placebo	136	KG00101582	Dry;skin	0.01760239340364933
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.017446644604206085
+trial_1	placebo	239	KG00100128	pareses	0.01743154600262642
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.017409075051546097
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.017261477187275887
+trial_1	placebo	18	KG00098307	Pain, Chest	0.017127031460404396
+trial_1	placebo	164	KG00108827	ileus colon	0.017101572826504707
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.017040709033608437
+trial_1	placebo	121	KG00099190	haemorrhage	0.01681319810450077
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01674175076186657
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01659965142607689
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01657044142484665
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.016561081632971764
+trial_1	placebo	116	KG00098964	Pain in foot	0.015858668833971024
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.015581139363348484
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.015507636591792107
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.015470226295292377
+trial_1	placebo	234	KG00098669	dysgeusias	0.015336605720221996
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015080842189490795
+trial_1	placebo	154	KG00099686	Lymphopenias	0.014860857278108597
+trial_1	placebo	100	KG00097815	alopecias	0.014672338031232357
+trial_1	placebo	4	KG00098817	epistaxis	0.01428152434527874
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.014209788292646408
+trial_1	placebo	11	KG00097993	Asthma NOS	0.014125966466963291
+trial_1	placebo	456	KG00099420	Influenzae	0.014094828628003597
+trial_1	placebo	466	KG00101205	fall	0.01403033547103405
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.01386354397982359
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.013780159875750542
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.013671326451003551
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.013027042150497437
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.012874378822743893
+trial_1	placebo	257	KG00100922	Erythema NOS	0.012439784593880177
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.01221020333468914
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.012182886712253094
+trial_1	placebo	212	KG00100576	shivers	0.012033569626510143
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.0119859017431736
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.011934174224734306
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011884106323122978
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.01175465527921915
+trial_2	ivermectin	173	KG00098172	Bronchopneumonia NOS	0.08532822132110596
+trial_2	ivermectin	87	KG00098599	diarrhoea	0.08422297984361649
+trial_2	ivermectin	64	KG00097734	Acrodermatitis, NOS	0.0628570094704628
+trial_2	ivermectin	78	KG00099326	Hypertensive diseases	0.060558438301086426
+trial_2	ivermectin	123	KG00099351	hypokalaemia	0.05940596014261246
+trial_2	ivermectin	9	KG00098432	Confusion NOS	0.05803420767188072
+trial_2	ivermectin	151	KG00098274	Infarction, Cerebral	0.051520220935344696
+trial_2	ivermectin	177	KG00099299	hyperglycaemia	0.050859998911619186
+trial_2	ivermectin	21	KG00098675	dyspnoea	0.04962249472737312
+trial_2	ivermectin	17	KG00097991	Asthenia NOS	0.04885763302445412
+trial_2	ivermectin	49	KG00099902	nausea with vomiting	0.04610087350010872
+trial_2	ivermectin	20	KG00098540	dehydration	0.045545995235443115
+trial_2	ivermectin	189	KG00101580	Alanine aminotransferase increase	0.0452030785381794
+trial_2	ivermectin	46	KG00099121	Headache NOS	0.041818663477897644
+trial_2	ivermectin	114	KG00098933	fevers	0.0414363257586956
+trial_2	ivermectin	14	KG00097852	Anemia NOS	0.04023173078894615
+trial_2	ivermectin	68	KG00099901	nauseas	0.039716221392154694
+trial_2	ivermectin	79	KG00100317	Insomnia, Primary	0.03944233059883118
+trial_2	ivermectin	37	KG00097696	Cramps, Abdominal	0.03702227398753166
+trial_2	ivermectin	188	KG00101579	Aspartate aminotransferase increase	0.03649750351905823
+trial_2	ivermectin	76	KG00100450	Respiratory insufficiency, NOS	0.036195870488882065
+trial_2	ivermectin	228	KG00114657	Weight below normal	0.034268300980329514
+trial_2	ivermectin	147	KG00098000	atelectases	0.032962698489427567
+trial_2	ivermectin	269	KG00100399	pyaemia	0.03210582584142685
+trial_2	ivermectin	61	KG00099501	Chronic Kidney Failure	0.03177463635802269
+trial_2	ivermectin	396	KG00100373	Embolism, Pulmonary	0.0311460979282856
+trial_2	ivermectin	85	KG00098474	coughs	0.031089404597878456
+trial_2	ivermectin	200	KG00098539	Disorders, Deglutition	0.03047426976263523
+trial_2	ivermectin	30	KG00099500	Acute Kidney Failure	0.029555518180131912
+trial_2	ivermectin	180	KG00099363	Hypotension NOS	0.029467815533280373
+trial_2	ivermectin	29	KG00099354	hyponatraemia	0.029106924310326576
+trial_2	ivermectin	126	KG00100076	Pain NOS	0.02880466915667057
+trial_2	ivermectin	77	KG00098450	Constipation NOS	0.027584949508309364
+trial_2	ivermectin	96	KG00101679	Unattended death NOS	0.027506975457072258
+trial_2	ivermectin	2	KG00100772	thrombocytopaenia	0.027081964537501335
+trial_2	ivermectin	441	KG00098262	cellulitis nos	0.027068397030234337
+trial_2	ivermectin	142	KG00100923	Unspecified infectious and parasitic diseases	0.02702515199780464
+trial_2	ivermectin	86	KG00098565	Depression, Mental	0.02681124024093151
+trial_2	ivermectin	67	KG00098673	Dyspepsia, NOS	0.026571793481707573
+trial_2	ivermectin	350	KG00106765	decreased platelet count	0.025373276323080063
+trial_2	ivermectin	276	KG00099127	Arrest, Cardiac	0.024822911247611046
+trial_2	ivermectin	211	KG00100341	Pruritus NOS	0.024320468306541443
+trial_2	ivermectin	131	KG00100948	Urinary tract infection (& [NOS])	0.02247937209904194
+trial_2	ivermectin	361	KG00098004	Fibrillation, Atrial	0.021961841732263565
+trial_2	ivermectin	31	KG00099872	Infarction, Myocardial	0.021576296538114548
+trial_2	ivermectin	122	KG00099321	Hypersensitivity NOS	0.021515052765607834
+trial_2	ivermectin	75	KG00100195	Dolens, Phlegmasia Alba	0.021402578800916672
+trial_2	ivermectin	102	KG00097916	anxieties	0.020678089931607246
+trial_2	ivermectin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.020614810287952423
+trial_2	ivermectin	72	KG00103771	myalgias	0.020488737151026726
+trial_2	ivermectin	104	KG00097963	arthralgias	0.020274728536605835
+trial_2	ivermectin	130	KG00100683	Stomatitis NOS	0.01982583850622177
+trial_2	ivermectin	139	KG00098855	Sinusitis, Ethmoid	0.01976032182574272
+trial_2	ivermectin	5	KG00099169	haematuria	0.01969798468053341
+trial_2	ivermectin	179	KG00099342	hypocalcaemia	0.01908579096198082
+trial_2	ivermectin	1	KG00099959	Neutropenia NOS	0.019020242616534233
+trial_2	ivermectin	101	KG00097901	Anorexia NOS	0.018590087071061134
+trial_2	ivermectin	27	KG00099303	hyperkalaemia	0.01826326549053192
+trial_2	ivermectin	38	KG00098066	Binocular vision disorders	0.018089191988110542
+trial_2	ivermectin	194	KG00110727	Neutrophil Count Decreased	0.01791437529027462
+trial_2	ivermectin	92	KG00100926	Infections, Upper Respiratory	0.01787356473505497
+trial_2	ivermectin	136	KG00101582	Dry;skin	0.01760239340364933
+trial_2	ivermectin	253	KG00100232	Pleural effusion NOS (disorder)	0.017446644604206085
+trial_2	ivermectin	239	KG00100128	pareses	0.01743154600262642
+trial_2	ivermectin	243	KG00100947	Micturition frequency increased	0.017409075051546097
+trial_2	ivermectin	40	KG00098092	Blepharoconjunctivitis NOS	0.017261477187275887
+trial_2	ivermectin	18	KG00098307	Pain, Chest	0.017127031460404396
+trial_2	ivermectin	164	KG00108827	ileus colon	0.017101572826504707
+trial_2	ivermectin	69	KG00100082	Palpitations NOS	0.017040709033608437
+trial_2	ivermectin	121	KG00099190	haemorrhage	0.01681319810450077
+trial_2	ivermectin	191	KG00104055	Biliverdin increased	0.01674175076186657
+trial_2	ivermectin	15	KG00097882	Angina pectoris NOS	0.01659965142607689
+trial_2	ivermectin	282	KG00099309	hypernatraemia	0.01657044142484665
+trial_2	ivermectin	249	KG00104430	hypoalbuminaemia	0.016561081632971764
+trial_2	ivermectin	116	KG00098964	Pain in foot	0.015858668833971024
+trial_2	ivermectin	261	KG00101559	raised alkaline phosphatase	0.015581139363348484
+trial_2	ivermectin	138	KG00098796	epidemic vomiting syndrome	0.015507636591792107
+trial_2	ivermectin	28	KG00099347	hypoglycaemia	0.015470226295292377
+trial_2	ivermectin	234	KG00098669	dysgeusias	0.015336605720221996
+trial_2	ivermectin	35	KG00101507	hypomagnesaemia	0.015080842189490795
+trial_2	ivermectin	154	KG00099686	Lymphopenias	0.014860857278108597
+trial_2	ivermectin	100	KG00097815	alopecias	0.014672338031232357
+trial_2	ivermectin	4	KG00098817	epistaxis	0.01428152434527874
+trial_2	ivermectin	341	KG00101472	Gamma-glutamyltransferase increased	0.014209788292646408
+trial_2	ivermectin	11	KG00097993	Asthma NOS	0.014125966466963291
+trial_2	ivermectin	456	KG00099420	Influenzae	0.014094828628003597
+trial_2	ivermectin	466	KG00101205	fall	0.01403033547103405
+trial_2	ivermectin	356	KG00112623	Infectious Lung Disorders	0.01386354397982359
+trial_2	ivermectin	355	KG00110857	lymphocyte count decreased	0.013780159875750542
+trial_2	ivermectin	199	KG00098371	Rhinitis (chronic) NOS	0.013671326451003551
+trial_2	ivermectin	170	KG00108926	Neutropenia, Febrile	0.013027042150497437
+trial_2	ivermectin	195	KG00097814	Atopic Rhinitis	0.012874378822743893
+trial_2	ivermectin	257	KG00100922	Erythema NOS	0.012439784593880177
+trial_2	ivermectin	144	KG00099610	Leukopenia NOS	0.01221020333468914
+trial_2	ivermectin	286	KG00101110	Retention, Urinary	0.012182886712253094
+trial_2	ivermectin	212	KG00100576	shivers	0.012033569626510143
+trial_2	ivermectin	394	KG00100243	Pneumonia, Aspiration	0.0119859017431736
+trial_2	ivermectin	33	KG00100094	Pancreatitis NOS	0.011934174224734306
+trial_2	ivermectin	118	KG00099011	Gastritis NOS	0.011884106323122978
+trial_2	ivermectin	268	KG00099557	Heart Failure, Left-Sided	0.01175465527921915

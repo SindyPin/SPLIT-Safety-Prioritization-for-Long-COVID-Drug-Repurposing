@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08722227066755295
+trial_1	placebo	87	KG00098599	diarrhoea	0.07099577784538269
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06215221434831619
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.059592992067337036
+trial_1	placebo	46	KG00099121	Headache NOS	0.05695226788520813
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05336439982056618
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.04896015301346779
+trial_1	placebo	14	KG00097852	Anemia NOS	0.047821879386901855
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04460551217198372
+trial_1	placebo	21	KG00098675	dyspnoea	0.04368095099925995
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.043652527034282684
+trial_1	placebo	20	KG00098540	dehydration	0.040370821952819824
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03922026976943016
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03653208166360855
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.035819053649902344
+trial_1	placebo	68	KG00099901	nauseas	0.035409580916166306
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03513956069946289
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.035134416073560715
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.035031795501708984
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03476870059967041
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03459503874182701
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03378862887620926
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.033779777586460114
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.03352287784218788
+trial_1	placebo	147	KG00098000	atelectases	0.03193112090229988
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.031766872853040695
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03159935399889946
+trial_1	placebo	29	KG00099354	hyponatraemia	0.030729273334145546
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.030509300529956818
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02945471927523613
+trial_1	placebo	114	KG00098933	fevers	0.028154293075203896
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.027124525979161263
+trial_1	placebo	350	KG00106765	decreased platelet count	0.026711011305451393
+trial_1	placebo	269	KG00100399	pyaemia	0.02654986083507538
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.026484770700335503
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02555319480597973
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02441924437880516
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.0238802433013916
+trial_1	placebo	5	KG00099169	haematuria	0.02357499673962593
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.022645357996225357
+trial_1	placebo	85	KG00098474	coughs	0.022239970043301582
+trial_1	placebo	164	KG00108827	ileus colon	0.022238632664084435
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02206147275865078
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021983498707413673
+trial_1	placebo	126	KG00100076	Pain NOS	0.02194870449602604
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.021938486024737358
+trial_1	placebo	104	KG00097963	arthralgias	0.02186604030430317
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021600261330604553
+trial_1	placebo	18	KG00098307	Pain, Chest	0.021412117406725883
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.021168136969208717
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.021013006567955017
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02069719508290291
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.020429762080311775
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02030804753303528
+trial_1	placebo	441	KG00098262	cellulitis nos	0.020301256328821182
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.018985681235790253
+trial_1	placebo	121	KG00099190	haemorrhage	0.018671948462724686
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01814119890332222
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018103942275047302
+trial_1	placebo	82	KG00097697	abdomen distended	0.018054818734526634
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.0180116705596447
+trial_1	placebo	72	KG00103771	myalgias	0.01796567067503929
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.017731456086039543
+trial_1	placebo	116	KG00098964	Pain in foot	0.016757668927311897
+trial_1	placebo	239	KG00100128	pareses	0.016657548025250435
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01639503426849842
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01630496419966221
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.016227729618549347
+trial_1	placebo	228	KG00114657	Weight below normal	0.0160731952637434
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.015559526160359383
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.015460023656487465
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.015379320830106735
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015149803832173347
+trial_1	placebo	86	KG00098565	Depression, Mental	0.01490386389195919
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.014805654063820839
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.014760908670723438
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.014590460807085037
+trial_1	placebo	419	KG00100282	Hemorrhage, Postoperative	0.014468819834291935
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.014263016171753407
+trial_1	placebo	234	KG00098669	dysgeusias	0.014247643761336803
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.014131837524473667
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.014046084135770798
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013900973834097385
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013776939362287521
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.013601974584162235
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.013290392234921455
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.013164420612156391
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013049439527094364
+trial_1	placebo	257	KG00100922	Erythema NOS	0.013040242716670036
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.013006159104406834
+trial_1	placebo	883	KG00107760	Neonatal cardiorespiratory arrest	0.012882676906883717
+trial_1	placebo	400	KG00100925	Upper gastrointestinal haemorrhage	0.01272756140679121
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.012668873183429241
+trial_1	placebo	11	KG00097993	Asthma NOS	0.012658773921430111
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.012540154159069061
+trial_1	placebo	102	KG00097916	anxieties	0.012419696897268295
+trial_1	placebo	503	KG00102612	low haemoglobin	0.012388340197503567
+trial_1	placebo	4	KG00098817	epistaxis	0.012345598079264164
+trial_1	placebo	561	KG00104180	Diarrhoea, Clostridium difficile	0.012252193875610828
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012219316326081753
+trial_2	ioxaglic acid	78	KG00099326	Hypertensive diseases	0.08722227066755295
+trial_2	ioxaglic acid	87	KG00098599	diarrhoea	0.07099577784538269
+trial_2	ioxaglic acid	123	KG00099351	hypokalaemia	0.06215221434831619
+trial_2	ioxaglic acid	177	KG00099299	hyperglycaemia	0.059592992067337036
+trial_2	ioxaglic acid	46	KG00099121	Headache NOS	0.05695226788520813
+trial_2	ioxaglic acid	9	KG00098432	Confusion NOS	0.05336439982056618
+trial_2	ioxaglic acid	173	KG00098172	Bronchopneumonia NOS	0.04896015301346779
+trial_2	ioxaglic acid	14	KG00097852	Anemia NOS	0.047821879386901855
+trial_2	ioxaglic acid	37	KG00097696	Cramps, Abdominal	0.04460551217198372
+trial_2	ioxaglic acid	21	KG00098675	dyspnoea	0.04368095099925995
+trial_2	ioxaglic acid	180	KG00099363	Hypotension NOS	0.043652527034282684
+trial_2	ioxaglic acid	20	KG00098540	dehydration	0.040370821952819824
+trial_2	ioxaglic acid	2	KG00100772	thrombocytopaenia	0.03922026976943016
+trial_2	ioxaglic acid	49	KG00099902	nausea with vomiting	0.03653208166360855
+trial_2	ioxaglic acid	61	KG00099501	Chronic Kidney Failure	0.035819053649902344
+trial_2	ioxaglic acid	68	KG00099901	nauseas	0.035409580916166306
+trial_2	ioxaglic acid	77	KG00098450	Constipation NOS	0.03513956069946289
+trial_2	ioxaglic acid	30	KG00099500	Acute Kidney Failure	0.035134416073560715
+trial_2	ioxaglic acid	188	KG00101579	Aspartate aminotransferase increase	0.035031795501708984
+trial_2	ioxaglic acid	67	KG00098673	Dyspepsia, NOS	0.03476870059967041
+trial_2	ioxaglic acid	189	KG00101580	Alanine aminotransferase increase	0.03459503874182701
+trial_2	ioxaglic acid	76	KG00100450	Respiratory insufficiency, NOS	0.03378862887620926
+trial_2	ioxaglic acid	276	KG00099127	Arrest, Cardiac	0.033779777586460114
+trial_2	ioxaglic acid	17	KG00097991	Asthenia NOS	0.03352287784218788
+trial_2	ioxaglic acid	147	KG00098000	atelectases	0.03193112090229988
+trial_2	ioxaglic acid	79	KG00100317	Insomnia, Primary	0.031766872853040695
+trial_2	ioxaglic acid	200	KG00098539	Disorders, Deglutition	0.03159935399889946
+trial_2	ioxaglic acid	29	KG00099354	hyponatraemia	0.030729273334145546
+trial_2	ioxaglic acid	151	KG00098274	Infarction, Cerebral	0.030509300529956818
+trial_2	ioxaglic acid	396	KG00100373	Embolism, Pulmonary	0.02945471927523613
+trial_2	ioxaglic acid	114	KG00098933	fevers	0.028154293075203896
+trial_2	ioxaglic acid	28	KG00099347	hypoglycaemia	0.027124525979161263
+trial_2	ioxaglic acid	350	KG00106765	decreased platelet count	0.026711011305451393
+trial_2	ioxaglic acid	269	KG00100399	pyaemia	0.02654986083507538
+trial_2	ioxaglic acid	64	KG00097734	Acrodermatitis, NOS	0.026484770700335503
+trial_2	ioxaglic acid	31	KG00099872	Infarction, Myocardial	0.02555319480597973
+trial_2	ioxaglic acid	27	KG00099303	hyperkalaemia	0.02441924437880516
+trial_2	ioxaglic acid	96	KG00101679	Unattended death NOS	0.0238802433013916
+trial_2	ioxaglic acid	5	KG00099169	haematuria	0.02357499673962593
+trial_2	ioxaglic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.022645357996225357
+trial_2	ioxaglic acid	85	KG00098474	coughs	0.022239970043301582
+trial_2	ioxaglic acid	164	KG00108827	ileus colon	0.022238632664084435
+trial_2	ioxaglic acid	179	KG00099342	hypocalcaemia	0.02206147275865078
+trial_2	ioxaglic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.021983498707413673
+trial_2	ioxaglic acid	126	KG00100076	Pain NOS	0.02194870449602604
+trial_2	ioxaglic acid	361	KG00098004	Fibrillation, Atrial	0.021938486024737358
+trial_2	ioxaglic acid	104	KG00097963	arthralgias	0.02186604030430317
+trial_2	ioxaglic acid	122	KG00099321	Hypersensitivity NOS	0.021600261330604553
+trial_2	ioxaglic acid	18	KG00098307	Pain, Chest	0.021412117406725883
+trial_2	ioxaglic acid	38	KG00098066	Binocular vision disorders	0.021168136969208717
+trial_2	ioxaglic acid	268	KG00099557	Heart Failure, Left-Sided	0.021013006567955017
+trial_2	ioxaglic acid	69	KG00100082	Palpitations NOS	0.02069719508290291
+trial_2	ioxaglic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.020429762080311775
+trial_2	ioxaglic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.02030804753303528
+trial_2	ioxaglic acid	441	KG00098262	cellulitis nos	0.020301256328821182
+trial_2	ioxaglic acid	243	KG00100947	Micturition frequency increased	0.018985681235790253
+trial_2	ioxaglic acid	121	KG00099190	haemorrhage	0.018671948462724686
+trial_2	ioxaglic acid	282	KG00099309	hypernatraemia	0.01814119890332222
+trial_2	ioxaglic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.018103942275047302
+trial_2	ioxaglic acid	82	KG00097697	abdomen distended	0.018054818734526634
+trial_2	ioxaglic acid	15	KG00097882	Angina pectoris NOS	0.0180116705596447
+trial_2	ioxaglic acid	72	KG00103771	myalgias	0.01796567067503929
+trial_2	ioxaglic acid	144	KG00099610	Leukopenia NOS	0.017731456086039543
+trial_2	ioxaglic acid	116	KG00098964	Pain in foot	0.016757668927311897
+trial_2	ioxaglic acid	239	KG00100128	pareses	0.016657548025250435
+trial_2	ioxaglic acid	163	KG00104050	bowel obstructions small	0.01639503426849842
+trial_2	ioxaglic acid	249	KG00104430	hypoalbuminaemia	0.01630496419966221
+trial_2	ioxaglic acid	494	KG00099838	Organ Failure, Multiple	0.016227729618549347
+trial_2	ioxaglic acid	228	KG00114657	Weight below normal	0.0160731952637434
+trial_2	ioxaglic acid	1	KG00099959	Neutropenia NOS	0.015559526160359383
+trial_2	ioxaglic acid	139	KG00098855	Sinusitis, Ethmoid	0.015460023656487465
+trial_2	ioxaglic acid	286	KG00101110	Retention, Urinary	0.015379320830106735
+trial_2	ioxaglic acid	35	KG00101507	hypomagnesaemia	0.015149803832173347
+trial_2	ioxaglic acid	86	KG00098565	Depression, Mental	0.01490386389195919
+trial_2	ioxaglic acid	271	KG00103813	reflex bradycardia	0.014805654063820839
+trial_2	ioxaglic acid	36	KG00106434	Vision, Blurring Of	0.014760908670723438
+trial_2	ioxaglic acid	92	KG00100926	Infections, Upper Respiratory	0.014590460807085037
+trial_2	ioxaglic acid	419	KG00100282	Hemorrhage, Postoperative	0.014468819834291935
+trial_2	ioxaglic acid	261	KG00101559	raised alkaline phosphatase	0.014263016171753407
+trial_2	ioxaglic acid	234	KG00098669	dysgeusias	0.014247643761336803
+trial_2	ioxaglic acid	138	KG00098796	epidemic vomiting syndrome	0.014131837524473667
+trial_2	ioxaglic acid	33	KG00100094	Pancreatitis NOS	0.014046084135770798
+trial_2	ioxaglic acid	25	KG00099134	congestive failures heart	0.013900973834097385
+trial_2	ioxaglic acid	194	KG00110727	Neutrophil Count Decreased	0.013776939362287521
+trial_2	ioxaglic acid	204	KG00098849	Esophagitis, Peptic	0.013601974584162235
+trial_2	ioxaglic acid	394	KG00100243	Pneumonia, Aspiration	0.013290392234921455
+trial_2	ioxaglic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.013164420612156391
+trial_2	ioxaglic acid	98	KG00097718	Incised wound, NOS	0.013049439527094364
+trial_2	ioxaglic acid	257	KG00100922	Erythema NOS	0.013040242716670036
+trial_2	ioxaglic acid	183	KG00100449	Adult Respiratory Distress Syndrome	0.013006159104406834
+trial_2	ioxaglic acid	883	KG00107760	Neonatal cardiorespiratory arrest	0.012882676906883717
+trial_2	ioxaglic acid	400	KG00100925	Upper gastrointestinal haemorrhage	0.01272756140679121
+trial_2	ioxaglic acid	101	KG00097901	Anorexia NOS	0.012668873183429241
+trial_2	ioxaglic acid	11	KG00097993	Asthma NOS	0.012658773921430111
+trial_2	ioxaglic acid	202	KG00098630	Disturbance of Skin Sensation	0.012540154159069061
+trial_2	ioxaglic acid	102	KG00097916	anxieties	0.012419696897268295
+trial_2	ioxaglic acid	503	KG00102612	low haemoglobin	0.012388340197503567
+trial_2	ioxaglic acid	4	KG00098817	epistaxis	0.012345598079264164
+trial_2	ioxaglic acid	561	KG00104180	Diarrhoea, Clostridium difficile	0.012252193875610828
+trial_2	ioxaglic acid	130	KG00100683	Stomatitis NOS	0.012219316326081753

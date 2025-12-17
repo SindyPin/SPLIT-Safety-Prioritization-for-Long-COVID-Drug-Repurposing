@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.1916438341140747
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1021786630153656
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.10014413297176361
+trial_1	placebo	20	KG00098540	dehydration	0.07860127836465836
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07287668436765671
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07245118916034698
+trial_1	placebo	87	KG00098599	diarrhoea	0.06478837132453918
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06059303134679794
+trial_1	placebo	9	KG00098432	Confusion NOS	0.060079071670770645
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05829192325472832
+trial_1	placebo	21	KG00098675	dyspnoea	0.053614143282175064
+trial_1	placebo	46	KG00099121	Headache NOS	0.05226162075996399
+trial_1	placebo	29	KG00099354	hyponatraemia	0.050258394330739975
+trial_1	placebo	132	KG00101045	Gain, Weight	0.04686625301837921
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.046177104115486145
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04440642520785332
+trial_1	placebo	147	KG00098000	atelectases	0.043405499309301376
+trial_1	placebo	126	KG00100076	Pain NOS	0.0422830656170845
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.042231518775224686
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.042179420590400696
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04215778037905693
+trial_1	placebo	441	KG00098262	cellulitis nos	0.04083384573459625
+trial_1	placebo	466	KG00101205	fall	0.040801819413900375
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04039338603615761
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04032707214355469
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03953162580728531
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.03935924172401428
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03844240680336952
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03746573626995087
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.037257954478263855
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03721281886100769
+trial_1	placebo	14	KG00097852	Anemia NOS	0.03706294298171997
+trial_1	placebo	121	KG00099190	haemorrhage	0.036856506019830704
+trial_1	placebo	104	KG00097963	arthralgias	0.03633454814553261
+trial_1	placebo	228	KG00114657	Weight below normal	0.035898417234420776
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.034907061606645584
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03422108665108681
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.034065451472997665
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03369498252868652
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03368658572435379
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03287547454237938
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03273681551218033
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.03191819414496422
+trial_1	placebo	239	KG00100128	pareses	0.03129575774073601
+trial_1	placebo	116	KG00098964	Pain in foot	0.03029833734035492
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030232569202780724
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.029799848794937134
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.029193827882409096
+trial_1	placebo	68	KG00099901	nauseas	0.028967810794711113
+trial_1	placebo	5	KG00099169	haematuria	0.028834089636802673
+trial_1	placebo	350	KG00106765	decreased platelet count	0.028273310512304306
+trial_1	placebo	242	KG00100855	tremors	0.02824314683675766
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.027616381645202637
+trial_1	placebo	269	KG00100399	pyaemia	0.0271924901753664
+trial_1	placebo	114	KG00098933	fevers	0.027126669883728027
+trial_1	placebo	102	KG00097916	anxieties	0.027125608175992966
+trial_1	placebo	4	KG00098817	epistaxis	0.027059031650424004
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02699114941060543
+trial_1	placebo	85	KG00098474	coughs	0.02696692757308483
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026221370324492455
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.025586294010281563
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02470657043159008
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.024472571909427643
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.024181902408599854
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023864980787038803
+trial_1	placebo	282	KG00099309	hypernatraemia	0.023512102663517
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.022411024197936058
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.02226440981030464
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.022044705227017403
+trial_1	placebo	160	KG00099291	hypercalcaemia	0.021587694063782692
+trial_1	placebo	157	KG00098149	Metabolic Brain Diseases	0.021088281646370888
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020972713828086853
+trial_1	placebo	454	KG00098286	Pain, Neck	0.020704323425889015
+trial_1	placebo	456	KG00099420	Influenzae	0.02068457566201687
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.020646702498197556
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020555749535560608
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.020553119480609894
+trial_1	placebo	397	KG00100456	Infections, Respiratory Tract	0.020335165783762932
+trial_1	placebo	105	KG00097964	Arthritis NOS	0.020081235095858574
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02004793845117092
+trial_1	placebo	212	KG00100576	shivers	0.0200191717594862
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01968458853662014
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.019430233165621758
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.019394144415855408
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019335178658366203
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.019068364053964615
+trial_1	placebo	11	KG00097993	Asthma NOS	0.019028211012482643
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.019006017595529556
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.018943006172776222
+trial_1	placebo	197	KG00097873	Anesthesia Procedure	0.018941782414913177
+trial_1	placebo	339	KG00100334	proteinurias	0.01891055516898632
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.01883614808320999
+trial_1	placebo	72	KG00103771	myalgias	0.01879948377609253
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.018751395866274834
+trial_1	placebo	136	KG00101582	Dry;skin	0.018688717857003212
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01856326311826706
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.018358249217271805
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01815185323357582
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018146423622965813
+trial_1	placebo	53	KG00101550	Pain in eyes	0.01809101551771164
+trial_2	insulin human	28	KG00099347	hypoglycaemia	0.1916438341140747
+trial_2	insulin human	177	KG00099299	hyperglycaemia	0.1021786630153656
+trial_2	insulin human	78	KG00099326	Hypertensive diseases	0.10014413297176361
+trial_2	insulin human	20	KG00098540	dehydration	0.07860127836465836
+trial_2	insulin human	123	KG00099351	hypokalaemia	0.07287668436765671
+trial_2	insulin human	173	KG00098172	Bronchopneumonia NOS	0.07245118916034698
+trial_2	insulin human	87	KG00098599	diarrhoea	0.06478837132453918
+trial_2	insulin human	64	KG00097734	Acrodermatitis, NOS	0.06059303134679794
+trial_2	insulin human	9	KG00098432	Confusion NOS	0.060079071670770645
+trial_2	insulin human	17	KG00097991	Asthenia NOS	0.05829192325472832
+trial_2	insulin human	21	KG00098675	dyspnoea	0.053614143282175064
+trial_2	insulin human	46	KG00099121	Headache NOS	0.05226162075996399
+trial_2	insulin human	29	KG00099354	hyponatraemia	0.050258394330739975
+trial_2	insulin human	132	KG00101045	Gain, Weight	0.04686625301837921
+trial_2	insulin human	37	KG00097696	Cramps, Abdominal	0.046177104115486145
+trial_2	insulin human	179	KG00099342	hypocalcaemia	0.04440642520785332
+trial_2	insulin human	147	KG00098000	atelectases	0.043405499309301376
+trial_2	insulin human	126	KG00100076	Pain NOS	0.0422830656170845
+trial_2	insulin human	76	KG00100450	Respiratory insufficiency, NOS	0.042231518775224686
+trial_2	insulin human	151	KG00098274	Infarction, Cerebral	0.042179420590400696
+trial_2	insulin human	86	KG00098565	Depression, Mental	0.04215778037905693
+trial_2	insulin human	441	KG00098262	cellulitis nos	0.04083384573459625
+trial_2	insulin human	466	KG00101205	fall	0.040801819413900375
+trial_2	insulin human	36	KG00106434	Vision, Blurring Of	0.04039338603615761
+trial_2	insulin human	77	KG00098450	Constipation NOS	0.04032707214355469
+trial_2	insulin human	122	KG00099321	Hypersensitivity NOS	0.03953162580728531
+trial_2	insulin human	200	KG00098539	Disorders, Deglutition	0.03935924172401428
+trial_2	insulin human	67	KG00098673	Dyspepsia, NOS	0.03844240680336952
+trial_2	insulin human	243	KG00100947	Micturition frequency increased	0.03746573626995087
+trial_2	insulin human	49	KG00099902	nausea with vomiting	0.037257954478263855
+trial_2	insulin human	38	KG00098066	Binocular vision disorders	0.03721281886100769
+trial_2	insulin human	14	KG00097852	Anemia NOS	0.03706294298171997
+trial_2	insulin human	121	KG00099190	haemorrhage	0.036856506019830704
+trial_2	insulin human	104	KG00097963	arthralgias	0.03633454814553261
+trial_2	insulin human	228	KG00114657	Weight below normal	0.035898417234420776
+trial_2	insulin human	180	KG00099363	Hypotension NOS	0.034907061606645584
+trial_2	insulin human	92	KG00100926	Infections, Upper Respiratory	0.03422108665108681
+trial_2	insulin human	139	KG00098855	Sinusitis, Ethmoid	0.034065451472997665
+trial_2	insulin human	79	KG00100317	Insomnia, Primary	0.03369498252868652
+trial_2	insulin human	69	KG00100082	Palpitations NOS	0.03368658572435379
+trial_2	insulin human	61	KG00099501	Chronic Kidney Failure	0.03287547454237938
+trial_2	insulin human	27	KG00099303	hyperkalaemia	0.03273681551218033
+trial_2	insulin human	189	KG00101580	Alanine aminotransferase increase	0.03191819414496422
+trial_2	insulin human	239	KG00100128	pareses	0.03129575774073601
+trial_2	insulin human	116	KG00098964	Pain in foot	0.03029833734035492
+trial_2	insulin human	30	KG00099500	Acute Kidney Failure	0.030232569202780724
+trial_2	insulin human	131	KG00100948	Urinary tract infection (& [NOS])	0.029799848794937134
+trial_2	insulin human	96	KG00101679	Unattended death NOS	0.029193827882409096
+trial_2	insulin human	68	KG00099901	nauseas	0.028967810794711113
+trial_2	insulin human	5	KG00099169	haematuria	0.028834089636802673
+trial_2	insulin human	350	KG00106765	decreased platelet count	0.028273310512304306
+trial_2	insulin human	242	KG00100855	tremors	0.02824314683675766
+trial_2	insulin human	268	KG00099557	Heart Failure, Left-Sided	0.027616381645202637
+trial_2	insulin human	269	KG00100399	pyaemia	0.0271924901753664
+trial_2	insulin human	114	KG00098933	fevers	0.027126669883728027
+trial_2	insulin human	102	KG00097916	anxieties	0.027125608175992966
+trial_2	insulin human	4	KG00098817	epistaxis	0.027059031650424004
+trial_2	insulin human	138	KG00098796	epidemic vomiting syndrome	0.02699114941060543
+trial_2	insulin human	85	KG00098474	coughs	0.02696692757308483
+trial_2	insulin human	221	KG00101207	peripheral oedema	0.026221370324492455
+trial_2	insulin human	101	KG00097901	Anorexia NOS	0.025586294010281563
+trial_2	insulin human	188	KG00101579	Aspartate aminotransferase increase	0.02470657043159008
+trial_2	insulin human	98	KG00097718	Incised wound, NOS	0.024472571909427643
+trial_2	insulin human	2	KG00100772	thrombocytopaenia	0.024181902408599854
+trial_2	insulin human	18	KG00098307	Pain, Chest	0.023864980787038803
+trial_2	insulin human	282	KG00099309	hypernatraemia	0.023512102663517
+trial_2	insulin human	35	KG00101507	hypomagnesaemia	0.022411024197936058
+trial_2	insulin human	118	KG00099011	Gastritis NOS	0.02226440981030464
+trial_2	insulin human	371	KG00098517	Cystitis (NOS)	0.022044705227017403
+trial_2	insulin human	160	KG00099291	hypercalcaemia	0.021587694063782692
+trial_2	insulin human	157	KG00098149	Metabolic Brain Diseases	0.021088281646370888
+trial_2	insulin human	204	KG00098849	Esophagitis, Peptic	0.020972713828086853
+trial_2	insulin human	454	KG00098286	Pain, Neck	0.020704323425889015
+trial_2	insulin human	456	KG00099420	Influenzae	0.02068457566201687
+trial_2	insulin human	31	KG00099872	Infarction, Myocardial	0.020646702498197556
+trial_2	insulin human	276	KG00099127	Arrest, Cardiac	0.020555749535560608
+trial_2	insulin human	195	KG00097814	Atopic Rhinitis	0.020553119480609894
+trial_2	insulin human	397	KG00100456	Infections, Respiratory Tract	0.020335165783762932
+trial_2	insulin human	105	KG00097964	Arthritis NOS	0.020081235095858574
+trial_2	insulin human	508	KG00108565	blood glucose increased	0.02004793845117092
+trial_2	insulin human	212	KG00100576	shivers	0.0200191717594862
+trial_2	insulin human	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.01968458853662014
+trial_2	insulin human	163	KG00104050	bowel obstructions small	0.019430233165621758
+trial_2	insulin human	33	KG00100094	Pancreatitis NOS	0.019394144415855408
+trial_2	insulin human	142	KG00100923	Unspecified infectious and parasitic diseases	0.019335178658366203
+trial_2	insulin human	356	KG00112623	Infectious Lung Disorders	0.019068364053964615
+trial_2	insulin human	11	KG00097993	Asthma NOS	0.019028211012482643
+trial_2	insulin human	22	KG00098705	Edema (NOS)	0.019006017595529556
+trial_2	insulin human	396	KG00100373	Embolism, Pulmonary	0.018943006172776222
+trial_2	insulin human	197	KG00097873	Anesthesia Procedure	0.018941782414913177
+trial_2	insulin human	339	KG00100334	proteinurias	0.01891055516898632
+trial_2	insulin human	254	KG00100774	Thrombosis NOS	0.01883614808320999
+trial_2	insulin human	72	KG00103771	myalgias	0.01879948377609253
+trial_2	insulin human	249	KG00104430	hypoalbuminaemia	0.018751395866274834
+trial_2	insulin human	136	KG00101582	Dry;skin	0.018688717857003212
+trial_2	insulin human	130	KG00100683	Stomatitis NOS	0.01856326311826706
+trial_2	insulin human	152	KG00099402	INCONTINENCE NOS	0.018358249217271805
+trial_2	insulin human	288	KG00101223	hypophosphataemia	0.01815185323357582
+trial_2	insulin human	253	KG00100232	Pleural effusion NOS (disorder)	0.018146423622965813
+trial_2	insulin human	53	KG00101550	Pain in eyes	0.01809101551771164

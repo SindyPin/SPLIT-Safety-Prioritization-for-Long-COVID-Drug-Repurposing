@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.14707157015800476
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1093452125787735
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10051977634429932
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10032849758863449
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09427285194396973
+trial_1	placebo	46	KG00099121	Headache NOS	0.09335985779762268
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08170086145401001
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07615184783935547
+trial_1	placebo	21	KG00098675	dyspnoea	0.07534817606210709
+trial_1	placebo	20	KG00098540	dehydration	0.07208612561225891
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07076137512922287
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0700344368815422
+trial_1	placebo	68	KG00099901	nauseas	0.06731298565864563
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06585926562547684
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.06585197150707245
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06367084383964539
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06201661750674248
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06095501780509949
+trial_1	placebo	14	KG00097852	Anemia NOS	0.05621250718832016
+trial_1	placebo	350	KG00106765	decreased platelet count	0.05410430580377579
+trial_1	placebo	228	KG00114657	Weight below normal	0.05336671322584152
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05280005931854248
+trial_1	placebo	126	KG00100076	Pain NOS	0.05179055035114288
+trial_1	placebo	85	KG00098474	coughs	0.0513666495680809
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04775533825159073
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.047021251171827316
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.046480026096105576
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04573771357536316
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0451824776828289
+trial_1	placebo	72	KG00103771	myalgias	0.04391906037926674
+trial_1	placebo	114	KG00098933	fevers	0.04308263212442398
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04110386222600937
+trial_1	placebo	29	KG00099354	hyponatraemia	0.040497519075870514
+trial_1	placebo	104	KG00097963	arthralgias	0.038219794631004333
+trial_1	placebo	5	KG00099169	haematuria	0.03660076856613159
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03607496991753578
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.035729821771383286
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03567657247185707
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03566497564315796
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03499086573719978
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.034258030354976654
+trial_1	placebo	239	KG00100128	pareses	0.03411959111690521
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03384142369031906
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03366026282310486
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03358489274978638
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03237609937787056
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03233709558844566
+trial_1	placebo	82	KG00097697	abdomen distended	0.031662940979003906
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03162269666790962
+trial_1	placebo	102	KG00097916	anxieties	0.031604573130607605
+trial_1	placebo	86	KG00098565	Depression, Mental	0.030042920261621475
+trial_1	placebo	121	KG00099190	haemorrhage	0.02972760610282421
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02961243875324726
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.029250623658299446
+trial_1	placebo	164	KG00108827	ileus colon	0.028880007565021515
+trial_1	placebo	186	KG00101431	creatinine increased	0.02853884920477867
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.027773113921284676
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.027408383786678314
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.027115322649478912
+trial_1	placebo	116	KG00098964	Pain in foot	0.027050791308283806
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02674364112317562
+trial_1	placebo	221	KG00101207	peripheral oedema	0.026314564049243927
+trial_1	placebo	234	KG00098669	dysgeusias	0.026243874803185463
+trial_1	placebo	300	KG00101064	xerostomia	0.026241034269332886
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.02582979016005993
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02555476315319538
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02477092668414116
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.024762529879808426
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.024678843095898628
+trial_1	placebo	147	KG00098000	atelectases	0.024531928822398186
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.0243802759796381
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.024370960891246796
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02387913502752781
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023830052465200424
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02377222664654255
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.023685704916715622
+trial_1	placebo	4	KG00098817	epistaxis	0.023477919399738312
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02288001962006092
+trial_1	placebo	269	KG00100399	pyaemia	0.02286725863814354
+trial_1	placebo	466	KG00101205	fall	0.022785095497965813
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.022744223475456238
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.022282004356384277
+trial_1	placebo	382	KG00099200	haemorrhoids	0.021910587325692177
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.021895363926887512
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.021837621927261353
+trial_1	placebo	132	KG00101045	Gain, Weight	0.021809376776218414
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.021792041137814522
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021514257416129112
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.021352618932724
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02133701555430889
+trial_1	placebo	262	KG00101199	agitation	0.02062784694135189
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02050611563026905
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.020475348457694054
+trial_1	placebo	508	KG00108565	blood glucose increased	0.020308565348386765
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.02026154287159443
+trial_1	placebo	154	KG00099686	Lymphopenias	0.01996932365000248
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.019900035113096237
+trial_1	placebo	257	KG00100922	Erythema NOS	0.019487930461764336
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.019186632707715034
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.019041143357753754
+trial_2	ivabradine	87	KG00098599	diarrhoea	0.14707157015800476
+trial_2	ivabradine	78	KG00099326	Hypertensive diseases	0.1093452125787735
+trial_2	ivabradine	123	KG00099351	hypokalaemia	0.10051977634429932
+trial_2	ivabradine	9	KG00098432	Confusion NOS	0.10032849758863449
+trial_2	ivabradine	17	KG00097991	Asthenia NOS	0.09427285194396973
+trial_2	ivabradine	46	KG00099121	Headache NOS	0.09335985779762268
+trial_2	ivabradine	173	KG00098172	Bronchopneumonia NOS	0.08170086145401001
+trial_2	ivabradine	77	KG00098450	Constipation NOS	0.07615184783935547
+trial_2	ivabradine	21	KG00098675	dyspnoea	0.07534817606210709
+trial_2	ivabradine	20	KG00098540	dehydration	0.07208612561225891
+trial_2	ivabradine	177	KG00099299	hyperglycaemia	0.07076137512922287
+trial_2	ivabradine	67	KG00098673	Dyspepsia, NOS	0.0700344368815422
+trial_2	ivabradine	68	KG00099901	nauseas	0.06731298565864563
+trial_2	ivabradine	49	KG00099902	nausea with vomiting	0.06585926562547684
+trial_2	ivabradine	189	KG00101580	Alanine aminotransferase increase	0.06585197150707245
+trial_2	ivabradine	37	KG00097696	Cramps, Abdominal	0.06367084383964539
+trial_2	ivabradine	188	KG00101579	Aspartate aminotransferase increase	0.06201661750674248
+trial_2	ivabradine	79	KG00100317	Insomnia, Primary	0.06095501780509949
+trial_2	ivabradine	14	KG00097852	Anemia NOS	0.05621250718832016
+trial_2	ivabradine	350	KG00106765	decreased platelet count	0.05410430580377579
+trial_2	ivabradine	228	KG00114657	Weight below normal	0.05336671322584152
+trial_2	ivabradine	243	KG00100947	Micturition frequency increased	0.05280005931854248
+trial_2	ivabradine	126	KG00100076	Pain NOS	0.05179055035114288
+trial_2	ivabradine	85	KG00098474	coughs	0.0513666495680809
+trial_2	ivabradine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04775533825159073
+trial_2	ivabradine	2	KG00100772	thrombocytopaenia	0.047021251171827316
+trial_2	ivabradine	101	KG00097901	Anorexia NOS	0.046480026096105576
+trial_2	ivabradine	180	KG00099363	Hypotension NOS	0.04573771357536316
+trial_2	ivabradine	200	KG00098539	Disorders, Deglutition	0.0451824776828289
+trial_2	ivabradine	72	KG00103771	myalgias	0.04391906037926674
+trial_2	ivabradine	114	KG00098933	fevers	0.04308263212442398
+trial_2	ivabradine	64	KG00097734	Acrodermatitis, NOS	0.04110386222600937
+trial_2	ivabradine	29	KG00099354	hyponatraemia	0.040497519075870514
+trial_2	ivabradine	104	KG00097963	arthralgias	0.038219794631004333
+trial_2	ivabradine	5	KG00099169	haematuria	0.03660076856613159
+trial_2	ivabradine	69	KG00100082	Palpitations NOS	0.03607496991753578
+trial_2	ivabradine	179	KG00099342	hypocalcaemia	0.035729821771383286
+trial_2	ivabradine	61	KG00099501	Chronic Kidney Failure	0.03567657247185707
+trial_2	ivabradine	151	KG00098274	Infarction, Cerebral	0.03566497564315796
+trial_2	ivabradine	18	KG00098307	Pain, Chest	0.03499086573719978
+trial_2	ivabradine	191	KG00104055	Biliverdin increased	0.034258030354976654
+trial_2	ivabradine	239	KG00100128	pareses	0.03411959111690521
+trial_2	ivabradine	261	KG00101559	raised alkaline phosphatase	0.03384142369031906
+trial_2	ivabradine	96	KG00101679	Unattended death NOS	0.03366026282310486
+trial_2	ivabradine	76	KG00100450	Respiratory insufficiency, NOS	0.03358489274978638
+trial_2	ivabradine	422	KG00101429	Creatine phosphokinase increased	0.03237609937787056
+trial_2	ivabradine	130	KG00100683	Stomatitis NOS	0.03233709558844566
+trial_2	ivabradine	82	KG00097697	abdomen distended	0.031662940979003906
+trial_2	ivabradine	28	KG00099347	hypoglycaemia	0.03162269666790962
+trial_2	ivabradine	102	KG00097916	anxieties	0.031604573130607605
+trial_2	ivabradine	86	KG00098565	Depression, Mental	0.030042920261621475
+trial_2	ivabradine	121	KG00099190	haemorrhage	0.02972760610282421
+trial_2	ivabradine	35	KG00101507	hypomagnesaemia	0.02961243875324726
+trial_2	ivabradine	27	KG00099303	hyperkalaemia	0.029250623658299446
+trial_2	ivabradine	164	KG00108827	ileus colon	0.028880007565021515
+trial_2	ivabradine	186	KG00101431	creatinine increased	0.02853884920477867
+trial_2	ivabradine	122	KG00099321	Hypersensitivity NOS	0.027773113921284676
+trial_2	ivabradine	249	KG00104430	hypoalbuminaemia	0.027408383786678314
+trial_2	ivabradine	356	KG00112623	Infectious Lung Disorders	0.027115322649478912
+trial_2	ivabradine	116	KG00098964	Pain in foot	0.027050791308283806
+trial_2	ivabradine	36	KG00106434	Vision, Blurring Of	0.02674364112317562
+trial_2	ivabradine	221	KG00101207	peripheral oedema	0.026314564049243927
+trial_2	ivabradine	234	KG00098669	dysgeusias	0.026243874803185463
+trial_2	ivabradine	300	KG00101064	xerostomia	0.026241034269332886
+trial_2	ivabradine	194	KG00110727	Neutrophil Count Decreased	0.02582979016005993
+trial_2	ivabradine	38	KG00098066	Binocular vision disorders	0.02555476315319538
+trial_2	ivabradine	131	KG00100948	Urinary tract infection (& [NOS])	0.02477092668414116
+trial_2	ivabradine	371	KG00098517	Cystitis (NOS)	0.024762529879808426
+trial_2	ivabradine	396	KG00100373	Embolism, Pulmonary	0.024678843095898628
+trial_2	ivabradine	147	KG00098000	atelectases	0.024531928822398186
+trial_2	ivabradine	22	KG00098705	Edema (NOS)	0.0243802759796381
+trial_2	ivabradine	30	KG00099500	Acute Kidney Failure	0.024370960891246796
+trial_2	ivabradine	204	KG00098849	Esophagitis, Peptic	0.02387913502752781
+trial_2	ivabradine	286	KG00101110	Retention, Urinary	0.023830052465200424
+trial_2	ivabradine	256	KG00100738	Tachycardia, Sinus	0.02377222664654255
+trial_2	ivabradine	355	KG00110857	lymphocyte count decreased	0.023685704916715622
+trial_2	ivabradine	4	KG00098817	epistaxis	0.023477919399738312
+trial_2	ivabradine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02288001962006092
+trial_2	ivabradine	269	KG00100399	pyaemia	0.02286725863814354
+trial_2	ivabradine	466	KG00101205	fall	0.022785095497965813
+trial_2	ivabradine	253	KG00100232	Pleural effusion NOS (disorder)	0.022744223475456238
+trial_2	ivabradine	139	KG00098855	Sinusitis, Ethmoid	0.022282004356384277
+trial_2	ivabradine	382	KG00099200	haemorrhoids	0.021910587325692177
+trial_2	ivabradine	276	KG00099127	Arrest, Cardiac	0.021895363926887512
+trial_2	ivabradine	288	KG00101223	hypophosphataemia	0.021837621927261353
+trial_2	ivabradine	132	KG00101045	Gain, Weight	0.021809376776218414
+trial_2	ivabradine	341	KG00101472	Gamma-glutamyltransferase increased	0.021792041137814522
+trial_2	ivabradine	199	KG00098371	Rhinitis (chronic) NOS	0.021514257416129112
+trial_2	ivabradine	1	KG00099959	Neutropenia NOS	0.021352618932724
+trial_2	ivabradine	441	KG00098262	cellulitis nos	0.02133701555430889
+trial_2	ivabradine	262	KG00101199	agitation	0.02062784694135189
+trial_2	ivabradine	144	KG00099610	Leukopenia NOS	0.02050611563026905
+trial_2	ivabradine	218	KG00100801	Tinnitus NOS	0.020475348457694054
+trial_2	ivabradine	508	KG00108565	blood glucose increased	0.020308565348386765
+trial_2	ivabradine	211	KG00100341	Pruritus NOS	0.02026154287159443
+trial_2	ivabradine	154	KG00099686	Lymphopenias	0.01996932365000248
+trial_2	ivabradine	138	KG00098796	epidemic vomiting syndrome	0.019900035113096237
+trial_2	ivabradine	257	KG00100922	Erythema NOS	0.019487930461764336
+trial_2	ivabradine	118	KG00099011	Gastritis NOS	0.019186632707715034
+trial_2	ivabradine	133	KG00101370	neuropathies sensory	0.019041143357753754

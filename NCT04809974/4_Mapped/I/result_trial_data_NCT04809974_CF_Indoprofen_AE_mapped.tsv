@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.17933668196201324
+trial_1	placebo	9	KG00098432	Confusion NOS	0.16112910211086273
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15517398715019226
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.13322491943836212
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12792466580867767
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1179850772023201
+trial_1	placebo	21	KG00098675	dyspnoea	0.10731741040945053
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.10541968792676926
+trial_1	placebo	77	KG00098450	Constipation NOS	0.10425219684839249
+trial_1	placebo	14	KG00097852	Anemia NOS	0.1015237495303154
+trial_1	placebo	123	KG00099351	hypokalaemia	0.10110756009817123
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.09974095970392227
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.09191470593214035
+trial_1	placebo	20	KG00098540	dehydration	0.09143386781215668
+trial_1	placebo	46	KG00099121	Headache NOS	0.09142053872346878
+trial_1	placebo	68	KG00099901	nauseas	0.09041555225849152
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.08991219848394394
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.08940057456493378
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08828182518482208
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08632667362689972
+trial_1	placebo	228	KG00114657	Weight below normal	0.08262983709573746
+trial_1	placebo	114	KG00098933	fevers	0.08072005957365036
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.0729653537273407
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.07005275040864944
+trial_1	placebo	104	KG00097963	arthralgias	0.06899654865264893
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06888090074062347
+trial_1	placebo	85	KG00098474	coughs	0.06468093395233154
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06339021772146225
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06240749731659889
+trial_1	placebo	86	KG00098565	Depression, Mental	0.060036107897758484
+trial_1	placebo	126	KG00100076	Pain NOS	0.058934006839990616
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05835498124361038
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05817519500851631
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05633193254470825
+trial_1	placebo	239	KG00100128	pareses	0.05586879700422287
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.055108290165662766
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05499814823269844
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05446377769112587
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05348435789346695
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.05326596647500992
+trial_1	placebo	5	KG00099169	haematuria	0.05166376754641533
+trial_1	placebo	72	KG00103771	myalgias	0.05038315802812576
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04734087735414505
+trial_1	placebo	466	KG00101205	fall	0.046708352863788605
+trial_1	placebo	116	KG00098964	Pain in foot	0.04570323973894119
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0452011339366436
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.044667452573776245
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.043615296483039856
+trial_1	placebo	102	KG00097916	anxieties	0.04352760314941406
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.04265296459197998
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.04175907373428345
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04155123606324196
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.04113868623971939
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.041123200207948685
+trial_1	placebo	269	KG00100399	pyaemia	0.03954862058162689
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.039427727460861206
+trial_1	placebo	82	KG00097697	abdomen distended	0.037462424486875534
+trial_1	placebo	11	KG00097993	Asthma NOS	0.037440225481987
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03707943484187126
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.03677927330136299
+trial_1	placebo	262	KG00101199	agitation	0.0365663580596447
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03651098906993866
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03636519983410835
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03630391135811806
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.036105163395404816
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03516482189297676
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03495202586054802
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.034728121012449265
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.03455990180373192
+trial_1	placebo	147	KG00098000	atelectases	0.03440028429031372
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.03373272344470024
+trial_1	placebo	164	KG00108827	ileus colon	0.03360199183225632
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.033160172402858734
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.032996851950883865
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03294606879353523
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.03292447701096535
+trial_1	placebo	441	KG00098262	cellulitis nos	0.03287460282444954
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.032664719969034195
+trial_1	placebo	221	KG00101207	peripheral oedema	0.03237398341298103
+trial_1	placebo	456	KG00099420	Influenzae	0.03221771866083145
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.03209685534238815
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.03174499422311783
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.030772510915994644
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.03070669062435627
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.030541053041815758
+trial_1	placebo	186	KG00101431	creatinine increased	0.029454411938786507
+trial_1	placebo	66	KG00098642	drowsiness	0.0294241514056921
+trial_1	placebo	234	KG00098669	dysgeusias	0.029358984902501106
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02915208414196968
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02884024754166603
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028400715440511703
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02800627425312996
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.027538474649190903
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.027479596436023712
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.0268181711435318
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.026676392182707787
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.026413071900606155
+trial_1	placebo	508	KG00108565	blood glucose increased	0.026394303888082504
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.026349425315856934
+trial_1	placebo	153	KG00099579	lethargy	0.02618335373699665
+trial_2	indoprofen	87	KG00098599	diarrhoea	0.17933668196201324
+trial_2	indoprofen	9	KG00098432	Confusion NOS	0.16112910211086273
+trial_2	indoprofen	78	KG00099326	Hypertensive diseases	0.15517398715019226
+trial_2	indoprofen	173	KG00098172	Bronchopneumonia NOS	0.13322491943836212
+trial_2	indoprofen	17	KG00097991	Asthenia NOS	0.12792466580867767
+trial_2	indoprofen	177	KG00099299	hyperglycaemia	0.1179850772023201
+trial_2	indoprofen	21	KG00098675	dyspnoea	0.10731741040945053
+trial_2	indoprofen	37	KG00097696	Cramps, Abdominal	0.10541968792676926
+trial_2	indoprofen	77	KG00098450	Constipation NOS	0.10425219684839249
+trial_2	indoprofen	14	KG00097852	Anemia NOS	0.1015237495303154
+trial_2	indoprofen	123	KG00099351	hypokalaemia	0.10110756009817123
+trial_2	indoprofen	189	KG00101580	Alanine aminotransferase increase	0.09974095970392227
+trial_2	indoprofen	79	KG00100317	Insomnia, Primary	0.09191470593214035
+trial_2	indoprofen	20	KG00098540	dehydration	0.09143386781215668
+trial_2	indoprofen	46	KG00099121	Headache NOS	0.09142053872346878
+trial_2	indoprofen	68	KG00099901	nauseas	0.09041555225849152
+trial_2	indoprofen	188	KG00101579	Aspartate aminotransferase increase	0.08991219848394394
+trial_2	indoprofen	2	KG00100772	thrombocytopaenia	0.08940057456493378
+trial_2	indoprofen	49	KG00099902	nausea with vomiting	0.08828182518482208
+trial_2	indoprofen	64	KG00097734	Acrodermatitis, NOS	0.08632667362689972
+trial_2	indoprofen	228	KG00114657	Weight below normal	0.08262983709573746
+trial_2	indoprofen	114	KG00098933	fevers	0.08072005957365036
+trial_2	indoprofen	67	KG00098673	Dyspepsia, NOS	0.0729653537273407
+trial_2	indoprofen	200	KG00098539	Disorders, Deglutition	0.07005275040864944
+trial_2	indoprofen	104	KG00097963	arthralgias	0.06899654865264893
+trial_2	indoprofen	350	KG00106765	decreased platelet count	0.06888090074062347
+trial_2	indoprofen	85	KG00098474	coughs	0.06468093395233154
+trial_2	indoprofen	76	KG00100450	Respiratory insufficiency, NOS	0.06339021772146225
+trial_2	indoprofen	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06240749731659889
+trial_2	indoprofen	86	KG00098565	Depression, Mental	0.060036107897758484
+trial_2	indoprofen	126	KG00100076	Pain NOS	0.058934006839990616
+trial_2	indoprofen	151	KG00098274	Infarction, Cerebral	0.05835498124361038
+trial_2	indoprofen	29	KG00099354	hyponatraemia	0.05817519500851631
+trial_2	indoprofen	180	KG00099363	Hypotension NOS	0.05633193254470825
+trial_2	indoprofen	239	KG00100128	pareses	0.05586879700422287
+trial_2	indoprofen	30	KG00099500	Acute Kidney Failure	0.055108290165662766
+trial_2	indoprofen	101	KG00097901	Anorexia NOS	0.05499814823269844
+trial_2	indoprofen	61	KG00099501	Chronic Kidney Failure	0.05446377769112587
+trial_2	indoprofen	243	KG00100947	Micturition frequency increased	0.05348435789346695
+trial_2	indoprofen	131	KG00100948	Urinary tract infection (& [NOS])	0.05326596647500992
+trial_2	indoprofen	5	KG00099169	haematuria	0.05166376754641533
+trial_2	indoprofen	72	KG00103771	myalgias	0.05038315802812576
+trial_2	indoprofen	28	KG00099347	hypoglycaemia	0.04734087735414505
+trial_2	indoprofen	466	KG00101205	fall	0.046708352863788605
+trial_2	indoprofen	116	KG00098964	Pain in foot	0.04570323973894119
+trial_2	indoprofen	132	KG00101045	Gain, Weight	0.0452011339366436
+trial_2	indoprofen	194	KG00110727	Neutrophil Count Decreased	0.044667452573776245
+trial_2	indoprofen	144	KG00099610	Leukopenia NOS	0.043615296483039856
+trial_2	indoprofen	102	KG00097916	anxieties	0.04352760314941406
+trial_2	indoprofen	396	KG00100373	Embolism, Pulmonary	0.04265296459197998
+trial_2	indoprofen	276	KG00099127	Arrest, Cardiac	0.04175907373428345
+trial_2	indoprofen	179	KG00099342	hypocalcaemia	0.04155123606324196
+trial_2	indoprofen	27	KG00099303	hyperkalaemia	0.04113868623971939
+trial_2	indoprofen	139	KG00098855	Sinusitis, Ethmoid	0.041123200207948685
+trial_2	indoprofen	269	KG00100399	pyaemia	0.03954862058162689
+trial_2	indoprofen	92	KG00100926	Infections, Upper Respiratory	0.039427727460861206
+trial_2	indoprofen	82	KG00097697	abdomen distended	0.037462424486875534
+trial_2	indoprofen	11	KG00097993	Asthma NOS	0.037440225481987
+trial_2	indoprofen	18	KG00098307	Pain, Chest	0.03707943484187126
+trial_2	indoprofen	1	KG00099959	Neutropenia NOS	0.03677927330136299
+trial_2	indoprofen	262	KG00101199	agitation	0.0365663580596447
+trial_2	indoprofen	69	KG00100082	Palpitations NOS	0.03651098906993866
+trial_2	indoprofen	96	KG00101679	Unattended death NOS	0.03636519983410835
+trial_2	indoprofen	261	KG00101559	raised alkaline phosphatase	0.03630391135811806
+trial_2	indoprofen	253	KG00100232	Pleural effusion NOS (disorder)	0.036105163395404816
+trial_2	indoprofen	422	KG00101429	Creatine phosphokinase increased	0.03516482189297676
+trial_2	indoprofen	38	KG00098066	Binocular vision disorders	0.03495202586054802
+trial_2	indoprofen	122	KG00099321	Hypersensitivity NOS	0.034728121012449265
+trial_2	indoprofen	361	KG00098004	Fibrillation, Atrial	0.03455990180373192
+trial_2	indoprofen	147	KG00098000	atelectases	0.03440028429031372
+trial_2	indoprofen	75	KG00100195	Dolens, Phlegmasia Alba	0.03373272344470024
+trial_2	indoprofen	164	KG00108827	ileus colon	0.03360199183225632
+trial_2	indoprofen	341	KG00101472	Gamma-glutamyltransferase increased	0.033160172402858734
+trial_2	indoprofen	15	KG00097882	Angina pectoris NOS	0.032996851950883865
+trial_2	indoprofen	204	KG00098849	Esophagitis, Peptic	0.03294606879353523
+trial_2	indoprofen	199	KG00098371	Rhinitis (chronic) NOS	0.03292447701096535
+trial_2	indoprofen	441	KG00098262	cellulitis nos	0.03287460282444954
+trial_2	indoprofen	355	KG00110857	lymphocyte count decreased	0.032664719969034195
+trial_2	indoprofen	221	KG00101207	peripheral oedema	0.03237398341298103
+trial_2	indoprofen	456	KG00099420	Influenzae	0.03221771866083145
+trial_2	indoprofen	211	KG00100341	Pruritus NOS	0.03209685534238815
+trial_2	indoprofen	98	KG00097718	Incised wound, NOS	0.03174499422311783
+trial_2	indoprofen	191	KG00104055	Biliverdin increased	0.030772510915994644
+trial_2	indoprofen	138	KG00098796	epidemic vomiting syndrome	0.03070669062435627
+trial_2	indoprofen	97	KG00104198	LIVER ENZYME ELEVATED	0.030541053041815758
+trial_2	indoprofen	186	KG00101431	creatinine increased	0.029454411938786507
+trial_2	indoprofen	66	KG00098642	drowsiness	0.0294241514056921
+trial_2	indoprofen	234	KG00098669	dysgeusias	0.029358984902501106
+trial_2	indoprofen	130	KG00100683	Stomatitis NOS	0.02915208414196968
+trial_2	indoprofen	282	KG00099309	hypernatraemia	0.02884024754166603
+trial_2	indoprofen	286	KG00101110	Retention, Urinary	0.028400715440511703
+trial_2	indoprofen	33	KG00100094	Pancreatitis NOS	0.02800627425312996
+trial_2	indoprofen	394	KG00100243	Pneumonia, Aspiration	0.027538474649190903
+trial_2	indoprofen	371	KG00098517	Cystitis (NOS)	0.027479596436023712
+trial_2	indoprofen	288	KG00101223	hypophosphataemia	0.0268181711435318
+trial_2	indoprofen	249	KG00104430	hypoalbuminaemia	0.026676392182707787
+trial_2	indoprofen	297	KG00099294	hypercholesterolaemia	0.026413071900606155
+trial_2	indoprofen	508	KG00108565	blood glucose increased	0.026394303888082504
+trial_2	indoprofen	31	KG00099872	Infarction, Myocardial	0.026349425315856934
+trial_2	indoprofen	153	KG00099579	lethargy	0.02618335373699665

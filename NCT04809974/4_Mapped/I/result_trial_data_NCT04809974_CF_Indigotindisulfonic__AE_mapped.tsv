@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1217668205499649
+trial_1	placebo	87	KG00098599	diarrhoea	0.07647997885942459
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07252863049507141
+trial_1	placebo	46	KG00099121	Headache NOS	0.06794995814561844
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.061268970370292664
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06024126708507538
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05736609175801277
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.05571621283888817
+trial_1	placebo	21	KG00098675	dyspnoea	0.05475752428174019
+trial_1	placebo	68	KG00099901	nauseas	0.05154717341065407
+trial_1	placebo	20	KG00098540	dehydration	0.04847205802798271
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.04802340641617775
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04540009796619415
+trial_1	placebo	14	KG00097852	Anemia NOS	0.044776540249586105
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.043795257806777954
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.043466709554195404
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04219464212656021
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.041396256536245346
+trial_1	placebo	5	KG00099169	haematuria	0.04069563373923302
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04033803939819336
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03874366357922554
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.038070131093263626
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03636723756790161
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.035628531128168106
+trial_1	placebo	126	KG00100076	Pain NOS	0.0354047529399395
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.034808699041604996
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03381003066897392
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03377899155020714
+trial_1	placebo	114	KG00098933	fevers	0.032260168343782425
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.032031457871198654
+trial_1	placebo	147	KG00098000	atelectases	0.03186776861548424
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.031008107587695122
+trial_1	placebo	86	KG00098565	Depression, Mental	0.030860140919685364
+trial_1	placebo	29	KG00099354	hyponatraemia	0.029368596151471138
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028848648071289062
+trial_1	placebo	18	KG00098307	Pain, Chest	0.02882319688796997
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.028804637491703033
+trial_1	placebo	104	KG00097963	arthralgias	0.0286844652146101
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.028367390856146812
+trial_1	placebo	85	KG00098474	coughs	0.02815541997551918
+trial_1	placebo	239	KG00100128	pareses	0.027309268712997437
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.02723003923892975
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026544012129306793
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026064056903123856
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.025685159489512444
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.02553996630012989
+trial_1	placebo	72	KG00103771	myalgias	0.025461167097091675
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02544398605823517
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.024621086195111275
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02440440095961094
+trial_1	placebo	228	KG00114657	Weight below normal	0.02428217977285385
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.024229679256677628
+trial_1	placebo	116	KG00098964	Pain in foot	0.024153126403689384
+trial_1	placebo	441	KG00098262	cellulitis nos	0.022623559460043907
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021923761814832687
+trial_1	placebo	508	KG00108565	blood glucose increased	0.021589618176221848
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.021167708560824394
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021149009466171265
+trial_1	placebo	269	KG00100399	pyaemia	0.02109881117939949
+trial_1	placebo	102	KG00097916	anxieties	0.021052470430731773
+trial_1	placebo	82	KG00097697	abdomen distended	0.02036147005856037
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02015988528728485
+trial_1	placebo	121	KG00099190	haemorrhage	0.019946953281760216
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019780345261096954
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019584855064749718
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.01929663121700287
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0192855317145586
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.019090205430984497
+trial_1	placebo	466	KG00101205	fall	0.019042177125811577
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.018991991877555847
+trial_1	placebo	234	KG00098669	dysgeusias	0.018958188593387604
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.018781837075948715
+trial_1	placebo	164	KG00108827	ileus colon	0.01875365525484085
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018419843167066574
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.01836719550192356
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.018325399607419968
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.018251776695251465
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.01824330724775791
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.018194470554590225
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.017796561121940613
+trial_1	placebo	262	KG00101199	agitation	0.01769762858748436
+trial_1	placebo	186	KG00101431	creatinine increased	0.01748163066804409
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.017408275976777077
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.017300639301538467
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.017290053889155388
+trial_1	placebo	132	KG00101045	Gain, Weight	0.017210664227604866
+trial_1	placebo	221	KG00101207	peripheral oedema	0.017118141055107117
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.016985787078738213
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.01696799322962761
+trial_1	placebo	25	KG00099134	congestive failures heart	0.01671897992491722
+trial_1	placebo	454	KG00098286	Pain, Neck	0.016509808599948883
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.016337912529706955
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.01598839834332466
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015804121270775795
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015755215659737587
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01568179577589035
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.015501362271606922
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.015374996699392796
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.015153846703469753
+trial_1	placebo	503	KG00102612	low haemoglobin	0.015041938051581383
+trial_2	indigotindisulfonic acid	78	KG00099326	Hypertensive diseases	0.1217668205499649
+trial_2	indigotindisulfonic acid	87	KG00098599	diarrhoea	0.07647997885942459
+trial_2	indigotindisulfonic acid	177	KG00099299	hyperglycaemia	0.07252863049507141
+trial_2	indigotindisulfonic acid	46	KG00099121	Headache NOS	0.06794995814561844
+trial_2	indigotindisulfonic acid	173	KG00098172	Bronchopneumonia NOS	0.061268970370292664
+trial_2	indigotindisulfonic acid	9	KG00098432	Confusion NOS	0.06024126708507538
+trial_2	indigotindisulfonic acid	123	KG00099351	hypokalaemia	0.05736609175801277
+trial_2	indigotindisulfonic acid	17	KG00097991	Asthenia NOS	0.05571621283888817
+trial_2	indigotindisulfonic acid	21	KG00098675	dyspnoea	0.05475752428174019
+trial_2	indigotindisulfonic acid	68	KG00099901	nauseas	0.05154717341065407
+trial_2	indigotindisulfonic acid	20	KG00098540	dehydration	0.04847205802798271
+trial_2	indigotindisulfonic acid	49	KG00099902	nausea with vomiting	0.04802340641617775
+trial_2	indigotindisulfonic acid	67	KG00098673	Dyspepsia, NOS	0.04540009796619415
+trial_2	indigotindisulfonic acid	14	KG00097852	Anemia NOS	0.044776540249586105
+trial_2	indigotindisulfonic acid	79	KG00100317	Insomnia, Primary	0.043795257806777954
+trial_2	indigotindisulfonic acid	37	KG00097696	Cramps, Abdominal	0.043466709554195404
+trial_2	indigotindisulfonic acid	77	KG00098450	Constipation NOS	0.04219464212656021
+trial_2	indigotindisulfonic acid	189	KG00101580	Alanine aminotransferase increase	0.041396256536245346
+trial_2	indigotindisulfonic acid	5	KG00099169	haematuria	0.04069563373923302
+trial_2	indigotindisulfonic acid	200	KG00098539	Disorders, Deglutition	0.04033803939819336
+trial_2	indigotindisulfonic acid	188	KG00101579	Aspartate aminotransferase increase	0.03874366357922554
+trial_2	indigotindisulfonic acid	2	KG00100772	thrombocytopaenia	0.038070131093263626
+trial_2	indigotindisulfonic acid	61	KG00099501	Chronic Kidney Failure	0.03636723756790161
+trial_2	indigotindisulfonic acid	28	KG00099347	hypoglycaemia	0.035628531128168106
+trial_2	indigotindisulfonic acid	126	KG00100076	Pain NOS	0.0354047529399395
+trial_2	indigotindisulfonic acid	151	KG00098274	Infarction, Cerebral	0.034808699041604996
+trial_2	indigotindisulfonic acid	350	KG00106765	decreased platelet count	0.03381003066897392
+trial_2	indigotindisulfonic acid	64	KG00097734	Acrodermatitis, NOS	0.03377899155020714
+trial_2	indigotindisulfonic acid	114	KG00098933	fevers	0.032260168343782425
+trial_2	indigotindisulfonic acid	180	KG00099363	Hypotension NOS	0.032031457871198654
+trial_2	indigotindisulfonic acid	147	KG00098000	atelectases	0.03186776861548424
+trial_2	indigotindisulfonic acid	396	KG00100373	Embolism, Pulmonary	0.031008107587695122
+trial_2	indigotindisulfonic acid	86	KG00098565	Depression, Mental	0.030860140919685364
+trial_2	indigotindisulfonic acid	29	KG00099354	hyponatraemia	0.029368596151471138
+trial_2	indigotindisulfonic acid	276	KG00099127	Arrest, Cardiac	0.028848648071289062
+trial_2	indigotindisulfonic acid	18	KG00098307	Pain, Chest	0.02882319688796997
+trial_2	indigotindisulfonic acid	76	KG00100450	Respiratory insufficiency, NOS	0.028804637491703033
+trial_2	indigotindisulfonic acid	104	KG00097963	arthralgias	0.0286844652146101
+trial_2	indigotindisulfonic acid	30	KG00099500	Acute Kidney Failure	0.028367390856146812
+trial_2	indigotindisulfonic acid	85	KG00098474	coughs	0.02815541997551918
+trial_2	indigotindisulfonic acid	239	KG00100128	pareses	0.027309268712997437
+trial_2	indigotindisulfonic acid	243	KG00100947	Micturition frequency increased	0.02723003923892975
+trial_2	indigotindisulfonic acid	139	KG00098855	Sinusitis, Ethmoid	0.026544012129306793
+trial_2	indigotindisulfonic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.026064056903123856
+trial_2	indigotindisulfonic acid	27	KG00099303	hyperkalaemia	0.025685159489512444
+trial_2	indigotindisulfonic acid	96	KG00101679	Unattended death NOS	0.02553996630012989
+trial_2	indigotindisulfonic acid	72	KG00103771	myalgias	0.025461167097091675
+trial_2	indigotindisulfonic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.02544398605823517
+trial_2	indigotindisulfonic acid	38	KG00098066	Binocular vision disorders	0.024621086195111275
+trial_2	indigotindisulfonic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.02440440095961094
+trial_2	indigotindisulfonic acid	228	KG00114657	Weight below normal	0.02428217977285385
+trial_2	indigotindisulfonic acid	179	KG00099342	hypocalcaemia	0.024229679256677628
+trial_2	indigotindisulfonic acid	116	KG00098964	Pain in foot	0.024153126403689384
+trial_2	indigotindisulfonic acid	441	KG00098262	cellulitis nos	0.022623559460043907
+trial_2	indigotindisulfonic acid	122	KG00099321	Hypersensitivity NOS	0.021923761814832687
+trial_2	indigotindisulfonic acid	508	KG00108565	blood glucose increased	0.021589618176221848
+trial_2	indigotindisulfonic acid	69	KG00100082	Palpitations NOS	0.021167708560824394
+trial_2	indigotindisulfonic acid	204	KG00098849	Esophagitis, Peptic	0.021149009466171265
+trial_2	indigotindisulfonic acid	269	KG00100399	pyaemia	0.02109881117939949
+trial_2	indigotindisulfonic acid	102	KG00097916	anxieties	0.021052470430731773
+trial_2	indigotindisulfonic acid	82	KG00097697	abdomen distended	0.02036147005856037
+trial_2	indigotindisulfonic acid	282	KG00099309	hypernatraemia	0.02015988528728485
+trial_2	indigotindisulfonic acid	121	KG00099190	haemorrhage	0.019946953281760216
+trial_2	indigotindisulfonic acid	261	KG00101559	raised alkaline phosphatase	0.019780345261096954
+trial_2	indigotindisulfonic acid	361	KG00098004	Fibrillation, Atrial	0.019584855064749718
+trial_2	indigotindisulfonic acid	163	KG00104050	bowel obstructions small	0.01929663121700287
+trial_2	indigotindisulfonic acid	286	KG00101110	Retention, Urinary	0.0192855317145586
+trial_2	indigotindisulfonic acid	36	KG00106434	Vision, Blurring Of	0.019090205430984497
+trial_2	indigotindisulfonic acid	466	KG00101205	fall	0.019042177125811577
+trial_2	indigotindisulfonic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.018991991877555847
+trial_2	indigotindisulfonic acid	234	KG00098669	dysgeusias	0.018958188593387604
+trial_2	indigotindisulfonic acid	144	KG00099610	Leukopenia NOS	0.018781837075948715
+trial_2	indigotindisulfonic acid	164	KG00108827	ileus colon	0.01875365525484085
+trial_2	indigotindisulfonic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.018419843167066574
+trial_2	indigotindisulfonic acid	31	KG00099872	Infarction, Myocardial	0.01836719550192356
+trial_2	indigotindisulfonic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.018325399607419968
+trial_2	indigotindisulfonic acid	92	KG00100926	Infections, Upper Respiratory	0.018251776695251465
+trial_2	indigotindisulfonic acid	194	KG00110727	Neutrophil Count Decreased	0.01824330724775791
+trial_2	indigotindisulfonic acid	268	KG00099557	Heart Failure, Left-Sided	0.018194470554590225
+trial_2	indigotindisulfonic acid	15	KG00097882	Angina pectoris NOS	0.017796561121940613
+trial_2	indigotindisulfonic acid	262	KG00101199	agitation	0.01769762858748436
+trial_2	indigotindisulfonic acid	186	KG00101431	creatinine increased	0.01748163066804409
+trial_2	indigotindisulfonic acid	271	KG00103813	reflex bradycardia	0.017408275976777077
+trial_2	indigotindisulfonic acid	33	KG00100094	Pancreatitis NOS	0.017300639301538467
+trial_2	indigotindisulfonic acid	101	KG00097901	Anorexia NOS	0.017290053889155388
+trial_2	indigotindisulfonic acid	132	KG00101045	Gain, Weight	0.017210664227604866
+trial_2	indigotindisulfonic acid	221	KG00101207	peripheral oedema	0.017118141055107117
+trial_2	indigotindisulfonic acid	422	KG00101429	Creatine phosphokinase increased	0.016985787078738213
+trial_2	indigotindisulfonic acid	191	KG00104055	Biliverdin increased	0.01696799322962761
+trial_2	indigotindisulfonic acid	25	KG00099134	congestive failures heart	0.01671897992491722
+trial_2	indigotindisulfonic acid	454	KG00098286	Pain, Neck	0.016509808599948883
+trial_2	indigotindisulfonic acid	166	KG00099773	menopausal syndrome	0.016337912529706955
+trial_2	indigotindisulfonic acid	98	KG00097718	Incised wound, NOS	0.01598839834332466
+trial_2	indigotindisulfonic acid	11	KG00097993	Asthma NOS	0.015804121270775795
+trial_2	indigotindisulfonic acid	211	KG00100341	Pruritus NOS	0.015755215659737587
+trial_2	indigotindisulfonic acid	394	KG00100243	Pneumonia, Aspiration	0.01568179577589035
+trial_2	indigotindisulfonic acid	35	KG00101507	hypomagnesaemia	0.015501362271606922
+trial_2	indigotindisulfonic acid	22	KG00098705	Edema (NOS)	0.015374996699392796
+trial_2	indigotindisulfonic acid	118	KG00099011	Gastritis NOS	0.015153846703469753
+trial_2	indigotindisulfonic acid	503	KG00102612	low haemoglobin	0.015041938051581383

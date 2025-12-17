@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.147520512342453
+trial_1	placebo	87	KG00098599	diarrhoea	0.10429557412862778
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.0957135409116745
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09011372923851013
+trial_1	placebo	46	KG00099121	Headache NOS	0.08449363708496094
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07648076862096786
+trial_1	placebo	123	KG00099351	hypokalaemia	0.07392313331365585
+trial_1	placebo	68	KG00099901	nauseas	0.07222557067871094
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0681341364979744
+trial_1	placebo	20	KG00098540	dehydration	0.06798896193504333
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.062288880348205566
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05937458202242851
+trial_1	placebo	21	KG00098675	dyspnoea	0.05815102532505989
+trial_1	placebo	77	KG00098450	Constipation NOS	0.051674313843250275
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.05091235414147377
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.050877347588539124
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.050391554832458496
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0473637618124485
+trial_1	placebo	350	KG00106765	decreased platelet count	0.0463092215359211
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04575337842106819
+trial_1	placebo	228	KG00114657	Weight below normal	0.04574374854564667
+trial_1	placebo	29	KG00099354	hyponatraemia	0.043694429099559784
+trial_1	placebo	14	KG00097852	Anemia NOS	0.043342530727386475
+trial_1	placebo	126	KG00100076	Pain NOS	0.04282829537987709
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04229477792978287
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04081827029585838
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03794031962752342
+trial_1	placebo	114	KG00098933	fevers	0.0377507321536541
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03740660101175308
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03712097182869911
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03671838715672493
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03657974302768707
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03652342036366463
+trial_1	placebo	104	KG00097963	arthralgias	0.03615780174732208
+trial_1	placebo	239	KG00100128	pareses	0.035579003393650055
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.035399727523326874
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03514179214835167
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.033595744520425797
+trial_1	placebo	72	KG00103771	myalgias	0.03347596153616905
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.032910771667957306
+trial_1	placebo	85	KG00098474	coughs	0.032277897000312805
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03189599886536598
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03140665218234062
+trial_1	placebo	121	KG00099190	haemorrhage	0.03138207644224167
+trial_1	placebo	5	KG00099169	haematuria	0.03123943880200386
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.031099695712327957
+trial_1	placebo	102	KG00097916	anxieties	0.030320828780531883
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.029925886541604996
+trial_1	placebo	147	KG00098000	atelectases	0.027943918481469154
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027310943230986595
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02710793912410736
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.027030644938349724
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02687348797917366
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.026217913255095482
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0261868704110384
+trial_1	placebo	164	KG00108827	ileus colon	0.026015065610408783
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02484487183392048
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.024738170206546783
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.024508986622095108
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.024240843951702118
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.02419600635766983
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02391999401152134
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.0237381923943758
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.023673413321375847
+trial_1	placebo	262	KG00101199	agitation	0.023618394508957863
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.023547347635030746
+trial_1	placebo	116	KG00098964	Pain in foot	0.022861093282699585
+trial_1	placebo	269	KG00100399	pyaemia	0.02227524109184742
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02221846580505371
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.022056983783841133
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.02185264229774475
+trial_1	placebo	100	KG00097815	alopecias	0.021250035613775253
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.021234411746263504
+trial_1	placebo	132	KG00101045	Gain, Weight	0.020952314138412476
+trial_1	placebo	212	KG00100576	shivers	0.020941022783517838
+trial_1	placebo	234	KG00098669	dysgeusias	0.020920103415846825
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.02067061886191368
+trial_1	placebo	466	KG00101205	fall	0.020657122135162354
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020555853843688965
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0204097181558609
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.020401481539011
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020278416574001312
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.019840629771351814
+trial_1	placebo	441	KG00098262	cellulitis nos	0.019834598526358604
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.019718004390597343
+trial_1	placebo	82	KG00097697	abdomen distended	0.019715290516614914
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01970805786550045
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.019619829952716827
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.019576961174607277
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.01918841525912285
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.018855713307857513
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.01838856004178524
+trial_1	placebo	508	KG00108565	blood glucose increased	0.01834442839026451
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.017577722668647766
+trial_1	placebo	186	KG00101431	creatinine increased	0.017380094155669212
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.017326129600405693
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.01721510849893093
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.016950059682130814
+trial_1	placebo	454	KG00098286	Pain, Neck	0.016947826370596886
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.016882797703146935
+trial_2	isoxsuprine	78	KG00099326	Hypertensive diseases	0.147520512342453
+trial_2	isoxsuprine	87	KG00098599	diarrhoea	0.10429557412862778
+trial_2	isoxsuprine	177	KG00099299	hyperglycaemia	0.0957135409116745
+trial_2	isoxsuprine	17	KG00097991	Asthenia NOS	0.09011372923851013
+trial_2	isoxsuprine	46	KG00099121	Headache NOS	0.08449363708496094
+trial_2	isoxsuprine	9	KG00098432	Confusion NOS	0.07648076862096786
+trial_2	isoxsuprine	123	KG00099351	hypokalaemia	0.07392313331365585
+trial_2	isoxsuprine	68	KG00099901	nauseas	0.07222557067871094
+trial_2	isoxsuprine	79	KG00100317	Insomnia, Primary	0.0681341364979744
+trial_2	isoxsuprine	20	KG00098540	dehydration	0.06798896193504333
+trial_2	isoxsuprine	173	KG00098172	Bronchopneumonia NOS	0.062288880348205566
+trial_2	isoxsuprine	49	KG00099902	nausea with vomiting	0.05937458202242851
+trial_2	isoxsuprine	21	KG00098675	dyspnoea	0.05815102532505989
+trial_2	isoxsuprine	77	KG00098450	Constipation NOS	0.051674313843250275
+trial_2	isoxsuprine	67	KG00098673	Dyspepsia, NOS	0.05091235414147377
+trial_2	isoxsuprine	37	KG00097696	Cramps, Abdominal	0.050877347588539124
+trial_2	isoxsuprine	200	KG00098539	Disorders, Deglutition	0.050391554832458496
+trial_2	isoxsuprine	189	KG00101580	Alanine aminotransferase increase	0.0473637618124485
+trial_2	isoxsuprine	350	KG00106765	decreased platelet count	0.0463092215359211
+trial_2	isoxsuprine	180	KG00099363	Hypotension NOS	0.04575337842106819
+trial_2	isoxsuprine	228	KG00114657	Weight below normal	0.04574374854564667
+trial_2	isoxsuprine	29	KG00099354	hyponatraemia	0.043694429099559784
+trial_2	isoxsuprine	14	KG00097852	Anemia NOS	0.043342530727386475
+trial_2	isoxsuprine	126	KG00100076	Pain NOS	0.04282829537987709
+trial_2	isoxsuprine	188	KG00101579	Aspartate aminotransferase increase	0.04229477792978287
+trial_2	isoxsuprine	2	KG00100772	thrombocytopaenia	0.04081827029585838
+trial_2	isoxsuprine	122	KG00099321	Hypersensitivity NOS	0.03794031962752342
+trial_2	isoxsuprine	114	KG00098933	fevers	0.0377507321536541
+trial_2	isoxsuprine	86	KG00098565	Depression, Mental	0.03740660101175308
+trial_2	isoxsuprine	243	KG00100947	Micturition frequency increased	0.03712097182869911
+trial_2	isoxsuprine	27	KG00099303	hyperkalaemia	0.03671838715672493
+trial_2	isoxsuprine	179	KG00099342	hypocalcaemia	0.03657974302768707
+trial_2	isoxsuprine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03652342036366463
+trial_2	isoxsuprine	104	KG00097963	arthralgias	0.03615780174732208
+trial_2	isoxsuprine	239	KG00100128	pareses	0.035579003393650055
+trial_2	isoxsuprine	151	KG00098274	Infarction, Cerebral	0.035399727523326874
+trial_2	isoxsuprine	64	KG00097734	Acrodermatitis, NOS	0.03514179214835167
+trial_2	isoxsuprine	61	KG00099501	Chronic Kidney Failure	0.033595744520425797
+trial_2	isoxsuprine	72	KG00103771	myalgias	0.03347596153616905
+trial_2	isoxsuprine	96	KG00101679	Unattended death NOS	0.032910771667957306
+trial_2	isoxsuprine	85	KG00098474	coughs	0.032277897000312805
+trial_2	isoxsuprine	28	KG00099347	hypoglycaemia	0.03189599886536598
+trial_2	isoxsuprine	76	KG00100450	Respiratory insufficiency, NOS	0.03140665218234062
+trial_2	isoxsuprine	121	KG00099190	haemorrhage	0.03138207644224167
+trial_2	isoxsuprine	5	KG00099169	haematuria	0.03123943880200386
+trial_2	isoxsuprine	101	KG00097901	Anorexia NOS	0.031099695712327957
+trial_2	isoxsuprine	102	KG00097916	anxieties	0.030320828780531883
+trial_2	isoxsuprine	38	KG00098066	Binocular vision disorders	0.029925886541604996
+trial_2	isoxsuprine	147	KG00098000	atelectases	0.027943918481469154
+trial_2	isoxsuprine	194	KG00110727	Neutrophil Count Decreased	0.027310943230986595
+trial_2	isoxsuprine	142	KG00100923	Unspecified infectious and parasitic diseases	0.02710793912410736
+trial_2	isoxsuprine	139	KG00098855	Sinusitis, Ethmoid	0.027030644938349724
+trial_2	isoxsuprine	282	KG00099309	hypernatraemia	0.02687348797917366
+trial_2	isoxsuprine	276	KG00099127	Arrest, Cardiac	0.026217913255095482
+trial_2	isoxsuprine	18	KG00098307	Pain, Chest	0.0261868704110384
+trial_2	isoxsuprine	164	KG00108827	ileus colon	0.026015065610408783
+trial_2	isoxsuprine	355	KG00110857	lymphocyte count decreased	0.02484487183392048
+trial_2	isoxsuprine	166	KG00099773	menopausal syndrome	0.024738170206546783
+trial_2	isoxsuprine	144	KG00099610	Leukopenia NOS	0.024508986622095108
+trial_2	isoxsuprine	30	KG00099500	Acute Kidney Failure	0.024240843951702118
+trial_2	isoxsuprine	249	KG00104430	hypoalbuminaemia	0.02419600635766983
+trial_2	isoxsuprine	69	KG00100082	Palpitations NOS	0.02391999401152134
+trial_2	isoxsuprine	131	KG00100948	Urinary tract infection (& [NOS])	0.0237381923943758
+trial_2	isoxsuprine	261	KG00101559	raised alkaline phosphatase	0.023673413321375847
+trial_2	isoxsuprine	262	KG00101199	agitation	0.023618394508957863
+trial_2	isoxsuprine	396	KG00100373	Embolism, Pulmonary	0.023547347635030746
+trial_2	isoxsuprine	116	KG00098964	Pain in foot	0.022861093282699585
+trial_2	isoxsuprine	269	KG00100399	pyaemia	0.02227524109184742
+trial_2	isoxsuprine	35	KG00101507	hypomagnesaemia	0.02221846580505371
+trial_2	isoxsuprine	31	KG00099872	Infarction, Myocardial	0.022056983783841133
+trial_2	isoxsuprine	75	KG00100195	Dolens, Phlegmasia Alba	0.02185264229774475
+trial_2	isoxsuprine	100	KG00097815	alopecias	0.021250035613775253
+trial_2	isoxsuprine	36	KG00106434	Vision, Blurring Of	0.021234411746263504
+trial_2	isoxsuprine	132	KG00101045	Gain, Weight	0.020952314138412476
+trial_2	isoxsuprine	212	KG00100576	shivers	0.020941022783517838
+trial_2	isoxsuprine	234	KG00098669	dysgeusias	0.020920103415846825
+trial_2	isoxsuprine	288	KG00101223	hypophosphataemia	0.02067061886191368
+trial_2	isoxsuprine	466	KG00101205	fall	0.020657122135162354
+trial_2	isoxsuprine	154	KG00099686	Lymphopenias	0.020555853843688965
+trial_2	isoxsuprine	286	KG00101110	Retention, Urinary	0.0204097181558609
+trial_2	isoxsuprine	92	KG00100926	Infections, Upper Respiratory	0.020401481539011
+trial_2	isoxsuprine	361	KG00098004	Fibrillation, Atrial	0.020278416574001312
+trial_2	isoxsuprine	1	KG00099959	Neutropenia NOS	0.019840629771351814
+trial_2	isoxsuprine	441	KG00098262	cellulitis nos	0.019834598526358604
+trial_2	isoxsuprine	191	KG00104055	Biliverdin increased	0.019718004390597343
+trial_2	isoxsuprine	82	KG00097697	abdomen distended	0.019715290516614914
+trial_2	isoxsuprine	253	KG00100232	Pleural effusion NOS (disorder)	0.01970805786550045
+trial_2	isoxsuprine	133	KG00101370	neuropathies sensory	0.019619829952716827
+trial_2	isoxsuprine	22	KG00098705	Edema (NOS)	0.019576961174607277
+trial_2	isoxsuprine	33	KG00100094	Pancreatitis NOS	0.01918841525912285
+trial_2	isoxsuprine	256	KG00100738	Tachycardia, Sinus	0.018855713307857513
+trial_2	isoxsuprine	246	KG00103338	Aspartate Aminotransferase Measurement	0.01838856004178524
+trial_2	isoxsuprine	508	KG00108565	blood glucose increased	0.01834442839026451
+trial_2	isoxsuprine	254	KG00100774	Thrombosis NOS	0.017577722668647766
+trial_2	isoxsuprine	186	KG00101431	creatinine increased	0.017380094155669212
+trial_2	isoxsuprine	130	KG00100683	Stomatitis NOS	0.017326129600405693
+trial_2	isoxsuprine	204	KG00098849	Esophagitis, Peptic	0.01721510849893093
+trial_2	isoxsuprine	97	KG00104198	LIVER ENZYME ELEVATED	0.016950059682130814
+trial_2	isoxsuprine	454	KG00098286	Pain, Neck	0.016947826370596886
+trial_2	isoxsuprine	15	KG00097882	Angina pectoris NOS	0.016882797703146935

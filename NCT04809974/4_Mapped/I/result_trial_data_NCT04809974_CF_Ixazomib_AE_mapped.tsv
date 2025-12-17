@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.5572980642318726
+trial_1	placebo	123	KG00099351	hypokalaemia	0.3526970148086548
+trial_1	placebo	9	KG00098432	Confusion NOS	0.33472421765327454
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.3170629143714905
+trial_1	placebo	20	KG00098540	dehydration	0.28945261240005493
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.27135637402534485
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.2697911858558655
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.26115524768829346
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.24748949706554413
+trial_1	placebo	21	KG00098675	dyspnoea	0.2266930639743805
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.2258392721414566
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.2164808064699173
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.21528740227222443
+trial_1	placebo	46	KG00099121	Headache NOS	0.2146652787923813
+trial_1	placebo	68	KG00099901	nauseas	0.21383509039878845
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.21141211688518524
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.21060636639595032
+trial_1	placebo	77	KG00098450	Constipation NOS	0.2090453803539276
+trial_1	placebo	14	KG00097852	Anemia NOS	0.189606711268425
+trial_1	placebo	228	KG00114657	Weight below normal	0.18509232997894287
+trial_1	placebo	85	KG00098474	coughs	0.17791849374771118
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.17519453167915344
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.17123596370220184
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.1674048751592636
+trial_1	placebo	114	KG00098933	fevers	0.16280366480350494
+trial_1	placebo	239	KG00100128	pareses	0.15955230593681335
+trial_1	placebo	29	KG00099354	hyponatraemia	0.1571352630853653
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.15343636274337769
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.14740289747714996
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.14392998814582825
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.14168576896190643
+trial_1	placebo	72	KG00103771	myalgias	0.13982678949832916
+trial_1	placebo	104	KG00097963	arthralgias	0.13822828233242035
+trial_1	placebo	350	KG00106765	decreased platelet count	0.13797685503959656
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.13267715275287628
+trial_1	placebo	116	KG00098964	Pain in foot	0.12925037741661072
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.1269240528345108
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.12645505368709564
+trial_1	placebo	82	KG00097697	abdomen distended	0.12640008330345154
+trial_1	placebo	126	KG00100076	Pain NOS	0.12115263193845749
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.12059589475393295
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.1158580556511879
+trial_1	placebo	86	KG00098565	Depression, Mental	0.1107327938079834
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.10906307399272919
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.10538274049758911
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.10417082160711288
+trial_1	placebo	5	KG00099169	haematuria	0.10174939036369324
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.10015605390071869
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.09992039203643799
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.09689801186323166
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.09653612971305847
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.09592243283987045
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0955105870962143
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.09502074122428894
+trial_1	placebo	102	KG00097916	anxieties	0.094332255423069
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.0918741524219513
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.09031444787979126
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0849541425704956
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.08450193703174591
+trial_1	placebo	441	KG00098262	cellulitis nos	0.08433828502893448
+trial_1	placebo	186	KG00101431	creatinine increased	0.08362104743719101
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.08226292580366135
+trial_1	placebo	147	KG00098000	atelectases	0.07907801121473312
+trial_1	placebo	269	KG00100399	pyaemia	0.07825392484664917
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.07713164389133453
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.07688423246145248
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.07553114742040634
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.07374902069568634
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.07305007427930832
+trial_1	placebo	221	KG00101207	peripheral oedema	0.07296020537614822
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.07046974450349808
+trial_1	placebo	234	KG00098669	dysgeusias	0.07022886723279953
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.06781023740768433
+trial_1	placebo	136	KG00101582	Dry;skin	0.06753966212272644
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.06751532852649689
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.0674501359462738
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.06740399450063705
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.06733416020870209
+trial_1	placebo	466	KG00101205	fall	0.06688684970140457
+trial_1	placebo	208	KG00099896	Nasal congestion (finding)	0.0664895698428154
+trial_1	placebo	4	KG00098817	epistaxis	0.06611675769090652
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.06321840733289719
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.063011534512043
+trial_1	placebo	535	KG00098309	chest pains wall	0.06295568495988846
+trial_1	placebo	164	KG00108827	ileus colon	0.062456049025058746
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.062281083315610886
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.061721205711364746
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.06162172555923462
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.061107195913791656
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.06095482036471367
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.060861699283123016
+trial_1	placebo	282	KG00099309	hypernatraemia	0.059519533067941666
+trial_1	placebo	212	KG00100576	shivers	0.059413377195596695
+trial_1	placebo	456	KG00099420	Influenzae	0.059355948120355606
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.058445077389478683
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.054663851857185364
+trial_1	placebo	100	KG00097815	alopecias	0.05410800874233246
+trial_1	placebo	154	KG00099686	Lymphopenias	0.053447458893060684
+trial_1	placebo	242	KG00100855	tremors	0.053357597440481186
+trial_1	placebo	489	KG00099244	Herpes zoster disease	0.053242672234773636
+trial_2	ixazomib	87	KG00098599	diarrhoea	0.5572980642318726
+trial_2	ixazomib	123	KG00099351	hypokalaemia	0.3526970148086548
+trial_2	ixazomib	9	KG00098432	Confusion NOS	0.33472421765327454
+trial_2	ixazomib	17	KG00097991	Asthenia NOS	0.3170629143714905
+trial_2	ixazomib	20	KG00098540	dehydration	0.28945261240005493
+trial_2	ixazomib	177	KG00099299	hyperglycaemia	0.27135637402534485
+trial_2	ixazomib	78	KG00099326	Hypertensive diseases	0.2697911858558655
+trial_2	ixazomib	173	KG00098172	Bronchopneumonia NOS	0.26115524768829346
+trial_2	ixazomib	37	KG00097696	Cramps, Abdominal	0.24748949706554413
+trial_2	ixazomib	21	KG00098675	dyspnoea	0.2266930639743805
+trial_2	ixazomib	188	KG00101579	Aspartate aminotransferase increase	0.2258392721414566
+trial_2	ixazomib	49	KG00099902	nausea with vomiting	0.2164808064699173
+trial_2	ixazomib	189	KG00101580	Alanine aminotransferase increase	0.21528740227222443
+trial_2	ixazomib	46	KG00099121	Headache NOS	0.2146652787923813
+trial_2	ixazomib	68	KG00099901	nauseas	0.21383509039878845
+trial_2	ixazomib	64	KG00097734	Acrodermatitis, NOS	0.21141211688518524
+trial_2	ixazomib	67	KG00098673	Dyspepsia, NOS	0.21060636639595032
+trial_2	ixazomib	77	KG00098450	Constipation NOS	0.2090453803539276
+trial_2	ixazomib	14	KG00097852	Anemia NOS	0.189606711268425
+trial_2	ixazomib	228	KG00114657	Weight below normal	0.18509232997894287
+trial_2	ixazomib	85	KG00098474	coughs	0.17791849374771118
+trial_2	ixazomib	200	KG00098539	Disorders, Deglutition	0.17519453167915344
+trial_2	ixazomib	79	KG00100317	Insomnia, Primary	0.17123596370220184
+trial_2	ixazomib	2	KG00100772	thrombocytopaenia	0.1674048751592636
+trial_2	ixazomib	114	KG00098933	fevers	0.16280366480350494
+trial_2	ixazomib	239	KG00100128	pareses	0.15955230593681335
+trial_2	ixazomib	29	KG00099354	hyponatraemia	0.1571352630853653
+trial_2	ixazomib	180	KG00099363	Hypotension NOS	0.15343636274337769
+trial_2	ixazomib	101	KG00097901	Anorexia NOS	0.14740289747714996
+trial_2	ixazomib	243	KG00100947	Micturition frequency increased	0.14392998814582825
+trial_2	ixazomib	35	KG00101507	hypomagnesaemia	0.14168576896190643
+trial_2	ixazomib	72	KG00103771	myalgias	0.13982678949832916
+trial_2	ixazomib	104	KG00097963	arthralgias	0.13822828233242035
+trial_2	ixazomib	350	KG00106765	decreased platelet count	0.13797685503959656
+trial_2	ixazomib	179	KG00099342	hypocalcaemia	0.13267715275287628
+trial_2	ixazomib	116	KG00098964	Pain in foot	0.12925037741661072
+trial_2	ixazomib	131	KG00100948	Urinary tract infection (& [NOS])	0.1269240528345108
+trial_2	ixazomib	76	KG00100450	Respiratory insufficiency, NOS	0.12645505368709564
+trial_2	ixazomib	82	KG00097697	abdomen distended	0.12640008330345154
+trial_2	ixazomib	126	KG00100076	Pain NOS	0.12115263193845749
+trial_2	ixazomib	30	KG00099500	Acute Kidney Failure	0.12059589475393295
+trial_2	ixazomib	27	KG00099303	hyperkalaemia	0.1158580556511879
+trial_2	ixazomib	86	KG00098565	Depression, Mental	0.1107327938079834
+trial_2	ixazomib	204	KG00098849	Esophagitis, Peptic	0.10906307399272919
+trial_2	ixazomib	139	KG00098855	Sinusitis, Ethmoid	0.10538274049758911
+trial_2	ixazomib	288	KG00101223	hypophosphataemia	0.10417082160711288
+trial_2	ixazomib	5	KG00099169	haematuria	0.10174939036369324
+trial_2	ixazomib	61	KG00099501	Chronic Kidney Failure	0.10015605390071869
+trial_2	ixazomib	38	KG00098066	Binocular vision disorders	0.09992039203643799
+trial_2	ixazomib	36	KG00106434	Vision, Blurring Of	0.09689801186323166
+trial_2	ixazomib	261	KG00101559	raised alkaline phosphatase	0.09653612971305847
+trial_2	ixazomib	69	KG00100082	Palpitations NOS	0.09592243283987045
+trial_2	ixazomib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.0955105870962143
+trial_2	ixazomib	249	KG00104430	hypoalbuminaemia	0.09502074122428894
+trial_2	ixazomib	102	KG00097916	anxieties	0.094332255423069
+trial_2	ixazomib	28	KG00099347	hypoglycaemia	0.0918741524219513
+trial_2	ixazomib	92	KG00100926	Infections, Upper Respiratory	0.09031444787979126
+trial_2	ixazomib	18	KG00098307	Pain, Chest	0.0849541425704956
+trial_2	ixazomib	396	KG00100373	Embolism, Pulmonary	0.08450193703174591
+trial_2	ixazomib	441	KG00098262	cellulitis nos	0.08433828502893448
+trial_2	ixazomib	186	KG00101431	creatinine increased	0.08362104743719101
+trial_2	ixazomib	122	KG00099321	Hypersensitivity NOS	0.08226292580366135
+trial_2	ixazomib	147	KG00098000	atelectases	0.07907801121473312
+trial_2	ixazomib	269	KG00100399	pyaemia	0.07825392484664917
+trial_2	ixazomib	194	KG00110727	Neutrophil Count Decreased	0.07713164389133453
+trial_2	ixazomib	355	KG00110857	lymphocyte count decreased	0.07688423246145248
+trial_2	ixazomib	130	KG00100683	Stomatitis NOS	0.07553114742040634
+trial_2	ixazomib	151	KG00098274	Infarction, Cerebral	0.07374902069568634
+trial_2	ixazomib	253	KG00100232	Pleural effusion NOS (disorder)	0.07305007427930832
+trial_2	ixazomib	221	KG00101207	peripheral oedema	0.07296020537614822
+trial_2	ixazomib	361	KG00098004	Fibrillation, Atrial	0.07046974450349808
+trial_2	ixazomib	234	KG00098669	dysgeusias	0.07022886723279953
+trial_2	ixazomib	142	KG00100923	Unspecified infectious and parasitic diseases	0.06781023740768433
+trial_2	ixazomib	136	KG00101582	Dry;skin	0.06753966212272644
+trial_2	ixazomib	286	KG00101110	Retention, Urinary	0.06751532852649689
+trial_2	ixazomib	276	KG00099127	Arrest, Cardiac	0.0674501359462738
+trial_2	ixazomib	98	KG00097718	Incised wound, NOS	0.06740399450063705
+trial_2	ixazomib	144	KG00099610	Leukopenia NOS	0.06733416020870209
+trial_2	ixazomib	466	KG00101205	fall	0.06688684970140457
+trial_2	ixazomib	208	KG00099896	Nasal congestion (finding)	0.0664895698428154
+trial_2	ixazomib	4	KG00098817	epistaxis	0.06611675769090652
+trial_2	ixazomib	96	KG00101679	Unattended death NOS	0.06321840733289719
+trial_2	ixazomib	75	KG00100195	Dolens, Phlegmasia Alba	0.063011534512043
+trial_2	ixazomib	535	KG00098309	chest pains wall	0.06295568495988846
+trial_2	ixazomib	164	KG00108827	ileus colon	0.062456049025058746
+trial_2	ixazomib	1	KG00099959	Neutropenia NOS	0.062281083315610886
+trial_2	ixazomib	138	KG00098796	epidemic vomiting syndrome	0.061721205711364746
+trial_2	ixazomib	256	KG00100738	Tachycardia, Sinus	0.06162172555923462
+trial_2	ixazomib	356	KG00112623	Infectious Lung Disorders	0.061107195913791656
+trial_2	ixazomib	195	KG00097814	Atopic Rhinitis	0.06095482036471367
+trial_2	ixazomib	191	KG00104055	Biliverdin increased	0.060861699283123016
+trial_2	ixazomib	282	KG00099309	hypernatraemia	0.059519533067941666
+trial_2	ixazomib	212	KG00100576	shivers	0.059413377195596695
+trial_2	ixazomib	456	KG00099420	Influenzae	0.059355948120355606
+trial_2	ixazomib	133	KG00101370	neuropathies sensory	0.058445077389478683
+trial_2	ixazomib	163	KG00104050	bowel obstructions small	0.054663851857185364
+trial_2	ixazomib	100	KG00097815	alopecias	0.05410800874233246
+trial_2	ixazomib	154	KG00099686	Lymphopenias	0.053447458893060684
+trial_2	ixazomib	242	KG00100855	tremors	0.053357597440481186
+trial_2	ixazomib	489	KG00099244	Herpes zoster disease	0.053242672234773636

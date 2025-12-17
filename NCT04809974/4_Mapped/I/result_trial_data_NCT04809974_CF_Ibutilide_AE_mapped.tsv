@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1251479536294937
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11508878320455551
+trial_1	placebo	87	KG00098599	diarrhoea	0.10445275902748108
+trial_1	placebo	46	KG00099121	Headache NOS	0.09608188271522522
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09429746121168137
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09239111840724945
+trial_1	placebo	21	KG00098675	dyspnoea	0.08223355561494827
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08146683126688004
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07866258174180984
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07583452016115189
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0735338106751442
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.07207591831684113
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07135289907455444
+trial_1	placebo	68	KG00099901	nauseas	0.07081270217895508
+trial_1	placebo	20	KG00098540	dehydration	0.06890396773815155
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.06488719582557678
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06197333708405495
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05943114310503006
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.059423983097076416
+trial_1	placebo	126	KG00100076	Pain NOS	0.05493798106908798
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05484906584024429
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05225973576307297
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.05057394132018089
+trial_1	placebo	228	KG00114657	Weight below normal	0.04972509667277336
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0469253733754158
+trial_1	placebo	18	KG00098307	Pain, Chest	0.046757280826568604
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.046296533197164536
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04558780416846275
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.04539573937654495
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.043664850294589996
+trial_1	placebo	239	KG00100128	pareses	0.04357382282614708
+trial_1	placebo	114	KG00098933	fevers	0.043343085795640945
+trial_1	placebo	5	KG00099169	haematuria	0.04309500753879547
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04231368005275726
+trial_1	placebo	121	KG00099190	haemorrhage	0.04180919751524925
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.04170423001050949
+trial_1	placebo	72	KG00103771	myalgias	0.0412791483104229
+trial_1	placebo	86	KG00098565	Depression, Mental	0.041022635996341705
+trial_1	placebo	85	KG00098474	coughs	0.04094453155994415
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03940621763467789
+trial_1	placebo	104	KG00097963	arthralgias	0.03921357914805412
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03855596482753754
+trial_1	placebo	102	KG00097916	anxieties	0.03649728745222092
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.03637342154979706
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.035384099930524826
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03490089252591133
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03427628055214882
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.033986736088991165
+trial_1	placebo	147	KG00098000	atelectases	0.03389514610171318
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.0338142067193985
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.033489424735307693
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.033179767429828644
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03258902207016945
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03231275454163551
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03193153068423271
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0308292917907238
+trial_1	placebo	116	KG00098964	Pain in foot	0.030514279380440712
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03003411740064621
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.029994508251547813
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.02990942820906639
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.029650824144482613
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.029218723997473717
+trial_1	placebo	466	KG00101205	fall	0.02902286686003208
+trial_1	placebo	82	KG00097697	abdomen distended	0.02823026105761528
+trial_1	placebo	262	KG00101199	agitation	0.027857359498739243
+trial_1	placebo	242	KG00100855	tremors	0.02748570777475834
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02733870968222618
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02714046835899353
+trial_1	placebo	152	KG00099402	INCONTINENCE NOS	0.026819342747330666
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.026368938386440277
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02598603442311287
+trial_1	placebo	441	KG00098262	cellulitis nos	0.02574767917394638
+trial_1	placebo	234	KG00098669	dysgeusias	0.02554243430495262
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02463766559958458
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.0243966206908226
+trial_1	placebo	282	KG00099309	hypernatraemia	0.02421506866812706
+trial_1	placebo	508	KG00108565	blood glucose increased	0.024163980036973953
+trial_1	placebo	271	KG00103813	reflex bradycardia	0.024139856919646263
+trial_1	placebo	4	KG00098817	epistaxis	0.02413039281964302
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02400801330804825
+trial_1	placebo	164	KG00108827	ileus colon	0.02395843341946602
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.023602403700351715
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.023364590480923653
+trial_1	placebo	221	KG00101207	peripheral oedema	0.023207098245620728
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.02289660833775997
+trial_1	placebo	186	KG00101431	creatinine increased	0.02274908311665058
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.0222783163189888
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.02204367145895958
+trial_1	placebo	269	KG00100399	pyaemia	0.021951688453555107
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.021674949675798416
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.021559281274676323
+trial_1	placebo	382	KG00099200	haemorrhoids	0.0214853398501873
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021386360749602318
+trial_1	placebo	339	KG00100334	proteinurias	0.02138538286089897
+trial_1	placebo	212	KG00100576	shivers	0.021317314356565475
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021285230293869972
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.021125417202711105
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019987067207694054
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.019441306591033936
+trial_1	placebo	503	KG00102612	low haemoglobin	0.01920173689723015
+trial_2	ibutilide	78	KG00099326	Hypertensive diseases	0.1251479536294937
+trial_2	ibutilide	9	KG00098432	Confusion NOS	0.11508878320455551
+trial_2	ibutilide	87	KG00098599	diarrhoea	0.10445275902748108
+trial_2	ibutilide	46	KG00099121	Headache NOS	0.09608188271522522
+trial_2	ibutilide	17	KG00097991	Asthenia NOS	0.09429746121168137
+trial_2	ibutilide	123	KG00099351	hypokalaemia	0.09239111840724945
+trial_2	ibutilide	21	KG00098675	dyspnoea	0.08223355561494827
+trial_2	ibutilide	77	KG00098450	Constipation NOS	0.08146683126688004
+trial_2	ibutilide	177	KG00099299	hyperglycaemia	0.07866258174180984
+trial_2	ibutilide	189	KG00101580	Alanine aminotransferase increase	0.07583452016115189
+trial_2	ibutilide	79	KG00100317	Insomnia, Primary	0.0735338106751442
+trial_2	ibutilide	188	KG00101579	Aspartate aminotransferase increase	0.07207591831684113
+trial_2	ibutilide	173	KG00098172	Bronchopneumonia NOS	0.07135289907455444
+trial_2	ibutilide	68	KG00099901	nauseas	0.07081270217895508
+trial_2	ibutilide	20	KG00098540	dehydration	0.06890396773815155
+trial_2	ibutilide	49	KG00099902	nausea with vomiting	0.06488719582557678
+trial_2	ibutilide	350	KG00106765	decreased platelet count	0.06197333708405495
+trial_2	ibutilide	243	KG00100947	Micturition frequency increased	0.05943114310503006
+trial_2	ibutilide	67	KG00098673	Dyspepsia, NOS	0.059423983097076416
+trial_2	ibutilide	126	KG00100076	Pain NOS	0.05493798106908798
+trial_2	ibutilide	37	KG00097696	Cramps, Abdominal	0.05484906584024429
+trial_2	ibutilide	200	KG00098539	Disorders, Deglutition	0.05225973576307297
+trial_2	ibutilide	151	KG00098274	Infarction, Cerebral	0.05057394132018089
+trial_2	ibutilide	228	KG00114657	Weight below normal	0.04972509667277336
+trial_2	ibutilide	29	KG00099354	hyponatraemia	0.0469253733754158
+trial_2	ibutilide	18	KG00098307	Pain, Chest	0.046757280826568604
+trial_2	ibutilide	180	KG00099363	Hypotension NOS	0.046296533197164536
+trial_2	ibutilide	101	KG00097901	Anorexia NOS	0.04558780416846275
+trial_2	ibutilide	179	KG00099342	hypocalcaemia	0.04539573937654495
+trial_2	ibutilide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.043664850294589996
+trial_2	ibutilide	239	KG00100128	pareses	0.04357382282614708
+trial_2	ibutilide	114	KG00098933	fevers	0.043343085795640945
+trial_2	ibutilide	5	KG00099169	haematuria	0.04309500753879547
+trial_2	ibutilide	14	KG00097852	Anemia NOS	0.04231368005275726
+trial_2	ibutilide	121	KG00099190	haemorrhage	0.04180919751524925
+trial_2	ibutilide	2	KG00100772	thrombocytopaenia	0.04170423001050949
+trial_2	ibutilide	72	KG00103771	myalgias	0.0412791483104229
+trial_2	ibutilide	86	KG00098565	Depression, Mental	0.041022635996341705
+trial_2	ibutilide	85	KG00098474	coughs	0.04094453155994415
+trial_2	ibutilide	69	KG00100082	Palpitations NOS	0.03940621763467789
+trial_2	ibutilide	104	KG00097963	arthralgias	0.03921357914805412
+trial_2	ibutilide	96	KG00101679	Unattended death NOS	0.03855596482753754
+trial_2	ibutilide	102	KG00097916	anxieties	0.03649728745222092
+trial_2	ibutilide	36	KG00106434	Vision, Blurring Of	0.03637342154979706
+trial_2	ibutilide	35	KG00101507	hypomagnesaemia	0.035384099930524826
+trial_2	ibutilide	64	KG00097734	Acrodermatitis, NOS	0.03490089252591133
+trial_2	ibutilide	28	KG00099347	hypoglycaemia	0.03427628055214882
+trial_2	ibutilide	261	KG00101559	raised alkaline phosphatase	0.033986736088991165
+trial_2	ibutilide	147	KG00098000	atelectases	0.03389514610171318
+trial_2	ibutilide	286	KG00101110	Retention, Urinary	0.0338142067193985
+trial_2	ibutilide	38	KG00098066	Binocular vision disorders	0.033489424735307693
+trial_2	ibutilide	61	KG00099501	Chronic Kidney Failure	0.033179767429828644
+trial_2	ibutilide	76	KG00100450	Respiratory insufficiency, NOS	0.03258902207016945
+trial_2	ibutilide	122	KG00099321	Hypersensitivity NOS	0.03231275454163551
+trial_2	ibutilide	191	KG00104055	Biliverdin increased	0.03193153068423271
+trial_2	ibutilide	132	KG00101045	Gain, Weight	0.0308292917907238
+trial_2	ibutilide	116	KG00098964	Pain in foot	0.030514279380440712
+trial_2	ibutilide	30	KG00099500	Acute Kidney Failure	0.03003411740064621
+trial_2	ibutilide	194	KG00110727	Neutrophil Count Decreased	0.029994508251547813
+trial_2	ibutilide	27	KG00099303	hyperkalaemia	0.02990942820906639
+trial_2	ibutilide	249	KG00104430	hypoalbuminaemia	0.029650824144482613
+trial_2	ibutilide	396	KG00100373	Embolism, Pulmonary	0.029218723997473717
+trial_2	ibutilide	466	KG00101205	fall	0.02902286686003208
+trial_2	ibutilide	82	KG00097697	abdomen distended	0.02823026105761528
+trial_2	ibutilide	262	KG00101199	agitation	0.027857359498739243
+trial_2	ibutilide	242	KG00100855	tremors	0.02748570777475834
+trial_2	ibutilide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02733870968222618
+trial_2	ibutilide	166	KG00099773	menopausal syndrome	0.02714046835899353
+trial_2	ibutilide	152	KG00099402	INCONTINENCE NOS	0.026819342747330666
+trial_2	ibutilide	139	KG00098855	Sinusitis, Ethmoid	0.026368938386440277
+trial_2	ibutilide	131	KG00100948	Urinary tract infection (& [NOS])	0.02598603442311287
+trial_2	ibutilide	441	KG00098262	cellulitis nos	0.02574767917394638
+trial_2	ibutilide	234	KG00098669	dysgeusias	0.02554243430495262
+trial_2	ibutilide	355	KG00110857	lymphocyte count decreased	0.02463766559958458
+trial_2	ibutilide	218	KG00100801	Tinnitus NOS	0.0243966206908226
+trial_2	ibutilide	282	KG00099309	hypernatraemia	0.02421506866812706
+trial_2	ibutilide	508	KG00108565	blood glucose increased	0.024163980036973953
+trial_2	ibutilide	271	KG00103813	reflex bradycardia	0.024139856919646263
+trial_2	ibutilide	4	KG00098817	epistaxis	0.02413039281964302
+trial_2	ibutilide	133	KG00101370	neuropathies sensory	0.02400801330804825
+trial_2	ibutilide	164	KG00108827	ileus colon	0.02395843341946602
+trial_2	ibutilide	276	KG00099127	Arrest, Cardiac	0.023602403700351715
+trial_2	ibutilide	253	KG00100232	Pleural effusion NOS (disorder)	0.023364590480923653
+trial_2	ibutilide	221	KG00101207	peripheral oedema	0.023207098245620728
+trial_2	ibutilide	22	KG00098705	Edema (NOS)	0.02289660833775997
+trial_2	ibutilide	186	KG00101431	creatinine increased	0.02274908311665058
+trial_2	ibutilide	361	KG00098004	Fibrillation, Atrial	0.0222783163189888
+trial_2	ibutilide	422	KG00101429	Creatine phosphokinase increased	0.02204367145895958
+trial_2	ibutilide	269	KG00100399	pyaemia	0.021951688453555107
+trial_2	ibutilide	15	KG00097882	Angina pectoris NOS	0.021674949675798416
+trial_2	ibutilide	75	KG00100195	Dolens, Phlegmasia Alba	0.021559281274676323
+trial_2	ibutilide	382	KG00099200	haemorrhoids	0.0214853398501873
+trial_2	ibutilide	204	KG00098849	Esophagitis, Peptic	0.021386360749602318
+trial_2	ibutilide	339	KG00100334	proteinurias	0.02138538286089897
+trial_2	ibutilide	212	KG00100576	shivers	0.021317314356565475
+trial_2	ibutilide	356	KG00112623	Infectious Lung Disorders	0.021285230293869972
+trial_2	ibutilide	256	KG00100738	Tachycardia, Sinus	0.021125417202711105
+trial_2	ibutilide	130	KG00100683	Stomatitis NOS	0.019987067207694054
+trial_2	ibutilide	144	KG00099610	Leukopenia NOS	0.019441306591033936
+trial_2	ibutilide	503	KG00102612	low haemoglobin	0.01920173689723015

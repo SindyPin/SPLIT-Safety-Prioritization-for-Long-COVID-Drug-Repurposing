@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.13568547368049622
+trial_1	placebo	87	KG00098599	diarrhoea	0.12627746164798737
+trial_1	placebo	9	KG00098432	Confusion NOS	0.11994125694036484
+trial_1	placebo	20	KG00098540	dehydration	0.11645517498254776
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.11555539816617966
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.10913467407226562
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.10761819779872894
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09756994247436523
+trial_1	placebo	68	KG00099901	nauseas	0.09635752439498901
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.09086234867572784
+trial_1	placebo	21	KG00098675	dyspnoea	0.08993376046419144
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07913150638341904
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.0735260397195816
+trial_1	placebo	46	KG00099121	Headache NOS	0.0679343044757843
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06527577340602875
+trial_1	placebo	14	KG00097852	Anemia NOS	0.06440266966819763
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.06302525848150253
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06146346032619476
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05851215496659279
+trial_1	placebo	228	KG00114657	Weight below normal	0.056981638073921204
+trial_1	placebo	104	KG00097963	arthralgias	0.05539099872112274
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.055036600679159164
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.054428599774837494
+trial_1	placebo	86	KG00098565	Depression, Mental	0.053564026951789856
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0504443496465683
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04999538138508797
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.049179598689079285
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.04841327294707298
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.04688652232289314
+trial_1	placebo	466	KG00101205	fall	0.046282198280096054
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04584914445877075
+trial_1	placebo	239	KG00100128	pareses	0.045517124235630035
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.04519027844071388
+trial_1	placebo	126	KG00100076	Pain NOS	0.0443260557949543
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04384995624423027
+trial_1	placebo	114	KG00098933	fevers	0.043668314814567566
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04341268911957741
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04064550995826721
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04046821594238281
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.039970383048057556
+trial_1	placebo	85	KG00098474	coughs	0.03942079469561577
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.036320313811302185
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03577355667948723
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.035184346139431
+trial_1	placebo	5	KG00099169	haematuria	0.0350462906062603
+trial_1	placebo	102	KG00097916	anxieties	0.03477499261498451
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.03419479355216026
+trial_1	placebo	18	KG00098307	Pain, Chest	0.033585723489522934
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.033438242971897125
+trial_1	placebo	269	KG00100399	pyaemia	0.032324936240911484
+trial_1	placebo	164	KG00108827	ileus colon	0.032285433262586594
+trial_1	placebo	116	KG00098964	Pain in foot	0.03189123794436455
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.03182695806026459
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.03167891129851341
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03164992481470108
+trial_1	placebo	132	KG00101045	Gain, Weight	0.031195059418678284
+trial_1	placebo	147	KG00098000	atelectases	0.03022279217839241
+trial_1	placebo	262	KG00101199	agitation	0.029925117269158363
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.029736140742897987
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.029516858980059624
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.028960097581148148
+trial_1	placebo	66	KG00098642	drowsiness	0.028912413865327835
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.028747091069817543
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.028152940794825554
+trial_1	placebo	82	KG00097697	abdomen distended	0.027873719111084938
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.02766834758222103
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027632905170321465
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.027514426037669182
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.027411876246333122
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02732877805829048
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.026527373120188713
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.026256756857037544
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02624562941491604
+trial_1	placebo	221	KG00101207	peripheral oedema	0.025959262624382973
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.025827966630458832
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025604093447327614
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.02543431706726551
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.025256197899580002
+trial_1	placebo	72	KG00103771	myalgias	0.025103047490119934
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02492477186024189
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.024829238653182983
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.024669764563441277
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.023919297382235527
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.023827841505408287
+trial_1	placebo	456	KG00099420	Influenzae	0.02351982146501541
+trial_1	placebo	242	KG00100855	tremors	0.023476962000131607
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023158373311161995
+trial_1	placebo	186	KG00101431	creatinine increased	0.022867923602461815
+trial_1	placebo	203	KG00098661	dysarthrias	0.02259434014558792
+trial_1	placebo	11	KG00097993	Asthma NOS	0.02246524766087532
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022457901388406754
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02245422638952732
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.02242422290146351
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.022236434742808342
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.022212540730834007
+trial_1	placebo	508	KG00108565	blood glucose increased	0.02192891575396061
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021852973848581314
+trial_1	placebo	366	KG00098275	Attack, Transient Ischemic	0.02172752656042576
+trial_1	placebo	234	KG00098669	dysgeusias	0.021286049857735634
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.021059000864624977
+trial_2	istradefylline	78	KG00099326	Hypertensive diseases	0.13568547368049622
+trial_2	istradefylline	87	KG00098599	diarrhoea	0.12627746164798737
+trial_2	istradefylline	9	KG00098432	Confusion NOS	0.11994125694036484
+trial_2	istradefylline	20	KG00098540	dehydration	0.11645517498254776
+trial_2	istradefylline	173	KG00098172	Bronchopneumonia NOS	0.11555539816617966
+trial_2	istradefylline	17	KG00097991	Asthenia NOS	0.10913467407226562
+trial_2	istradefylline	49	KG00099902	nausea with vomiting	0.10761819779872894
+trial_2	istradefylline	123	KG00099351	hypokalaemia	0.09756994247436523
+trial_2	istradefylline	68	KG00099901	nauseas	0.09635752439498901
+trial_2	istradefylline	177	KG00099299	hyperglycaemia	0.09086234867572784
+trial_2	istradefylline	21	KG00098675	dyspnoea	0.08993376046419144
+trial_2	istradefylline	77	KG00098450	Constipation NOS	0.07913150638341904
+trial_2	istradefylline	189	KG00101580	Alanine aminotransferase increase	0.0735260397195816
+trial_2	istradefylline	46	KG00099121	Headache NOS	0.0679343044757843
+trial_2	istradefylline	79	KG00100317	Insomnia, Primary	0.06527577340602875
+trial_2	istradefylline	14	KG00097852	Anemia NOS	0.06440266966819763
+trial_2	istradefylline	37	KG00097696	Cramps, Abdominal	0.06302525848150253
+trial_2	istradefylline	67	KG00098673	Dyspepsia, NOS	0.06146346032619476
+trial_2	istradefylline	29	KG00099354	hyponatraemia	0.05851215496659279
+trial_2	istradefylline	228	KG00114657	Weight below normal	0.056981638073921204
+trial_2	istradefylline	104	KG00097963	arthralgias	0.05539099872112274
+trial_2	istradefylline	188	KG00101579	Aspartate aminotransferase increase	0.055036600679159164
+trial_2	istradefylline	151	KG00098274	Infarction, Cerebral	0.054428599774837494
+trial_2	istradefylline	86	KG00098565	Depression, Mental	0.053564026951789856
+trial_2	istradefylline	2	KG00100772	thrombocytopaenia	0.0504443496465683
+trial_2	istradefylline	200	KG00098539	Disorders, Deglutition	0.04999538138508797
+trial_2	istradefylline	28	KG00099347	hypoglycaemia	0.049179598689079285
+trial_2	istradefylline	61	KG00099501	Chronic Kidney Failure	0.04841327294707298
+trial_2	istradefylline	76	KG00100450	Respiratory insufficiency, NOS	0.04688652232289314
+trial_2	istradefylline	466	KG00101205	fall	0.046282198280096054
+trial_2	istradefylline	350	KG00106765	decreased platelet count	0.04584914445877075
+trial_2	istradefylline	239	KG00100128	pareses	0.045517124235630035
+trial_2	istradefylline	101	KG00097901	Anorexia NOS	0.04519027844071388
+trial_2	istradefylline	126	KG00100076	Pain NOS	0.0443260557949543
+trial_2	istradefylline	30	KG00099500	Acute Kidney Failure	0.04384995624423027
+trial_2	istradefylline	114	KG00098933	fevers	0.043668314814567566
+trial_2	istradefylline	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04341268911957741
+trial_2	istradefylline	180	KG00099363	Hypotension NOS	0.04064550995826721
+trial_2	istradefylline	64	KG00097734	Acrodermatitis, NOS	0.04046821594238281
+trial_2	istradefylline	38	KG00098066	Binocular vision disorders	0.039970383048057556
+trial_2	istradefylline	85	KG00098474	coughs	0.03942079469561577
+trial_2	istradefylline	131	KG00100948	Urinary tract infection (& [NOS])	0.036320313811302185
+trial_2	istradefylline	396	KG00100373	Embolism, Pulmonary	0.03577355667948723
+trial_2	istradefylline	96	KG00101679	Unattended death NOS	0.035184346139431
+trial_2	istradefylline	5	KG00099169	haematuria	0.0350462906062603
+trial_2	istradefylline	102	KG00097916	anxieties	0.03477499261498451
+trial_2	istradefylline	243	KG00100947	Micturition frequency increased	0.03419479355216026
+trial_2	istradefylline	18	KG00098307	Pain, Chest	0.033585723489522934
+trial_2	istradefylline	361	KG00098004	Fibrillation, Atrial	0.033438242971897125
+trial_2	istradefylline	269	KG00100399	pyaemia	0.032324936240911484
+trial_2	istradefylline	164	KG00108827	ileus colon	0.032285433262586594
+trial_2	istradefylline	116	KG00098964	Pain in foot	0.03189123794436455
+trial_2	istradefylline	194	KG00110727	Neutrophil Count Decreased	0.03182695806026459
+trial_2	istradefylline	286	KG00101110	Retention, Urinary	0.03167891129851341
+trial_2	istradefylline	27	KG00099303	hyperkalaemia	0.03164992481470108
+trial_2	istradefylline	132	KG00101045	Gain, Weight	0.031195059418678284
+trial_2	istradefylline	147	KG00098000	atelectases	0.03022279217839241
+trial_2	istradefylline	262	KG00101199	agitation	0.029925117269158363
+trial_2	istradefylline	422	KG00101429	Creatine phosphokinase increased	0.029736140742897987
+trial_2	istradefylline	139	KG00098855	Sinusitis, Ethmoid	0.029516858980059624
+trial_2	istradefylline	179	KG00099342	hypocalcaemia	0.028960097581148148
+trial_2	istradefylline	66	KG00098642	drowsiness	0.028912413865327835
+trial_2	istradefylline	261	KG00101559	raised alkaline phosphatase	0.028747091069817543
+trial_2	istradefylline	75	KG00100195	Dolens, Phlegmasia Alba	0.028152940794825554
+trial_2	istradefylline	82	KG00097697	abdomen distended	0.027873719111084938
+trial_2	istradefylline	33	KG00100094	Pancreatitis NOS	0.02766834758222103
+trial_2	istradefylline	441	KG00098262	cellulitis nos	0.027632905170321465
+trial_2	istradefylline	394	KG00100243	Pneumonia, Aspiration	0.027514426037669182
+trial_2	istradefylline	144	KG00099610	Leukopenia NOS	0.027411876246333122
+trial_2	istradefylline	15	KG00097882	Angina pectoris NOS	0.02732877805829048
+trial_2	istradefylline	118	KG00099011	Gastritis NOS	0.026527373120188713
+trial_2	istradefylline	31	KG00099872	Infarction, Myocardial	0.026256756857037544
+trial_2	istradefylline	204	KG00098849	Esophagitis, Peptic	0.02624562941491604
+trial_2	istradefylline	221	KG00101207	peripheral oedema	0.025959262624382973
+trial_2	istradefylline	253	KG00100232	Pleural effusion NOS (disorder)	0.025827966630458832
+trial_2	istradefylline	276	KG00099127	Arrest, Cardiac	0.025604093447327614
+trial_2	istradefylline	36	KG00106434	Vision, Blurring Of	0.02543431706726551
+trial_2	istradefylline	341	KG00101472	Gamma-glutamyltransferase increased	0.025256197899580002
+trial_2	istradefylline	72	KG00103771	myalgias	0.025103047490119934
+trial_2	istradefylline	191	KG00104055	Biliverdin increased	0.02492477186024189
+trial_2	istradefylline	371	KG00098517	Cystitis (NOS)	0.024829238653182983
+trial_2	istradefylline	122	KG00099321	Hypersensitivity NOS	0.024669764563441277
+trial_2	istradefylline	163	KG00104050	bowel obstructions small	0.023919297382235527
+trial_2	istradefylline	138	KG00098796	epidemic vomiting syndrome	0.023827841505408287
+trial_2	istradefylline	456	KG00099420	Influenzae	0.02351982146501541
+trial_2	istradefylline	242	KG00100855	tremors	0.023476962000131607
+trial_2	istradefylline	92	KG00100926	Infections, Upper Respiratory	0.023158373311161995
+trial_2	istradefylline	186	KG00101431	creatinine increased	0.022867923602461815
+trial_2	istradefylline	203	KG00098661	dysarthrias	0.02259434014558792
+trial_2	istradefylline	11	KG00097993	Asthma NOS	0.02246524766087532
+trial_2	istradefylline	154	KG00099686	Lymphopenias	0.022457901388406754
+trial_2	istradefylline	69	KG00100082	Palpitations NOS	0.02245422638952732
+trial_2	istradefylline	1	KG00099959	Neutropenia NOS	0.02242422290146351
+trial_2	istradefylline	98	KG00097718	Incised wound, NOS	0.022236434742808342
+trial_2	istradefylline	142	KG00100923	Unspecified infectious and parasitic diseases	0.022212540730834007
+trial_2	istradefylline	508	KG00108565	blood glucose increased	0.02192891575396061
+trial_2	istradefylline	199	KG00098371	Rhinitis (chronic) NOS	0.021852973848581314
+trial_2	istradefylline	366	KG00098275	Attack, Transient Ischemic	0.02172752656042576
+trial_2	istradefylline	234	KG00098669	dysgeusias	0.021286049857735634
+trial_2	istradefylline	356	KG00112623	Infectious Lung Disorders	0.021059000864624977

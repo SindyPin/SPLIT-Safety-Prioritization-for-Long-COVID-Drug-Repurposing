@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1413842737674713
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10519473999738693
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.10094598680734634
+trial_1	placebo	87	KG00098599	diarrhoea	0.09685336798429489
+trial_1	placebo	68	KG00099901	nauseas	0.08536021411418915
+trial_1	placebo	14	KG00097852	Anemia NOS	0.0847926139831543
+trial_1	placebo	21	KG00098675	dyspnoea	0.08271387219429016
+trial_1	placebo	20	KG00098540	dehydration	0.08138251304626465
+trial_1	placebo	123	KG00099351	hypokalaemia	0.08066745847463608
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07529057562351227
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.07464098185300827
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.0692664310336113
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.06877706944942474
+trial_1	placebo	228	KG00114657	Weight below normal	0.06747709214687347
+trial_1	placebo	46	KG00099121	Headache NOS	0.06338144093751907
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.06255047023296356
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.058034587651491165
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05799197033047676
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05606987699866295
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05557854101061821
+trial_1	placebo	114	KG00098933	fevers	0.055415403097867966
+trial_1	placebo	29	KG00099354	hyponatraemia	0.0492570698261261
+trial_1	placebo	86	KG00098565	Depression, Mental	0.047305621206760406
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04687925800681114
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.044997457414865494
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.043351396918296814
+trial_1	placebo	126	KG00100076	Pain NOS	0.04310033470392227
+trial_1	placebo	85	KG00098474	coughs	0.042246874421834946
+trial_1	placebo	77	KG00098450	Constipation NOS	0.04134102165699005
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.040161408483982086
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04015107825398445
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.03967982903122902
+trial_1	placebo	269	KG00100399	pyaemia	0.0390283465385437
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.037220049649477005
+trial_1	placebo	147	KG00098000	atelectases	0.036140065640211105
+trial_1	placebo	350	KG00106765	decreased platelet count	0.03607841953635216
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03553320840001106
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03518988937139511
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.03477571904659271
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.034060847014188766
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.03399583697319031
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.033544328063726425
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03318943828344345
+trial_1	placebo	104	KG00097963	arthralgias	0.032613981515169144
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.032443344593048096
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03229440376162529
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.03225627541542053
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03187289834022522
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.030061133205890656
+trial_1	placebo	441	KG00098262	cellulitis nos	0.029442710801959038
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.028516246005892754
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02839089371263981
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.02778496779501438
+trial_1	placebo	282	KG00099309	hypernatraemia	0.025495069101452827
+trial_1	placebo	5	KG00099169	haematuria	0.025477180257439613
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02522943541407585
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025178566575050354
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.02492414601147175
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.024381376802921295
+trial_1	placebo	239	KG00100128	pareses	0.024281824007630348
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.023845810443162918
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.023368632420897484
+trial_1	placebo	116	KG00098964	Pain in foot	0.023259252309799194
+trial_1	placebo	18	KG00098307	Pain, Chest	0.023146947845816612
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.02312023937702179
+trial_1	placebo	102	KG00097916	anxieties	0.023075861856341362
+trial_1	placebo	11	KG00097993	Asthma NOS	0.022664852440357208
+trial_1	placebo	121	KG00099190	haemorrhage	0.02224808745086193
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.021273281425237656
+trial_1	placebo	164	KG00108827	ileus colon	0.021233463659882545
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.020543105900287628
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02015409804880619
+trial_1	placebo	186	KG00101431	creatinine increased	0.01950724609196186
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.019499873742461205
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.018935352563858032
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018814563751220703
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.018677247688174248
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.01848318800330162
+trial_1	placebo	466	KG00101205	fall	0.018341125920414925
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.01797976717352867
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.017937274649739265
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.017671145498752594
+trial_1	placebo	25	KG00099134	congestive failures heart	0.017564428970217705
+trial_1	placebo	72	KG00103771	myalgias	0.01738346554338932
+trial_1	placebo	212	KG00100576	shivers	0.017047714442014694
+trial_1	placebo	82	KG00097697	abdomen distended	0.016620175912976265
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.016401732340455055
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.016050249338150024
+trial_1	placebo	154	KG00099686	Lymphopenias	0.0159640870988369
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.015856429934501648
+trial_1	placebo	262	KG00101199	agitation	0.015824561938643456
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.015780672430992126
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.015687987208366394
+trial_1	placebo	234	KG00098669	dysgeusias	0.015512747690081596
+trial_1	placebo	456	KG00099420	Influenzae	0.015377834439277649
+trial_1	placebo	221	KG00101207	peripheral oedema	0.015231095254421234
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.015126464888453484
+trial_1	placebo	425	KG00098146	Chronic Brain Damage	0.015032035298645496
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.014983272179961205
+trial_1	placebo	19	KG00098331	Cholecystitis NOS	0.014743173494935036
+trial_2	idoxuridine	78	KG00099326	Hypertensive diseases	0.1413842737674713
+trial_2	idoxuridine	177	KG00099299	hyperglycaemia	0.10519473999738693
+trial_2	idoxuridine	173	KG00098172	Bronchopneumonia NOS	0.10094598680734634
+trial_2	idoxuridine	87	KG00098599	diarrhoea	0.09685336798429489
+trial_2	idoxuridine	68	KG00099901	nauseas	0.08536021411418915
+trial_2	idoxuridine	14	KG00097852	Anemia NOS	0.0847926139831543
+trial_2	idoxuridine	21	KG00098675	dyspnoea	0.08271387219429016
+trial_2	idoxuridine	20	KG00098540	dehydration	0.08138251304626465
+trial_2	idoxuridine	123	KG00099351	hypokalaemia	0.08066745847463608
+trial_2	idoxuridine	9	KG00098432	Confusion NOS	0.07529057562351227
+trial_2	idoxuridine	49	KG00099902	nausea with vomiting	0.07464098185300827
+trial_2	idoxuridine	2	KG00100772	thrombocytopaenia	0.0692664310336113
+trial_2	idoxuridine	17	KG00097991	Asthenia NOS	0.06877706944942474
+trial_2	idoxuridine	228	KG00114657	Weight below normal	0.06747709214687347
+trial_2	idoxuridine	46	KG00099121	Headache NOS	0.06338144093751907
+trial_2	idoxuridine	79	KG00100317	Insomnia, Primary	0.06255047023296356
+trial_2	idoxuridine	64	KG00097734	Acrodermatitis, NOS	0.058034587651491165
+trial_2	idoxuridine	37	KG00097696	Cramps, Abdominal	0.05799197033047676
+trial_2	idoxuridine	189	KG00101580	Alanine aminotransferase increase	0.05606987699866295
+trial_2	idoxuridine	61	KG00099501	Chronic Kidney Failure	0.05557854101061821
+trial_2	idoxuridine	114	KG00098933	fevers	0.055415403097867966
+trial_2	idoxuridine	29	KG00099354	hyponatraemia	0.0492570698261261
+trial_2	idoxuridine	86	KG00098565	Depression, Mental	0.047305621206760406
+trial_2	idoxuridine	151	KG00098274	Infarction, Cerebral	0.04687925800681114
+trial_2	idoxuridine	180	KG00099363	Hypotension NOS	0.044997457414865494
+trial_2	idoxuridine	30	KG00099500	Acute Kidney Failure	0.043351396918296814
+trial_2	idoxuridine	126	KG00100076	Pain NOS	0.04310033470392227
+trial_2	idoxuridine	85	KG00098474	coughs	0.042246874421834946
+trial_2	idoxuridine	77	KG00098450	Constipation NOS	0.04134102165699005
+trial_2	idoxuridine	200	KG00098539	Disorders, Deglutition	0.040161408483982086
+trial_2	idoxuridine	96	KG00101679	Unattended death NOS	0.04015107825398445
+trial_2	idoxuridine	188	KG00101579	Aspartate aminotransferase increase	0.03967982903122902
+trial_2	idoxuridine	269	KG00100399	pyaemia	0.0390283465385437
+trial_2	idoxuridine	76	KG00100450	Respiratory insufficiency, NOS	0.037220049649477005
+trial_2	idoxuridine	147	KG00098000	atelectases	0.036140065640211105
+trial_2	idoxuridine	350	KG00106765	decreased platelet count	0.03607841953635216
+trial_2	idoxuridine	131	KG00100948	Urinary tract infection (& [NOS])	0.03553320840001106
+trial_2	idoxuridine	396	KG00100373	Embolism, Pulmonary	0.03518988937139511
+trial_2	idoxuridine	142	KG00100923	Unspecified infectious and parasitic diseases	0.03477571904659271
+trial_2	idoxuridine	38	KG00098066	Binocular vision disorders	0.034060847014188766
+trial_2	idoxuridine	67	KG00098673	Dyspepsia, NOS	0.03399583697319031
+trial_2	idoxuridine	75	KG00100195	Dolens, Phlegmasia Alba	0.033544328063726425
+trial_2	idoxuridine	27	KG00099303	hyperkalaemia	0.03318943828344345
+trial_2	idoxuridine	104	KG00097963	arthralgias	0.032613981515169144
+trial_2	idoxuridine	101	KG00097901	Anorexia NOS	0.032443344593048096
+trial_2	idoxuridine	139	KG00098855	Sinusitis, Ethmoid	0.03229440376162529
+trial_2	idoxuridine	28	KG00099347	hypoglycaemia	0.03225627541542053
+trial_2	idoxuridine	276	KG00099127	Arrest, Cardiac	0.03187289834022522
+trial_2	idoxuridine	31	KG00099872	Infarction, Myocardial	0.030061133205890656
+trial_2	idoxuridine	441	KG00098262	cellulitis nos	0.029442710801959038
+trial_2	idoxuridine	1	KG00099959	Neutropenia NOS	0.028516246005892754
+trial_2	idoxuridine	361	KG00098004	Fibrillation, Atrial	0.02839089371263981
+trial_2	idoxuridine	122	KG00099321	Hypersensitivity NOS	0.02778496779501438
+trial_2	idoxuridine	282	KG00099309	hypernatraemia	0.025495069101452827
+trial_2	idoxuridine	5	KG00099169	haematuria	0.025477180257439613
+trial_2	idoxuridine	144	KG00099610	Leukopenia NOS	0.02522943541407585
+trial_2	idoxuridine	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.025178566575050354
+trial_2	idoxuridine	179	KG00099342	hypocalcaemia	0.02492414601147175
+trial_2	idoxuridine	253	KG00100232	Pleural effusion NOS (disorder)	0.024381376802921295
+trial_2	idoxuridine	239	KG00100128	pareses	0.024281824007630348
+trial_2	idoxuridine	194	KG00110727	Neutrophil Count Decreased	0.023845810443162918
+trial_2	idoxuridine	92	KG00100926	Infections, Upper Respiratory	0.023368632420897484
+trial_2	idoxuridine	116	KG00098964	Pain in foot	0.023259252309799194
+trial_2	idoxuridine	18	KG00098307	Pain, Chest	0.023146947845816612
+trial_2	idoxuridine	268	KG00099557	Heart Failure, Left-Sided	0.02312023937702179
+trial_2	idoxuridine	102	KG00097916	anxieties	0.023075861856341362
+trial_2	idoxuridine	11	KG00097993	Asthma NOS	0.022664852440357208
+trial_2	idoxuridine	121	KG00099190	haemorrhage	0.02224808745086193
+trial_2	idoxuridine	138	KG00098796	epidemic vomiting syndrome	0.021273281425237656
+trial_2	idoxuridine	164	KG00108827	ileus colon	0.021233463659882545
+trial_2	idoxuridine	33	KG00100094	Pancreatitis NOS	0.020543105900287628
+trial_2	idoxuridine	69	KG00100082	Palpitations NOS	0.02015409804880619
+trial_2	idoxuridine	186	KG00101431	creatinine increased	0.01950724609196186
+trial_2	idoxuridine	261	KG00101559	raised alkaline phosphatase	0.019499873742461205
+trial_2	idoxuridine	191	KG00104055	Biliverdin increased	0.018935352563858032
+trial_2	idoxuridine	211	KG00100341	Pruritus NOS	0.018814563751220703
+trial_2	idoxuridine	130	KG00100683	Stomatitis NOS	0.018677247688174248
+trial_2	idoxuridine	15	KG00097882	Angina pectoris NOS	0.01848318800330162
+trial_2	idoxuridine	466	KG00101205	fall	0.018341125920414925
+trial_2	idoxuridine	288	KG00101223	hypophosphataemia	0.01797976717352867
+trial_2	idoxuridine	243	KG00100947	Micturition frequency increased	0.017937274649739265
+trial_2	idoxuridine	249	KG00104430	hypoalbuminaemia	0.017671145498752594
+trial_2	idoxuridine	25	KG00099134	congestive failures heart	0.017564428970217705
+trial_2	idoxuridine	72	KG00103771	myalgias	0.01738346554338932
+trial_2	idoxuridine	212	KG00100576	shivers	0.017047714442014694
+trial_2	idoxuridine	82	KG00097697	abdomen distended	0.016620175912976265
+trial_2	idoxuridine	286	KG00101110	Retention, Urinary	0.016401732340455055
+trial_2	idoxuridine	356	KG00112623	Infectious Lung Disorders	0.016050249338150024
+trial_2	idoxuridine	154	KG00099686	Lymphopenias	0.0159640870988369
+trial_2	idoxuridine	204	KG00098849	Esophagitis, Peptic	0.015856429934501648
+trial_2	idoxuridine	262	KG00101199	agitation	0.015824561938643456
+trial_2	idoxuridine	254	KG00100774	Thrombosis NOS	0.015780672430992126
+trial_2	idoxuridine	494	KG00099838	Organ Failure, Multiple	0.015687987208366394
+trial_2	idoxuridine	234	KG00098669	dysgeusias	0.015512747690081596
+trial_2	idoxuridine	456	KG00099420	Influenzae	0.015377834439277649
+trial_2	idoxuridine	221	KG00101207	peripheral oedema	0.015231095254421234
+trial_2	idoxuridine	163	KG00104050	bowel obstructions small	0.015126464888453484
+trial_2	idoxuridine	425	KG00098146	Chronic Brain Damage	0.015032035298645496
+trial_2	idoxuridine	394	KG00100243	Pneumonia, Aspiration	0.014983272179961205
+trial_2	idoxuridine	19	KG00098331	Cholecystitis NOS	0.014743173494935036

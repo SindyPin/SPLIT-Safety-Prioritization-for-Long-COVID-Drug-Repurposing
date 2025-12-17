@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.1697407364845276
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.15978117287158966
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.1297869086265564
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.1265314370393753
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.12629355490207672
+trial_1	placebo	9	KG00098432	Confusion NOS	0.12428975850343704
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.11074977368116379
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1067662164568901
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.1051500216126442
+trial_1	placebo	21	KG00098675	dyspnoea	0.10439147055149078
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0965600237250328
+trial_1	placebo	20	KG00098540	dehydration	0.09287700802087784
+trial_1	placebo	46	KG00099121	Headache NOS	0.09114865958690643
+trial_1	placebo	114	KG00098933	fevers	0.09090098738670349
+trial_1	placebo	228	KG00114657	Weight below normal	0.0906074196100235
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08785597234964371
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08683328330516815
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08425287157297134
+trial_1	placebo	68	KG00099901	nauseas	0.08022885024547577
+trial_1	placebo	77	KG00098450	Constipation NOS	0.07988449186086655
+trial_1	placebo	14	KG00097852	Anemia NOS	0.07808145880699158
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.07643981277942657
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.07442934066057205
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07413603365421295
+trial_1	placebo	350	KG00106765	decreased platelet count	0.06906744092702866
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06711927056312561
+trial_1	placebo	104	KG00097963	arthralgias	0.06618648022413254
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.0660044327378273
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06517277657985687
+trial_1	placebo	85	KG00098474	coughs	0.06434118002653122
+trial_1	placebo	29	KG00099354	hyponatraemia	0.06060236319899559
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.058367930352687836
+trial_1	placebo	239	KG00100128	pareses	0.05786832422018051
+trial_1	placebo	126	KG00100076	Pain NOS	0.05649154633283615
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.05579116567969322
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.05524620786309242
+trial_1	placebo	72	KG00103771	myalgias	0.054516375064849854
+trial_1	placebo	5	KG00099169	haematuria	0.04941499978303909
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.049227435141801834
+trial_1	placebo	132	KG00101045	Gain, Weight	0.0487271286547184
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.04785950854420662
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.046862926334142685
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04472554847598076
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04412525147199631
+trial_1	placebo	102	KG00097916	anxieties	0.04405849799513817
+trial_1	placebo	466	KG00101205	fall	0.043286070227622986
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.043170325458049774
+trial_1	placebo	116	KG00098964	Pain in foot	0.042266953736543655
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04224281385540962
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04218653589487076
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.042149532586336136
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.04191616550087929
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.041832637041807175
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.041149042546749115
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.04078122228384018
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04042084142565727
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.03934761509299278
+trial_1	placebo	262	KG00101199	agitation	0.0387737937271595
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03776034712791443
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03748156875371933
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.03713659569621086
+trial_1	placebo	18	KG00098307	Pain, Chest	0.036414243280887604
+trial_1	placebo	269	KG00100399	pyaemia	0.035415731370449066
+trial_1	placebo	147	KG00098000	atelectases	0.03488180413842201
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03472733497619629
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.034550126641988754
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03450186178088188
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.03356515243649483
+trial_1	placebo	154	KG00099686	Lymphopenias	0.033440347760915756
+trial_1	placebo	456	KG00099420	Influenzae	0.03341932222247124
+trial_1	placebo	441	KG00098262	cellulitis nos	0.033170364797115326
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03264475241303444
+trial_1	placebo	82	KG00097697	abdomen distended	0.03243247792124748
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03183187171816826
+trial_1	placebo	11	KG00097993	Asthma NOS	0.03180420398712158
+trial_1	placebo	100	KG00097815	alopecias	0.031096095219254494
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03075609728693962
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.030608968809247017
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.030510008335113525
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.030312106013298035
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.029894748702645302
+trial_1	placebo	508	KG00108565	blood glucose increased	0.029370639473199844
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.029084131121635437
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02905864641070366
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.028561417013406754
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.02855747565627098
+trial_1	placebo	164	KG00108827	ileus colon	0.028549671173095703
+trial_1	placebo	234	KG00098669	dysgeusias	0.02835223451256752
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.028278572484850883
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02728753723204136
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.027235276997089386
+trial_1	placebo	153	KG00099579	lethargy	0.02697381004691124
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.026761643588542938
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.02632630243897438
+trial_1	placebo	186	KG00101431	creatinine increased	0.02612941339612007
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.026109710335731506
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.025528185069561005
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.025379078462719917
+trial_1	placebo	363	KG00098184	burns injury	0.025137413293123245
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024889450520277023
+trial_2	iproniazid	87	KG00098599	diarrhoea	0.1697407364845276
+trial_2	iproniazid	78	KG00099326	Hypertensive diseases	0.15978117287158966
+trial_2	iproniazid	173	KG00098172	Bronchopneumonia NOS	0.1297869086265564
+trial_2	iproniazid	17	KG00097991	Asthenia NOS	0.1265314370393753
+trial_2	iproniazid	189	KG00101580	Alanine aminotransferase increase	0.12629355490207672
+trial_2	iproniazid	9	KG00098432	Confusion NOS	0.12428975850343704
+trial_2	iproniazid	188	KG00101579	Aspartate aminotransferase increase	0.11074977368116379
+trial_2	iproniazid	177	KG00099299	hyperglycaemia	0.1067662164568901
+trial_2	iproniazid	37	KG00097696	Cramps, Abdominal	0.1051500216126442
+trial_2	iproniazid	21	KG00098675	dyspnoea	0.10439147055149078
+trial_2	iproniazid	123	KG00099351	hypokalaemia	0.0965600237250328
+trial_2	iproniazid	20	KG00098540	dehydration	0.09287700802087784
+trial_2	iproniazid	46	KG00099121	Headache NOS	0.09114865958690643
+trial_2	iproniazid	114	KG00098933	fevers	0.09090098738670349
+trial_2	iproniazid	228	KG00114657	Weight below normal	0.0906074196100235
+trial_2	iproniazid	64	KG00097734	Acrodermatitis, NOS	0.08785597234964371
+trial_2	iproniazid	49	KG00099902	nausea with vomiting	0.08683328330516815
+trial_2	iproniazid	79	KG00100317	Insomnia, Primary	0.08425287157297134
+trial_2	iproniazid	68	KG00099901	nauseas	0.08022885024547577
+trial_2	iproniazid	77	KG00098450	Constipation NOS	0.07988449186086655
+trial_2	iproniazid	14	KG00097852	Anemia NOS	0.07808145880699158
+trial_2	iproniazid	2	KG00100772	thrombocytopaenia	0.07643981277942657
+trial_2	iproniazid	67	KG00098673	Dyspepsia, NOS	0.07442934066057205
+trial_2	iproniazid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.07413603365421295
+trial_2	iproniazid	350	KG00106765	decreased platelet count	0.06906744092702866
+trial_2	iproniazid	86	KG00098565	Depression, Mental	0.06711927056312561
+trial_2	iproniazid	104	KG00097963	arthralgias	0.06618648022413254
+trial_2	iproniazid	200	KG00098539	Disorders, Deglutition	0.0660044327378273
+trial_2	iproniazid	101	KG00097901	Anorexia NOS	0.06517277657985687
+trial_2	iproniazid	85	KG00098474	coughs	0.06434118002653122
+trial_2	iproniazid	29	KG00099354	hyponatraemia	0.06060236319899559
+trial_2	iproniazid	151	KG00098274	Infarction, Cerebral	0.058367930352687836
+trial_2	iproniazid	239	KG00100128	pareses	0.05786832422018051
+trial_2	iproniazid	126	KG00100076	Pain NOS	0.05649154633283615
+trial_2	iproniazid	194	KG00110727	Neutrophil Count Decreased	0.05579116567969322
+trial_2	iproniazid	243	KG00100947	Micturition frequency increased	0.05524620786309242
+trial_2	iproniazid	72	KG00103771	myalgias	0.054516375064849854
+trial_2	iproniazid	5	KG00099169	haematuria	0.04941499978303909
+trial_2	iproniazid	76	KG00100450	Respiratory insufficiency, NOS	0.049227435141801834
+trial_2	iproniazid	132	KG00101045	Gain, Weight	0.0487271286547184
+trial_2	iproniazid	139	KG00098855	Sinusitis, Ethmoid	0.04785950854420662
+trial_2	iproniazid	122	KG00099321	Hypersensitivity NOS	0.046862926334142685
+trial_2	iproniazid	1	KG00099959	Neutropenia NOS	0.04472554847598076
+trial_2	iproniazid	38	KG00098066	Binocular vision disorders	0.04412525147199631
+trial_2	iproniazid	102	KG00097916	anxieties	0.04405849799513817
+trial_2	iproniazid	466	KG00101205	fall	0.043286070227622986
+trial_2	iproniazid	179	KG00099342	hypocalcaemia	0.043170325458049774
+trial_2	iproniazid	116	KG00098964	Pain in foot	0.042266953736543655
+trial_2	iproniazid	30	KG00099500	Acute Kidney Failure	0.04224281385540962
+trial_2	iproniazid	96	KG00101679	Unattended death NOS	0.04218653589487076
+trial_2	iproniazid	131	KG00100948	Urinary tract infection (& [NOS])	0.042149532586336136
+trial_2	iproniazid	144	KG00099610	Leukopenia NOS	0.04191616550087929
+trial_2	iproniazid	28	KG00099347	hypoglycaemia	0.041832637041807175
+trial_2	iproniazid	61	KG00099501	Chronic Kidney Failure	0.041149042546749115
+trial_2	iproniazid	341	KG00101472	Gamma-glutamyltransferase increased	0.04078122228384018
+trial_2	iproniazid	180	KG00099363	Hypotension NOS	0.04042084142565727
+trial_2	iproniazid	261	KG00101559	raised alkaline phosphatase	0.03934761509299278
+trial_2	iproniazid	262	KG00101199	agitation	0.0387737937271595
+trial_2	iproniazid	27	KG00099303	hyperkalaemia	0.03776034712791443
+trial_2	iproniazid	396	KG00100373	Embolism, Pulmonary	0.03748156875371933
+trial_2	iproniazid	355	KG00110857	lymphocyte count decreased	0.03713659569621086
+trial_2	iproniazid	18	KG00098307	Pain, Chest	0.036414243280887604
+trial_2	iproniazid	269	KG00100399	pyaemia	0.035415731370449066
+trial_2	iproniazid	147	KG00098000	atelectases	0.03488180413842201
+trial_2	iproniazid	69	KG00100082	Palpitations NOS	0.03472733497619629
+trial_2	iproniazid	191	KG00104055	Biliverdin increased	0.034550126641988754
+trial_2	iproniazid	92	KG00100926	Infections, Upper Respiratory	0.03450186178088188
+trial_2	iproniazid	97	KG00104198	LIVER ENZYME ELEVATED	0.03356515243649483
+trial_2	iproniazid	154	KG00099686	Lymphopenias	0.033440347760915756
+trial_2	iproniazid	456	KG00099420	Influenzae	0.03341932222247124
+trial_2	iproniazid	441	KG00098262	cellulitis nos	0.033170364797115326
+trial_2	iproniazid	276	KG00099127	Arrest, Cardiac	0.03264475241303444
+trial_2	iproniazid	82	KG00097697	abdomen distended	0.03243247792124748
+trial_2	iproniazid	282	KG00099309	hypernatraemia	0.03183187171816826
+trial_2	iproniazid	11	KG00097993	Asthma NOS	0.03180420398712158
+trial_2	iproniazid	100	KG00097815	alopecias	0.031096095219254494
+trial_2	iproniazid	422	KG00101429	Creatine phosphokinase increased	0.03075609728693962
+trial_2	iproniazid	98	KG00097718	Incised wound, NOS	0.030608968809247017
+trial_2	iproniazid	142	KG00100923	Unspecified infectious and parasitic diseases	0.030510008335113525
+trial_2	iproniazid	36	KG00106434	Vision, Blurring Of	0.030312106013298035
+trial_2	iproniazid	75	KG00100195	Dolens, Phlegmasia Alba	0.029894748702645302
+trial_2	iproniazid	508	KG00108565	blood glucose increased	0.029370639473199844
+trial_2	iproniazid	204	KG00098849	Esophagitis, Peptic	0.029084131121635437
+trial_2	iproniazid	253	KG00100232	Pleural effusion NOS (disorder)	0.02905864641070366
+trial_2	iproniazid	361	KG00098004	Fibrillation, Atrial	0.028561417013406754
+trial_2	iproniazid	199	KG00098371	Rhinitis (chronic) NOS	0.02855747565627098
+trial_2	iproniazid	164	KG00108827	ileus colon	0.028549671173095703
+trial_2	iproniazid	234	KG00098669	dysgeusias	0.02835223451256752
+trial_2	iproniazid	138	KG00098796	epidemic vomiting syndrome	0.028278572484850883
+trial_2	iproniazid	15	KG00097882	Angina pectoris NOS	0.02728753723204136
+trial_2	iproniazid	130	KG00100683	Stomatitis NOS	0.027235276997089386
+trial_2	iproniazid	153	KG00099579	lethargy	0.02697381004691124
+trial_2	iproniazid	33	KG00100094	Pancreatitis NOS	0.026761643588542938
+trial_2	iproniazid	371	KG00098517	Cystitis (NOS)	0.02632630243897438
+trial_2	iproniazid	186	KG00101431	creatinine increased	0.02612941339612007
+trial_2	iproniazid	297	KG00099294	hypercholesterolaemia	0.026109710335731506
+trial_2	iproniazid	356	KG00112623	Infectious Lung Disorders	0.025528185069561005
+trial_2	iproniazid	211	KG00100341	Pruritus NOS	0.025379078462719917
+trial_2	iproniazid	363	KG00098184	burns injury	0.025137413293123245
+trial_2	iproniazid	249	KG00104430	hypoalbuminaemia	0.024889450520277023

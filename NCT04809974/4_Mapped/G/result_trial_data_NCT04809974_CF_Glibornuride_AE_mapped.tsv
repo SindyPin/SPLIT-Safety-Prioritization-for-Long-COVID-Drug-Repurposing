@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.24337342381477356
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.21651829779148102
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14818285405635834
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.1438702493906021
+trial_1	placebo	20	KG00098540	dehydration	0.1288769543170929
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.12746405601501465
+trial_1	placebo	123	KG00099351	hypokalaemia	0.12417709827423096
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1210961863398552
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.11135151982307434
+trial_1	placebo	228	KG00114657	Weight below normal	0.10695954412221909
+trial_1	placebo	68	KG00099901	nauseas	0.09923901408910751
+trial_1	placebo	21	KG00098675	dyspnoea	0.09816866368055344
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.0966900885105133
+trial_1	placebo	46	KG00099121	Headache NOS	0.0954609215259552
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09538035839796066
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.09375683963298798
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08705466240644455
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08559998869895935
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.08441738784313202
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.08240880817174911
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.08126025646924973
+trial_1	placebo	29	KG00099354	hyponatraemia	0.07841673493385315
+trial_1	placebo	14	KG00097852	Anemia NOS	0.078369140625
+trial_1	placebo	350	KG00106765	decreased platelet count	0.07362314313650131
+trial_1	placebo	239	KG00100128	pareses	0.06854971498250961
+trial_1	placebo	86	KG00098565	Depression, Mental	0.06803848594427109
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.06627193838357925
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.06567167490720749
+trial_1	placebo	104	KG00097963	arthralgias	0.06397588551044464
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.06377176940441132
+trial_1	placebo	126	KG00100076	Pain NOS	0.06376644223928452
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.06369850039482117
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06307964026927948
+trial_1	placebo	85	KG00098474	coughs	0.06015065312385559
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.0586797297000885
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.0579991340637207
+trial_1	placebo	114	KG00098933	fevers	0.056445956230163574
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.05532754957675934
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.05420265346765518
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.05392967909574509
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.05373351275920868
+trial_1	placebo	132	KG00101045	Gain, Weight	0.053173430263996124
+trial_1	placebo	5	KG00099169	haematuria	0.05127045512199402
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.05011347308754921
+trial_1	placebo	72	KG00103771	myalgias	0.04831961169838905
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.047944314777851105
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.04774902015924454
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.04541986063122749
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.04527093842625618
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.04494722560048103
+trial_1	placebo	116	KG00098964	Pain in foot	0.04445014148950577
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.04332955554127693
+trial_1	placebo	147	KG00098000	atelectases	0.04277510941028595
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.04254947975277901
+trial_1	placebo	262	KG00101199	agitation	0.04237820953130722
+trial_1	placebo	102	KG00097916	anxieties	0.04142561927437782
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.04119448363780975
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.04086270183324814
+trial_1	placebo	82	KG00097697	abdomen distended	0.040033742785453796
+trial_1	placebo	466	KG00101205	fall	0.0391438789665699
+trial_1	placebo	282	KG00099309	hypernatraemia	0.03891218826174736
+trial_1	placebo	18	KG00098307	Pain, Chest	0.0374760739505291
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.03643227368593216
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.03620166704058647
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.03522725775837898
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.03482673317193985
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.03481123968958855
+trial_1	placebo	269	KG00100399	pyaemia	0.034712739288806915
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.034586526453495026
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.03431794047355652
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.03310637176036835
+trial_1	placebo	441	KG00098262	cellulitis nos	0.032977309077978134
+trial_1	placebo	164	KG00108827	ileus colon	0.032858844846487045
+trial_1	placebo	242	KG00100855	tremors	0.032710377126932144
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.03241540864109993
+trial_1	placebo	339	KG00100334	proteinurias	0.032229792326688766
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.032218676060438156
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.032158322632312775
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.032114382833242416
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.03131509944796562
+trial_1	placebo	508	KG00108565	blood glucose increased	0.030198726803064346
+trial_1	placebo	154	KG00099686	Lymphopenias	0.029967578127980232
+trial_1	placebo	121	KG00099190	haemorrhage	0.029817111790180206
+trial_1	placebo	234	KG00098669	dysgeusias	0.02978752739727497
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02968776412308216
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.029527384787797928
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.02937769703567028
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02919105812907219
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.029049990698695183
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.02887176349759102
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.028759781271219254
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.02833355776965618
+trial_1	placebo	186	KG00101431	creatinine increased	0.028177017346024513
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.028086064383387566
+trial_1	placebo	221	KG00101207	peripheral oedema	0.027954205870628357
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.027741778641939163
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.02726103365421295
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.027209678664803505
+trial_1	placebo	456	KG00099420	Influenzae	0.02717927284538746
+trial_1	placebo	11	KG00097993	Asthma NOS	0.026255952194333076
+trial_2	glibornuride	87	KG00098599	diarrhoea	0.24337342381477356
+trial_2	glibornuride	78	KG00099326	Hypertensive diseases	0.21651829779148102
+trial_2	glibornuride	17	KG00097991	Asthenia NOS	0.14818285405635834
+trial_2	glibornuride	177	KG00099299	hyperglycaemia	0.1438702493906021
+trial_2	glibornuride	20	KG00098540	dehydration	0.1288769543170929
+trial_2	glibornuride	173	KG00098172	Bronchopneumonia NOS	0.12746405601501465
+trial_2	glibornuride	123	KG00099351	hypokalaemia	0.12417709827423096
+trial_2	glibornuride	9	KG00098432	Confusion NOS	0.1210961863398552
+trial_2	glibornuride	189	KG00101580	Alanine aminotransferase increase	0.11135151982307434
+trial_2	glibornuride	228	KG00114657	Weight below normal	0.10695954412221909
+trial_2	glibornuride	68	KG00099901	nauseas	0.09923901408910751
+trial_2	glibornuride	21	KG00098675	dyspnoea	0.09816866368055344
+trial_2	glibornuride	188	KG00101579	Aspartate aminotransferase increase	0.0966900885105133
+trial_2	glibornuride	46	KG00099121	Headache NOS	0.0954609215259552
+trial_2	glibornuride	67	KG00098673	Dyspepsia, NOS	0.09538035839796066
+trial_2	glibornuride	49	KG00099902	nausea with vomiting	0.09375683963298798
+trial_2	glibornuride	37	KG00097696	Cramps, Abdominal	0.08705466240644455
+trial_2	glibornuride	77	KG00098450	Constipation NOS	0.08559998869895935
+trial_2	glibornuride	200	KG00098539	Disorders, Deglutition	0.08441738784313202
+trial_2	glibornuride	79	KG00100317	Insomnia, Primary	0.08240880817174911
+trial_2	glibornuride	64	KG00097734	Acrodermatitis, NOS	0.08126025646924973
+trial_2	glibornuride	29	KG00099354	hyponatraemia	0.07841673493385315
+trial_2	glibornuride	14	KG00097852	Anemia NOS	0.078369140625
+trial_2	glibornuride	350	KG00106765	decreased platelet count	0.07362314313650131
+trial_2	glibornuride	239	KG00100128	pareses	0.06854971498250961
+trial_2	glibornuride	86	KG00098565	Depression, Mental	0.06803848594427109
+trial_2	glibornuride	28	KG00099347	hypoglycaemia	0.06627193838357925
+trial_2	glibornuride	243	KG00100947	Micturition frequency increased	0.06567167490720749
+trial_2	glibornuride	104	KG00097963	arthralgias	0.06397588551044464
+trial_2	glibornuride	101	KG00097901	Anorexia NOS	0.06377176940441132
+trial_2	glibornuride	126	KG00100076	Pain NOS	0.06376644223928452
+trial_2	glibornuride	76	KG00100450	Respiratory insufficiency, NOS	0.06369850039482117
+trial_2	glibornuride	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.06307964026927948
+trial_2	glibornuride	85	KG00098474	coughs	0.06015065312385559
+trial_2	glibornuride	180	KG00099363	Hypotension NOS	0.0586797297000885
+trial_2	glibornuride	151	KG00098274	Infarction, Cerebral	0.0579991340637207
+trial_2	glibornuride	114	KG00098933	fevers	0.056445956230163574
+trial_2	glibornuride	179	KG00099342	hypocalcaemia	0.05532754957675934
+trial_2	glibornuride	61	KG00099501	Chronic Kidney Failure	0.05420265346765518
+trial_2	glibornuride	2	KG00100772	thrombocytopaenia	0.05392967909574509
+trial_2	glibornuride	27	KG00099303	hyperkalaemia	0.05373351275920868
+trial_2	glibornuride	132	KG00101045	Gain, Weight	0.053173430263996124
+trial_2	glibornuride	5	KG00099169	haematuria	0.05127045512199402
+trial_2	glibornuride	139	KG00098855	Sinusitis, Ethmoid	0.05011347308754921
+trial_2	glibornuride	72	KG00103771	myalgias	0.04831961169838905
+trial_2	glibornuride	122	KG00099321	Hypersensitivity NOS	0.047944314777851105
+trial_2	glibornuride	131	KG00100948	Urinary tract infection (& [NOS])	0.04774902015924454
+trial_2	glibornuride	38	KG00098066	Binocular vision disorders	0.04541986063122749
+trial_2	glibornuride	30	KG00099500	Acute Kidney Failure	0.04527093842625618
+trial_2	glibornuride	194	KG00110727	Neutrophil Count Decreased	0.04494722560048103
+trial_2	glibornuride	116	KG00098964	Pain in foot	0.04445014148950577
+trial_2	glibornuride	355	KG00110857	lymphocyte count decreased	0.04332955554127693
+trial_2	glibornuride	147	KG00098000	atelectases	0.04277510941028595
+trial_2	glibornuride	96	KG00101679	Unattended death NOS	0.04254947975277901
+trial_2	glibornuride	262	KG00101199	agitation	0.04237820953130722
+trial_2	glibornuride	102	KG00097916	anxieties	0.04142561927437782
+trial_2	glibornuride	36	KG00106434	Vision, Blurring Of	0.04119448363780975
+trial_2	glibornuride	261	KG00101559	raised alkaline phosphatase	0.04086270183324814
+trial_2	glibornuride	82	KG00097697	abdomen distended	0.040033742785453796
+trial_2	glibornuride	466	KG00101205	fall	0.0391438789665699
+trial_2	glibornuride	282	KG00099309	hypernatraemia	0.03891218826174736
+trial_2	glibornuride	18	KG00098307	Pain, Chest	0.0374760739505291
+trial_2	glibornuride	204	KG00098849	Esophagitis, Peptic	0.03643227368593216
+trial_2	glibornuride	396	KG00100373	Embolism, Pulmonary	0.03620166704058647
+trial_2	glibornuride	191	KG00104055	Biliverdin increased	0.03522725775837898
+trial_2	glibornuride	276	KG00099127	Arrest, Cardiac	0.03482673317193985
+trial_2	glibornuride	35	KG00101507	hypomagnesaemia	0.03481123968958855
+trial_2	glibornuride	269	KG00100399	pyaemia	0.034712739288806915
+trial_2	glibornuride	249	KG00104430	hypoalbuminaemia	0.034586526453495026
+trial_2	glibornuride	69	KG00100082	Palpitations NOS	0.03431794047355652
+trial_2	glibornuride	92	KG00100926	Infections, Upper Respiratory	0.03310637176036835
+trial_2	glibornuride	441	KG00098262	cellulitis nos	0.032977309077978134
+trial_2	glibornuride	164	KG00108827	ileus colon	0.032858844846487045
+trial_2	glibornuride	242	KG00100855	tremors	0.032710377126932144
+trial_2	glibornuride	288	KG00101223	hypophosphataemia	0.03241540864109993
+trial_2	glibornuride	339	KG00100334	proteinurias	0.032229792326688766
+trial_2	glibornuride	33	KG00100094	Pancreatitis NOS	0.032218676060438156
+trial_2	glibornuride	341	KG00101472	Gamma-glutamyltransferase increased	0.032158322632312775
+trial_2	glibornuride	142	KG00100923	Unspecified infectious and parasitic diseases	0.032114382833242416
+trial_2	glibornuride	422	KG00101429	Creatine phosphokinase increased	0.03131509944796562
+trial_2	glibornuride	508	KG00108565	blood glucose increased	0.030198726803064346
+trial_2	glibornuride	154	KG00099686	Lymphopenias	0.029967578127980232
+trial_2	glibornuride	121	KG00099190	haemorrhage	0.029817111790180206
+trial_2	glibornuride	234	KG00098669	dysgeusias	0.02978752739727497
+trial_2	glibornuride	97	KG00104198	LIVER ENZYME ELEVATED	0.02968776412308216
+trial_2	glibornuride	98	KG00097718	Incised wound, NOS	0.029527384787797928
+trial_2	glibornuride	144	KG00099610	Leukopenia NOS	0.02937769703567028
+trial_2	glibornuride	253	KG00100232	Pleural effusion NOS (disorder)	0.02919105812907219
+trial_2	glibornuride	75	KG00100195	Dolens, Phlegmasia Alba	0.029049990698695183
+trial_2	glibornuride	256	KG00100738	Tachycardia, Sinus	0.02887176349759102
+trial_2	glibornuride	286	KG00101110	Retention, Urinary	0.028759781271219254
+trial_2	glibornuride	130	KG00100683	Stomatitis NOS	0.02833355776965618
+trial_2	glibornuride	186	KG00101431	creatinine increased	0.028177017346024513
+trial_2	glibornuride	371	KG00098517	Cystitis (NOS)	0.028086064383387566
+trial_2	glibornuride	221	KG00101207	peripheral oedema	0.027954205870628357
+trial_2	glibornuride	356	KG00112623	Infectious Lung Disorders	0.027741778641939163
+trial_2	glibornuride	361	KG00098004	Fibrillation, Atrial	0.02726103365421295
+trial_2	glibornuride	138	KG00098796	epidemic vomiting syndrome	0.027209678664803505
+trial_2	glibornuride	456	KG00099420	Influenzae	0.02717927284538746
+trial_2	glibornuride	11	KG00097993	Asthma NOS	0.026255952194333076

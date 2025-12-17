@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.10719946026802063
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.09068325906991959
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.07974501699209213
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.07736532390117645
+trial_1	placebo	123	KG00099351	hypokalaemia	0.06498327106237411
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.06359707564115524
+trial_1	placebo	9	KG00098432	Confusion NOS	0.06058037281036377
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.05764717236161232
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.056551672518253326
+trial_1	placebo	14	KG00097852	Anemia NOS	0.051147378981113434
+trial_1	placebo	20	KG00098540	dehydration	0.0495828315615654
+trial_1	placebo	46	KG00099121	Headache NOS	0.04890492931008339
+trial_1	placebo	21	KG00098675	dyspnoea	0.048882924020290375
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.04855968430638313
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.048070501536130905
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.046685680747032166
+trial_1	placebo	126	KG00100076	Pain NOS	0.04657755792140961
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.04530921205878258
+trial_1	placebo	77	KG00098450	Constipation NOS	0.045076824724674225
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04406225308775902
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04264071583747864
+trial_1	placebo	114	KG00098933	fevers	0.041151683777570724
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.038235846906900406
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03787953779101372
+trial_1	placebo	5	KG00099169	haematuria	0.03501025214791298
+trial_1	placebo	72	KG00103771	myalgias	0.03462125360965729
+trial_1	placebo	85	KG00098474	coughs	0.03398759290575981
+trial_1	placebo	350	KG00106765	decreased platelet count	0.033909816294908524
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03388218581676483
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03270711004734039
+trial_1	placebo	86	KG00098565	Depression, Mental	0.03236743062734604
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03193672001361847
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.031466178596019745
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03119554929435253
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.031148269772529602
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.030973415821790695
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.030829574912786484
+trial_1	placebo	29	KG00099354	hyponatraemia	0.030667642131447792
+trial_1	placebo	228	KG00114657	Weight below normal	0.03057956136763096
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.030424298718571663
+trial_1	placebo	239	KG00100128	pareses	0.030177665874361992
+trial_1	placebo	104	KG00097963	arthralgias	0.02996748872101307
+trial_1	placebo	147	KG00098000	atelectases	0.029610836878418922
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.029257021844387054
+trial_1	placebo	221	KG00101207	peripheral oedema	0.0287905465811491
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.028668884187936783
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.027868978679180145
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.02738742157816887
+trial_1	placebo	116	KG00098964	Pain in foot	0.026681702584028244
+trial_1	placebo	18	KG00098307	Pain, Chest	0.026400627568364143
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.026089275255799294
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02601654641330242
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.025573279708623886
+trial_1	placebo	68	KG00099901	nauseas	0.025287510827183723
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.025096647441387177
+trial_1	placebo	466	KG00101205	fall	0.024469556286931038
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02446633391082287
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.024342423304915428
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023328442126512527
+trial_1	placebo	234	KG00098669	dysgeusias	0.023001613095402718
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022870907559990883
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.022691169753670692
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.02248813770711422
+trial_1	placebo	4	KG00098817	epistaxis	0.02217688225209713
+trial_1	placebo	121	KG00099190	haemorrhage	0.02216206304728985
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.021954655647277832
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.021949829533696175
+trial_1	placebo	82	KG00097697	abdomen distended	0.021894589066505432
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.021733025088906288
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.021517209708690643
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021432429552078247
+trial_1	placebo	100	KG00097815	alopecias	0.02127099595963955
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.021195482462644577
+trial_1	placebo	186	KG00101431	creatinine increased	0.021173512563109398
+trial_1	placebo	262	KG00101199	agitation	0.021173128858208656
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.021135879680514336
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.0211196206510067
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020538629963994026
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.020517509430646896
+trial_1	placebo	282	KG00099309	hypernatraemia	0.020172974094748497
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.020130306482315063
+trial_1	placebo	136	KG00101582	Dry;skin	0.01996060088276863
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.019415749236941338
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.019215894863009453
+trial_1	placebo	11	KG00097993	Asthma NOS	0.01891942322254181
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.018884550780057907
+trial_1	placebo	269	KG00100399	pyaemia	0.018831301480531693
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.018392067402601242
+trial_1	placebo	102	KG00097916	anxieties	0.018053613603115082
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01804378628730774
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.017987877130508423
+trial_1	placebo	503	KG00102612	low haemoglobin	0.0177192110568285
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.017492372542619705
+trial_1	placebo	257	KG00100922	Erythema NOS	0.017305372282862663
+trial_1	placebo	454	KG00098286	Pain, Neck	0.01722864992916584
+trial_1	placebo	212	KG00100576	shivers	0.016654353588819504
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.01647026836872101
+trial_1	placebo	339	KG00100334	proteinurias	0.016454780474305153
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.016247786581516266
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.01623682864010334
+trial_2	gamolenic acid	87	KG00098599	diarrhoea	0.10719946026802063
+trial_2	gamolenic acid	78	KG00099326	Hypertensive diseases	0.09068325906991959
+trial_2	gamolenic acid	177	KG00099299	hyperglycaemia	0.07974501699209213
+trial_2	gamolenic acid	173	KG00098172	Bronchopneumonia NOS	0.07736532390117645
+trial_2	gamolenic acid	123	KG00099351	hypokalaemia	0.06498327106237411
+trial_2	gamolenic acid	64	KG00097734	Acrodermatitis, NOS	0.06359707564115524
+trial_2	gamolenic acid	9	KG00098432	Confusion NOS	0.06058037281036377
+trial_2	gamolenic acid	37	KG00097696	Cramps, Abdominal	0.05764717236161232
+trial_2	gamolenic acid	17	KG00097991	Asthenia NOS	0.056551672518253326
+trial_2	gamolenic acid	14	KG00097852	Anemia NOS	0.051147378981113434
+trial_2	gamolenic acid	20	KG00098540	dehydration	0.0495828315615654
+trial_2	gamolenic acid	46	KG00099121	Headache NOS	0.04890492931008339
+trial_2	gamolenic acid	21	KG00098675	dyspnoea	0.048882924020290375
+trial_2	gamolenic acid	67	KG00098673	Dyspepsia, NOS	0.04855968430638313
+trial_2	gamolenic acid	189	KG00101580	Alanine aminotransferase increase	0.048070501536130905
+trial_2	gamolenic acid	2	KG00100772	thrombocytopaenia	0.046685680747032166
+trial_2	gamolenic acid	126	KG00100076	Pain NOS	0.04657755792140961
+trial_2	gamolenic acid	200	KG00098539	Disorders, Deglutition	0.04530921205878258
+trial_2	gamolenic acid	77	KG00098450	Constipation NOS	0.045076824724674225
+trial_2	gamolenic acid	28	KG00099347	hypoglycaemia	0.04406225308775902
+trial_2	gamolenic acid	188	KG00101579	Aspartate aminotransferase increase	0.04264071583747864
+trial_2	gamolenic acid	114	KG00098933	fevers	0.041151683777570724
+trial_2	gamolenic acid	243	KG00100947	Micturition frequency increased	0.038235846906900406
+trial_2	gamolenic acid	76	KG00100450	Respiratory insufficiency, NOS	0.03787953779101372
+trial_2	gamolenic acid	5	KG00099169	haematuria	0.03501025214791298
+trial_2	gamolenic acid	72	KG00103771	myalgias	0.03462125360965729
+trial_2	gamolenic acid	85	KG00098474	coughs	0.03398759290575981
+trial_2	gamolenic acid	350	KG00106765	decreased platelet count	0.033909816294908524
+trial_2	gamolenic acid	61	KG00099501	Chronic Kidney Failure	0.03388218581676483
+trial_2	gamolenic acid	179	KG00099342	hypocalcaemia	0.03270711004734039
+trial_2	gamolenic acid	86	KG00098565	Depression, Mental	0.03236743062734604
+trial_2	gamolenic acid	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.03193672001361847
+trial_2	gamolenic acid	49	KG00099902	nausea with vomiting	0.031466178596019745
+trial_2	gamolenic acid	132	KG00101045	Gain, Weight	0.03119554929435253
+trial_2	gamolenic acid	131	KG00100948	Urinary tract infection (& [NOS])	0.031148269772529602
+trial_2	gamolenic acid	122	KG00099321	Hypersensitivity NOS	0.030973415821790695
+trial_2	gamolenic acid	79	KG00100317	Insomnia, Primary	0.030829574912786484
+trial_2	gamolenic acid	29	KG00099354	hyponatraemia	0.030667642131447792
+trial_2	gamolenic acid	228	KG00114657	Weight below normal	0.03057956136763096
+trial_2	gamolenic acid	151	KG00098274	Infarction, Cerebral	0.030424298718571663
+trial_2	gamolenic acid	239	KG00100128	pareses	0.030177665874361992
+trial_2	gamolenic acid	104	KG00097963	arthralgias	0.02996748872101307
+trial_2	gamolenic acid	147	KG00098000	atelectases	0.029610836878418922
+trial_2	gamolenic acid	96	KG00101679	Unattended death NOS	0.029257021844387054
+trial_2	gamolenic acid	221	KG00101207	peripheral oedema	0.0287905465811491
+trial_2	gamolenic acid	194	KG00110727	Neutrophil Count Decreased	0.028668884187936783
+trial_2	gamolenic acid	144	KG00099610	Leukopenia NOS	0.027868978679180145
+trial_2	gamolenic acid	180	KG00099363	Hypotension NOS	0.02738742157816887
+trial_2	gamolenic acid	116	KG00098964	Pain in foot	0.026681702584028244
+trial_2	gamolenic acid	18	KG00098307	Pain, Chest	0.026400627568364143
+trial_2	gamolenic acid	92	KG00100926	Infections, Upper Respiratory	0.026089275255799294
+trial_2	gamolenic acid	355	KG00110857	lymphocyte count decreased	0.02601654641330242
+trial_2	gamolenic acid	139	KG00098855	Sinusitis, Ethmoid	0.025573279708623886
+trial_2	gamolenic acid	68	KG00099901	nauseas	0.025287510827183723
+trial_2	gamolenic acid	27	KG00099303	hyperkalaemia	0.025096647441387177
+trial_2	gamolenic acid	466	KG00101205	fall	0.024469556286931038
+trial_2	gamolenic acid	30	KG00099500	Acute Kidney Failure	0.02446633391082287
+trial_2	gamolenic acid	36	KG00106434	Vision, Blurring Of	0.024342423304915428
+trial_2	gamolenic acid	69	KG00100082	Palpitations NOS	0.023328442126512527
+trial_2	gamolenic acid	234	KG00098669	dysgeusias	0.023001613095402718
+trial_2	gamolenic acid	508	KG00108565	blood glucose increased	0.022870907559990883
+trial_2	gamolenic acid	211	KG00100341	Pruritus NOS	0.022691169753670692
+trial_2	gamolenic acid	261	KG00101559	raised alkaline phosphatase	0.02248813770711422
+trial_2	gamolenic acid	4	KG00098817	epistaxis	0.02217688225209713
+trial_2	gamolenic acid	121	KG00099190	haemorrhage	0.02216206304728985
+trial_2	gamolenic acid	249	KG00104430	hypoalbuminaemia	0.021954655647277832
+trial_2	gamolenic acid	396	KG00100373	Embolism, Pulmonary	0.021949829533696175
+trial_2	gamolenic acid	82	KG00097697	abdomen distended	0.021894589066505432
+trial_2	gamolenic acid	371	KG00098517	Cystitis (NOS)	0.021733025088906288
+trial_2	gamolenic acid	98	KG00097718	Incised wound, NOS	0.021517209708690643
+trial_2	gamolenic acid	441	KG00098262	cellulitis nos	0.021432429552078247
+trial_2	gamolenic acid	100	KG00097815	alopecias	0.02127099595963955
+trial_2	gamolenic acid	253	KG00100232	Pleural effusion NOS (disorder)	0.021195482462644577
+trial_2	gamolenic acid	186	KG00101431	creatinine increased	0.021173512563109398
+trial_2	gamolenic acid	262	KG00101199	agitation	0.021173128858208656
+trial_2	gamolenic acid	204	KG00098849	Esophagitis, Peptic	0.021135879680514336
+trial_2	gamolenic acid	191	KG00104055	Biliverdin increased	0.0211196206510067
+trial_2	gamolenic acid	154	KG00099686	Lymphopenias	0.020538629963994026
+trial_2	gamolenic acid	195	KG00097814	Atopic Rhinitis	0.020517509430646896
+trial_2	gamolenic acid	282	KG00099309	hypernatraemia	0.020172974094748497
+trial_2	gamolenic acid	276	KG00099127	Arrest, Cardiac	0.020130306482315063
+trial_2	gamolenic acid	136	KG00101582	Dry;skin	0.01996060088276863
+trial_2	gamolenic acid	142	KG00100923	Unspecified infectious and parasitic diseases	0.019415749236941338
+trial_2	gamolenic acid	130	KG00100683	Stomatitis NOS	0.019215894863009453
+trial_2	gamolenic acid	11	KG00097993	Asthma NOS	0.01891942322254181
+trial_2	gamolenic acid	1	KG00099959	Neutropenia NOS	0.018884550780057907
+trial_2	gamolenic acid	269	KG00100399	pyaemia	0.018831301480531693
+trial_2	gamolenic acid	22	KG00098705	Edema (NOS)	0.018392067402601242
+trial_2	gamolenic acid	102	KG00097916	anxieties	0.018053613603115082
+trial_2	gamolenic acid	38	KG00098066	Binocular vision disorders	0.01804378628730774
+trial_2	gamolenic acid	75	KG00100195	Dolens, Phlegmasia Alba	0.017987877130508423
+trial_2	gamolenic acid	503	KG00102612	low haemoglobin	0.0177192110568285
+trial_2	gamolenic acid	361	KG00098004	Fibrillation, Atrial	0.017492372542619705
+trial_2	gamolenic acid	257	KG00100922	Erythema NOS	0.017305372282862663
+trial_2	gamolenic acid	454	KG00098286	Pain, Neck	0.01722864992916584
+trial_2	gamolenic acid	212	KG00100576	shivers	0.016654353588819504
+trial_2	gamolenic acid	97	KG00104198	LIVER ENZYME ELEVATED	0.01647026836872101
+trial_2	gamolenic acid	339	KG00100334	proteinurias	0.016454780474305153
+trial_2	gamolenic acid	138	KG00098796	epidemic vomiting syndrome	0.016247786581516266
+trial_2	gamolenic acid	101	KG00097901	Anorexia NOS	0.01623682864010334

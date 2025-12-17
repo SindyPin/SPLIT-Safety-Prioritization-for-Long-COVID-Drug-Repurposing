@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.2993371784687042
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.26245230436325073
+trial_1	placebo	136	KG00101582	Dry;skin	0.14534012973308563
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.09762661904096603
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.09233155846595764
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09139605611562729
+trial_1	placebo	343	KG00102674	Eruptions, Acneiform	0.08806049078702927
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.07738106697797775
+trial_1	placebo	9	KG00098432	Confusion NOS	0.07255163788795471
+trial_1	placebo	20	KG00098540	dehydration	0.06550346314907074
+trial_1	placebo	228	KG00114657	Weight below normal	0.06467106193304062
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.06300186365842819
+trial_1	placebo	46	KG00099121	Headache NOS	0.06289006024599075
+trial_1	placebo	21	KG00098675	dyspnoea	0.06129436194896698
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05948600545525551
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.05801316350698471
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05712813138961792
+trial_1	placebo	68	KG00099901	nauseas	0.05607696995139122
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05509035289287567
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.05506739765405655
+trial_1	placebo	121	KG00099190	haemorrhage	0.05452854186296463
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.053225766867399216
+trial_1	placebo	126	KG00100076	Pain NOS	0.0521598644554615
+trial_1	placebo	99	KG00097728	acne; vulgaris	0.05176040902733803
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.04465452954173088
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.043979939073324203
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.04353557527065277
+trial_1	placebo	257	KG00100922	Erythema NOS	0.04270122945308685
+trial_1	placebo	85	KG00098474	coughs	0.04212351143360138
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.042083557695150375
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.041350919753313065
+trial_1	placebo	147	KG00098000	atelectases	0.04099341109395027
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04042573273181915
+trial_1	placebo	29	KG00099354	hyponatraemia	0.040367450565099716
+trial_1	placebo	40	KG00098092	Blepharoconjunctivitis NOS	0.03918057307600975
+trial_1	placebo	114	KG00098933	fevers	0.0374404676258564
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03696734085679054
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.036933720111846924
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03480437397956848
+trial_1	placebo	18	KG00098307	Pain, Chest	0.03469708189368248
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.034323420375585556
+trial_1	placebo	44	KG00098647	syndrome; dry eye	0.034264933317899704
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03400840610265732
+trial_1	placebo	104	KG00097963	arthralgias	0.0336826890707016
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03356931358575821
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.03292394056916237
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.032480642199516296
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.032446928322315216
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03224530816078186
+trial_1	placebo	347	KG00104223	Mucosal ulcers	0.0322188101708889
+trial_1	placebo	5	KG00099169	haematuria	0.0316854789853096
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.031516432762145996
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.030661435797810555
+trial_1	placebo	86	KG00098565	Depression, Mental	0.029332831501960754
+trial_1	placebo	255	KG00099909	Necrotic debris, NOS	0.028497137129306793
+trial_1	placebo	239	KG00100128	pareses	0.028437146916985512
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.027856875211000443
+trial_1	placebo	246	KG00103338	Aspartate Aminotransferase Measurement	0.027599195018410683
+trial_1	placebo	441	KG00098262	cellulitis nos	0.027430865913629532
+trial_1	placebo	14	KG00097852	Anemia NOS	0.027374323457479477
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026426253840327263
+trial_1	placebo	154	KG00099686	Lymphopenias	0.026329640299081802
+trial_1	placebo	4	KG00098817	epistaxis	0.02613772824406624
+trial_1	placebo	300	KG00101064	xerostomia	0.02603451907634735
+trial_1	placebo	115	KG00098957	Infection, Focal	0.025788187980651855
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.02544878050684929
+trial_1	placebo	82	KG00097697	abdomen distended	0.025440381839871407
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024943703785538673
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.024523098021745682
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02438182570040226
+trial_1	placebo	213	KG00100600	Infectious Skin Diseases	0.02416853792965412
+trial_1	placebo	234	KG00098669	dysgeusias	0.024094432592391968
+trial_1	placebo	282	KG00099309	hypernatraemia	0.024031270295381546
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.023493567481637
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.02342626079916954
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.023423777893185616
+trial_1	placebo	382	KG00099200	haemorrhoids	0.023260081186890602
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.023083074018359184
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.022767068818211555
+trial_1	placebo	102	KG00097916	anxieties	0.022416535764932632
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02235887572169304
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.022076867520809174
+trial_1	placebo	72	KG00103771	myalgias	0.02194603905081749
+trial_1	placebo	454	KG00098286	Pain, Neck	0.021394211798906326
+trial_1	placebo	212	KG00100576	shivers	0.021369734779000282
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.021237662062048912
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.021174367517232895
+trial_1	placebo	100	KG00097815	alopecias	0.021095458418130875
+trial_1	placebo	350	KG00106765	decreased platelet count	0.021053064614534378
+trial_1	placebo	186	KG00101431	creatinine increased	0.020513391122221947
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.020035922527313232
+trial_1	placebo	53	KG00101550	Pain in eyes	0.019911589100956917
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01988656260073185
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.01986774243414402
+trial_1	placebo	155	KG00099960	Neutrophile	0.01977909356355667
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.019773773849010468
+trial_1	placebo	116	KG00098964	Pain in foot	0.01953083649277687
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.019508127123117447
+trial_1	placebo	83	KG00097747	pharyngitis nos acute	0.01947411336004734
+trial_1	placebo	722	KG00098303	Cheilitis NOS	0.019226636737585068
+trial_2	gefitinib	87	KG00098599	diarrhoea	0.2993371784687042
+trial_2	gefitinib	64	KG00097734	Acrodermatitis, NOS	0.26245230436325073
+trial_2	gefitinib	136	KG00101582	Dry;skin	0.14534012973308563
+trial_2	gefitinib	17	KG00097991	Asthenia NOS	0.09762661904096603
+trial_2	gefitinib	67	KG00098673	Dyspepsia, NOS	0.09233155846595764
+trial_2	gefitinib	123	KG00099351	hypokalaemia	0.09139605611562729
+trial_2	gefitinib	343	KG00102674	Eruptions, Acneiform	0.08806049078702927
+trial_2	gefitinib	211	KG00100341	Pruritus NOS	0.07738106697797775
+trial_2	gefitinib	9	KG00098432	Confusion NOS	0.07255163788795471
+trial_2	gefitinib	20	KG00098540	dehydration	0.06550346314907074
+trial_2	gefitinib	228	KG00114657	Weight below normal	0.06467106193304062
+trial_2	gefitinib	78	KG00099326	Hypertensive diseases	0.06300186365842819
+trial_2	gefitinib	46	KG00099121	Headache NOS	0.06289006024599075
+trial_2	gefitinib	21	KG00098675	dyspnoea	0.06129436194896698
+trial_2	gefitinib	101	KG00097901	Anorexia NOS	0.05948600545525551
+trial_2	gefitinib	49	KG00099902	nausea with vomiting	0.05801316350698471
+trial_2	gefitinib	200	KG00098539	Disorders, Deglutition	0.05712813138961792
+trial_2	gefitinib	68	KG00099901	nauseas	0.05607696995139122
+trial_2	gefitinib	189	KG00101580	Alanine aminotransferase increase	0.05509035289287567
+trial_2	gefitinib	177	KG00099299	hyperglycaemia	0.05506739765405655
+trial_2	gefitinib	121	KG00099190	haemorrhage	0.05452854186296463
+trial_2	gefitinib	173	KG00098172	Bronchopneumonia NOS	0.053225766867399216
+trial_2	gefitinib	126	KG00100076	Pain NOS	0.0521598644554615
+trial_2	gefitinib	99	KG00097728	acne; vulgaris	0.05176040902733803
+trial_2	gefitinib	37	KG00097696	Cramps, Abdominal	0.04465452954173088
+trial_2	gefitinib	188	KG00101579	Aspartate aminotransferase increase	0.043979939073324203
+trial_2	gefitinib	191	KG00104055	Biliverdin increased	0.04353557527065277
+trial_2	gefitinib	257	KG00100922	Erythema NOS	0.04270122945308685
+trial_2	gefitinib	85	KG00098474	coughs	0.04212351143360138
+trial_2	gefitinib	142	KG00100923	Unspecified infectious and parasitic diseases	0.042083557695150375
+trial_2	gefitinib	243	KG00100947	Micturition frequency increased	0.041350919753313065
+trial_2	gefitinib	147	KG00098000	atelectases	0.04099341109395027
+trial_2	gefitinib	28	KG00099347	hypoglycaemia	0.04042573273181915
+trial_2	gefitinib	29	KG00099354	hyponatraemia	0.040367450565099716
+trial_2	gefitinib	40	KG00098092	Blepharoconjunctivitis NOS	0.03918057307600975
+trial_2	gefitinib	114	KG00098933	fevers	0.0374404676258564
+trial_2	gefitinib	61	KG00099501	Chronic Kidney Failure	0.03696734085679054
+trial_2	gefitinib	122	KG00099321	Hypersensitivity NOS	0.036933720111846924
+trial_2	gefitinib	179	KG00099342	hypocalcaemia	0.03480437397956848
+trial_2	gefitinib	18	KG00098307	Pain, Chest	0.03469708189368248
+trial_2	gefitinib	76	KG00100450	Respiratory insufficiency, NOS	0.034323420375585556
+trial_2	gefitinib	44	KG00098647	syndrome; dry eye	0.034264933317899704
+trial_2	gefitinib	77	KG00098450	Constipation NOS	0.03400840610265732
+trial_2	gefitinib	104	KG00097963	arthralgias	0.0336826890707016
+trial_2	gefitinib	79	KG00100317	Insomnia, Primary	0.03356931358575821
+trial_2	gefitinib	130	KG00100683	Stomatitis NOS	0.03292394056916237
+trial_2	gefitinib	36	KG00106434	Vision, Blurring Of	0.032480642199516296
+trial_2	gefitinib	396	KG00100373	Embolism, Pulmonary	0.032446928322315216
+trial_2	gefitinib	131	KG00100948	Urinary tract infection (& [NOS])	0.03224530816078186
+trial_2	gefitinib	347	KG00104223	Mucosal ulcers	0.0322188101708889
+trial_2	gefitinib	5	KG00099169	haematuria	0.0316854789853096
+trial_2	gefitinib	151	KG00098274	Infarction, Cerebral	0.031516432762145996
+trial_2	gefitinib	96	KG00101679	Unattended death NOS	0.030661435797810555
+trial_2	gefitinib	86	KG00098565	Depression, Mental	0.029332831501960754
+trial_2	gefitinib	255	KG00099909	Necrotic debris, NOS	0.028497137129306793
+trial_2	gefitinib	239	KG00100128	pareses	0.028437146916985512
+trial_2	gefitinib	371	KG00098517	Cystitis (NOS)	0.027856875211000443
+trial_2	gefitinib	246	KG00103338	Aspartate Aminotransferase Measurement	0.027599195018410683
+trial_2	gefitinib	441	KG00098262	cellulitis nos	0.027430865913629532
+trial_2	gefitinib	14	KG00097852	Anemia NOS	0.027374323457479477
+trial_2	gefitinib	261	KG00101559	raised alkaline phosphatase	0.026426253840327263
+trial_2	gefitinib	154	KG00099686	Lymphopenias	0.026329640299081802
+trial_2	gefitinib	4	KG00098817	epistaxis	0.02613772824406624
+trial_2	gefitinib	300	KG00101064	xerostomia	0.02603451907634735
+trial_2	gefitinib	115	KG00098957	Infection, Focal	0.025788187980651855
+trial_2	gefitinib	195	KG00097814	Atopic Rhinitis	0.02544878050684929
+trial_2	gefitinib	82	KG00097697	abdomen distended	0.025440381839871407
+trial_2	gefitinib	249	KG00104430	hypoalbuminaemia	0.024943703785538673
+trial_2	gefitinib	118	KG00099011	Gastritis NOS	0.024523098021745682
+trial_2	gefitinib	138	KG00098796	epidemic vomiting syndrome	0.02438182570040226
+trial_2	gefitinib	213	KG00100600	Infectious Skin Diseases	0.02416853792965412
+trial_2	gefitinib	234	KG00098669	dysgeusias	0.024094432592391968
+trial_2	gefitinib	282	KG00099309	hypernatraemia	0.024031270295381546
+trial_2	gefitinib	38	KG00098066	Binocular vision disorders	0.023493567481637
+trial_2	gefitinib	69	KG00100082	Palpitations NOS	0.02342626079916954
+trial_2	gefitinib	356	KG00112623	Infectious Lung Disorders	0.023423777893185616
+trial_2	gefitinib	382	KG00099200	haemorrhoids	0.023260081186890602
+trial_2	gefitinib	35	KG00101507	hypomagnesaemia	0.023083074018359184
+trial_2	gefitinib	355	KG00110857	lymphocyte count decreased	0.022767068818211555
+trial_2	gefitinib	102	KG00097916	anxieties	0.022416535764932632
+trial_2	gefitinib	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.02235887572169304
+trial_2	gefitinib	30	KG00099500	Acute Kidney Failure	0.022076867520809174
+trial_2	gefitinib	72	KG00103771	myalgias	0.02194603905081749
+trial_2	gefitinib	454	KG00098286	Pain, Neck	0.021394211798906326
+trial_2	gefitinib	212	KG00100576	shivers	0.021369734779000282
+trial_2	gefitinib	139	KG00098855	Sinusitis, Ethmoid	0.021237662062048912
+trial_2	gefitinib	27	KG00099303	hyperkalaemia	0.021174367517232895
+trial_2	gefitinib	100	KG00097815	alopecias	0.021095458418130875
+trial_2	gefitinib	350	KG00106765	decreased platelet count	0.021053064614534378
+trial_2	gefitinib	186	KG00101431	creatinine increased	0.020513391122221947
+trial_2	gefitinib	204	KG00098849	Esophagitis, Peptic	0.020035922527313232
+trial_2	gefitinib	53	KG00101550	Pain in eyes	0.019911589100956917
+trial_2	gefitinib	2	KG00100772	thrombocytopaenia	0.01988656260073185
+trial_2	gefitinib	253	KG00100232	Pleural effusion NOS (disorder)	0.01986774243414402
+trial_2	gefitinib	155	KG00099960	Neutrophile	0.01977909356355667
+trial_2	gefitinib	180	KG00099363	Hypotension NOS	0.019773773849010468
+trial_2	gefitinib	116	KG00098964	Pain in foot	0.01953083649277687
+trial_2	gefitinib	194	KG00110727	Neutrophil Count Decreased	0.019508127123117447
+trial_2	gefitinib	83	KG00097747	pharyngitis nos acute	0.01947411336004734
+trial_2	gefitinib	722	KG00098303	Cheilitis NOS	0.019226636737585068

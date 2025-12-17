@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.08952556550502777
+trial_1	placebo	87	KG00098599	diarrhoea	0.0662723109126091
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.06617443263530731
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.06020406633615494
+trial_1	placebo	21	KG00098675	dyspnoea	0.057280659675598145
+trial_1	placebo	123	KG00099351	hypokalaemia	0.05291935056447983
+trial_1	placebo	9	KG00098432	Confusion NOS	0.05206944793462753
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04696040228009224
+trial_1	placebo	46	KG00099121	Headache NOS	0.04557937756180763
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.041954733431339264
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04063313081860542
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.040625493973493576
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03915783390402794
+trial_1	placebo	20	KG00098540	dehydration	0.038978420197963715
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.038349494338035583
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.03689532354474068
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.035296279937028885
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.03427107259631157
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.03380844369530678
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.03330717235803604
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03322324901819229
+trial_1	placebo	114	KG00098933	fevers	0.03156786039471626
+trial_1	placebo	147	KG00098000	atelectases	0.031237347051501274
+trial_1	placebo	68	KG00099901	nauseas	0.030816469341516495
+trial_1	placebo	77	KG00098450	Constipation NOS	0.029554542154073715
+trial_1	placebo	269	KG00100399	pyaemia	0.029540354385972023
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02861703746020794
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.028428129851818085
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.027850348502397537
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.027547836303710938
+trial_1	placebo	126	KG00100076	Pain NOS	0.02690757066011429
+trial_1	placebo	85	KG00098474	coughs	0.026685945689678192
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.026678496971726418
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.024651316925883293
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.024360237643122673
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.024004220962524414
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.023920318111777306
+trial_1	placebo	104	KG00097963	arthralgias	0.022993385791778564
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.022782567888498306
+trial_1	placebo	86	KG00098565	Depression, Mental	0.022769153118133545
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.022695472463965416
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.02218535542488098
+trial_1	placebo	441	KG00098262	cellulitis nos	0.021627886220812798
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.021516401320695877
+trial_1	placebo	5	KG00099169	haematuria	0.02122664451599121
+trial_1	placebo	350	KG00106765	decreased platelet count	0.02120766043663025
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.020142223685979843
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.019739530980587006
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.01972365938127041
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01967681013047695
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.019330376759171486
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.018786557018756866
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.018712375313043594
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.018597252666950226
+trial_1	placebo	228	KG00114657	Weight below normal	0.018295254558324814
+trial_1	placebo	18	KG00098307	Pain, Chest	0.018256131559610367
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.0182462390512228
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.01786942221224308
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.01681303232908249
+trial_1	placebo	268	KG00099557	Heart Failure, Left-Sided	0.016504522413015366
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016442198306322098
+trial_1	placebo	234	KG00098669	dysgeusias	0.01641632430255413
+trial_1	placebo	102	KG00097916	anxieties	0.016160665079951286
+trial_1	placebo	282	KG00099309	hypernatraemia	0.016160445287823677
+trial_1	placebo	116	KG00098964	Pain in foot	0.01584745943546295
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.015746714547276497
+trial_1	placebo	11	KG00097993	Asthma NOS	0.015572941862046719
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.015567706897854805
+trial_1	placebo	121	KG00099190	haemorrhage	0.015565129928290844
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.015513395890593529
+trial_1	placebo	239	KG00100128	pareses	0.015444450080394745
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.015197759494185448
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.015130785293877125
+trial_1	placebo	72	KG00103771	myalgias	0.01506713591516018
+trial_1	placebo	164	KG00108827	ileus colon	0.01504767406731844
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.014819419011473656
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.01452649012207985
+trial_1	placebo	212	KG00100576	shivers	0.014178210869431496
+trial_1	placebo	494	KG00099838	Organ Failure, Multiple	0.014167264103889465
+trial_1	placebo	4	KG00098817	epistaxis	0.014140862040221691
+trial_1	placebo	221	KG00101207	peripheral oedema	0.014118152670562267
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.013863394036889076
+trial_1	placebo	25	KG00099134	congestive failures heart	0.013597913086414337
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.013216408900916576
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.013091696426272392
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.013021476566791534
+trial_1	placebo	82	KG00097697	abdomen distended	0.012816260568797588
+trial_1	placebo	186	KG00101431	creatinine increased	0.012814516201615334
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012795939110219479
+trial_1	placebo	257	KG00100922	Erythema NOS	0.012646705843508244
+trial_1	placebo	713	KG00107657	distressed respiratory	0.012496594339609146
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.012393604032695293
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.012073760852217674
+trial_1	placebo	202	KG00098630	Disturbance of Skin Sensation	0.011769992299377918
+trial_1	placebo	183	KG00100449	Adult Respiratory Distress Syndrome	0.011722041293978691
+trial_1	placebo	466	KG00101205	fall	0.01161421462893486
+trial_1	placebo	456	KG00099420	Influenzae	0.011471235193312168
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.011415287852287292
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.011370228603482246
+trial_1	placebo	100	KG00097815	alopecias	0.011332358233630657
+trial_2	gramicidin d	78	KG00099326	Hypertensive diseases	0.08952556550502777
+trial_2	gramicidin d	87	KG00098599	diarrhoea	0.0662723109126091
+trial_2	gramicidin d	177	KG00099299	hyperglycaemia	0.06617443263530731
+trial_2	gramicidin d	173	KG00098172	Bronchopneumonia NOS	0.06020406633615494
+trial_2	gramicidin d	21	KG00098675	dyspnoea	0.057280659675598145
+trial_2	gramicidin d	123	KG00099351	hypokalaemia	0.05291935056447983
+trial_2	gramicidin d	9	KG00098432	Confusion NOS	0.05206944793462753
+trial_2	gramicidin d	14	KG00097852	Anemia NOS	0.04696040228009224
+trial_2	gramicidin d	46	KG00099121	Headache NOS	0.04557937756180763
+trial_2	gramicidin d	37	KG00097696	Cramps, Abdominal	0.041954733431339264
+trial_2	gramicidin d	180	KG00099363	Hypotension NOS	0.04063313081860542
+trial_2	gramicidin d	17	KG00097991	Asthenia NOS	0.040625493973493576
+trial_2	gramicidin d	61	KG00099501	Chronic Kidney Failure	0.03915783390402794
+trial_2	gramicidin d	20	KG00098540	dehydration	0.038978420197963715
+trial_2	gramicidin d	76	KG00100450	Respiratory insufficiency, NOS	0.038349494338035583
+trial_2	gramicidin d	64	KG00097734	Acrodermatitis, NOS	0.03689532354474068
+trial_2	gramicidin d	2	KG00100772	thrombocytopaenia	0.035296279937028885
+trial_2	gramicidin d	151	KG00098274	Infarction, Cerebral	0.03427107259631157
+trial_2	gramicidin d	49	KG00099902	nausea with vomiting	0.03380844369530678
+trial_2	gramicidin d	79	KG00100317	Insomnia, Primary	0.03330717235803604
+trial_2	gramicidin d	30	KG00099500	Acute Kidney Failure	0.03322324901819229
+trial_2	gramicidin d	114	KG00098933	fevers	0.03156786039471626
+trial_2	gramicidin d	147	KG00098000	atelectases	0.031237347051501274
+trial_2	gramicidin d	68	KG00099901	nauseas	0.030816469341516495
+trial_2	gramicidin d	77	KG00098450	Constipation NOS	0.029554542154073715
+trial_2	gramicidin d	269	KG00100399	pyaemia	0.029540354385972023
+trial_2	gramicidin d	29	KG00099354	hyponatraemia	0.02861703746020794
+trial_2	gramicidin d	276	KG00099127	Arrest, Cardiac	0.028428129851818085
+trial_2	gramicidin d	200	KG00098539	Disorders, Deglutition	0.027850348502397537
+trial_2	gramicidin d	396	KG00100373	Embolism, Pulmonary	0.027547836303710938
+trial_2	gramicidin d	126	KG00100076	Pain NOS	0.02690757066011429
+trial_2	gramicidin d	85	KG00098474	coughs	0.026685945689678192
+trial_2	gramicidin d	28	KG00099347	hypoglycaemia	0.026678496971726418
+trial_2	gramicidin d	189	KG00101580	Alanine aminotransferase increase	0.024651316925883293
+trial_2	gramicidin d	31	KG00099872	Infarction, Myocardial	0.024360237643122673
+trial_2	gramicidin d	131	KG00100948	Urinary tract infection (& [NOS])	0.024004220962524414
+trial_2	gramicidin d	27	KG00099303	hyperkalaemia	0.023920318111777306
+trial_2	gramicidin d	104	KG00097963	arthralgias	0.022993385791778564
+trial_2	gramicidin d	96	KG00101679	Unattended death NOS	0.022782567888498306
+trial_2	gramicidin d	86	KG00098565	Depression, Mental	0.022769153118133545
+trial_2	gramicidin d	67	KG00098673	Dyspepsia, NOS	0.022695472463965416
+trial_2	gramicidin d	188	KG00101579	Aspartate aminotransferase increase	0.02218535542488098
+trial_2	gramicidin d	441	KG00098262	cellulitis nos	0.021627886220812798
+trial_2	gramicidin d	122	KG00099321	Hypersensitivity NOS	0.021516401320695877
+trial_2	gramicidin d	5	KG00099169	haematuria	0.02122664451599121
+trial_2	gramicidin d	350	KG00106765	decreased platelet count	0.02120766043663025
+trial_2	gramicidin d	361	KG00098004	Fibrillation, Atrial	0.020142223685979843
+trial_2	gramicidin d	92	KG00100926	Infections, Upper Respiratory	0.019739530980587006
+trial_2	gramicidin d	142	KG00100923	Unspecified infectious and parasitic diseases	0.01972365938127041
+trial_2	gramicidin d	75	KG00100195	Dolens, Phlegmasia Alba	0.01967681013047695
+trial_2	gramicidin d	69	KG00100082	Palpitations NOS	0.019330376759171486
+trial_2	gramicidin d	253	KG00100232	Pleural effusion NOS (disorder)	0.018786557018756866
+trial_2	gramicidin d	179	KG00099342	hypocalcaemia	0.018712375313043594
+trial_2	gramicidin d	139	KG00098855	Sinusitis, Ethmoid	0.018597252666950226
+trial_2	gramicidin d	228	KG00114657	Weight below normal	0.018295254558324814
+trial_2	gramicidin d	18	KG00098307	Pain, Chest	0.018256131559610367
+trial_2	gramicidin d	144	KG00099610	Leukopenia NOS	0.0182462390512228
+trial_2	gramicidin d	1	KG00099959	Neutropenia NOS	0.01786942221224308
+trial_2	gramicidin d	130	KG00100683	Stomatitis NOS	0.01681303232908249
+trial_2	gramicidin d	268	KG00099557	Heart Failure, Left-Sided	0.016504522413015366
+trial_2	gramicidin d	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.016442198306322098
+trial_2	gramicidin d	234	KG00098669	dysgeusias	0.01641632430255413
+trial_2	gramicidin d	102	KG00097916	anxieties	0.016160665079951286
+trial_2	gramicidin d	282	KG00099309	hypernatraemia	0.016160445287823677
+trial_2	gramicidin d	116	KG00098964	Pain in foot	0.01584745943546295
+trial_2	gramicidin d	211	KG00100341	Pruritus NOS	0.015746714547276497
+trial_2	gramicidin d	11	KG00097993	Asthma NOS	0.015572941862046719
+trial_2	gramicidin d	38	KG00098066	Binocular vision disorders	0.015567706897854805
+trial_2	gramicidin d	121	KG00099190	haemorrhage	0.015565129928290844
+trial_2	gramicidin d	199	KG00098371	Rhinitis (chronic) NOS	0.015513395890593529
+trial_2	gramicidin d	239	KG00100128	pareses	0.015444450080394745
+trial_2	gramicidin d	243	KG00100947	Micturition frequency increased	0.015197759494185448
+trial_2	gramicidin d	15	KG00097882	Angina pectoris NOS	0.015130785293877125
+trial_2	gramicidin d	72	KG00103771	myalgias	0.01506713591516018
+trial_2	gramicidin d	164	KG00108827	ileus colon	0.01504767406731844
+trial_2	gramicidin d	249	KG00104430	hypoalbuminaemia	0.014819419011473656
+trial_2	gramicidin d	138	KG00098796	epidemic vomiting syndrome	0.01452649012207985
+trial_2	gramicidin d	212	KG00100576	shivers	0.014178210869431496
+trial_2	gramicidin d	494	KG00099838	Organ Failure, Multiple	0.014167264103889465
+trial_2	gramicidin d	4	KG00098817	epistaxis	0.014140862040221691
+trial_2	gramicidin d	221	KG00101207	peripheral oedema	0.014118152670562267
+trial_2	gramicidin d	194	KG00110727	Neutrophil Count Decreased	0.013863394036889076
+trial_2	gramicidin d	25	KG00099134	congestive failures heart	0.013597913086414337
+trial_2	gramicidin d	36	KG00106434	Vision, Blurring Of	0.013216408900916576
+trial_2	gramicidin d	35	KG00101507	hypomagnesaemia	0.013091696426272392
+trial_2	gramicidin d	98	KG00097718	Incised wound, NOS	0.013021476566791534
+trial_2	gramicidin d	82	KG00097697	abdomen distended	0.012816260568797588
+trial_2	gramicidin d	186	KG00101431	creatinine increased	0.012814516201615334
+trial_2	gramicidin d	261	KG00101559	raised alkaline phosphatase	0.012795939110219479
+trial_2	gramicidin d	257	KG00100922	Erythema NOS	0.012646705843508244
+trial_2	gramicidin d	713	KG00107657	distressed respiratory	0.012496594339609146
+trial_2	gramicidin d	163	KG00104050	bowel obstructions small	0.012393604032695293
+trial_2	gramicidin d	101	KG00097901	Anorexia NOS	0.012073760852217674
+trial_2	gramicidin d	202	KG00098630	Disturbance of Skin Sensation	0.011769992299377918
+trial_2	gramicidin d	183	KG00100449	Adult Respiratory Distress Syndrome	0.011722041293978691
+trial_2	gramicidin d	466	KG00101205	fall	0.01161421462893486
+trial_2	gramicidin d	456	KG00099420	Influenzae	0.011471235193312168
+trial_2	gramicidin d	204	KG00098849	Esophagitis, Peptic	0.011415287852287292
+trial_2	gramicidin d	195	KG00097814	Atopic Rhinitis	0.011370228603482246
+trial_2	gramicidin d	100	KG00097815	alopecias	0.011332358233630657

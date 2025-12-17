@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	87	KG00098599	diarrhoea	0.20245198905467987
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.14515027403831482
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.14278379082679749
+trial_1	placebo	20	KG00098540	dehydration	0.1296040266752243
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.12847746908664703
+trial_1	placebo	77	KG00098450	Constipation NOS	0.12256745994091034
+trial_1	placebo	9	KG00098432	Confusion NOS	0.1199130117893219
+trial_1	placebo	68	KG00099901	nauseas	0.11221514642238617
+trial_1	placebo	46	KG00099121	Headache NOS	0.09846669435501099
+trial_1	placebo	123	KG00099351	hypokalaemia	0.09196500480175018
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.0846346840262413
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.08313379436731339
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08039738982915878
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.07515060156583786
+trial_1	placebo	21	KG00098675	dyspnoea	0.07194263488054276
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06098875403404236
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.06068073585629463
+trial_1	placebo	114	KG00098933	fevers	0.05795380845665932
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.05755060166120529
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.05510527268052101
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.05215681344270706
+trial_1	placebo	29	KG00099354	hyponatraemia	0.05207610875368118
+trial_1	placebo	228	KG00114657	Weight below normal	0.0507257841527462
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.05044370889663696
+trial_1	placebo	85	KG00098474	coughs	0.049924883991479874
+trial_1	placebo	104	KG00097963	arthralgias	0.0483982153236866
+trial_1	placebo	86	KG00098565	Depression, Mental	0.04805011674761772
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04583840072154999
+trial_1	placebo	102	KG00097916	anxieties	0.04524579271674156
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.04389665275812149
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.043527405709028244
+trial_1	placebo	14	KG00097852	Anemia NOS	0.043300338089466095
+trial_1	placebo	1	KG00099959	Neutropenia NOS	0.04281502217054367
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.042486533522605896
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04232218489050865
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04159431532025337
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.03949596732854843
+trial_1	placebo	170	KG00108926	Neutropenia, Febrile	0.038584399968385696
+trial_1	placebo	126	KG00100076	Pain NOS	0.03742605820298195
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.037011802196502686
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03600887209177017
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.03575371578335762
+trial_1	placebo	82	KG00097697	abdomen distended	0.0355992466211319
+trial_1	placebo	234	KG00098669	dysgeusias	0.03502544388175011
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.034124571830034256
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.03387650474905968
+trial_1	placebo	5	KG00099169	haematuria	0.03298356756567955
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.032547399401664734
+trial_1	placebo	66	KG00098642	drowsiness	0.03197740390896797
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03190336748957634
+trial_1	placebo	239	KG00100128	pareses	0.031519483774900436
+trial_1	placebo	242	KG00100855	tremors	0.03111734613776207
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.031055830419063568
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030872249975800514
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.030658194795250893
+trial_1	placebo	300	KG00101064	xerostomia	0.03057968057692051
+trial_1	placebo	72	KG00103771	myalgias	0.0304070096462965
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.030161704868078232
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.029907770454883575
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.028864189982414246
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.028476668521761894
+trial_1	placebo	88	KG00099248	hiccups	0.02802618034183979
+trial_1	placebo	164	KG00108827	ileus colon	0.027850452810525894
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.027718739584088326
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.027050182223320007
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.026746781542897224
+trial_1	placebo	116	KG00098964	Pain in foot	0.025997523218393326
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.02535461075603962
+trial_1	placebo	100	KG00097815	alopecias	0.02522912435233593
+trial_1	placebo	147	KG00098000	atelectases	0.025034038349986076
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.024526817724108696
+trial_1	placebo	262	KG00101199	agitation	0.02424999698996544
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.024189988151192665
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.024084607139229774
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.023601436987519264
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.02344079501926899
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.023309161886572838
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.02325264923274517
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.02322850190103054
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.022966308519244194
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.02290481887757778
+trial_1	placebo	269	KG00100399	pyaemia	0.022815188392996788
+trial_1	placebo	466	KG00101205	fall	0.022379862144589424
+trial_1	placebo	154	KG00099686	Lymphopenias	0.022355802357196808
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.02173159085214138
+trial_1	placebo	4	KG00098817	epistaxis	0.021048612892627716
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.020788555964827538
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.020777104422450066
+trial_1	placebo	390	KG00100095	pancytopenias	0.02073785662651062
+trial_1	placebo	121	KG00099190	haemorrhage	0.02067200466990471
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.020033203065395355
+trial_1	placebo	221	KG00101207	peripheral oedema	0.019949302077293396
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.019680848345160484
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.019578736275434494
+trial_1	placebo	195	KG00097814	Atopic Rhinitis	0.019228952005505562
+trial_1	placebo	282	KG00099309	hypernatraemia	0.01867327280342579
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.018585624173283577
+trial_1	placebo	186	KG00101431	creatinine increased	0.018495112657546997
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.018402451649308205
+trial_1	placebo	163	KG00104050	bowel obstructions small	0.018268344923853874
+trial_2	granisetron	87	KG00098599	diarrhoea	0.20245198905467987
+trial_2	granisetron	49	KG00099902	nausea with vomiting	0.14515027403831482
+trial_2	granisetron	17	KG00097991	Asthenia NOS	0.14278379082679749
+trial_2	granisetron	20	KG00098540	dehydration	0.1296040266752243
+trial_2	granisetron	177	KG00099299	hyperglycaemia	0.12847746908664703
+trial_2	granisetron	77	KG00098450	Constipation NOS	0.12256745994091034
+trial_2	granisetron	9	KG00098432	Confusion NOS	0.1199130117893219
+trial_2	granisetron	68	KG00099901	nauseas	0.11221514642238617
+trial_2	granisetron	46	KG00099121	Headache NOS	0.09846669435501099
+trial_2	granisetron	123	KG00099351	hypokalaemia	0.09196500480175018
+trial_2	granisetron	78	KG00099326	Hypertensive diseases	0.0846346840262413
+trial_2	granisetron	37	KG00097696	Cramps, Abdominal	0.08313379436731339
+trial_2	granisetron	173	KG00098172	Bronchopneumonia NOS	0.08039738982915878
+trial_2	granisetron	79	KG00100317	Insomnia, Primary	0.07515060156583786
+trial_2	granisetron	21	KG00098675	dyspnoea	0.07194263488054276
+trial_2	granisetron	67	KG00098673	Dyspepsia, NOS	0.06098875403404236
+trial_2	granisetron	151	KG00098274	Infarction, Cerebral	0.06068073585629463
+trial_2	granisetron	114	KG00098933	fevers	0.05795380845665932
+trial_2	granisetron	101	KG00097901	Anorexia NOS	0.05755060166120529
+trial_2	granisetron	180	KG00099363	Hypotension NOS	0.05510527268052101
+trial_2	granisetron	189	KG00101580	Alanine aminotransferase increase	0.05215681344270706
+trial_2	granisetron	29	KG00099354	hyponatraemia	0.05207610875368118
+trial_2	granisetron	228	KG00114657	Weight below normal	0.0507257841527462
+trial_2	granisetron	200	KG00098539	Disorders, Deglutition	0.05044370889663696
+trial_2	granisetron	85	KG00098474	coughs	0.049924883991479874
+trial_2	granisetron	104	KG00097963	arthralgias	0.0483982153236866
+trial_2	granisetron	86	KG00098565	Depression, Mental	0.04805011674761772
+trial_2	granisetron	350	KG00106765	decreased platelet count	0.04583840072154999
+trial_2	granisetron	102	KG00097916	anxieties	0.04524579271674156
+trial_2	granisetron	188	KG00101579	Aspartate aminotransferase increase	0.04389665275812149
+trial_2	granisetron	96	KG00101679	Unattended death NOS	0.043527405709028244
+trial_2	granisetron	14	KG00097852	Anemia NOS	0.043300338089466095
+trial_2	granisetron	1	KG00099959	Neutropenia NOS	0.04281502217054367
+trial_2	granisetron	142	KG00100923	Unspecified infectious and parasitic diseases	0.042486533522605896
+trial_2	granisetron	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04232218489050865
+trial_2	granisetron	28	KG00099347	hypoglycaemia	0.04159431532025337
+trial_2	granisetron	2	KG00100772	thrombocytopaenia	0.03949596732854843
+trial_2	granisetron	170	KG00108926	Neutropenia, Febrile	0.038584399968385696
+trial_2	granisetron	126	KG00100076	Pain NOS	0.03742605820298195
+trial_2	granisetron	64	KG00097734	Acrodermatitis, NOS	0.037011802196502686
+trial_2	granisetron	76	KG00100450	Respiratory insufficiency, NOS	0.03600887209177017
+trial_2	granisetron	122	KG00099321	Hypersensitivity NOS	0.03575371578335762
+trial_2	granisetron	82	KG00097697	abdomen distended	0.0355992466211319
+trial_2	granisetron	234	KG00098669	dysgeusias	0.03502544388175011
+trial_2	granisetron	194	KG00110727	Neutrophil Count Decreased	0.034124571830034256
+trial_2	granisetron	38	KG00098066	Binocular vision disorders	0.03387650474905968
+trial_2	granisetron	5	KG00099169	haematuria	0.03298356756567955
+trial_2	granisetron	144	KG00099610	Leukopenia NOS	0.032547399401664734
+trial_2	granisetron	66	KG00098642	drowsiness	0.03197740390896797
+trial_2	granisetron	132	KG00101045	Gain, Weight	0.03190336748957634
+trial_2	granisetron	239	KG00100128	pareses	0.031519483774900436
+trial_2	granisetron	242	KG00100855	tremors	0.03111734613776207
+trial_2	granisetron	130	KG00100683	Stomatitis NOS	0.031055830419063568
+trial_2	granisetron	18	KG00098307	Pain, Chest	0.030872249975800514
+trial_2	granisetron	30	KG00099500	Acute Kidney Failure	0.030658194795250893
+trial_2	granisetron	300	KG00101064	xerostomia	0.03057968057692051
+trial_2	granisetron	72	KG00103771	myalgias	0.0304070096462965
+trial_2	granisetron	61	KG00099501	Chronic Kidney Failure	0.030161704868078232
+trial_2	granisetron	179	KG00099342	hypocalcaemia	0.029907770454883575
+trial_2	granisetron	36	KG00106434	Vision, Blurring Of	0.028864189982414246
+trial_2	granisetron	396	KG00100373	Embolism, Pulmonary	0.028476668521761894
+trial_2	granisetron	88	KG00099248	hiccups	0.02802618034183979
+trial_2	granisetron	164	KG00108827	ileus colon	0.027850452810525894
+trial_2	granisetron	243	KG00100947	Micturition frequency increased	0.027718739584088326
+trial_2	granisetron	27	KG00099303	hyperkalaemia	0.027050182223320007
+trial_2	granisetron	261	KG00101559	raised alkaline phosphatase	0.026746781542897224
+trial_2	granisetron	116	KG00098964	Pain in foot	0.025997523218393326
+trial_2	granisetron	35	KG00101507	hypomagnesaemia	0.02535461075603962
+trial_2	granisetron	100	KG00097815	alopecias	0.02522912435233593
+trial_2	granisetron	147	KG00098000	atelectases	0.025034038349986076
+trial_2	granisetron	199	KG00098371	Rhinitis (chronic) NOS	0.024526817724108696
+trial_2	granisetron	262	KG00101199	agitation	0.02424999698996544
+trial_2	granisetron	254	KG00100774	Thrombosis NOS	0.024189988151192665
+trial_2	granisetron	249	KG00104430	hypoalbuminaemia	0.024084607139229774
+trial_2	granisetron	204	KG00098849	Esophagitis, Peptic	0.023601436987519264
+trial_2	granisetron	139	KG00098855	Sinusitis, Ethmoid	0.02344079501926899
+trial_2	granisetron	69	KG00100082	Palpitations NOS	0.023309161886572838
+trial_2	granisetron	131	KG00100948	Urinary tract infection (& [NOS])	0.02325264923274517
+trial_2	granisetron	286	KG00101110	Retention, Urinary	0.02322850190103054
+trial_2	granisetron	92	KG00100926	Infections, Upper Respiratory	0.022966308519244194
+trial_2	granisetron	133	KG00101370	neuropathies sensory	0.02290481887757778
+trial_2	granisetron	269	KG00100399	pyaemia	0.022815188392996788
+trial_2	granisetron	466	KG00101205	fall	0.022379862144589424
+trial_2	granisetron	154	KG00099686	Lymphopenias	0.022355802357196808
+trial_2	granisetron	138	KG00098796	epidemic vomiting syndrome	0.02173159085214138
+trial_2	granisetron	4	KG00098817	epistaxis	0.021048612892627716
+trial_2	granisetron	118	KG00099011	Gastritis NOS	0.020788555964827538
+trial_2	granisetron	75	KG00100195	Dolens, Phlegmasia Alba	0.020777104422450066
+trial_2	granisetron	390	KG00100095	pancytopenias	0.02073785662651062
+trial_2	granisetron	121	KG00099190	haemorrhage	0.02067200466990471
+trial_2	granisetron	191	KG00104055	Biliverdin increased	0.020033203065395355
+trial_2	granisetron	221	KG00101207	peripheral oedema	0.019949302077293396
+trial_2	granisetron	341	KG00101472	Gamma-glutamyltransferase increased	0.019680848345160484
+trial_2	granisetron	361	KG00098004	Fibrillation, Atrial	0.019578736275434494
+trial_2	granisetron	195	KG00097814	Atopic Rhinitis	0.019228952005505562
+trial_2	granisetron	282	KG00099309	hypernatraemia	0.01867327280342579
+trial_2	granisetron	276	KG00099127	Arrest, Cardiac	0.018585624173283577
+trial_2	granisetron	186	KG00101431	creatinine increased	0.018495112657546997
+trial_2	granisetron	211	KG00100341	Pruritus NOS	0.018402451649308205
+trial_2	granisetron	163	KG00104050	bowel obstructions small	0.018268344923853874

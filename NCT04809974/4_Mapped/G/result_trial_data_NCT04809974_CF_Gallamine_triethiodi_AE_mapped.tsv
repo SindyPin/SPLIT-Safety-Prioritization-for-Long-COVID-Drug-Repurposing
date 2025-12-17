@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.1715753972530365
+trial_1	placebo	87	KG00098599	diarrhoea	0.1423041969537735
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.12060155719518661
+trial_1	placebo	9	KG00098432	Confusion NOS	0.10337250679731369
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.10165250301361084
+trial_1	placebo	20	KG00098540	dehydration	0.0924033522605896
+trial_1	placebo	46	KG00099121	Headache NOS	0.09000173956155777
+trial_1	placebo	68	KG00099901	nauseas	0.08431097865104675
+trial_1	placebo	77	KG00098450	Constipation NOS	0.08260668814182281
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.08164246380329132
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.08039317280054092
+trial_1	placebo	123	KG00099351	hypokalaemia	0.0752653181552887
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.0730120837688446
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.07228833436965942
+trial_1	placebo	21	KG00098675	dyspnoea	0.07067999243736267
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.06775383651256561
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.06357681751251221
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.06197003647685051
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.0612030103802681
+trial_1	placebo	228	KG00114657	Weight below normal	0.05661143362522125
+trial_1	placebo	29	KG00099354	hyponatraemia	0.054536670446395874
+trial_1	placebo	104	KG00097963	arthralgias	0.05254266411066055
+trial_1	placebo	85	KG00098474	coughs	0.051960818469524384
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04809073731303215
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.04743334650993347
+trial_1	placebo	86	KG00098565	Depression, Mental	0.046941522508859634
+trial_1	placebo	350	KG00106765	decreased platelet count	0.04664071276783943
+trial_1	placebo	14	KG00097852	Anemia NOS	0.04510878771543503
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.04451272636651993
+trial_1	placebo	126	KG00100076	Pain NOS	0.04436976835131645
+trial_1	placebo	114	KG00098933	fevers	0.04296727851033211
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.04236024618148804
+trial_1	placebo	239	KG00100128	pareses	0.041478078812360764
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04124240577220917
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.040113117545843124
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.04002201557159424
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.03855989873409271
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.03771664947271347
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.036876652389764786
+trial_1	placebo	132	KG00101045	Gain, Weight	0.03683725744485855
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.03588064759969711
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.03509867191314697
+trial_1	placebo	5	KG00099169	haematuria	0.03397352248430252
+trial_1	placebo	139	KG00098855	Sinusitis, Ethmoid	0.03360738977789879
+trial_1	placebo	262	KG00101199	agitation	0.03356112167239189
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.03350376710295677
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.03292880579829216
+trial_1	placebo	102	KG00097916	anxieties	0.03265662118792534
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.03223827853798866
+trial_1	placebo	72	KG00103771	myalgias	0.030876224860548973
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.03081005997955799
+trial_1	placebo	18	KG00098307	Pain, Chest	0.030478879809379578
+trial_1	placebo	116	KG00098964	Pain in foot	0.030106211081147194
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.02974821999669075
+trial_1	placebo	147	KG00098000	atelectases	0.02963617444038391
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.028527358546853065
+trial_1	placebo	194	KG00110727	Neutrophil Count Decreased	0.027985118329524994
+trial_1	placebo	82	KG00097697	abdomen distended	0.027104582637548447
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.026140786707401276
+trial_1	placebo	422	KG00101429	Creatine phosphokinase increased	0.026029665023088455
+trial_1	placebo	121	KG00099190	haemorrhage	0.02574925310909748
+trial_1	placebo	164	KG00108827	ileus colon	0.025656355544924736
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.025645969435572624
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.025164064019918442
+trial_1	placebo	339	KG00100334	proteinurias	0.024877844378352165
+trial_1	placebo	355	KG00110857	lymphocyte count decreased	0.02483641542494297
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.02434021607041359
+trial_1	placebo	242	KG00100855	tremors	0.024254590272903442
+trial_1	placebo	466	KG00101205	fall	0.02413535863161087
+trial_1	placebo	282	KG00099309	hypernatraemia	0.024082813411951065
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.02365817315876484
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.023594630882143974
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.023459013551473618
+trial_1	placebo	92	KG00100926	Infections, Upper Respiratory	0.02343052625656128
+trial_1	placebo	300	KG00101064	xerostomia	0.023006098344922066
+trial_1	placebo	269	KG00100399	pyaemia	0.022997058928012848
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.022784650325775146
+trial_1	placebo	508	KG00108565	blood glucose increased	0.022778088226914406
+trial_1	placebo	97	KG00104198	LIVER ENZYME ELEVATED	0.02217778004705906
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.022115783765912056
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.02202278934419155
+trial_1	placebo	221	KG00101207	peripheral oedema	0.02196778729557991
+trial_1	placebo	66	KG00098642	drowsiness	0.021781781688332558
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.02164875715970993
+trial_1	placebo	166	KG00099773	menopausal syndrome	0.02164132334291935
+trial_1	placebo	341	KG00101472	Gamma-glutamyltransferase increased	0.021568454802036285
+trial_1	placebo	144	KG00099610	Leukopenia NOS	0.021367652341723442
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.021071815863251686
+trial_1	placebo	199	KG00098371	Rhinitis (chronic) NOS	0.021037081256508827
+trial_1	placebo	11	KG00097993	Asthma NOS	0.021001849323511124
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.020876983180642128
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.020702295005321503
+trial_1	placebo	297	KG00099294	hypercholesterolaemia	0.02059793286025524
+trial_1	placebo	154	KG00099686	Lymphopenias	0.020486094057559967
+trial_1	placebo	153	KG00099579	lethargy	0.020481552928686142
+trial_1	placebo	234	KG00098669	dysgeusias	0.020479397848248482
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.02044195495545864
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.020231056958436966
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.02004927210509777
+trial_1	placebo	256	KG00100738	Tachycardia, Sinus	0.020037153735756874
+trial_2	gallamine triethiodide	78	KG00099326	Hypertensive diseases	0.1715753972530365
+trial_2	gallamine triethiodide	87	KG00098599	diarrhoea	0.1423041969537735
+trial_2	gallamine triethiodide	17	KG00097991	Asthenia NOS	0.12060155719518661
+trial_2	gallamine triethiodide	9	KG00098432	Confusion NOS	0.10337250679731369
+trial_2	gallamine triethiodide	177	KG00099299	hyperglycaemia	0.10165250301361084
+trial_2	gallamine triethiodide	20	KG00098540	dehydration	0.0924033522605896
+trial_2	gallamine triethiodide	46	KG00099121	Headache NOS	0.09000173956155777
+trial_2	gallamine triethiodide	68	KG00099901	nauseas	0.08431097865104675
+trial_2	gallamine triethiodide	77	KG00098450	Constipation NOS	0.08260668814182281
+trial_2	gallamine triethiodide	49	KG00099902	nausea with vomiting	0.08164246380329132
+trial_2	gallamine triethiodide	173	KG00098172	Bronchopneumonia NOS	0.08039317280054092
+trial_2	gallamine triethiodide	123	KG00099351	hypokalaemia	0.0752653181552887
+trial_2	gallamine triethiodide	79	KG00100317	Insomnia, Primary	0.0730120837688446
+trial_2	gallamine triethiodide	189	KG00101580	Alanine aminotransferase increase	0.07228833436965942
+trial_2	gallamine triethiodide	21	KG00098675	dyspnoea	0.07067999243736267
+trial_2	gallamine triethiodide	67	KG00098673	Dyspepsia, NOS	0.06775383651256561
+trial_2	gallamine triethiodide	188	KG00101579	Aspartate aminotransferase increase	0.06357681751251221
+trial_2	gallamine triethiodide	200	KG00098539	Disorders, Deglutition	0.06197003647685051
+trial_2	gallamine triethiodide	37	KG00097696	Cramps, Abdominal	0.0612030103802681
+trial_2	gallamine triethiodide	228	KG00114657	Weight below normal	0.05661143362522125
+trial_2	gallamine triethiodide	29	KG00099354	hyponatraemia	0.054536670446395874
+trial_2	gallamine triethiodide	104	KG00097963	arthralgias	0.05254266411066055
+trial_2	gallamine triethiodide	85	KG00098474	coughs	0.051960818469524384
+trial_2	gallamine triethiodide	64	KG00097734	Acrodermatitis, NOS	0.04809073731303215
+trial_2	gallamine triethiodide	151	KG00098274	Infarction, Cerebral	0.04743334650993347
+trial_2	gallamine triethiodide	86	KG00098565	Depression, Mental	0.046941522508859634
+trial_2	gallamine triethiodide	350	KG00106765	decreased platelet count	0.04664071276783943
+trial_2	gallamine triethiodide	14	KG00097852	Anemia NOS	0.04510878771543503
+trial_2	gallamine triethiodide	180	KG00099363	Hypotension NOS	0.04451272636651993
+trial_2	gallamine triethiodide	126	KG00100076	Pain NOS	0.04436976835131645
+trial_2	gallamine triethiodide	114	KG00098933	fevers	0.04296727851033211
+trial_2	gallamine triethiodide	243	KG00100947	Micturition frequency increased	0.04236024618148804
+trial_2	gallamine triethiodide	239	KG00100128	pareses	0.041478078812360764
+trial_2	gallamine triethiodide	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.04124240577220917
+trial_2	gallamine triethiodide	122	KG00099321	Hypersensitivity NOS	0.040113117545843124
+trial_2	gallamine triethiodide	28	KG00099347	hypoglycaemia	0.04002201557159424
+trial_2	gallamine triethiodide	101	KG00097901	Anorexia NOS	0.03855989873409271
+trial_2	gallamine triethiodide	76	KG00100450	Respiratory insufficiency, NOS	0.03771664947271347
+trial_2	gallamine triethiodide	2	KG00100772	thrombocytopaenia	0.036876652389764786
+trial_2	gallamine triethiodide	132	KG00101045	Gain, Weight	0.03683725744485855
+trial_2	gallamine triethiodide	96	KG00101679	Unattended death NOS	0.03588064759969711
+trial_2	gallamine triethiodide	61	KG00099501	Chronic Kidney Failure	0.03509867191314697
+trial_2	gallamine triethiodide	5	KG00099169	haematuria	0.03397352248430252
+trial_2	gallamine triethiodide	139	KG00098855	Sinusitis, Ethmoid	0.03360738977789879
+trial_2	gallamine triethiodide	262	KG00101199	agitation	0.03356112167239189
+trial_2	gallamine triethiodide	27	KG00099303	hyperkalaemia	0.03350376710295677
+trial_2	gallamine triethiodide	179	KG00099342	hypocalcaemia	0.03292880579829216
+trial_2	gallamine triethiodide	102	KG00097916	anxieties	0.03265662118792534
+trial_2	gallamine triethiodide	131	KG00100948	Urinary tract infection (& [NOS])	0.03223827853798866
+trial_2	gallamine triethiodide	72	KG00103771	myalgias	0.030876224860548973
+trial_2	gallamine triethiodide	30	KG00099500	Acute Kidney Failure	0.03081005997955799
+trial_2	gallamine triethiodide	18	KG00098307	Pain, Chest	0.030478879809379578
+trial_2	gallamine triethiodide	116	KG00098964	Pain in foot	0.030106211081147194
+trial_2	gallamine triethiodide	38	KG00098066	Binocular vision disorders	0.02974821999669075
+trial_2	gallamine triethiodide	147	KG00098000	atelectases	0.02963617444038391
+trial_2	gallamine triethiodide	261	KG00101559	raised alkaline phosphatase	0.028527358546853065
+trial_2	gallamine triethiodide	194	KG00110727	Neutrophil Count Decreased	0.027985118329524994
+trial_2	gallamine triethiodide	82	KG00097697	abdomen distended	0.027104582637548447
+trial_2	gallamine triethiodide	36	KG00106434	Vision, Blurring Of	0.026140786707401276
+trial_2	gallamine triethiodide	422	KG00101429	Creatine phosphokinase increased	0.026029665023088455
+trial_2	gallamine triethiodide	121	KG00099190	haemorrhage	0.02574925310909748
+trial_2	gallamine triethiodide	164	KG00108827	ileus colon	0.025656355544924736
+trial_2	gallamine triethiodide	396	KG00100373	Embolism, Pulmonary	0.025645969435572624
+trial_2	gallamine triethiodide	276	KG00099127	Arrest, Cardiac	0.025164064019918442
+trial_2	gallamine triethiodide	339	KG00100334	proteinurias	0.024877844378352165
+trial_2	gallamine triethiodide	355	KG00110857	lymphocyte count decreased	0.02483641542494297
+trial_2	gallamine triethiodide	142	KG00100923	Unspecified infectious and parasitic diseases	0.02434021607041359
+trial_2	gallamine triethiodide	242	KG00100855	tremors	0.024254590272903442
+trial_2	gallamine triethiodide	466	KG00101205	fall	0.02413535863161087
+trial_2	gallamine triethiodide	282	KG00099309	hypernatraemia	0.024082813411951065
+trial_2	gallamine triethiodide	31	KG00099872	Infarction, Myocardial	0.02365817315876484
+trial_2	gallamine triethiodide	286	KG00101110	Retention, Urinary	0.023594630882143974
+trial_2	gallamine triethiodide	33	KG00100094	Pancreatitis NOS	0.023459013551473618
+trial_2	gallamine triethiodide	92	KG00100926	Infections, Upper Respiratory	0.02343052625656128
+trial_2	gallamine triethiodide	300	KG00101064	xerostomia	0.023006098344922066
+trial_2	gallamine triethiodide	269	KG00100399	pyaemia	0.022997058928012848
+trial_2	gallamine triethiodide	69	KG00100082	Palpitations NOS	0.022784650325775146
+trial_2	gallamine triethiodide	508	KG00108565	blood glucose increased	0.022778088226914406
+trial_2	gallamine triethiodide	97	KG00104198	LIVER ENZYME ELEVATED	0.02217778004705906
+trial_2	gallamine triethiodide	75	KG00100195	Dolens, Phlegmasia Alba	0.022115783765912056
+trial_2	gallamine triethiodide	204	KG00098849	Esophagitis, Peptic	0.02202278934419155
+trial_2	gallamine triethiodide	221	KG00101207	peripheral oedema	0.02196778729557991
+trial_2	gallamine triethiodide	66	KG00098642	drowsiness	0.021781781688332558
+trial_2	gallamine triethiodide	191	KG00104055	Biliverdin increased	0.02164875715970993
+trial_2	gallamine triethiodide	166	KG00099773	menopausal syndrome	0.02164132334291935
+trial_2	gallamine triethiodide	341	KG00101472	Gamma-glutamyltransferase increased	0.021568454802036285
+trial_2	gallamine triethiodide	144	KG00099610	Leukopenia NOS	0.021367652341723442
+trial_2	gallamine triethiodide	394	KG00100243	Pneumonia, Aspiration	0.021071815863251686
+trial_2	gallamine triethiodide	199	KG00098371	Rhinitis (chronic) NOS	0.021037081256508827
+trial_2	gallamine triethiodide	11	KG00097993	Asthma NOS	0.021001849323511124
+trial_2	gallamine triethiodide	249	KG00104430	hypoalbuminaemia	0.020876983180642128
+trial_2	gallamine triethiodide	118	KG00099011	Gastritis NOS	0.020702295005321503
+trial_2	gallamine triethiodide	297	KG00099294	hypercholesterolaemia	0.02059793286025524
+trial_2	gallamine triethiodide	154	KG00099686	Lymphopenias	0.020486094057559967
+trial_2	gallamine triethiodide	153	KG00099579	lethargy	0.020481552928686142
+trial_2	gallamine triethiodide	234	KG00098669	dysgeusias	0.020479397848248482
+trial_2	gallamine triethiodide	253	KG00100232	Pleural effusion NOS (disorder)	0.02044195495545864
+trial_2	gallamine triethiodide	130	KG00100683	Stomatitis NOS	0.020231056958436966
+trial_2	gallamine triethiodide	15	KG00097882	Angina pectoris NOS	0.02004927210509777
+trial_2	gallamine triethiodide	256	KG00100738	Tachycardia, Sinus	0.020037153735756874

@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	placebo	9	KG00098432	Confusion NOS	0.08551213890314102
+trial_1	placebo	87	KG00098599	diarrhoea	0.07503867149353027
+trial_1	placebo	78	KG00099326	Hypertensive diseases	0.060681089758872986
+trial_1	placebo	64	KG00097734	Acrodermatitis, NOS	0.04906918480992317
+trial_1	placebo	123	KG00099351	hypokalaemia	0.043701112270355225
+trial_1	placebo	173	KG00098172	Bronchopneumonia NOS	0.040450792759656906
+trial_1	placebo	17	KG00097991	Asthenia NOS	0.038978904485702515
+trial_1	placebo	20	KG00098540	dehydration	0.03887360915541649
+trial_1	placebo	21	KG00098675	dyspnoea	0.03872545808553696
+trial_1	placebo	77	KG00098450	Constipation NOS	0.03607087582349777
+trial_1	placebo	46	KG00099121	Headache NOS	0.033473167568445206
+trial_1	placebo	177	KG00099299	hyperglycaemia	0.030328107997775078
+trial_1	placebo	151	KG00098274	Infarction, Cerebral	0.02939426340162754
+trial_1	placebo	37	KG00097696	Cramps, Abdominal	0.02927064709365368
+trial_1	placebo	49	KG00099902	nausea with vomiting	0.029057685285806656
+trial_1	placebo	68	KG00099901	nauseas	0.02842085249722004
+trial_1	placebo	61	KG00099501	Chronic Kidney Failure	0.028351912274956703
+trial_1	placebo	228	KG00114657	Weight below normal	0.028025545179843903
+trial_1	placebo	180	KG00099363	Hypotension NOS	0.027172090485692024
+trial_1	placebo	67	KG00098673	Dyspepsia, NOS	0.026761308312416077
+trial_1	placebo	126	KG00100076	Pain NOS	0.026667887344956398
+trial_1	placebo	200	KG00098539	Disorders, Deglutition	0.02593926154077053
+trial_1	placebo	396	KG00100373	Embolism, Pulmonary	0.02497442066669464
+trial_1	placebo	76	KG00100450	Respiratory insufficiency, NOS	0.023754339665174484
+trial_1	placebo	29	KG00099354	hyponatraemia	0.02359362505376339
+trial_1	placebo	147	KG00098000	atelectases	0.02345181629061699
+trial_1	placebo	14	KG00097852	Anemia NOS	0.02281706966459751
+trial_1	placebo	30	KG00099500	Acute Kidney Failure	0.02238365449011326
+trial_1	placebo	189	KG00101580	Alanine aminotransferase increase	0.021145306527614594
+trial_1	placebo	79	KG00100317	Insomnia, Primary	0.02109520137310028
+trial_1	placebo	121	KG00099190	haemorrhage	0.020983118563890457
+trial_1	placebo	211	KG00100341	Pruritus NOS	0.020531097427010536
+trial_1	placebo	101	KG00097901	Anorexia NOS	0.02045769803225994
+trial_1	placebo	114	KG00098933	fevers	0.020314453169703484
+trial_1	placebo	96	KG00101679	Unattended death NOS	0.019262272864580154
+trial_1	placebo	188	KG00101579	Aspartate aminotransferase increase	0.018584106117486954
+trial_1	placebo	18	KG00098307	Pain, Chest	0.018396105617284775
+trial_1	placebo	243	KG00100947	Micturition frequency increased	0.018384218215942383
+trial_1	placebo	361	KG00098004	Fibrillation, Atrial	0.018337447196245193
+trial_1	placebo	28	KG00099347	hypoglycaemia	0.018260285258293152
+trial_1	placebo	85	KG00098474	coughs	0.017994478344917297
+trial_1	placebo	441	KG00098262	cellulitis nos	0.017790110781788826
+trial_1	placebo	31	KG00099872	Infarction, Myocardial	0.017207736149430275
+trial_1	placebo	253	KG00100232	Pleural effusion NOS (disorder)	0.017165685072541237
+trial_1	placebo	2	KG00100772	thrombocytopaenia	0.01715047098696232
+trial_1	placebo	269	KG00100399	pyaemia	0.017056386917829514
+trial_1	placebo	69	KG00100082	Palpitations NOS	0.016920194029808044
+trial_1	placebo	239	KG00100128	pareses	0.01677320897579193
+trial_1	placebo	131	KG00100948	Urinary tract infection (& [NOS])	0.016468314453959465
+trial_1	placebo	142	KG00100923	Unspecified infectious and parasitic diseases	0.016007674857974052
+trial_1	placebo	276	KG00099127	Arrest, Cardiac	0.015548866242170334
+trial_1	placebo	300	KG00101064	xerostomia	0.015377480536699295
+trial_1	placebo	5	KG00099169	haematuria	0.015188855119049549
+trial_1	placebo	179	KG00099342	hypocalcaemia	0.015030475333333015
+trial_1	placebo	38	KG00098066	Binocular vision disorders	0.01502801850438118
+trial_1	placebo	286	KG00101110	Retention, Urinary	0.014689775183796883
+trial_1	placebo	136	KG00101582	Dry;skin	0.014492671936750412
+trial_1	placebo	350	KG00106765	decreased platelet count	0.014402411878108978
+trial_1	placebo	249	KG00104430	hypoalbuminaemia	0.01439079362899065
+trial_1	placebo	27	KG00099303	hyperkalaemia	0.014354824088513851
+trial_1	placebo	234	KG00098669	dysgeusias	0.014268601313233376
+trial_1	placebo	86	KG00098565	Depression, Mental	0.014151076786220074
+trial_1	placebo	75	KG00100195	Dolens, Phlegmasia Alba	0.01414725836366415
+trial_1	placebo	104	KG00097963	arthralgias	0.01391926035284996
+trial_1	placebo	164	KG00108827	ileus colon	0.013636399060487747
+trial_1	placebo	15	KG00097882	Angina pectoris NOS	0.013325987383723259
+trial_1	placebo	102	KG00097916	anxieties	0.013058997690677643
+trial_1	placebo	261	KG00101559	raised alkaline phosphatase	0.012985443696379662
+trial_1	placebo	371	KG00098517	Cystitis (NOS)	0.012864449992775917
+trial_1	placebo	138	KG00098796	epidemic vomiting syndrome	0.012709185481071472
+trial_1	placebo	191	KG00104055	Biliverdin increased	0.012696596793830395
+trial_1	placebo	35	KG00101507	hypomagnesaemia	0.012556314468383789
+trial_1	placebo	122	KG00099321	Hypersensitivity NOS	0.012421350926160812
+trial_1	placebo	466	KG00101205	fall	0.012356218881905079
+trial_1	placebo	130	KG00100683	Stomatitis NOS	0.012022792361676693
+trial_1	placebo	82	KG00097697	abdomen distended	0.011965472251176834
+trial_1	placebo	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011884666979312897
+trial_1	placebo	118	KG00099011	Gastritis NOS	0.011676940135657787
+trial_1	placebo	257	KG00100922	Erythema NOS	0.011669640429317951
+trial_1	placebo	356	KG00112623	Infectious Lung Disorders	0.0114192645996809
+trial_1	placebo	36	KG00106434	Vision, Blurring Of	0.011135892942547798
+trial_1	placebo	186	KG00101431	creatinine increased	0.010294624604284763
+trial_1	placebo	221	KG00101207	peripheral oedema	0.010254519060254097
+trial_1	placebo	22	KG00098705	Edema (NOS)	0.010164834558963776
+trial_1	placebo	254	KG00100774	Thrombosis NOS	0.010079014115035534
+trial_1	placebo	394	KG00100243	Pneumonia, Aspiration	0.01003918144851923
+trial_1	placebo	282	KG00099309	hypernatraemia	0.00980826560407877
+trial_1	placebo	72	KG00103771	myalgias	0.009658081457018852
+trial_1	placebo	204	KG00098849	Esophagitis, Peptic	0.009602656587958336
+trial_1	placebo	98	KG00097718	Incised wound, NOS	0.009600788354873657
+trial_1	placebo	288	KG00101223	hypophosphataemia	0.00943971797823906
+trial_1	placebo	218	KG00100801	Tinnitus NOS	0.009351829998195171
+trial_1	placebo	4	KG00098817	epistaxis	0.009316356852650642
+trial_1	placebo	116	KG00098964	Pain in foot	0.009253116324543953
+trial_1	placebo	454	KG00098286	Pain, Neck	0.009215302765369415
+trial_1	placebo	25	KG00099134	congestive failures heart	0.009108350612223148
+trial_1	placebo	66	KG00098642	drowsiness	0.009048130363225937
+trial_1	placebo	33	KG00100094	Pancreatitis NOS	0.009038378484547138
+trial_1	placebo	242	KG00100855	tremors	0.008982253260910511
+trial_1	placebo	133	KG00101370	neuropathies sensory	0.008929110132157803
+trial_2	guaifenesin	9	KG00098432	Confusion NOS	0.08551213890314102
+trial_2	guaifenesin	87	KG00098599	diarrhoea	0.07503867149353027
+trial_2	guaifenesin	78	KG00099326	Hypertensive diseases	0.060681089758872986
+trial_2	guaifenesin	64	KG00097734	Acrodermatitis, NOS	0.04906918480992317
+trial_2	guaifenesin	123	KG00099351	hypokalaemia	0.043701112270355225
+trial_2	guaifenesin	173	KG00098172	Bronchopneumonia NOS	0.040450792759656906
+trial_2	guaifenesin	17	KG00097991	Asthenia NOS	0.038978904485702515
+trial_2	guaifenesin	20	KG00098540	dehydration	0.03887360915541649
+trial_2	guaifenesin	21	KG00098675	dyspnoea	0.03872545808553696
+trial_2	guaifenesin	77	KG00098450	Constipation NOS	0.03607087582349777
+trial_2	guaifenesin	46	KG00099121	Headache NOS	0.033473167568445206
+trial_2	guaifenesin	177	KG00099299	hyperglycaemia	0.030328107997775078
+trial_2	guaifenesin	151	KG00098274	Infarction, Cerebral	0.02939426340162754
+trial_2	guaifenesin	37	KG00097696	Cramps, Abdominal	0.02927064709365368
+trial_2	guaifenesin	49	KG00099902	nausea with vomiting	0.029057685285806656
+trial_2	guaifenesin	68	KG00099901	nauseas	0.02842085249722004
+trial_2	guaifenesin	61	KG00099501	Chronic Kidney Failure	0.028351912274956703
+trial_2	guaifenesin	228	KG00114657	Weight below normal	0.028025545179843903
+trial_2	guaifenesin	180	KG00099363	Hypotension NOS	0.027172090485692024
+trial_2	guaifenesin	67	KG00098673	Dyspepsia, NOS	0.026761308312416077
+trial_2	guaifenesin	126	KG00100076	Pain NOS	0.026667887344956398
+trial_2	guaifenesin	200	KG00098539	Disorders, Deglutition	0.02593926154077053
+trial_2	guaifenesin	396	KG00100373	Embolism, Pulmonary	0.02497442066669464
+trial_2	guaifenesin	76	KG00100450	Respiratory insufficiency, NOS	0.023754339665174484
+trial_2	guaifenesin	29	KG00099354	hyponatraemia	0.02359362505376339
+trial_2	guaifenesin	147	KG00098000	atelectases	0.02345181629061699
+trial_2	guaifenesin	14	KG00097852	Anemia NOS	0.02281706966459751
+trial_2	guaifenesin	30	KG00099500	Acute Kidney Failure	0.02238365449011326
+trial_2	guaifenesin	189	KG00101580	Alanine aminotransferase increase	0.021145306527614594
+trial_2	guaifenesin	79	KG00100317	Insomnia, Primary	0.02109520137310028
+trial_2	guaifenesin	121	KG00099190	haemorrhage	0.020983118563890457
+trial_2	guaifenesin	211	KG00100341	Pruritus NOS	0.020531097427010536
+trial_2	guaifenesin	101	KG00097901	Anorexia NOS	0.02045769803225994
+trial_2	guaifenesin	114	KG00098933	fevers	0.020314453169703484
+trial_2	guaifenesin	96	KG00101679	Unattended death NOS	0.019262272864580154
+trial_2	guaifenesin	188	KG00101579	Aspartate aminotransferase increase	0.018584106117486954
+trial_2	guaifenesin	18	KG00098307	Pain, Chest	0.018396105617284775
+trial_2	guaifenesin	243	KG00100947	Micturition frequency increased	0.018384218215942383
+trial_2	guaifenesin	361	KG00098004	Fibrillation, Atrial	0.018337447196245193
+trial_2	guaifenesin	28	KG00099347	hypoglycaemia	0.018260285258293152
+trial_2	guaifenesin	85	KG00098474	coughs	0.017994478344917297
+trial_2	guaifenesin	441	KG00098262	cellulitis nos	0.017790110781788826
+trial_2	guaifenesin	31	KG00099872	Infarction, Myocardial	0.017207736149430275
+trial_2	guaifenesin	253	KG00100232	Pleural effusion NOS (disorder)	0.017165685072541237
+trial_2	guaifenesin	2	KG00100772	thrombocytopaenia	0.01715047098696232
+trial_2	guaifenesin	269	KG00100399	pyaemia	0.017056386917829514
+trial_2	guaifenesin	69	KG00100082	Palpitations NOS	0.016920194029808044
+trial_2	guaifenesin	239	KG00100128	pareses	0.01677320897579193
+trial_2	guaifenesin	131	KG00100948	Urinary tract infection (& [NOS])	0.016468314453959465
+trial_2	guaifenesin	142	KG00100923	Unspecified infectious and parasitic diseases	0.016007674857974052
+trial_2	guaifenesin	276	KG00099127	Arrest, Cardiac	0.015548866242170334
+trial_2	guaifenesin	300	KG00101064	xerostomia	0.015377480536699295
+trial_2	guaifenesin	5	KG00099169	haematuria	0.015188855119049549
+trial_2	guaifenesin	179	KG00099342	hypocalcaemia	0.015030475333333015
+trial_2	guaifenesin	38	KG00098066	Binocular vision disorders	0.01502801850438118
+trial_2	guaifenesin	286	KG00101110	Retention, Urinary	0.014689775183796883
+trial_2	guaifenesin	136	KG00101582	Dry;skin	0.014492671936750412
+trial_2	guaifenesin	350	KG00106765	decreased platelet count	0.014402411878108978
+trial_2	guaifenesin	249	KG00104430	hypoalbuminaemia	0.01439079362899065
+trial_2	guaifenesin	27	KG00099303	hyperkalaemia	0.014354824088513851
+trial_2	guaifenesin	234	KG00098669	dysgeusias	0.014268601313233376
+trial_2	guaifenesin	86	KG00098565	Depression, Mental	0.014151076786220074
+trial_2	guaifenesin	75	KG00100195	Dolens, Phlegmasia Alba	0.01414725836366415
+trial_2	guaifenesin	104	KG00097963	arthralgias	0.01391926035284996
+trial_2	guaifenesin	164	KG00108827	ileus colon	0.013636399060487747
+trial_2	guaifenesin	15	KG00097882	Angina pectoris NOS	0.013325987383723259
+trial_2	guaifenesin	102	KG00097916	anxieties	0.013058997690677643
+trial_2	guaifenesin	261	KG00101559	raised alkaline phosphatase	0.012985443696379662
+trial_2	guaifenesin	371	KG00098517	Cystitis (NOS)	0.012864449992775917
+trial_2	guaifenesin	138	KG00098796	epidemic vomiting syndrome	0.012709185481071472
+trial_2	guaifenesin	191	KG00104055	Biliverdin increased	0.012696596793830395
+trial_2	guaifenesin	35	KG00101507	hypomagnesaemia	0.012556314468383789
+trial_2	guaifenesin	122	KG00099321	Hypersensitivity NOS	0.012421350926160812
+trial_2	guaifenesin	466	KG00101205	fall	0.012356218881905079
+trial_2	guaifenesin	130	KG00100683	Stomatitis NOS	0.012022792361676693
+trial_2	guaifenesin	82	KG00097697	abdomen distended	0.011965472251176834
+trial_2	guaifenesin	193	KG00108982	WHITE BLOOD CELL COUNT DECREASED	0.011884666979312897
+trial_2	guaifenesin	118	KG00099011	Gastritis NOS	0.011676940135657787
+trial_2	guaifenesin	257	KG00100922	Erythema NOS	0.011669640429317951
+trial_2	guaifenesin	356	KG00112623	Infectious Lung Disorders	0.0114192645996809
+trial_2	guaifenesin	36	KG00106434	Vision, Blurring Of	0.011135892942547798
+trial_2	guaifenesin	186	KG00101431	creatinine increased	0.010294624604284763
+trial_2	guaifenesin	221	KG00101207	peripheral oedema	0.010254519060254097
+trial_2	guaifenesin	22	KG00098705	Edema (NOS)	0.010164834558963776
+trial_2	guaifenesin	254	KG00100774	Thrombosis NOS	0.010079014115035534
+trial_2	guaifenesin	394	KG00100243	Pneumonia, Aspiration	0.01003918144851923
+trial_2	guaifenesin	282	KG00099309	hypernatraemia	0.00980826560407877
+trial_2	guaifenesin	72	KG00103771	myalgias	0.009658081457018852
+trial_2	guaifenesin	204	KG00098849	Esophagitis, Peptic	0.009602656587958336
+trial_2	guaifenesin	98	KG00097718	Incised wound, NOS	0.009600788354873657
+trial_2	guaifenesin	288	KG00101223	hypophosphataemia	0.00943971797823906
+trial_2	guaifenesin	218	KG00100801	Tinnitus NOS	0.009351829998195171
+trial_2	guaifenesin	4	KG00098817	epistaxis	0.009316356852650642
+trial_2	guaifenesin	116	KG00098964	Pain in foot	0.009253116324543953
+trial_2	guaifenesin	454	KG00098286	Pain, Neck	0.009215302765369415
+trial_2	guaifenesin	25	KG00099134	congestive failures heart	0.009108350612223148
+trial_2	guaifenesin	66	KG00098642	drowsiness	0.009048130363225937
+trial_2	guaifenesin	33	KG00100094	Pancreatitis NOS	0.009038378484547138
+trial_2	guaifenesin	242	KG00100855	tremors	0.008982253260910511
+trial_2	guaifenesin	133	KG00101370	neuropathies sensory	0.008929110132157803

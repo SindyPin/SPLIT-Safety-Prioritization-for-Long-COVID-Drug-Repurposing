@@ -1,0 +1,355 @@
+{
+  "nct_id": "NCT04880161_CF_Cyclophosphamide",
+  "arm_group": [
+    {
+      "type": "EXPERIMENTAL",
+      "description": "Cyclophosphamide",
+      "interventionNames": [
+        "Drug: Cyclophosphamide"
+      ],
+      "arm_group_label": "Active",
+      "medex_out": {
+        "ampion": [
+          {
+            "drug_name": "ampion",
+            "brand_name": "",
+            "drug_form": "",
+            "strength": "",
+            "dose_amount": "",
+            "route": "",
+            "frequency": "",
+            "duration": "",
+            "necessity": "",
+            "umls_cui": "",
+            "rxnorm_cui": "",
+            "rxnorm_cui_generic_name": "",
+            "generic_name": ""
+          }
+        ]
+      },
+      "is_incomplete": false,
+      "non_drug": false
+    },
+    {
+      "type": "PLACEBO_COMPARATOR",
+      "description": "Placebo",
+      "interventionNames": [
+        "Other: Placebo"
+      ],
+      "arm_group_label": "Control",
+      "medex_out": {
+        "placebo": [
+          {
+            "drug_name": "placebo",
+            "brand_name": "",
+            "drug_form": "",
+            "strength": "",
+            "dose_amount": "",
+            "route": "",
+            "frequency": "",
+            "duration": "",
+            "necessity": "",
+            "umls_cui": "c1696465",
+            "rxnorm_cui": "8375",
+            "rxnorm_cui_generic_name": "8375",
+            "generic_name": "placebo"
+          }
+        ]
+      },
+      "is_incomplete": true,
+      "non_drug": true
+    }
+  ],
+  "intervention": [
+    {
+      "intervention_type": "Drug",
+      "intervention_name": "Cyclophosphamide",
+      "description": "Cyclophosphamide administered as the experimental intervention in a synthetic counterfactual trial using the original NCT04880161 population and outcomes.",
+      "other_name": [],
+      "arm_group_label": [
+        "Active"
+      ],
+      "medex_out": [
+        {
+          "drug_name": "Cyclophosphamide",
+          "generic_name": "cyclophosphamide",
+          "brand_name": "",
+          "drugbank_id": "DB00531",
+          "rxnorm_id": null,
+          "umls_cui": null,
+          "strength": "",
+          "dose_form": "",
+          "route": "",
+          "frequency": "",
+          "duration": "",
+          "necessity": ""
+        }
+      ],
+      "is_incomplete": false,
+      "drug_ids": [
+        "DB00531"
+      ]
+    },
+    {
+      "description": "Inhaled Placebo",
+      "intervention_type": "Other",
+      "intervention_name": "Placebo",
+      "arm_group_label": [
+        "Control"
+      ]
+    }
+  ],
+  "condition": [
+    "Covid19"
+  ],
+  "intervention_mesh_terms": [
+    {
+      "id": "D000086382",
+      "term": "COVID-19"
+    }
+  ],
+  "primary_outcome": [
+    {
+      "measure": "The Number of Participants With Treatment Emergent Adverse Events of Ampion Compared to Placebo",
+      "description": "Number of subjects with treatment emergent adverse events (TEAEs) and serious adverse events (SAEs) of treatment of inhalation Ampion compared to Placebo. AEs were assessed based on symptoms as a severity rating of mild, moderate, or severe. The relationship between AE and study drug was determined as either unrelated, possibly related, or related. SAEs are defined as resulting death, life threatening, requires prolonged hospitalization, results in persistent or significant disability/incapacity, or results in congenital anomaly/birth defect.",
+      "timeFrame": "Baseline to Day 28",
+      "cids": [
+        0,
+        29,
+        55,
+        58
+      ],
+      "clusters": [
+        "advers_event_grade_accord, advers_event_report, advers_event_ae, advers_event_teae, ae, advers_event_monitor, advers_event_ctcae, advers_event, advers_event_collect, advers_event_ctcae_version, advers_event_profil",
+        "emerg_advers_event",
+        "treatment_emerg, treatment_failur, treatment_failur_ttf, treatment_relat, treatment_arm, treatment_eot, treatment_relat_mortal, treatment_assign",
+        "treatment_emerg_advers_event, treatment_emerg_serious_advers"
+      ]
+    }
+  ],
+  "secondary_outcome": null,
+  "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female adults: \u2265 18 years.\n2. Must have a clinical diagnosis of COVID-19 at least 4 weeks prior to the screening date, with at least one of clinical symptoms (e.g., fever \u2265 38\u00b0C, fatigue, cough) and a positive result by the reverse-transcription polymerase chain reaction (RT-PCR) testing or equivalent.\n3. Experiencing at least two COVID-19 respiratory symptoms with a score of two or higher using the FDA Assessment of 14 Common COVID-19-Related Symptoms questionnaire for at least 4 weeks (28 days) after initial positive COVID-19 diagnosis: cough, sore throat, runny/stuffy nose, shortness of breath (difficulties breathing), tightness of chest, low exercise tolerance.\n4. Able to bear weight and ambulate a minimum of 10 meters distance.\n5. Women of childbearing potential and their partner must agree to use at least one highly effective method of contraception (e.g., hormonal contraceptives \\[implants, injectables, combination oral contraceptives, transdermal patches, or contraceptive rings\\], intrauterine devices, bilateral tubal occlusion, or sexual abstinence) for the duration of the study.\n6. Informed consent obtained from the patient or the patient's legal representative.\n\nExclusion Criteria:\n\n1. Subjects who require hospitalization.\n2. Patient has severe chronic obstructive or restrictive pulmonary disease (COPD) as defined by prior pulmonary function tests, chronic renal failure, or significant liver abnormality (e.g., cirrhosis, transplant, etc.).\n3. History of Chronic Fatigue Syndrome prior to COVID-19 infection.\n4. Patient is on chronic immunosuppressive medication.\n5. Patient requires surgery that could be life-threatening within the study window.\n6. A history of allergic reactions to human albumin (reaction to non-human albumin such as egg albumin is not an exclusion criterion) or ingredients in 5% human albumin (N-acetyl tryptophan, sodium caprylate).\n7. Patient has known pregnancy or is currently breastfeeding.\n8. Participation in a trial such that enrollment in this study would fall within the time frame of the half-life of the other investigational product(s).\n9. Clinically significant findings via electrocardiogram (ECG), including acute myocardial infarction, acute ischemic changes, atrial fibrillation, atrial flutter, paced rhythms in individuals who have undergone permanent pacemaker placement, evidence of prior infarction, unchanged stable conduction abnormalities e.g., right bundle branch block, or any other finding which does not significantly impact mortality.\n10. Pre-existing co-morbid condition(s) preventing outcome assessments, e.g. disease or condition that would prevent ability to transfer and walk for 6 minutes, prior to confirmed COVID-19 diagnosis (assisted walking devices are acceptable)\n11. As a result of the medical review and screening investigation, the Principal Investigator considers the patient unfit for the study.",
+  "brief_summary": "[COUNTERFACTUAL ANALYSIS] Synthetic counterfactual trial reusing the original population and outcomes of NCT04880161, with the experimental intervention replaced by Cyclophosphamide. No real results are included.",
+  "phase": [
+    "PHASE1"
+  ],
+  "enrollment": {
+    "count": 32,
+    "type": "ACTUAL"
+  },
+  "gender_sex": "ALL",
+  "minimum_age": "18 Years",
+  "maximum_age": null,
+  "clinical_results": {},
+  "medex_raw": {
+    "arm_0": [
+      "2\tmedication: active ampion|ampion[38,44]||||||||||||",
+      ""
+    ],
+    "rarm_0_title": [
+      ""
+    ],
+    "rarm_1_title_desc": [
+      "1\tcontrol placebo|placebo[8,15]|||||||||C1696465|8375|8375|placebo",
+      "2\tplacebo: inhaled nebulized saline (8 ml) administered four times daily, every four to six hours, for five days.|saline[44,50]|||8ml[52,56]||nebulized[34,43]|four times daily(R4P1D)[71,87]|four to six hours[95,112]|||789982|789982|saline",
+      "2\tplacebo: inhaled nebulized saline (8 ml) administered four times daily, every four to six hours, for five days.|placebo[17,24]|||||inhaled[26,33]||||C1696465|8375|8375|placebo",
+      ""
+    ],
+    "arm_1": [
+      "2\tmedication: control placebo|placebo[40,47]|||||||||C1696465|8375|8375|placebo",
+      ""
+    ],
+    "rarm_0_title_desc": [
+      "1\tactive ampion|ampion[7,13]||||||||||||",
+      "2\tampion: inhaled nebulized ampion (8 ml) administered four times daily, every four to six hours, for five days.|ampion[15,21]|||8ml[49,53]||nebulized[31,40]|four times daily(R4P1D)[68,84]|four to six hours[92,109]|||||",
+      "2\tampion: inhaled nebulized ampion (8 ml) administered four times daily, every four to six hours, for five days.|ampion[41,47]|||||inhaled[23,30]|||||||",
+      ""
+    ],
+    "rarm_1_title": [
+      ""
+    ],
+    "drug_1": [
+      "1\tmedication: placebo|placebo[12,19]|||||||||C1696465|8375|8375|placebo",
+      "2\tmedication: inhaled placebo|placebo[40,47]|||||inhaled[32,39]||||C1696465|8375|8375|placebo",
+      ""
+    ]
+  },
+  "medex_processed": {
+    "ampion": [
+      {
+        "drug_name": "ampion",
+        "brand_name": "",
+        "drug_form": "",
+        "strength": "8ml",
+        "dose_amount": "",
+        "route": "nebulized",
+        "frequency": "four times daily(r4p1d)",
+        "duration": "four to six hours",
+        "necessity": "",
+        "umls_cui": "",
+        "rxnorm_cui": "",
+        "rxnorm_cui_generic_name": "",
+        "generic_name": ""
+      },
+      {
+        "drug_name": "ampion",
+        "brand_name": "",
+        "drug_form": "",
+        "strength": "",
+        "dose_amount": "",
+        "route": "inhaled",
+        "frequency": "",
+        "duration": "",
+        "necessity": "",
+        "umls_cui": "",
+        "rxnorm_cui": "",
+        "rxnorm_cui_generic_name": "",
+        "generic_name": ""
+      }
+    ],
+    "placebo": [
+      {
+        "drug_name": "placebo",
+        "brand_name": "",
+        "drug_form": "",
+        "strength": "",
+        "dose_amount": "",
+        "route": "inhaled",
+        "frequency": "",
+        "duration": "",
+        "necessity": "",
+        "umls_cui": "c1696465",
+        "rxnorm_cui": "8375",
+        "rxnorm_cui_generic_name": "8375",
+        "generic_name": "placebo"
+      }
+    ],
+    "saline": [
+      {
+        "drug_name": "saline",
+        "brand_name": "",
+        "drug_form": "",
+        "strength": "8ml",
+        "dose_amount": "",
+        "route": "nebulized",
+        "frequency": "four times daily(r4p1d)",
+        "duration": "four to six hours",
+        "necessity": "",
+        "umls_cui": "",
+        "rxnorm_cui": "789982",
+        "rxnorm_cui_generic_name": "789982",
+        "generic_name": "saline"
+      }
+    ]
+  },
+  "ec_umls": {
+    "Demographic": {
+      "inclusion": [],
+      "exclusion": [
+        "Male (Male) | \u2265 18 years  (Concept: Males)",
+        "Women (Women) |  (Concept: Woman)",
+        "female (female) | \u2265 18 years  (Concept: Woman)"
+      ]
+    },
+    "Condition": {
+      "inclusion": [],
+      "exclusion": [
+        "COVID-19 (COVID-19) |  (Concept: Disease)",
+        "COVID-19 (COVID-19) | at least 4 weeks  (Concept: Disease)",
+        "COVID-19 diagnosis (COVID-19 diagnosis) |  (Concept: Diagnosis)",
+        "COVID-19 diagnosis (COVID-19 diagnosis) | at least 4 weeks  (Concept: Diagnosis)",
+        "COVID-19 infection (COVID-19 infection) |  (Concept: Communicable Diseases)",
+        "Fatigue Syndrome (Chronic Fatigue Syndrome) |  (Concept: Chronic Fatigue Syndrome)",
+        "Symptoms (Symptoms) | at least 4 weeks  (Concept: Symptoms aspect)",
+        "abstinence (abstinence) |  (Concept: Temperance)",
+        "acute ischemic changes (acute ischemic changes) |  (Concept: ACC/AHA Ischemic ECG Changes)",
+        "acute myocardial infarction (acute myocardial infarction) |  (Concept: Acute myocardial infarction, subendocardial infarction)",
+        "allergic reactions (allergic reactions) | 5 % human albumin ( N-acetyl tryptophan  (Concept: Hypersensitivity)",
+        "atrial fibrillation (atrial fibrillation) |  (Concept: Atrial Fibrillation)",
+        "atrial flutter (atrial flutter) |  (Concept: Atrial Flutter)",
+        "breastfeeding (breastfeeding) | currently  (Concept: Breast Feeding)",
+        "childbearing potential (childbearing potential) |  (Concept: Childbearing Potential)",
+        "cirrhosis (cirrhosis) |  (Concept: Liver Cirrhosis)",
+        "condition (condition) |  (Concept: Disease)",
+        "cough (cough) | at least 4 weeks  (Concept: Coughing)",
+        "cough (cough) | at least 4 weeks  (Concept: Coughing)",
+        "diagnosis of COVID-19 (diagnosis of COVID-19) | at least 4 weeks  (Concept: Diagnosis)",
+        "disease (disease) |  (Concept: Disease)",
+        "fatigue (fatigue) | at least 4 weeks  (Concept: Fatigue)",
+        "fever (fever) | at least 4 weeks  (Concept: Fever)",
+        "findings via electrocardiogram (significant findings via electrocardiogram) |",
+        "immunosuppressive medication (chronic immunosuppressive medication) |  (Concept: Immunosuppressive Agents)",
+        "liver abnormality (significant liver abnormality) |  (Concept: Abnormality of the liver)",
+        "obstructive (severe chronic obstructive) |  (Concept: Obstructed)",
+        "pregnancy (pregnancy) | currently  (Concept: Pregnancy)",
+        "prior infarction (prior infarction) |  (Concept: Infarction)",
+        "reaction (reaction) | 5 % human albumin ( N-acetyl tryptophan  (Concept: Reaction)",
+        "renal failure (chronic renal failure) |  (Concept: Kidney Failure)",
+        "respiratory (respiratory) | at least 4 weeks  (Concept: Mechanical Ventilator)",
+        "restrictive pulmonary disease ( COPD ) (restrictive pulmonary disease ( COPD )) |",
+        "right bundle branch block (right bundle branch block) |  (Concept: Right bundle branch block)",
+        "shortness of breath (shortness of breath) | at least 4 weeks  (Concept: Dyspnea)",
+        "sore throat (sore throat) | at least 4 weeks  (Concept: Pharyngeal structure)",
+        "symptoms (symptoms) | at least 4 weeks  (Concept: Symptoms aspect)"
+      ]
+    },
+    "Measurement": {
+      "inclusion": [
+        "sodium (sodium) | 5 % human albumin ( N-acetyl tryptophan  (Concept: Sodium)"
+      ],
+      "exclusion": [
+        "prior pulmonary function tests (prior pulmonary function tests) |  (Concept: Pulmonary function tests)",
+        "reverse-transcription polymerase chain reaction (reverse-transcription polymerase chain reaction) | at least 4 weeks",
+        "weight (weight) |  (Concept: Body Weight)"
+      ]
+    },
+    "Observation": {
+      "inclusion": [],
+      "exclusion": [
+        "History of (History of) |  (Concept: History)",
+        "exercise (exercise) | at least 4 weeks  (Concept: Exercise)",
+        "fall (fall) |  (Concept: Falls)",
+        "history of (history of) | 5 % human albumin ( N-acetyl tryptophan  (Concept: History)",
+        "stable (stable) |  (Concept: Stable status)",
+        "walk (walk) |  (Concept: Walking (activity))",
+        "walking (walking) |  (Concept: Walking (activity))"
+      ]
+    },
+    "Procedure": {
+      "inclusion": [],
+      "exclusion": [
+        "ECG (ECG) |  (Concept: Electrocardiogram)",
+        "bilateral tubal occlusion (bilateral tubal occlusion) |  (Concept: Tubal sterilization)",
+        "implants (implants) |  (Concept: Implants)",
+        "injectables (injectables) |  (Concept: Injectables)",
+        "method of contraception (method of contraception) |  (Concept: Contraceptive methods)",
+        "pacemaker placement (pacemaker placement) |  (Concept: pacemaker placement)",
+        "surgery (surgery) |  (Concept: Surgery specialty)",
+        "transplant (transplant) |  (Concept: Transplantation)"
+      ]
+    },
+    "Drug": {
+      "inclusion": [
+        "human albumin (human albumin) | 5 % human albumin ( N-acetyl tryptophan  (Concept: Albumin Human, USP)",
+        "ingredients (ingredients) | 5 % human albumin ( N-acetyl tryptophan  (Concept: Has active ingredient)"
+      ],
+      "exclusion": [
+        "combination oral contraceptives (combination oral contraceptives) |  (Concept: physician orders: progestin not combined with other oral contraceptive)",
+        "hormonal contraceptives (hormonal contraceptives) |  (Concept: Contraceptives, Oral, Hormonal)",
+        "investigational product ( s ) (other investigational product ( s )) |  (Concept: Drug Product: Manufacturer(s))",
+        "non-human albumin (non-human albumin) | 5 % human albumin ( N-acetyl tryptophan  (Concept: Albumin Human, USP)"
+      ]
+    }
+  },
+  "mesh_ids": [
+    "D000086382"
+  ],
+  "has_results": false,
+  "_counterfactual": {
+    "original_drug": "Ampion",
+    "replacement_drug": "Cyclophosphamide",
+    "input_drug_name": "Cyclophosphamide",
+    "drugbank_id": "DB00531",
+    "original_nct_id": "NCT04880161"
+  }
+}

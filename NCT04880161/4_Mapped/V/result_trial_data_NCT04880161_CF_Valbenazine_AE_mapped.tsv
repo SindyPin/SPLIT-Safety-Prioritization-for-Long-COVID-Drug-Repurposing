@@ -1,0 +1,201 @@
+trial_id	trial_label	ae_code	ae_kg_id	ae_label	probability
+trial_1	active	9	KG00098432	Confusion NOS	0.2909930646419525
+trial_1	active	87	KG00098599	diarrhoea	0.28185614943504333
+trial_1	active	173	KG00098172	Bronchopneumonia NOS	0.2657480835914612
+trial_1	active	76	KG00100450	Respiratory insufficiency, NOS	0.23749862611293793
+trial_1	active	151	KG00098274	Infarction, Cerebral	0.23458878695964813
+trial_1	active	30	KG00099500	Acute Kidney Failure	0.2179376780986786
+trial_1	active	49	KG00099902	nausea with vomiting	0.2065025418996811
+trial_1	active	77	KG00098450	Constipation NOS	0.2028862088918686
+trial_1	active	102	KG00097916	anxieties	0.19480456411838531
+trial_1	active	199	KG00098371	Rhinitis (chronic) NOS	0.18086685240268707
+trial_1	active	68	KG00099901	nauseas	0.1742449849843979
+trial_1	active	78	KG00099326	Hypertensive diseases	0.1715119481086731
+trial_1	active	20	KG00098540	dehydration	0.16305191814899445
+trial_1	active	11	KG00097993	Asthma NOS	0.16085045039653778
+trial_1	active	86	KG00098565	Depression, Mental	0.15539789199829102
+trial_1	active	79	KG00100317	Insomnia, Primary	0.15015892684459686
+trial_1	active	180	KG00099363	Hypotension NOS	0.1489212065935135
+trial_1	active	221	KG00101207	peripheral oedema	0.1414354145526886
+trial_1	active	131	KG00100948	Urinary tract infection (& [NOS])	0.14041109383106232
+trial_1	active	228	KG00114657	Weight below normal	0.13445600867271423
+trial_1	active	466	KG00101205	fall	0.13122014701366425
+trial_1	active	211	KG00100341	Pruritus NOS	0.11917971074581146
+trial_1	active	394	KG00100243	Pneumonia, Aspiration	0.117869071662426
+trial_1	active	269	KG00100399	pyaemia	0.1158001571893692
+trial_1	active	114	KG00098933	fevers	0.11150743812322617
+trial_1	active	21	KG00098675	dyspnoea	0.10944540053606033
+trial_1	active	66	KG00098642	drowsiness	0.10667788982391357
+trial_1	active	661	KG00101056	Laceration(s)	0.10389140248298645
+trial_1	active	17	KG00097991	Asthenia NOS	0.10089258849620819
+trial_1	active	29	KG00099354	hyponatraemia	0.09936552494764328
+trial_1	active	441	KG00098262	cellulitis nos	0.09904270619153976
+trial_1	active	188	KG00101579	Aspartate aminotransferase increase	0.09863883256912231
+trial_1	active	37	KG00097696	Cramps, Abdominal	0.09811244159936905
+trial_1	active	64	KG00097734	Acrodermatitis, NOS	0.09747130423784256
+trial_1	active	61	KG00099501	Chronic Kidney Failure	0.09431560337543488
+trial_1	active	14	KG00097852	Anemia NOS	0.09251836687326431
+trial_1	active	396	KG00100373	Embolism, Pulmonary	0.09226596355438232
+trial_1	active	123	KG00099351	hypokalaemia	0.09213640540838242
+trial_1	active	177	KG00099299	hyperglycaemia	0.0887899398803711
+trial_1	active	147	KG00098000	atelectases	0.08597210794687271
+trial_1	active	69	KG00100082	Palpitations NOS	0.08592503517866135
+trial_1	active	361	KG00098004	Fibrillation, Atrial	0.08577966690063477
+trial_1	active	276	KG00099127	Arrest, Cardiac	0.08367625623941422
+trial_1	active	101	KG00097901	Anorexia NOS	0.08319772779941559
+trial_1	active	104	KG00097963	arthralgias	0.08139406889677048
+trial_1	active	75	KG00100195	Dolens, Phlegmasia Alba	0.07762127369642258
+trial_1	active	85	KG00098474	coughs	0.07565522193908691
+trial_1	active	268	KG00099557	Heart Failure, Left-Sided	0.07433618605136871
+trial_1	active	189	KG00101580	Alanine aminotransferase increase	0.07327580451965332
+trial_1	active	92	KG00100926	Infections, Upper Respiratory	0.07293050736188889
+trial_1	active	225	KG00104032	Suicidal tendencies	0.07274617999792099
+trial_1	active	138	KG00098796	epidemic vomiting syndrome	0.0725608542561531
+trial_1	active	422	KG00101429	Creatine phosphokinase increased	0.07223382592201233
+trial_1	active	253	KG00100232	Pleural effusion NOS (disorder)	0.07168589532375336
+trial_1	active	15	KG00097882	Angina pectoris NOS	0.07096944004297256
+trial_1	active	713	KG00107657	distressed respiratory	0.07043467462062836
+trial_1	active	31	KG00099872	Infarction, Myocardial	0.06911792606115341
+trial_1	active	317	KG00098586	DIABETES MELLITUS NOS	0.06839420646429062
+trial_1	active	494	KG00099838	Organ Failure, Multiple	0.0683811753988266
+trial_1	active	364	KG00098196	Calculus of gallbladder without mention of cholecystitis	0.06829273700714111
+trial_1	active	239	KG00100128	pareses	0.06595207005739212
+trial_1	active	456	KG00099420	Influenzae	0.0658465027809143
+trial_1	active	98	KG00097718	Incised wound, NOS	0.0647098571062088
+trial_1	active	379	KG00099120	Trauma, Craniocerebral	0.06385353952646255
+trial_1	active	398	KG00100580	Shock, Septic	0.06099149212241173
+trial_1	active	118	KG00099011	Gastritis NOS	0.06042611226439476
+trial_1	active	27	KG00099303	hyperkalaemia	0.06007790192961693
+trial_1	active	341	KG00101472	Gamma-glutamyltransferase increased	0.05993599444627762
+trial_1	active	271	KG00103813	reflex bradycardia	0.058674100786447525
+trial_1	active	373	KG00098613	Digitalis Toxicity	0.05829901620745659
+trial_1	active	352	KG00107658	NON-CARDIAC CHEST PAIN	0.057538341730833054
+trial_1	active	376	KG00098803	epilepsies	0.0565185546875
+trial_1	active	478	KG00103778	antalgic gait	0.05610077455639839
+trial_1	active	397	KG00100456	Infections, Respiratory Tract	0.054918449372053146
+trial_1	active	5	KG00099169	haematuria	0.05474589765071869
+trial_1	active	46	KG00099121	Headache NOS	0.05470002070069313
+trial_1	active	747	KG00101527	Liver function tests abnormal (finding)	0.05383108928799629
+trial_1	active	366	KG00098275	Attack, Transient Ischemic	0.05348208546638489
+trial_1	active	380	KG00099133	Heart failures	0.053292978554964066
+trial_1	active	310	KG00097940	Appendicitis NOS	0.05320832505822182
+trial_1	active	561	KG00104180	Diarrhoea, Clostridium difficile	0.05263202637434006
+trial_1	active	28	KG00099347	hypoglycaemia	0.05258634686470032
+trial_1	active	286	KG00101110	Retention, Urinary	0.052539926022291183
+trial_1	active	25	KG00099134	congestive failures heart	0.05253975838422775
+trial_1	active	97	KG00104198	LIVER ENZYME ELEVATED	0.05236871913075447
+trial_1	active	356	KG00112623	Infectious Lung Disorders	0.0521775484085083
+trial_1	active	139	KG00098855	Sinusitis, Ethmoid	0.051263339817523956
+trial_1	active	457	KG00099853	Pain, Musculoskeletal	0.049329888075590134
+trial_1	active	126	KG00100076	Pain NOS	0.048678040504455566
+trial_1	active	200	KG00098539	Disorders, Deglutition	0.04807504266500473
+trial_1	active	116	KG00098964	Pain in foot	0.04771359637379646
+trial_1	active	96	KG00101679	Unattended death NOS	0.04683835804462433
+trial_1	active	300	KG00101064	xerostomia	0.04631756991147995
+trial_1	active	237	KG00099189	haemoptysis	0.046251874417066574
+trial_1	active	327	KG00098362	Chronic Bronchitis	0.045946355909109116
+trial_1	active	883	KG00107760	Neonatal cardiorespiratory arrest	0.04577082768082619
+trial_1	active	94	KG00103829	abdominal discomfort	0.04573022201657295
+trial_1	active	18	KG00098307	Pain, Chest	0.045166440308094025
+trial_1	active	186	KG00101431	creatinine increased	0.04484739154577255
+trial_1	active	425	KG00098146	Chronic Brain Damage	0.044061459600925446
+trial_2	control	76	KG00100450	Respiratory insufficiency, NOS	0.34702080488204956
+trial_2	control	9	KG00098432	Confusion NOS	0.344514399766922
+trial_2	control	30	KG00099500	Acute Kidney Failure	0.31673663854599
+trial_2	control	87	KG00098599	diarrhoea	0.29394468665122986
+trial_2	control	173	KG00098172	Bronchopneumonia NOS	0.24869385361671448
+trial_2	control	49	KG00099902	nausea with vomiting	0.24029676616191864
+trial_2	control	68	KG00099901	nauseas	0.23001082241535187
+trial_2	control	151	KG00098274	Infarction, Cerebral	0.2191462516784668
+trial_2	control	77	KG00098450	Constipation NOS	0.20766958594322205
+trial_2	control	269	KG00100399	pyaemia	0.2004692256450653
+trial_2	control	114	KG00098933	fevers	0.19118337333202362
+trial_2	control	211	KG00100341	Pruritus NOS	0.19012221693992615
+trial_2	control	78	KG00099326	Hypertensive diseases	0.1807771921157837
+trial_2	control	180	KG00099363	Hypotension NOS	0.17871955037117004
+trial_2	control	123	KG00099351	hypokalaemia	0.16385391354560852
+trial_2	control	37	KG00097696	Cramps, Abdominal	0.1567612737417221
+trial_2	control	276	KG00099127	Arrest, Cardiac	0.15082934498786926
+trial_2	control	147	KG00098000	atelectases	0.15049727261066437
+trial_2	control	21	KG00098675	dyspnoea	0.14960311353206635
+trial_2	control	14	KG00097852	Anemia NOS	0.14879195392131805
+trial_2	control	221	KG00101207	peripheral oedema	0.13880689442157745
+trial_2	control	253	KG00100232	Pleural effusion NOS (disorder)	0.13678421080112457
+trial_2	control	188	KG00101579	Aspartate aminotransferase increase	0.1366812288761139
+trial_2	control	61	KG00099501	Chronic Kidney Failure	0.13559916615486145
+trial_2	control	64	KG00097734	Acrodermatitis, NOS	0.13556350767612457
+trial_2	control	20	KG00098540	dehydration	0.135031595826149
+trial_2	control	11	KG00097993	Asthma NOS	0.12974649667739868
+trial_2	control	494	KG00099838	Organ Failure, Multiple	0.1287405639886856
+trial_2	control	396	KG00100373	Embolism, Pulmonary	0.12624897062778473
+trial_2	control	29	KG00099354	hyponatraemia	0.12441596388816833
+trial_2	control	101	KG00097901	Anorexia NOS	0.1209268718957901
+trial_2	control	79	KG00100317	Insomnia, Primary	0.12021980434656143
+trial_2	control	17	KG00097991	Asthenia NOS	0.11931263655424118
+trial_2	control	69	KG00100082	Palpitations NOS	0.11469438672065735
+trial_2	control	131	KG00100948	Urinary tract infection (& [NOS])	0.11283913999795914
+trial_2	control	102	KG00097916	anxieties	0.11273739486932755
+trial_2	control	177	KG00099299	hyperglycaemia	0.1124439686536789
+trial_2	control	2	KG00100772	thrombocytopaenia	0.11206149309873581
+trial_2	control	228	KG00114657	Weight below normal	0.1106056272983551
+trial_2	control	199	KG00098371	Rhinitis (chronic) NOS	0.10840196162462234
+trial_2	control	130	KG00100683	Stomatitis NOS	0.10835694521665573
+trial_2	control	361	KG00098004	Fibrillation, Atrial	0.10444892942905426
+trial_2	control	398	KG00100580	Shock, Septic	0.10309060662984848
+trial_2	control	441	KG00098262	cellulitis nos	0.10283619910478592
+trial_2	control	713	KG00107657	distressed respiratory	0.10114724934101105
+trial_2	control	189	KG00101580	Alanine aminotransferase increase	0.10092013329267502
+trial_2	control	31	KG00099872	Infarction, Myocardial	0.10042756050825119
+trial_2	control	394	KG00100243	Pneumonia, Aspiration	0.09717819094657898
+trial_2	control	237	KG00099189	haemoptysis	0.09520714730024338
+trial_2	control	104	KG00097963	arthralgias	0.09435881674289703
+trial_2	control	86	KG00098565	Depression, Mental	0.09120907634496689
+trial_2	control	27	KG00099303	hyperkalaemia	0.08952067047357559
+trial_2	control	46	KG00099121	Headache NOS	0.08830124884843826
+trial_2	control	268	KG00099557	Heart Failure, Left-Sided	0.08631296455860138
+trial_2	control	85	KG00098474	coughs	0.08189909905195236
+trial_2	control	35	KG00101507	hypomagnesaemia	0.07683338224887848
+trial_2	control	4	KG00098817	epistaxis	0.07540818303823471
+trial_2	control	75	KG00100195	Dolens, Phlegmasia Alba	0.07421282678842545
+trial_2	control	92	KG00100926	Infections, Upper Respiratory	0.07100164145231247
+trial_2	control	138	KG00098796	epidemic vomiting syndrome	0.07099621742963791
+trial_2	control	186	KG00101431	creatinine increased	0.06816177070140839
+trial_2	control	126	KG00100076	Pain NOS	0.06616328656673431
+trial_2	control	883	KG00107760	Neonatal cardiorespiratory arrest	0.06484149396419525
+trial_2	control	66	KG00098642	drowsiness	0.06450963020324707
+trial_2	control	397	KG00100456	Infections, Respiratory Tract	0.06437727063894272
+trial_2	control	25	KG00099134	congestive failures heart	0.06393520534038544
+trial_2	control	15	KG00097882	Angina pectoris NOS	0.062460508197546005
+trial_2	control	466	KG00101205	fall	0.061682987958192825
+trial_2	control	28	KG00099347	hypoglycaemia	0.060341425240039825
+trial_2	control	380	KG00099133	Heart failures	0.05889195576310158
+trial_2	control	5	KG00099169	haematuria	0.05883767083287239
+trial_2	control	191	KG00104055	Biliverdin increased	0.058225393295288086
+trial_2	control	317	KG00098586	DIABETES MELLITUS NOS	0.05819370225071907
+trial_2	control	350	KG00106765	decreased platelet count	0.057564299553632736
+trial_2	control	661	KG00101056	Laceration(s)	0.057359371334314346
+trial_2	control	356	KG00112623	Infectious Lung Disorders	0.05715542659163475
+trial_2	control	488	KG00098167	Bronchospasm NOS	0.05712626874446869
+trial_2	control	561	KG00104180	Diarrhoea, Clostridium difficile	0.05707190930843353
+trial_2	control	98	KG00097718	Incised wound, NOS	0.05659007281064987
+trial_2	control	747	KG00101527	Liver function tests abnormal (finding)	0.05610654503107071
+trial_2	control	96	KG00101679	Unattended death NOS	0.05391019210219383
+trial_2	control	202	KG00098630	Disturbance of Skin Sensation	0.053080715239048004
+trial_2	control	149	KG00100192	phlebitides	0.05212235823273659
+trial_2	control	144	KG00099610	Leukopenia NOS	0.051980212330818176
+trial_2	control	327	KG00098362	Chronic Bronchitis	0.05179781839251518
+trial_2	control	179	KG00099342	hypocalcaemia	0.051761213690042496
+trial_2	control	94	KG00103829	abdominal discomfort	0.051754653453826904
+trial_2	control	257	KG00100922	Erythema NOS	0.051374420523643494
+trial_2	control	503	KG00102612	low haemoglobin	0.05096219480037689
+trial_2	control	18	KG00098307	Pain, Chest	0.050832003355026245
+trial_2	control	618	KG00099164	haematoma	0.05029310658574104
+trial_2	control	212	KG00100576	shivers	0.04908415302634239
+trial_2	control	302	KG00100163	Pericardial effusions	0.048218920826911926
+trial_2	control	627	KG00099603	Leucocytosis NOS	0.04817494377493858
+trial_2	control	457	KG00099853	Pain, Musculoskeletal	0.04808634892106056
+trial_2	control	352	KG00107658	NON-CARDIAC CHEST PAIN	0.04784906283020973
+trial_2	control	652	KG00100662	Sputums	0.04727507010102272
+trial_2	control	234	KG00098669	dysgeusias	0.04698200523853302
+trial_2	control	116	KG00098964	Pain in foot	0.04648846015334129
+trial_2	control	395	KG00100340	Prurigo NOS	0.045206837356090546

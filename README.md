@@ -277,23 +277,6 @@ The presence of drugs like **baricitinib** (flagged across all avoid lists for N
 
 ---
 
-## 📚 Citation
-
-If you use SPLIT in your research, please cite:
-
-```bibtex
-@article{split2025,
-  title={SPLIT: Integrating Causal Driver Genes with Clinical Knowledge Graphs 
-         for Safety-First Drug Repurposing in Long COVID},
-  author={[Authors]},
-  journal={[Journal]},
-  year={2025},
-  doi={10.xxxx/xxxxx}
-}
-```
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
@@ -326,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or collaborations, please open an issue or contact:
 
-- **Lead Author**: [Name] - [email@institution.edu]
+- **Lead Author**: Sindy Pinero
 - **Project Link**: [https://github.com/yourusername/SPLIT](https://github.com/yourusername/SPLIT)
 
 ---
